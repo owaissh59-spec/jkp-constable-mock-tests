@@ -1,0 +1,52 @@
+{
+  "id": "FEAT-001",
+  "type": "feat",
+  "description": "TEMPLATE (filled in with the real values for test 1). Generate test 1: Section A (General English), Topic: Articles (a / an / the, zero article), 30 questions, difficulty_profile: foundation. Save to mock-tests/tests/1_test_A_articles.json. Then run python3 mock-tests/_record_test.py 1.",
+  "status": "template",
+  "steps": [
+    "Read mock-tests/config.json to confirm next_test, then read the matching entry in mock-tests/manifest.json for the full spec (section, topic, total_questions, difficulty_profile, filename).",
+    "Read ONLY mock-tests/history/A.json to list every existing question stem for this section and avoid exact or reworded duplicates. Do not bulk-read mock-tests/tests/.",
+    "Generate 30 questions on the given topic following the steering prompt. Type distribution for 30Q: Single Correct MCQ 12, Statement-based 5, Assertion-Reason 3, Matching 3, Multiple Correct Combination 3, Fill in the Blank 1, Numerical Value 1, Data Interpretation 2. SUBJECT-FIT SUBSTITUTION: Section A (General English) does not suit Numerical Value or Data Interpretation, so replace those 3 questions with additional Single Correct MCQs -> Single Correct 15, Statement 5, A-R 3, Matching 3, MultiCorrect 3, FillBlank 1. Difficulty distribution for 'foundation': Easy 40%, Medium 40%, Hard 15%, Very Hard 5%. Intersperse types randomly; never more than 3-4 consecutive questions of the same type.",
+    "Calibrate every question to 10+2 level. For Section A, do NOT produce comprehension passages, cloze passages, para jumbles or narration items — they are not in the Constable syllabus.",
+    "Ensure all questions follow the exact JSON schema from Section 5 of the steering prompt. Every explanation must state why the correct option is right AND give a specific reason each of the other three options is wrong (min ~180 characters).",
+    "Balance the answer key across the four option positions (each position used, spread within 3 of each other).",
+    "Save the generated JSON to mock-tests/tests/1_test_A_articles.json.",
+    "Run: python3 mock-tests/_validate.py mock-tests/tests/1_test_A_articles.json and fix any reported failure.",
+    "Run: python3 mock-tests/_record_test.py 1 from the repo root to update history, config, manifest, and STUDY_PLAN.md."
+  ],
+  "reference_count_tables": {
+    "note": "Counts per total-questions N, from Section 1 of the steering prompt. Order: SingleCorrect, Statement, AssertionReason, Matching, MultipleCorrect, FillBlank, NumericalValue, DataInterpretation.",
+    "10": [4, 2, 1, 1, 1, 1, 0, 0],
+    "15": [6, 2, 2, 2, 1, 1, 1, 0],
+    "20": [8, 3, 2, 2, 2, 1, 1, 1],
+    "25": [10, 4, 3, 3, 2, 1, 1, 1],
+    "30": [12, 5, 3, 3, 3, 1, 1, 2],
+    "40": [16, 6, 4, 4, 4, 2, 2, 2],
+    "50": [20, 8, 5, 5, 5, 2, 2, 3],
+    "60": [24, 9, 6, 6, 6, 3, 3, 3],
+    "100": [40, 15, 10, 10, 10, 5, 5, 5]
+  },
+  "reference_full_test_ratio": {
+    "note": "Section-wise question counts for a mixed/full test (A:B:C:D:E = 25:25:10:25:15).",
+    "30": {"A": 8, "B": 8, "C": 3, "D": 7, "E": 4},
+    "40": {"A": 10, "B": 10, "C": 4, "D": 10, "E": 6},
+    "50": {"A": 13, "B": 13, "C": 5, "D": 12, "E": 7},
+    "60": {"A": 15, "B": 15, "C": 6, "D": 15, "E": 9},
+    "100": {"A": 25, "B": 25, "C": 10, "D": 25, "E": 15}
+  },
+  "acceptance_criteria": [
+    "File mock-tests/tests/1_test_A_articles.json exists with valid JSON containing exactly 30 questions",
+    "All question types match the 30Q count table distribution (with the documented Section-A substitution)",
+    "Every question's subject field is a valid section letter A-E",
+    "No question stem duplicates or near-duplicates any entry in history/A.json",
+    "python3 mock-tests/_validate.py <file> exits 0",
+    "python3 mock-tests/_record_test.py 1 runs successfully",
+    "config.json shows next_test: 2 after recording"
+  ],
+  "verification": [
+    "python3 mock-tests/_validate.py mock-tests/tests/1_test_A_articles.json",
+    "python3 mock-tests/_record_test.py 1"
+  ],
+  "blocked_reason": null,
+  "findings": "Fill in after generation: actual type counts, answer-position balance (e.g. A=7, B=8, C=8, D=7), duplicate check result, and the config next_test value."
+}

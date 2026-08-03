@@ -1,0 +1,14 @@
+{
+  "task_id": "_template-generate-tests",
+  "task_description": "TEMPLATE — copy this folder to task-generate-tests-<first>-<last> and fill in the placeholders. Generate N J&K Police Constable mock tests following the plan-driven workflow in .kiro/steering/mock-test-prompt-constable.md, then record each with _record_test.py.",
+  "status": "template",
+  "feature_order": ["FEAT-001", "FEAT-002", "FEAT-003"],
+  "blocked_reason": null,
+  "verification": {
+    "build": "n/a",
+    "tests": "pending",
+    "test_quality": "pending",
+    "docker_build": "skipped",
+    "summary": "Fill in after the batch completes: question counts, type distributions, answer-key balance, duplicate check, and the final next_test value in config.json."
+  }
+}

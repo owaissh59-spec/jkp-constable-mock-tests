@@ -1,0 +1,39 @@
+{
+  "project_type": "Mock test generation system for J&K Police Constable (Executive/Armed/IRP/SDRF) exam prep",
+  "language": "JSON (test files), Python (build/record/validate scripts), Markdown (study plan/steering)",
+  "build_system": "None (content generation project)",
+  "test_framework": "python3 mock-tests/_validate.py <file> checks each test; python3 mock-tests/_record_test.py <N> records it",
+  "build_command": "N/A",
+  "test_command": "python3 mock-tests/_validate.py mock-tests/tests/<file>.json && python3 mock-tests/_record_test.py <N>",
+  "verification_instructions": "After generating each test JSON, run python3 mock-tests/_validate.py on it (checks 4 unique options, sequential ids, correctAnswer membership, explanation length, matching line format, A-R option set, section letters A-E, answer-key balance, and the 25:25:10:25:15 spread on mixed tests). Then run python3 mock-tests/_record_test.py <N> from the repo root; it appends fingerprints to history shards and updates config.json, manifest.json and STUDY_PLAN.md.",
+  "snapshot_or_generated_files": "mock-tests/tests/*.json are generated test files. mock-tests/history/*.json, mock-tests/config.json, mock-tests/manifest.json, and STUDY_PLAN.md are updated by _record_test.py. STUDY_PLAN.md, manifest.json, config.json and the empty history shards are produced by _build_plan.py.",
+  "setup_instructions": "No setup needed. Python 3 standard library only.",
+  "environment_constraints": "No network needed for test generation. Tests are generated as JSON content by the AI agent itself.",
+  "contribution_requirements": "Follow .kiro/steering/mock-test-prompt-constable.md exactly for question format, type counts, difficulty distribution, 10+2 level calibration, and anti-duplication rules. Section A (General English) must NOT contain comprehension passages, cloze passages, para jumbles or narration items — they are not in the Constable syllabus.",
+  "key_patterns": "Each test is a JSON file with subject, topic, total_questions, and a questions array. Each question has id (string '1'..'N'), subject (A-E), questionText (\\n for line breaks), options (exactly 4), correctAnswer (byte-identical copy of one option), explanation (why correct + why each of the other three is wrong). Question types must follow the Section 1 count table. Mixed/full tests follow the 25:25:10:25:15 section ratio. History shards store normalized stems to prevent duplicates.",
+  "exam_blueprint": {
+    "questions": 100,
+    "marks_per_question": 1,
+    "total_marks": 100,
+    "duration_minutes": 120,
+    "negative_marking": "none prescribed",
+    "level": "10+2 for all sections",
+    "sections": {
+      "A": "General English — 25",
+      "B": "General Knowledge & Current Affairs (India) — 25",
+      "C": "General Knowledge — J&K — 10",
+      "D": "Numerical and Reasoning Ability — 25",
+      "E": "Basic Concepts of Computers — 15"
+    }
+  },
+  "relevant_files": [
+    ".kiro/steering/mock-test-prompt-constable.md",
+    "syllabus_constable.md",
+    "mock-tests/config.json",
+    "mock-tests/manifest.json",
+    "mock-tests/history/<SECTION>.json",
+    "mock-tests/_validate.py",
+    "mock-tests/_record_test.py"
+  ],
+  "directory_structure": "Root: README.md, STUDY_PLAN.md, syllabus_constable.md, mock-tests/. mock-tests/: config.json, manifest.json, _build_plan.py, _validate.py, _record_test.py, _normalize.py, tests/ (generated test JSONs), history/ (A-E.json fingerprint shards). .kiro/steering/ has the generation prompt."
+}
