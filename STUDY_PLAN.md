@@ -53,17 +53,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 13 | Morning | B — General Knowledge & Current Affairs (India) | Popular Names of Personalities (Religion, Politics, Science, Sports) | 30 | foundation | Topic-wise | ⬜ |
-| 14 | Afternoon | E — Basic Concepts of Computers | Input & Output Devices | 40 | foundation | Topic-wise | ⬜ |
-| 15 | Late | A — General English | Synonyms & Antonyms | 50 | foundation | Topic-wise | ⬜ |
+| 13 | Morning | B — General Knowledge & Current Affairs (India) | Popular Names of Personalities (Religion, Politics, Science, Sports) | 30 | foundation | Topic-wise | ✅ |
+| 14 | Afternoon | E — Basic Concepts of Computers | Input & Output Devices | 40 | foundation | Topic-wise | ✅ |
+| 15 | Late | A — General English | Synonyms & Antonyms | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 6
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 16 | Morning | D — Numerical and Reasoning Ability | Coding & Decoding | 30 | foundation | Topic-wise | ⬜ |
-| 17 | Afternoon | C — General Knowledge — J&K | Weather, Climate & Crops of J&K | 40 | foundation | Topic-wise | ⬜ |
-| 18 | Late | B — General Knowledge & Current Affairs (India) | The Newspaper World & Books/Authors | 50 | foundation | Topic-wise | ⬜ |
+| 16 | Morning | D — Numerical and Reasoning Ability | Coding & Decoding | 30 | foundation | Topic-wise | ✅ |
+| 17 | Afternoon | C — General Knowledge — J&K | Weather, Climate & Crops of J&K | 40 | foundation | Topic-wise | ✅ |
+| 18 | Late | B — General Knowledge & Current Affairs (India) | The Newspaper World & Books/Authors | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 7
 

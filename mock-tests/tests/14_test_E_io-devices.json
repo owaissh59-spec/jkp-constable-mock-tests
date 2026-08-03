@@ -1,0 +1,327 @@
+{
+  "subject": "E",
+  "topic": "Input & Output Devices",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which of the following is an input device that converts printed text or images into digital format?",
+      "options": ["Scanner", "Printer", "Monitor", "Speaker"],
+      "correctAnswer": "Scanner",
+      "explanation": "A scanner is an input device that reads printed text, photos, or documents and converts them into digital data the computer can process. Printer is wrong — it is an output device that produces hard copies. Monitor is wrong — it is an output device that displays information visually. Speaker is wrong — it is an output device that produces sound."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about input devices:\n\n(i) A keyboard is the most common input device for entering text.\n(ii) A mouse is a pointing device used to control the cursor.\n(iii) A webcam captures video and sends it to the computer.\n(iv) A projector is an input device used for presentations.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — the keyboard is the primary device for typing text, numbers, and commands. (ii) is correct — the mouse controls cursor movement and enables clicking, dragging, and scrolling. (iii) is correct — a webcam captures live video/images and sends them as input to the computer. (iv) is wrong — a projector is an OUTPUT device that displays computer output on a large screen."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "A barcode reader works by:",
+      "options": ["Scanning light patterns of bars and spaces and converting them into digital data", "Printing barcodes on products", "Displaying barcodes on a monitor", "Storing barcodes in memory permanently"],
+      "correctAnswer": "Scanning light patterns of bars and spaces and converting them into digital data",
+      "explanation": "A barcode reader uses a laser or LED light to scan the pattern of black bars and white spaces, then decodes them into numerical/text data. 'Printing barcodes' is wrong — that's done by a barcode printer. 'Displaying barcodes' is wrong — that's a monitor's function. 'Storing barcodes permanently' is wrong — barcode readers read data in real-time, they don't store it permanently."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A touchscreen is classified as both an input and output device.\nReason (R): A touchscreen displays visual output to the user while simultaneously accepting touch-based input commands.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — touchscreens serve dual functions as input and output devices. Reason (R) is also correct — they display information (output) and detect finger touches (input). (R) explains (A) because the dual functionality described in (R) is exactly what makes a touchscreen both input and output. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Match the following devices with their classification:\n\nColumn I:\n(a) Keyboard\n(b) Monitor\n(c) Printer\n(d) Microphone\n\nColumn II:\n(i) Output device (visual)\n(ii) Input device (audio)\n(iii) Input device (text)\n(iv) Output device (hard copy)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "(a) Keyboard = input device for entering text and commands — matches (iii). (b) Monitor = output device displaying visual information — matches (i). (c) Printer = output device producing hard copies on paper — matches (iv). (d) Microphone = input device capturing audio/sound — matches (ii). Option 2 swaps keyboard and monitor. Option 3 swaps monitor and printer. Option 4 swaps printer and microphone."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are pointing input devices?\n\n(i) Mouse\n(ii) Trackball\n(iii) Joystick\n(iv) Keyboard\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) Mouse — a pointing device that moves the cursor via hand movement on a surface ✓. (ii) Trackball — a stationary pointing device with a ball rotated by thumb/fingers ✓. (iii) Joystick — a pointing device used mainly for games and flight simulators ✓. (iv) Keyboard is wrong — it is a TEXT input device, not a pointing device. Pointing devices specifically control cursor position."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "The difference between an impact printer and a non-impact printer is:",
+      "options": ["Impact printers physically strike the paper; non-impact printers use ink spray, laser, or heat without striking", "Impact printers are faster than non-impact printers", "Non-impact printers cannot print in colour", "Impact printers are completely silent"],
+      "correctAnswer": "Impact printers physically strike the paper; non-impact printers use ink spray, laser, or heat without striking",
+      "explanation": "Impact printers (dot matrix, daisy wheel) use physical contact — pins or hammers strike an ink ribbon against paper. Non-impact printers (inkjet, laser) produce output without mechanical striking. 'Impact printers are faster' is wrong — non-impact printers (laser) are generally faster. 'Non-impact cannot print colour' is wrong — inkjet printers (non-impact) print in colour. 'Impact printers are silent' is wrong — impact printers are NOISY due to mechanical striking."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Consider the following statements about output devices:\n\n(i) A monitor is a softcopy output device.\n(ii) A printer is a hardcopy output device.\n(iii) Speakers produce audio output.\n(iv) A scanner is an output device that produces digital images.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — a monitor displays soft copy (temporary, on-screen output that disappears when turned off). (ii) is correct — a printer produces hard copy (permanent output on paper). (iii) is correct — speakers convert electrical signals to sound waves (audio output). (iv) is wrong — a scanner is an INPUT device (it sends data INTO the computer), not an output device."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Fill in the blank: A device that reads magnetic data from the back of credit/debit cards is called a __________ reader.",
+      "options": ["Magnetic stripe", "Barcode", "Optical mark", "Smart card chip"],
+      "correctAnswer": "Magnetic stripe",
+      "explanation": "A magnetic stripe reader reads data encoded on the magnetic stripe (black stripe) on the back of credit/debit cards. 'Barcode' is wrong — barcode readers scan printed bar patterns, not magnetic stripes. 'Optical mark' is wrong — OMR reads pencil marks on paper (like exam sheets). 'Smart card chip' is wrong — chip readers read embedded microchips, not the magnetic stripe."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A plotter is preferred over a regular printer for producing large-format engineering drawings and maps.\nReason (R): Plotters can print on very large paper sizes and produce precise, high-quality vector graphics with continuous lines.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — plotters are the standard choice for architectural/engineering drawings. Reason (R) is also correct — plotters handle large paper formats (A0, A1) and draw precise vector lines. (R) explains (A) because the large format and precision capabilities are exactly why plotters are preferred for technical drawings. Option 2 is wrong because (R) gives the technical reason for (A). Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Which of the following is NOT an output device?",
+      "options": ["Light Pen", "Projector", "Plotter", "Speaker"],
+      "correctAnswer": "Light Pen",
+      "explanation": "A Light Pen is an INPUT device — it detects light on a monitor screen and allows users to point at or draw on the display. Projector is wrong — it IS an output device (projects images onto a surface). Plotter is wrong — it IS an output device (produces large-format prints). Speaker is wrong — it IS an output device (produces audio)."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Match the following output devices with their primary function:\n\nColumn I:\n(a) Laser printer\n(b) Speaker\n(c) Projector\n(d) Headphones\n\nColumn II:\n(i) Personal audio output\n(ii) Large-screen visual display for presentations\n(iii) High-quality text and image printing\n(iv) Audio output for a room\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "(a) Laser printer produces high-quality printed documents — matches (iii). (b) Speaker outputs sound for a room/area — matches (iv). (c) Projector displays images/video on a large screen — matches (ii). (d) Headphones deliver personal/private audio to one user — matches (i). Option 2 swaps printer and speaker. Option 3 swaps speaker and projector. Option 4 swaps projector and headphones."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "An Optical Character Recognition (OCR) device is used to:",
+      "options": ["Convert printed or handwritten text into machine-readable digital text", "Print characters on paper", "Display characters on a monitor", "Record voice and convert to text"],
+      "correctAnswer": "Convert printed or handwritten text into machine-readable digital text",
+      "explanation": "OCR scans physical documents and uses pattern recognition to convert text characters into editable digital format. 'Print characters' is wrong — that's a printer's function. 'Display characters' is wrong — that's a monitor's function. 'Record voice to text' is wrong — that's voice recognition/speech-to-text software, not OCR."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Consider the following statements about the mouse:\n\n(i) A mouse can be wired (USB/PS2) or wireless (Bluetooth/RF).\n(ii) An optical mouse uses a laser or LED to detect movement.\n(iii) A mouse typically has left button, right button, and scroll wheel.\n(iv) A mouse is an output device for displaying the cursor.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — mice come in wired (USB, PS/2 connector) and wireless (Bluetooth, radio frequency) varieties. (ii) is correct — optical mice use LED/laser light reflected off surfaces to track movement. (iii) is correct — standard mice have two buttons and a scroll wheel. (iv) is wrong — a mouse is an INPUT device; it sends movement/click data to the computer. The cursor is displayed by the monitor (output)."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Which type of printer uses a laser beam and toner powder to produce prints?",
+      "options": ["Laser printer", "Inkjet printer", "Dot matrix printer", "Thermal printer"],
+      "correctAnswer": "Laser printer",
+      "explanation": "A laser printer uses a focused laser beam to create an electrostatic image on a drum, which attracts toner powder and transfers it to paper using heat and pressure. Inkjet printer is wrong — it sprays liquid ink droplets. Dot matrix printer is wrong — it uses pins striking an ink ribbon. Thermal printer is wrong — it uses heat on special thermal paper."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): OMR (Optical Mark Recognition) is widely used for evaluating multiple-choice examination answer sheets.\nReason (R): OMR detects the presence or absence of pencil marks in predefined positions on specially designed sheets, enabling fast and accurate evaluation.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — OMR sheets are standard for competitive exams (SSC, UPSC, Board exams). Reason (R) is also correct — OMR readers detect light reflection differences between marked (darker) and unmarked (lighter) areas. (R) explains (A) because this capability to quickly read marks is exactly what makes OMR suitable for mass exam evaluation. Option 2 is wrong because (R) gives the technical reason. Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Which of the following are examples of softcopy output?\n\n(i) Output displayed on a monitor screen\n(ii) Output shown through a projector\n(iii) A printed document\n(iv) Audio played through speakers\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) Monitor display = softcopy (temporary, electronic, cannot be touched) ✓. (ii) Projector display = softcopy (projected light image, temporary) ✓. (iv) Audio from speakers = softcopy (transient sound output) ✓. (iii) Printed document = HARDCOPY (permanent, tangible, on paper), NOT softcopy."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "A MICR (Magnetic Ink Character Recognition) reader is primarily used in:",
+      "options": ["Banking — to read cheque numbers and account details", "Hospitals — to read prescriptions", "Schools — to read exam answer sheets", "Retail stores — to read product barcodes"],
+      "correctAnswer": "Banking — to read cheque numbers and account details",
+      "explanation": "MICR technology reads characters printed with magnetic ink on cheques (account number, cheque number, bank code) for fast and secure processing. 'Hospitals for prescriptions' is wrong — prescriptions are handwritten or electronic, not MICR-encoded. 'Schools for answer sheets' is wrong — that uses OMR technology. 'Retail for barcodes' is wrong — that uses barcode scanners."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Fill in the blank: A __________ is an output device that converts digital audio signals into sound waves that humans can hear.",
+      "options": ["Speaker", "Microphone", "Scanner", "Webcam"],
+      "correctAnswer": "Speaker",
+      "explanation": "A speaker converts electrical/digital audio signals into sound waves through vibration of a diaphragm. Microphone is wrong — it does the REVERSE (converts sound to electrical signals — input). Scanner is wrong — it converts visual images to digital data (input). Webcam is wrong — it captures video (input)."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Consider the following statements about the keyboard:\n\n(i) A standard keyboard has approximately 104 keys.\n(ii) Function keys (F1–F12) perform special operations.\n(iii) The numeric keypad is located on the left side of the keyboard.\n(iv) Arrow keys are used for cursor movement.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — a standard full-size keyboard has about 104 keys (may vary slightly). (ii) is correct — F1 through F12 perform shortcut functions (e.g., F1 = Help, F5 = Refresh). (iv) is correct — the four arrow keys (↑↓←→) move the cursor in documents and interfaces. (iii) is wrong — the numeric keypad is on the RIGHT side of the keyboard, not the left."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Which device is used to convert physical photographs into digital images for computer storage?",
+      "options": ["Scanner", "Digital camera", "Printer", "Plotter"],
+      "correctAnswer": "Scanner",
+      "explanation": "A scanner digitizes existing physical photographs/documents by passing light over them and creating a digital copy. Digital camera is wrong — while it creates digital images, it captures NEW photos, not existing physical ones. Printer is wrong — it produces physical copies FROM digital data. Plotter is wrong — it's an output device for large-format printing."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An inkjet printer is more suitable for home use than a laser printer for most users.\nReason (R): Inkjet printers have lower initial cost, can print in colour, and handle occasional printing needs well, despite higher per-page costs.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — inkjet printers are the most common home printers. Reason (R) is also correct — they are affordable upfront, print colour photos, and suit low-volume home use. (R) explains (A) because these practical advantages (cost, colour capability, suitability for occasional use) are exactly why home users prefer inkjets. Option 2 is wrong because (R) gives the reasons for (A). Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is generally correct."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Match the following input devices with their primary uses:\n\nColumn I:\n(a) OMR reader\n(b) MICR reader\n(c) Barcode scanner\n(d) Biometric scanner\n\nColumn II:\n(i) Reading product codes in retail stores\n(ii) Reading pencil marks on exam sheets\n(iii) Reading magnetic ink on cheques\n(iv) Fingerprint or iris recognition for security\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) OMR reads pencil marks on answer sheets — matches (ii). (b) MICR reads magnetic ink characters on bank cheques — matches (iii). (c) Barcode scanner reads product barcodes in shops — matches (i). (d) Biometric scanner reads fingerprints/iris patterns for authentication — matches (iv). Option 2 swaps OMR and MICR. Option 3 swaps MICR and barcode. Option 4 swaps barcode and biometric."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of a dot matrix printer?\n\n(i) It is an impact printer.\n(ii) It uses pins to strike an ink ribbon against paper.\n(iii) It is very quiet during operation.\n(iv) It can produce carbon copies (multi-part forms).\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — dot matrix is an impact printer (mechanical contact with paper). (ii) is correct — it uses 9 or 24 pins arranged in a column to strike through an ink ribbon. (iv) is correct — because of physical impact, it can print through multiple carbon copies simultaneously. (iii) is wrong — dot matrix printers are NOISY because of the physical striking mechanism."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "A digital camera is classified as:",
+      "options": ["An input device", "An output device", "A storage device", "A processing device"],
+      "correctAnswer": "An input device",
+      "explanation": "A digital camera is an input device — it captures images/video and sends them to the computer for processing and storage. 'Output device' is wrong — cameras don't display or produce output from the computer. 'Storage device' is wrong — while cameras have memory cards, their primary function is INPUT (capturing images). 'Processing device' is wrong — cameras don't process data like a CPU."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Consider the following statements about monitors:\n\n(i) LCD stands for Liquid Crystal Display.\n(ii) LED monitors use Light Emitting Diodes for backlighting.\n(iii) CRT monitors are thinner and lighter than LCD monitors.\n(iv) Resolution of a monitor is measured in pixels.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — LCD = Liquid Crystal Display, using liquid crystals to form images. (ii) is correct — LED monitors use LEDs as the backlight source (they are a type of LCD). (iv) is correct — resolution is expressed as width × height in pixels (e.g., 1920×1080). (iii) is wrong — CRT (Cathode Ray Tube) monitors are BULKY and HEAVY, much thicker than flat LCD/LED monitors."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "A joystick is primarily used as an input device for:",
+      "options": ["Controlling movement in video games and flight simulators", "Typing text documents", "Printing large format drawings", "Scanning photographs"],
+      "correctAnswer": "Controlling movement in video games and flight simulators",
+      "explanation": "A joystick is a pointing/control input device primarily used for gaming, flight simulation, and industrial control where directional movement is needed. 'Typing text' is wrong — keyboards handle text input. 'Printing drawings' is wrong — plotters handle large format output. 'Scanning photographs' is wrong — scanners handle digitization."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Match the following types of printers with their technology:\n\nColumn I:\n(a) Dot matrix printer\n(b) Inkjet printer\n(c) Laser printer\n(d) Thermal printer\n\nColumn II:\n(i) Uses heat on special heat-sensitive paper\n(ii) Uses pins striking through an ink ribbon\n(iii) Uses toner and laser beam\n(iv) Sprays tiny ink droplets through nozzles\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) Dot matrix uses pins striking an ink ribbon — matches (ii). (b) Inkjet sprays ink droplets — matches (iv). (c) Laser uses toner with a laser beam — matches (iii). (d) Thermal uses heat on thermal paper (receipt printers) — matches (i). Option 2 swaps dot matrix and inkjet. Option 3 swaps inkjet and laser. Option 4 swaps laser and thermal."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "The resolution of a printer is measured in:",
+      "options": ["DPI (Dots Per Inch)", "GHz (Gigahertz)", "MB (Megabytes)", "Pixels"],
+      "correctAnswer": "DPI (Dots Per Inch)",
+      "explanation": "Printer resolution is measured in DPI — the number of individual dots a printer can place within one inch. Higher DPI means sharper prints. GHz is wrong — that measures processor speed. MB is wrong — that measures storage/memory size. Pixels is wrong — that measures screen resolution, not printer resolution."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Consider the following statements about voice recognition systems:\n\n(i) They convert spoken words into text or commands.\n(ii) They are classified as input devices/technology.\n(iii) Examples include Siri, Google Assistant, and Alexa.\n(iv) They produce sound output to the user.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — voice recognition converts speech into digital text or executable commands. (ii) is correct — as a method of entering data/commands, it functions as input. (iii) is correct — Siri (Apple), Google Assistant, Alexa (Amazon) all use voice recognition. (iv) is wrong — voice recognition is an INPUT technology; the speech synthesis that responds is a separate OUTPUT function (text-to-speech)."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A laser printer is generally faster than an inkjet printer.\nReason (R): Laser printers process and print an entire page at once using a rotating drum and toner, while inkjet printers print line by line moving a print head back and forth.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — laser printers typically print 20-50+ pages per minute vs 5-15 for inkjets. Reason (R) is also correct — the page-at-a-time approach of laser printing is inherently faster than the line-by-line inkjet method. (R) explains (A) because the full-page processing mechanism is the technological reason for the speed advantage. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is technically accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Which of the following devices can serve as BOTH input and output?",
+      "options": ["Touchscreen", "Keyboard", "Printer", "Scanner"],
+      "correctAnswer": "Touchscreen",
+      "explanation": "A touchscreen serves dual functions: it DISPLAYS information (output) and ACCEPTS touch commands (input). Keyboard is wrong — it is input only (sends keystrokes to computer). Printer is wrong — it is output only (produces hardcopy from computer). Scanner is wrong — it is input only (sends scanned data to computer)."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Which of the following are wireless input devices?\n\n(i) Bluetooth keyboard\n(ii) Wireless mouse\n(iii) USB wired scanner\n(iv) Wireless microphone\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) Bluetooth keyboard — connects wirelessly via Bluetooth ✓. (ii) Wireless mouse — connects via RF dongle or Bluetooth ✓. (iv) Wireless microphone — transmits audio wirelessly ✓. (iii) USB wired scanner is wrong — a USB-connected scanner uses a physical cable (wired), not wireless."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "The term 'hard copy' refers to:",
+      "options": ["Output printed on paper that can be physically touched and stored", "Output displayed on a computer monitor", "Data stored on a hard disk", "Audio played through speakers"],
+      "correctAnswer": "Output printed on paper that can be physically touched and stored",
+      "explanation": "Hard copy is permanent, tangible output produced by a printer or plotter on paper or similar medium. 'Monitor display' is wrong — that's soft copy (temporary, electronic). 'Data on hard disk' is wrong — that's stored data, not output in the traditional sense. 'Audio from speakers' is wrong — sound is transient soft copy output."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Consider the following statements about the scanner:\n\n(i) A flatbed scanner scans documents placed on a glass surface.\n(ii) A handheld scanner is portable and moved over the document manually.\n(iii) Scanners output data at a resolution measured in DPI.\n(iv) Scanners can only scan black and white documents.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — flatbed scanners have a glass plate where documents are placed face-down for scanning. (ii) is correct — handheld scanners are moved by hand across the document (like portable barcode scanners). (iii) is correct — scanner resolution is measured in DPI (e.g., 300 DPI, 600 DPI, 1200 DPI). (iv) is wrong — modern scanners can scan in FULL COLOUR as well as greyscale and black-and-white."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "A graphics tablet (digitizer) is an input device used primarily by:",
+      "options": ["Artists and designers for drawing and digital illustration", "Accountants for entering financial data", "Doctors for writing prescriptions", "Musicians for recording songs"],
+      "correctAnswer": "Artists and designers for drawing and digital illustration",
+      "explanation": "A graphics tablet (with a stylus pen) allows artists and designers to draw naturally on a surface, which translates into digital art on the computer. 'Accountants' is wrong — they use keyboards and spreadsheets. 'Doctors for prescriptions' is wrong — while tablets exist for medical use, graphics tablets are specifically for visual art. 'Musicians' is wrong — they use MIDI controllers and audio interfaces."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Match the following devices with whether they are input, output, or both:\n\nColumn I:\n(a) Webcam\n(b) Headset with microphone\n(c) Monitor\n(d) Modem\n\nColumn II:\n(i) Output only\n(ii) Both input and output\n(iii) Input only\n(iv) Both input and output (sends and receives data)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) Webcam = input only (captures video/images) — matches (iii). (b) Headset with mic = both (mic inputs audio, earphones output audio) — matches (ii). (c) Monitor = output only (displays visuals) — matches (i). (d) Modem = both input and output (receives data from internet, sends data to internet) — matches (iv). Option 2 swaps webcam and headset. Option 3 swaps headset and monitor. Option 4 swaps monitor and modem."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "The device that produces three-dimensional physical objects from digital designs is called a:",
+      "options": ["3D Printer", "Laser printer", "Plotter", "Inkjet printer"],
+      "correctAnswer": "3D Printer",
+      "explanation": "A 3D printer creates three-dimensional physical objects by depositing material (plastic, metal, resin) layer by layer from a digital 3D model. Laser printer is wrong — it produces 2D prints on flat paper. Plotter is wrong — it draws 2D graphics on large paper. Inkjet printer is wrong — it sprays ink on paper for 2D printing."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Consider the following statements about multimedia input devices:\n\n(i) A webcam captures real-time video.\n(ii) A microphone captures audio/voice input.\n(iii) A digital camera captures still images and video.\n(iv) A monitor captures user gestures as input.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — webcams stream real-time video to the computer. (ii) is correct — microphones convert sound waves into digital audio data. (iii) is correct — digital cameras capture high-quality photos and video as input. (iv) is wrong — a standard monitor is an OUTPUT device; it does not capture gestures. Gesture input requires special sensors (like Kinect or IR cameras)."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Which of the following best describes the function of a 'Smart Card Reader'?",
+      "options": ["It reads data from an embedded microchip on a smart card for authentication or transactions", "It reads barcodes printed on products", "It prints smart cards", "It displays card information on a monitor"],
+      "correctAnswer": "It reads data from an embedded microchip on a smart card for authentication or transactions",
+      "explanation": "A smart card reader communicates with the microchip embedded in smart cards (bank cards, ID cards, SIM cards) to read/write data for authentication or transactions. 'Reads barcodes' is wrong — that's a barcode reader. 'Prints smart cards' is wrong — that's a card printer. 'Displays card information' is wrong — displaying is the monitor's job; the reader only extracts data from the chip."
+    }
+  ]
+}
