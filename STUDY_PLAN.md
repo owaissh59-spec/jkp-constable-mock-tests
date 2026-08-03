@@ -21,17 +21,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 1 | Morning | A — General English | Articles & Clauses | 30 | foundation | Topic-wise | ⬜ |
-| 2 | Afternoon | B — General Knowledge & Current Affairs (India) | Important Dates in Indian History/Freedom Struggle | 40 | foundation | Topic-wise | ⬜ |
-| 3 | Late | D — Numerical and Reasoning Ability | Number System & Simplification | 50 | foundation | Topic-wise | ⬜ |
+| 1 | Morning | A — General English | Articles & Clauses | 30 | foundation | Topic-wise | ✅ |
+| 2 | Afternoon | B — General Knowledge & Current Affairs (India) | Important Dates in Indian History/Freedom Struggle | 40 | foundation | Topic-wise | ✅ |
+| 3 | Late | D — Numerical and Reasoning Ability | Number System & Simplification | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 2
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 4 | Morning | C — General Knowledge — J&K | Abbreviations & Important Dates of J&K | 30 | foundation | Topic-wise | ⬜ |
-| 5 | Afternoon | E — Basic Concepts of Computers | Computer Terminology & Fundamentals | 40 | foundation | Topic-wise | ⬜ |
-| 6 | Late | A — General English | Pronouns & Tenses | 50 | foundation | Topic-wise | ⬜ |
+| 4 | Morning | C — General Knowledge — J&K | Abbreviations & Important Dates of J&K | 30 | foundation | Topic-wise | ✅ |
+| 5 | Afternoon | E — Basic Concepts of Computers | Computer Terminology & Fundamentals | 40 | foundation | Topic-wise | ✅ |
+| 6 | Late | A — General English | Pronouns & Tenses | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 3
 

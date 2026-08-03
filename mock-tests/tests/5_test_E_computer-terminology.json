@@ -1,0 +1,327 @@
+{
+  "subject": "E",
+  "topic": "Computer Terminology & Fundamentals",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "The brain of a computer that performs all calculations and logical operations is called the:",
+      "options": ["Hard Disk", "Central Processing Unit", "Random Access Memory", "Motherboard"],
+      "correctAnswer": "Central Processing Unit",
+      "explanation": "The Central Processing Unit (CPU) is called the brain of the computer as it performs all arithmetic and logical operations. Hard Disk is wrong — it is a storage device that stores data permanently, not a processing unit. Random Access Memory is wrong — RAM is temporary memory that holds data during processing but does not perform calculations. Motherboard is wrong — it is the main circuit board that connects all components but does not itself perform calculations."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer hardware:\n\n(i) RAM is a volatile memory that loses data when power is turned off.\n(ii) ROM stores permanent instructions that cannot be modified by the user.\n(iii) The hard disk is a type of primary memory.\n(iv) Cache memory is faster than RAM.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — RAM (Random Access Memory) is volatile; all stored data is lost when the computer is switched off. (ii) is correct — ROM (Read Only Memory) contains firmware/BIOS instructions written during manufacturing that users typically cannot modify. (iv) is correct — cache memory is a small, high-speed memory between the CPU and RAM that is significantly faster than RAM. (iii) is wrong — hard disk is a secondary (permanent) storage device, not primary memory. Primary memory includes RAM and ROM."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The full form of 'USB' in computer terminology is:",
+      "options": ["Universal Serial Bus", "United System Base", "Universal Storage Buffer", "Unified Serial Bridge"],
+      "correctAnswer": "Universal Serial Bus",
+      "explanation": "'USB' stands for Universal Serial Bus, a standard interface for connecting peripheral devices to a computer. 'United System Base' is wrong — this is not a recognized computer term. 'Universal Storage Buffer' is wrong — USB is a connectivity standard, not a storage buffer. 'Unified Serial Bridge' is wrong — this is not the correct expansion of USB."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer cannot function without an operating system.\nReason (R): The operating system manages hardware resources and provides a platform for application software to run.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — a standard computer requires an operating system to function and interact with users (though technically embedded systems may run without a full OS, for practical purposes at 10+2 level, computers need an OS). Reason (R) is also correct — the OS manages CPU, memory, storage, I/O devices, and provides the interface for applications. (R) explains (A) because without an OS to manage resources and run software, the computer hardware cannot be used productively. Option 2 is wrong because (R) directly explains why (A) is true. Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Match the following computer terms with their meanings:\n\nColumn I:\n(a) Byte\n(b) Bit\n(c) Nibble\n(d) Kilobyte\n\nColumn II:\n(i) 4 bits\n(ii) 1024 bytes\n(iii) 8 bits\n(iv) Smallest unit of data (0 or 1)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "(a) Byte = 8 bits — matches (iii). (b) Bit = the smallest unit of data, representing either 0 or 1 — matches (iv). (c) Nibble = 4 bits (half a byte) — matches (i). (d) Kilobyte = 1024 bytes — matches (ii). Option 2 swaps Byte and Bit. Option 3 swaps Nibble and Kilobyte. Option 4 swaps Byte and Nibble."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are examples of system software?\n\n(i) Operating System\n(ii) Microsoft Word\n(iii) Device Drivers\n(iv) Compiler\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — the Operating System (Windows, Linux) is the primary system software that manages computer resources. (iii) is correct — Device Drivers are system software that enable the OS to communicate with hardware peripherals. (iv) is correct — Compilers are system software that translate high-level programming languages into machine code. (ii) is wrong — Microsoft Word is an application software (word processor) used by end-users for specific tasks, not system software."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "The term 'booting' in computers refers to:",
+      "options": ["The process of starting up the computer and loading the operating system", "The process of shutting down the computer", "The process of installing new software", "The process of connecting to the internet"],
+      "correctAnswer": "The process of starting up the computer and loading the operating system",
+      "explanation": "'Booting' refers to the process of starting up a computer, during which the BIOS/UEFI performs POST (Power-On Self-Test) and then loads the operating system from the storage device into RAM. 'Shutting down the computer' is wrong — that process is called 'shutdown' or 'power off'. 'Installing new software' is wrong — that is called 'software installation'. 'Connecting to the internet' is wrong — that is called 'establishing a network/internet connection'."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Consider the following statements about generations of computers:\n\n(i) First generation computers used vacuum tubes.\n(ii) Second generation computers used transistors.\n(iii) Third generation computers used microprocessors.\n(iv) Fourth generation computers used integrated circuits (ICs) with VLSI technology.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — first generation (1940s–1950s) used vacuum tubes (e.g., ENIAC, UNIVAC). (ii) is correct — second generation (1950s–1960s) used transistors, making computers smaller and faster. (iv) is correct — fourth generation (1970s–present) uses VLSI (Very Large Scale Integration) microprocessor technology. (iii) is wrong — third generation (1960s–1970s) used Integrated Circuits (ICs with SSI/MSI), not microprocessors. Microprocessors came in the fourth generation."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Fill in the blank: The full form of 'CPU' is Central __________ Unit.",
+      "options": ["Processing", "Programming", "Peripheral", "Primary"],
+      "correctAnswer": "Processing",
+      "explanation": "'CPU' stands for Central Processing Unit — the component that processes instructions and performs calculations. 'Programming' is wrong — CPU is not called Central Programming Unit; programming refers to writing code. 'Peripheral' is wrong — peripherals are external devices, not the central unit. 'Primary' is wrong — 'primary' is used with memory, not with the processing unit."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): RAM is called volatile memory.\nReason (R): RAM loses all its stored data when the power supply is switched off.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — RAM is classified as volatile memory. Reason (R) is also correct — when power is cut, all data in RAM is erased. (R) directly explains (A) because the very definition of 'volatile' memory is that it loses data without continuous power supply. Option 2 is wrong because (R) is the definition of why RAM is called volatile. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Which of the following is NOT an input device?",
+      "options": ["Keyboard", "Mouse", "Monitor", "Scanner"],
+      "correctAnswer": "Monitor",
+      "explanation": "A monitor is an output device — it displays processed information visually to the user. Keyboard is wrong — it is an input device used to type data and commands. Mouse is wrong — it is an input device used for pointing and clicking. Scanner is wrong — it is an input device that converts physical documents into digital format."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Consider the following statements about the term 'software':\n\n(i) Software refers to a set of instructions that tells the computer what to do.\n(ii) Software can be physically touched.\n(iii) Software is classified into system software and application software.\n(iv) An operating system is an example of application software.\n\nWhich of the statements given above are correct?",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — software is a collection of programs/instructions that direct the computer to perform tasks. (iii) is correct — software is broadly classified into system software (OS, drivers, compilers) and application software (Word, Excel, games). (ii) is wrong — software is intangible (non-physical); only hardware can be physically touched. (iv) is wrong — an operating system is system software, not application software."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Match the following abbreviations with their full forms:\n\nColumn I:\n(a) ALU\n(b) BIOS\n(c) GUI\n(d) POST\n\nColumn II:\n(i) Basic Input/Output System\n(ii) Power-On Self-Test\n(iii) Graphical User Interface\n(iv) Arithmetic Logic Unit\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "(a) ALU = Arithmetic Logic Unit — the part of CPU that performs mathematical and logical operations — matches (iv). (b) BIOS = Basic Input/Output System — firmware that initializes hardware during booting — matches (i). (c) GUI = Graphical User Interface — allows users to interact using icons and windows — matches (iii). (d) POST = Power-On Self-Test — diagnostic test performed when computer starts — matches (ii). Option 2 swaps ALU and BIOS. Option 3 swaps BIOS and GUI. Option 4 swaps GUI and POST."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "The binary number system uses which digits?",
+      "options": ["0 and 1", "0 to 7", "0 to 9", "0 to 15"],
+      "correctAnswer": "0 and 1",
+      "explanation": "The binary number system (base-2) uses only two digits: 0 and 1. All computer data is ultimately stored and processed in binary. '0 to 7' is wrong — that describes the octal number system (base-8). '0 to 9' is wrong — that describes the decimal number system (base-10). '0 to 15' is wrong — that describes the hexadecimal system (base-16, using 0–9 and A–F)."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Which of the following are output devices?\n\n(i) Printer\n(ii) Speaker\n(iii) Joystick\n(iv) Projector\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — a printer is an output device that produces hard copies (printed documents) from digital data. (ii) is correct — a speaker is an output device that converts electrical signals into audible sound. (iv) is correct — a projector is an output device that displays images/videos on a screen or surface. (iii) is wrong — a joystick is an input device used to control movement in games and applications."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer is called a versatile machine.\nReason (R): A computer can perform different types of tasks — from simple calculations to complex data analysis, graphic design, and multimedia processing.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — versatility (ability to perform diverse tasks) is a key characteristic of computers. Reason (R) is also correct — computers can handle calculations, word processing, multimedia, communication, and much more. (R) explains (A) because the ability to perform such diverse tasks is exactly what makes a computer versatile. Option 2 is wrong because (R) is the definition of versatility applied to (A). Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "The term 'hardware' in computing refers to:",
+      "options": ["Physical components of a computer that can be touched", "Programs and instructions stored in the computer", "Data entered by the user", "Connections between computers in a network"],
+      "correctAnswer": "Physical components of a computer that can be touched",
+      "explanation": "Hardware refers to the tangible, physical components of a computer system — monitor, keyboard, CPU, hard disk, motherboard, etc. 'Programs and instructions' is wrong — that defines software. 'Data entered by the user' is wrong — that is simply input data, not hardware. 'Connections between computers' is wrong — that refers to networking or network infrastructure, which is only a subset of hardware."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Consider the following statements about types of computers:\n\n(i) A supercomputer is the fastest and most powerful type of computer.\n(ii) A mainframe computer is used mainly for personal tasks.\n(iii) A microcomputer is also known as a personal computer (PC).\n(iv) Minicomputers are smaller than mainframes but larger than microcomputers.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — supercomputers (like India's PARAM series) are the fastest, used for weather forecasting, scientific research, etc. (iii) is correct — microcomputers are personal computers (desktops, laptops) used by individuals. (iv) is correct — minicomputers (mid-range computers) sit between mainframes and microcomputers in processing power. (ii) is wrong — mainframe computers are used by large organizations (banks, airlines, government) for bulk data processing, not for personal tasks."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "The full form of 'LAN' is:",
+      "options": ["Local Area Network", "Large Area Network", "Logical Access Node", "Linear Array Network"],
+      "correctAnswer": "Local Area Network",
+      "explanation": "'LAN' stands for Local Area Network — a network connecting computers within a limited area like an office, school, or building. 'Large Area Network' is wrong — the correct term for larger networks is WAN (Wide Area Network). 'Logical Access Node' is wrong — this is not a standard networking term. 'Linear Array Network' is wrong — this is not the correct expansion of LAN."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Match the following computer memory types with their characteristics:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) Cache\n(d) Hard Disk\n\nColumn II:\n(i) Non-volatile, permanent storage, large capacity\n(ii) Volatile, temporary storage, used during processing\n(iii) Non-volatile, stores firmware/BIOS\n(iv) Extremely fast, small, between CPU and RAM\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) RAM = volatile, temporary storage used during active processing — matches (ii). (b) ROM = non-volatile, stores permanent firmware/BIOS instructions — matches (iii). (c) Cache = extremely fast, small memory placed between CPU and RAM for quick access — matches (iv). (d) Hard Disk = non-volatile, permanent storage with large capacity — matches (i). Option 2 swaps RAM and ROM. Option 3 swaps ROM and Cache. Option 4 swaps Cache and Hard Disk."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Which component of the CPU is responsible for performing arithmetic operations like addition and subtraction?",
+      "options": ["Control Unit", "Arithmetic Logic Unit (ALU)", "Memory Unit", "Register"],
+      "correctAnswer": "Arithmetic Logic Unit (ALU)",
+      "explanation": "The Arithmetic Logic Unit (ALU) performs all arithmetic operations (addition, subtraction, multiplication, division) and logical operations (AND, OR, NOT, comparisons). The Control Unit is wrong — it directs and coordinates all operations but does not perform calculations itself. Memory Unit is wrong — it stores data and instructions but does not compute. Register is wrong — registers hold data temporarily for quick access during processing but don't perform operations themselves."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer languages:\n\n(i) Machine language uses binary code (0s and 1s) directly understood by the computer.\n(ii) Assembly language uses mnemonics like ADD, SUB, MOV.\n(iii) High-level languages like C and Java are directly executed by the computer without translation.\n(iv) A compiler translates the entire high-level program into machine code at once.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — machine language (first-generation language) uses binary digits that the CPU directly understands. (ii) is correct — assembly language uses short mnemonics (ADD, MOV, JMP) instead of binary, making it slightly easier for programmers. (iv) is correct — a compiler translates the entire source code into machine code (object code) before execution. (iii) is wrong — high-level languages CANNOT be directly executed; they must be translated into machine code by a compiler or interpreter first."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "The term 'bug' in computer terminology means:",
+      "options": ["An error or fault in a program that causes incorrect results", "A type of computer virus", "A hardware malfunction", "A network connectivity issue"],
+      "correctAnswer": "An error or fault in a program that causes incorrect results",
+      "explanation": "A 'bug' is an error, flaw, or fault in a computer program that produces incorrect or unexpected results. The term was popularized when a moth was found causing issues in an early computer. 'A type of computer virus' is wrong — viruses are malicious programs, while bugs are unintentional errors. 'A hardware malfunction' is wrong — bugs are software errors, not hardware failures. 'A network connectivity issue' is wrong — network problems are called connectivity issues or network errors, not bugs."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Fill in the blank: 1 Gigabyte (GB) = __________ Megabytes (MB).",
+      "options": ["1024", "1000", "512", "2048"],
+      "correctAnswer": "1024",
+      "explanation": "1 Gigabyte = 1024 Megabytes in binary computing (2¹⁰ = 1024). This is the standard used in operating systems and memory specifications. 1000 is wrong — that's the decimal (SI) approximation used by storage manufacturers, but the computer science standard is 1024. 512 is wrong — 512 MB is half a GB. 2048 is wrong — 2048 MB equals 2 GB."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of a computer?\n\n(i) Speed\n(ii) Accuracy\n(iii) Intelligence (ability to think independently)\n(iv) Diligence (does not get tired)\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — computers perform millions of operations per second at very high speed. (ii) is correct — computers produce accurate results as long as correct data and instructions are provided. (iv) is correct — computers are diligent; they can work for hours without fatigue or loss of accuracy. (iii) is wrong — computers do NOT have intelligence or the ability to think independently; they can only follow pre-programmed instructions (they have no IQ)."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The keyboard is classified as an input device.\nReason (R): An input device is any hardware component that allows the user to enter data and instructions into the computer.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — the keyboard is an input device. Reason (R) is also correct — input devices are hardware that allow users to send data/commands to the computer. (R) explains (A) because the keyboard fits this definition perfectly: it allows users to type text, numbers, and commands into the computer. Option 2 is wrong because (R) is the defining reason why keyboards are input devices. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The term 'GIGO' in computing stands for:",
+      "options": ["Garbage In, Garbage Out", "Graphics In, Graphics Out", "General Input, General Output", "Generated Information, Generated Output"],
+      "correctAnswer": "Garbage In, Garbage Out",
+      "explanation": "'GIGO' stands for Garbage In, Garbage Out — a principle stating that if incorrect or poor-quality data is input, the output will also be incorrect or useless. 'Graphics In, Graphics Out' is wrong — GIGO is not related to graphics processing. 'General Input, General Output' is wrong — this is not the correct expansion. 'Generated Information, Generated Output' is wrong — this is not a recognized computing term."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Match the following storage devices with their types:\n\nColumn I:\n(a) Hard Disk Drive\n(b) CD-ROM\n(c) Pen Drive\n(d) Blu-ray Disc\n\nColumn II:\n(i) Optical storage\n(ii) Magnetic storage\n(iii) Solid-state storage\n(iv) Optical storage (high capacity)\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) Hard Disk Drive uses magnetic platters to store data — matches (ii). (b) CD-ROM uses a laser to read data from an optical disc — matches (i). (c) Pen Drive (USB flash drive) uses solid-state flash memory with no moving parts — matches (iii). (d) Blu-ray Disc uses a blue-violet laser for high-capacity optical storage (25–50 GB) — matches (iv). Option 2 swaps HDD and CD-ROM. Option 3 swaps CD-ROM and Pen Drive. Option 4 swaps Pen Drive and Blu-ray."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "The term 'peripheral device' refers to:",
+      "options": ["Any external device connected to the computer for input, output, or storage", "The central processing unit of the computer", "The operating system installed on the computer", "The internal memory of the computer"],
+      "correctAnswer": "Any external device connected to the computer for input, output, or storage",
+      "explanation": "Peripheral devices are external hardware components connected to a computer to expand its capabilities — including input (keyboard, mouse), output (monitor, printer), and storage (external hard drive) devices. 'The central processing unit' is wrong — the CPU is an internal core component, not a peripheral. 'The operating system' is wrong — OS is software, not a hardware device. 'The internal memory' is wrong — RAM and ROM are internal components, not peripherals."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Consider the following statements about the term 'byte':\n\n(i) One byte consists of 8 bits.\n(ii) A byte can represent 256 different values.\n(iii) A byte is the smallest unit of data in a computer.\n(iv) A byte can store one character (like a letter or digit).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — 1 byte = 8 bits. (ii) is correct — 8 bits can represent 2⁸ = 256 different values (0 to 255). (iv) is correct — one byte typically stores one character in ASCII encoding (e.g., 'A' = 65, 'a' = 97). (iii) is wrong — the smallest unit of data is a BIT (binary digit, 0 or 1), not a byte. A byte is the smallest ADDRESSABLE unit, but the smallest data unit is the bit."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Which of the following is an example of an application software?",
+      "options": ["Microsoft Excel", "Windows 10", "Linux", "Device Driver"],
+      "correctAnswer": "Microsoft Excel",
+      "explanation": "Microsoft Excel is an application software (spreadsheet program) designed for end-users to perform specific tasks like data analysis and calculations. Windows 10 is wrong — it is an operating system (system software). Linux is wrong — it is an operating system (system software). Device Driver is wrong — it is system software that enables communication between the OS and hardware."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "The process of translating a high-level language program into machine language is performed by:",
+      "options": ["A compiler or interpreter", "The control unit", "The hard disk", "The operating system"],
+      "correctAnswer": "A compiler or interpreter",
+      "explanation": "Compilers and interpreters are language translators that convert high-level language code (C, Java, Python) into machine language that the CPU can execute. The control unit is wrong — it coordinates operations within the CPU but does not translate programming languages. The hard disk is wrong — it stores data but does not perform translation. The operating system is wrong — while it manages program execution, the actual translation is done by compilers/interpreters."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Which of the following are examples of input devices?\n\n(i) Barcode Reader\n(ii) Plotter\n(iii) Microphone\n(iv) Webcam\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — a barcode reader is an input device that scans and reads barcodes, converting them into digital data. (iii) is correct — a microphone is an input device that captures audio/sound and sends it to the computer. (iv) is correct — a webcam is an input device that captures video/images and sends them to the computer. (ii) is wrong — a plotter is an OUTPUT device used to print large-format drawings, blueprints, and designs."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "The abbreviation 'WWW' stands for:",
+      "options": ["World Wide Web", "World Wide Window", "Web World Wide", "Wide World Web"],
+      "correctAnswer": "World Wide Web",
+      "explanation": "'WWW' stands for World Wide Web — a system of interlinked hypertext documents accessed via the internet using a web browser. 'World Wide Window' is wrong — this is not a computing term. 'Web World Wide' is wrong — the words are in the wrong order. 'Wide World Web' is wrong — the correct order is 'World Wide Web', not 'Wide World Web'."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Consider the following statements about the Control Unit (CU) of a computer:\n\n(i) It directs and coordinates all operations of the computer.\n(ii) It performs arithmetic calculations.\n(iii) It fetches instructions from memory and decodes them.\n(iv) It determines the sequence in which operations are performed.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — the Control Unit directs all hardware operations and coordinates data flow. (iii) is correct — the CU fetches instructions from memory, decodes them, and directs execution. (iv) is correct — the CU controls the timing and sequencing of all operations. (ii) is wrong — arithmetic calculations are performed by the ALU (Arithmetic Logic Unit), not the Control Unit."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "The term 'multitasking' in an operating system means:",
+      "options": ["The ability to run multiple programs simultaneously", "The ability to use multiple monitors", "The ability to connect multiple computers", "The ability to store multiple files"],
+      "correctAnswer": "The ability to run multiple programs simultaneously",
+      "explanation": "Multitasking refers to an operating system's ability to execute multiple programs (processes) concurrently — for example, browsing the internet while listening to music. 'The ability to use multiple monitors' is wrong — that is called multi-monitor or multi-display support. 'The ability to connect multiple computers' is wrong — that is networking. 'The ability to store multiple files' is wrong — that is basic file storage, which any OS can do regardless of multitasking capability."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Which of the following correctly represents the memory hierarchy from fastest to slowest?",
+      "options": ["Registers → Cache → RAM → Hard Disk", "RAM → Cache → Registers → Hard Disk", "Hard Disk → RAM → Cache → Registers", "Cache → Registers → RAM → Hard Disk"],
+      "correctAnswer": "Registers → Cache → RAM → Hard Disk",
+      "explanation": "The correct memory hierarchy from fastest to slowest is: Registers (inside CPU, fastest) → Cache (between CPU and RAM) → RAM (primary memory) → Hard Disk (secondary storage, slowest). 'RAM → Cache → Registers → Hard Disk' is wrong — RAM is slower than cache, not faster. 'Hard Disk → RAM → Cache → Registers' is wrong — this is the reverse (slowest to fastest) order. 'Cache → Registers → RAM → Hard Disk' is wrong — registers are faster than cache."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Which of the following are functions of an operating system?\n\n(i) Memory management\n(ii) File management\n(iii) Writing application programs\n(iv) Process management\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — the OS manages RAM allocation, virtual memory, and memory protection. (ii) is correct — the OS handles file creation, deletion, organization, and access control. (iv) is correct — the OS manages processes (running programs), scheduling CPU time, and handling multitasking. (iii) is wrong — writing application programs is the job of programmers/developers, not the operating system. The OS only provides the platform to run those applications."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "The term 'icon' in computing refers to:",
+      "options": ["A small graphical image representing a program, file, or function on screen", "A type of computer virus", "A command typed in the command prompt", "A unit of computer memory"],
+      "correctAnswer": "A small graphical image representing a program, file, or function on screen",
+      "explanation": "An icon is a small pictorial symbol on a graphical user interface (GUI) that represents a program (e.g., Chrome icon), file (e.g., document icon), folder, or function. 'A type of computer virus' is wrong — icons are harmless visual elements, not malicious software. 'A command typed in the command prompt' is wrong — that is called a command or text command, not an icon. 'A unit of computer memory' is wrong — memory units are bits, bytes, kilobytes, etc., not icons."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "The difference between a compiler and an interpreter is that:",
+      "options": ["A compiler translates the entire program at once, while an interpreter translates line by line", "A compiler works line by line, while an interpreter translates the entire program at once", "Both work exactly the same way", "A compiler is hardware, while an interpreter is software"],
+      "correctAnswer": "A compiler translates the entire program at once, while an interpreter translates line by line",
+      "explanation": "A compiler reads and translates the entire source code into machine code at once (producing an executable file), while an interpreter translates and executes the code one line/statement at a time. 'A compiler works line by line, while an interpreter translates the entire program' is wrong — this is the reverse of their actual behavior. 'Both work exactly the same way' is wrong — they have fundamentally different translation approaches. 'A compiler is hardware, while an interpreter is software' is wrong — both compilers and interpreters are software programs."
+    }
+  ]
+}

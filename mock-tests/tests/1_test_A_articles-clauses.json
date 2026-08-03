@@ -1,0 +1,247 @@
+{
+  "subject": "A",
+  "topic": "Articles & Clauses",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct article to complete the sentence: He is __________ honest man who never cheats anyone.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "'An' is correct because 'honest' begins with a silent 'h', making the initial sound a vowel sound (/ɒ/). 'A' is wrong because it is used before consonant sounds. 'The' is wrong because the sentence introduces the man for the first time (indefinite reference). 'No article' is wrong because a singular countable noun ('man') requires an article."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Select the correct option: __________ Ganges is the longest river in India.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "'The' is correct because names of rivers always take the definite article 'the'. 'A' is wrong because rivers are unique proper nouns requiring 'the', not the indefinite article. 'An' is wrong for the same reason and also because 'Ganges' begins with a consonant sound. 'No article' is wrong because river names in English mandatorily take 'the' (the Nile, the Amazon, the Ganges)."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Identify the type of clause underlined in the sentence: 'The book that I borrowed from the library is very interesting.'",
+      "options": ["Noun clause", "Adjective clause", "Adverb clause", "Main clause"],
+      "correctAnswer": "Adjective clause",
+      "explanation": "'That I borrowed from the library' is an adjective clause because it modifies the noun 'book' by providing additional information about it. It is not a noun clause because it does not function as a subject or object of the main verb. It is not an adverb clause because it does not modify a verb, adjective, or another adverb. It is not the main clause because it cannot stand alone and depends on the main clause for meaning."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Choose the correct article: She wants to become __________ engineer after completing her studies.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "'An' is correct because 'engineer' begins with a vowel sound (/ɛ/). 'A' is wrong because it is used before words beginning with consonant sounds. 'The' is wrong because the reference is indefinite — she wants to become any engineer, not a specific one. 'No article' is wrong because singular countable nouns in English require a determiner."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Match the following clauses with their types:\n\nColumn I:\n(a) Where he lives is unknown\n(b) She left because she was tired\n(c) The man who called you is here\n(d) I know that he is honest\n\nColumn II:\n(i) Adverb clause\n(ii) Adjective clause\n(iii) Noun clause (subject)\n(iv) Noun clause (object)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) 'Where he lives' functions as the subject of the verb 'is', making it a noun clause (subject) — (iii). (b) 'because she was tired' modifies the verb 'left' by giving a reason, making it an adverb clause — (i). (c) 'who called you' modifies the noun 'man', making it an adjective clause — (ii). (d) 'that he is honest' functions as the object of the verb 'know', making it a noun clause (object) — (iv). The other combinations misassign clause functions to the wrong sentences."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Consider the following statements about the use of articles:\n\n(i) The definite article 'the' is used before superlatives.\n(ii) No article is used before abstract nouns used in a general sense.\n(iii) The indefinite article 'a' is used before uncountable nouns.\n(iv) The definite article 'the' is used before names of oceans and seas.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — superlatives always take 'the' (the best, the tallest). (ii) is correct — abstract nouns in a general sense take no article ('Honesty is the best policy'). (iv) is correct — names of oceans and seas take 'the' (the Pacific, the Arabian Sea). (iii) is wrong because indefinite articles 'a/an' are never used with uncountable nouns (we say 'some water', not 'a water'). Therefore (i), (ii) and (iv) is the correct combination."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct article: __________ United Kingdom is an island nation in Europe.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "'The' is correct because names of countries that include words like 'Kingdom', 'Republic', 'States', or 'Union' take the definite article. 'A' is wrong because proper nouns referring to specific countries are not introduced with indefinite articles. 'An' is wrong for the same reason and also because 'United' begins with a consonant sound (/juː/). 'No article' is wrong because this class of country names (containing a common noun like 'Kingdom') mandatorily requires 'the'."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): We say 'an hour' and not 'a hour'.\nReason (R): The choice between 'a' and 'an' depends on the sound that follows, not the letter.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — the standard usage is 'an hour'. Reason (R) is also correct — article choice depends on the initial sound, not the spelling letter. Moreover, (R) directly explains (A): since the 'h' in 'hour' is silent and the word begins with the vowel sound /aʊ/, 'an' is used. Option 2 is wrong because (R) does explain (A). Option 3 is wrong because (R) is a valid grammatical rule. Option 4 is wrong because (A) is standard correct English."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Identify the subordinate clause in the sentence: 'Although it was raining heavily, the match continued without interruption.'",
+      "options": ["the match continued", "without interruption", "Although it was raining heavily", "it was raining heavily"],
+      "correctAnswer": "Although it was raining heavily",
+      "explanation": "'Although it was raining heavily' is the subordinate (adverb) clause because it begins with the subordinating conjunction 'although' and cannot stand alone as a complete sentence. 'The match continued' is wrong because it is the main/independent clause. 'Without interruption' is wrong because it is a prepositional phrase, not a clause (it lacks a subject and finite verb). 'It was raining heavily' is wrong because the subordinating conjunction 'although' is an integral part of the subordinate clause and cannot be separated from it."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Which of the following are examples of noun clauses?\n\n(i) What she said surprised everyone\n(ii) He arrived after the function ended\n(iii) I believe that he will succeed\n(iv) The house where I was born is old\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(ii) and (iv) only", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is a noun clause — 'What she said' functions as the subject of the verb 'surprised'. (iii) is a noun clause — 'that he will succeed' functions as the object of the verb 'believe'. (ii) is NOT a noun clause — 'after the function ended' is an adverb clause modifying the verb 'arrived' by indicating time. (iv) is NOT a noun clause — 'where I was born' is an adjective clause modifying the noun 'house'. Therefore only (i) and (iii) are noun clauses."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Choose the correct option: My father reads __________ Times of India every morning.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "'The' is correct because names of newspapers take the definite article 'the' (the Times of India, the Hindu, the Guardian). 'A' is wrong because newspaper names are proper nouns requiring 'the', not the indefinite article. 'An' is wrong for the same reason and also because 'Times' begins with a consonant sound. 'No article' is wrong because English grammar requires 'the' before newspaper names."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A subordinate clause can function as a noun, adjective, or adverb in a sentence.\nReason (R): Subordinate clauses always begin with the word 'that'.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Assertion (A) is correct — subordinate clauses can indeed function as nouns (noun clauses), adjectives (adjective/relative clauses), or adverbs (adverb clauses). Reason (R) is incorrect — subordinate clauses can begin with many different words: 'who', 'which', 'where', 'when', 'because', 'although', 'if', 'while', etc., not only 'that'. Option 1 is wrong because (R) is false. Option 2 is wrong because (R) is false. Option 4 is wrong because (A) is a correct grammatical fact."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Select the sentence that uses the article correctly:",
+      "options": ["She is a best student in the class.", "He gave me an useful piece of advice.", "The gold is a precious metal.", "The Himalayas are the highest mountains in the world."],
+      "correctAnswer": "The Himalayas are the highest mountains in the world.",
+      "explanation": "'The Himalayas are the highest mountains in the world' is correct because mountain ranges take 'the' and superlatives ('highest') also require 'the'. 'She is a best student' is wrong because superlatives require 'the', not 'a' (correct: 'the best student'). 'He gave me an useful piece' is wrong because 'useful' begins with the consonant sound /juː/, requiring 'a', not 'an'. 'The gold is a precious metal' is wrong because materials/metals used in a general sense take no article (correct: 'Gold is a precious metal')."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Consider the following statements about clauses:\n\n(i) A main clause can stand alone as a complete sentence.\n(ii) An adjective clause modifies a verb in the sentence.\n(iii) A noun clause can function as the subject of a sentence.\n(iv) An adverb clause can indicate time, reason, or condition.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — a main (independent) clause expresses a complete thought and can stand alone. (iii) is correct — a noun clause can function as the subject (e.g., 'What he said is true'). (iv) is correct — adverb clauses indicate time ('when'), reason ('because'), condition ('if'), etc. (ii) is wrong — an adjective clause modifies a NOUN or pronoun, not a verb; it is adverb clauses that modify verbs. Therefore (i), (iii) and (iv) is correct."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Match the following sentences with the correct articles to fill the blanks:\n\nColumn I:\n(a) He is __________ European tourist.\n(b) She ate __________ apple for breakfast.\n(c) __________ sun rises in the east.\n(d) I saw __________ one-eyed man on the road.\n\nColumn II:\n(i) the\n(ii) an\n(iii) a (before consonant sound /juː/)\n(iv) a (before consonant sound /wʌ/)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) 'European' begins with the consonant sound /juː/, so 'a' is used — matches (iii). (b) 'Apple' begins with the vowel sound /æ/, so 'an' is used — matches (ii). (c) 'Sun' is a unique celestial body, so the definite article 'the' is used — matches (i). (d) 'One' begins with the consonant sound /wʌ/, so 'a' is used — matches (iv). Option 2 is wrong because 'European' does not take 'an'. Option 3 is wrong because 'sun' takes 'the', not 'a'. Option 4 is wrong because 'one-eyed' takes 'a' (consonant sound), not matching (iii) for /juː/."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Identify the sentence that contains an adverb clause:",
+      "options": ["The man who helped me was very kind.", "I don't know where she lives.", "She waited until the rain stopped.", "What he said was completely false."],
+      "correctAnswer": "She waited until the rain stopped.",
+      "explanation": "'Until the rain stopped' is an adverb clause because it modifies the verb 'waited' by indicating time. 'The man who helped me' contains an adjective clause ('who helped me') modifying the noun 'man', not an adverb clause. 'I don't know where she lives' contains a noun clause ('where she lives') functioning as the object of 'know'. 'What he said was completely false' contains a noun clause ('What he said') functioning as the subject. Only the third sentence has a clause modifying a verb to show time."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Consider the following statements about the zero article (no article):\n\n(i) No article is used before plural countable nouns used in a general sense.\n(ii) No article is used before names of meals when they refer to the general meal.\n(iii) No article is used before names of individual mountains.\n(iv) No article is used before names of rivers.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — plural nouns in a general sense take no article ('Dogs are loyal animals'). (ii) is correct — meal names in general take no article ('Dinner is ready'). (iii) is correct — individual mountain names take no article ('Mount Everest', 'Mount Kilimanjaro'). (iv) is wrong — river names DO take 'the' ('the Ganges', 'the Nile', 'the Amazon'). Therefore (i), (ii) and (iii) is correct."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Choose the correct article to complete the sentence: __________ honest person is always respected in society.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "An",
+      "explanation": "'An' is correct because 'honest' has a silent 'h', so the word begins with the vowel sound /ɒ/, requiring 'an'. 'A' is wrong because it is used before consonant sounds, and 'honest' does not begin with a consonant sound. 'The' is wrong because the sentence makes a general statement about any honest person, not a specific one. 'No article' is wrong because a singular countable noun ('person') requires an article or determiner."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the sentence 'I met a boy who was very talented', the clause 'who was very talented' is an adjective clause.\nReason (R): An adjective clause begins with a relative pronoun and modifies a noun or pronoun in the main clause.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 'who was very talented' modifies the noun 'boy', making it an adjective clause. Reason (R) is also correct — adjective clauses (relative clauses) begin with relative pronouns (who, which, that, whom, whose) and modify nouns/pronouns. Furthermore, (R) directly explains (A): since 'who' is a relative pronoun and the clause modifies 'boy' (a noun), it qualifies as an adjective clause by the definition in (R). Option 2 is wrong because (R) does explain (A). Option 3 is wrong because (R) is a valid rule. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Select the sentence where 'the' is used INCORRECTLY:",
+      "options": ["The rich should help the poor.", "Please open the door.", "The honesty is the best policy.", "The President of India visited the school."],
+      "correctAnswer": "The honesty is the best policy.",
+      "explanation": "'The honesty is the best policy' is incorrect because abstract nouns used in a general/universal sense do not take 'the' (correct: 'Honesty is the best policy'). 'The rich should help the poor' is correct because 'the + adjective' refers to a class of people. 'Please open the door' is correct because 'the' refers to a specific door known to both speaker and listener. 'The President of India visited the school' is correct because unique designations and specific institutions take 'the'."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Which of the following are examples of adjective clauses?\n\n(i) The pen which I bought yesterday is missing.\n(ii) She said that she would come.\n(iii) The girl whose father is a doctor won the prize.\n(iv) He runs because he enjoys it.\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(ii) and (iv) only", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is an adjective clause — 'which I bought yesterday' modifies the noun 'pen' using the relative pronoun 'which'. (iii) is an adjective clause — 'whose father is a doctor' modifies the noun 'girl' using the relative pronoun 'whose'. (ii) is NOT an adjective clause — 'that she would come' is a noun clause functioning as the object of 'said'. (iv) is NOT an adjective clause — 'because he enjoys it' is an adverb clause giving a reason for the verb 'runs'. Therefore only (i) and (iii) are adjective clauses."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Complete the sentence with the correct article: My brother joined __________ university in Jammu last year.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'A' is correct because 'university' begins with the consonant sound /juː/ (a 'y' sound), which requires the article 'a', not 'an'. 'An' is wrong because it is used before vowel sounds, and despite the letter 'u', 'university' starts with a consonant sound. 'The' is wrong because the sentence does not refer to a specific, previously mentioned university. 'No article' is wrong because a singular countable noun requires a determiner."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Match the following subordinating conjunctions with the type of adverb clause they introduce:\n\nColumn I:\n(a) because\n(b) although\n(c) if\n(d) before\n\nColumn II:\n(i) Adverb clause of time\n(ii) Adverb clause of reason\n(iii) Adverb clause of condition\n(iv) Adverb clause of concession\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) 'because' introduces a clause of reason — it explains why something happens — matches (ii). (b) 'although' introduces a clause of concession — it shows contrast despite an opposing fact — matches (iv). (c) 'if' introduces a clause of condition — it sets a condition for the main clause — matches (iii). (d) 'before' introduces a clause of time — it indicates when something happens — matches (i). Option 2 is wrong because it swaps concession and condition. Option 3 is wrong because it assigns 'because' to concession. Option 4 is wrong because it swaps time and condition."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Consider the following statements about the use of the indefinite article 'a/an':\n\n(i) 'An' is used before words beginning with a vowel letter regardless of pronunciation.\n(ii) 'A' is used before words like 'uniform' and 'university'.\n(iii) 'An' is used before abbreviations that begin with a vowel sound like 'an MLA'.\n(iv) 'A/An' can be used before uncountable nouns.\n\nWhich of the statements given above are correct?",
+      "options": ["(ii) and (iii) only", "(i) and (ii) only", "(i), (ii) and (iii)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(ii) and (iii) only",
+      "explanation": "(ii) is correct — 'uniform' and 'university' begin with the consonant sound /juː/, so 'a' is used. (iii) is correct — 'MLA' is pronounced /ɛm-ɛl-eɪ/, starting with a vowel sound /ɛ/, so 'an' is used. (i) is wrong — article choice depends on the SOUND, not the letter; 'a European' (vowel letter but consonant sound). (iv) is wrong — indefinite articles cannot be used with uncountable nouns ('a water' or 'an information' are incorrect). Therefore only (ii) and (iii) are correct."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Identify the main clause in the following sentence: 'When the teacher entered the classroom, all the students stood up.'",
+      "options": ["When the teacher entered", "the teacher entered the classroom", "all the students stood up", "When the teacher entered the classroom"],
+      "correctAnswer": "all the students stood up",
+      "explanation": "'All the students stood up' is the main clause because it can stand alone as a complete sentence and expresses the principal idea. 'When the teacher entered the classroom' is the subordinate (adverb) clause of time, introduced by 'when'. 'When the teacher entered' is wrong because it is an incomplete version of the subordinate clause. 'The teacher entered the classroom' is wrong because it strips the subordinating conjunction 'when' — the actual clause in the sentence includes 'when' and functions as a dependent clause."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct article: I saw __________ one-rupee coin lying on the ground.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'A' is correct because 'one' begins with the consonant sound /wʌ/, which requires 'a', not 'an'. 'An' is wrong because despite 'one' starting with the vowel letter 'o', its pronunciation starts with a /w/ consonant sound. 'The' is wrong because the coin is being introduced for the first time and is not previously known to the listener. 'No article' is wrong because a singular countable noun ('coin') needs a determiner."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Select the correct sentence:",
+      "options": ["The Mount Everest is the highest peak in the world.", "Mount Everest is highest peak in the world.", "Mount Everest is the highest peak in the world.", "A Mount Everest is the highest peak in the world."],
+      "correctAnswer": "Mount Everest is the highest peak in the world.",
+      "explanation": "'Mount Everest is the highest peak in the world' is correct because individual mountain names do not take 'the', while superlatives ('highest') require 'the'. Option 1 is wrong because individual mountains (Mount Everest, Mount Fuji) do not take 'the' — only mountain ranges do (the Himalayas). Option 2 is wrong because the superlative 'highest' requires the definite article 'the' before it. Option 4 is wrong because proper nouns of mountains never take the indefinite article 'a'."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Which of the following sentences contains a noun clause functioning as the object of a verb?\n\n(i) Where he went remains a mystery.\n(ii) The teacher told us that the exam was postponed.\n(iii) She lives where the river meets the sea.\n(iv) I wonder whether he will come tomorrow.\n\nSelect the correct combination:",
+      "options": ["(ii) and (iv) only", "(i) and (ii) only", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "(ii) is correct — 'that the exam was postponed' is a noun clause functioning as the object of the verb 'told'. (iv) is correct — 'whether he will come tomorrow' is a noun clause functioning as the object of the verb 'wonder'. (i) is wrong for this question — 'Where he went' is a noun clause, but it functions as the SUBJECT, not the object. (iii) is wrong — 'where the river meets the sea' is an adverb clause modifying 'lives' by indicating place. Therefore only (ii) and (iv) have noun clauses as objects."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Consider the following statements about articles with proper nouns:\n\n(i) 'The' is used before names of island groups.\n(ii) 'The' is used before names of individual islands.\n(iii) 'The' is used before names of deserts.\n(iv) 'The' is not used before names of continents.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — island groups take 'the' (the Andamans, the Maldives, the Philippines). (iii) is correct — deserts take 'the' (the Sahara, the Thar, the Gobi). (iv) is correct — continent names do not take 'the' (Asia, Europe, Africa). (ii) is wrong — individual island names do NOT take 'the' (Sri Lanka, Java, Borneo, Madagascar). Therefore (i), (iii) and (iv) is the correct combination."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Identify the type of subordinate clause in the sentence: 'If you study hard, you will pass the examination.'",
+      "options": ["Noun clause", "Adjective clause", "Adverb clause of condition", "Adverb clause of reason"],
+      "correctAnswer": "Adverb clause of condition",
+      "explanation": "'If you study hard' is an adverb clause of condition because it is introduced by the subordinating conjunction 'if' and states the condition under which the main clause ('you will pass the examination') will be true. It is not a noun clause because it does not function as a subject or object. It is not an adjective clause because it does not modify any noun. It is not an adverb clause of reason because 'if' indicates a condition, not a cause — 'because' would indicate reason."
+    }
+  ]
+}
