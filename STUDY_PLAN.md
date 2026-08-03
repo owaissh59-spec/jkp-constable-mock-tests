@@ -37,17 +37,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 7 | Morning | D — Numerical and Reasoning Ability | Number Series & Letter Series | 30 | foundation | Topic-wise | ⬜ |
-| 8 | Afternoon | B — General Knowledge & Current Affairs (India) | First in World & India (Adventure, Sports, Discoveries) | 40 | foundation | Topic-wise | ⬜ |
-| 9 | Late | E — Basic Concepts of Computers | Hardware & Software | 50 | foundation | Topic-wise | ⬜ |
+| 7 | Morning | D — Numerical and Reasoning Ability | Number Series & Letter Series | 30 | foundation | Topic-wise | ✅ |
+| 8 | Afternoon | B — General Knowledge & Current Affairs (India) | First in World & India (Adventure, Sports, Discoveries) | 40 | foundation | Topic-wise | ✅ |
+| 9 | Late | E — Basic Concepts of Computers | Hardware & Software | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 4
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 10 | Morning | A — General English | Homonyms & Homophones | 30 | foundation | Topic-wise | ⬜ |
-| 11 | Afternoon | C — General Knowledge — J&K | Popular Names of J&K Personalities & Achievements | 40 | foundation | Topic-wise | ⬜ |
-| 12 | Late | D — Numerical and Reasoning Ability | Percentage | 50 | foundation | Topic-wise | ⬜ |
+| 10 | Morning | A — General English | Homonyms & Homophones | 30 | foundation | Topic-wise | ✅ |
+| 11 | Afternoon | C — General Knowledge — J&K | Popular Names of J&K Personalities & Achievements | 40 | foundation | Topic-wise | ✅ |
+| 12 | Late | D — Numerical and Reasoning Ability | Percentage | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 5
 

@@ -1,0 +1,407 @@
+{
+  "subject": "D",
+  "topic": "Percentage",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "What is 25% of 480?",
+      "options": ["120", "110", "130", "125"],
+      "correctAnswer": "120",
+      "explanation": "25% of 480 = (25/100) × 480 = 480/4 = 120. 110 is wrong — results from computing 480 × 0.23. 130 is wrong — results from computing 480 × 0.27. 125 is wrong — results from computing 500 × 0.25."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "If a student scored 72 marks out of 90, what is his percentage?",
+      "options": ["80%", "75%", "82%", "78%"],
+      "correctAnswer": "80%",
+      "explanation": "Percentage = (72/90) × 100 = 80%. 75% is wrong — would mean 67.5 out of 90. 82% is wrong — would mean 73.8 out of 90. 78% is wrong — would mean 70.2 out of 90."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Consider the following statements about percentage:\n\n(i) Percentage means 'per hundred'.\n(ii) 50% is the same as the fraction 1/2.\n(iii) To convert a fraction to percentage, multiply by 100.\n(iv) 150% of a number is always less than the number.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 'percent' comes from Latin 'per centum' meaning per hundred. (ii) is correct — 50% = 50/100 = 1/2. (iii) is correct — to convert fraction to percentage: (fraction) × 100 (e.g., 3/4 × 100 = 75%). (iv) is wrong — 150% of a number is 1.5 times the number, which is GREATER than the number, not less."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "A shirt costs ₹800. If the price is increased by 15%, the new price is:",
+      "options": ["₹920", "₹900", "₹880", "₹940"],
+      "correctAnswer": "₹920",
+      "explanation": "15% of 800 = (15/100) × 800 = 120. New price = 800 + 120 = ₹920. ₹900 is wrong — would be a 12.5% increase. ₹880 is wrong — would be a 10% increase. ₹940 is wrong — would be a 17.5% increase."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a number is increased by 20% and then decreased by 20%, the result is less than the original number.\nReason (R): The percentage increase and decrease are calculated on different base values, causing a net loss.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — e.g., 100 → +20% → 120 → −20% → 96 (less than 100). Reason (R) is also correct — the 20% increase is on 100 (base), but the 20% decrease is on 120 (higher base), so the decrease is larger in absolute terms. (R) explains (A) because the different bases cause a net loss of 4% (20²/100 = 4%). Option 2 is wrong because (R) directly explains the mechanism. Option 3 is wrong because (R) is mathematically correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following fractions with their percentage equivalents:\n\nColumn I:\n(a) 1/4\n(b) 1/5\n(c) 3/8\n(d) 2/3\n\nColumn II:\n(i) 66.67%\n(ii) 25%\n(iii) 37.5%\n(iv) 20%\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) 1/4 = 0.25 = 25% — matches (ii). (b) 1/5 = 0.20 = 20% — matches (iv). (c) 3/8 = 0.375 = 37.5% — matches (iii). (d) 2/3 = 0.6667 = 66.67% — matches (i). Option 2 swaps (a) and (b). Option 3 swaps (c) and (d). Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "If 40% of a number is 160, what is the number?",
+      "options": ["400", "320", "440", "360"],
+      "correctAnswer": "400",
+      "explanation": "Let the number be x. 40% of x = 160 → (40/100) × x = 160 → x = 160 × 100/40 = 400. 320 is wrong — 40% of 320 = 128, not 160. 440 is wrong — 40% of 440 = 176. 360 is wrong — 40% of 360 = 144."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following represent the same value?\n\n(i) 0.75\n(ii) 75%\n(iii) 3/4\n(iv) 7/10\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) 0.75 = 75/100 = 3/4 ✓. (ii) 75% = 75/100 = 0.75 = 3/4 ✓. (iii) 3/4 = 0.75 = 75% ✓. (iv) 7/10 = 0.70 = 70% ✗ — this is NOT equal to 75%. Therefore (i), (ii) and (iii) all equal 0.75 or 75% or 3/4."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "A population of a town increased from 50,000 to 55,000 in one year. The percentage increase is:",
+      "options": ["10%", "8%", "12%", "11%"],
+      "correctAnswer": "10%",
+      "explanation": "Increase = 55,000 − 50,000 = 5,000. Percentage increase = (5000/50000) × 100 = 10%. 8% is wrong — would mean an increase of 4,000. 12% is wrong — would mean an increase of 6,000. 11% is wrong — would mean an increase of 5,500."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) If the price of an item increases by 50%, the new price is 1.5 times the original.\n(ii) If a salary is decreased by 10%, the new salary is 90% of the original.\n(iii) A 100% increase means the value doubles.\n(iv) A 100% decrease means the value becomes zero.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "(i) is correct — original + 50% of original = 1.5 × original. (ii) is correct — original − 10% of original = 90% of original = 0.9 × original. (iii) is correct — original + 100% of original = 2 × original (doubled). (iv) is correct — original − 100% of original = 0. All four statements are correct."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 30% of 200 is the same as 200% of 30.\nReason (R): Percentage is commutative — a% of b = b% of a, because both equal (a × b)/100.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 30% of 200 = 60, and 200% of 30 = 60; they are equal. Reason (R) is also correct — a% of b = (a/100)×b = ab/100 = (b/100)×a = b% of a. (R) explains (A) by proving the general rule that makes the specific case in (A) true. Option 2 is wrong because (R) is the mathematical proof for (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Fill in the blank: If 60% of students passed an exam and 120 students failed, the total number of students is __________.",
+      "options": ["300", "280", "320", "250"],
+      "correctAnswer": "300",
+      "explanation": "If 60% passed, then 40% failed. 40% of total = 120. Total = 120 × 100/40 = 300. 280 is wrong — 40% of 280 = 112. 320 is wrong — 40% of 320 = 128. 250 is wrong — 40% of 250 = 100."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "A man spends 75% of his income and saves ₹3,000. His income is:",
+      "options": ["₹12,000", "₹10,000", "₹15,000", "₹9,000"],
+      "correctAnswer": "₹12,000",
+      "explanation": "If he spends 75%, he saves 25%. 25% of income = ₹3,000. Income = 3000 × 100/25 = ₹12,000. ₹10,000 is wrong — 25% of 10,000 = 2,500. ₹15,000 is wrong — 25% of 15,000 = 3,750. ₹9,000 is wrong — 25% of 9,000 = 2,250."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Match the following percentage changes with their multiplying factors:\n\nColumn I:\n(a) Increase of 25%\n(b) Decrease of 20%\n(c) Increase of 50%\n(d) Decrease of 10%\n\nColumn II:\n(i) × 0.9\n(ii) × 1.25\n(iii) × 0.8\n(iv) × 1.5\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) 25% increase → multiply by 1.25 (1 + 0.25) — matches (ii). (b) 20% decrease → multiply by 0.8 (1 − 0.20) — matches (iii). (c) 50% increase → multiply by 1.5 (1 + 0.50) — matches (iv). (d) 10% decrease → multiply by 0.9 (1 − 0.10) — matches (i). Option 2 swaps (a) and (c). Option 3 swaps (b) and (d). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "The price of sugar increased from ₹40/kg to ₹50/kg. The percentage increase is:",
+      "options": ["25%", "20%", "30%", "10%"],
+      "correctAnswer": "25%",
+      "explanation": "Increase = 50 − 40 = 10. Percentage increase = (10/40) × 100 = 25%. 20% is wrong — that would mean an increase of ₹8. 30% is wrong — that would mean an increase of ₹12. 10% is wrong — (10/100)×100 = 10 is the increase in rupees but divided by the wrong base."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Consider the following statements about successive percentage changes:\n\n(i) Two successive increases of 10% each result in a total increase of 21%.\n(ii) Two successive decreases of 10% each result in a total decrease of 19%.\n(iii) Successive increase of 20% and decrease of 20% results in no change.\n(iv) The net effect of successive changes a% and b% = (a + b + ab/100)%.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — net = 10 + 10 + (10×10)/100 = 21%. (ii) is correct — net = −10 + (−10) + (−10×−10)/100 = −20 + 1 = −19%. (iv) is correct — the formula for successive changes a% and b% is (a + b + ab/100)%. (iii) is wrong — 20% increase then 20% decrease = 20 + (−20) + (20×−20)/100 = −4% (a net LOSS of 4%, not zero)."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "In an election, candidate A received 60% of the total votes and won by 2,400 votes. The total number of votes cast was:",
+      "options": ["12,000", "10,000", "14,000", "8,000"],
+      "correctAnswer": "12,000",
+      "explanation": "A got 60%, so B got 40%. Difference = 60% − 40% = 20% of total. 20% of total = 2,400. Total = 2400 × 100/20 = 12,000. 10,000 is wrong — 20% of 10,000 = 2,000. 14,000 is wrong — 20% of 14,000 = 2,800. 8,000 is wrong — 20% of 8,000 = 1,600."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the radius of a circle is increased by 10%, the area increases by 21%.\nReason (R): Area of a circle = πr². When r increases by 10%, new area = π(1.1r)² = 1.21πr², an increase of 21%.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — a 10% increase in radius leads to 21% increase in area. Reason (R) is also correct — it shows the mathematical proof: new area = π(1.1r)² = 1.21πr², which is 21% more than πr². (R) explains (A) with the exact calculation. Option 2 is wrong because (R) is the proof of (A). Option 3 is wrong because (R) is mathematically correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "If the price of petrol rises by 25%, by what percentage must a person reduce consumption to keep expenditure unchanged?",
+      "options": ["20%", "25%", "15%", "22%"],
+      "correctAnswer": "20%",
+      "explanation": "Required reduction = (increase/(100 + increase)) × 100 = (25/125) × 100 = 20%. Alternatively: if price becomes 1.25 times, consumption must be 1/1.25 = 0.8 = 80%, a reduction of 20%. 25% is wrong — that's the increase percentage, not the required reduction. 15% is wrong — reducing by only 15% would still increase expenditure. 22% is wrong — incorrect calculation."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Which of the following are equivalent to 12.5%?\n\n(i) 1/8\n(ii) 0.125\n(iii) 12.5/100\n(iv) 1/10\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) 1/8 = 0.125 = 12.5% ✓. (ii) 0.125 = 12.5/100 = 12.5% ✓. (iii) 12.5/100 = 0.125 = 12.5% ✓. (iv) 1/10 = 0.10 = 10% ✗ — this is NOT equal to 12.5%."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "A shopkeeper gives a discount of 20% on the marked price of ₹500. The selling price is:",
+      "options": ["₹400", "₹380", "₹420", "₹450"],
+      "correctAnswer": "₹400",
+      "explanation": "Discount = 20% of 500 = ₹100. Selling price = 500 − 100 = ₹400. ₹380 is wrong — that would be a 24% discount. ₹420 is wrong — that would be a 16% discount. ₹450 is wrong — that would be a 10% discount."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) If A's salary is 20% more than B's, then B's salary is 20% less than A's.\n(ii) 'A is 25% more than B' means A = 1.25B.\n(iii) If A is 25% more than B, then B is 20% less than A.\n(iv) Percentage change is always calculated on the original value.\n\nWhich of the statements given above are correct?",
+      "options": ["(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — 'A is 25% more than B' means A = B + 0.25B = 1.25B. (iii) is correct — if A = 1.25B, then B = A/1.25 = 0.8A, so B is 20% less than A. (iv) is correct — percentage change = (change/original) × 100, calculated on the original value. (i) is wrong — if A is 20% more than B, then A = 1.2B, so B = A/1.2 = 0.833A, meaning B is 16.67% less than A, NOT 20% less."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Fill in the blank: Express 3/5 as a percentage: __________.",
+      "options": ["60%", "65%", "55%", "75%"],
+      "correctAnswer": "60%",
+      "explanation": "3/5 × 100 = 300/5 = 60%. 65% is wrong — that equals 13/20. 55% is wrong — that equals 11/20. 75% is wrong — that equals 3/4."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Match the following percentages with their fraction equivalents:\n\nColumn I:\n(a) 33.33%\n(b) 12.5%\n(c) 16.67%\n(d) 37.5%\n\nColumn II:\n(i) 3/8\n(ii) 1/3\n(iii) 1/6\n(iv) 1/8\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) 33.33% = 1/3 — matches (ii). (b) 12.5% = 1/8 — matches (iv). (c) 16.67% = 1/6 — matches (iii). (d) 37.5% = 3/8 — matches (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "A student got 80% marks in English and 90% marks in Maths. If the maximum marks in each subject are 100, his overall percentage is:",
+      "options": ["85%", "80%", "90%", "87.5%"],
+      "correctAnswer": "85%",
+      "explanation": "English marks = 80, Maths marks = 90. Total = 80 + 90 = 170 out of 200. Percentage = (170/200) × 100 = 85%. 80% is wrong — that's only the English percentage. 90% is wrong — that's only the Maths percentage. 87.5% is wrong — incorrect averaging."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A reduction of 25% in the price of mangoes enables a person to buy 5 more mangoes for ₹300.\nReason (R): At the reduced price, the cost per mango is ₹15, meaning the person can buy 20 mangoes; at the original price (₹20 each), only 15 could be bought.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — with a 25% reduction and ₹300 budget, 5 more mangoes can be bought. Reason (R) is also correct — original price: let's verify. If reduced price = ₹15, original = 15/0.75 = ₹20. At ₹20: 300/20 = 15 mangoes. At ₹15: 300/15 = 20 mangoes. Difference = 5 ✓. (R) explains (A) with the exact calculation. Option 2 is wrong because (R) proves (A). Option 3 is wrong because (R) is mathematically verified. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "If a number is first increased by 10% and then increased by 20%, the total percentage increase is:",
+      "options": ["32%", "30%", "31%", "33%"],
+      "correctAnswer": "32%",
+      "explanation": "Net effect = 10 + 20 + (10 × 20)/100 = 30 + 2 = 32%. Or: 1.10 × 1.20 = 1.32, i.e., 32% increase. 30% is wrong — that assumes simple addition without compounding. 31% is wrong — incorrect calculation. 33% is wrong — incorrect calculation."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements about percentage decrease:\n\n(i) If income decreases by 25%, one must reduce expenditure by 25% to balance.\n(ii) A 50% decrease in speed doubles the time taken for the same distance.\n(iii) If the side of a square decreases by 10%, the area decreases by 19%.\n(iv) A 25% decrease followed by a 25% increase restores the original value.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — to keep savings zero (balance), expenditure must be reduced by the same 25% if income falls 25%. (ii) is correct — Time = Distance/Speed; if speed halves, time doubles. (iii) is correct — new area = (0.9s)² = 0.81s², a decrease of 19%. (iv) is wrong — 100 → −25% → 75 → +25% → 93.75 (NOT 100). A 25% decrease followed by 25% increase gives a net loss of 6.25%."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "A man's salary is ₹20,000. He gets a 10% raise. His new salary is:",
+      "options": ["₹22,000", "₹21,000", "₹23,000", "₹20,100"],
+      "correctAnswer": "₹22,000",
+      "explanation": "10% of 20,000 = 2,000. New salary = 20,000 + 2,000 = ₹22,000. ₹21,000 is wrong — that would be a 5% raise. ₹23,000 is wrong — that would be a 15% raise. ₹20,100 is wrong — that would be a 0.5% raise."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "The following table shows the marks obtained by a student:\n\n| Subject | Marks Obtained | Maximum Marks |\n|---------|---------------|---------------|\n| English | 70 | 100 |\n| Maths | 85 | 100 |\n| Science | 60 | 100 |\n| Hindi | 75 | 100 |\n\nWhat is the student's overall percentage?",
+      "options": ["72.5%", "70%", "75%", "73%"],
+      "correctAnswer": "72.5%",
+      "explanation": "Total marks obtained = 70 + 85 + 60 + 75 = 290. Total maximum = 400. Percentage = (290/400) × 100 = 72.5%. 70% is wrong — would mean 280/400. 75% is wrong — would mean 300/400. 73% is wrong — would mean 292/400."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "If the population of a village is 10,000 and it increases by 5% annually, the population after 1 year is:",
+      "options": ["10,500", "10,050", "10,550", "10,250"],
+      "correctAnswer": "10,500",
+      "explanation": "5% of 10,000 = 500. Population after 1 year = 10,000 + 500 = 10,500. 10,050 is wrong — that's a 0.5% increase. 10,550 is wrong — that's a 5.5% increase. 10,250 is wrong — that's a 2.5% increase."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Match the following scenarios with the correct percentage:\n\nColumn I:\n(a) 15 is what percent of 60\n(b) What is 30% of 250\n(c) 45 is 90% of what number\n(d) 8 out of 32 as a percentage\n\nColumn II:\n(i) 75\n(ii) 50\n(iii) 25%\n(iv) 25%\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) 15/60 × 100 = 25% — matches (iii). (b) 30% of 250 = 75 — matches (i). (c) 45 = 90% of x → x = 45/0.9 = 50 — matches (ii). (d) 8/32 × 100 = 25% — matches (iv). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a shopkeeper marks up the price of goods by 50% and then gives a 20% discount, his net profit is 20%.\nReason (R): Net effect = +50 + (−20) + (50 × −20)/100 = 50 − 20 − 10 = 20%.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Cost = 100, Marked = 150, Discount 20% of 150 = 30, SP = 120. Profit = 20%. Reason (R) is also correct — applying the successive percentage formula gives 50 − 20 − 10 = 20%. (R) explains (A) by showing the formula-based calculation. Option 2 is wrong because (R) is the mathematical proof. Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "In a class of 50 students, 60% are boys. How many girls are in the class?",
+      "options": ["20", "25", "30", "15"],
+      "correctAnswer": "20",
+      "explanation": "Boys = 60% of 50 = 30. Girls = 50 − 30 = 20. Or directly: Girls = 40% of 50 = 20. 25 is wrong — that would mean 50% are girls. 30 is wrong — that's the number of boys, not girls. 15 is wrong — that would mean 30% are girls."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Consider the following statements about converting between fractions, decimals, and percentages:\n\n(i) To convert a percentage to a decimal, divide by 100.\n(ii) To convert a decimal to a percentage, multiply by 100.\n(iii) To convert a fraction to a percentage, multiply the fraction by 100.\n(iv) 0.05 = 50%.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — e.g., 45% ÷ 100 = 0.45. (ii) is correct — e.g., 0.75 × 100 = 75%. (iii) is correct — e.g., 3/5 × 100 = 60%. (iv) is wrong — 0.05 × 100 = 5%, NOT 50%. 50% would be 0.50."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "A book is sold for ₹450 after a discount of 10%. The marked price of the book is:",
+      "options": ["₹500", "₹480", "₹495", "₹520"],
+      "correctAnswer": "₹500",
+      "explanation": "After 10% discount: SP = 90% of MP. 450 = 0.9 × MP. MP = 450/0.9 = ₹500. ₹480 is wrong — 90% of 480 = 432. ₹495 is wrong — 90% of 495 = 445.5. ₹520 is wrong — 90% of 520 = 468."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Which of the following are correct?\n\n(i) 200% of 50 = 100\n(ii) 0.5% of 1000 = 5\n(iii) 125% of 80 = 100\n(iv) 1% of 1 = 1\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) 200% of 50 = 2 × 50 = 100 ✓. (ii) 0.5% of 1000 = (0.5/100) × 1000 = 5 ✓. (iii) 125% of 80 = 1.25 × 80 = 100 ✓. (iv) 1% of 1 = 0.01 × 1 = 0.01, NOT 1 ✗."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "The monthly expenditure data for a family is:\n\n| Category | Amount (₹) |\n|----------|------------|\n| Food | 8,000 |\n| Rent | 6,000 |\n| Education | 4,000 |\n| Others | 2,000 |\n\nWhat percentage of total expenditure is spent on Rent?",
+      "options": ["30%", "25%", "35%", "40%"],
+      "correctAnswer": "30%",
+      "explanation": "Total expenditure = 8000 + 6000 + 4000 + 2000 = ₹20,000. Rent percentage = (6000/20000) × 100 = 30%. 25% is wrong — would mean 5000 on rent. 35% is wrong — would mean 7000 on rent. 40% is wrong — would mean 8000 on rent."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "If 35% of a class are absent and 39 students are present, the total strength of the class is:",
+      "options": ["60", "55", "65", "50"],
+      "correctAnswer": "60",
+      "explanation": "If 35% are absent, 65% are present. 65% of total = 39. Total = 39 × 100/65 = 60. 55 is wrong — 65% of 55 = 35.75. 65 is wrong — 65% of 65 = 42.25. 50 is wrong — 65% of 50 = 32.5."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) Percentage profit = (Profit/Cost Price) × 100.\n(ii) Percentage loss = (Loss/Selling Price) × 100.\n(iii) If SP > CP, there is a profit.\n(iv) If SP < CP, there is a loss.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — profit % = (Profit/CP) × 100, calculated on cost price. (iii) is correct — when selling price exceeds cost price, the transaction yields profit. (iv) is correct — when selling price is below cost price, there is a loss. (ii) is wrong — percentage loss = (Loss/COST PRICE) × 100, NOT selling price. Both profit% and loss% are calculated on the cost price."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "A salary of ₹25,000 is reduced by 8%. The new salary is:",
+      "options": ["₹23,000", "₹22,500", "₹23,500", "₹24,000"],
+      "correctAnswer": "₹23,000",
+      "explanation": "8% of 25,000 = 2,000. New salary = 25,000 − 2,000 = ₹23,000. ₹22,500 is wrong — that's a 10% reduction. ₹23,500 is wrong — that's a 6% reduction. ₹24,000 is wrong — that's a 4% reduction."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "The marks distribution of students in a test is shown below:\n\n| Marks Range | Number of Students |\n|-------------|-------------------|\n| 0-40 | 10 |\n| 41-60 | 15 |\n| 61-80 | 20 |\n| 81-100 | 5 |\n\nWhat percentage of students scored above 60 marks?",
+      "options": ["50%", "40%", "55%", "45%"],
+      "correctAnswer": "50%",
+      "explanation": "Students scoring above 60: 20 + 5 = 25. Total students = 10 + 15 + 20 + 5 = 50. Percentage = (25/50) × 100 = 50%. 40% is wrong — would mean 20 students. 55% is wrong — would mean 27.5 students. 45% is wrong — would mean 22.5 students."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Match the following scenarios with their results:\n\nColumn I:\n(a) 20% of 350\n(b) What number is 15% of which gives 45\n(c) 75 is what % of 300\n(d) Increase 200 by 35%\n\nColumn II:\n(i) 300\n(ii) 70\n(iii) 25%\n(iv) 270\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) 20% of 350 = 70 — matches (ii). (b) 15% of x = 45, so x = 45/0.15 = 300 — matches (i). (c) (75/300) × 100 = 25% — matches (iii). (d) 200 + 35% of 200 = 200 + 70 = 270 — matches (iv). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "Two numbers are respectively 20% and 50% more than a third number. The ratio of the first number to the second is:",
+      "options": ["4:5", "2:3", "3:4", "5:6"],
+      "correctAnswer": "4:5",
+      "explanation": "Let the third number be 100. First = 120, Second = 150. Ratio = 120:150 = 4:5. 2:3 is wrong — that would require 120:180. 3:4 is wrong — that would require 120:160. 5:6 is wrong — that would require 120:144."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Consider the following:\n\n(i) If 30% of students are girls in a school of 500, there are 150 girls.\n(ii) If a worker's wages increase from ₹200 to ₹250, the percentage increase is 25%.\n(iii) 75% of 400 is 200.\n(iv) If 80% marks mean 320, the total marks are 400.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — 30% of 500 = 150 girls ✓. (ii) is correct — increase = 50, percentage = (50/200) × 100 = 25% ✓. (iv) is correct — 80% of total = 320, total = 320/0.8 = 400 ✓. (iii) is wrong — 75% of 400 = 300, NOT 200."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "A number when increased by 25% becomes 750. The original number is:",
+      "options": ["600", "625", "580", "650"],
+      "correctAnswer": "600",
+      "explanation": "Let original = x. 125% of x = 750. x = 750/1.25 = 600. 625 is wrong — 125% of 625 = 781.25. 580 is wrong — 125% of 580 = 725. 650 is wrong — 125% of 650 = 812.5."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "The production of a factory in the past 4 years was:\n\n| Year | Production (units) |\n|------|-------------------|\n| 2021 | 1000 |\n| 2022 | 1200 |\n| 2023 | 1500 |\n| 2024 | 1800 |\n\nIn which year was the percentage increase in production over the previous year the highest?",
+      "options": ["2023", "2022", "2024", "All years had equal increase"],
+      "correctAnswer": "2023",
+      "explanation": "2022: increase = 200/1000 × 100 = 20%. 2023: increase = 300/1200 × 100 = 25%. 2024: increase = 300/1500 × 100 = 20%. Highest = 2023 (25%). 2022 is wrong — its increase is 20%, lower than 2023's 25%. 2024 is wrong — its increase is also 20%. 'All equal' is wrong — 2023 has a higher rate."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "If a number is decreased by 40%, the resulting number is 360. The original number is:",
+      "options": ["600", "500", "540", "650"],
+      "correctAnswer": "600",
+      "explanation": "60% of original = 360 (since 100% − 40% = 60%). Original = 360/0.6 = 600. 500 is wrong — 60% of 500 = 300. 540 is wrong — 60% of 540 = 324. 650 is wrong — 60% of 650 = 390."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "Which of the following statements are correct about percentage points vs percentage change?\n\n(i) If interest rate changes from 8% to 10%, it has increased by 2 percentage points.\n(ii) The same change (8% to 10%) represents a 25% increase in the rate.\n(iii) Percentage points measure the absolute difference between two percentages.\n(iv) Percentage change and percentage points always give the same value.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 10% − 8% = 2 percentage points (absolute difference). (ii) is correct — percentage increase in rate = (2/8) × 100 = 25%. (iii) is correct — percentage points = simple subtraction of two percentages. (iv) is wrong — they are different: 2 percentage points ≠ 25% increase. They give the same value only when the base is 100%."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "A trader buys goods for ₹800 and sells them for ₹1000. His profit percentage is:",
+      "options": ["25%", "20%", "30%", "22%"],
+      "correctAnswer": "25%",
+      "explanation": "Profit = SP − CP = 1000 − 800 = ₹200. Profit % = (200/800) × 100 = 25%. 20% is wrong — would mean profit of ₹160. 30% is wrong — would mean profit of ₹240. 22% is wrong — would mean profit of ₹176."
+    }
+  ]
+}

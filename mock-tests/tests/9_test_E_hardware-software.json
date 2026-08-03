@@ -1,0 +1,407 @@
+{
+  "subject": "E",
+  "topic": "Hardware & Software",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which of the following is an example of an output device?",
+      "options": ["Printer", "Keyboard", "Scanner", "Microphone"],
+      "correctAnswer": "Printer",
+      "explanation": "A printer is an output device that produces hard copies of digital documents on paper. Keyboard is wrong — it is an input device used to type data. Scanner is wrong — it is an input device that digitizes physical documents. Microphone is wrong — it is an input device that captures audio."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about system software:\n\n(i) An operating system is the most important system software.\n(ii) Device drivers help the OS communicate with hardware peripherals.\n(iii) Microsoft PowerPoint is an example of system software.\n(iv) Compilers translate high-level language into machine code.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — the OS manages all hardware and software resources and is the fundamental system software. (ii) is correct — device drivers are system software enabling OS-to-hardware communication (e.g., printer driver, graphics driver). (iv) is correct — compilers (like GCC, javac) are system software that convert source code to machine-readable code. (iii) is wrong — Microsoft PowerPoint is application software used for presentations, not system software."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The motherboard of a computer is also known as:",
+      "options": ["System board or mainboard", "Expansion board", "Graphics board", "Sound board"],
+      "correctAnswer": "System board or mainboard",
+      "explanation": "The motherboard is also called the system board or mainboard — it is the main printed circuit board (PCB) that holds and connects all major components of a computer. Expansion board is wrong — expansion boards are add-on cards (like graphics cards) that plug INTO the motherboard. Graphics board is wrong — that refers specifically to the GPU/video card. Sound board is wrong — that refers to the audio card."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): ROM is called non-volatile memory.\nReason (R): ROM retains its stored data even when the power supply is turned off.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — ROM (Read Only Memory) is classified as non-volatile memory. Reason (R) is also correct — ROM retains firmware/BIOS instructions permanently without requiring power. (R) explains (A) because the definition of non-volatile memory is precisely that it retains data without continuous power — which is what (R) states about ROM. Option 2 is wrong because (R) is the definition of non-volatile. Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Match the following hardware components with their functions:\n\nColumn I:\n(a) CPU\n(b) RAM\n(c) Hard Disk\n(d) Power Supply Unit\n\nColumn II:\n(i) Converts AC to DC and supplies power to components\n(ii) Processes instructions and performs calculations\n(iii) Stores data permanently\n(iv) Temporarily stores data during processing\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) CPU processes instructions and performs arithmetic/logical operations — matches (ii). (b) RAM temporarily holds data and programs during active use — matches (iv). (c) Hard Disk provides permanent/long-term storage — matches (iii). (d) Power Supply Unit (PSU) converts mains AC to regulated DC voltages for internal components — matches (i). Option 2 swaps CPU and RAM. Option 3 swaps RAM and Hard Disk. Option 4 swaps Hard Disk and PSU."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are types of software?\n\n(i) System software\n(ii) Application software\n(iii) Hardware software\n(iv) Utility software\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — system software includes operating systems, device drivers, and compilers. (ii) is correct — application software includes programs designed for end-users (Word, Excel, browsers). (iv) is correct — utility software performs maintenance tasks like disk cleanup, antivirus scanning, and file compression. (iii) is wrong — 'hardware software' is not a recognized category; hardware and software are distinct concepts."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "The speed of a processor is measured in:",
+      "options": ["Gigahertz (GHz)", "Gigabytes (GB)", "Megapixels (MP)", "Bits per second (bps)"],
+      "correctAnswer": "Gigahertz (GHz)",
+      "explanation": "Processor (CPU) speed is measured in Gigahertz (GHz), indicating billions of clock cycles per second. Gigabytes (GB) is wrong — that measures storage capacity or memory size, not speed. Megapixels (MP) is wrong — that measures camera/image resolution. Bits per second (bps) is wrong — that measures data transfer/network speed, not processor clock speed."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Consider the following statements about application software:\n\n(i) It is designed to perform specific tasks for users.\n(ii) MS Word, MS Excel, and web browsers are examples of application software.\n(iii) Application software can run without an operating system.\n(iv) Application software is classified into general-purpose and special-purpose.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — application software is designed for specific user tasks like word processing, browsing, or accounting. (ii) is correct — MS Word (word processing), MS Excel (spreadsheet), and browsers (web access) are all application software. (iv) is correct — general-purpose (Word, Excel) serves many users; special-purpose (accounting software, hospital management) serves specific needs. (iii) is wrong — application software requires an operating system to run; it cannot function independently."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Fill in the blank: The device that converts digital signals from a computer into analog signals for transmission over telephone lines is called a __________.",
+      "options": ["Modem", "Router", "Switch", "Hub"],
+      "correctAnswer": "Modem",
+      "explanation": "A Modem (Modulator-Demodulator) converts digital signals to analog (modulation) for transmission and analog back to digital (demodulation) for reception. Router is wrong — it directs data packets between networks but doesn't convert signal types. Switch is wrong — it connects devices within a network and forwards data frames. Hub is wrong — it broadcasts data to all connected devices without signal conversion."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An SSD (Solid State Drive) is faster than an HDD (Hard Disk Drive).\nReason (R): SSDs use flash memory with no moving parts, while HDDs use spinning magnetic platters and read/write heads.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — SSDs are significantly faster in read/write speeds than HDDs. Reason (R) is also correct — SSDs use NAND flash memory (electronic, no moving parts) while HDDs use spinning platters. (R) explains (A) because the absence of mechanical parts in SSDs eliminates seek time and rotational latency, directly resulting in faster data access. Option 2 is wrong because (R) gives the technical reason for (A). Option 3 is wrong because (R) is factually correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a type of computer memory?",
+      "options": ["UPS", "RAM", "ROM", "Cache"],
+      "correctAnswer": "UPS",
+      "explanation": "UPS (Uninterruptible Power Supply) is a power backup device, not a type of memory. It provides emergency power during outages. RAM is wrong — it IS a type of volatile primary memory. ROM is wrong — it IS a type of non-volatile primary memory. Cache is wrong — it IS a type of high-speed memory between CPU and RAM."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Match the following types of software with their examples:\n\nColumn I:\n(a) Operating System\n(b) Word Processor\n(c) Spreadsheet\n(d) Database Management System\n\nColumn II:\n(i) MySQL\n(ii) Microsoft Excel\n(iii) Microsoft Word\n(iv) Linux\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "(a) Linux is an operating system — matches (iv). (b) Microsoft Word is a word processor — matches (iii). (c) Microsoft Excel is a spreadsheet application — matches (ii). (d) MySQL is a database management system — matches (i). Option 2 swaps OS and Word Processor. Option 3 swaps Word Processor and Spreadsheet. Option 4 swaps Spreadsheet and DBMS."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The term 'firmware' refers to:",
+      "options": ["Software permanently stored in ROM that controls hardware at the lowest level", "Temporary programs stored in RAM", "Software downloaded from the internet", "External storage media"],
+      "correctAnswer": "Software permanently stored in ROM that controls hardware at the lowest level",
+      "explanation": "Firmware is permanent software embedded in ROM/flash memory that provides low-level control for a device's hardware (e.g., BIOS, embedded controllers). 'Temporary programs in RAM' is wrong — that describes application programs during execution. 'Software downloaded from the internet' is wrong — that refers to downloadable applications or updates. 'External storage media' is wrong — that describes physical hardware like USB drives or CDs."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Consider the following statements about input devices:\n\n(i) A mouse is a pointing input device.\n(ii) A touchscreen is both an input and output device.\n(iii) A plotter is an input device for maps.\n(iv) OCR (Optical Character Recognition) converts printed text into digital text.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — a mouse is a pointing device that inputs cursor position and clicks. (ii) is correct — a touchscreen displays output AND accepts touch input, making it both. (iv) is correct — OCR technology reads printed/handwritten text and converts it to editable digital format. (iii) is wrong — a plotter is an OUTPUT device that produces large-format prints/drawings, not an input device."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A laser printer produces higher quality output than a dot matrix printer.\nReason (R): Laser printers use a laser beam and toner to create sharp text and images, while dot matrix printers use impact pins creating characters from dots.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — laser printers produce much sharper, higher-resolution output. Reason (R) is also correct — laser printers use precise laser beams and fine toner particles while dot matrix uses impact pins. (R) explains (A) because the laser technology produces finer resolution (typically 600-2400 DPI) compared to the coarse dot patterns from impact printing. Option 2 is wrong because (R) directly explains the quality difference. Option 3 is wrong because (R) is technically accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Which type of software manages files, folders, and disks on a computer?",
+      "options": ["Operating System", "Word Processor", "Spreadsheet", "Web Browser"],
+      "correctAnswer": "Operating System",
+      "explanation": "The Operating System manages the file system including creating, deleting, moving, and organizing files and folders, as well as managing disk partitions. Word Processor is wrong — it only creates and edits text documents. Spreadsheet is wrong — it handles numerical data and calculations. Web Browser is wrong — it accesses and displays web pages."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Which of the following are examples of secondary storage devices?\n\n(i) Hard Disk Drive\n(ii) RAM\n(iii) Pen Drive (USB Flash Drive)\n(iv) DVD\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) HDD is correct — it is a magnetic secondary storage device. (iii) Pen Drive is correct — it is a solid-state secondary storage device. (iv) DVD is correct — it is an optical secondary storage medium. (ii) RAM is wrong — RAM is PRIMARY memory (main memory), not secondary storage; it is volatile and used for temporary data during processing."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "The function of the BIOS in a computer is:",
+      "options": ["To initialize and test hardware during startup and load the operating system", "To process mathematical calculations", "To display graphics on the monitor", "To connect the computer to the internet"],
+      "correctAnswer": "To initialize and test hardware during startup and load the operating system",
+      "explanation": "BIOS (Basic Input/Output System) performs POST (Power-On Self-Test), initializes hardware, and then loads the OS from the boot device into RAM. 'Process mathematical calculations' is wrong — that is the CPU's function. 'Display graphics' is wrong — that is the GPU/graphics card's function. 'Connect to the internet' is wrong — that is the network card/modem's function."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Consider the following statements about the difference between hardware and software:\n\n(i) Hardware is tangible (can be physically touched); software is intangible.\n(ii) Hardware degrades over time; software does not physically degrade.\n(iii) Software is developed; hardware is manufactured.\n(iv) Hardware and software are completely independent and do not need each other.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — hardware components are physical objects; software consists of non-physical instructions/programs. (ii) is correct — hardware wears out mechanically/electrically; software does not deteriorate physically (though it can become outdated). (iii) is correct — software is developed/programmed by developers; hardware is manufactured in factories. (iv) is wrong — hardware and software are INTERDEPENDENT; hardware cannot function without software (OS), and software cannot run without hardware."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Fill in the blank: The resolution of a monitor is measured in __________.",
+      "options": ["Pixels", "Hertz", "Bytes", "Decibels"],
+      "correctAnswer": "Pixels",
+      "explanation": "Monitor resolution is expressed in pixels (e.g., 1920×1080 pixels), indicating the number of individual picture elements displayed. Hertz is wrong — Hz measures the refresh rate (how many times per second the screen updates), not resolution. Bytes is wrong — bytes measure data/storage capacity. Decibels is wrong — decibels measure sound intensity."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Match the following storage devices with their approximate storage capacities:\n\nColumn I:\n(a) Standard DVD\n(b) Blu-ray Disc (single layer)\n(c) Standard CD\n(d) Typical USB Flash Drive\n\nColumn II:\n(i) 700 MB\n(ii) 25 GB\n(iii) 4.7 GB\n(iv) 8 GB to 256 GB (commonly)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) Standard DVD holds 4.7 GB — matches (iii). (b) Single-layer Blu-ray holds 25 GB — matches (ii). (c) Standard CD holds 700 MB — matches (i). (d) USB Flash Drives commonly range from 8 GB to 256 GB — matches (iv). Option 2 swaps DVD and Blu-ray. Option 3 swaps Blu-ray and USB. Option 4 swaps CD and USB."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Multi-core processors are faster than single-core processors for multitasking.\nReason (R): Multi-core processors contain two or more processing units (cores) that can execute multiple instructions simultaneously.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — multi-core processors handle multitasking better because they can run multiple threads in parallel. Reason (R) is also correct — dual-core, quad-core, etc. have multiple independent processing units. (R) explains (A) because the ability to execute multiple instructions simultaneously (parallel processing) is what makes multi-core faster for multitasking. Option 2 is wrong because (R) directly explains the performance advantage. Option 3 is wrong because (R) is technically accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Which of the following is a function of the Control Unit in a CPU?",
+      "options": ["Fetching, decoding, and coordinating execution of instructions", "Performing arithmetic calculations", "Storing data permanently", "Displaying output on screen"],
+      "correctAnswer": "Fetching, decoding, and coordinating execution of instructions",
+      "explanation": "The Control Unit (CU) fetches instructions from memory, decodes them, and coordinates all parts of the computer to execute operations in sequence. 'Performing arithmetic calculations' is wrong — that is the ALU's function. 'Storing data permanently' is wrong — that is the hard disk's function. 'Displaying output on screen' is wrong — that is the monitor/GPU's function."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Consider the following statements about generations of computers:\n\n(i) Second generation computers were smaller and faster than first generation.\n(ii) Third generation computers used Integrated Circuits (ICs).\n(iii) Fifth generation computers aim to use artificial intelligence.\n(iv) Fourth generation computers used vacuum tubes.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — second generation (transistors) were smaller, faster, and more energy-efficient than first generation (vacuum tubes). (ii) is correct — third generation (1960s-70s) used ICs (Integrated Circuits) containing many transistors on a chip. (iii) is correct — fifth generation (present/future) focuses on AI, natural language processing, and parallel processing. (iv) is wrong — vacuum tubes were used in FIRST generation, not fourth; fourth generation uses VLSI microprocessors."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "A 'touchpad' found in laptops is classified as:",
+      "options": ["An input device (pointing device)", "An output device", "A storage device", "A processing device"],
+      "correctAnswer": "An input device (pointing device)",
+      "explanation": "A touchpad is an input device that detects finger movement and taps to control the cursor, functioning like a mouse. 'An output device' is wrong — touchpads don't display or produce information. 'A storage device' is wrong — touchpads don't store data. 'A processing device' is wrong — touchpads don't process data or perform calculations."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of an Inkjet printer?\n\n(i) It sprays tiny droplets of ink onto paper.\n(ii) It is generally quieter than a dot matrix printer.\n(iii) It can produce colour prints.\n(iv) It uses a laser beam to print.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — inkjet printers work by spraying microscopic ink droplets through nozzles. (ii) is correct — inkjets are non-impact printers, making them much quieter than dot matrix printers. (iii) is correct — inkjet printers typically use CMYK cartridges to produce colour output. (iv) is wrong — laser beams are used in LASER printers, not inkjet printers."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The term 'bus' in computer architecture refers to:",
+      "options": ["A set of electrical pathways that transfer data between components", "A type of computer virus", "The outer casing of a computer", "A backup storage device"],
+      "correctAnswer": "A set of electrical pathways that transfer data between components",
+      "explanation": "A computer bus is a communication system (set of wires/pathways) that transfers data, addresses, and control signals between the CPU, memory, and other hardware components. 'A type of virus' is wrong — buses are hardware communication channels, not malware. 'Outer casing' is wrong — that is called the computer case or chassis. 'Backup storage' is wrong — buses transport data, they don't store it."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Match the following software types with their descriptions:\n\nColumn I:\n(a) Antivirus software\n(b) Disk defragmenter\n(c) File compression utility\n(d) Backup software\n\nColumn II:\n(i) Reduces file size for storage or transmission\n(ii) Creates copies of data for recovery purposes\n(iii) Reorganizes fragmented data on a disk for faster access\n(iv) Detects and removes malicious programs\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "(a) Antivirus detects, quarantines, and removes viruses/malware — matches (iv). (b) Disk defragmenter rearranges scattered file fragments for improved read performance — matches (iii). (c) File compression (e.g., WinZip, 7-Zip) reduces file sizes — matches (i). (d) Backup software creates duplicate copies of data for disaster recovery — matches (ii). Option 2 swaps antivirus and defragmenter. Option 3 swaps defragmenter and compression. Option 4 swaps compression and backup."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A graphics card (GPU) is essential for displaying high-quality video and images.\nReason (R): A GPU has specialized processors designed to handle complex graphical computations much faster than a CPU.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — a dedicated GPU is necessary for high-quality video rendering, gaming, and image processing. Reason (R) is also correct — GPUs contain thousands of smaller cores designed for parallel graphical computations. (R) explains (A) because it is the GPU's specialized parallel architecture that enables it to render complex graphics faster than a general-purpose CPU could. Option 2 is wrong because (R) directly explains the capability in (A). Option 3 is wrong because (R) is technically accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "The term 'open source software' means:",
+      "options": ["Software whose source code is freely available for anyone to view, modify, and distribute", "Software that runs only on open networks", "Software available in all computer stores", "Software that doesn't require installation"],
+      "correctAnswer": "Software whose source code is freely available for anyone to view, modify, and distribute",
+      "explanation": "Open source software (e.g., Linux, Firefox, LibreOffice) makes its source code publicly available, allowing anyone to study, modify, and redistribute it. 'Runs only on open networks' is wrong — open source refers to code availability, not network requirements. 'Available in all stores' is wrong — 'open' refers to the code being accessible, not retail availability. 'Doesn't require installation' is wrong — open source software may still require installation."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Consider the following statements about optical storage devices:\n\n(i) CD, DVD, and Blu-ray are optical storage media.\n(ii) Data is read from optical discs using a laser beam.\n(iii) Optical discs can store data magnetically.\n(iv) A DVD can store more data than a CD.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — CD, DVD, and Blu-ray are all optical storage media. (ii) is correct — optical discs use laser beams to read data from microscopic pits on the disc surface. (iv) is correct — a standard DVD (4.7 GB) stores approximately 7 times more than a CD (700 MB). (iii) is wrong — optical discs store data OPTICALLY (using laser-readable pits and lands), not magnetically; magnetic storage is used by hard disks and floppy disks."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Which of the following correctly describes 'plug and play'?",
+      "options": ["The ability of a computer to automatically detect and configure new hardware devices", "A type of computer game", "A method of connecting to WiFi", "A programming technique"],
+      "correctAnswer": "The ability of a computer to automatically detect and configure new hardware devices",
+      "explanation": "'Plug and Play' (PnP) means the computer can automatically recognize and install drivers for newly connected hardware without manual configuration. 'A computer game' is wrong — it has nothing to do with games. 'Connecting to WiFi' is wrong — WiFi connection is a different process. 'A programming technique' is wrong — it's a hardware/OS feature, not a programming method."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Match the following ports with their primary uses:\n\nColumn I:\n(a) USB port\n(b) HDMI port\n(c) Ethernet (RJ-45) port\n(d) Audio jack (3.5mm)\n\nColumn II:\n(i) Connecting headphones or speakers\n(ii) Connecting to a wired network/internet\n(iii) Connecting external devices like pen drives, keyboards\n(iv) Transmitting high-definition audio and video to a monitor/TV\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "(a) USB ports connect peripherals like flash drives, keyboards, and mice — matches (iii). (b) HDMI transmits HD audio and video to displays — matches (iv). (c) Ethernet/RJ-45 connects to wired LANs and internet — matches (ii). (d) 3.5mm audio jack connects headphones, earphones, or speakers — matches (i). Option 2 swaps USB and HDMI. Option 3 swaps HDMI and Ethernet. Option 4 swaps Ethernet and Audio."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "The operating system Windows was developed by:",
+      "options": ["Microsoft", "Apple", "Google", "IBM"],
+      "correctAnswer": "Microsoft",
+      "explanation": "The Windows operating system was developed by Microsoft Corporation, founded by Bill Gates and Paul Allen. Apple is wrong — Apple developed macOS (and iOS for mobile). Google is wrong — Google developed Android and Chrome OS. IBM is wrong — IBM developed OS/2 and contributed to mainframe operating systems but not Windows."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Consider the following statements about RAM:\n\n(i) DRAM (Dynamic RAM) needs periodic refreshing to retain data.\n(ii) SRAM (Static RAM) is faster but more expensive than DRAM.\n(iii) RAM capacity is typically measured in Gigabytes (GB).\n(iv) RAM is used as permanent storage in computers.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — DRAM uses capacitors that leak charge and must be refreshed thousands of times per second. (ii) is correct — SRAM uses flip-flop circuits (no refresh needed), making it faster but costlier; used in cache memory. (iii) is correct — modern computers typically have 4GB, 8GB, 16GB, or 32GB RAM. (iv) is wrong — RAM is TEMPORARY (volatile) storage that loses data when power is off; permanent storage is provided by HDDs/SSDs."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "A scanner is classified as which type of device?",
+      "options": ["Input device", "Output device", "Processing device", "Storage device"],
+      "correctAnswer": "Input device",
+      "explanation": "A scanner is an input device that converts physical documents (text, images) into digital format for the computer to process. 'Output device' is wrong — scanners bring data INTO the computer, not out. 'Processing device' is wrong — scanners don't process data; they capture it. 'Storage device' is wrong — scanners don't store data; they digitize and transfer it."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Which of the following are functions of an operating system?\n\n(i) Process management (scheduling and multitasking)\n(ii) Memory management (allocating RAM to programs)\n(iii) Writing application programs for users\n(iv) Device management (controlling I/O devices through drivers)\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — the OS manages running processes, allocating CPU time through scheduling algorithms. (ii) is correct — the OS manages RAM allocation, virtual memory, and prevents memory conflicts between programs. (iv) is correct — the OS communicates with hardware through device drivers and manages I/O operations. (iii) is wrong — writing application programs is the job of SOFTWARE DEVELOPERS, not the operating system itself."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "The difference between a CD-ROM and a CD-RW is:",
+      "options": ["CD-ROM can only be read; CD-RW can be read, written, and erased multiple times", "CD-ROM is larger in size than CD-RW", "CD-RW stores less data than CD-ROM", "There is no difference between them"],
+      "correctAnswer": "CD-ROM can only be read; CD-RW can be read, written, and erased multiple times",
+      "explanation": "CD-ROM (Read Only Memory) is pre-written and cannot be modified by the user — it is read-only. CD-RW (ReWritable) can be written, erased, and rewritten up to approximately 1000 times. 'CD-ROM is larger' is wrong — both are standard 12cm discs. 'CD-RW stores less' is wrong — both have approximately 700 MB capacity. 'No difference' is wrong — their writability is fundamentally different."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Linux is classified as open-source system software.\nReason (R): Linux source code is publicly available, and it functions as an operating system managing hardware and software resources.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Linux is both open-source and system software. Reason (R) is also correct — Linux's source code is freely available (open-source) and it manages hardware/software resources (system software/OS). (R) explains (A) by addressing both aspects: the 'open-source' part (public code) and the 'system software' part (OS functionality). Option 2 is wrong because (R) directly justifies both claims in (A). Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Which component connects the CPU to external devices and expansion slots?",
+      "options": ["Motherboard", "RAM", "Hard Disk", "Power Supply"],
+      "correctAnswer": "Motherboard",
+      "explanation": "The motherboard connects the CPU to all other components including RAM slots, expansion slots (PCI, PCIe), USB ports, and storage connectors. RAM is wrong — RAM is a component that plugs into the motherboard, it doesn't connect other things. Hard Disk is wrong — it stores data but doesn't serve as a connector for other components. Power Supply is wrong — it provides electricity but doesn't facilitate data communication between components."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "Consider the following statements about utility software:\n\n(i) Disk cleanup removes unnecessary files to free up space.\n(ii) Antivirus software protects against malicious programs.\n(iii) Utility software is a type of application software designed for entertainment.\n(iv) File compression utilities reduce file sizes.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — disk cleanup tools remove temporary files, cache, and recycle bin contents to free space. (ii) is correct — antivirus/anti-malware software detects, quarantines, and removes threats. (iv) is correct — compression utilities (WinRAR, 7-Zip) reduce file sizes using algorithms. (iii) is wrong — utility software performs system maintenance tasks, NOT entertainment; entertainment software is a different category entirely."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "The term 'dual boot' means:",
+      "options": ["A computer that has two operating systems installed and allows the user to choose which one to load at startup", "A computer with two monitors", "A computer with two hard drives", "A computer that starts twice before working"],
+      "correctAnswer": "A computer that has two operating systems installed and allows the user to choose which one to load at startup",
+      "explanation": "Dual boot is a setup where two OS installations (e.g., Windows and Linux) coexist on one computer, with a boot menu letting the user choose at startup. 'Two monitors' is wrong — that's called dual-display or multi-monitor setup. 'Two hard drives' is wrong — that's simply having multiple storage drives. 'Starts twice' is wrong — dual boot means two OS choices, not two startup attempts."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "Match the following computer terms with their meanings:\n\nColumn I:\n(a) Peripheral\n(b) Driver\n(c) Firmware\n(d) Middleware\n\nColumn II:\n(i) Software that acts as a bridge between an OS and applications\n(ii) Software embedded in hardware for low-level control\n(iii) External device connected to a computer\n(iv) Software that enables OS to communicate with hardware\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "(a) Peripheral = external device (keyboard, printer, mouse) — matches (iii). (b) Driver = software enabling OS-hardware communication — matches (iv). (c) Firmware = software embedded in ROM for hardware control (BIOS) — matches (ii). (d) Middleware = software layer between OS and applications for communication/data management — matches (i). Option 2 swaps Peripheral and Driver. Option 3 swaps Driver and Firmware. Option 4 swaps Firmware and Middleware."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Which of the following is a characteristic of 'freeware'?",
+      "options": ["It is available for use at no cost, but its source code may not be available", "It must always include source code", "It can only be used for 30 days", "It requires a paid license"],
+      "correctAnswer": "It is available for use at no cost, but its source code may not be available",
+      "explanation": "Freeware is software distributed at no cost to the user, but the developer retains copyright and may not release the source code (unlike open source). 'Must include source code' is wrong — that describes open-source software, not freeware. 'Only 30 days' is wrong — that describes shareware or trial versions with time limits. 'Requires paid license' is wrong — freeware is specifically free of charge."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Consider the following statements about the differences between an interpreter and a compiler:\n\n(i) A compiler translates the entire program at once; an interpreter translates line by line.\n(ii) Compiled programs generally run faster than interpreted programs.\n(iii) An interpreter produces an executable file; a compiler does not.\n(iv) Errors in interpreted programs are detected one line at a time during execution.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — compilers process the entire source code at once producing machine code; interpreters process and execute one statement at a time. (ii) is correct — compiled programs (already in machine code) execute faster than interpreted programs (translated during runtime). (iv) is correct — interpreters stop and report errors as they encounter them during line-by-line execution. (iii) is wrong — it's the COMPILER that produces an executable file (.exe), NOT the interpreter; interpreters execute code directly without creating a separate executable."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "The 'recycle bin' in Windows serves what purpose?",
+      "options": ["Temporarily stores deleted files before permanent removal", "Stores downloaded files from the internet", "Holds virus-infected files", "Manages system backup files"],
+      "correctAnswer": "Temporarily stores deleted files before permanent removal",
+      "explanation": "The Recycle Bin holds files that have been deleted by the user, allowing recovery if needed before they are permanently erased (by emptying the Recycle Bin). 'Stores downloads' is wrong — downloaded files go to the Downloads folder. 'Holds infected files' is wrong — that's the quarantine feature of antivirus software. 'Manages backups' is wrong — system backup is managed by backup utilities, not the Recycle Bin."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "Which of the following are types of printers?\n\n(i) Inkjet printer\n(ii) Laser printer\n(iii) Dot matrix printer\n(iv) LED printer\n\nSelect the correct combination:",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "(i) Inkjet printer — sprays ink droplets onto paper ✓. (ii) Laser printer — uses laser beam and toner for high-quality printing ✓. (iii) Dot matrix printer — uses pins striking an ink ribbon to form characters ✓. (iv) LED printer — similar to laser but uses an array of LEDs instead of a single laser ✓. All four are recognized types of printers."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "The acronym 'GUI' stands for:",
+      "options": ["Graphical User Interface", "General Utility Interface", "Graphics Unified Integration", "General User Instruction"],
+      "correctAnswer": "Graphical User Interface",
+      "explanation": "'GUI' stands for Graphical User Interface — a visual interface using icons, windows, menus, and pointers for user interaction (as opposed to command-line interfaces). 'General Utility Interface' is wrong — this is not a recognized term. 'Graphics Unified Integration' is wrong — this is not the correct expansion. 'General User Instruction' is wrong — this is not what GUI stands for."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer hardware generations:\n\n(i) Transistors replaced vacuum tubes in the second generation.\n(ii) Integrated Circuits reduced size and cost in the third generation.\n(iii) VLSI technology enabled microprocessors in the fourth generation.\n(iv) All generations used the same programming language.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — transistors (smaller, cooler, faster) replaced bulky vacuum tubes in the 2nd generation. (ii) is correct — ICs placed many transistors on one chip, reducing size and cost (3rd gen). (iii) is correct — VLSI (Very Large Scale Integration) put millions of transistors on a single chip, enabling microprocessors (4th gen). (iv) is wrong — programming evolved from machine code (1st gen) → assembly language (2nd gen) → high-level languages (3rd gen) → 4GLs and beyond."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "The function of a 'heat sink' in a computer is:",
+      "options": ["To absorb and dissipate heat generated by the CPU or other components", "To increase the speed of the processor", "To store temporary data", "To connect the computer to a network"],
+      "correctAnswer": "To absorb and dissipate heat generated by the CPU or other components",
+      "explanation": "A heat sink is a passive cooling component (usually aluminium or copper) attached to the CPU that absorbs heat and radiates it away, preventing overheating. 'Increase processor speed' is wrong — heat sinks prevent thermal throttling but don't directly increase speed. 'Store temporary data' is wrong — that's RAM's function. 'Connect to network' is wrong — that's a network card/adapter's function."
+    }
+  ]
+}

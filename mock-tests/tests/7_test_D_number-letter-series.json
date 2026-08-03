@@ -1,0 +1,247 @@
+{
+  "subject": "D",
+  "topic": "Number Series & Letter Series",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Find the next number in the series: 2, 6, 12, 20, 30, ?",
+      "options": ["40", "42", "44", "38"],
+      "correctAnswer": "42",
+      "explanation": "The differences between consecutive terms are: 4, 6, 8, 10, and the next difference should be 12. So 30 + 12 = 42. The pattern is n(n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30, 6×7=42. 40 is wrong — results from adding 10 again instead of 12. 44 is wrong — results from adding 14. 38 is wrong — results from adding 8."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Find the next letter in the series: A, C, F, J, O, ?",
+      "options": ["U", "T", "S", "V"],
+      "correctAnswer": "U",
+      "explanation": "The gaps between letters increase by 1 each time: A→C (+2), C→F (+3), F→J (+4), J→O (+5), O→? (+6). O + 6 = U. T is wrong — that would be +5 (same gap as previous). S is wrong — that would be +4. V is wrong — that would be +7."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Consider the following statements about the number series 3, 9, 27, 81, 243:\n\n(i) Each term is obtained by multiplying the previous term by 3.\n(ii) This is a geometric progression with common ratio 3.\n(iii) The next term in the series would be 729.\n(iv) The sum of all five given terms is 362.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 3×3=9, 9×3=27, 27×3=81, 81×3=243. (ii) is correct — it is a GP with first term 3 and common ratio 3. (iii) is correct — next term = 243×3 = 729. (iv) is wrong — actual sum = 3+9+27+81+243 = 363, not 362."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Find the missing number in the series: 5, 11, 23, 47, ?, 191",
+      "options": ["95", "94", "93", "96"],
+      "correctAnswer": "95",
+      "explanation": "The pattern is: each term = previous term × 2 + 1. So 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95, 95×2+1=191. 94 is wrong — results from ×2 without +1 at some step. 93 is wrong — results from incorrect multiplication. 96 is wrong — results from 47×2+2."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the letter series Z, X, V, T, R, the next letter is P.\nReason (R): The series follows a pattern of skipping one letter backward each time (decreasing by 2 positions).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Z(26), X(24), V(22), T(20), R(18), next is P(16). Reason (R) is also correct — each letter is 2 positions behind the previous one (skipping one letter). (R) explains (A) because applying the rule of −2 to R(18) gives P(16). Option 2 is wrong because (R) directly explains the pattern producing (A). Option 3 is wrong because (R) correctly describes the pattern. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following number series with their patterns:\n\nColumn I:\n(a) 1, 4, 9, 16, 25\n(b) 2, 3, 5, 7, 11\n(c) 1, 1, 2, 3, 5, 8\n(d) 1, 8, 27, 64, 125\n\nColumn II:\n(i) Prime numbers\n(ii) Perfect squares (n²)\n(iii) Fibonacci sequence\n(iv) Perfect cubes (n³)\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a) 1,4,9,16,25 = 1²,2²,3²,4²,5² = perfect squares — matches (ii). (b) 2,3,5,7,11 = consecutive prime numbers — matches (i). (c) 1,1,2,3,5,8 = each term is sum of previous two = Fibonacci — matches (iii). (d) 1,8,27,64,125 = 1³,2³,3³,4³,5³ = perfect cubes — matches (iv). Option 2 swaps squares and cubes. Option 3 swaps primes and Fibonacci. Option 4 swaps Fibonacci and cubes."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Find the next number in the series: 7, 14, 28, 56, 112, ?",
+      "options": ["224", "220", "216", "228"],
+      "correctAnswer": "224",
+      "explanation": "Each term is multiplied by 2: 7×2=14, 14×2=28, 28×2=56, 56×2=112, 112×2=224. This is a geometric progression with common ratio 2. 220 is wrong — results from adding 108. 216 is wrong — results from adding 104. 228 is wrong — results from multiplying by a wrong ratio."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following letter series follow a pattern of increasing gaps?\n\n(i) B, D, G, K, P\n(ii) A, C, E, G, I\n(iii) M, J, G, D, A\n(iv) A, B, D, G, K\n\nSelect the correct combination:",
+      "options": ["(i) and (iv) only", "(i) and (ii) only", "(i), (ii) and (iv)", "(ii) and (iii) only"],
+      "correctAnswer": "(i) and (iv) only",
+      "explanation": "(i) B→D(+2), D→G(+3), G→K(+4), K→P(+5) — increasing gaps ✓. (iv) A→B(+1), B→D(+2), D→G(+3), G→K(+4) — increasing gaps ✓. (ii) A→C(+2), C→E(+2), E→G(+2), G→I(+2) — constant gap, not increasing. (iii) M→J(−3), J→G(−3), G→D(−3), D→A(−3) — constant gap (decreasing by 3), not increasing gaps."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Find the wrong number in the series: 2, 5, 10, 17, 28, 37, 50",
+      "options": ["28", "17", "37", "50"],
+      "correctAnswer": "28",
+      "explanation": "The pattern is: differences are consecutive odd numbers: +3, +5, +7, +9, +11, +13. So: 2+3=5, 5+5=10, 10+7=17, 17+9=26 (not 28), 26+11=37, 37+13=50. The wrong number is 28; it should be 26. 17 is wrong — 10+7=17 is correct. 37 is wrong — if 28 is corrected to 26, then 26+11=37 is correct. 50 is wrong — 37+13=50 is correct."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements about the series 1, 4, 9, 16, 25, 36:\n\n(i) The general term is n².\n(ii) The differences between consecutive terms form an arithmetic progression.\n(iii) The 10th term of the series is 100.\n(iv) The series is an arithmetic progression.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 1²=1, 2²=4, 3²=9, 4²=16, 5²=25, 6²=36. (ii) is correct — differences: 3,5,7,9,11 form an AP with common difference 2. (iii) is correct — 10th term = 10² = 100. (iv) is wrong — an AP has a constant difference between consecutive terms, but here differences are 3,5,7,9,11 (not constant). It is NOT an AP."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Find the next letters in the series: AZ, BY, CX, DW, ?",
+      "options": ["EV", "EU", "FV", "EW"],
+      "correctAnswer": "EV",
+      "explanation": "The first letter increases: A, B, C, D, E (+1 each). The second letter decreases: Z, Y, X, W, V (−1 each). So next pair = EV. EU is wrong — U is two positions below V, not one. FV is wrong — F would mean first letter jumped by 2. EW is wrong — W was already the previous second letter."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The next number in the series 1, 1, 2, 3, 5, 8, 13 is 21.\nReason (R): In a Fibonacci sequence, each term is the sum of the two preceding terms.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 8 + 13 = 21. Reason (R) is also correct — in Fibonacci, each term = sum of two preceding terms. (R) explains (A) because applying the Fibonacci rule to the last two terms (8+13) gives 21. Option 2 is wrong because (R) is the exact rule that produces (A). Option 3 is wrong because (R) is the correct definition. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Find the missing term: 3, 6, 11, 18, ?, 38",
+      "options": ["27", "25", "26", "28"],
+      "correctAnswer": "27",
+      "explanation": "Differences: 3, 5, 7, ?, ?. The differences increase by 2 each time (AP of differences). So next difference = 9, then 11. Therefore: 18 + 9 = 27, and 27 + 11 = 38 ✓. 25 is wrong — would make difference 7 (same as previous, not increasing). 26 is wrong — would make difference 8 (not following +2 pattern). 28 is wrong — would make difference 10, then 38−28=10 (not 11)."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Fill in the blank: In the letter series B, E, H, K, N, the next letter is __________.",
+      "options": ["Q", "P", "O", "R"],
+      "correctAnswer": "Q",
+      "explanation": "Each letter advances by 3 positions: B(2)→E(5)→H(8)→K(11)→N(14)→Q(17). Gap is consistently +3. P is wrong — that would be +2 from N. O is wrong — that would be +1 from N. R is wrong — that would be +4 from N."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Match the following series with their next terms:\n\nColumn I:\n(a) 4, 9, 16, 25, 36\n(b) 3, 6, 12, 24, 48\n(c) 100, 95, 90, 85, 80\n(d) 2, 6, 18, 54, 162\n\nColumn II:\n(i) 75\n(ii) 49\n(iii) 96\n(iv) 486\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) 4,9,16,25,36 = 2²,3²,4²,5²,6²; next = 7² = 49 — matches (ii). (b) 3,6,12,24,48 = ×2 each time; next = 48×2 = 96 — matches (iii). (c) 100,95,90,85,80 = −5 each; next = 80−5 = 75 — matches (i). (d) 2,6,18,54,162 = ×3 each time; next = 162×3 = 486 — matches (iv). Option 2 swaps (a) and (b). Option 3 swaps (b) and (d). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Find the next number in the series: 1, 2, 4, 7, 11, 16, ?",
+      "options": ["22", "21", "23", "20"],
+      "correctAnswer": "22",
+      "explanation": "Differences: +1, +2, +3, +4, +5, so next difference = +6. Therefore 16 + 6 = 22. 21 is wrong — results from adding 5 again. 23 is wrong — results from adding 7. 20 is wrong — results from adding 4."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Consider the following statements about the letter series P, N, L, J, H:\n\n(i) The letters decrease by 2 positions each time.\n(ii) The next letter in the series is F.\n(iii) The series is in reverse alphabetical order with alternate letters.\n(iv) The pattern is the same as Z, X, V, T, R.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — P(16)→N(14)→L(12)→J(10)→H(8), decreasing by 2 each time. (ii) is correct — H(8) − 2 = F(6). (iv) is correct — Z,X,V,T,R also decreases by 2 positions; same pattern. (iii) is wrong — 'reverse alphabetical order with alternate letters' would mean Z,X,V,T... starting from Z; this series starts from P, not in reverse alphabetical order from Z."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "What comes next in the series: 2, 3, 5, 8, 12, 17, ?",
+      "options": ["23", "22", "24", "21"],
+      "correctAnswer": "23",
+      "explanation": "Differences: +1, +2, +3, +4, +5, so next difference = +6. Therefore 17 + 6 = 23. 22 is wrong — results from adding 5 again. 24 is wrong — results from adding 7. 21 is wrong — results from adding 4."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the number series 5, 10, 20, 40, 80, the common ratio is 2.\nReason (R): In a geometric progression, the ratio of any term to its preceding term remains constant.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 10/5=2, 20/10=2, 40/20=2, 80/40=2; common ratio is 2. Reason (R) is also correct — in a GP, the ratio between consecutive terms is constant (called common ratio). (R) explains (A) because the constant ratio of 2 between each pair of consecutive terms is what defines this as a GP with common ratio 2. Option 2 is wrong because (R) is the definition that validates (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Find the next term in the letter series: ACE, FHJ, KMO, ?",
+      "options": ["PRT", "QSU", "OQS", "PSU"],
+      "correctAnswer": "PRT",
+      "explanation": "Each group starts 5 positions after the previous group's start: A(1), F(6), K(11), P(16). Within each group, letters are alternate (skip one): A,C,E / F,H,J / K,M,O / P,R,T. So next group starts at P and takes alternate letters: P, R, T. QSU is wrong — Q is position 17, not 16. OQS is wrong — O is position 15. PSU is wrong — the internal pattern should be +2,+2, giving P,R,T not P,S,U."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Which of the following are arithmetic progressions?\n\n(i) 3, 7, 11, 15, 19\n(ii) 1, 4, 9, 16, 25\n(iii) 10, 7, 4, 1, −2\n(iv) 5, 10, 20, 40, 80\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i) and (ii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) has constant difference +4: 7−3=4, 11−7=4, 15−11=4, 19−15=4 ✓ AP. (iii) has constant difference −3: 7−10=−3, 4−7=−3, 1−4=−3, −2−1=−3 ✓ AP. (ii) has differences 3,5,7,9 — not constant, it's a sequence of perfect squares ✗. (iv) has ratios 2,2,2,2 — constant ratio (GP), not constant difference ✗."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "The number series 1000, 200, 40, 8, ? follows which pattern to give the next term?",
+      "options": ["1.6", "2", "4", "1"],
+      "correctAnswer": "1.6",
+      "explanation": "Each term is divided by 5: 1000÷5=200, 200÷5=40, 40÷5=8, 8÷5=1.6. 2 is wrong — 8÷4=2 (wrong divisor). 4 is wrong — 8÷2=4 (wrong divisor). 1 is wrong — 8÷8=1 (wrong divisor)."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Match the following letter series with the rule they follow:\n\nColumn I:\n(a) A, D, G, J, M\n(b) Z, W, T, Q, N\n(c) A, C, E, G, I\n(d) B, D, F, H, J\n\nColumn II:\n(i) Every alternate letter starting from B\n(ii) Every alternate letter starting from A\n(iii) Decrease by 3 positions from Z\n(iv) Increase by 3 positions from A\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "(a) A(1),D(4),G(7),J(10),M(13) — increases by 3 from A — matches (iv). (b) Z(26),W(23),T(20),Q(17),N(14) — decreases by 3 from Z — matches (iii). (c) A,C,E,G,I — every alternate letter starting from A (skip B,D,F,H) — matches (ii). (d) B,D,F,H,J — every alternate letter starting from B (skip C,E,G,I) — matches (i). Option 2 swaps (a) and (c). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Find the next number: 1, 3, 6, 10, 15, 21, ?",
+      "options": ["28", "27", "26", "29"],
+      "correctAnswer": "28",
+      "explanation": "These are triangular numbers: T(n) = n(n+1)/2. T(1)=1, T(2)=3, T(3)=6, T(4)=10, T(5)=15, T(6)=21, T(7)=28. Or: differences are +2,+3,+4,+5,+6,+7. So 21+7=28. 27 is wrong — results from adding 6 again. 26 is wrong — results from adding 5. 29 is wrong — results from adding 8."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Consider the following statements about number patterns:\n\n(i) In an arithmetic progression, the difference between consecutive terms is constant.\n(ii) In a geometric progression, the ratio between consecutive terms is constant.\n(iii) The Fibonacci sequence has a constant difference between terms.\n(iv) A decreasing series can also be an arithmetic progression.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — AP has constant common difference (e.g., 2,5,8,11 with d=3). (ii) is correct — GP has constant common ratio (e.g., 2,6,18,54 with r=3). (iv) is correct — a series like 20,17,14,11 is an AP with d=−3 (decreasing). (iii) is wrong — Fibonacci (1,1,2,3,5,8) has differences 0,1,1,2,3 which are NOT constant."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "The following series shows the pattern of a student's daily savings (in ₹) over 6 days: 10, 15, 20, 25, 30, 35. What will be the total savings after 8 days if the same pattern continues?",
+      "options": ["₹220", "₹200", "₹210", "₹240"],
+      "correctAnswer": "₹220",
+      "explanation": "The series is an AP with a=10, d=5. Day 7 savings = 40, Day 8 savings = 45. Total for 8 days = Sum of AP = n/2 × (first + last) = 8/2 × (10+45) = 4 × 55 = 220. ₹200 is wrong — results from computing 8×25. ₹210 is wrong — results from computing 6×35. ₹240 is wrong — results from computing 8×30."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Find the next term in the series: 11, 13, 17, 19, 23, 29, ?",
+      "options": ["31", "33", "30", "37"],
+      "correctAnswer": "31",
+      "explanation": "The series consists of consecutive prime numbers starting from 11: 11, 13, 17, 19, 23, 29, 31. The next prime after 29 is 31. 33 is wrong — 33 = 3×11, not prime. 30 is wrong — 30 is even and divisible by 2,3,5. 37 is wrong — while 37 is prime, it's not the next prime after 29 (31 comes first)."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "The number of visitors to a park on 5 consecutive days was: 120, 135, 150, 165, 180. If the same pattern continues, how many visitors are expected on Day 7?",
+      "options": ["210", "200", "195", "215"],
+      "correctAnswer": "210",
+      "explanation": "The series is an AP with d = 15. Day 6 = 180 + 15 = 195, Day 7 = 195 + 15 = 210. Or using formula: a + (n−1)d = 120 + 6×15 = 120 + 90 = 210. 200 is wrong — results from adding 20 instead of 15 to 180. 195 is wrong — that's Day 6, not Day 7. 215 is wrong — results from adding 35 to 180."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Consider the following statements about the series 64, 32, 16, 8, 4, 2:\n\n(i) It is a geometric progression.\n(ii) The common ratio is 1/2.\n(iii) The next term is 1.\n(iv) The common difference is −32.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 32/64=1/2, 16/32=1/2, 8/16=1/2; constant ratio makes it a GP. (ii) is correct — common ratio r = 1/2 (each term is half the previous). (iii) is correct — next term = 2 × (1/2) = 1. (iv) is wrong — 'common difference' is an AP concept; differences here are −32,−16,−8,−4,−2 (not constant), confirming it's not an AP."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Find the missing letters: AZ, CX, EV, GT, ?",
+      "options": ["IR", "IS", "HR", "IT"],
+      "correctAnswer": "IR",
+      "explanation": "First letters: A(1), C(3), E(5), G(7), I(9) — increase by 2 (odd positions). Second letters: Z(26), X(24), V(22), T(20), R(18) — decrease by 2. So next pair = IR. IS is wrong — S is position 19, not 18. HR is wrong — H is position 8, not 9. IT is wrong — T was the previous second letter."
+    }
+  ]
+}
