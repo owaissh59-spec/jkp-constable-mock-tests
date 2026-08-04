@@ -69,17 +69,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 19 | Morning | A — General English | Idioms & Phrases | 30 | foundation | Topic-wise | ⬜ |
-| 20 | Afternoon | D — Numerical and Reasoning Ability | Average | 40 | foundation | Topic-wise | ⬜ |
-| 21 | Late | FULL | Cumulative Revision — Week 1 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ⬜ |
+| 19 | Morning | A — General English | Idioms & Phrases | 30 | foundation | Topic-wise | ✅ |
+| 20 | Afternoon | D — Numerical and Reasoning Ability | Average | 40 | foundation | Topic-wise | ✅ |
+| 21 | Late | FULL | Cumulative Revision — Week 1 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ✅ |
 
 ### Day 8
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 22 | Morning | B — General Knowledge & Current Affairs (India) | Famous Places in India & Languages | 30 | foundation | Topic-wise | ⬜ |
-| 23 | Afternoon | E — Basic Concepts of Computers | MS Word | 40 | foundation | Topic-wise | ⬜ |
-| 24 | Late | D — Numerical and Reasoning Ability | Profit & Loss | 50 | foundation | Topic-wise | ⬜ |
+| 22 | Morning | B — General Knowledge & Current Affairs (India) | Famous Places in India & Languages | 30 | foundation | Topic-wise | ✅ |
+| 23 | Afternoon | E — Basic Concepts of Computers | MS Word | 40 | foundation | Topic-wise | ✅ |
+| 24 | Late | D — Numerical and Reasoning Ability | Profit & Loss | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 9
 

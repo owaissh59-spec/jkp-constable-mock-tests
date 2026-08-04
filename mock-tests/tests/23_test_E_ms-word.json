@@ -1,0 +1,327 @@
+{
+  "subject": "E",
+  "topic": "MS Word",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "MS Word is primarily used for:",
+      "options": ["Creating, editing, and formatting text documents", "Creating spreadsheets and calculations", "Creating presentations with slides", "Managing databases"],
+      "correctAnswer": "Creating, editing, and formatting text documents",
+      "explanation": "MS Word is a word processing application designed for creating, editing, formatting, and printing text documents. 'Spreadsheets' is wrong — that's MS Excel. 'Presentations' is wrong — that's MS PowerPoint. 'Managing databases' is wrong — that's MS Access."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Word:\n\n(i) The default file extension for MS Word 2007 and later is .docx.\n(ii) MS Word is part of the Microsoft Office suite.\n(iii) MS Word can only create plain text files without any formatting.\n(iv) MS Word supports inserting images, tables, and charts into documents.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — Word 2007+ saves in .docx format (XML-based). (ii) is correct — MS Word is a component of Microsoft Office (along with Excel, PowerPoint, etc.). (iv) is correct — Word supports multimedia elements like images, tables, charts, shapes, and more. (iii) is wrong — MS Word is a RICH TEXT editor that supports extensive formatting (fonts, colours, styles, headers, etc.), not just plain text."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The keyboard shortcut to SAVE a document in MS Word is:",
+      "options": ["Ctrl + S", "Ctrl + V", "Ctrl + C", "Ctrl + P"],
+      "correctAnswer": "Ctrl + S",
+      "explanation": "Ctrl + S saves the current document. Ctrl + V is wrong — that pastes copied content. Ctrl + C is wrong — that copies selected content. Ctrl + P is wrong — that opens the Print dialog."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The 'Ribbon' in MS Word replaced the traditional menu bar from Word 2007 onwards.\nReason (R): The Ribbon organizes commands into tabs (Home, Insert, Layout, etc.) with grouped buttons, making features more visually accessible.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — the Ribbon interface replaced menus/toolbars starting with Office 2007. Reason (R) is also correct — the Ribbon uses tabs with categorized command groups for easier access. (R) explains (A) because the improved organization is why Microsoft replaced the old menu system. Option 2 is wrong because (R) explains the design intent. Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Match the following MS Word shortcuts with their functions:\n\nColumn I:\n(a) Ctrl + B\n(b) Ctrl + I\n(c) Ctrl + U\n(d) Ctrl + Z\n\nColumn II:\n(i) Undo last action\n(ii) Bold text\n(iii) Underline text\n(iv) Italic text\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) Ctrl+B = Bold — matches (ii). (b) Ctrl+I = Italic — matches (iv). (c) Ctrl+U = Underline — matches (iii). (d) Ctrl+Z = Undo — matches (i). Option 2 swaps Bold and Italic. Option 3 swaps Italic and Underline. Option 4 swaps Underline and Undo."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are text formatting options available in MS Word?\n\n(i) Bold, Italic, Underline\n(ii) Font size and font colour\n(iii) Line spacing and paragraph alignment\n(iv) Video editing\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Bold (B), Italic (I), and Underline (U) are basic text formatting. (ii) is correct — font size and colour can be changed. (iii) is correct — line spacing (single, 1.5, double) and alignment (left, center, right, justify) are paragraph formatting. (iv) is wrong — MS Word is NOT a video editor; video editing requires software like Adobe Premiere or Windows Movie Maker."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "The 'Header and Footer' feature in MS Word is used to:",
+      "options": ["Add text that appears at the top and bottom of every page automatically", "Create a table of contents", "Insert page borders", "Change the document font"],
+      "correctAnswer": "Add text that appears at the top and bottom of every page automatically",
+      "explanation": "Headers appear at the top and footers at the bottom of each page — commonly used for page numbers, document titles, dates, etc. 'Table of contents' is wrong — that's a separate References feature. 'Page borders' is wrong — that's under Page Layout/Design. 'Change font' is wrong — that's a formatting function in the Home tab."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Consider the following statements about paragraph alignment in MS Word:\n\n(i) Left alignment aligns text to the left margin.\n(ii) Center alignment places text in the middle.\n(iii) Right alignment aligns text to the right margin.\n(iv) Justify alignment only aligns the first line.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — left alignment (Ctrl+L) places text flush against the left margin. (ii) is correct — center alignment (Ctrl+E) centers text between margins. (iii) is correct — right alignment (Ctrl+R) places text flush against the right margin. (iv) is wrong — justify alignment (Ctrl+J) spreads ALL lines evenly between both margins (not just the first line)."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Fill in the blank: The keyboard shortcut to PRINT a document in MS Word is __________.",
+      "options": ["Ctrl + P", "Ctrl + S", "Ctrl + O", "Ctrl + N"],
+      "correctAnswer": "Ctrl + P",
+      "explanation": "Ctrl+P opens the Print dialog/preview in MS Word. Ctrl+S is wrong — that saves the document. Ctrl+O is wrong — that opens an existing document. Ctrl+N is wrong — that creates a new blank document."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): MS Word's 'Find and Replace' feature is useful for editing large documents.\nReason (R): It allows users to search for specific words or phrases and replace them all at once, saving time compared to manual searching.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Find and Replace (Ctrl+H) is extremely useful for large documents. Reason (R) is also correct — it searches and replaces throughout the document instantly. (R) explains (A) because the ability to make bulk changes quickly is what makes it useful. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "The 'Mail Merge' feature in MS Word is used to:",
+      "options": ["Create personalized letters, labels, or emails for multiple recipients from a single template", "Send emails without an internet connection", "Merge two Word documents into one", "Compress document file size"],
+      "correctAnswer": "Create personalized letters, labels, or emails for multiple recipients from a single template",
+      "explanation": "Mail Merge combines a template document with a data source (like an Excel list of names/addresses) to produce personalized copies. 'Send without internet' is wrong — Mail Merge creates documents, it doesn't send emails independently. 'Merge two documents' is wrong — that's the Compare/Combine feature. 'Compress size' is wrong — that's file compression."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Match the following MS Word tabs with their primary functions:\n\nColumn I:\n(a) Home tab\n(b) Insert tab\n(c) Layout tab\n(d) Review tab\n\nColumn II:\n(i) Spelling check, comments, track changes\n(ii) Page margins, orientation, size\n(iii) Tables, pictures, shapes, charts\n(iv) Font, paragraph, clipboard, styles\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "(a) Home tab contains font formatting, paragraph tools, clipboard, and styles — matches (iv). (b) Insert tab has tables, pictures, shapes, charts, and headers — matches (iii). (c) Layout tab controls margins, orientation, page size, and columns — matches (ii). (d) Review tab has spelling/grammar check, comments, and track changes — matches (i). Option 2 swaps Home and Insert. Option 3 swaps Insert and Layout. Option 4 swaps Layout and Review."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The keyboard shortcut to SELECT ALL text in a document is:",
+      "options": ["Ctrl + A", "Ctrl + S", "Ctrl + D", "Ctrl + E"],
+      "correctAnswer": "Ctrl + A",
+      "explanation": "Ctrl+A selects all content in the document. Ctrl+S is wrong — saves the document. Ctrl+D is wrong — opens the Font dialog box. Ctrl+E is wrong — centers the selected paragraph."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Consider the following statements about 'Page Layout' settings in MS Word:\n\n(i) Margins define the space between text and the edge of the page.\n(ii) Orientation can be set to Portrait (vertical) or Landscape (horizontal).\n(iii) Paper size options include A4, Letter, Legal, etc.\n(iv) Page Layout settings affect only the first page of a document.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — margins (top, bottom, left, right) control the white space around text. (ii) is correct — portrait is taller than wide; landscape is wider than tall. (iii) is correct — common paper sizes like A4 (210×297mm), Letter (8.5×11in), Legal (8.5×14in) are available. (iv) is wrong — page layout settings apply to the ENTIRE document (or a section) by default, not just the first page."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The 'Spelling and Grammar Check' feature in MS Word helps improve document quality.\nReason (R): It automatically detects spelling errors (red underline) and grammatical mistakes (green/blue underline) and suggests corrections.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — spell/grammar check improves document accuracy. Reason (R) is also correct — Word uses coloured underlines (red for spelling, green/blue for grammar) and offers suggestions. (R) explains (A) because the detection and suggestion mechanism is how it improves quality. Option 2 is wrong because (R) explains the method. Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Which of the following can be inserted into an MS Word document?\n\n(i) Tables\n(ii) Images and clipart\n(iii) Hyperlinks\n(iv) 3D video games\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — tables with rows and columns can be inserted. (ii) is correct — images from files, online, and clipart can be inserted. (iii) is correct — hyperlinks to websites or other documents can be inserted. (iv) is wrong — MS Word is a document editor, NOT a gaming platform; 3D video games cannot be inserted."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "The 'Undo' function in MS Word (Ctrl + Z) does what?",
+      "options": ["Reverses the last action performed", "Deletes the entire document", "Saves the document", "Closes the application"],
+      "correctAnswer": "Reverses the last action performed",
+      "explanation": "Undo (Ctrl+Z) reverses the most recent action (typing, formatting, deletion, etc.), restoring the previous state. 'Deletes document' is wrong — Undo does the opposite of deleting. 'Saves document' is wrong — that's Ctrl+S. 'Closes application' is wrong — that's Alt+F4."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Consider the following statements about 'Views' in MS Word:\n\n(i) Print Layout shows the document as it will appear when printed.\n(ii) Read Mode optimizes the document for reading on screen.\n(iii) Web Layout shows how the document would look as a web page.\n(iv) All views are identical and show the same thing.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Print Layout (default view) displays pages as they'll print, with margins and page breaks. (ii) is correct — Read Mode removes editing tools and optimizes for comfortable reading. (iii) is correct — Web Layout shows the document without page breaks, as it would appear in a browser. (iv) is wrong — each view is DIFFERENT and serves a specific purpose."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Fill in the blank: To create a new blank document in MS Word, use the shortcut __________.",
+      "options": ["Ctrl + N", "Ctrl + O", "Ctrl + S", "Ctrl + W"],
+      "correctAnswer": "Ctrl + N",
+      "explanation": "Ctrl+N creates a new blank document. Ctrl+O is wrong — opens an existing file. Ctrl+S is wrong — saves the current document. Ctrl+W is wrong — closes the current document window."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Track Changes' in MS Word is useful for collaborative document editing.\nReason (R): Track Changes records every insertion, deletion, and formatting change made by each user, allowing the author to accept or reject modifications.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Track Changes enables multiple people to edit and review a document transparently. Reason (R) is also correct — it marks all changes with user identification and allows accept/reject decisions. (R) explains (A) because this tracking mechanism is what makes collaboration effective. Option 2 is wrong because (R) explains the collaboration benefit. Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The 'Bullets and Numbering' feature in MS Word is used to:",
+      "options": ["Create ordered or unordered lists", "Insert mathematical equations", "Change page margins", "Add watermarks to pages"],
+      "correctAnswer": "Create ordered or unordered lists",
+      "explanation": "Bullets (•) create unordered lists; numbering (1, 2, 3...) creates ordered lists — both organize information. 'Mathematical equations' is wrong — that's the Equation Editor. 'Page margins' is wrong — that's under Layout. 'Watermarks' is wrong — that's under Design tab."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Match the following keyboard shortcuts with their functions in MS Word:\n\nColumn I:\n(a) Ctrl + C\n(b) Ctrl + V\n(c) Ctrl + X\n(d) Ctrl + Y\n\nColumn II:\n(i) Redo (repeat last action)\n(ii) Cut (remove and copy to clipboard)\n(iii) Copy (copy to clipboard)\n(iv) Paste (insert from clipboard)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "(a) Ctrl+C = Copy — matches (iii). (b) Ctrl+V = Paste — matches (iv). (c) Ctrl+X = Cut — matches (ii). (d) Ctrl+Y = Redo — matches (i). Option 2 swaps Copy and Paste. Option 3 swaps Paste and Cut. Option 4 swaps Cut and Redo."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Which of the following are TRUE about 'Tables' in MS Word?\n\n(i) Tables organize data in rows and columns.\n(ii) Cells in a table can contain text, numbers, and images.\n(iii) Tables cannot be formatted or styled.\n(iv) The number of rows and columns can be adjusted after creation.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — tables have rows (horizontal) and columns (vertical) forming cells. (ii) is correct — cells can hold various content including text, numbers, and images. (iv) is correct — rows/columns can be added or deleted after table creation. (iii) is wrong — tables CAN be extensively formatted with borders, shading, colours, and predefined styles."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "The shortcut to make text BOLD in MS Word is:",
+      "options": ["Ctrl + B", "Ctrl + D", "Ctrl + F", "Ctrl + G"],
+      "correctAnswer": "Ctrl + B",
+      "explanation": "Ctrl+B toggles bold formatting on selected text. Ctrl+D is wrong — opens the Font dialog box. Ctrl+F is wrong — opens Find. Ctrl+G is wrong — opens Go To (navigation)."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Consider the following statements about 'Page Breaks' in MS Word:\n\n(i) A page break forces text to start on a new page.\n(ii) Page breaks can be inserted using Ctrl + Enter.\n(iii) Page breaks are the same as paragraph breaks (Enter key).\n(iv) Page breaks are visible in Print Layout view as dotted lines.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — a page break moves subsequent content to the top of the next page. (ii) is correct — Ctrl+Enter inserts a manual page break. (iv) is correct — in Print Layout, page breaks show as page transitions or dotted lines (when formatting marks are shown). (iii) is wrong — a paragraph break (Enter) starts a new paragraph on the SAME page; a page break starts a new PAGE."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "The 'Format Painter' tool in MS Word is used to:",
+      "options": ["Copy formatting from one text and apply it to another", "Paint graphics in the document", "Change the background colour of pages", "Format USB drives"],
+      "correctAnswer": "Copy formatting from one text and apply it to another",
+      "explanation": "Format Painter (paintbrush icon) copies all formatting (font, size, colour, bold, etc.) from selected text and applies it to other text with one click. 'Paint graphics' is wrong — it's not a drawing tool. 'Background colour' is wrong — that's Page Color. 'Format USB drives' is wrong — completely unrelated to Word."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Consider the following statements about 'Indentation' in MS Word:\n\n(i) Left indent moves the entire paragraph away from the left margin.\n(ii) First line indent moves only the first line of a paragraph inward.\n(iii) Hanging indent indents all lines EXCEPT the first line.\n(iv) Indentation and margin are the same thing.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — left indent shifts the entire paragraph right from the left margin. (ii) is correct — first-line indent pushes only the paragraph's first line (like in books). (iii) is correct — hanging indent leaves the first line at the margin but indents all subsequent lines (used in bibliographies). (iv) is wrong — margins define the page boundary for ALL text; indentation adjusts individual paragraph positioning WITHIN the margins."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Match the following MS Word features with their purposes:\n\nColumn I:\n(a) Spell Check\n(b) Word Count\n(c) Watermark\n(d) Page Numbers\n\nColumn II:\n(i) Adds sequential numbers to pages\n(ii) Displays total words, characters, and paragraphs\n(iii) Adds a faint background text/image (like 'CONFIDENTIAL')\n(iv) Identifies and corrects spelling errors\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "(a) Spell Check detects/corrects spelling errors — matches (iv). (b) Word Count shows statistics (words, characters, paragraphs) — matches (ii). (c) Watermark adds translucent background text like 'DRAFT' or 'CONFIDENTIAL' — matches (iii). (d) Page Numbers inserts automatic page numbering — matches (i). Option 2 swaps Spell Check and Word Count. Option 3 swaps Word Count and Watermark. Option 4 swaps Watermark and Page Numbers."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "The 'Columns' feature in MS Word allows you to:",
+      "options": ["Divide text into two or more vertical columns like a newspaper", "Add columns to a table", "Create mathematical columns for addition", "Insert vertical lines between paragraphs"],
+      "correctAnswer": "Divide text into two or more vertical columns like a newspaper",
+      "explanation": "The Columns feature (Layout tab) flows text in newspaper-style multiple columns within a page. 'Add table columns' is wrong — that's table editing. 'Mathematical columns' is wrong — that's spreadsheet work. 'Vertical lines between paragraphs' is wrong — that's borders."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Consider the following statements about saving documents in MS Word:\n\n(i) 'Save' updates the existing file; 'Save As' creates a new copy with a different name or location.\n(ii) Documents can be saved in PDF format from MS Word.\n(iii) Auto-save feature periodically saves the document automatically.\n(iv) Once a document is saved, it can never be modified again.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Save (Ctrl+S) overwrites the current file; Save As (F12) creates a new file. (ii) is correct — Word can export/save documents as PDF. (iii) is correct — AutoSave/AutoRecover saves at intervals to prevent data loss. (iv) is wrong — saved documents CAN be opened, modified, and saved again — that's normal editing."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "The 'Tab' key in MS Word is used to:",
+      "options": ["Move the cursor to the next tab stop (indent position)", "Close the document", "Delete a word", "Change the font"],
+      "correctAnswer": "Move the cursor to the next tab stop (indent position)",
+      "explanation": "The Tab key advances the cursor to the next tab stop (default every 0.5 inch), creating consistent indentation. 'Close document' is wrong — that's Ctrl+W. 'Delete word' is wrong — that's Ctrl+Delete. 'Change font' is wrong — that requires the Font menu."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Which of the following font styles are available in MS Word?\n\n(i) Times New Roman\n(ii) Arial\n(iii) Calibri\n(iv) All of the above\n\nSelect the correct option:",
+      "options": ["All of the above", "(i) and (ii) only", "(i) and (iii) only", "(ii) and (iii) only"],
+      "correctAnswer": "All of the above",
+      "explanation": "(i) Times New Roman — a classic serif font ✓. (ii) Arial — a popular sans-serif font ✓. (iii) Calibri — the default font in MS Word since 2007 ✓. All three (and many more) are available in MS Word."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The 'Insert Table' feature in MS Word is preferred over using spaces/tabs to align data in columns.\nReason (R): Tables provide consistent cell boundaries, easy resizing, sorting capability, and reliable alignment regardless of font changes.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — tables are far superior to spaces/tabs for data alignment. Reason (R) is also correct — tables maintain structure regardless of font or size changes. (R) explains (A) because these advantages are exactly why tables are preferred. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "The 'Ctrl + F' shortcut in MS Word opens:",
+      "options": ["The Find dialog to search for text in the document", "The Font dialog to change font settings", "The File menu", "The Format Painter tool"],
+      "correctAnswer": "The Find dialog to search for text in the document",
+      "explanation": "Ctrl+F opens the Navigation pane / Find dialog for searching text within the document. 'Font dialog' is wrong — that's Ctrl+D. 'File menu' is wrong — that's Alt+F or clicking File tab. 'Format Painter' is wrong — that's clicked from the Home tab ribbon."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Consider the following statements about 'Line Spacing' in MS Word:\n\n(i) Single spacing means lines are close together with minimal gap.\n(ii) 1.5 spacing provides 50% more space between lines than single.\n(iii) Double spacing provides twice the space of single spacing.\n(iv) Line spacing cannot be customized beyond the preset options.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — single spacing provides the minimum standard gap between text lines. (ii) is correct — 1.5 spacing adds 50% more space. (iii) is correct — double spacing = twice the gap of single. (iv) is wrong — Word allows CUSTOM line spacing (e.g., 1.15, 2.5, exact values in points) through the Paragraph dialog."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "The 'Insert Hyperlink' feature in MS Word allows you to:",
+      "options": ["Create a clickable link to a website, email, or another document", "Insert a new page", "Change the text colour to blue", "Create a table of contents automatically"],
+      "correctAnswer": "Create a clickable link to a website, email, or another document",
+      "explanation": "Hyperlinks (Ctrl+K) create clickable text that navigates to URLs, email addresses, other files, or locations within the document. 'Insert page' is wrong — that's a page break. 'Blue text' is wrong — while hyperlinks appear blue, the feature creates links, not just colour. 'Table of contents' is wrong — that's under References tab."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Which of the following are views available in MS Word?\n\n(i) Print Layout\n(ii) Read Mode\n(iii) Web Layout\n(iv) Gaming Mode\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) Print Layout — shows document as it will print ✓. (ii) Read Mode — optimized for on-screen reading ✓. (iii) Web Layout — shows document as a web page ✓. (iv) Gaming Mode is wrong — MS Word is a document editor and has NO gaming mode."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "The default font in MS Word (2007 onwards) is:",
+      "options": ["Calibri", "Times New Roman", "Arial", "Comic Sans"],
+      "correctAnswer": "Calibri",
+      "explanation": "Calibri (11pt) became the default font from MS Word 2007 onwards (replacing Times New Roman 12pt). Times New Roman is wrong — it was default in Word 2003 and earlier. Arial is wrong — it was never the default in Word. Comic Sans is wrong — it was never a default font."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Match the following file extensions with their types in MS Word:\n\nColumn I:\n(a) .docx\n(b) .pdf\n(c) .txt\n(d) .rtf\n\nColumn II:\n(i) Plain text file (no formatting)\n(ii) Rich Text Format (basic formatting, cross-platform)\n(iii) Word document (2007+)\n(iv) Portable Document Format (read-only appearance)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "(a) .docx = Word document format (2007+) — matches (iii). (b) .pdf = Portable Document Format — matches (iv). (c) .txt = plain text with no formatting — matches (i). (d) .rtf = Rich Text Format with basic formatting — matches (ii). Option 2 swaps .docx and .pdf. Option 3 swaps .pdf and .txt. Option 4 swaps .txt and .rtf."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Consider the following statements about the 'Clipboard' in MS Word:\n\n(i) The Clipboard temporarily stores copied or cut items.\n(ii) MS Word's Clipboard can hold up to 24 items.\n(iii) Items on the Clipboard are permanently stored even after closing Word.\n(iv) You can paste any item from the Clipboard into your document.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — the Clipboard temporarily holds copied/cut content. (ii) is correct — the Office Clipboard stores up to 24 items. (iv) is correct — any stored item can be pasted into the document. (iii) is wrong — Clipboard contents are CLEARED when you close all Office applications; they are temporary, not permanent."
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative Revision — Week 1 Topics (All Subjects)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct article: He is __________ university professor who teaches physics.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'A' is correct because 'university' begins with the consonant sound /juː/, requiring 'a'. 'An' is wrong — 'an' is used before vowel sounds, and 'university' starts with a /j/ consonant sound. 'The' is wrong — the sentence introduces an unspecified professor. 'No article' is wrong — singular countable nouns require a determiner."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Find the next number in the series: 3, 8, 15, 24, 35, ?",
+      "options": ["48", "46", "50", "44"],
+      "correctAnswer": "48",
+      "explanation": "Differences: 5, 7, 9, 11 (increasing by 2). Next difference = 13. So 35 + 13 = 48. 46 is wrong — adding 11 again. 50 is wrong — adding 15. 44 is wrong — adding 9."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "Who is known as the 'Iron Man of India'?",
+      "options": ["Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Bhagat Singh", "Subhas Chandra Bose"],
+      "correctAnswer": "Sardar Vallabhbhai Patel",
+      "explanation": "Sardar Patel earned the title 'Iron Man of India' for his determination in integrating 562 princely states into the Indian Union. Nehru is wrong — he is 'Chacha Nehru'. Bhagat Singh is wrong — he is a revolutionary hero. Bose is wrong — he is 'Netaji'."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Which of the following is the brain of the computer?",
+      "options": ["CPU", "RAM", "Hard Disk", "Monitor"],
+      "correctAnswer": "CPU",
+      "explanation": "The CPU (Central Processing Unit) is called the brain of the computer as it processes all instructions and calculations. RAM is wrong — it's temporary memory. Hard Disk is wrong — it's permanent storage. Monitor is wrong — it's an output display device."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "What does the abbreviation 'JKBOSE' stand for?",
+      "options": ["Jammu & Kashmir Board of School Education", "Jammu & Kashmir Bureau of Statistics and Economics", "Jammu & Kashmir Board of Sports Excellence", "Jammu & Kashmir Bank of State Enterprises"],
+      "correctAnswer": "Jammu & Kashmir Board of School Education",
+      "explanation": "JKBOSE is the Jammu & Kashmir Board of School Education, which conducts class 10th and 12th examinations. 'Bureau of Statistics' is wrong — no such abbreviation. 'Board of Sports' is wrong — not the correct expansion. 'Bank of State Enterprises' is wrong — not correct."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Choose the correct pronoun: Neither of the boys has completed __________ homework.",
+      "options": ["his", "their", "its", "our"],
+      "correctAnswer": "his",
+      "explanation": "'His' is correct because 'neither' is singular and refers to boys (male), requiring a singular masculine pronoun. 'Their' is wrong — 'neither' takes a singular pronoun in formal grammar. 'Its' is wrong — used for non-living things. 'Our' is wrong — first person, irrelevant."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "If the average of 5 numbers is 18, what is their total sum?",
+      "options": ["90", "85", "95", "80"],
+      "correctAnswer": "90",
+      "explanation": "Sum = Average × Count = 18 × 5 = 90. 85 is wrong — 17×5. 95 is wrong — 19×5. 80 is wrong — 16×5."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Revolt of 1857:\n\n(i) It started from Meerut.\n(ii) Bahadur Shah Zafar was declared the Emperor by the rebels.\n(iii) Rani Laxmibai led the revolt at Jhansi.\n(iv) The revolt was successful in overthrowing British rule.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — the revolt began at Meerut on 10 May 1857. (ii) is correct — Bahadur Shah Zafar was proclaimed Emperor of India. (iii) is correct — Rani Laxmibai bravely led the revolt at Jhansi. (iv) is wrong — the revolt FAILED; British rule continued until 1947."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Consider the following statements about RAM:\n\n(i) RAM stands for Random Access Memory.\n(ii) It is volatile — data is lost when power is turned off.\n(iii) It is used for permanent data storage.\n(iv) It stores data currently being processed.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — RAM = Random Access Memory. (ii) is correct — RAM is volatile (loses data without power). (iv) is correct — RAM holds programs and data currently in use. (iii) is wrong — RAM is TEMPORARY, not permanent storage; hard disks provide permanent storage."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "The idiom 'to burn one's bridges' means:",
+      "options": ["To eliminate any possibility of going back", "To build a new bridge", "To cross a river dangerously", "To destroy public property"],
+      "correctAnswer": "To eliminate any possibility of going back",
+      "explanation": "'Burn one's bridges' means to do something that makes it impossible to return to a previous situation. 'Build a new bridge' is wrong — that's the opposite. 'Cross dangerously' is wrong — it's about commitment, not physical danger. 'Destroy property' is wrong — the idiom is figurative."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Sheikh Mohammad Abdullah is called 'Sher-e-Kashmir'.\nReason (R): He played a leading role in the political movement of Kashmir and shaped its modern democratic institutions.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Sheikh Abdullah was called Sher-e-Kashmir (Lion of Kashmir). Reason (R) is also correct — his bold political leadership earned him this title. (R) explains (A) because his courageous leadership is why he was called 'Lion'. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "In a code where each letter is shifted +2, the word 'CAT' becomes:",
+      "options": ["ECV", "DBU", "FDW", "EBU"],
+      "correctAnswer": "ECV",
+      "explanation": "+2 shift: C(3)→E(5), A(1)→C(3), T(20)→V(22) = ECV. DBU is wrong — that's +1 shift. FDW is wrong — that's +3 shift. EBU is wrong — A→B is only +1."
+    },
+    {
+      "id": "13",
+      "subject": "B",
+      "questionText": "Match the following freedom fighters with their titles:\n\nColumn I:\n(a) Dadabhai Naoroji\n(b) Subhas Chandra Bose\n(c) Lala Lajpat Rai\n(d) Sarojini Naidu\n\nColumn II:\n(i) Punjab Kesari\n(ii) Grand Old Man of India\n(iii) Netaji\n(iv) Nightingale of India\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) Dadabhai Naoroji = Grand Old Man of India — matches (ii). (b) Subhas Chandra Bose = Netaji — matches (iii). (c) Lala Lajpat Rai = Punjab Kesari (Lion of Punjab) — matches (i). (d) Sarojini Naidu = Nightingale of India — matches (iv). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Choose the correct tense: She __________ to school every day by bus.",
+      "options": ["goes", "is going", "has gone", "went"],
+      "correctAnswer": "goes",
+      "explanation": "'Goes' (simple present) is correct for habitual/regular actions indicated by 'every day'. 'Is going' is wrong — present continuous is for ongoing actions, not habits. 'Has gone' is wrong — present perfect connects past to present relevance, not routine. 'Went' is wrong — simple past doesn't suit 'every day' (which implies ongoing habit)."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "What is 15% of 600?",
+      "options": ["90", "80", "100", "85"],
+      "correctAnswer": "90",
+      "explanation": "15% of 600 = (15/100) × 600 = 90. 80 is wrong — that's 13.33% of 600. 100 is wrong — that's 16.67%. 85 is wrong — that's 14.17%."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Which of the following are input devices?\n\n(i) Keyboard\n(ii) Mouse\n(iii) Printer\n(iv) Scanner\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) Keyboard = input (types text/commands) ✓. (ii) Mouse = input (points and clicks) ✓. (iv) Scanner = input (digitizes documents) ✓. (iii) Printer is wrong — it is an OUTPUT device that produces hard copies."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "The first Indian woman to climb Mount Everest was:",
+      "options": ["Bachendri Pal", "Arunima Sinha", "Santosh Yadav", "P.T. Usha"],
+      "correctAnswer": "Bachendri Pal",
+      "explanation": "Bachendri Pal summited Everest on 23 May 1984. Arunima Sinha is wrong — first female amputee to climb (2013). Santosh Yadav is wrong — first woman to climb twice. P.T. Usha is wrong — she is an athlete, not a mountaineer."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Choose the correct homophone: The __________ (principal/principle) of equality is important in a democracy.",
+      "options": ["principle", "principal", "princple", "principel"],
+      "correctAnswer": "principle",
+      "explanation": "'Principle' (a fundamental truth/rule) is correct in context of equality in democracy. 'Principal' is wrong — it means the head of a school or the main/primary thing. 'Princple' and 'principel' are wrong — misspellings."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The LCM of 6, 8, and 12 is 24.\nReason (R): LCM is the smallest number that is exactly divisible by all given numbers.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 6=2×3, 8=2³, 12=2²×3; LCM = 2³×3 = 24. Reason (R) is also correct — LCM is the smallest common multiple. (R) explains (A) because 24 is the smallest number divisible by 6 (24÷6=4), 8 (24÷8=3), and 12 (24÷12=2). Option 2 is wrong because (R) is the definition that validates (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "The Treaty of Amritsar (1846), which established Dogra rule over J&K, was signed between:",
+      "options": ["British East India Company and Raja Gulab Singh", "Maharaja Ranjit Singh and the British", "Sheikh Abdullah and the British", "Hari Singh and Jawaharlal Nehru"],
+      "correctAnswer": "British East India Company and Raja Gulab Singh",
+      "explanation": "The Treaty of Amritsar (16 March 1846) transferred Kashmir to Raja Gulab Singh from the British for 75 lakh rupees after the Anglo-Sikh War. 'Ranjit Singh and British' is wrong — Ranjit Singh died in 1839. 'Sheikh Abdullah and British' is wrong — he came in the 20th century. 'Hari Singh and Nehru' is wrong — wrong era entirely."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian National Congress:\n\n(i) It was founded in 1885.\n(ii) Its first session was held in Bombay.\n(iii) W.C. Bonnerjee was its first president.\n(iv) It was founded by Mahatma Gandhi.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — INC was founded in December 1885. (ii) is correct — first session at Gokuldas Tejpal College, Bombay. (iii) is correct — W.C. Bonnerjee presided over the first session. (iv) is wrong — A.O. Hume, not Gandhi, played the key role in founding the Congress. Gandhi came much later."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An operating system is essential for a computer to function.\nReason (R): The OS manages hardware resources, runs applications, and provides a user interface.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — computers cannot function for users without an OS. Reason (R) is also correct — the OS handles hardware management, application execution, and user interaction. (R) explains (A) because without these OS functions, the hardware would be unusable. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Choose the synonym of 'DILIGENT':",
+      "options": ["Hardworking", "Lazy", "Careless", "Indifferent"],
+      "correctAnswer": "Hardworking",
+      "explanation": "'Diligent' means showing care and effort in work. 'Hardworking' is the synonym. 'Lazy' is wrong — antonym. 'Careless' is wrong — opposite meaning. 'Indifferent' is wrong — means not interested."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "A shopkeeper bought an item for ₹500 and sold it for ₹600. His profit percentage is:",
+      "options": ["20%", "10%", "15%", "25%"],
+      "correctAnswer": "20%",
+      "explanation": "Profit = 600−500 = ₹100. Profit% = (100/500)×100 = 20%. 10% is wrong — would be profit of ₹50. 15% is wrong — would be profit of ₹75. 25% is wrong — would be profit of ₹125."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Fill in the blank: The first satellite launched by India was __________.",
+      "options": ["Aryabhata", "Chandrayaan-1", "Mangalyaan", "INSAT-1A"],
+      "correctAnswer": "Aryabhata",
+      "explanation": "Aryabhata was India's first satellite, launched on 19 April 1975 by a Soviet Kosmos-3M rocket. Chandrayaan-1 is wrong — it was India's first lunar mission (2008). Mangalyaan is wrong — it was Mars Orbiter Mission (2013). INSAT-1A is wrong — it was launched in 1982."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) To bury the hatchet\n(b) To kick the bucket\n(c) A white elephant\n(d) To eat humble pie\n\nColumn II:\n(i) To die\n(ii) A costly but useless possession\n(iii) To make peace / end a quarrel\n(iv) To apologize humbly\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) Bury the hatchet = make peace — matches (iii). (b) Kick the bucket = die — matches (i). (c) A white elephant = costly useless possession — matches (ii). (d) Eat humble pie = apologize humbly — matches (iv). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Consider the following statements about percentage:\n\n(i) 25% of 400 = 100.\n(ii) If a price increases by 20%, the new price is 1.2 times the original.\n(iii) A 50% decrease followed by a 50% increase restores the original value.\n(iv) 10% of 10% of 1000 = 10.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — 25% of 400 = 100 ✓. (ii) is correct — new = original × 1.2 ✓. (iv) is correct — 10% of 1000=100; 10% of 100=10 ✓. (iii) is wrong — 100→−50%→50→+50%→75 (not 100). A 50% decrease then 50% increase gives net −25%."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "Which of the following are Dogra dynasty rulers of J&K?\n\n(i) Gulab Singh\n(ii) Ranbir Singh\n(iii) Hari Singh\n(iv) Zain-ul-Abidin\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) Gulab Singh (1846–1857) ✓. (ii) Ranbir Singh (1857–1885) ✓. (iii) Hari Singh (1925–1947, last Maharaja) ✓. (iv) Zain-ul-Abidin is wrong — he was a 15th-century Sultan of Kashmir (Shah Mir dynasty), NOT a Dogra ruler."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "The full form of 'HTML' is:",
+      "options": ["HyperText Markup Language", "High Tech Modern Language", "HyperText Machine Language", "Home Tool Markup Language"],
+      "correctAnswer": "HyperText Markup Language",
+      "explanation": "HTML = HyperText Markup Language, the standard language for creating web pages. 'High Tech Modern Language' is wrong — not correct. 'HyperText Machine Language' is wrong — 'Markup', not 'Machine'. 'Home Tool Markup Language' is wrong — not correct."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Choose the antonym of 'GENEROUS':",
+      "options": ["Miserly", "Kind", "Wealthy", "Liberal"],
+      "correctAnswer": "Miserly",
+      "explanation": "'Generous' means willing to give freely. 'Miserly' (unwilling to spend) is the antonym. 'Kind' is wrong — synonym. 'Wealthy' is wrong — not an antonym. 'Liberal' is wrong — similar meaning."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Yuri Gagarin was the first human to journey into outer space.\nReason (R): He orbited Earth aboard Vostok 1 on 12 April 1961.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Gagarin was the first human in space. Reason (R) is also correct — Vostok 1, 12 April 1961. (R) explains (A) as the specific event that made him first. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is accurate. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "The sum of the first 20 natural numbers is:",
+      "options": ["210", "200", "190", "220"],
+      "correctAnswer": "210",
+      "explanation": "Sum = n(n+1)/2 = 20×21/2 = 210. 200 is wrong — 20×20/2. 190 is wrong — 19×20/2. 220 is wrong — 20×22/2."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "Identify the type of clause in the sentence: 'I don't know where he lives.'",
+      "options": ["Noun clause", "Adjective clause", "Adverb clause", "Main clause"],
+      "correctAnswer": "Noun clause",
+      "explanation": "'Where he lives' functions as the object of the verb 'know', making it a noun clause. Adjective clause is wrong — it would modify a noun. Adverb clause is wrong — it would modify a verb indicating time/reason. Main clause is wrong — 'I don't know' is the main clause."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Match the following computer terms with their meanings:\n\nColumn I:\n(a) CPU\n(b) RAM\n(c) ROM\n(d) SSD\n\nColumn II:\n(i) Non-volatile memory storing firmware\n(ii) Fast solid-state storage device\n(iii) Processes instructions\n(iv) Volatile temporary memory\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "(a) CPU processes instructions — matches (iii). (b) RAM is volatile temporary storage — matches (iv). (c) ROM stores firmware permanently — matches (i). (d) SSD is fast solid-state storage — matches (ii). Option 2 swaps CPU and RAM. Option 3 swaps RAM and ROM. Option 4 swaps ROM and SSD."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "The Dandi March (Salt March) of 1930 was led by:",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Bhagat Singh"],
+      "correctAnswer": "Mahatma Gandhi",
+      "explanation": "Gandhi led the Dandi March from 12 March to 6 April 1930, walking 390 km from Sabarmati Ashram to Dandi to break the salt law. Nehru is wrong — he supported but didn't lead it. Patel is wrong — he was arrested before the march. Bhagat Singh is wrong — he was a revolutionary with different methods."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "Which of the following are correct synonym pairs?\n\n(i) Brave — Courageous\n(ii) Ancient — Modern\n(iii) Rapid — Swift\n(iv) Generous — Stingy\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i) and (ii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) Brave/Courageous both mean without fear ✓ synonyms. (iii) Rapid/Swift both mean very fast ✓ synonyms. (ii) Ancient/Modern are ANTONYMS ✗. (iv) Generous/Stingy are ANTONYMS ✗."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "If 'MOUSE' is coded as 'NPVTF' in a certain code (+1 shift), then 'INPUT' is coded as:",
+      "options": ["JOQVU", "JOPUT", "JOQUU", "INQVU"],
+      "correctAnswer": "JOQVU",
+      "explanation": "+1 shift: I→J, N→O, P→Q, U→V, T→U = JOQVU. JOPUT is wrong — P→Q not P→P. JOQUU is wrong — T→U not T→U, but U→V not U→U. Wait: I(9)→J(10), N(14)→O(15), P(16)→Q(17), U(21)→V(22), T(20)→U(21) = JOQVU ✓. INQVU is wrong — I→J not I→I."
+    },
+    {
+      "id": "38",
+      "subject": "C",
+      "questionText": "Consider the following statements about J&K:\n\n(i) The Instrument of Accession was signed on 26 October 1947.\n(ii) J&K was reorganized into two Union Territories on 31 October 2019.\n(iii) Ladakh was separated as a UT without a legislature.\n(iv) The Dogra dynasty ruled J&K from 1750 onwards.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Maharaja Hari Singh signed the Instrument of Accession on 26 October 1947. (ii) is correct — J&K Reorganisation Act came into effect on 31 October 2019. (iii) is correct — Ladakh became a UT without legislature. (iv) is wrong — Dogra rule began in 1846 (Treaty of Amritsar), not 1750."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The book 'Discovery of India' was written by:",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Rabindranath Tagore", "B.R. Ambedkar"],
+      "correctAnswer": "Jawaharlal Nehru",
+      "explanation": "Nehru wrote 'The Discovery of India' during his imprisonment at Ahmednagar Fort (1942–46). Gandhi is wrong — he wrote 'My Experiments with Truth'. Tagore is wrong — he wrote Gitanjali. Ambedkar is wrong — he wrote 'Annihilation of Caste'."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): We use 'an' before the word 'hour'.\nReason (R): The article choice depends on the initial SOUND of the word, not the letter; 'hour' begins with a vowel sound because the 'h' is silent.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — standard usage is 'an hour'. Reason (R) is also correct — the 'h' in 'hour' is silent, making the initial sound /aʊ/ (a vowel). (R) explains (A) because the vowel sound is why 'an' is used. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "The average of 15, 25, 35, 45, and 55 is:",
+      "options": ["35", "30", "40", "45"],
+      "correctAnswer": "35",
+      "explanation": "These are 5 consecutive odd multiples of 5 in AP. Average = middle number = 35. Or: (15+25+35+45+55)/5 = 175/5 = 35. 30 is wrong — 150/5. 40 is wrong — 200/5. 45 is wrong — 225/5."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Which of the following correctly describes 'software'?",
+      "options": ["A set of instructions that tells the computer what to do", "Physical components of a computer", "Electrical wiring inside the computer", "The monitor screen"],
+      "correctAnswer": "A set of instructions that tells the computer what to do",
+      "explanation": "Software = programs/instructions directing the computer to perform tasks. 'Physical components' is wrong — that's hardware. 'Electrical wiring' is wrong — that's part of hardware. 'Monitor screen' is wrong — that's a physical output device."
+    },
+    {
+      "id": "43",
+      "subject": "B",
+      "questionText": "Match the following events with their dates:\n\nColumn I:\n(a) Independence of India\n(b) Republic Day\n(c) First General Elections\n(d) First Nuclear Test\n\nColumn II:\n(i) 1974\n(ii) 1947\n(iii) 1950\n(iv) 1951-52\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) Independence = 15 August 1947 — matches (ii). (b) Republic Day (Constitution came into effect) = 26 January 1950 — matches (iii). (c) First General Elections = 1951-52 — matches (iv). (d) First Nuclear Test (Pokhran-I) = 1974 — matches (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "The idiom 'to kill two birds with one stone' means:",
+      "options": ["To achieve two things with a single action", "To go hunting", "To be cruel to animals", "To throw stones at birds"],
+      "correctAnswer": "To achieve two things with a single action",
+      "explanation": "'Kill two birds with one stone' means to accomplish two objectives simultaneously with one effort. 'Go hunting' is wrong — figurative idiom. 'Be cruel' is wrong — not about animal cruelty. 'Throw stones' is wrong — it's about efficiency, not literal stone-throwing."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Fill in the blank: If 30% of students in a class of 50 are girls, then the number of boys is __________.",
+      "options": ["35", "30", "25", "40"],
+      "correctAnswer": "35",
+      "explanation": "Girls = 30% of 50 = 15. Boys = 50 − 15 = 35. 30 is wrong — 60% of 50. 25 is wrong — 50% of 50. 40 is wrong — 80% of 50."
+    },
+    {
+      "id": "46",
+      "subject": "B",
+      "questionText": "Consider the following statements about newspapers founded during the freedom struggle:\n\n(i) 'Kesari' was started by Tilak in Marathi.\n(ii) 'Young India' was edited by Gandhi.\n(iii) 'Bengal Gazette' was the first Indian newspaper (1780).\n(iv) 'The Times of India' was founded by Mahatma Gandhi.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Tilak started Kesari (Marathi) in 1881. (ii) is correct — Gandhi edited Young India from 1919. (iii) is correct — Bengal Gazette (Hickey's Gazette) was India's first newspaper (1780). (iv) is wrong — The Times of India was founded in 1838 as a commercial newspaper, NOT by Gandhi."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "Fill in the blank: The full form of 'USB' is Universal __________ Bus.",
+      "options": ["Serial", "System", "Storage", "Software"],
+      "correctAnswer": "Serial",
+      "explanation": "USB = Universal Serial Bus — a standard interface for connecting peripherals. 'System' is wrong — not correct. 'Storage' is wrong — USB is a connectivity standard, not specifically storage. 'Software' is wrong — USB is hardware-related."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "Choose the correct sentence using the past perfect tense:",
+      "options": ["She had finished her work before the guests arrived.", "She finished her work before the guests arrived.", "She has finished her work before the guests arrived.", "She was finishing her work before the guests arrived."],
+      "correctAnswer": "She had finished her work before the guests arrived.",
+      "explanation": "'Had finished' (past perfect) correctly shows an action completed before another past action ('arrived'). 'Finished' is wrong — simple past doesn't clearly show the sequence. 'Has finished' is wrong — present perfect can't be used with past time reference. 'Was finishing' is wrong — past continuous shows an ongoing action, not a completed one."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "The HCF of 24, 36, and 48 is:",
+      "options": ["12", "6", "8", "24"],
+      "correctAnswer": "12",
+      "explanation": "24=2³×3, 36=2²×3², 48=2⁴×3. HCF = lowest power of common primes = 2²×3 = 12. 6 is wrong — 2×3 (not highest common factor). 8 is wrong — 2³ (missing factor 3). 24 is wrong — doesn't divide 36 evenly."
+    },
+    {
+      "id": "50",
+      "subject": "B",
+      "questionText": "Who is popularly known as 'Chacha Nehru'?",
+      "options": ["Jawaharlal Nehru", "Motilal Nehru", "B.K. Nehru", "Rajiv Gandhi"],
+      "correctAnswer": "Jawaharlal Nehru",
+      "explanation": "Jawaharlal Nehru is lovingly called 'Chacha Nehru' for his affection towards children; his birthday (14 Nov) is Children's Day. Motilal Nehru is wrong — he was Jawaharlal's father. B.K. Nehru is wrong — a diplomat. Rajiv Gandhi is wrong — Nehru's grandson, not called Chacha Nehru."
+    }
+  ]
+}
