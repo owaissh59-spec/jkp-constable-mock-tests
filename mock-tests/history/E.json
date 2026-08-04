@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Basic Concepts of Computers",
-  "count": 178,
+  "count": 228,
   "questions": [
     {
       "test": 5,
@@ -892,6 +892,256 @@
       "test": 23,
       "stem": "consider the following statements about the 'clipboard' in ms word: (i) the",
       "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 30,
+      "stem": "ms excel is primarily used for:",
+      "key": "Creating spreadsheets, performing calculations, and data analysis"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about ms excel: (i) the default file extension",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "in ms excel, a cell is identified by:",
+      "key": "Its column letter and row number (e.g., A1, B5, C10)"
+    },
+    {
+      "test": 30,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 30,
+      "stem": "match the following excel functions with their purposes: column i: (a) sum",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the keyboard shortcut to create a new workbook in ms excel is:",
+      "key": "Ctrl + N"
+    },
+    {
+      "test": 30,
+      "stem": "which of the following are valid data types that can be entered",
+      "key": "All of the above"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about cell references in excel: (i) a1 is",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the function =sum(a1:a5) in excel will:",
+      "key": "Add the values in cells A1, A2, A3, A4, and A5"
+    },
+    {
+      "test": 30,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 30,
+      "stem": "the intersection of a row and a column in ms excel is",
+      "key": "Cell"
+    },
+    {
+      "test": 30,
+      "stem": "match the following keyboard shortcuts with their functions in ms excel: column",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about charts in ms excel: (i) excel can",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "in ms excel, the formula =b2*c2 will:",
+      "key": "Multiply the value in cell B2 by the value in cell C2"
+    },
+    {
+      "test": 30,
+      "stem": "fill in the blank: in ms excel, the function that returns the",
+      "key": "MIN"
+    },
+    {
+      "test": 30,
+      "stem": "which of the following are types of charts available in ms excel?",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 30,
+      "stem": "in ms excel, which symbol is used for division in a formula?",
+      "key": "/ (forward slash)"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about sorting data in ms excel: (i) data",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the default number of worksheets in a new excel workbook (excel 2013",
+      "key": "1"
+    },
+    {
+      "test": 30,
+      "stem": "match the following excel tabs with their primary functions: column i: (a)",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the formula =average(b1:b10) calculates:",
+      "key": "The arithmetic mean of values in cells B1 through B10"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about filtering in ms excel: (i) autofilter allows",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 30,
+      "stem": "which of the following are arithmetic operators used in excel formulas? (i)",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "in ms excel, the name box is located:",
+      "key": "To the left of the Formula Bar, showing the active cell reference"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about the if function in excel: (i) the",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the shortcut key to save a workbook in ms excel is:",
+      "key": "Ctrl + S"
+    },
+    {
+      "test": 30,
+      "stem": "match the following excel functions with their categories: column i: (a) vlookup",
+      "key": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 30,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 30,
+      "stem": "in ms excel, which function is used to count cells that contain",
+      "key": "COUNTA"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about excel worksheets: (i) you can rename a",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the formula =count(a1:a20) will return:",
+      "key": "The number of cells in A1:A20 that contain numerical values"
+    },
+    {
+      "test": 30,
+      "stem": "which of the following are correct ways to select multiple non-adjacent cells",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 30,
+      "stem": "in excel, what does the '#value!' error indicate?",
+      "key": "A formula has the wrong type of argument or operand"
+    },
+    {
+      "test": 30,
+      "stem": "fill in the blank: the keyboard shortcut to insert a new worksheet",
+      "key": "Shift + F11"
+    },
+    {
+      "test": 30,
+      "stem": "match the following error codes with their meanings in excel: column i:",
+      "key": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about conditional formatting in excel: (i) it changes",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 30,
+      "stem": "what is the result of the formula =5+3*2 in excel?",
+      "key": "11"
+    },
+    {
+      "test": 30,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 30,
+      "stem": "in excel, what does the vlookup function do?",
+      "key": "Searches for a value in the first column of a table and returns a value in th..."
+    },
+    {
+      "test": 30,
+      "stem": "which of the following are valid ways to enter a formula in",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the column after z in ms excel is:",
+      "key": "AA"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about page setup in ms excel: (i) you",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the function =len(\"hello\") in excel will return:",
+      "key": "5"
+    },
+    {
+      "test": 30,
+      "stem": "match the following number formats with their display in excel: column i:",
+      "key": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 30,
+      "stem": "in ms excel, what happens when you press the tab key while",
+      "key": "It confirms the entry and moves to the next cell to the right"
+    },
+    {
+      "test": 30,
+      "stem": "consider the following statements about the countif function: (i) countif counts cells",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 30,
+      "stem": "the shortcut to select the entire worksheet in excel is:",
+      "key": "Ctrl + A"
+    },
+    {
+      "test": 30,
+      "stem": "which of the following statements are correct about data validation in excel?",
+      "key": "(i), (ii) and (iii)"
     }
   ]
 }

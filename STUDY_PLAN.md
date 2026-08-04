@@ -85,17 +85,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 25 | Morning | A — General English | Analogies (Verbal) | 30 | foundation | Topic-wise | ⬜ |
-| 26 | Afternoon | C — General Knowledge — J&K | Means of Transport & Power Projects in J&K | 40 | foundation | Topic-wise | ⬜ |
-| 27 | Late | D — Numerical and Reasoning Ability | Direction Sense | 50 | foundation | Topic-wise | ⬜ |
+| 25 | Morning | A — General English | Analogies (Verbal) | 30 | foundation | Topic-wise | ✅ |
+| 26 | Afternoon | C — General Knowledge — J&K | Means of Transport & Power Projects in J&K | 40 | foundation | Topic-wise | ✅ |
+| 27 | Late | D — Numerical and Reasoning Ability | Direction Sense | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 10
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 28 | Morning | B — General Knowledge & Current Affairs (India) | Capitals & Currencies | 30 | foundation | Topic-wise | ⬜ |
-| 29 | Afternoon | D — Numerical and Reasoning Ability | Ratio & Proportion | 40 | foundation | Topic-wise | ⬜ |
-| 30 | Late | E — Basic Concepts of Computers | MS Excel | 50 | foundation | Topic-wise | ⬜ |
+| 28 | Morning | B — General Knowledge & Current Affairs (India) | Capitals & Currencies | 30 | foundation | Topic-wise | ✅ |
+| 29 | Afternoon | D — Numerical and Reasoning Ability | Ratio & Proportion | 40 | foundation | Topic-wise | ✅ |
+| 30 | Late | E — Basic Concepts of Computers | MS Excel | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 11
 
