@@ -101,17 +101,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 31 | Morning | A — General English | Uses of Prepositions | 30 | foundation | Topic-wise | ⬜ |
-| 32 | Afternoon | C — General Knowledge — J&K | Rivers & Lakes of J&K | 40 | foundation | Topic-wise | ⬜ |
-| 33 | Late | B — General Knowledge & Current Affairs (India) | United Nations Organizations (Veto, Members, Organs) | 50 | foundation | Topic-wise | ⬜ |
+| 31 | Morning | A — General English | Uses of Prepositions | 30 | foundation | Topic-wise | ✅ |
+| 32 | Afternoon | C — General Knowledge — J&K | Rivers & Lakes of J&K | 40 | foundation | Topic-wise | ✅ |
+| 33 | Late | B — General Knowledge & Current Affairs (India) | United Nations Organizations (Veto, Members, Organs) | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 12
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 34 | Morning | D — Numerical and Reasoning Ability | Blood Relations | 30 | foundation | Topic-wise | ⬜ |
-| 35 | Afternoon | E — Basic Concepts of Computers | Storage Devices & Operating Systems | 40 | foundation | Topic-wise | ⬜ |
-| 36 | Late | A — General English | Punctuation & Sentence Correction | 50 | foundation | Topic-wise | ⬜ |
+| 34 | Morning | D — Numerical and Reasoning Ability | Blood Relations | 30 | foundation | Topic-wise | ✅ |
+| 35 | Afternoon | E — Basic Concepts of Computers | Storage Devices & Operating Systems | 40 | foundation | Topic-wise | ✅ |
+| 36 | Late | A — General English | Punctuation & Sentence Correction | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 13
 
