@@ -1,0 +1,397 @@
+{
+  "subject": "D",
+  "topic": "Simple & Compound Interest",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Find the simple interest on Rs. 5000 at 8% per annum for 3 years.",
+      "options": [
+        "Rs. 1000",
+        "Rs. 1100",
+        "Rs. 1400",
+        "Rs. 1200"
+      ],
+      "correctAnswer": "Rs. 1200",
+      "explanation": "SI = P × R × T / 100 = 5000 × 8 × 3 / 100 = Rs. 1200. Option 'Rs. 1200' is correct. 'Rs. 1000' is wrong as it uses 2 years instead of 3. 'Rs. 1400' is wrong as it incorrectly uses a rate of 9.33%. 'Rs. 1100' is wrong as it uses an incorrect calculation of 5000 × 7.33 × 3 / 100."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n1. Simple interest on Rs. 2000 at 10% for 2 years is Rs. 400.\n2. Compound interest on Rs. 2000 at 10% for 2 years compounded annually is Rs. 420.\n3. The difference between CI and SI for 2 years on the same principal at the same rate is always P×(R/100)².\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 3 only"
+      ],
+      "correctAnswer": "1, 2 and 3",
+      "explanation": "Statement 1: SI = 2000 × 10 × 2 / 100 = Rs. 400. Correct. Statement 2: CI = 2000[(1 + 10/100)² − 1] = 2000[1.21 − 1] = 2000 × 0.21 = Rs. 420. Correct. Statement 3: CI − SI for 2 years = P(R/100)² = 2000 × (10/100)² = 2000 × 0.01 = Rs. 20, which matches 420 − 400 = 20. Correct. All three are correct. '1 and 2 only' is wrong because statement 3 is also correct. '2 and 3 only' is wrong because statement 1 is also correct. '1 and 3 only' is wrong because statement 2 is also correct."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "A sum of Rs. 6000 amounts to Rs. 7260 at compound interest in 2 years compounded annually. What is the rate of interest per annum?",
+      "options": [
+        "8% per annum",
+        "9% per annum",
+        "10% per annum",
+        "11% per annum"
+      ],
+      "correctAnswer": "10% per annum",
+      "explanation": "A = P(1 + R/100)^n. So 7260 = 6000(1 + R/100)². Therefore (1 + R/100)² = 7260/6000 = 1.21. So 1 + R/100 = 1.1, giving R = 10%. Option '10% per annum' is correct. '8% per annum' is wrong as 6000 × 1.08² = 6998.4. '9% per annum' is wrong as 6000 × 1.09² = 7128.6. '11% per annum' is wrong as 6000 × 1.11² = 7392.6."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Assertion (A): The compound interest on Rs. 1000 at 20% per annum for 2 years compounded annually is Rs. 440.\nReason (R): Compound interest formula is CI = P[(1 + R/100)^n − 1].",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion: CI = 1000[(1 + 20/100)² − 1] = 1000[1.44 − 1] = 1000 × 0.44 = Rs. 440. So (A) is correct. Reason: The formula CI = P[(1 + R/100)^n − 1] is the standard compound interest formula and it directly gives the CI value used in (A). So (R) is correct and explains (A). Option 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because (R) directly explains the calculation in (A). '(A) is correct but (R) is not correct' is wrong because the formula stated in (R) is indeed correct. '(A) is not correct but (R) is correct' is wrong because (A) is verified as correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "The simple interest on a certain sum for 4 years at 5% per annum is Rs. 600. What is the principal amount?",
+      "options": [
+        "Rs. 2500",
+        "Rs. 3500",
+        "Rs. 3000",
+        "Rs. 4000"
+      ],
+      "correctAnswer": "Rs. 3000",
+      "explanation": "SI = P × R × T / 100. So 600 = P × 5 × 4 / 100 = P × 20/100. Therefore P = 600 × 100/20 = Rs. 3000. Option 'Rs. 3000' is correct. 'Rs. 2500' is wrong as SI on 2500 at 5% for 4 years = 500, not 600. 'Rs. 3500' is wrong as SI on 3500 at 5% for 4 years = 700, not 600. 'Rs. 4000' is wrong as SI on 4000 at 5% for 4 years = 800, not 600."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following are correct regarding a principal of Rs. 10000 invested at 12% per annum?\n(i) SI for 3 years = Rs. 3600\n(ii) CI for 2 years compounded annually = Rs. 2544\n(iii) CI for 2 years compounded half-yearly = Rs. 2624.77\n(iv) Difference between CI and SI for 2 years (annual compounding) = Rs. 144",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) SI = 10000 × 12 × 3/100 = 3600. Correct. (ii) CI = 10000[(1.12)² − 1] = 10000[1.2544 − 1] = 2544. Correct. (iii) Half-yearly: rate = 6%, periods = 4. CI = 10000[(1.06)⁴ − 1] = 10000[1.26248 − 1] = 2624.77 (approx). Correct. (iv) CI − SI = 2544 − 2400 = 144, also = P(R/100)² = 10000 × 0.0144 = 144. Correct. All four are correct. '(i), (ii) and (iv) only' is wrong because (iii) is also correct. '(i) and (iv) only' is wrong because (ii) and (iii) are also correct. '(ii), (iii) and (iv) only' is wrong because (i) is also correct."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "At what rate percent per annum will Rs. 2000 yield Rs. 480 as simple interest in 3 years?",
+      "options": [
+        "6% per annum",
+        "7% per annum",
+        "8% per annum",
+        "9% per annum"
+      ],
+      "correctAnswer": "8% per annum",
+      "explanation": "SI = P × R × T / 100. So 480 = 2000 × R × 3/100. Therefore R = 480 × 100/(2000 × 3) = 48000/6000 = 8%. Option '8% per annum' is correct. '6% per annum' is wrong as SI = 2000 × 6 × 3/100 = 360, not 480. '7% per annum' is wrong as SI = 2000 × 7 × 3/100 = 420, not 480. '9% per annum' is wrong as SI = 2000 × 9 × 3/100 = 540, not 480."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Match the following:\nColumn I:\n(a) SI on Rs. 4000 at 10% for 2 years\n(b) CI on Rs. 4000 at 10% for 2 years (annual)\n(c) CI − SI for Rs. 4000 at 10% for 2 years\n(d) Amount at SI on Rs. 4000 at 10% for 2 years\nColumn II:\n(i) Rs. 4800\n(ii) Rs. 800\n(iii) Rs. 40\n(iv) Rs. 840",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) SI = 4000 × 10 × 2/100 = 800 → (ii). (b) CI = 4000[(1.1)² − 1] = 4000 × 0.21 = 840 → (iv). (c) CI − SI = 840 − 800 = 40 → (iii). (d) Amount = 4000 + 800 = 4800 → (i). So correct matching is (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i). Option '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' is wrong as it swaps SI and CI values. Option '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' is wrong as it confuses CI with the difference. Option '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' is wrong as it assigns Rs. 40 to SI."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "A sum doubles itself at simple interest in 8 years. The rate of interest per annum is:",
+      "options": [
+        "10.5% per annum",
+        "15.0% per annum",
+        "12.5% per annum",
+        "11.0% per annum"
+      ],
+      "correctAnswer": "12.5% per annum",
+      "explanation": "If sum doubles, SI = P. So P = P × R × 8/100. Therefore R = 100/8 = 12.5%. Option '12.5% per annum' is correct. '10.5% per annum' is wrong as at this rate, sum would double in 100/10.5 ≈ 9.52 years. '15.0% per annum' is wrong as at this rate, sum would double in 100/15 ≈ 6.67 years. '11.0% per annum' is wrong as at this rate, sum would double in 100/11 ≈ 9.09 years."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "The compound interest on Rs. 8000 at 15% per annum for 2 years compounded annually is __________.",
+      "options": [
+        "Rs. 2480",
+        "Rs. 2280",
+        "Rs. 2380",
+        "Rs. 2580"
+      ],
+      "correctAnswer": "Rs. 2580",
+      "explanation": "CI = P[(1 + R/100)² − 1] = 8000[(1.15)² − 1] = 8000[1.3225 − 1] = 8000 × 0.3225 = Rs. 2580. Option 'Rs. 2580' is correct. 'Rs. 2480' is wrong as it uses an incorrect multiplier of 0.31. 'Rs. 2380' is wrong as it incorrectly computes (1.15)² as 1.2975. 'Rs. 2280' is wrong as it may result from using 14.25% rate instead of 15%."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n1. If SI on a sum for 2 years at 10% is Rs. 400, then the sum is Rs. 2000.\n2. If CI on the same sum for 2 years at 10% compounded annually is Rs. 420, the difference CI − SI = Rs. 20.\n3. The ratio of CI to SI for 2 years at 10% on any principal is always 21:20.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1, 2 and 3",
+        "1 and 3 only"
+      ],
+      "correctAnswer": "1, 2 and 3",
+      "explanation": "Statement 1: SI = P × 10 × 2/100 = 400 gives P = 2000. Correct. Statement 2: CI on 2000 at 10% for 2 years = 2000[(1.1)² − 1] = 2000 × 0.21 = 420. CI − SI = 420 − 400 = 20. Correct. Statement 3: For 2 years at 10%, SI = 2PR/100 = 0.2P and CI = P[(1.1)² − 1] = 0.21P. Ratio = 0.21:0.20 = 21:20. Correct. All three are correct. '1 and 2 only' is wrong because statement 3 is also correct. '2 and 3 only' is wrong because statement 1 is also correct. '1 and 3 only' is wrong because statement 2 is also correct."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "In how many years will Rs. 1600 amount to Rs. 1852.20 at 5% per annum compound interest compounded annually?",
+      "options": [
+        "2 years",
+        "5 years",
+        "4 years",
+        "3 years"
+      ],
+      "correctAnswer": "3 years",
+      "explanation": "A = P(1 + R/100)^n. So 1852.20 = 1600(1.05)^n. (1.05)^n = 1852.20/1600 = 1.157625. Now (1.05)³ = 1.157625. So n = 3 years. Option '3 years' is correct. '2 years' is wrong as 1600 × (1.05)² = 1764. '4 years' is wrong as 1600 × (1.05)⁴ = 1944.81. '5 years' is wrong as 1600 × (1.05)⁵ = 2042.05."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Assertion (A): If the difference between compound interest and simple interest on a sum for 2 years at 5% per annum is Rs. 50, then the principal is Rs. 20000.\nReason (R): The difference between CI and SI for 2 years is given by P × (R/100)².",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion: Difference = P × (R/100)² = P × (5/100)² = P × 0.0025. If difference = 50, then P = 50/0.0025 = 20000. So (A) is correct. Reason: The formula for difference between CI and SI for 2 years is indeed P × (R/100)². (R) is correct. Since (R) is the formula used to verify (A), (R) is the correct explanation of (A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because (R) directly explains the calculation in (A). '(A) is correct but (R) is not correct' is wrong because the formula in (R) is a standard result. '(A) is not correct but (R) is correct' is wrong because (A) is verified as correct."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "A certain sum of money amounts to Rs. 7200 in 2 years and Rs. 7800 in 3 years at simple interest. The rate of interest per annum is:",
+      "options": [
+        "8% per annum",
+        "11% per annum",
+        "10% per annum",
+        "12% per annum"
+      ],
+      "correctAnswer": "10% per annum",
+      "explanation": "SI for 1 year = 7800 − 7200 = Rs. 600. SI for 2 years = 600 × 2 = 1200. Principal = 7200 − 1200 = Rs. 6000. Rate = (600 × 100)/(6000 × 1) = 10%. Option '10% per annum' is correct. '8% per annum' is wrong as SI per year at 8% on 6000 = 480, giving amount 6960 in 2 years. '11% per annum' is wrong as SI per year at 11% on 6000 = 660, giving amount 7320 in 2 years. '12% per annum' is wrong as SI per year at 12% on 6000 = 720, giving amount 7440 in 2 years."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Which of the following are correct about compound interest compounded half-yearly?\n(i) Effective rate for 10% p.a. compounded half-yearly is 10.25% p.a.\n(ii) Number of compounding periods in 3 years is 6.\n(iii) Rate per period for 12% p.a. compounded half-yearly is 6%.\n(iv) CI on Rs. 5000 at 10% p.a. for 1 year compounded half-yearly is Rs. 512.50.",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) Effective rate = (1 + 0.05)² − 1 = 1.1025 − 1 = 0.1025 = 10.25%. Correct. (ii) Half-yearly compounding for 3 years = 3 × 2 = 6 periods. Correct. (iii) 12% p.a. half-yearly means rate per period = 12/2 = 6%. Correct. (iv) CI = 5000[(1.05)² − 1] = 5000[1.1025 − 1] = 5000 × 0.1025 = 512.50. Correct. All four are correct. '(i), (ii) and (iii) only' is wrong because (iv) is also correct. '(ii), (iii) and (iv) only' is wrong because (i) is also correct. '(i) and (iv) only' is wrong because (ii) and (iii) are also correct."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Match the following:\nColumn I:\n(a) Time for a sum to double at SI at 10% p.a.\n(b) Time for a sum to triple at SI at 25% p.a.\n(c) Time for a sum to double at SI at 25% p.a.\n(d) Time for a sum to quadruple at SI at 15% p.a.\nColumn II:\n(i) 4 years\n(ii) 10 years\n(iii) 20 years\n(iv) 8 years",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "(a) Double means SI = P. P = P × 10 × T/100, T = 100/10 = 10 years → (ii). (b) Triple means SI = 2P. 2P = P × 25 × T/100, T = 200/25 = 8 years → (iv). (c) Double means SI = P. P = P × 25 × T/100, T = 100/25 = 4 years → (i). (d) Quadruple means SI = 3P. 3P = P × 15 × T/100, T = 300/15 = 20 years → (iii). So correct is (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii). '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' is wrong as it assigns 8 years to doubling at 10% instead of 10 years. '(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)' is wrong as it assigns 4 years to doubling at 10%. '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' is wrong as tripling at 25% takes 8 years not 4."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "If the simple interest on Rs. 3000 at a certain rate for 5 years is Rs. 1200, what is the rate of interest per annum?",
+      "options": [
+        "6% per annum",
+        "7% per annum",
+        "9% per annum",
+        "8% per annum"
+      ],
+      "correctAnswer": "8% per annum",
+      "explanation": "SI = P × R × T/100. 1200 = 3000 × R × 5/100 = 150R. So R = 1200/150 = 8%. Option '8% per annum' is correct. '6% per annum' is wrong as SI = 3000 × 6 × 5/100 = 900. '7% per annum' is wrong as SI = 3000 × 7 × 5/100 = 1050. '9% per annum' is wrong as SI = 3000 × 9 × 5/100 = 1350."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n1. When interest is compounded quarterly at 8% p.a., the rate per quarter is 2%.\n2. The number of compounding periods for quarterly compounding over 2 years is 8.\n3. SI and CI are equal for 1 year when compounded annually.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 3 only",
+        "1, 2 and 3",
+        "1 and 2 only",
+        "2 and 3 only"
+      ],
+      "correctAnswer": "1, 2 and 3",
+      "explanation": "Statement 1: Rate per quarter = 8/4 = 2%. Correct. Statement 2: Quarterly over 2 years = 4 × 2 = 8 periods. Correct. Statement 3: For annual compounding over 1 year, CI = P(1 + R/100) − P = PR/100 = SI. Correct. All three are correct. '1 and 3 only' is wrong because statement 2 is also correct. '1 and 2 only' is wrong because statement 3 is also correct. '2 and 3 only' is wrong because statement 1 is also correct."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "The compound interest on Rs. 12000 for 2 years at 10% per annum compounded annually exceeds the simple interest on the same sum at the same rate for the same period by:",
+      "options": [
+        "Rs. 100",
+        "Rs. 110",
+        "Rs. 140",
+        "Rs. 120"
+      ],
+      "correctAnswer": "Rs. 120",
+      "explanation": "Difference = P × (R/100)² = 12000 × (10/100)² = 12000 × 0.01 = Rs. 120. Alternatively, SI = 12000 × 10 × 2/100 = 2400. CI = 12000[(1.1)² − 1] = 12000 × 0.21 = 2520. Difference = 2520 − 2400 = 120. Option 'Rs. 120' is correct. 'Rs. 100' is wrong as it would require P = 10000. 'Rs. 140' is wrong as it would require P = 14000. 'Rs. 110' is wrong as it would require P = 11000."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "The following table shows investment details of four persons:\n\n| Person | Principal (Rs.) | Rate (% p.a.) | Time (years) | Type |\n|--------|----------------|---------------|--------------|------|\n| Amir   | 5000           | 10            | 2            | SI   |\n| Bilal  | 5000           | 10            | 2            | CI   |\n| Charu  | 8000           | 5             | 3            | SI   |\n| Deepa  | 8000           | 5             | 3            | CI   |\n\nWhat is the total simple interest earned by Amir and Charu together?",
+      "options": [
+        "Rs. 2000",
+        "Rs. 2100",
+        "Rs. 2200",
+        "Rs. 2400"
+      ],
+      "correctAnswer": "Rs. 2200",
+      "explanation": "Amir's SI = 5000 × 10 × 2/100 = Rs. 1000. Charu's SI = 8000 × 5 × 3/100 = Rs. 1200. Total = 1000 + 1200 = Rs. 2200. Option 'Rs. 2200' is correct. 'Rs. 2000' is wrong as it only counts Amir's SI doubled or miscalculates Charu's SI. 'Rs. 2100' is wrong as it may use incorrect rate for one person. 'Rs. 2400' is wrong as it overestimates by adding extra interest."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "The following table shows investment details of four persons:\n\n| Person | Principal (Rs.) | Rate (% p.a.) | Time (years) | Type |\n|--------|----------------|---------------|--------------|------|\n| Amir   | 5000           | 10            | 2            | SI   |\n| Bilal  | 5000           | 10            | 2            | CI   |\n| Charu  | 8000           | 5             | 3            | SI   |\n| Deepa  | 8000           | 5             | 3            | CI   |\n\nHow much more interest does Bilal earn compared to Amir?",
+      "options": [
+        "Rs. 40",
+        "Rs. 60",
+        "Rs. 50",
+        "Rs. 70"
+      ],
+      "correctAnswer": "Rs. 50",
+      "explanation": "Amir's SI = 5000 × 10 × 2/100 = Rs. 1000. Bilal's CI = 5000[(1.1)² − 1] = 5000 × 0.21 = Rs. 1050. Difference = 1050 − 1000 = Rs. 50. Option 'Rs. 50' is correct. 'Rs. 40' is wrong as that would be the difference if principal were 4000. 'Rs. 60' is wrong as that would be the difference if principal were 6000. 'Rs. 70' is wrong as that would be the difference if principal were 7000."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Assertion (A): A sum of Rs. 4000 at 10% per annum compounded annually will become Rs. 4840 in 2 years.\nReason (R): The amount at compound interest is calculated as A = P(1 + R/100)^n.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion: A = 4000(1 + 10/100)² = 4000 × 1.21 = 4840. So (A) is correct. Reason: A = P(1 + R/100)^n is the standard compound amount formula. (R) is correct and directly explains how the amount in (A) was calculated. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because (R) is the exact formula used to verify (A). '(A) is correct but (R) is not correct' is wrong because (R) states the correct formula. '(A) is not correct but (R) is correct' is wrong because (A) is verified as Rs. 4840."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "A man invests Rs. 10000 at 6% per annum simple interest. After how many years will the total amount become Rs. 13000?",
+      "options": [
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
+      ],
+      "correctAnswer": "5 years",
+      "explanation": "Amount = P + SI. 13000 = 10000 + SI, so SI = 3000. SI = P × R × T/100, so 3000 = 10000 × 6 × T/100 = 600T. T = 3000/600 = 5 years. Option '5 years' is correct. '3 years' is wrong as amount after 3 years = 10000 + 1800 = 11800. '4 years' is wrong as amount after 4 years = 10000 + 2400 = 12400. '6 years' is wrong as amount after 6 years = 10000 + 3600 = 13600."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Match the following:\nColumn I:\n(a) SI on Rs. 7000 at 8% for 3 years\n(b) CI on Rs. 5000 at 10% for 2 years (annual)\n(c) Amount at SI on Rs. 3000 at 12% for 2 years\n(d) CI on Rs. 2000 at 5% for 2 years (annual)\nColumn II:\n(i) Rs. 3720\n(ii) Rs. 1680\n(iii) Rs. 1050\n(iv) Rs. 205",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) SI = 7000 × 8 × 3/100 = 1680 → (ii). (b) CI = 5000[(1.1)² − 1] = 5000 × 0.21 = 1050 → (iii). (c) Amount = 3000 + 3000 × 12 × 2/100 = 3000 + 720 = 3720 → (i). (d) CI = 2000[(1.05)² − 1] = 2000 × 0.1025 = 205 → (iv). Correct matching is (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv). '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' is wrong as it swaps SI and CI values. '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' is wrong as it assigns Rs. 205 to CI on 5000 and Rs. 1050 to CI on 2000. '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)' is wrong as it assigns Rs. 3720 to SI on 7000."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "If the compound interest on a certain principal for 2 years at 20% per annum compounded annually is Rs. 8800, find the principal.",
+      "options": [
+        "Rs. 18000",
+        "Rs. 16000",
+        "Rs. 22000",
+        "Rs. 20000"
+      ],
+      "correctAnswer": "Rs. 20000",
+      "explanation": "CI = P[(1 + R/100)² − 1] = P[(1.2)² − 1] = P[1.44 − 1] = 0.44P. So 0.44P = 8800. P = 8800/0.44 = Rs. 20000. Option 'Rs. 20000' is correct. 'Rs. 18000' is wrong as CI = 0.44 × 18000 = 7920. 'Rs. 22000' is wrong as CI = 0.44 × 22000 = 9680. 'Rs. 16000' is wrong as CI = 0.44 × 16000 = 7040."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n1. If SI on a sum at 8% for 5 years equals the sum itself, this is impossible since SI for 5 years at 8% gives only 40% of the principal.\n2. The difference between CI and SI increases as the number of years increases.\n3. CI compounded half-yearly is always more than CI compounded annually at the same nominal rate.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "1, 2 and 3",
+        "2 and 3 only",
+        "1 and 3 only"
+      ],
+      "correctAnswer": "1, 2 and 3",
+      "explanation": "Statement 1: SI = P × 8 × 5/100 = 0.4P which is 40% of P, not 100%. So the claim that SI equals the sum is impossible. The statement correctly identifies this. Correct. Statement 2: The difference CI − SI grows with time because compounding effect accumulates. Correct. Statement 3: More frequent compounding yields higher effective interest, so half-yearly CI > annual CI at same nominal rate. Correct. All three are correct. '1 and 2 only' is wrong because statement 3 is also correct. '2 and 3 only' is wrong because statement 1 is also correct. '1 and 3 only' is wrong because statement 2 is also correct."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "A sum of Rs. 15000 is lent in two parts. One part is lent at 10% per annum SI for 3 years and the other at 10% per annum SI for 2 years. If the interest from both parts is equal, the sum lent for 3 years is:",
+      "options": [
+        "Rs. 5000",
+        "Rs. 9000",
+        "Rs. 7000",
+        "Rs. 6000"
+      ],
+      "correctAnswer": "Rs. 6000",
+      "explanation": "Let the sum lent for 3 years be x. Then sum lent for 2 years = 15000 − x. Interest on first part = x × 10 × 3/100 = 30x/100. Interest on second part = (15000 − x) × 10 × 2/100 = 20(15000 − x)/100. Setting equal: 30x = 20(15000 − x) = 300000 − 20x. 50x = 300000. x = 6000. Option 'Rs. 6000' is correct. 'Rs. 5000' is wrong as interest on 5000 for 3 years = 1500 while interest on 10000 for 2 years = 2000, not equal. 'Rs. 7000' is wrong as interest on 7000 for 3 years = 2100 while interest on 8000 for 2 years = 1600, not equal. 'Rs. 9000' is wrong as interest on 9000 for 3 years = 2700 while interest on 6000 for 2 years = 1200, not equal."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Calculate the compound interest (in Rs.) on Rs. 25000 at 4% per annum for 2 years compounded annually. (Enter the numerical value)",
+      "options": [
+        "Rs. 2040",
+        "Rs. 2000",
+        "Rs. 2080",
+        "Rs. 1960"
+      ],
+      "correctAnswer": "Rs. 2040",
+      "explanation": "CI = P[(1 + R/100)² − 1] = 25000[(1.04)² − 1] = 25000[1.0816 − 1] = 25000 × 0.0816 = Rs. 2040. The numerical value is 2040. Option 'Rs. 2040' is correct. 'Rs. 2000' is wrong as this is the simple interest (25000 × 4 × 2/100 = 2000), not CI. 'Rs. 2080' is wrong as it overestimates the compounding effect. 'Rs. 1960' is wrong as it underestimates and uses incorrect calculation."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n1. At 10% p.a. SI, a sum becomes 1.5 times itself in 5 years.\n2. At 20% p.a. SI, a sum becomes double in 5 years.\n3. At 25% p.a. SI, a sum becomes triple in 10 years.\nWhich of the statements given above are correct?",
+      "options": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2 and 3"
+      ],
+      "correctAnswer": "1 and 2 only",
+      "explanation": "Statement 1: Amount = P + P × 10 × 5/100 = P + 0.5P = 1.5P. Correct. Statement 2: Amount = P + P × 20 × 5/100 = P + P = 2P. Correct. Statement 3: Amount = P + P × 25 × 10/100 = P + 2.5P = 3.5P, not 3P. For tripling, need SI = 2P, time = 2 × 100/25 = 8 years, not 10. Incorrect. '2 and 3 only' is wrong because statement 3 is incorrect and statement 1 is correct. '1 and 3 only' is wrong because statement 3 is incorrect. '1, 2 and 3' is wrong because statement 3 is incorrect."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Which of the following are correct?\n(i) SI on Rs. 6000 at 7% for 4 years is Rs. 1680.\n(ii) CI on Rs. 6000 at 10% for 1 year compounded annually equals SI on the same.\n(iii) The difference between CI and SI on Rs. 5000 at 10% for 3 years is Rs. 155.\n(iv) Amount under CI on Rs. 10000 at 10% for 2 years compounded annually is Rs. 12100.",
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) SI = 6000 × 7 × 4/100 = 1680. Correct. (ii) For 1 year annual compounding, CI = P × R/100 = SI. Correct. (iii) SI = 5000 × 10 × 3/100 = 1500. CI = 5000[(1.1)³ − 1] = 5000[1.331 − 1] = 5000 × 0.331 = 1655. Difference = 1655 − 1500 = 155. Correct. (iv) A = 10000 × (1.1)² = 10000 × 1.21 = 12100. Correct. All four are correct. '(i), (ii) and (iv) only' is wrong because (iii) is also correct. '(i) and (ii) only' is wrong because (iii) and (iv) are also correct. '(ii), (iii) and (iv) only' is wrong because (i) is also correct."
+    }
+  ]
+}
