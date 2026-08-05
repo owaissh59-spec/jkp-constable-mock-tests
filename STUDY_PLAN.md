@@ -149,17 +149,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 49 | Morning | B — General Knowledge & Current Affairs (India) | World & National Awards (Science, Literature, Sports) | 30 | standard | Topic-wise | ⬜ |
-| 50 | Afternoon | D — Numerical and Reasoning Ability | Decimal Fractions | 40 | standard | Topic-wise | ⬜ |
-| 51 | Late | A — General English | Fill in the Blanks | 50 | standard | Topic-wise | ⬜ |
+| 49 | Morning | B — General Knowledge & Current Affairs (India) | World & National Awards (Science, Literature, Sports) | 30 | standard | Topic-wise | ✅ |
+| 50 | Afternoon | D — Numerical and Reasoning Ability | Decimal Fractions | 40 | standard | Topic-wise | ✅ |
+| 51 | Late | A — General English | Fill in the Blanks | 50 | standard | Topic-wise | ✅ |
 
 ### Day 18
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 52 | Morning | C — General Knowledge — J&K | RTI Act | 30 | standard | Topic-wise | ⬜ |
-| 53 | Afternoon | E — Basic Concepts of Computers | Search Engines & Web Browsing | 40 | standard | Topic-wise | ⬜ |
-| 54 | Late | B — General Knowledge & Current Affairs (India) | The World of Sports | 50 | standard | Topic-wise | ⬜ |
+| 52 | Morning | C — General Knowledge — J&K | RTI Act | 30 | standard | Topic-wise | ✅ |
+| 53 | Afternoon | E — Basic Concepts of Computers | Search Engines & Web Browsing | 40 | standard | Topic-wise | ✅ |
+| 54 | Late | B — General Knowledge & Current Affairs (India) | The World of Sports | 50 | standard | Topic-wise | ✅ |
 
 ### Day 19
 

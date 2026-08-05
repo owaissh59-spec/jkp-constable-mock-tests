@@ -1,0 +1,397 @@
+{
+  "subject": "C",
+  "topic": "RTI Act",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "C",
+      "questionText": "The Right to Information Act was enacted by the Parliament of India in which year?",
+      "options": [
+        "2005",
+        "2009",
+        "2007",
+        "2003"
+      ],
+      "correctAnswer": "2005",
+      "explanation": "The RTI Act was passed by Parliament in June 2005 and came into full force on 12 October 2005. 2003 is wrong — the Freedom of Information Act 2002 was a predecessor but was replaced; 2007 is wrong — RTI was already in effect; 2009 is wrong — the Act was already four years old by then."
+    },
+    {
+      "id": "2",
+      "subject": "C",
+      "questionText": "Consider the following statements about the RTI Act, 2005:\n\n(i) It provides citizens the right to access information held by public authorities.\n(ii) It replaced the Freedom of Information Act, 2002.\n(iii) It applies to all states and union territories of India.\n(iv) It applies to private companies and individuals.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "RTI provides access to information from public authorities (i-correct); it replaced the 2002 Freedom of Information Act (ii-correct); it applies across India (iii-correct). Statement (iv) is wrong because RTI applies to public authorities (government bodies), not to private companies or individuals directly, unless they are substantially funded by the government."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "Under the RTI Act, a citizen must receive the requested information within how many days of filing the application?",
+      "options": [
+        "60 days",
+        "15 days",
+        "30 days",
+        "45 days"
+      ],
+      "correctAnswer": "30 days",
+      "explanation": "The Public Information Officer (PIO) must provide information within 30 days of receiving the request. 15 days is wrong — that is the timeline only when the request concerns the life or liberty of a person; 45 days is wrong — no such provision exists; 60 days is wrong — it exceeds the statutory limit."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The RTI Act aims to promote transparency and accountability in the functioning of public authorities.\nReason (R): An informed citizenry is essential for a functioning democracy to hold the government accountable.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "RTI does aim to promote transparency and accountability (A is correct). An informed citizenry is the foundation of democratic accountability (R is correct and explains why RTI exists). Option 2 is wrong because R directly explains the purpose behind A; Option 3 is wrong because R is a valid democratic principle; Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "Which of the following are exempted from disclosure under Section 8 of the RTI Act?\n\n(i) Information that would affect the sovereignty and integrity of India\n(ii) Information relating to cabinet papers including records of deliberations\n(iii) Information that would endanger the life or physical safety of any person\n(iv) Information about salaries of government employees\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Section 8 exempts information affecting sovereignty (i-correct), cabinet papers (ii-correct), and information endangering life/safety (iii-correct). Statement (iv) is wrong because salaries of government employees are public information and are NOT exempt from disclosure under RTI."
+    },
+    {
+      "id": "6",
+      "subject": "C",
+      "questionText": "The fee for filing an RTI application with the Central Government is:",
+      "options": [
+        "Rs. 100",
+        "Rs. 10",
+        "Rs. 50",
+        "Rs. 5"
+      ],
+      "correctAnswer": "Rs. 10",
+      "explanation": "The prescribed fee for an RTI application to central government bodies is Rs. 10 (by cash, demand draft, or Indian Postal Order). Rs. 5 is wrong — no such fee exists under central rules; Rs. 50 is wrong — it exceeds the prescribed amount; Rs. 100 is wrong — this is far above the actual fee."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "Match the following authorities under the RTI Act with their roles:\n\nColumn I:\n(a) Public Information Officer (PIO)\n(b) First Appellate Authority\n(c) Central Information Commission (CIC)\n(d) State Information Commission (SIC)\n\nColumn II:\n(i) Hears second appeals at the central level\n(ii) Receives RTI applications and provides information\n(iii) Hears first appeals against PIO decisions\n(iv) Hears second appeals at the state level\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "PIO receives applications and provides information (a-ii); First Appellate Authority hears first appeals (b-iii); CIC hears second appeals at central level (c-i); SIC hears second appeals at state level (d-iv). Option 2 swaps PIO and appellate roles; Option 3 swaps CIC and SIC; Option 4 swaps appellate and CIC roles."
+    },
+    {
+      "id": "8",
+      "subject": "C",
+      "questionText": "If a Public Information Officer fails to provide information within the prescribed time, the penalty under the RTI Act is:",
+      "options": [
+        "Rs. 500 per day up to maximum Rs. 50,000",
+        "Rs. 250 per day up to maximum Rs. 25,000",
+        "Rs. 100 per day up to maximum Rs. 10,000",
+        "Rs. 1000 per day up to maximum Rs. 1,00,000"
+      ],
+      "correctAnswer": "Rs. 250 per day up to maximum Rs. 25,000",
+      "explanation": "Under Section 20, the Information Commission can impose a penalty of Rs. 250 per day up to a maximum of Rs. 25,000 on the PIO for delay without reasonable cause. Rs. 100/Rs. 10,000 is wrong — understates the penalty; Rs. 500/Rs. 50,000 is wrong — overstates the penalty; Rs. 1000/Rs. 1,00,000 is wrong — far exceeds the statutory limit."
+    },
+    {
+      "id": "9",
+      "subject": "C",
+      "questionText": "Consider the following statements about the Central Information Commission:\n\n(i) It consists of a Chief Information Commissioner and up to ten Information Commissioners.\n(ii) Members are appointed by the President on the recommendation of a committee headed by the Prime Minister.\n(iii) The term of office is five years or until age 65, whichever is earlier.\n(iv) The CIC is located in Mumbai.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "CIC has a Chief + up to 10 Commissioners (i-correct); appointed by President on PM-led committee's recommendation (ii-correct); term is 5 years or age 65 (iii-correct). Statement (iv) is wrong because the CIC is headquartered in New Delhi, not Mumbai."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Under the RTI Act, information concerning life or liberty of a person must be provided within:",
+      "options": [
+        "7 days",
+        "48 hours",
+        "24 hours",
+        "15 days"
+      ],
+      "correctAnswer": "48 hours",
+      "explanation": "When the information requested concerns the life or liberty of a person, it must be provided within 48 hours. 24 hours is wrong — no such provision in the RTI Act; 7 days is wrong — this timeframe doesn't appear in the Act for this purpose; 15 days is wrong — that was discussed but not the provision for life/liberty cases."
+    },
+    {
+      "id": "11",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Below Poverty Line (BPL) applicants are exempt from paying the RTI application fee.\nReason (R): The RTI Act aims to ensure that even economically weaker sections can access information without financial barriers.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "BPL applicants are indeed exempt from RTI fees (A is correct). This exemption exists to ensure information access for all economic sections (R is correct and explains A). Option 2 is wrong because R explains the rationale for A; Option 3 is wrong because R is correct; Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "Which of the following organizations are excluded from the purview of the RTI Act under the Second Schedule?\n\n(i) Intelligence Bureau (IB)\n(ii) Research and Analysis Wing (RAW)\n(iii) Central Bureau of Investigation (CBI)\n(iv) National Technical Research Organisation (NTRO)\n\nSelect the correct combination:",
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Second Schedule lists security/intelligence agencies exempt from RTI: IB (i-correct), RAW (ii-correct), NTRO (iv-correct). Statement (iii) is wrong because CBI is NOT excluded — it falls under the RTI Act and must provide information except in cases covered by Section 8 exemptions."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "The first appeal under the RTI Act must be filed within how many days from the date of receipt of the response (or from the date the response was due)?",
+      "options": [
+        "60 days",
+        "15 days",
+        "45 days",
+        "30 days"
+      ],
+      "correctAnswer": "30 days",
+      "explanation": "A first appeal must be filed within 30 days from the date of receiving the decision or from the expiry of the prescribed time limit. 15 days is wrong — too short; 45 days is wrong — exceeds the provision; 60 days is wrong — that is for second appeals to the Information Commission."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Consider the following statements about Section 4 of the RTI Act:\n\n(i) It mandates proactive (suo motu) disclosure of information by public authorities.\n(ii) Public authorities must publish information about their organization, functions, and duties.\n(iii) They must publish details of their budget, subsidy programs, and beneficiaries.\n(iv) Proactive disclosure makes RTI applications unnecessary for that information.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "Section 4 requires proactive disclosure (i-correct); publishing organization details (ii-correct); publishing budget/subsidy information (iii-correct); and this reduces the need for RTI applications for such info (iv-correct). All four statements accurately describe Section 4 provisions."
+    },
+    {
+      "id": "15",
+      "subject": "C",
+      "questionText": "The RTI Act, 2005 has how many sections in total?",
+      "options": [
+        "21 sections",
+        "31 sections",
+        "25 sections",
+        "35 sections"
+      ],
+      "correctAnswer": "31 sections",
+      "explanation": "The RTI Act, 2005 contains 31 sections divided into 6 chapters. 21 sections is wrong — too few; 25 sections is wrong — doesn't match the Act's structure; 35 sections is wrong — exceeds the actual number."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Under the RTI Act, which of the following can file an application for information?",
+      "options": [
+        "Only journalists and media persons",
+        "Any citizen of India",
+        "Only government employees",
+        "Only advocates and legal professionals"
+      ],
+      "correctAnswer": "Any citizen of India",
+      "explanation": "Any citizen of India can file an RTI application — there is no restriction based on profession or status. 'Only government employees' is wrong — all citizens have this right; 'only journalists' is wrong — RTI is not limited to media; 'only advocates' is wrong — legal background is not required."
+    },
+    {
+      "id": "17",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The RTI Act does not apply to the state of Jammu and Kashmir (prior to its reorganization in 2019).\nReason (R): J&K had its own separate law called the Jammu and Kashmir Right to Information Act, 2009.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Before 2019 reorganization, the central RTI Act did not apply to J&K (A is correct). J&K had its own RTI Act, 2009 (R is correct and explains why the central Act didn't apply — J&K had special status and its own legislation). Option 2 is wrong because R explains A; Option 3 is wrong because R is factually accurate; Option 4 is wrong because A is also correct. Note: After August 2019 reorganization, the central RTI Act applies to J&K UT."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Match the following sections of the RTI Act with their provisions:\n\nColumn I:\n(a) Section 4\n(b) Section 6\n(c) Section 8\n(d) Section 19\n\nColumn II:\n(i) Exemptions from disclosure\n(ii) Proactive disclosure by public authorities\n(iii) Appeal process\n(iv) How to request information\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Section 4 deals with proactive disclosure (a-ii); Section 6 covers request procedures (b-iv); Section 8 lists exemptions (c-i); Section 19 covers appeals (d-iii). Option 2 swaps (a) and (b); Option 3 swaps (c) and (d); Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "19",
+      "subject": "C",
+      "questionText": "After the reorganization of J&K in 2019, the central RTI Act, 2005 is now applicable to:",
+      "options": [
+        "Neither — J&K still has its own RTI Act",
+        "Only Ladakh UT",
+        "Both Jammu & Kashmir UT and Ladakh UT",
+        "Only Jammu & Kashmir UT"
+      ],
+      "correctAnswer": "Both Jammu & Kashmir UT and Ladakh UT",
+      "explanation": "After the Jammu & Kashmir Reorganization Act, 2019, the central RTI Act, 2005 applies to both new Union Territories. 'Only J&K UT' is wrong — Ladakh is also covered; 'Only Ladakh UT' is wrong — J&K is also covered; 'Neither' is wrong — the central Act now applies to both after abrogation of Article 370."
+    },
+    {
+      "id": "20",
+      "subject": "C",
+      "questionText": "Consider the following statements:\n\n(i) An RTI application must be in writing or through electronic means.\n(ii) The applicant does not need to give reasons for seeking information.\n(iii) The applicant must provide proof of Indian citizenship while filing.\n(iv) An RTI application can be filed in Hindi, English, or the official language of the area.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Applications must be written or electronic (i-correct); no reasons need to be given (ii-correct); applications can be in Hindi, English, or local official language (iv-correct). Statement (iii) is wrong — while only citizens can file, there is no mandatory requirement to provide proof of citizenship at the time of filing."
+    },
+    {
+      "id": "21",
+      "subject": "C",
+      "questionText": "The committee that recommends the appointment of the Chief Information Commissioner includes which of the following?\n\n(i) The Prime Minister (Chairperson)\n(ii) The Leader of the Opposition in the Lok Sabha\n(iii) A Union Cabinet Minister nominated by the PM\n(iv) The Chief Justice of India\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The recommending committee consists of: PM as Chairperson (i-correct), Leader of Opposition in Lok Sabha (ii-correct), and a Cabinet Minister nominated by PM (iii-correct). Statement (iv) is wrong — the Chief Justice of India is NOT part of the RTI appointment committee (though CJI is part of the Lokpal appointment committee)."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "The Right to Information Act replaced which earlier legislation?",
+      "options": [
+        "Freedom of Information Act, 2002",
+        "Public Records Act, 1993",
+        "Information Technology Act, 2000",
+        "Official Secrets Act, 1923"
+      ],
+      "correctAnswer": "Freedom of Information Act, 2002",
+      "explanation": "RTI Act, 2005 repealed and replaced the Freedom of Information Act, 2002. Official Secrets Act is wrong — it is a separate law still in force; Public Records Act is wrong — it deals with government records management; IT Act is wrong — it deals with electronic commerce and cyber law."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "Under Section 8(1)(j) of the RTI Act, personal information can be disclosed if:",
+      "options": [
+        "The applicant pays an additional fee of Rs. 500",
+        "The information is less than 5 years old",
+        "The applicant is a relative of the person concerned",
+        "It serves a larger public interest that outweighs the harm to privacy"
+      ],
+      "correctAnswer": "It serves a larger public interest that outweighs the harm to privacy",
+      "explanation": "Section 8(1)(j) exempts personal information unless the public interest in disclosure outweighs the harm to privacy. 'Relative of the person' is wrong — family relationship doesn't override privacy protections; 'additional fee' is wrong — no such fee-based override exists; 'less than 5 years old' is wrong — the age of information is not the criterion."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "The following data shows the number of RTI applications received by a department over 4 years:\n\n| Year | Applications Received |\n|------|----------------------|\n| 2019 | 500 |\n| 2020 | 320 |\n| 2021 | 480 |\n| 2022 | 600 |\n\nIn which year was the percentage increase over the previous year the highest?",
+      "options": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correctAnswer": "2021",
+      "explanation": "2020: decrease (500→320 = -36%). 2021: increase from 320→480 = (160/320)×100 = 50% increase. 2022: increase from 480→600 = (120/480)×100 = 25% increase. The highest % increase is 50% in 2021. 2020 is wrong (it was a decrease); 2022 is wrong (only 25%); 2019 is wrong (no prior data for comparison)."
+    },
+    {
+      "id": "25",
+      "subject": "C",
+      "questionText": "Which section of the RTI Act deals with the appeal process?",
+      "options": [
+        "Section 8",
+        "Section 19",
+        "Section 12",
+        "Section 24"
+      ],
+      "correctAnswer": "Section 19",
+      "explanation": "Section 19 of the RTI Act prescribes the procedure for filing first and second appeals. Section 8 is wrong — it deals with exemptions from disclosure; Section 12 is wrong — it deals with the constitution of the Central Information Commission; Section 24 is wrong — it deals with organizations excluded from the Act."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "The following data shows the disposal status of RTI applications in a government office:\n\n| Category | Number |\n|----------|--------|\n| Information provided | 350 |\n| Rejected under Section 8 | 80 |\n| Transferred to other authority | 45 |\n| Pending | 25 |\n\nWhat percentage of total applications were rejected?",
+      "options": [
+        "18%",
+        "20%",
+        "16%",
+        "14%"
+      ],
+      "correctAnswer": "16%",
+      "explanation": "Total applications = 350 + 80 + 45 + 25 = 500. Percentage rejected = (80/500) × 100 = 16%. 14% is wrong (would be 70/500); 18% is wrong (would be 90/500); 20% is wrong (would be 100/500)."
+    },
+    {
+      "id": "27",
+      "subject": "C",
+      "questionText": "Which of the following are objectives of the RTI Act?\n\n(i) To promote transparency in governance\n(ii) To reduce corruption in public offices\n(iii) To empower citizens to hold government accountable\n(iv) To classify all government documents as secret\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "RTI promotes transparency (i-correct), reduces corruption (ii-correct), and empowers citizens (iii-correct). Statement (iv) is wrong because RTI aims to DECLASSIFY and make information available, not to classify documents as secret — that is the exact opposite of the Act's purpose."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "Fill in the blank: Under the RTI Act, information that is over __________ years old and relates to cabinet papers shall be disclosed.",
+      "options": [
+        "15 years",
+        "25 years",
+        "10 years",
+        "20 years"
+      ],
+      "correctAnswer": "20 years",
+      "explanation": "Section 8(3) provides that information relating to cabinet papers (normally exempt) shall be disclosed after 20 years have elapsed. 10 years is wrong — too short as per the Act; 15 years is wrong — not the specified period; 25 years is wrong — exceeds the statutory threshold."
+    },
+    {
+      "id": "29",
+      "subject": "C",
+      "questionText": "Consider the following statements about the RTI Amendment Act, 2019:\n\n(i) It allows the Central Government to prescribe the term of office of the Chief Information Commissioner and Information Commissioners.\n(ii) It allows the Central Government to determine the salaries and conditions of service.\n(iii) Before the amendment, the CIC's salary was equivalent to that of the Chief Election Commissioner.\n(iv) The amendment removed the RTI Act entirely and replaced it with a new law.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The 2019 amendment empowers the Centre to prescribe tenure (i-correct), salaries and conditions (ii-correct); previously, CIC salary equalled the Chief Election Commissioner's (iii-correct). Statement (iv) is wrong — the amendment only modified certain provisions of the 2005 Act; it did NOT replace or remove the RTI Act."
+    },
+    {
+      "id": "30",
+      "subject": "C",
+      "questionText": "Match the following terms with their meanings under the RTI Act:\n\nColumn I:\n(a) Public Authority\n(b) Third Party\n(c) Record\n(d) Right to Information\n\nColumn II:\n(i) Includes documents, memos, emails, opinions, press releases, logbooks, etc.\n(ii) Any authority/body established by the Constitution, law, or government notification\n(iii) A person other than the citizen making the request, to whom the information relates\n(iv) Right of access to information held by public authorities\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Public Authority = any authority established by Constitution/law (a-ii); Third Party = person to whom the information relates (b-iii); Record includes documents, memos, emails, etc. (c-i); Right to Information = right to access information from public bodies (d-iv). Option 2 swaps (a) and (b); Option 3 swaps (c) and (d); Option 4 swaps (b) and (c)."
+    }
+  ]
+}

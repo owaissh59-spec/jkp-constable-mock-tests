@@ -1,0 +1,527 @@
+{
+  "subject": "D",
+  "topic": "Decimal Fractions",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Convert the fraction 3/8 into a decimal:",
+      "options": [
+        "0.325",
+        "0.350",
+        "0.385",
+        "0.375"
+      ],
+      "correctAnswer": "0.375",
+      "explanation": "3 ÷ 8 = 0.375. 0.325 is wrong (that is 13/40); 0.385 is wrong (that is 77/200); 0.350 is wrong (that is 7/20)."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about decimal fractions:\n\n(i) 0.5 is equivalent to the fraction 1/2.\n(ii) 0.25 is equivalent to the fraction 1/4.\n(iii) 0.33 is exactly equal to the fraction 1/3.\n(iv) 0.125 is equivalent to the fraction 1/8.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "0.5 = 1/2 (i-correct); 0.25 = 1/4 (ii-correct); 0.125 = 1/8 (iv-correct). Statement (iii) is wrong because 1/3 = 0.3333... (recurring), not exactly 0.33. 0.33 = 33/100, which is only an approximation of 1/3."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "What is the value of 2.45 + 3.678?",
+      "options": [
+        "6.128",
+        "5.928",
+        "6.028",
+        "5.128"
+      ],
+      "correctAnswer": "6.128",
+      "explanation": "2.45 + 3.678 = 2.450 + 3.678 = 6.128. 6.028 is wrong (subtraction error); 5.128 is wrong (misplaced digit); 5.928 is wrong (wrong carry)."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 0.999... (recurring) is exactly equal to 1.\nReason (R): The difference between 1 and 0.999... is infinitely small (zero), making them mathematically identical.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "0.999... = 1 is a proven mathematical fact (A is correct). The difference 1 − 0.999... = 0, making them identical (R is correct and explains A). Option 2 is wrong because R directly explains A; Option 3 is wrong because R is mathematically correct; Option 4 is wrong because A is also correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Simplify: 7.5 × 0.4",
+      "options": [
+        "2.5",
+        "2.8",
+        "3.2",
+        "3.0"
+      ],
+      "correctAnswer": "3.0",
+      "explanation": "7.5 × 0.4 = 75 × 4 / 100 = 300/100 = 3.0. 2.8 is wrong (uses 7 × 0.4 = 2.8); 3.2 is wrong (uses 8 × 0.4); 2.5 is wrong (uses 5 × 0.5)."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following are terminating decimals?\n\n(i) 1/4\n(ii) 1/3\n(iii) 7/8\n(iv) 5/6\n\nSelect the correct combination:",
+      "options": [
+        "(ii) and (iv) only",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i) and (iii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "A fraction in lowest terms gives a terminating decimal only if the denominator has no prime factors other than 2 and 5. 1/4 = 0.25 (i-correct, denom = 2²); 7/8 = 0.875 (iii-correct, denom = 2³). 1/3 (ii) is wrong — denom has factor 3, giving 0.333...; 5/6 (iv) is wrong — denom has factor 3, giving 0.8333..."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "What is 15.75 ÷ 0.25?",
+      "options": [
+        "63",
+        "43",
+        "53",
+        "73"
+      ],
+      "correctAnswer": "63",
+      "explanation": "15.75 ÷ 0.25 = 15.75 × 4 = 63. Alternatively: 1575/25 = 63. 53 is wrong (uses 13.25 ÷ 0.25); 73 is wrong (uses 18.25 ÷ 0.25); 43 is wrong (uses 10.75 ÷ 0.25)."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Match the following fractions with their decimal equivalents:\n\nColumn I:\n(a) 3/4\n(b) 2/5\n(c) 5/8\n(d) 1/6\n\nColumn II:\n(i) 0.4\n(ii) 0.1666...\n(iii) 0.625\n(iv) 0.75\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "3/4 = 0.75 (a-iv); 2/5 = 0.4 (b-i); 5/8 = 0.625 (c-iii); 1/6 = 0.1666... (d-ii). Option 2 wrongly assigns 0.625 to 3/4; Option 3 swaps 2/5 and 5/8 values; Option 4 swaps 5/8 and 1/6 values."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Arrange the following in ascending order: 0.45, 0.405, 0.4, 0.45̄ (0.4555...)",
+      "options": [
+        "0.405, 0.4, 0.45̄, 0.45",
+        "0.4, 0.45, 0.405, 0.45̄",
+        "0.405, 0.4, 0.45, 0.45̄",
+        "0.4, 0.405, 0.45, 0.45̄"
+      ],
+      "correctAnswer": "0.4, 0.405, 0.45, 0.45̄",
+      "explanation": "Converting to same decimal places: 0.4 = 0.400, 0.405 = 0.405, 0.45 = 0.450, 0.45̄ = 0.4555... Ascending: 0.400 < 0.405 < 0.450 < 0.4555... Option 2 wrongly places 0.405 before 0.4; Option 3 wrongly places 0.45 before 0.405; Option 4 wrongly orders all."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) To multiply a decimal by 10, move the decimal point one place to the right.\n(ii) To divide a decimal by 100, move the decimal point two places to the left.\n(iii) 0.07 × 1000 = 70.\n(iv) 45.6 ÷ 10 = 0.456.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "All of the above",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Moving decimal right by 1 for ×10 (i-correct); moving left by 2 for ÷100 (ii-correct); 0.07 × 1000 = 70 (iii-correct). Statement (iv) is wrong because 45.6 ÷ 10 = 4.56, not 0.456 (that would be ÷100)."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "What is the value of 0.36 expressed as a fraction in its simplest form?",
+      "options": [
+        "9/25",
+        "18/50",
+        "36/100",
+        "6/15"
+      ],
+      "correctAnswer": "9/25",
+      "explanation": "0.36 = 36/100. Simplifying: 36/100 ÷ 4/4 = 9/25. 36/100 is wrong — not in simplest form; 18/50 is wrong — also not simplified (= 9/25); 6/15 is wrong — 6/15 = 0.4, not 0.36."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The decimal expansion of 1/7 is non-terminating and recurring.\nReason (R): A rational number whose denominator (in lowest terms) has prime factors other than 2 and 5 always gives a non-terminating recurring decimal.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "1/7 = 0.142857142857... which is non-terminating and recurring (A is correct). The denominator 7 has a prime factor other than 2 and 5, so it gives a recurring decimal (R is correct and explains A). Option 2 is wrong because R directly explains why 1/7 is recurring; Option 3 is wrong because R is a valid mathematical rule; Option 4 is wrong because A is factually correct."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Simplify: 0.008 ÷ 0.04",
+      "options": [
+        "0.02",
+        "0.2",
+        "2.0",
+        "0.002"
+      ],
+      "correctAnswer": "0.2",
+      "explanation": "0.008 ÷ 0.04 = 8/1000 ÷ 4/100 = 8/1000 × 100/4 = 800/4000 = 0.2. Or: 0.008/0.04 = 8/40 = 0.2. 0.02 is wrong (divides incorrectly); 2.0 is wrong (multiplies instead of dividing); 0.002 is wrong (moves decimal wrong way)."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "If 4.5 × a = 9.0, what is the value of a?",
+      "options": [
+        "2.5",
+        "1.5",
+        "2.0",
+        "3.0"
+      ],
+      "correctAnswer": "2.0",
+      "explanation": "a = 9.0 ÷ 4.5 = 2.0. Verification: 4.5 × 2.0 = 9.0 ✓. 1.5 is wrong (4.5 × 1.5 = 6.75); 2.5 is wrong (4.5 × 2.5 = 11.25); 3.0 is wrong (4.5 × 3.0 = 13.5)."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Consider the following statements about recurring decimals:\n\n(i) 1/7 = 0.142857142857... has a period of 6 digits.\n(ii) 1/11 = 0.090909... has a period of 2 digits.\n(iii) Every recurring decimal can be expressed as a fraction.\n(iv) 1/9 = 0.111... has a period of 3 digits.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "1/7 = 0.1̄4̄2̄8̄5̄7̄ repeats every 6 digits (i-correct); 1/11 = 0.0̄9̄ repeats every 2 digits (ii-correct); every recurring decimal is rational and can be written as p/q (iii-correct). Statement (iv) is wrong because 1/9 = 0.1̄ has a period of 1 digit (just '1' repeating), not 3."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "What is the product of 1.2 × 0.5 × 0.3?",
+      "options": [
+        "0.15",
+        "0.24",
+        "0.36",
+        "0.18"
+      ],
+      "correctAnswer": "0.18",
+      "explanation": "1.2 × 0.5 = 0.6; 0.6 × 0.3 = 0.18. 0.36 is wrong (uses 1.2 × 0.3 only); 0.15 is wrong (uses 0.5 × 0.3 only); 0.24 is wrong (uses 0.8 × 0.3)."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Fill in the blank: The decimal equivalent of the fraction 7/20 is __________.",
+      "options": [
+        "0.30",
+        "0.45",
+        "0.37",
+        "0.35"
+      ],
+      "correctAnswer": "0.35",
+      "explanation": "7/20 = 7 × 5/(20 × 5) = 35/100 = 0.35. 0.37 is wrong (that is 37/100); 0.30 is wrong (that is 6/20 = 3/10); 0.45 is wrong (that is 9/20)."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Match the following operations with their results:\n\nColumn I:\n(a) 0.5 × 0.5\n(b) 2.5 ÷ 0.5\n(c) 1.5 + 0.75\n(d) 3.0 − 1.25\n\nColumn II:\n(i) 2.25\n(ii) 1.75\n(iii) 5.0\n(iv) 0.25\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "0.5 × 0.5 = 0.25 (a-iv); 2.5 ÷ 0.5 = 5.0 (b-iii); 1.5 + 0.75 = 2.25 (c-i); 3.0 − 1.25 = 1.75 (d-ii). Option 2 swaps (b) and (c); Option 3 assigns 2.25 to 0.5×0.5; Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "A shopkeeper sells an item for Rs. 12.50 per piece. If a customer buys 8 pieces, what is the total cost?",
+      "options": [
+        "Rs. 98.00",
+        "Rs. 100.00",
+        "Rs. 104.00",
+        "Rs. 96.00"
+      ],
+      "correctAnswer": "Rs. 100.00",
+      "explanation": "Total = 12.50 × 8 = 100.00. Rs. 96 is wrong (uses 12 × 8); Rs. 104 is wrong (uses 13 × 8); Rs. 98 is wrong (uses 12.25 × 8)."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 0.2 × 0.3 = 0.06, not 0.6.\nReason (R): When multiplying decimals, the number of decimal places in the product equals the sum of decimal places in both factors.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "0.2 × 0.3 = 0.06 (A is correct — 1 decimal place + 1 decimal place = 2 decimal places in product). R correctly states the rule that explains why the product has 2 decimal places. Option 2 is wrong because R directly explains A; Option 3 is wrong because R is a valid rule; Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "What is the value of (0.6)² + (0.8)²?",
+      "options": [
+        "1.04",
+        "1.00",
+        "0.96",
+        "0.88"
+      ],
+      "correctAnswer": "1.00",
+      "explanation": "(0.6)² + (0.8)² = 0.36 + 0.64 = 1.00. 0.96 is wrong (uses 0.36 + 0.60); 1.04 is wrong (uses 0.40 + 0.64); 0.88 is wrong (uses 0.36 + 0.52)."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Which of the following are correct?\n\n(i) 0.04 × 0.05 = 0.002\n(ii) 3.6 ÷ 0.12 = 30\n(iii) 0.25 + 0.75 = 1.0\n(iv) 1.1 × 1.1 = 1.21\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "All of the above",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "0.04 × 0.05 = 4/100 × 5/100 = 20/10000 = 0.002 (i-correct); 3.6 ÷ 0.12 = 360/12 = 30 (ii-correct); 0.25 + 0.75 = 1.0 (iii-correct); 1.1 × 1.1 = 1.21 (iv-correct). All four statements are correct."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Convert the decimal 0.625 into a fraction in its lowest terms:",
+      "options": [
+        "5/9",
+        "3/5",
+        "5/8",
+        "7/8"
+      ],
+      "correctAnswer": "5/8",
+      "explanation": "0.625 = 625/1000. GCD(625, 1000) = 125. 625/125 = 5; 1000/125 = 8. So 0.625 = 5/8. 3/5 is wrong (= 0.6); 5/9 is wrong (= 0.555...); 7/8 is wrong (= 0.875)."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The place value of 5 in 3.056 is 5/100.\n(ii) The place value of 7 in 0.307 is 7/1000.\n(iii) The place value of 4 in 12.4 is 4/10.\n(iv) The place value of 9 in 0.9 is 9/100.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "In 3.056, the 5 is in hundredths place = 5/100 (i-correct); in 0.307, the 7 is in thousandths place = 7/1000 (ii-correct); in 12.4, the 4 is in tenths place = 4/10 (iii-correct). Statement (iv) is wrong because in 0.9, the 9 is in the tenths place = 9/10, not 9/100."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "What is 5.6 − 2.847?",
+      "options": [
+        "2.953",
+        "2.653",
+        "2.753",
+        "2.853"
+      ],
+      "correctAnswer": "2.753",
+      "explanation": "5.600 − 2.847 = 2.753. 2.853 is wrong (subtracts only 2.747); 2.653 is wrong (subtracts 2.947); 2.953 is wrong (subtracts 2.647)."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): To divide a number by 0.5 is the same as multiplying it by 2.\nReason (R): Dividing by a fraction is equivalent to multiplying by its reciprocal, and the reciprocal of 0.5 is 2.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Dividing by 0.5 gives the same result as multiplying by 2 (A is correct, e.g., 10 ÷ 0.5 = 20 = 10 × 2). The reciprocal of 0.5 is 2, and dividing by a number equals multiplying by its reciprocal (R is correct and explains A). Option 2 is wrong because R directly explains A; Option 3 is wrong because R is correct; Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "A piece of rope is 8.4 m long. If it is cut into pieces of 0.7 m each, how many pieces will there be?",
+      "options": [
+        "11",
+        "14",
+        "12",
+        "10"
+      ],
+      "correctAnswer": "12",
+      "explanation": "Number of pieces = 8.4 ÷ 0.7 = 84/7 = 12. 10 is wrong (uses 8.4 ÷ 0.84); 11 is wrong (calculation error); 14 is wrong (uses 8.4 ÷ 0.6)."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Match the following decimal operations with their results:\n\nColumn I:\n(a) 0.1 × 0.1\n(b) 0.1 + 0.1\n(c) 0.1 ÷ 0.1\n(d) 1 − 0.1\n\nColumn II:\n(i) 0.2\n(ii) 1.0\n(iii) 0.01\n(iv) 0.9\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "0.1 × 0.1 = 0.01 (a-iii); 0.1 + 0.1 = 0.2 (b-i); 0.1 ÷ 0.1 = 1.0 (c-ii); 1 − 0.1 = 0.9 (d-iv). Option 2 swaps (a) and (b); Option 3 swaps (c) and (d); Option 4 swaps (b) and (c) wrongly."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "What is the value of 0.07 + 0.007 + 0.0007?",
+      "options": [
+        "0.7777",
+        "0.077",
+        "0.777",
+        "0.0777"
+      ],
+      "correctAnswer": "0.0777",
+      "explanation": "0.07 + 0.007 + 0.0007 = 0.0700 + 0.0070 + 0.0007 = 0.0777. 0.7777 is wrong (misplaces all values); 0.777 is wrong (uses 0.7 + 0.07 + 0.007); 0.077 is wrong (only adds first two)."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 0.5̄ (0.555...) = 5/9.\n(ii) 0.1̄2̄ (0.121212...) = 12/99 = 4/33.\n(iii) 0.3̄ (0.333...) = 1/3.\n(iv) 0.9̄ (0.999...) = 9/10.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "0.555... = 5/9 (i-correct); 0.121212... = 12/99 = 4/33 (ii-correct); 0.333... = 1/3 (iii-correct). Statement (iv) is wrong because 0.999... = 1 (not 9/10). 9/10 = 0.9 (terminating), not 0.999..."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "The following table shows prices per kg of items:\n\n| Item | Price per kg (Rs.) |\n|------|-------------------|\n| Sugar | 45.50 |\n| Rice | 62.75 |\n| Dal | 98.25 |\n| Flour | 35.80 |\n\nIf a person buys 2 kg of sugar and 1 kg of dal, what is the total cost?",
+      "options": [
+        "Rs. 193.25",
+        "Rs. 189.25",
+        "Rs. 185.75",
+        "Rs. 191.25"
+      ],
+      "correctAnswer": "Rs. 189.25",
+      "explanation": "2 kg sugar = 2 × 45.50 = Rs. 91.00. 1 kg dal = Rs. 98.25. Total = 91.00 + 98.25 = Rs. 189.25. Rs. 191.25 is wrong (uses 46.50 for sugar); Rs. 185.75 is wrong (uses 43.75 for sugar); Rs. 193.25 is wrong (uses 47.50 for sugar)."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Fill in the blank: If 2.5 × __________ = 1, then the blank is filled with the decimal value __________.",
+      "options": [
+        "0.4",
+        "0.5",
+        "0.25",
+        "0.2"
+      ],
+      "correctAnswer": "0.4",
+      "explanation": "2.5 × x = 1, so x = 1/2.5 = 10/25 = 2/5 = 0.4. 0.5 is wrong (2.5 × 0.5 = 1.25); 0.25 is wrong (2.5 × 0.25 = 0.625); 0.2 is wrong (2.5 × 0.2 = 0.5)."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Which of the following are equal to 3/4?\n\n(i) 0.75\n(ii) 75%\n(iii) 0.34 + 0.41\n(iv) 1.5 ÷ 2\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "All of the above"
+      ],
+      "correctAnswer": "All of the above",
+      "explanation": "0.75 = 3/4 (i-correct); 75% = 75/100 = 3/4 (ii-correct); 0.34 + 0.41 = 0.75 = 3/4 (iii-correct); 1.5 ÷ 2 = 0.75 = 3/4 (iv-correct). All four expressions equal 3/4."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Simplify: (3.5)² − (2.5)²",
+      "options": [
+        "6.0",
+        "4.0",
+        "5.0",
+        "7.0"
+      ],
+      "correctAnswer": "6.0",
+      "explanation": "Using a² − b² = (a+b)(a−b): (3.5+2.5)(3.5−2.5) = 6.0 × 1.0 = 6.0. Alternatively: 12.25 − 6.25 = 6.0. 5.0 is wrong; 4.0 is wrong; 7.0 is wrong."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "The following table shows distances (in km) covered by a vehicle on different days:\n\n| Day | Distance (km) |\n|-----|---------------|\n| Monday | 45.6 |\n| Tuesday | 52.3 |\n| Wednesday | 38.75 |\n| Thursday | 61.45 |\n\nWhat is the total distance covered in these four days?",
+      "options": [
+        "197.10 km",
+        "198.10 km",
+        "196.10 km",
+        "199.10 km"
+      ],
+      "correctAnswer": "198.10 km",
+      "explanation": "45.6 + 52.3 + 38.75 + 61.45 = 198.10 km. 197.10 is wrong (subtracts 1 from total); 196.10 is wrong (subtracts 2); 199.10 is wrong (adds 1 extra)."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "If 47.3 ÷ x = 11, what is the value of x?",
+      "options": [
+        "4.73",
+        "4.3",
+        "3.43",
+        "4.03"
+      ],
+      "correctAnswer": "4.3",
+      "explanation": "x = 47.3 / 11 = 4.3. Verification: 4.3 x 11 = 47.3. 4.03 is wrong (4.03 x 11 = 44.33); 4.73 is wrong (4.73 x 11 = 52.03); 3.43 is wrong (3.43 x 11 = 37.73)."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Match the following percentages with their decimal equivalents:\n\nColumn I:\n(a) 12.5%\n(b) 37.5%\n(c) 6.25%\n(d) 87.5%\n\nColumn II:\n(i) 0.375\n(ii) 0.0625\n(iii) 0.875\n(iv) 0.125\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "12.5% = 0.125 (a-iv); 37.5% = 0.375 (b-i); 6.25% = 0.0625 (c-ii); 87.5% = 0.875 (d-iii). Option 2 swaps (a) and (b); Option 3 swaps (b) and (c); Option 4 swaps (c) and (d)."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "What is the least number that must be added to 0.473 to make it exactly 0.5?",
+      "options": [
+        "0.127",
+        "0.027",
+        "0.037",
+        "0.017"
+      ],
+      "correctAnswer": "0.027",
+      "explanation": "Required = 0.500 − 0.473 = 0.027. 0.037 is wrong (would give 0.510); 0.017 is wrong (would give 0.490); 0.127 is wrong (would give 0.600)."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) 0.6 × 0.6 × 0.6 = 0.216.\n(ii) √0.04 = 0.2.\n(iii) √0.0009 = 0.03.\n(iv) 0.3 × 0.3 = 0.9.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "0.6³ = 0.216 (i-correct); √0.04 = 0.2 (ii-correct, since 0.2² = 0.04); √0.0009 = 0.03 (iii-correct, since 0.03² = 0.0009). Statement (iv) is wrong because 0.3 × 0.3 = 0.09, not 0.9."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "The following table shows the marks obtained (out of 10) by five students:\n\n| Student | Marks |\n|---------|-------|\n| A | 7.5 |\n| B | 8.25 |\n| C | 6.75 |\n| D | 9.0 |\n| E | 7.0 |\n\nWhat is the average marks of all five students?",
+      "options": [
+        "7.90",
+        "8.10",
+        "7.70",
+        "7.50"
+      ],
+      "correctAnswer": "7.70",
+      "explanation": "Sum = 7.5 + 8.25 + 6.75 + 9.0 + 7.0 = 38.50. Average = 38.50 ÷ 5 = 7.70. 7.50 is wrong (divides 37.5 by 5); 7.90 is wrong (divides 39.5 by 5); 8.10 is wrong (divides 40.5 by 5)."
+    }
+  ]
+}

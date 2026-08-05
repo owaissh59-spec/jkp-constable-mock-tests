@@ -1,0 +1,527 @@
+{
+  "subject": "E",
+  "topic": "Search Engines & Web Browsing",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which of the following is the most widely used search engine in the world?",
+      "options": [
+        "Yahoo",
+        "DuckDuckGo",
+        "Google",
+        "Bing"
+      ],
+      "correctAnswer": "Google",
+      "explanation": "Google holds over 90% of the global search engine market share, making it the most widely used. Yahoo is wrong — it has a very small market share today; Bing is wrong — it is the second largest but far behind Google; DuckDuckGo is wrong — it is a privacy-focused engine with a niche user base."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about search engines:\n\n(i) A search engine uses automated programs called 'crawlers' or 'spiders' to discover web pages.\n(ii) The process of organizing and storing web page data is called 'indexing'.\n(iii) Search engines display results based on relevance algorithms.\n(iv) A search engine can only find pages that are manually submitted to it.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Search engines use crawlers/spiders to discover pages (i-correct); indexing stores the data for quick retrieval (ii-correct); results are ranked by relevance algorithms (iii-correct). Statement (iv) is wrong because crawlers automatically discover pages by following links — manual submission is not required for most pages."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The address bar of a web browser is used to:",
+      "options": [
+        "Manage email accounts",
+        "Show available Wi-Fi networks",
+        "Enter and display the URL of a webpage",
+        "Display the time and date"
+      ],
+      "correctAnswer": "Enter and display the URL of a webpage",
+      "explanation": "The address bar (also called URL bar or location bar) lets users type a web address to navigate and displays the current page's URL. Displaying time/date is wrong — that is done by the system clock; showing Wi-Fi is wrong — that is in system settings; managing email is wrong — that requires an email client."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Using quotation marks around a search phrase (e.g., \"climate change\") returns only results containing that exact phrase.\nReason (R): Quotation marks in a search query tell the search engine to match the words in the exact order specified, rather than individually.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Quotation marks force exact-phrase matching (A is correct). The engine matches words in precise order instead of separately (R is correct and explains A). Option 2 is wrong because R directly explains the mechanism behind A; Option 3 is wrong because R is technically accurate; Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which of the following are popular web browsers?\n\n(i) Google Chrome\n(ii) Mozilla Firefox\n(iii) Microsoft PowerPoint\n(iv) Apple Safari\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Google Chrome, Mozilla Firefox, and Apple Safari are all web browsers (i, ii, iv correct). Microsoft PowerPoint (iii) is wrong — it is a presentation software for creating slideshows, not a web browser."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "A 'bookmark' in a web browser is used to:",
+      "options": [
+        "Measure the loading speed of a webpage",
+        "Save a link to a webpage for quick future access",
+        "Delete browsing history permanently",
+        "Block advertisements on a webpage"
+      ],
+      "correctAnswer": "Save a link to a webpage for quick future access",
+      "explanation": "A bookmark saves the URL of a frequently visited page so the user can return to it quickly without retyping the address. Blocking advertisements is wrong — that requires an ad-blocker extension; deleting history is wrong — that is a separate privacy function; measuring speed is wrong — that requires speed-test tools."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Match the following search operators with their functions:\n\nColumn I:\n(a) site:example.com\n(b) filetype:pdf\n(c) -word\n(d) OR\n\nColumn II:\n(i) Excludes a word from search results\n(ii) Searches only within a specific website\n(iii) Finds results containing either of two terms\n(iv) Restricts results to a specific file format\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "'site:' searches within a specific website (a-ii); 'filetype:' restricts to a file format (b-iv); '-word' excludes that word (c-i); 'OR' finds either term (d-iii). Option 2 swaps (a) and (b); Option 3 swaps (c) and (d); Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "The keyboard shortcut Ctrl + D in most web browsers is used to:",
+      "options": [
+        "Duplicate the current tab",
+        "Delete browsing history",
+        "Download the current page",
+        "Bookmark the current page"
+      ],
+      "correctAnswer": "Bookmark the current page",
+      "explanation": "Ctrl + D opens the bookmark/favorites dialog to save the current page. Downloading is wrong — that is Ctrl+S for saving; duplicating tab is wrong — no standard shortcut exists for that; deleting history is wrong — that requires Ctrl+Shift+Delete in most browsers."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Consider the following statements about web browsing history:\n\n(i) Browsing history records the URLs of all websites visited.\n(ii) Clearing history removes the record of visited pages from the browser.\n(iii) Browsing in 'Incognito' or 'Private' mode does not save history.\n(iv) Browsing history can never be deleted once created.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "History records visited URLs (i-correct); clearing removes them (ii-correct); private/incognito mode doesn't save history (iii-correct). Statement (iv) is wrong because browsing history CAN be deleted — users have the option to clear it at any time through browser settings."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "What does the term 'homepage' of a web browser refer to?",
+      "options": [
+        "The page where passwords are stored",
+        "The first page that loads when the browser is opened",
+        "The page with the most bookmarks saved",
+        "The last page visited before closing the browser"
+      ],
+      "correctAnswer": "The first page that loads when the browser is opened",
+      "explanation": "The homepage is the default page that loads automatically when you open the browser or click the home button. 'Last page visited' is wrong — that is the history function; 'page with most bookmarks' is wrong — that is the bookmark manager; 'page where passwords are stored' is wrong — that is the password settings section."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Different search engines may show different results for the same search query.\nReason (R): Each search engine uses its own proprietary ranking algorithm and index of web pages.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Different search engines do yield different results (A is correct). Each engine has its own algorithms and index (R is correct and explains why results differ). Option 2 is wrong because R directly explains A; Option 3 is wrong because R is accurate; Option 4 is wrong because A is also correct."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "The term 'SEO' in the context of web browsing stands for:",
+      "options": [
+        "Secure Electronic Operation",
+        "Software Engineering Online",
+        "Search Engine Optimization",
+        "System Error Output"
+      ],
+      "correctAnswer": "Search Engine Optimization",
+      "explanation": "SEO stands for Search Engine Optimization — the practice of improving a website to increase its visibility in search engine results. 'Secure Electronic Operation' is wrong — not a standard acronym; 'System Error Output' is wrong — fabricated term; 'Software Engineering Online' is wrong — not what SEO represents."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Which of the following are functions of browser cookies?\n\n(i) Remembering login credentials for websites\n(ii) Storing user preferences and settings\n(iii) Increasing internet connection speed\n(iv) Tracking browsing activity for targeted advertising\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Cookies remember logins (i-correct), store preferences (ii-correct), and track activity for ads (iv-correct). Statement (iii) is wrong because cookies do NOT increase internet speed — they are small text files for storing data and have no effect on connection speed."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Fill in the blank: The __________ is a program that retrieves and displays web pages from the internet when a user enters a URL or clicks a link.",
+      "options": [
+        "email client",
+        "web browser",
+        "operating system",
+        "search engine"
+      ],
+      "correctAnswer": "web browser",
+      "explanation": "A web browser (like Chrome, Firefox) retrieves and renders web pages. A search engine is wrong — it helps find pages but doesn't render them (it runs inside a browser); operating system is wrong — it manages hardware/software but doesn't directly display web pages; email client is wrong — it handles email, not web browsing."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Consider the following statements about the 'cache' in web browsing:\n\n(i) Browser cache stores copies of web pages, images, and files locally.\n(ii) It helps pages load faster on subsequent visits.\n(iii) Clearing cache deletes all locally stored copies of web content.\n(iv) Cache is the same as cookies.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Cache stores local copies of web content (i-correct); speeds up loading (ii-correct); clearing removes stored content (iii-correct). Statement (iv) is wrong because cache and cookies are different — cache stores page content (images, HTML, CSS) while cookies store small data like login tokens and preferences."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "What is a 'tab' in a web browser?",
+      "options": [
+        "A toolbar at the bottom of the browser",
+        "A section within a single browser window that shows an independent webpage",
+        "A type of browser extension",
+        "A separate window of the browser"
+      ],
+      "correctAnswer": "A section within a single browser window that shows an independent webpage",
+      "explanation": "A tab allows multiple webpages to be open within one browser window, each in its own tab. 'Separate window' is wrong — that is a new window, not a tab; 'toolbar at bottom' is wrong — that is the status bar; 'browser extension' is wrong — extensions are add-on features, not tabs."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Match the following keyboard shortcuts with their functions in web browsers:\n\nColumn I:\n(a) Ctrl + T\n(b) Ctrl + W\n(c) Ctrl + F\n(d) Ctrl + H\n\nColumn II:\n(i) View browsing history\n(ii) Open a new tab\n(iii) Find text on the current page\n(iv) Close the current tab\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Ctrl+T opens new tab (a-ii); Ctrl+W closes current tab (b-iv); Ctrl+F finds text (c-iii); Ctrl+H opens history (d-i). Option 2 swaps (a) and (b); Option 3 swaps (c) and (d); Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "The three main stages of how a search engine works are, in order:",
+      "options": [
+        "Indexing, Crawling, Ranking",
+        "Ranking, Crawling, Indexing",
+        "Crawling, Ranking, Indexing",
+        "Crawling, Indexing, Ranking"
+      ],
+      "correctAnswer": "Crawling, Indexing, Ranking",
+      "explanation": "First, crawlers discover pages (Crawling); then content is organized (Indexing); finally, results are sorted by relevance (Ranking). 'Indexing, Crawling, Ranking' is wrong — crawling must happen before indexing; 'Ranking, Crawling, Indexing' is wrong — ranking is the last step; 'Crawling, Ranking, Indexing' is wrong — indexing must occur before ranking."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Incognito mode (private browsing) does not make you anonymous on the internet.\nReason (R): Your Internet Service Provider, employer, and websites you visit can still track your activity even in incognito mode.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Incognito doesn't provide full anonymity (A is correct). ISPs, employers, and visited sites can still see your activity (R is correct and explains why you're not anonymous). Option 2 is wrong because R directly explains A; Option 3 is wrong because R is technically accurate; Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Which search engine is known for prioritizing user privacy and not tracking searches?",
+      "options": [
+        "Bing",
+        "DuckDuckGo",
+        "Google",
+        "Yahoo"
+      ],
+      "correctAnswer": "DuckDuckGo",
+      "explanation": "DuckDuckGo is specifically designed to protect user privacy — it doesn't track searches or create user profiles. Google is wrong — it tracks search history for personalized ads; Bing is wrong — Microsoft tracks user data; Yahoo is wrong — it also collects user data for advertising."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Consider the following statements about browser extensions/add-ons:\n\n(i) They are small software programs that add extra features to a browser.\n(ii) Ad-blockers are a common type of browser extension.\n(iii) Extensions can pose security risks if downloaded from untrusted sources.\n(iv) All browsers support the same extensions without modification.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Extensions add functionality (i-correct); ad-blockers are popular extensions (ii-correct); untrusted extensions can be security risks (iii-correct). Statement (iv) is wrong because different browsers have different extension ecosystems — Chrome extensions don't directly work on Firefox without modification."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "The 'refresh' or 'reload' button in a browser is used to:",
+      "options": [
+        "Open a new blank page",
+        "Go back to the previous page",
+        "Reload the current webpage from the server",
+        "Close all open tabs"
+      ],
+      "correctAnswer": "Reload the current webpage from the server",
+      "explanation": "Refresh reloads the current page, fetching updated content from the server. 'Open new page' is wrong — that is the new tab function; 'go back' is wrong — that is the back button; 'close tabs' is wrong — that requires Ctrl+W or clicking the X on each tab."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Which of the following are types of search results displayed by modern search engines?\n\n(i) Organic (unpaid) results\n(ii) Paid/sponsored advertisements\n(iii) Knowledge panels (quick information boxes)\n(iv) Hardware device listings\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Search engines display organic results (i-correct), paid ads (ii-correct), and knowledge panels (iii-correct). Statement (iv) is wrong — 'hardware device listings' is not a standard search result type; search engines don't specifically list hardware devices as a separate category."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Fill in the blank: A __________ is a website that acts as a gateway to other websites by providing links, search functionality, news, and other services (e.g., Yahoo, MSN).",
+      "options": [
+        "web hosting service",
+        "web server",
+        "domain registrar",
+        "web portal"
+      ],
+      "correctAnswer": "web portal",
+      "explanation": "A web portal is a gateway site offering links, search, news, email, and other services. A web server is wrong — it hosts website files; a domain registrar is wrong — it registers domain names; a web hosting service is wrong — it provides server space for websites."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Match the following search engines with their parent companies:\n\nColumn I:\n(a) Google Search\n(b) Bing\n(c) Yahoo Search\n(d) Baidu\n\nColumn II:\n(i) Baidu Inc. (China)\n(ii) Alphabet Inc.\n(iii) Microsoft\n(iv) Yahoo Inc. (now part of Apollo)\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Google is owned by Alphabet Inc. (a-ii); Bing by Microsoft (b-iii); Yahoo by Yahoo/Apollo (c-iv); Baidu by Baidu Inc. of China (d-i). Option 2 swaps Google and Bing; Option 3 swaps Bing and Yahoo; Option 4 swaps Yahoo and Baidu."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Consider the following statements about 'pop-up' windows in web browsing:\n\n(i) Pop-ups are small windows that appear automatically while browsing.\n(ii) They are often used for advertisements.\n(iii) Modern browsers include built-in pop-up blockers.\n(iv) Pop-ups always contain useful and relevant information.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Pop-ups appear automatically (i-correct); are often advertising (ii-correct); browsers have built-in blockers (iii-correct). Statement (iv) is wrong because pop-ups frequently contain unwanted ads, spam, or even malicious content — they do NOT always contain useful information."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "What does 'URL' stand for?",
+      "options": [
+        "Uniform Reference Locator",
+        "United Resource Link",
+        "Universal Resource Locator",
+        "Uniform Resource Locator"
+      ],
+      "correctAnswer": "Uniform Resource Locator",
+      "explanation": "URL stands for Uniform Resource Locator — the standard address format for resources on the internet. 'Universal Resource Locator' is wrong — the correct word is 'Uniform', not 'Universal'; 'United Resource Link' is wrong — fabricated term; 'Uniform Reference Locator' is wrong — the correct word is 'Resource', not 'Reference'."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A search engine and a web browser are not the same thing.\nReason (R): A search engine is a website that helps find information, while a web browser is software used to access and display websites.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "They are indeed different things (A is correct). A search engine is a service/website while a browser is application software (R is correct and clearly explains the difference). Option 2 is wrong because R explains A; Option 3 is wrong because R is accurate; Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "The 'back' and 'forward' buttons in a web browser are used to:",
+      "options": [
+        "Zoom in and out on a webpage",
+        "Navigate between previously visited pages in the session",
+        "Scroll up and down on a webpage",
+        "Switch between open tabs"
+      ],
+      "correctAnswer": "Navigate between previously visited pages in the session",
+      "explanation": "Back/forward buttons navigate through the page history of the current tab. Scrolling is wrong — that is done with the scroll wheel or scrollbar; switching tabs is wrong — that uses Ctrl+Tab; zooming is wrong — that uses Ctrl+Plus/Minus."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Which of the following are parts of a URL (e.g., https://www.example.com/page)?\n\n(i) Protocol (https://)\n(ii) Domain name (www.example.com)\n(iii) Path (/page)\n(iv) Printer name\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A URL consists of protocol/scheme (i-correct), domain name (ii-correct), and path (iii-correct). Statement (iv) is wrong — 'printer name' is not a component of a URL; URLs identify web resources, not hardware devices."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "The term 'web crawling' refers to:",
+      "options": [
+        "Automated programs systematically visiting web pages to index their content",
+        "A user manually browsing websites one by one",
+        "Downloading illegal content from the internet",
+        "Creating new web pages on a server"
+      ],
+      "correctAnswer": "Automated programs systematically visiting web pages to index their content",
+      "explanation": "Web crawling is the process by which search engine bots (crawlers/spiders) automatically visit and catalogue web pages. Manual browsing is wrong — that is just browsing; downloading illegal content is wrong — crawling is legal and done by search engines; creating pages is wrong — that is web development."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Consider the following statements about downloading files from the internet:\n\n(i) Downloaded files are stored on the user's local computer or device.\n(ii) A download manager can resume interrupted downloads.\n(iii) All files on the internet are safe to download.\n(iv) The default download folder can be changed in browser settings.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Downloads are saved locally (i-correct); download managers can resume (ii-correct); the download folder is configurable (iv-correct). Statement (iii) is wrong because NOT all internet files are safe — many contain malware, viruses, or other harmful software. Users should only download from trusted sources."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "What is the function of the 'Ctrl + Shift + Delete' keyboard shortcut in most web browsers?",
+      "options": [
+        "Remove all bookmarks permanently",
+        "Delete the current tab",
+        "Uninstall the browser",
+        "Open the clear browsing data dialog"
+      ],
+      "correctAnswer": "Open the clear browsing data dialog",
+      "explanation": "Ctrl+Shift+Delete opens the dialog to clear browsing history, cache, cookies, and other data. 'Delete tab' is wrong — Ctrl+W does that; 'remove bookmarks' is wrong — no such shortcut exists; 'uninstall browser' is wrong — that is done through system settings, not a shortcut."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Match the following browser features with their descriptions:\n\nColumn I:\n(a) Incognito/Private mode\n(b) Extensions/Add-ons\n(c) Autofill\n(d) Pop-up blocker\n\nColumn II:\n(i) Prevents unwanted windows from opening automatically\n(ii) Browses without saving history, cookies, or cache locally\n(iii) Automatically fills forms with saved personal information\n(iv) Small programs that add extra features to the browser\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Incognito doesn't save history/cookies (a-ii); extensions add features (b-iv); autofill fills forms (c-iii); pop-up blocker stops unwanted windows (d-i). Option 2 swaps (a) and (b); Option 3 swaps (c) and (d); Option 4 swaps (b) and (c)."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a valid top-level domain (TLD) in a URL?",
+      "options": [
+        ".gov",
+        ".org",
+        ".com",
+        ".exe"
+      ],
+      "correctAnswer": ".exe",
+      "explanation": ".exe is a file extension for executable programs on Windows, not a top-level domain. .com is wrong — it's a valid TLD for commercial sites; .org is wrong — it's a valid TLD for organizations; .gov is wrong — it's a valid TLD for government websites."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "The difference between 'uploading' and 'downloading' is:",
+      "options": [
+        "There is no difference; both mean the same thing",
+        "Downloading means printing; uploading means scanning",
+        "Uploading sends files from local to server; downloading retrieves files from server to local",
+        "Uploading is faster than downloading always"
+      ],
+      "correctAnswer": "Uploading sends files from local to server; downloading retrieves files from server to local",
+      "explanation": "Uploading transfers data FROM your device TO a remote server; downloading transfers FROM server TO your device. 'No difference' is wrong — they are opposite processes; 'uploading faster' is wrong — speed depends on connection; 'printing/scanning' is wrong — these are hardware functions unrelated to file transfer."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Consider the following statements about 'tabbed browsing':\n\n(i) It allows multiple web pages to be open in a single browser window.\n(ii) Ctrl + T opens a new tab in most browsers.\n(iii) Each tab runs independently, so crashing one tab doesn't always crash others.\n(iv) Tabs were introduced with the very first web browser ever created.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Multiple pages in one window (i-correct); Ctrl+T for new tab (ii-correct); tab isolation protects against crashes (iii-correct). Statement (iv) is wrong because the first web browser (WorldWideWeb, 1990) did not have tabs — tabbed browsing was introduced much later in browsers like Opera (2000) and Firefox (2004)."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Which of the following best describes a 'hyperlink' on a webpage?",
+      "options": [
+        "The loading progress bar",
+        "The title of the browser window",
+        "A decorative image on the page",
+        "A clickable text or image that navigates to another page or resource"
+      ],
+      "correctAnswer": "A clickable text or image that navigates to another page or resource",
+      "explanation": "A hyperlink is a clickable element (text, image, or button) that takes the user to another URL/resource. 'Decorative image' is wrong — images can be links but are not always; 'browser title' is wrong — that's the title bar; 'loading bar' is wrong — that shows page progress, not a link."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Which of the following are safe browsing practices?\n\n(i) Verifying that websites use HTTPS before entering sensitive data\n(ii) Clicking on all links in emails from unknown senders\n(iii) Keeping the web browser updated to the latest version\n(iv) Using strong, unique passwords for different websites\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Checking HTTPS (i-correct), keeping browser updated (iii-correct), and using strong passwords (iv-correct) are safe practices. Statement (ii) is wrong — clicking links from unknown senders is extremely dangerous and a common phishing attack vector."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "The function key F5 in most web browsers performs which action?",
+      "options": [
+        "Opens a new browser window",
+        "Refreshes/reloads the current page",
+        "Prints the current page",
+        "Opens the bookmarks manager"
+      ],
+      "correctAnswer": "Refreshes/reloads the current page",
+      "explanation": "F5 refreshes the current webpage by re-requesting it from the server. 'New window' is wrong — that is Ctrl+N; 'bookmarks manager' is wrong — that is Ctrl+Shift+B or Ctrl+B; 'print page' is wrong — that is Ctrl+P."
+    }
+  ]
+}
