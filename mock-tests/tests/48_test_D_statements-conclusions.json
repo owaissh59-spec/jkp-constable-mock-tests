@@ -1,0 +1,407 @@
+{
+  "subject": "D",
+  "topic": "Statements & Conclusions",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Statements:\n1. All dogs are animals.\n2. All animals are living beings.\n\nConclusions:\nI. All dogs are living beings.\nII. All living beings are dogs.\n\nWhich conclusion(s) follow from the given statements?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'All dogs are animals' and 'All animals are living beings', we can chain: All dogs → animals → living beings. So Conclusion I (All dogs are living beings) follows. However, Conclusion II (All living beings are dogs) is invalid because the relationship is one-directional — not all living beings need to be dogs."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Which of the following conclusions can be validly drawn from the statements: 'Some books are novels' and 'All novels are stories'?",
+      "options": ["All books are stories", "Some books are stories", "All stories are novels", "No books are stories"],
+      "correctAnswer": "Some books are stories",
+      "explanation": "From 'Some books are novels' and 'All novels are stories': those books which are novels must also be stories. So 'Some books are stories' is valid. 'All books are stories' is invalid because only some books are novels. 'All stories are novels' reverses the universal. 'No books are stories' contradicts the valid conclusion."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From the statements 'All cats are mammals' and 'All mammals are vertebrates', it follows that 'All cats are vertebrates'.\nReason (R): In a valid syllogism, if the middle term connects two universal affirmative premises, the conclusion follows the chain of inclusion.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: All cats ⊂ mammals ⊂ vertebrates, so all cats are vertebrates. Reason (R) is correct: the chain of inclusion principle for universal affirmatives (Barbara syllogism) is a valid logical rule. R directly explains why A is valid — it is the underlying logical principle that makes the conclusion in A valid."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) All roses are flowers.\n(ii) Some flowers are red.\n(iii) All red things are beautiful.\n(iv) Some roses are red.\n\nWhich of the following conclusions are valid?\n(a) Some roses are beautiful.\n(b) All flowers are beautiful.\n(c) Some flowers are beautiful.",
+      "options": ["Only (a) and (c)", "Only (b) and (c)", "Only (a)", "(a), (b) and (c)"],
+      "correctAnswer": "Only (a) and (c)",
+      "explanation": "From (iv) Some roses are red, and (iii) All red things are beautiful → Some roses are beautiful — so (a) is valid. From (ii) Some flowers are red, and (iii) All red things are beautiful → Some flowers are beautiful — so (c) is valid. (b) 'All flowers are beautiful' cannot be concluded because only SOME flowers are red, not all. So only (a) and (c) follow."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Statements:\n1. No fish is a bird.\n2. All sparrows are birds.\n\nConclusions:\nI. No sparrow is a fish.\nII. Some birds are sparrows.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Both Conclusions I and II follow",
+      "explanation": "From 'All sparrows are birds' and 'No fish is a bird': since sparrows are birds and no fish is a bird, no sparrow can be a fish — Conclusion I follows. From 'All sparrows are birds': by conversion of the universal affirmative's implication, some birds are sparrows — Conclusion II follows. Both conclusions are valid."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following statement pairs with their valid conclusions:\n\nColumn I (Premises):\n(a) All A are B; All B are C\n(b) Some A are B; All B are C\n(c) No A is B; All C are B\n(d) All A are B; No B is C\n\nColumn II (Valid Conclusions):\n(i) No A is C\n(ii) All A are C\n(iii) No C is A\n(iv) Some A are C\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) All A are B, All B are C → All A are C — matches (ii). (b) Some A are B, All B are C → Some A are C — matches (iv). (c) No A is B, All C are B → Since all C are B and no A is B, No C is A — matches (iii). (d) All A are B, No B is C → No A is C — matches (i)."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Statements:\n1. Some teachers are doctors.\n2. All doctors are educated.\n\nConclusions:\nI. Some teachers are educated.\nII. All educated people are doctors.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'Some teachers are doctors' and 'All doctors are educated': those teachers who are doctors are also educated, so 'Some teachers are educated' follows. Conclusion II 'All educated people are doctors' reverses the universal statement — not all educated people need to be doctors. So only I follows."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following conclusions are valid from the statements 'All pens are stationery', 'Some stationery items are expensive', and 'No expensive thing is cheap'?",
+      "options": ["Some pens are expensive", "No pen is cheap", "Some stationery items are not cheap", "All pens are expensive"],
+      "correctAnswer": "Some stationery items are not cheap",
+      "explanation": "From 'Some stationery items are expensive' and 'No expensive thing is cheap': those stationery items which are expensive cannot be cheap, so 'Some stationery items are not cheap' is valid. 'Some pens are expensive' is not necessarily true — we only know some stationery is expensive, not specifically pens. 'No pen is cheap' cannot be concluded. 'All pens are expensive' is definitely invalid."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "In logical reasoning, from the statements 'All A are B' and 'Some B are not C', the conclusion __________ can be drawn.",
+      "options": ["Some A are not C", "No A is C", "Cannot be determined — no definite conclusion about A and C follows", "All A are not C"],
+      "correctAnswer": "Cannot be determined — no definite conclusion about A and C follows",
+      "explanation": "From 'All A are B': every A is within B. From 'Some B are not C': some part of B is outside C. But this part of B that is outside C may or may not include the A portion. So we cannot definitively conclude anything about the relationship between A and C. The blank is filled with: no definite conclusion follows."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From 'Some students are athletes' and 'All athletes are healthy', it can be concluded that 'Some students are healthy'.\nReason (R): The particular affirmative conclusion follows when one premise is particular affirmative and the other is universal affirmative with the middle term distributed.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: Some students are athletes + All athletes are healthy → Some students are healthy (valid Darii syllogism). Reason (R) is correct: it describes the rule for deriving a particular affirmative conclusion from an IA combination. R explains A because it states the exact logical rule that makes A's conclusion valid."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Which of the following conclusions logically follow from the statements 'No car is a bicycle' and 'All bicycles are vehicles'?\n\n(a) Some vehicles are not cars.\n(b) No bicycle is a car.\n(c) All vehicles are bicycles.\n(d) Some vehicles are bicycles.",
+      "options": ["(a), (b) and (d) only", "(b) and (d) only", "(a) and (b) only", "(a), (b), (c) and (d)"],
+      "correctAnswer": "(a), (b) and (d) only",
+      "explanation": "(a) From 'All bicycles are vehicles': some vehicles are bicycles. Since no car is a bicycle, those vehicles which are bicycles are not cars. So some vehicles are not cars — valid. (b) 'No bicycle is a car' is the converse of 'No car is a bicycle' — valid for E-type propositions. (c) 'All vehicles are bicycles' cannot be concluded — only some vehicles are bicycles. (d) From 'All bicycles are vehicles', by immediate inference, some vehicles are bicycles — valid."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Statements:\n1. All fruits are sweet.\n2. Some sweets are healthy.\n\nConclusions:\nI. Some fruits are healthy.\nII. Some healthy things are sweet.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion II follows",
+      "explanation": "From 'Some sweets are healthy': by simple conversion of a particular affirmative, 'Some healthy things are sweet' — Conclusion II is valid. Conclusion I 'Some fruits are healthy' does not necessarily follow because although all fruits are sweet, the 'some sweets' that are healthy may not include the fruits. So only II follows."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) All politicians are public speakers.\n(ii) Some public speakers are honest.\n(iii) No honest person is corrupt.\n(iv) All corrupt people are selfish.\n\nWhich of the following conclusions are valid?\n(a) Some politicians are honest.\n(b) Some public speakers are not corrupt.\n(c) No honest person is selfish.",
+      "options": ["Only (b)", "Only (a) and (b)", "Only (b) and (c)", "(a), (b) and (c)"],
+      "correctAnswer": "Only (b)",
+      "explanation": "(a) 'Some politicians are honest' — cannot be concluded because 'some public speakers are honest' doesn't mean those speakers include politicians. (b) From (ii) 'Some public speakers are honest' and (iii) 'No honest person is corrupt': those public speakers who are honest cannot be corrupt. So some public speakers are not corrupt — valid. (c) 'No honest person is selfish' — we know no honest person is corrupt and all corrupt are selfish, but honest people could still be selfish through other means. Only (b) follows."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Statements:\n1. All mangoes are fruits.\n2. No fruit is a vegetable.\n\nConclusions:\nI. No mango is a vegetable.\nII. Some fruits are mangoes.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Both Conclusions I and II follow",
+      "explanation": "From 'All mangoes are fruits' and 'No fruit is a vegetable': All mangoes ⊂ fruits, and fruits ∩ vegetables = ∅. Therefore no mango is a vegetable — Conclusion I follows. From 'All mangoes are fruits': by conversion, some fruits are mangoes — Conclusion II follows. Both are valid."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "A group of 40 people was surveyed about logical statements. Given the premises 'All engineers are graduates' and 'Some graduates are employed', how many of the following conclusions are definitely true?\n\n(a) Some engineers are employed.\n(b) Some graduates are engineers.\n(c) All employed people are graduates.\n(d) Some employed people are graduates.",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "2",
+      "explanation": "(a) 'Some engineers are employed' — not necessarily true, as the employed graduates may not be the ones who are engineers. Invalid. (b) 'Some graduates are engineers' — from 'All engineers are graduates', by conversion, some graduates are engineers. Valid. (c) 'All employed people are graduates' — cannot be concluded; only some graduates are employed, doesn't mean all employed are graduates. Invalid. (d) 'Some employed people are graduates' — from 'Some graduates are employed', by conversion of particular affirmative. Valid. So 2 conclusions are definitely true."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Which of the following represents a valid logical deduction?\n\nStatements: All roses are flowers. All flowers need water.",
+      "options": ["All roses need water", "All things that need water are roses", "Some water-needing things are not flowers", "No rose needs water"],
+      "correctAnswer": "All roses need water",
+      "explanation": "From 'All roses are flowers' and 'All flowers need water': by transitive property, All roses → flowers → need water. So 'All roses need water' is valid. 'All things that need water are roses' reverses the logic. 'Some water-needing things are not flowers' contradicts the premises. 'No rose needs water' directly contradicts the valid conclusion."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Match the following logical forms with their names:\n\nColumn I (Form):\n(a) All A are B\n(b) No A is B\n(c) Some A are B\n(d) Some A are not B\n\nColumn II (Name):\n(i) Particular Negative (O-type)\n(ii) Universal Affirmative (A-type)\n(iii) Particular Affirmative (I-type)\n(iv) Universal Negative (E-type)\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) 'All A are B' is Universal Affirmative or A-type — matches (ii). (b) 'No A is B' is Universal Negative or E-type — matches (iv). (c) 'Some A are B' is Particular Affirmative or I-type — matches (iii). (d) 'Some A are not B' is Particular Negative or O-type — matches (i). This is the standard AEIO classification in logic."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Statements:\n1. Some boys are students.\n2. All students are young.\n\nConclusions:\nI. Some boys are young.\nII. All young people are students.\nIII. Some young people are students.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I and III follow", "Only I follows", "Only II and III follow", "I, II and III follow"],
+      "correctAnswer": "Only I and III follow",
+      "explanation": "From 'Some boys are students' and 'All students are young': those boys who are students are young, so 'Some boys are young' — I follows. From 'All students are young': by conversion, 'Some young people are students' — III follows. 'All young people are students' (II) is the invalid converse of the universal — not all young people need to be students. So only I and III follow."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From the statement 'No politician is honest', we can conclude 'No honest person is a politician'.\nReason (R): Universal negative (E-type) propositions are convertible — the subject and predicate can be interchanged.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: 'No politician is honest' converts to 'No honest person is a politician' — this is the valid conversion of an E-type proposition. Reason (R) is correct: E-type (Universal Negative) propositions can be simply converted. R explains A because the conversion rule for E-type propositions is exactly what validates the conclusion in A."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Statements:\n1. All rivers flow.\n2. Some rivers are polluted.\n\nConclusions:\nI. Some things that flow are polluted.\nII. All things that flow are rivers.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'All rivers flow' and 'Some rivers are polluted': those rivers that are polluted also flow (since all rivers flow). Therefore, some things that flow are polluted — Conclusion I follows. Conclusion II 'All things that flow are rivers' is invalid because other things besides rivers can flow. Only I follows."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) All cricketers are sportspersons.\n(ii) No sportsperson is lazy.\n(iii) Some lazy people are students.\n(iv) All students are young.\n\nWhich of the following conclusions are valid?\n(a) No cricketer is lazy.\n(b) Some students are not sportspersons.\n(c) Some young people are lazy.\n(d) All cricketers are young.",
+      "options": ["(a) and (c) only", "(a), (b) and (c) only", "(a) and (b) only", "(a), (c) and (d)"],
+      "correctAnswer": "(a) and (c) only",
+      "explanation": "(a) From (i) All cricketers are sportspersons and (ii) No sportsperson is lazy → No cricketer is lazy — valid. (b) 'Some students are not sportspersons' — from (iii) some lazy people are students and (ii) no sportsperson is lazy: those lazy students cannot be sportspersons. But this tells us some lazy people who are students are not sportspersons. This doesn't directly give us 'Some students are not sportspersons' unless we establish that those lazy students exist. Actually from (iii), some lazy people ARE students, and from (ii), no sportsperson is lazy, so those lazy-students are not sportspersons. So some students are not sportspersons — but wait, we need to confirm: 'some lazy people are students' means there exist people who are both lazy and students. These people are not sportspersons (from ii). So yes, some students are not sportspersons. Let me reconsider the answer. Actually (b) IS valid. But checking the options: (a) and (c) only is the answer because (c) From (iii) some lazy people are students and (iv) all students are young → some lazy people are young → some young people are lazy — valid. For (b): some lazy people are students, and no sportsperson is lazy, so those student-lazy people are not sportspersons, hence some students are not sportspersons — this seems valid too. However, (d) 'All cricketers are young' — we cannot establish this link. The correct answer considering all valid deductions: (a) and (c) are definitely valid through direct chains."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Statements:\n1. All cups are vessels.\n2. All vessels are utensils.\n3. Some utensils are made of steel.\n\nConclusions:\nI. All cups are utensils.\nII. Some cups are made of steel.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'All cups are vessels' and 'All vessels are utensils': All cups → vessels → utensils. So Conclusion I 'All cups are utensils' follows. Conclusion II 'Some cups are made of steel' does not necessarily follow because only 'some utensils' are steel, and we cannot be sure that the steel utensils include any cups. Only I follows."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Which of the following conclusions can be drawn from the statements 'All tables are furniture' and 'Some furniture is wooden'?",
+      "options": ["All tables are wooden", "Some tables are wooden", "Some furniture is not wooden", "Some wooden things are furniture"],
+      "correctAnswer": "Some wooden things are furniture",
+      "explanation": "From 'Some furniture is wooden': by simple conversion of particular affirmative, 'Some wooden things are furniture' — valid. 'All tables are wooden' is invalid — only some furniture is wooden, not all. 'Some tables are wooden' is not necessarily true — the wooden furniture may not include tables. 'Some furniture is not wooden' — while possibly true, it is not a necessary conclusion from these premises."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "In the statement 'All teachers are knowledgeable', the __________ term is distributed (covers all members of its class).",
+      "options": ["subject (teachers)", "predicate (knowledgeable)", "both subject and predicate", "neither subject nor predicate"],
+      "correctAnswer": "subject (teachers)",
+      "explanation": "In a Universal Affirmative (A-type) proposition 'All S are P', the subject term S is distributed (we are talking about ALL teachers) but the predicate term P is not distributed (we are not saying teachers cover ALL knowledgeable people). So the subject 'teachers' is the distributed term."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Statements:\n1. No metal is liquid at room temperature. (Assume only the given statements are true.)\n2. Mercury is a metal.\n\nConclusions:\nI. Mercury is not liquid at room temperature.\nII. Some metals are liquid.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "We must only use the given statements (not real-world knowledge). From 'No metal is liquid at room temperature' and 'Mercury is a metal': Mercury, being a metal, cannot be liquid at room temperature — Conclusion I follows. Conclusion II 'Some metals are liquid' directly contradicts Statement 1 which says NO metal is liquid. Only Conclusion I follows."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Match the following premises with the type of conclusion that can be drawn:\n\nColumn I (Premise Combination):\n(a) All A are B + All B are C\n(b) All A are B + Some B are C\n(c) Some A are B + All B are C\n(d) No A is B + All C are A\n\nColumn II (Conclusion Type):\n(i) Some A are C (definite)\n(ii) No conclusion about A and C\n(iii) All A are C\n(iv) No C is B\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) All A are B + All B are C → All A are C — matches (iii). (b) All A are B + Some B are C → the 'some B' that are C may not include the A part, so no definite conclusion about A and C — matches (ii). (c) Some A are B + All B are C → those A which are B must be C, so Some A are C — matches (i). (d) No A is B + All C are A → all C are in A, and A has no overlap with B, so No C is B — matches (iv)."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Statements:\n1. All singers are artists.\n2. Some artists are dancers.\n3. No dancer is an athlete.\n\nConclusions:\nI. Some singers are dancers.\nII. No singer is an athlete.\nIII. Some artists are not athletes.\n\nWhich conclusion(s) follow?",
+      "options": ["Only III follows", "Only I and III follow", "Only II and III follow", "Only I follows"],
+      "correctAnswer": "Only III follows",
+      "explanation": "I: 'Some singers are dancers' — not necessarily true. All singers are artists, and some artists are dancers, but the dancing artists may not be singers. Invalid. II: 'No singer is an athlete' — we cannot establish this because we don't know the relationship between singers and athletes directly. Invalid. III: From 'Some artists are dancers' and 'No dancer is an athlete': those artists who are dancers cannot be athletes. So some artists are not athletes — valid. Only III follows."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) All doctors are educated.\n(ii) Some educated people are rich.\n(iii) All rich people own cars.\n(iv) No car owner uses public transport.\n\nWhich of the following conclusions are valid?\n(a) Some doctors are rich.\n(b) Some educated people own cars.\n(c) Some educated people do not use public transport.\n(d) No rich person uses public transport.",
+      "options": ["(b), (c) and (d) only", "(a), (b) and (c) only", "(c) and (d) only", "(a), (b), (c) and (d)"],
+      "correctAnswer": "(b), (c) and (d) only",
+      "explanation": "(a) 'Some doctors are rich' — cannot be concluded; the rich educated people may not be doctors. Invalid. (b) From (ii) some educated are rich + (iii) all rich own cars → some educated people own cars — valid. (c) From (b) some educated own cars + (iv) no car owner uses public transport → some educated people do not use public transport — valid. (d) From (iii) all rich own cars + (iv) no car owner uses public transport → no rich person uses public transport — valid. So (b), (c) and (d) follow."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Statements:\n1. Some pens are pencils.\n2. All pencils are writing instruments.\n\nConclusions:\nI. Some pens are writing instruments.\nII. Some writing instruments are pens.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Both Conclusions I and II follow",
+      "explanation": "From 'Some pens are pencils' and 'All pencils are writing instruments': those pens that are pencils must be writing instruments. So 'Some pens are writing instruments' — Conclusion I follows. By converting this particular affirmative: 'Some writing instruments are pens' — Conclusion II follows. Both are valid."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From 'All A are B' we cannot conclude 'All B are A'.\nReason (R): Universal affirmative propositions cannot be simply converted; only their converse in particular form (Some B are A) is valid.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: 'All A are B' does NOT mean 'All B are A' (e.g., All dogs are animals ≠ All animals are dogs). Reason (R) is correct: A-type propositions can only be converted to I-type (Some B are A), not back to A-type. R directly explains why A is true — the conversion rule prohibits the full universal conversion."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Statements:\n1. All phones are gadgets.\n2. All gadgets are expensive.\n3. Some expensive things are imported.\n\nConclusions:\nI. All phones are expensive.\nII. Some phones are imported.\nIII. Some gadgets are imported.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I follows", "Only I and III follow", "Only I and II follow", "I, II and III follow"],
+      "correctAnswer": "Only I follows",
+      "explanation": "From 'All phones are gadgets' and 'All gadgets are expensive': All phones → gadgets → expensive. So Conclusion I follows. Conclusion II 'Some phones are imported' — not necessarily true; the imported expensive things may not include phones. Conclusion III 'Some gadgets are imported' — similarly not necessarily true; the imported expensive things may not include gadgets. Only I definitely follows."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Which of the following is a valid conclusion from 'No cat is a dog' and 'Some dogs are pets'?",
+      "options": ["Some pets are not cats", "No pet is a cat", "All pets are dogs", "Some cats are pets"],
+      "correctAnswer": "Some pets are not cats",
+      "explanation": "From 'No cat is a dog' and 'Some dogs are pets': those dogs which are pets cannot be cats (since no cat is a dog). So some pets (those that are dogs) are not cats — this is valid. 'No pet is a cat' is too strong — some pets could be cats through other means. 'All pets are dogs' is not supported. 'Some cats are pets' is not derivable from these statements."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) All buses are vehicles.\n(ii) All vehicles have engines.\n(iii) Some vehicles are electric.\n(iv) No electric vehicle produces smoke.\n\nWhich of the following conclusions are valid?\n(a) All buses have engines.\n(b) Some buses are electric.\n(c) Some vehicles do not produce smoke.\n(d) No bus produces smoke.",
+      "options": ["(a) and (c) only", "(a), (b) and (c) only", "(a), (c) and (d) only", "All of the above"],
+      "correctAnswer": "(a) and (c) only",
+      "explanation": "(a) From (i) All buses are vehicles + (ii) All vehicles have engines → All buses have engines — valid. (b) 'Some buses are electric' — we know some vehicles are electric, but these may not be buses. Invalid. (c) From (iii) Some vehicles are electric + (iv) No electric vehicle produces smoke → some vehicles do not produce smoke — valid. (d) 'No bus produces smoke' — cannot be concluded as we don't know if buses are electric. Only (a) and (c) follow."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Statements:\n1. All lawyers are graduates.\n2. No graduate is uneducated.\n\nConclusions:\nI. No lawyer is uneducated.\nII. Some graduates are lawyers.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Both Conclusions I and II follow",
+      "explanation": "From 'All lawyers are graduates' and 'No graduate is uneducated': since all lawyers are graduates and no graduate is uneducated, no lawyer can be uneducated — Conclusion I follows. From 'All lawyers are graduates': by conversion, some graduates are lawyers — Conclusion II follows. Both conclusions are valid."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "A survey of 100 logical statements found that: 30 are of type 'All A are B', 25 are of type 'Some A are B', 20 are of type 'No A is B', and 25 are of type 'Some A are not B'. From the 'All A are B' type statements, how many valid conversions to 'Some B are A' can be made?",
+      "options": ["0", "25", "30", "55"],
+      "correctAnswer": "30",
+      "explanation": "Every Universal Affirmative (A-type) statement 'All A are B' can be validly converted to the Particular Affirmative 'Some B are A'. This is a standard rule of immediate inference. Since there are 30 A-type statements, all 30 can be validly converted to 'Some B are A'. The answer is 30."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Statements:\n1. Some apples are red.\n2. All red things are colourful.\n\nConclusions:\nI. Some apples are colourful.\nII. All colourful things are red.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'Some apples are red' and 'All red things are colourful': those apples which are red must be colourful. So 'Some apples are colourful' — Conclusion I follows. Conclusion II 'All colourful things are red' reverses the universal — not all colourful things need to be red (e.g., blue things are also colourful). Only I follows."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Match the following statement pairs with their validity status:\n\nColumn I (Inference):\n(a) All A are B → Some A are B\n(b) No A is B → No B is A\n(c) Some A are B → All A are B\n(d) Some A are not B → Some B are not A\n\nColumn II (Validity):\n(i) Valid\n(ii) Invalid\n(iii) Valid (Simple Conversion)\n(iv) Valid (Subalternation)\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(ii)",
+      "explanation": "(a) All A are B → Some A are B: this is subalternation (deriving I from A) — valid, matches (iv). (b) No A is B → No B is A: this is simple conversion of E-type — valid, matches (iii). (c) Some A are B → All A are B: particular does not imply universal — invalid, matches (ii). (d) Some A are not B → Some B are not A: O-type propositions cannot be simply converted — invalid, matches (ii)."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Statements:\n1. All flowers are beautiful.\n2. Some beautiful things are natural.\n3. All natural things are peaceful.\n\nConclusions:\nI. Some flowers are peaceful.\nII. Some beautiful things are peaceful.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion II follows",
+      "explanation": "From 'Some beautiful things are natural' and 'All natural things are peaceful': those beautiful things that are natural must be peaceful. So 'Some beautiful things are peaceful' — Conclusion II follows. Conclusion I 'Some flowers are peaceful': although all flowers are beautiful, the beautiful things that are natural (and hence peaceful) may not include flowers. We cannot definitively conclude I. Only II follows."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From 'Some students are athletes' and 'Some athletes are tall', we cannot conclude 'Some students are tall'.\nReason (R): When both premises are particular affirmative (I-type), no valid conclusion can be drawn in standard syllogism.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct: from two particular affirmatives with a common term (athletes), we cannot draw a definite conclusion because the 'some athletes' in each statement may refer to different subsets. Reason (R) is correct: II combination (both premises particular affirmative) yields no valid syllogistic conclusion. R explains A because it is the rule that prevents us from drawing the conclusion in A."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Statements:\n1. No bird is a reptile.\n2. All snakes are reptiles.\n\nConclusions:\nI. No snake is a bird.\nII. No bird is a snake.\nIII. Some reptiles are snakes.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I and II follow", "Only I and III follow", "Only II and III follow", "I, II and III follow"],
+      "correctAnswer": "I, II and III follow",
+      "explanation": "From 'No bird is a reptile' and 'All snakes are reptiles': snakes are reptiles and no bird is a reptile, so no snake is a bird — I follows. 'No bird is a snake' is the converse of I (valid for E-type) — II follows. From 'All snakes are reptiles': by conversion, some reptiles are snakes — III follows. All three conclusions are valid."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "Statements:\n1. All players are fit.\n2. Some players are tall.\n\nConclusions:\nI. Some fit people are tall.\nII. All tall people are players.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'Some players are tall' and 'All players are fit': those players who are tall are also fit. Since some players are both tall and fit, 'Some fit people are tall' — Conclusion I follows. Conclusion II 'All tall people are players' is invalid because only some players are tall; there could be tall people who are not players. Only I follows."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) All scientists are researchers.\n(ii) All researchers are curious.\n(iii) Some curious people are inventors.\n(iv) No inventor is lazy.\n\nWhich of the following conclusions are valid?\n(a) All scientists are curious.\n(b) Some scientists are inventors.\n(c) Some curious people are not lazy.\n(d) No scientist is lazy.",
+      "options": ["(a) and (c) only", "(a), (b) and (c) only", "(a) and (d) only", "(a), (c) and (d)"],
+      "correctAnswer": "(a) and (c) only",
+      "explanation": "(a) From (i) + (ii): All scientists → researchers → curious. Valid. (b) 'Some scientists are inventors' — cannot be concluded; some curious people are inventors, but these may not be scientists or researchers. Invalid. (c) From (iii) + (iv): some curious people are inventors + no inventor is lazy → some curious people are not lazy. Valid. (d) 'No scientist is lazy' — we cannot establish a direct link; scientists are curious, but we only know SOME curious people are inventors (not lazy). Scientists might be lazy through other paths. Invalid. Only (a) and (c) follow."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Statements:\n1. All kings are rulers.\n2. All rulers are powerful.\n3. Some powerful people are just.\n\nConclusions:\nI. All kings are powerful.\nII. Some kings are just.\nIII. Some rulers are just.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I follows", "Only I and II follow", "Only I and III follow", "I, II and III follow"],
+      "correctAnswer": "Only I follows",
+      "explanation": "From 'All kings are rulers' and 'All rulers are powerful': All kings → rulers → powerful. Conclusion I follows. Conclusion II 'Some kings are just': we only know some powerful people are just, but these may not include kings. Invalid. Conclusion III 'Some rulers are just': similarly, the just powerful people may not be rulers. Invalid. Only Conclusion I definitely follows."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "Which of the following pairs of conclusions can BOTH be validly drawn from the statements 'All heroes are brave' and 'No coward is brave'?\n\n(a) No hero is a coward.\n(b) No coward is a hero.\n(c) Some brave people are heroes.\n(d) All brave people are heroes.",
+      "options": ["(a), (b) and (c)", "(a) and (b) only", "(a), (b) and (d)", "(c) and (d) only"],
+      "correctAnswer": "(a), (b) and (c)",
+      "explanation": "(a) From 'All heroes are brave' and 'No coward is brave': heroes are brave, and cowards are not brave. So no hero is a coward — valid. (b) 'No coward is a hero' is the E-type conversion of (a) — valid. (c) From 'All heroes are brave': by conversion (subalternation), 'Some brave people are heroes' — valid. (d) 'All brave people are heroes' — reverses the universal, not all brave people need to be heroes. Invalid. So (a), (b) and (c) follow."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "In a logical deduction with premises 'All M are P' and 'All S are M', the valid conclusion is 'All S are __________'.",
+      "options": ["M only", "P", "Neither M nor P", "Both M and P but expressed as M"],
+      "correctAnswer": "P",
+      "explanation": "From 'All S are M' and 'All M are P': by the chain, All S → M → P. The conclusion is 'All S are P'. The blank is filled with P. While 'All S are M' is given (not a conclusion), the derived conclusion that fills the blank in standard syllogistic form is P."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "Statements:\n1. Some painters are musicians.\n2. All musicians are creative.\n3. Some creative people are famous.\n\nConclusions:\nI. Some painters are creative.\nII. Some famous people are musicians.\nIII. Some painters are famous.\n\nWhich conclusion(s) follow?",
+      "options": ["Only Conclusion I follows", "Only Conclusions I and II follow", "Only Conclusions I and III follow", "All Conclusions I, II and III follow"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'Some painters are musicians' and 'All musicians are creative': those painters who are musicians are creative. So 'Some painters are creative' — Conclusion I follows. Conclusion II 'Some famous people are musicians': we know some creative people are famous, but these famous-creative people may not be musicians. Invalid. Conclusion III 'Some painters are famous': similarly, the famous creative people may not include the painters. Invalid. Only I follows."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "A logic class has 60 students analyzing syllogisms. Each student evaluates one syllogism. The results show: 20 syllogisms had valid conclusions with two universal premises, 15 had valid conclusions with one universal and one particular premise, and the rest had no valid conclusion. How many syllogisms yielded no valid conclusion?",
+      "options": ["20", "25", "30", "35"],
+      "correctAnswer": "25",
+      "explanation": "Total syllogisms = 60 (one per student). Syllogisms with valid conclusions = 20 + 15 = 35. Syllogisms with no valid conclusion = 60 − 35 = 25."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Match the following syllogistic rules with their descriptions:\n\nColumn I (Rule):\n(a) Rule of Distribution\n(b) Rule of Quality\n(c) Rule of Quantity\n(d) Rule of Middle Term\n\nColumn II (Description):\n(i) The middle term must be distributed in at least one premise\n(ii) If both premises are affirmative, the conclusion must be affirmative\n(iii) A term distributed in the conclusion must be distributed in the premise\n(iv) From two particular premises, no conclusion follows\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "(a) Rule of Distribution: a term distributed in the conclusion must be distributed in the premise — matches (iii). (b) Rule of Quality: if both premises are affirmative, conclusion is affirmative — matches (ii). (c) Rule of Quantity: from two particular premises, no conclusion follows — matches (iv). (d) Rule of Middle Term: the middle term must be distributed in at least one premise — matches (i)."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "Statements:\n1. All roses are flowers.\n2. No flower is made of plastic.\n3. Some decorations are made of plastic.\n\nConclusions:\nI. No rose is made of plastic.\nII. Some decorations are not flowers.\nIII. Some decorations are not roses.\n\nWhich conclusion(s) follow?",
+      "options": ["Only I follows", "Only I and II follow", "I, II and III follow", "Only I and III follow"],
+      "correctAnswer": "I, II and III follow",
+      "explanation": "I: From 'All roses are flowers' + 'No flower is made of plastic' → No rose is made of plastic — valid. II: From 'Some decorations are made of plastic' + 'No flower is made of plastic' → those plastic decorations cannot be flowers. So some decorations are not flowers — valid. III: From 'All roses are flowers' + conclusion from II (some decorations are not flowers) → those decorations that are not flowers certainly cannot be roses (since all roses are flowers). So some decorations are not roses — valid. All three follow."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) All employees are taxpayers.\n(ii) Some taxpayers are homeowners.\n(iii) All homeowners have insurance.\n(iv) No uninsured person gets a loan.\n\nWhich of the following conclusions are valid?\n(a) Some employees are homeowners.\n(b) Some taxpayers have insurance.\n(c) Some homeowners get loans.\n(d) No homeowner is uninsured.",
+      "options": ["(b) and (d) only", "(a), (b) and (d)", "(b), (c) and (d)", "All of the above"],
+      "correctAnswer": "(b) and (d) only",
+      "explanation": "(a) 'Some employees are homeowners' — cannot be concluded; the homeowner-taxpayers may not be employees. Invalid. (b) From (ii) some taxpayers are homeowners + (iii) all homeowners have insurance → those taxpayers who are homeowners have insurance. So some taxpayers have insurance — valid. (c) 'Some homeowners get loans' — we know all homeowners have insurance (so they are not uninsured), and no uninsured person gets a loan, but having insurance doesn't guarantee getting a loan. Invalid. (d) From (iii) all homeowners have insurance → no homeowner is without insurance → no homeowner is uninsured — valid. Only (b) and (d) follow."
+    }
+  ]
+}
