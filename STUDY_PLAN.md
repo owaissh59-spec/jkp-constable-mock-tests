@@ -133,17 +133,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 43 | Morning | D — Numerical and Reasoning Ability | Simple & Compound Interest | 30 | foundation | Topic-wise | ⬜ |
-| 44 | Afternoon | B — General Knowledge & Current Affairs (India) | Everyday Science | 40 | foundation | Topic-wise | ⬜ |
-| 45 | Late | C — General Knowledge — J&K | History of J&K — Historical Places & Importance | 50 | foundation | Topic-wise | ⬜ |
+| 43 | Morning | D — Numerical and Reasoning Ability | Simple & Compound Interest | 30 | foundation | Topic-wise | ✅ |
+| 44 | Afternoon | B — General Knowledge & Current Affairs (India) | Everyday Science | 40 | foundation | Topic-wise | ✅ |
+| 45 | Late | C — General Knowledge — J&K | History of J&K — Historical Places & Importance | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 16
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 46 | Morning | A — General English | Comprehension Passage | 30 | foundation | Topic-wise | ⬜ |
-| 47 | Afternoon | E — Basic Concepts of Computers | E-mail & Internet Usage | 40 | foundation | Topic-wise | ⬜ |
-| 48 | Late | D — Numerical and Reasoning Ability | Statements & Conclusions | 50 | foundation | Topic-wise | ⬜ |
+| 46 | Morning | A — General English | Comprehension Passage | 30 | foundation | Topic-wise | ✅ |
+| 47 | Afternoon | E — Basic Concepts of Computers | E-mail & Internet Usage | 40 | foundation | Topic-wise | ✅ |
+| 48 | Late | D — Numerical and Reasoning Ability | Statements & Conclusions | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 17
 
