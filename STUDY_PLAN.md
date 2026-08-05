@@ -117,17 +117,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 37 | Morning | B — General Knowledge & Current Affairs (India) | SAARC, ASEAN & International Organizations | 30 | foundation | Topic-wise | ⬜ |
-| 38 | Afternoon | D — Numerical and Reasoning Ability | Speed, Distance & Time | 40 | foundation | Topic-wise | ⬜ |
-| 39 | Late | C — General Knowledge — J&K | Important Tourist Destinations of J&K | 50 | foundation | Topic-wise | ⬜ |
+| 37 | Morning | B — General Knowledge & Current Affairs (India) | SAARC, ASEAN & International Organizations | 30 | foundation | Topic-wise | ✅ |
+| 38 | Afternoon | D — Numerical and Reasoning Ability | Speed, Distance & Time | 40 | foundation | Topic-wise | ✅ |
+| 39 | Late | C — General Knowledge — J&K | Important Tourist Destinations of J&K | 50 | foundation | Topic-wise | ✅ |
 
 ### Day 14
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 40 | Morning | E — Basic Concepts of Computers | Safety & Security (Cyber Security Basics) | 30 | foundation | Topic-wise | ⬜ |
-| 41 | Afternoon | A — General English | Clauses (Noun, Adjective, Adverb) | 40 | foundation | Topic-wise | ⬜ |
-| 42 | Late | FULL | Cumulative Revision — Week 2 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ⬜ |
+| 40 | Morning | E — Basic Concepts of Computers | Safety & Security (Cyber Security Basics) | 30 | foundation | Topic-wise | ✅ |
+| 41 | Afternoon | A — General English | Clauses (Noun, Adjective, Adverb) | 40 | foundation | Topic-wise | ✅ |
+| 42 | Late | FULL | Cumulative Revision — Week 2 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ✅ |
 
 ### Day 15
 

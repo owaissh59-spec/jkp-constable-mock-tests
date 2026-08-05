@@ -1,0 +1,247 @@
+{
+  "subject": "E",
+  "topic": "Safety & Security (Cyber Security Basics)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "A computer virus is a type of malicious software that:",
+      "options": ["Improves the performance of a computer", "Replicates itself by attaching to other programs and can damage data", "Protects the computer from external threats", "Increases the speed of internet browsing"],
+      "correctAnswer": "Replicates itself by attaching to other programs and can damage data",
+      "explanation": "A computer virus is malware that replicates by inserting its code into other programs, spreading and potentially damaging data. 'Improves performance' is wrong — viruses degrade performance; 'protects from threats' is wrong — that is an antivirus function; 'increases browsing speed' is wrong — viruses typically slow down systems."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer viruses:\n\n(i) A virus needs a host program to attach itself and spread.\n(ii) A worm can replicate and spread on its own without a host program.\n(iii) A Trojan horse disguises itself as legitimate software.\n(iv) All viruses are harmless and only slow down computers.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Viruses need host programs (i-correct), worms are self-replicating without hosts (ii-correct), and Trojans masquerade as legitimate software (iii-correct). Statement (iv) is wrong because many viruses are highly destructive — they can delete files, corrupt data, steal information, or make systems unusable."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "A firewall in computer security is used to:",
+      "options": ["Remove viruses from infected files", "Monitor and control incoming and outgoing network traffic based on security rules", "Speed up internet connections", "Defragment the hard disk"],
+      "correctAnswer": "Monitor and control incoming and outgoing network traffic based on security rules",
+      "explanation": "A firewall acts as a barrier between a trusted network and untrusted networks, filtering traffic based on predefined rules. 'Remove viruses' is wrong — that is an antivirus function; 'speed up internet' is wrong — firewalls may slightly slow traffic due to filtering; 'defragment hard disk' is wrong — that is a disk utility function."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): It is important to regularly update antivirus software.\nReason (R): New viruses and malware are created frequently, and updates contain the latest virus definitions to detect them.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Regular antivirus updates are essential (A is correct). New malware is constantly created and updates provide virus definitions to detect them (R is correct and directly explains why updates are necessary). Option 2 is wrong because R specifically explains A; Option 3 is wrong because R is factually correct; Option 4 is wrong because A is also correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of a strong password?\n\n(i) Contains at least 8 characters\n(ii) Uses a combination of uppercase, lowercase, numbers, and special characters\n(iii) Uses the person's name or date of birth\n(iv) Is not a common dictionary word\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Strong passwords should have at least 8 characters (i-correct), mix character types (ii-correct), and avoid dictionary words (iv-correct). Statement (iii) is wrong because using personal information like name or date of birth makes passwords easily guessable and weak."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Phishing is a type of cyber attack where:",
+      "options": ["A hacker physically breaks into a server room", "Fraudulent emails or websites trick users into revealing personal information", "A virus destroys the computer hardware", "The computer overheats due to excessive processing"],
+      "correctAnswer": "Fraudulent emails or websites trick users into revealing personal information",
+      "explanation": "Phishing uses deceptive emails/websites to steal sensitive data like passwords, credit card numbers, etc. 'Physical break-in' is wrong — that is physical security breach; 'virus destroys hardware' is wrong — viruses typically affect software/data; 'computer overheats' is wrong — that is a hardware issue unrelated to cyber attacks."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Match the following types of malware with their descriptions:\n\nColumn I:\n(a) Virus\n(b) Worm\n(c) Trojan Horse\n(d) Spyware\n\nColumn II:\n(i) Secretly monitors user activity and collects personal data\n(ii) Self-replicating malware that spreads across networks without host programs\n(iii) Appears as useful software but performs malicious actions in the background\n(iv) Attaches to legitimate programs and spreads when the host program is executed\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "A virus attaches to host programs (a-iv); a worm self-replicates across networks (b-ii); a Trojan disguises as useful software (c-iii); spyware secretly monitors users (d-i). Option 2 swaps virus and worm; Option 3 swaps worm and Trojan; Option 4 swaps Trojan and spyware."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "The term 'malware' is a combination of which two words?",
+      "options": ["Male + Software", "Malicious + Software", "Malfunction + Hardware", "Malicious + Hardware"],
+      "correctAnswer": "Malicious + Software",
+      "explanation": "Malware is short for 'malicious software' — any software designed to harm or exploit computers. 'Male + Software' is wrong — it has no relevance; 'Malfunction + Hardware' is wrong — malware is software-based; 'Malicious + Hardware' is wrong — malware refers specifically to software."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Consider the following statements about ransomware:\n\n(i) It encrypts the victim's files and demands payment for decryption.\n(ii) It is a type of malware.\n(iii) It typically spreads through phishing emails or malicious downloads.\n(iv) It can be safely removed by simply restarting the computer.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Ransomware encrypts files and demands ransom (i-correct), is a type of malware (ii-correct), and spreads via phishing/malicious downloads (iii-correct). Statement (iv) is wrong because restarting does not remove ransomware — the encryption persists and professional help or backup restoration is needed."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "An antivirus software protects the computer by:",
+      "options": ["Increasing RAM capacity", "Detecting, preventing, and removing malicious software", "Speeding up the processor", "Converting files from one format to another"],
+      "correctAnswer": "Detecting, preventing, and removing malicious software",
+      "explanation": "Antivirus software scans for, prevents, and removes malware from computers. 'Increasing RAM' is wrong — antivirus doesn't affect memory capacity; 'speeding up processor' is wrong — it actually uses some processing resources; 'converting files' is wrong — that is a file converter function."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Users should not open email attachments from unknown senders.\nReason (R): Email attachments from unknown sources may contain viruses, malware, or phishing links that can harm the computer or steal personal information.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Not opening unknown attachments is a basic security practice (A is correct). The reason — that such attachments may carry malware — directly explains why this precaution is necessary (R is correct and explains A). Option 2 is wrong because R directly explains A; Option 3 is wrong because R is factually correct; Option 4 is wrong because A is also correct."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Which of the following are safe practices for online banking?\n\n(i) Always log out after completing a transaction\n(ii) Use public Wi-Fi networks for banking transactions\n(iii) Regularly change your banking password\n(iv) Never share OTP (One Time Password) with anyone\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Logging out after transactions (i-correct), changing passwords regularly (iii-correct), and never sharing OTPs (iv-correct) are safe banking practices. Statement (ii) is wrong because public Wi-Fi is unsecured and susceptible to man-in-the-middle attacks — banking should be done on secure, private networks."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The full form of 'HTTPS' in web browsing is:",
+      "options": ["HyperText Transfer Protocol System", "HyperText Transfer Protocol Secure", "High Transfer Protocol Security", "HyperText Transmission Protocol Secure"],
+      "correctAnswer": "HyperText Transfer Protocol Secure",
+      "explanation": "HTTPS stands for HyperText Transfer Protocol Secure — it encrypts data between browser and server. 'Protocol System' is wrong — it ends with 'Secure' not 'System'; 'High Transfer Protocol Security' is wrong — it starts with 'HyperText'; 'Transmission Protocol' is wrong — the correct word is 'Transfer'."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Consider the following statements about data backup:\n\n(i) A backup is a copy of important files stored in a separate location.\n(ii) Regular backups help protect against data loss from malware attacks.\n(iii) Backups should be stored only on the same computer as the original data.\n(iv) Cloud storage services like Google Drive can be used for backups.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Backups are copies stored separately (i-correct), protect against malware data loss (ii-correct), and cloud services can serve as backup locations (iv-correct). Statement (iii) is wrong because storing backups on the same computer defeats the purpose — if the computer is compromised or damaged, both copies are lost."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "A 'spam' email is:",
+      "options": ["An email from your employer", "An unsolicited bulk email, often advertising or scam-related", "A reply to your previous message", "An encrypted secure email"],
+      "correctAnswer": "An unsolicited bulk email, often advertising or scam-related",
+      "explanation": "Spam refers to unwanted, unsolicited bulk emails typically containing advertisements or scams. 'Email from employer' is wrong — that is legitimate communication; 'reply to previous message' is wrong — that is normal correspondence; 'encrypted secure email' is wrong — that describes secure communication."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Match the following security threats with their methods of attack:\n\nColumn I:\n(a) Phishing\n(b) Hacking\n(c) Denial of Service (DoS)\n(d) Identity theft\n\nColumn II:\n(i) Unauthorized access to computer systems by exploiting vulnerabilities\n(ii) Flooding a server with excessive traffic to make it unavailable\n(iii) Stealing someone's personal information to impersonate them\n(iv) Sending fake emails/websites to trick users into sharing credentials\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "Phishing uses fake emails/websites (a-iv); hacking exploits system vulnerabilities (b-i); DoS floods servers with traffic (c-ii); identity theft steals personal info for impersonation (d-iii). Option 2 swaps phishing and hacking; Option 3 swaps hacking and DoS; Option 4 swaps DoS and identity theft."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "The purpose of a CAPTCHA on websites is to:",
+      "options": ["Speed up website loading", "Verify that the user is a human and not an automated bot", "Encrypt the user's data", "Compress images on the website"],
+      "correctAnswer": "Verify that the user is a human and not an automated bot",
+      "explanation": "CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) confirms human users. 'Speed up loading' is wrong — CAPTCHAs add an extra step; 'encrypt data' is wrong — that is done by SSL/TLS; 'compress images' is wrong — that is image optimization software."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Public Wi-Fi networks in cafes and airports are considered unsafe for sensitive transactions.\nReason (R): Data transmitted over public Wi-Fi can be intercepted by hackers using packet-sniffing tools.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Public Wi-Fi is unsafe for sensitive data (A is correct). Hackers can intercept unencrypted data on public networks using sniffing tools (R is correct and explains why public Wi-Fi is unsafe). Option 2 is wrong because R directly explains A; Option 3 is wrong because R is technically accurate; Option 4 is wrong because A is also correct."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Consider the following statements about cookies in web browsers:\n\n(i) Cookies are small text files stored on the user's computer by websites.\n(ii) Cookies can store login information and user preferences.\n(iii) All cookies are malicious and should always be deleted.\n(iv) Third-party cookies can be used to track browsing activity across websites.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Cookies are small text files (i-correct), store login/preference data (ii-correct), and third-party cookies track browsing across sites (iv-correct). Statement (iii) is wrong because not all cookies are malicious — many are essential for website functionality like remembering login sessions."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Two-factor authentication (2FA) provides extra security by requiring:",
+      "options": ["Two different passwords", "Something the user knows (password) AND something the user has (phone/token)", "Two different email addresses", "Two antivirus programs running simultaneously"],
+      "correctAnswer": "Something the user knows (password) AND something the user has (phone/token)",
+      "explanation": "2FA requires two different types of verification — typically a password (knowledge) plus a device-generated code (possession). 'Two passwords' is wrong — 2FA uses different factor types, not just two of the same type; 'two email addresses' is wrong — that is not authentication; 'two antivirus programs' is wrong — that is unrelated to authentication."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Fill in the blank: A __________ is a type of malware that records every keystroke made by the user, potentially capturing passwords and sensitive information.",
+      "options": ["Keylogger", "Firewall", "Cookie", "Router"],
+      "correctAnswer": "Keylogger",
+      "explanation": "A keylogger records all keystrokes to capture sensitive data like passwords. A firewall is wrong — it filters network traffic; a cookie is wrong — it stores website data; a router is wrong — it directs network traffic."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Which of the following actions can help prevent cyber attacks?\n\n(i) Keeping the operating system and software updated\n(ii) Using the same password for all accounts\n(iii) Installing antivirus software and keeping it updated\n(iv) Being cautious about clicking links in unknown emails\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Keeping software updated (i-correct), using updated antivirus (iii-correct), and being cautious with email links (iv-correct) prevent cyber attacks. Statement (ii) is wrong because using the same password for all accounts is a major security risk — if one account is compromised, all others become vulnerable."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "A Denial of Service (DoS) attack aims to:",
+      "options": ["Steal personal data from a computer", "Make a website or service unavailable by flooding it with excessive requests", "Install spyware on the victim's computer", "Decrypt encrypted communications"],
+      "correctAnswer": "Make a website or service unavailable by flooding it with excessive requests",
+      "explanation": "DoS attacks overwhelm servers with traffic to make services unavailable to legitimate users. 'Steal personal data' is wrong — that is data theft/phishing; 'install spyware' is wrong — that is spyware distribution; 'decrypt communications' is wrong — that is cryptanalysis."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Consider the following statements about software updates/patches:\n\n(i) Software patches fix known security vulnerabilities.\n(ii) Operating system updates can include security improvements.\n(iii) Software updates should be avoided as they always slow down the computer.\n(iv) Automatic updates help ensure the system stays protected without manual intervention.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Patches fix vulnerabilities (i-correct), OS updates include security improvements (ii-correct), and automatic updates maintain protection (iv-correct). Statement (iii) is wrong because while some updates may slightly affect performance, they are essential for security and the benefits far outweigh any minor speed impact."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Match the following security measures with their purposes:\n\nColumn I:\n(a) Antivirus\n(b) Firewall\n(c) Encryption\n(d) Backup\n\nColumn II:\n(i) Converting data into unreadable code to protect it during transmission\n(ii) Creating copies of data to restore in case of loss\n(iii) Detecting and removing malicious software\n(iv) Monitoring and controlling network traffic\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Antivirus detects/removes malware (a-iii); firewall monitors network traffic (b-iv); encryption converts data to unreadable form (c-i); backup creates data copies (d-ii). Option 2 swaps antivirus and firewall; Option 3 swaps encryption and backup; Option 4 swaps firewall and encryption."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "The 'lock' icon or 'https://' in a web browser's address bar indicates that:",
+      "options": ["The website has no advertisements", "The connection between browser and website is encrypted and secure", "The website is owned by the government", "The website loads faster than normal"],
+      "correctAnswer": "The connection between browser and website is encrypted and secure",
+      "explanation": "The lock/HTTPS indicates SSL/TLS encryption between the browser and server, protecting data in transit. 'No advertisements' is wrong — HTTPS doesn't block ads; 'government owned' is wrong — any website can use HTTPS; 'loads faster' is wrong — HTTPS has minimal impact on speed."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "A computer worm differs from a virus in that a worm:",
+      "options": ["Cannot spread to other computers", "Can replicate and spread on its own without needing a host program", "Is always less harmful than a virus", "Only affects hardware components"],
+      "correctAnswer": "Can replicate and spread on its own without needing a host program",
+      "explanation": "A worm is self-replicating and spreads independently across networks, unlike a virus which needs a host file. 'Cannot spread' is wrong — worms spread even faster than viruses; 'always less harmful' is wrong — worms like Stuxnet caused massive damage; 'only affects hardware' is wrong — worms primarily target software and networks."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Consider the following statements about social engineering attacks:\n\n(i) They manipulate people into revealing confidential information.\n(ii) They rely on human psychology rather than technical vulnerabilities.\n(iii) Phishing is a form of social engineering.\n(iv) Social engineering attacks can only happen face-to-face.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Social engineering manipulates people into revealing data (i-correct), exploits human psychology (ii-correct), and phishing is a common form (iii-correct). Statement (iv) is wrong because social engineering attacks commonly occur via email, phone calls, text messages, and online — not just face-to-face."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "The purpose of an OTP (One Time Password) is to:",
+      "options": ["Replace the need for a regular password permanently", "Provide a temporary, single-use code for additional authentication security", "Increase internet speed during login", "Store user preferences on a website"],
+      "correctAnswer": "Provide a temporary, single-use code for additional authentication security",
+      "explanation": "An OTP is a temporary code valid for one transaction/session, adding a security layer. 'Replace password permanently' is wrong — OTPs supplement, not replace regular passwords; 'increase internet speed' is wrong — OTPs have no effect on speed; 'store preferences' is wrong — that is the function of cookies."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Which of the following are types of cyber crimes?\n\n(i) Unauthorized access to computer systems (hacking)\n(ii) Spreading viruses deliberately\n(iii) Online financial fraud\n(iv) Sending personal emails to friends\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Hacking (i-correct), deliberate virus spreading (ii-correct), and online financial fraud (iii-correct) are all cyber crimes. Statement (iv) is wrong because sending personal emails to friends is a normal, legal activity and not a cyber crime."
+    }
+  ]
+}

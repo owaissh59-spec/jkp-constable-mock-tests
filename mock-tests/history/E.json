@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Basic Concepts of Computers",
-  "count": 268,
+  "count": 306,
   "questions": [
     {
       "test": 5,
@@ -1342,6 +1342,196 @@
       "test": 35,
       "stem": "which of the following correctly describes 'defragmentation' of a hard disk?",
       "key": "Rearranging fragmented data on the disk so related data is stored contiguousl..."
+    },
+    {
+      "test": 40,
+      "stem": "a computer virus is a type of malicious software that:",
+      "key": "Replicates itself by attaching to other programs and can damage data"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about computer viruses: (i) a virus needs a",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 40,
+      "stem": "a firewall in computer security is used to:",
+      "key": "Monitor and control incoming and outgoing network traffic based on security r..."
+    },
+    {
+      "test": 40,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 40,
+      "stem": "which of the following are characteristics of a strong password? (i) contains",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 40,
+      "stem": "phishing is a type of cyber attack where:",
+      "key": "Fraudulent emails or websites trick users into revealing personal information"
+    },
+    {
+      "test": 40,
+      "stem": "match the following types of malware with their descriptions: column i: (a)",
+      "key": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 40,
+      "stem": "the term 'malware' is a combination of which two words?",
+      "key": "Malicious + Software"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about ransomware: (i) it encrypts the victim's files",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 40,
+      "stem": "an antivirus software protects the computer by:",
+      "key": "Detecting, preventing, and removing malicious software"
+    },
+    {
+      "test": 40,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 40,
+      "stem": "which of the following are safe practices for online banking? (i) always",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 40,
+      "stem": "the full form of 'https' in web browsing is:",
+      "key": "HyperText Transfer Protocol Secure"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about data backup: (i) a backup is a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 40,
+      "stem": "a 'spam' email is:",
+      "key": "An unsolicited bulk email, often advertising or scam-related"
+    },
+    {
+      "test": 40,
+      "stem": "match the following security threats with their methods of attack: column i:",
+      "key": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+    },
+    {
+      "test": 40,
+      "stem": "the purpose of a captcha on websites is to:",
+      "key": "Verify that the user is a human and not an automated bot"
+    },
+    {
+      "test": 40,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about cookies in web browsers: (i) cookies are",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 40,
+      "stem": "two-factor authentication (2fa) provides extra security by requiring:",
+      "key": "Something the user knows (password) AND something the user has (phone/token)"
+    },
+    {
+      "test": 40,
+      "stem": "fill in the blank: a __________ is a type of malware that",
+      "key": "Keylogger"
+    },
+    {
+      "test": 40,
+      "stem": "which of the following actions can help prevent cyber attacks? (i) keeping",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 40,
+      "stem": "a denial of service (dos) attack aims to:",
+      "key": "Make a website or service unavailable by flooding it with excessive requests"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about software updates/patches: (i) software patches fix known",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 40,
+      "stem": "match the following security measures with their purposes: column i: (a) antivirus",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 40,
+      "stem": "the 'lock' icon or 'https://' in a web browser's address bar indicates",
+      "key": "The connection between browser and website is encrypted and secure"
+    },
+    {
+      "test": 40,
+      "stem": "a computer worm differs from a virus in that a worm:",
+      "key": "Can replicate and spread on its own without needing a host program"
+    },
+    {
+      "test": 40,
+      "stem": "consider the following statements about social engineering attacks: (i) they manipulate people",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 40,
+      "stem": "the purpose of an otp (one time password) is to:",
+      "key": "Provide a temporary, single-use code for additional authentication security"
+    },
+    {
+      "test": 40,
+      "stem": "which of the following are types of cyber crimes? (i) unauthorized access",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 42,
+      "stem": "consider the following statements about phishing: (i) phishing involves sending fraudulent emails",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 42,
+      "stem": "the full form of 'https' is:",
+      "key": "HyperText Transfer Protocol Secure"
+    },
+    {
+      "test": 42,
+      "stem": "which of the following are types of malware? (i) virus (ii) worm",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 42,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 42,
+      "stem": "consider the following statements about data backup: (i) a backup creates a",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 42,
+      "stem": "match the following cyber security terms with their definitions: column i: (a)",
+      "key": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 42,
+      "stem": "a computer worm differs from a virus because a worm:",
+      "key": "Can replicate and spread independently without a host program"
+    },
+    {
+      "test": 42,
+      "stem": "the purpose of a captcha on websites is to:",
+      "key": "Verify that the user is a human and not an automated bot"
     }
   ]
 }
