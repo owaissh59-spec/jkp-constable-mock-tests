@@ -1,0 +1,527 @@
+{
+  "subject": "E",
+  "topic": "E-mail & Internet Usage",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "What does the abbreviation 'CC' stand for in an email?",
+      "options": [
+        "Carbon Copy",
+        "Computer Copy",
+        "Common Copy",
+        "Central Copy"
+      ],
+      "correctAnswer": "Carbon Copy",
+      "explanation": "CC stands for 'Carbon Copy' in email, which allows you to send a copy of the email to additional recipients whose addresses are visible to all recipients. 'Computer Copy' is not a standard email term. 'Common Copy' and 'Central Copy' are fabricated terms that do not exist in email terminology."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n(i) HTTP stands for Hyper Text Transfer Protocol.\n(ii) HTTPS uses SSL/TLS encryption for secure data transfer.\n(iii) FTP is used exclusively for sending emails.\n(iv) HTTP operates on port 80 by default.\n\nWhich of the above statements are correct?",
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iii) only",
+        "(ii) and (iii) only",
+        "(i), (ii) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statement (i) is correct: HTTP stands for Hyper Text Transfer Protocol. Statement (ii) is correct: HTTPS uses SSL/TLS encryption for secure communication. Statement (iv) is correct: HTTP uses port 80 by default. Statement (iii) is incorrect because FTP (File Transfer Protocol) is used for transferring files between computers, not for sending emails. Email uses SMTP, POP3, or IMAP protocols."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Which protocol is primarily used for sending outgoing emails from a client to a mail server?",
+      "options": [
+        "POP3",
+        "IMAP",
+        "SMTP",
+        "FTP"
+      ],
+      "correctAnswer": "SMTP",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol used for sending outgoing emails from a client to a mail server and between mail servers. POP3 (Post Office Protocol version 3) is used for retrieving emails from a server. IMAP (Internet Message Access Protocol) is also used for retrieving and managing emails on a server. FTP (File Transfer Protocol) is used for transferring files, not emails."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): BCC recipients in an email cannot see the addresses of other BCC recipients.\nReason (R): BCC stands for Blind Carbon Copy, where recipient addresses are hidden from other recipients.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true. The Assertion is correct because BCC (Blind Carbon Copy) recipients cannot see the addresses of other BCC recipients. The Reason correctly explains this: BCC hides the recipient addresses from all other recipients (both To, CC, and other BCC recipients). The Reason directly explains why the Assertion is true, making it the correct explanation."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "What is the maximum file size typically allowed for email attachments in most free email services like Gmail?",
+      "options": [
+        "5 MB",
+        "10 MB",
+        "25 MB",
+        "100 MB"
+      ],
+      "correctAnswer": "25 MB",
+      "explanation": "Most free email services like Gmail allow attachments up to 25 MB per email. 5 MB and 10 MB are too small and are not the standard limit for modern email services. 100 MB exceeds the typical attachment limit for most email providers. For larger files, cloud storage links (like Google Drive) are recommended."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Match the items in Column I with their descriptions in Column II.\n\nColumn I:\n(a) Cookie\n(b) Cache\n(c) Bookmark\n(d) Firewall\n\nColumn II:\n(i) Saves a link to a webpage for quick access later\n(ii) Small data file stored on user's computer by a website\n(iii) Temporary storage of web pages for faster loading\n(iv) Security system that monitors incoming and outgoing network traffic",
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Cookie (a) matches (ii): A cookie is a small data file stored on a user's computer by a website to track sessions and preferences. Cache (b) matches (iii): Cache is temporary storage of web pages and resources for faster loading on subsequent visits. Bookmark (c) matches (i): A bookmark saves a link to a webpage for quick access later. Firewall (d) matches (iv): A firewall is a security system that monitors and controls incoming and outgoing network traffic based on security rules."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a web browser?",
+      "options": [
+        "Mozilla Firefox",
+        "Google Chrome",
+        "Microsoft Outlook",
+        "Apple Safari"
+      ],
+      "correctAnswer": "Microsoft Outlook",
+      "explanation": "Microsoft Outlook is an email client application used for managing emails, calendars, and contacts, not a web browser. Mozilla Firefox is a popular open-source web browser. Google Chrome is a web browser developed by Google. Apple Safari is the default web browser on Apple devices. All three are used to browse the internet, while Outlook is specifically for email management."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Which of the following are advantages of using IMAP over POP3 for email access?\n\n1. Emails remain on the server and can be accessed from multiple devices\n2. Folder structure is synchronized across all devices\n3. Emails are downloaded and deleted from the server immediately\n4. Partial downloading of emails is supported",
+      "options": [
+        "1, 2, 3 and 4",
+        "1 and 3 only",
+        "2 and 3 only",
+        "1, 2 and 4 only"
+      ],
+      "correctAnswer": "1, 2 and 4 only",
+      "explanation": "IMAP (Internet Message Access Protocol) keeps emails on the server allowing access from multiple devices (1), synchronizes folder structure across devices (2), and supports partial downloading of messages (4). Statement 3 is incorrect because downloading and deleting emails from the server immediately is a characteristic of POP3, not IMAP. IMAP is specifically designed to keep emails on the server for multi-device access."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "What does ISP stand for in the context of internet connectivity?",
+      "options": [
+        "Internet Service Provider",
+        "Internal System Protocol",
+        "Internet Security Program",
+        "Integrated Service Platform"
+      ],
+      "correctAnswer": "Internet Service Provider",
+      "explanation": "ISP stands for Internet Service Provider, which is a company that provides internet access to customers (e.g., Airtel, BSNL, Jio). 'Internal System Protocol' is not a standard networking term. 'Internet Security Program' is fabricated and not what ISP represents. 'Integrated Service Platform' is also not the correct expansion of ISP in networking context."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "The __________ is a unique address that identifies a specific webpage or resource on the internet.",
+      "options": [
+        "URL",
+        "ISP",
+        "DNS",
+        "FTP"
+      ],
+      "correctAnswer": "URL",
+      "explanation": "A URL (Uniform Resource Locator) is the unique address that identifies a specific webpage or resource on the internet, such as https://www.example.com/page. ISP (Internet Service Provider) is a company that provides internet access. DNS (Domain Name System) translates domain names to IP addresses but is not itself the address. FTP (File Transfer Protocol) is a protocol for file transfer, not a web address."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "In an email address 'user@example.com', what does the '@' symbol signify?",
+      "options": [
+        "It identifies the email as commercial",
+        "It indicates the email is encrypted",
+        "It represents the internet protocol being used",
+        "It separates the username from the domain name"
+      ],
+      "correctAnswer": "It separates the username from the domain name",
+      "explanation": "In an email address, the '@' (at) symbol separates the username (local part) from the domain name. In 'user@example.com', 'user' is the username and 'example.com' is the domain. The '@' symbol does not indicate encryption, represent any protocol, or identify the email type. It simply serves as a delimiter between the two parts of an email address."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n(i) A domain name ending in '.gov' indicates a government website.\n(ii) A domain name ending in '.edu' indicates an educational institution.\n(iii) A domain name ending in '.com' can only be used by commercial organizations.\n(iv) A domain name ending in '.org' is typically used by non-profit organizations.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statement (i) is correct: '.gov' is reserved for government entities. Statement (ii) is correct: '.edu' is used by educational institutions. Statement (iv) is correct: '.org' is typically used by non-profit organizations. Statement (iii) is incorrect because '.com' (commercial) is available to anyone and is not restricted to commercial organizations only. Any individual or entity can register a .com domain."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Which of the following actions is considered good email etiquette?",
+      "options": [
+        "Using ALL CAPS for the entire message to emphasize importance",
+        "Writing a clear and specific subject line",
+        "Forwarding chain emails to all contacts",
+        "Attaching very large files without prior notice"
+      ],
+      "correctAnswer": "Writing a clear and specific subject line",
+      "explanation": "Writing a clear and specific subject line is considered good email etiquette as it helps recipients understand the purpose of the email. Using ALL CAPS is considered shouting in digital communication and is rude. Forwarding chain emails is generally considered spam behavior and is poor etiquette. Attaching very large files without prior notice can overwhelm recipients' mailboxes and should be avoided; a prior notification or cloud link is preferred."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): HTTPS is more secure than HTTP for transmitting sensitive data over the internet.\nReason (R): HTTPS encrypts data using SSL/TLS protocols, preventing interception by third parties.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true. HTTPS (HyperText Transfer Protocol Secure) is indeed more secure than HTTP because it encrypts the communication between client and server. The Reason correctly explains this security advantage: HTTPS uses SSL (Secure Sockets Layer) or TLS (Transport Layer Security) protocols to encrypt data, making it unreadable to anyone who might intercept it during transmission. The Reason directly explains why HTTPS is more secure."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "What is the primary purpose of DNS (Domain Name System) on the internet?",
+      "options": [
+        "To encrypt all internet communications",
+        "To translate domain names into IP addresses",
+        "To store email messages on a server",
+        "To block unauthorized access to networks"
+      ],
+      "correctAnswer": "To translate domain names into IP addresses",
+      "explanation": "The primary purpose of DNS (Domain Name System) is to translate human-readable domain names (like www.google.com) into machine-readable IP addresses (like 142.250.190.78). It does not encrypt communications; that is the role of SSL/TLS. It does not store email messages; that is the role of mail servers. It does not block unauthorized access; that is the role of firewalls. DNS acts like a phonebook for the internet."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Match the items in Column I with their corresponding protocols/ports in Column II.\n\nColumn I:\n(a) SMTP\n(b) HTTP\n(c) FTP\n(d) POP3\n\nColumn II:\n(i) Port 80\n(ii) Port 25\n(iii) Port 110\n(iv) Port 21",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "SMTP (a) uses Port 25 (ii) for sending emails. HTTP (b) uses Port 80 (i) for web browsing. FTP (c) uses Port 21 (iv) for file transfer control connection. POP3 (d) uses Port 110 (iii) for retrieving emails. These are the standard default port numbers assigned by IANA for these protocols."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Which of the following is an example of a search engine?",
+      "options": [
+        "Gmail",
+        "Google",
+        "WhatsApp",
+        "Windows"
+      ],
+      "correctAnswer": "Google",
+      "explanation": "Google is a search engine that allows users to search for information on the internet. Gmail is an email service provided by Google, not a search engine. WhatsApp is a messaging application, not a search engine. Windows is an operating system developed by Microsoft, not a search engine. Other examples of search engines include Bing, Yahoo, and DuckDuckGo."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of spam emails?\n\n1. They are unsolicited bulk messages\n2. They often contain phishing links or malware\n3. They are always sent by known contacts\n4. They may advertise fraudulent products or services",
+      "options": [
+        "All of the above",
+        "1 and 3 only",
+        "2, 3 and 4 only",
+        "1, 2 and 4 only"
+      ],
+      "correctAnswer": "1, 2 and 4 only",
+      "explanation": "Spam emails are unsolicited bulk messages (1), often contain phishing links or malware (2), and may advertise fraudulent products or services (4). Statement 3 is incorrect because spam emails are typically sent by unknown senders, not by known contacts. While a known contact's compromised account might send spam, the defining characteristic of spam is that it comes from unknown or untrusted sources."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "What happens when you click 'Reply All' on an email?",
+      "options": [
+        "The reply is sent only to the original sender",
+        "The reply is sent to all recipients including CC recipients",
+        "The reply is saved in the drafts folder",
+        "The reply is forwarded to a new recipient"
+      ],
+      "correctAnswer": "The reply is sent to all recipients including CC recipients",
+      "explanation": "'Reply All' sends the response to the original sender AND all other recipients (including those in the CC field) of the original email. 'Reply' (not Reply All) sends only to the original sender. The reply is not saved in drafts; it is sent immediately. Forwarding is a different function that sends the email to an entirely new recipient not in the original message."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n(i) Downloading means transferring data from a remote server to a local computer.\n(ii) Uploading means transferring data from a local computer to a remote server.\n(iii) Downloading and uploading use the same bandwidth allocation.\n(iv) FTP can be used for both uploading and downloading files.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statement (i) is correct: Downloading is transferring data from a remote server to your local computer. Statement (ii) is correct: Uploading is transferring data from your local computer to a remote server. Statement (iv) is correct: FTP (File Transfer Protocol) supports both uploading and downloading files. Statement (iii) is incorrect because most internet connections are asymmetric (like ADSL), meaning download speed is typically higher than upload speed, so they do not use the same bandwidth allocation."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Which function key is commonly used to refresh a webpage in most web browsers?",
+      "options": [
+        "F1",
+        "F3",
+        "F5",
+        "F7"
+      ],
+      "correctAnswer": "F5",
+      "explanation": "F5 is the standard keyboard shortcut to refresh or reload a webpage in most web browsers (Chrome, Firefox, Edge, etc.). F1 typically opens the Help menu. F3 is often used to open the Find/Search bar within the browser. F7 enables caret browsing in some browsers. Ctrl+F5 performs a hard refresh that clears the cache for that page."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "The term 'bandwidth' in internet connectivity refers to __________.",
+      "options": [
+        "The physical width of the network cable",
+        "The maximum rate of data transfer across a network path",
+        "The number of websites a user can access simultaneously",
+        "The storage capacity of the web server"
+      ],
+      "correctAnswer": "The maximum rate of data transfer across a network path",
+      "explanation": "Bandwidth refers to the maximum rate of data transfer across a network path, measured in bits per second (bps), Kbps, Mbps, or Gbps. It does not refer to the physical width of a cable, which is a physical measurement unrelated to data capacity. It is not about the number of websites accessible simultaneously, which depends on multitasking capability. It is also not about server storage capacity, which is measured in bytes (GB, TB)."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Which of the following is the correct format of an email address?",
+      "options": [
+        "username.domain@com",
+        "username@domain.com",
+        "@username.domain.com",
+        "username.domain.com@"
+      ],
+      "correctAnswer": "username@domain.com",
+      "explanation": "The correct format of an email address is username@domain.com, where 'username' is the local part, '@' is the separator, and 'domain.com' is the domain name. 'username.domain@com' incorrectly places the dot between username and domain before the @ symbol. '@username.domain.com' incorrectly places the @ at the beginning. 'username.domain.com@' incorrectly places the @ at the end. The @ must always separate the local part from the domain."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Clearing browser cache can help fix loading issues with websites.\nReason (R): Cache stores outdated versions of web pages that may conflict with updated content.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true. Clearing browser cache can indeed fix loading issues with websites (Assertion is true). The Reason correctly explains why: the cache stores older versions of web pages, images, and scripts that may conflict with newly updated content on the server, causing display errors or loading problems. When the cache is cleared, the browser fetches fresh content from the server, resolving these conflicts."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "What is the full form of 'WWW' in the context of the internet?",
+      "options": [
+        "Wide World Web",
+        "World Wide Web",
+        "Web World Wide",
+        "World Web Wide"
+      ],
+      "correctAnswer": "World Wide Web",
+      "explanation": "WWW stands for World Wide Web, which is a system of interlinked hypertext documents accessed via the internet using a web browser. 'Wide World Web' has the words in the wrong order. 'Web World Wide' and 'World Web Wide' are also incorrect arrangements of the words. The World Wide Web was invented by Tim Berners-Lee in 1989."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Match the items in Column I with their functions in Column II.\n\nColumn I:\n(a) Spam filter\n(b) Address book\n(c) Inbox\n(d) Drafts folder\n\nColumn II:\n(i) Stores received email messages\n(ii) Saves unfinished emails for later completion\n(iii) Blocks unwanted or junk emails\n(iv) Stores contact information and email addresses",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Spam filter (a) matches (iii): It blocks unwanted or junk emails from reaching the inbox. Address book (b) matches (iv): It stores contact information and email addresses for quick access. Inbox (c) matches (i): It stores received email messages. Drafts folder (d) matches (ii): It saves unfinished emails that the user can complete and send later."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Which keyboard shortcut is used to open a new tab in most web browsers?",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + P",
+        "Ctrl + W",
+        "Ctrl + T"
+      ],
+      "correctAnswer": "Ctrl + T",
+      "explanation": "Ctrl + T is the standard keyboard shortcut to open a new tab in most web browsers. Ctrl + N opens a new browser window (not a tab). Ctrl + W closes the current tab. Ctrl + P opens the print dialog. These shortcuts are consistent across Chrome, Firefox, Edge, and most other modern browsers."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Which of the following are features of e-banking (online banking)?\n\n1. Checking account balance online\n2. Transferring funds between accounts\n3. Requires physical presence at the bank branch\n4. Paying utility bills online",
+      "options": [
+        "1 and 2 only",
+        "3 and 4 only",
+        "1, 2 and 4 only",
+        "All of the above"
+      ],
+      "correctAnswer": "1, 2 and 4 only",
+      "explanation": "E-banking allows checking account balance online (1), transferring funds between accounts (2), and paying utility bills online (4). Statement 3 is incorrect because the primary advantage of e-banking is that it does NOT require physical presence at a bank branch. E-banking enables customers to perform banking operations from anywhere with an internet connection, eliminating the need to visit a branch."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which of the following protocols is used for secure web browsing and uses port 443 by default?",
+      "options": [
+        "HTTP",
+        "SMTP",
+        "FTP",
+        "HTTPS"
+      ],
+      "correctAnswer": "HTTPS",
+      "explanation": "HTTPS (HyperText Transfer Protocol Secure) is used for secure web browsing and operates on port 443 by default. HTTP uses port 80 and does not encrypt data. FTP (File Transfer Protocol) uses port 21 for control and port 20 for data transfer. SMTP (Simple Mail Transfer Protocol) uses port 25 for sending emails. HTTPS adds encryption via SSL/TLS to secure data during transmission."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n(i) Wi-Fi uses radio waves to provide wireless internet connectivity.\n(ii) Broadband provides high-speed internet access that is always on.\n(iii) Dial-up internet is faster than broadband internet.\n(iv) 4G and 5G are generations of mobile network technology.\n\nWhich of the above statements are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Statement (i) is correct: Wi-Fi uses radio waves (typically 2.4 GHz and 5 GHz frequencies) for wireless connectivity. Statement (ii) is correct: Broadband provides high-speed, always-on internet access. Statement (iv) is correct: 4G (fourth generation) and 5G (fifth generation) are mobile network technology standards. Statement (iii) is incorrect because dial-up internet (max ~56 Kbps) is significantly slower than broadband (which starts at several Mbps), not faster."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "What does the 'Forward' option in email allow a user to do?",
+      "options": [
+        "Mark the email as unread",
+        "Move the email to the trash folder",
+        "Reply to the original sender only",
+        "Send the received email to a new recipient"
+      ],
+      "correctAnswer": "Send the received email to a new recipient",
+      "explanation": "The 'Forward' option allows a user to send a received email (including its contents and attachments) to a new recipient who was not part of the original conversation. Moving to trash is the 'Delete' function. Replying to the original sender is the 'Reply' function. Marking as unread is a separate email management feature. Forwarding is useful for sharing information with someone who was not included in the original email."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Phishing emails attempt to trick users into revealing personal information.\nReason (R): Phishing emails often disguise themselves as legitimate communications from trusted organizations.",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true. Phishing emails do attempt to trick users into revealing personal information like passwords, credit card numbers, or bank details (Assertion is true). The Reason correctly explains how they achieve this: by disguising themselves as legitimate communications from trusted organizations (banks, social media, government agencies). This disguise is the mechanism that enables the deception described in the Assertion."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "What does the term 'download speed' of 100 Mbps mean?",
+      "options": [
+        "100 Mega Bytes can be stored per second",
+        "100 emails can be received per second",
+        "100 websites can be opened per second",
+        "100 Mega Bits of data can be transferred per second"
+      ],
+      "correctAnswer": "100 Mega Bits of data can be transferred per second",
+      "explanation": "100 Mbps means 100 Mega Bits per second, indicating the rate at which data can be downloaded from the internet. Note that Mbps (Megabits per second) is different from MBps (Megabytes per second); 100 Mbps equals approximately 12.5 MBps. It does not mean 100 Megabytes per second of storage. It is not about the number of websites or emails per second, as those depend on the size of individual web pages and emails respectively."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Match the items in Column I with their descriptions in Column II.\n\nColumn I:\n(a) Modem\n(b) Router\n(c) Browser\n(d) Server\n\nColumn II:\n(i) Software used to access and view web pages\n(ii) Device that converts digital signals to analog and vice versa\n(iii) Computer that stores data and responds to requests from clients\n(iv) Device that directs data packets between computer networks",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Modem (a) matches (ii): A modem (modulator-demodulator) converts digital signals to analog signals and vice versa for data transmission. Router (b) matches (iv): A router directs data packets between different computer networks, determining the best path. Browser (c) matches (i): A browser is software used to access and view web pages (e.g., Chrome, Firefox). Server (d) matches (iii): A server is a computer that stores data and responds to requests from client computers."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Which of the following is a free email service provider?",
+      "options": [
+        "Microsoft Word",
+        "VLC Media Player",
+        "Adobe Photoshop",
+        "Yahoo Mail"
+      ],
+      "correctAnswer": "Yahoo Mail",
+      "explanation": "Yahoo Mail is a free email service provider that allows users to create email accounts and send/receive emails at no cost. Microsoft Word is a word processing software, not an email service. Adobe Photoshop is an image editing software. VLC Media Player is a multimedia player application. Other free email services include Gmail, Outlook.com (Hotmail), and ProtonMail."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Which of the following are types of internet connections?\n\n1. Dial-up\n2. DSL (Digital Subscriber Line)\n3. Fiber optic\n4. Bluetooth",
+      "options": [
+        "1, 2 and 3 only",
+        "1 and 4 only",
+        "2, 3 and 4 only",
+        "All of the above"
+      ],
+      "correctAnswer": "1, 2 and 3 only",
+      "explanation": "Dial-up (1), DSL (2), and Fiber optic (3) are all types of internet connections used by ISPs to provide internet access. Dial-up uses telephone lines with slow speeds. DSL uses telephone lines but at much higher speeds. Fiber optic uses light signals through glass cables for the fastest speeds. Bluetooth (4) is a short-range wireless technology for connecting devices (like headphones, keyboards) within close proximity, not a type of internet connection from an ISP."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "What is the purpose of the 'Subject' field in an email?",
+      "options": [
+        "To specify the email address of the recipient",
+        "To provide a brief description of the email content",
+        "To attach files to the email",
+        "To set the priority level of the email"
+      ],
+      "correctAnswer": "To provide a brief description of the email content",
+      "explanation": "The 'Subject' field in an email provides a brief description or summary of the email's content, helping recipients understand the purpose before opening it. The 'To' field specifies the recipient's email address. The 'Attachment' button or option is used to attach files. Priority settings are usually found in separate options or settings, not in the Subject field."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n(i) A hyperlink is a clickable text or image that navigates to another webpage.\n(ii) The homepage is the first page that loads when a browser is opened.\n(iii) A web server stores and delivers web pages to users.\n(iv) HTML is a programming language used to create mobile applications.\n\nWhich of the above statements are correct?",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(ii) and (iv) only",
+        "(i) and (iv) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Statement (i) is correct: A hyperlink is a clickable element (text, image, or button) that directs the user to another webpage or resource. Statement (ii) is correct: The homepage is the default page that loads when a browser is first opened. Statement (iii) is correct: A web server hosts and delivers web pages to users upon request. Statement (iv) is incorrect because HTML (HyperText Markup Language) is a markup language for creating web pages, not a programming language for mobile applications."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Which of the following best describes 'cloud storage' in the context of internet usage?",
+      "options": [
+        "Storing data on the local hard drive of a computer",
+        "Storing data on a CD-ROM",
+        "Storing data on a USB flash drive",
+        "Storing data on remote servers accessible via the internet"
+      ],
+      "correctAnswer": "Storing data on remote servers accessible via the internet",
+      "explanation": "Cloud storage refers to storing data on remote servers that are accessible via the internet, provided by services like Google Drive, Dropbox, and OneDrive. Storing on a local hard drive is local storage, not cloud storage. USB flash drives and CD-ROMs are portable physical storage media, not cloud-based solutions. Cloud storage allows access from any device with an internet connection."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Consider the following statements:\n(i) An IP address is a unique numerical label assigned to each device on a network.\n(ii) IPv4 addresses are written as four groups of numbers separated by dots.\n(iii) IPv6 was developed because IPv4 addresses were running out.\n(iv) An IP address and a MAC address are the same thing.\n\nWhich of the above statements are correct?",
+      "options": [
+        "(ii), (iii) and (iv) only",
+        "(i) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Statement (i) is correct: An IP address is a unique numerical label assigned to each device connected to a network. Statement (ii) is correct: IPv4 addresses use dotted-decimal notation with four octets (e.g., 192.168.1.1). Statement (iii) is correct: IPv6 was developed because the approximately 4.3 billion IPv4 addresses were being exhausted. Statement (iv) is incorrect because an IP address (logical, network-layer address) and a MAC address (physical, hardware address burnt into the network interface card) are fundamentally different."
+    }
+  ]
+}
