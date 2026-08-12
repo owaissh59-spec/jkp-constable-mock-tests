@@ -165,17 +165,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 55 | Morning | D — Numerical and Reasoning Ability | Logical Reasoning | 30 | standard | Topic-wise | ⬜ |
-| 56 | Afternoon | A — General English | Spot the Error | 40 | standard | Topic-wise | ⬜ |
-| 57 | Late | C — General Knowledge — J&K | Indus Water Treaty & Impact on Economy | 50 | standard | Topic-wise | ⬜ |
+| 55 | Morning | D — Numerical and Reasoning Ability | Logical Reasoning | 30 | standard | Topic-wise | ✅ |
+| 56 | Afternoon | A — General English | Spot the Error | 40 | standard | Topic-wise | ✅ |
+| 57 | Late | C — General Knowledge — J&K | Indus Water Treaty & Impact on Economy | 50 | standard | Topic-wise | ✅ |
 
 ### Day 20
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 58 | Morning | B — General Knowledge & Current Affairs (India) | Climate & Crops in India | 30 | standard | Topic-wise | ⬜ |
-| 59 | Afternoon | D — Numerical and Reasoning Ability | Basic Algebra | 40 | standard | Topic-wise | ⬜ |
-| 60 | Late | E — Basic Concepts of Computers | Computer Terminology & Fundamentals (Revision) | 50 | standard | Topic-wise | ⬜ |
+| 58 | Morning | B — General Knowledge & Current Affairs (India) | Climate & Crops in India | 30 | standard | Topic-wise | ✅ |
+| 59 | Afternoon | D — Numerical and Reasoning Ability | Basic Algebra | 40 | standard | Topic-wise | ✅ |
+| 60 | Late | E — Basic Concepts of Computers | Computer Terminology & Fundamentals (Revision) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 21
 

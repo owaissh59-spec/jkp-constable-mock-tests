@@ -1,0 +1,247 @@
+{
+  "subject": "D",
+  "topic": "Logical Reasoning",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "If all cats are mammals and all mammals are warm-blooded, which of the following conclusions is definitely true?",
+      "options": ["All warm-blooded animals are cats", "All cats are warm-blooded", "Some warm-blooded animals are not mammals", "All mammals are cats"],
+      "correctAnswer": "All cats are warm-blooded",
+      "explanation": "Since all cats are mammals and all mammals are warm-blooded, by transitivity all cats must be warm-blooded. 'All warm-blooded animals are cats' is wrong because many warm-blooded animals (dogs, humans) are not cats. 'Some warm-blooded animals are not mammals' is wrong because the premises don't give information to conclude this. 'All mammals are cats' reverses the first premise incorrectly — cats are a subset of mammals, not the other way around."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) If all A are B and all B are C, then all A are C.\n(ii) If no A is B and some B are C, then some C are not A.\n(iii) If some A are B and all B are C, then all A are C.\n(iv) If all A are B and no B is C, then no A is C.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — this is the basic syllogistic rule of transitivity. (ii) is correct — if no A is B and some B are C, then those C that are B cannot be A, so some C are not A. (iv) is correct — if all A are B and no B is C, then no A can be C. (iii) is wrong because 'some A are B' only tells us a part of A overlaps B; while those specific A-that-are-B are also C, we cannot conclude ALL A are C."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a valid syllogism, the conclusion cannot be broader than the premises.\nReason (R): A syllogism derives its conclusion strictly from the information contained in its premises.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — a valid syllogism cannot go beyond what the premises state. Reason (R) is also correct — by definition, syllogistic logic derives conclusions only from given premises. (R) directly explains (A) because the reason why the conclusion cannot be broader is precisely that it must be derived only from the information in the premises."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Match the following logical terms with their meanings:\n\nColumn I:\n(a) Premise\n(b) Conclusion\n(c) Syllogism\n(d) Fallacy\n\nColumn II:\n(i) A form of deductive reasoning with two premises and a conclusion\n(ii) A statement assumed to be true for the purpose of argument\n(iii) An error in logical reasoning\n(iv) The statement that logically follows from the premises\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "A premise is a statement assumed true for argument (ii). A conclusion is what logically follows from premises (iv). A syllogism is deductive reasoning with two premises and a conclusion (i). A fallacy is an error in logical reasoning (iii). Option 2 is wrong because it pairs premise with conclusion's meaning. Option 3 is wrong because it pairs conclusion with fallacy's meaning. Option 4 is wrong because it pairs premise with fallacy's meaning."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Statement: All teachers in this school have a B.Ed. degree. Ramesh does not have a B.Ed. degree.\n\nWhich conclusion follows logically?",
+      "options": ["Ramesh is a teacher in this school", "Ramesh is not a teacher in this school", "Ramesh may or may not be a teacher", "Ramesh failed his B.Ed. examination"],
+      "correctAnswer": "Ramesh is not a teacher in this school",
+      "explanation": "If ALL teachers have B.Ed. and Ramesh does NOT have B.Ed., then Ramesh cannot be a teacher in this school (contrapositive logic). 'Ramesh is a teacher' contradicts the premises. 'Ramesh may or may not be a teacher' is wrong because the logic is definite — he definitely is not. 'Ramesh failed his B.Ed.' introduces information not present in the premises."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following are valid forms of logical reasoning?\n\n(i) Modus Ponens: If P then Q; P is true; therefore Q is true.\n(ii) Modus Tollens: If P then Q; Q is false; therefore P is false.\n(iii) Affirming the consequent: If P then Q; Q is true; therefore P is true.\n(iv) Denying the antecedent: If P then Q; P is false; therefore Q is false.\n\nSelect the correct combination:",
+      "options": ["(i) and (ii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii) and (iv) only"],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "Modus Ponens (i) and Modus Tollens (ii) are both valid forms of deductive reasoning. Affirming the consequent (iii) is a well-known logical fallacy — Q being true does not guarantee P is true (other things could cause Q). Denying the antecedent (iv) is also a fallacy — P being false does not mean Q must be false (Q could be true for other reasons)."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Statement: No honest person is a cheat. Some businessmen are cheats.\n\nConclusion I: Some businessmen are not honest.\nConclusion II: No businessman is honest.\n\nWhich conclusion(s) follow(s)?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'No honest person is a cheat' and 'Some businessmen are cheats', those businessmen who are cheats cannot be honest. So some businessmen are not honest — Conclusion I follows. Conclusion II ('No businessman is honest') goes too far because only SOME businessmen are cheats; the remaining businessmen could be honest. Thus only I follows."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The statement 'If it rains, the ground is wet' does not necessarily mean 'If the ground is wet, it rained.'\nReason (R): The converse of a conditional statement is not logically equivalent to the original statement.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the ground could be wet for other reasons (sprinkler, spill). (R) is correct — in logic, the converse (Q→P) of a conditional (P→Q) is not equivalent. (R) explains (A) because the reason 'If ground wet then rain' doesn't follow from 'If rain then ground wet' is precisely that the converse is not logically equivalent to the original."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "In a certain code of logic, '+' means 'is the father of', '−' means 'is the mother of', '×' means 'is the brother of', and '÷' means 'is the sister of'. What does 'P + Q × R ÷ S' mean?",
+      "options": ["P is the father of Q who is the brother of R who is the sister of S", "P is the father of Q who is the sister of R who is the brother of S", "Q is the father of P who is the brother of R who is the sister of S", "P is the brother of Q who is the father of R who is the sister of S"],
+      "correctAnswer": "P is the father of Q who is the brother of R who is the sister of S",
+      "explanation": "Reading left to right: P + Q means P is the father of Q; Q × R means Q is the brother of R; R ÷ S means R is the sister of S. Option 2 swaps brother and sister roles of Q and R. Option 3 reverses the father relationship. Option 4 misassigns the + symbol to Q instead of P."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) All valid arguments with true premises must have a true conclusion.\n(ii) A sound argument is one that is both valid and has all true premises.\n(iii) An argument can be valid even if its premises are false.\n(iv) If the conclusion of an argument is true, the argument must be valid.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — validity means if premises are true, conclusion must be true. (ii) is correct — soundness requires both validity and truth of premises. (iii) is correct — validity is about the logical form/structure, not about whether premises happen to be factually true. (iv) is wrong — a true conclusion can result from an invalid argument by coincidence; truth of conclusion alone does not guarantee validity."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Fill in the blank: In the logical statement 'If all roses are flowers and all flowers need sunlight', the conclusion that follows is: All roses need __________.",
+      "options": ["water", "sunlight", "soil", "fertilizer"],
+      "correctAnswer": "sunlight",
+      "explanation": "By syllogistic reasoning: All roses are flowers → All flowers need sunlight → Therefore all roses need sunlight. 'Water' is wrong because the premise mentions sunlight, not water. 'Soil' is wrong because it is not mentioned in either premise. 'Fertilizer' is wrong as it appears nowhere in the given statements."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Statement: Some doctors are teachers. All teachers are graduates.\n\nConclusion I: Some doctors are graduates.\nConclusion II: All graduates are teachers.\n\nWhich conclusion(s) follow(s)?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "Since some doctors are teachers and all teachers are graduates, those doctors who are teachers must be graduates — so some doctors are graduates (I follows). Conclusion II reverses the second premise: 'All teachers are graduates' does not mean 'All graduates are teachers' — many graduates may not be teachers. Thus only Conclusion I follows."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Match the following logical fallacies with their descriptions:\n\nColumn I:\n(a) Circular reasoning\n(b) Ad hominem\n(c) Straw man\n(d) False dilemma\n\nColumn II:\n(i) Attacking the person rather than the argument\n(ii) Presenting only two options when more exist\n(iii) Misrepresenting someone's argument to make it easier to attack\n(iv) Using the conclusion as a premise in the same argument\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "Circular reasoning uses the conclusion as a premise (iv). Ad hominem attacks the person, not the argument (i). Straw man misrepresents an argument (iii). False dilemma presents only two options when more exist (ii). Option 2 wrongly pairs circular reasoning with straw man's description. Option 3 swaps ad hominem and straw man. Option 4 wrongly pairs circular reasoning with ad hominem's description."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): From the statement 'All apples are fruits', we cannot conclude 'All fruits are apples.'\nReason (R): In logic, a universal affirmative statement does not imply its converse.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'All apples are fruits' tells us apples are a subset of fruits, not the reverse. (R) is correct — logically, 'All A are B' does not imply 'All B are A'. (R) directly explains (A) because the reason we cannot conclude the reverse is exactly the principle that a universal affirmative does not imply its converse."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "In a group of 50 people, 35 like tea and 25 like coffee. If everyone likes at least one of the two beverages, how many people like both tea and coffee?",
+      "options": ["8", "10", "12", "15"],
+      "correctAnswer": "10",
+      "explanation": "Using the inclusion-exclusion principle: Total = Tea + Coffee − Both. 50 = 35 + 25 − Both. Both = 60 − 50 = 10. Option '8' results from incorrectly subtracting 50−35−25+18. Option '12' is a common miscalculation. Option '15' would result from simply subtracting 25 from 50−10 incorrectly."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Statement: All politicians are public speakers. Some public speakers are authors. No author is a journalist.\n\nWhich of the following conclusions is definitely true?",
+      "options": ["Some politicians are authors", "No politician is a journalist", "Some public speakers are not journalists", "All authors are politicians"],
+      "correctAnswer": "Some public speakers are not journalists",
+      "explanation": "Since some public speakers are authors and no author is a journalist, those public speakers who are authors cannot be journalists — so some public speakers are not journalists. 'Some politicians are authors' is wrong because we only know politicians are public speakers, not that they overlap with authors. 'No politician is a journalist' cannot be concluded as the link between politicians and journalists is not established. 'All authors are politicians' reverses and extends the relationships incorrectly."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "If the statement 'All students who study hard pass the exam' is true, which of the following must also be true?",
+      "options": ["All students who pass the exam studied hard", "Some students who do not study hard will fail", "If a student did not pass, then the student did not study hard", "No student can pass without studying hard"],
+      "correctAnswer": "If a student did not pass, then the student did not study hard",
+      "explanation": "This is the contrapositive of the original statement: If P→Q (study hard → pass), then ¬Q→¬P (not pass → not study hard). The contrapositive is always logically equivalent. 'All who pass studied hard' is the converse and not necessarily true. 'Some who don't study hard will fail' introduces probability not guaranteed by the premise. 'No student can pass without studying hard' is wrong because others may pass for other reasons (the statement doesn't say ONLY hard studiers pass)."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) A deductive argument moves from general premises to a specific conclusion.\n(ii) An inductive argument moves from specific observations to a general conclusion.\n(iii) Deductive reasoning guarantees the truth of the conclusion if premises are true.\n(iv) Inductive reasoning guarantees the truth of the conclusion if observations are correct.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — deductive reasoning goes from general to specific. (ii) is correct — inductive reasoning generalises from specific observations. (iii) is correct — valid deductive arguments with true premises necessarily produce true conclusions. (iv) is wrong — inductive reasoning only provides probable conclusions, never guaranteed truth, even if all observations are correct (a future observation could contradict)."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Statement: Some birds can fly. Eagles are birds.\n\nConclusion I: Eagles can fly.\nConclusion II: Some birds cannot fly.\n\nWhich conclusion(s) follow(s)?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Neither Conclusion I nor II follows",
+      "explanation": "From 'Some birds can fly' and 'Eagles are birds', we cannot definitely say eagles are among the birds that can fly (I does not necessarily follow from the logical form alone). Conclusion II ('Some birds cannot fly') is also not a necessary logical consequence — 'some can fly' in logic means 'at least some', which is compatible with all birds being able to fly. Neither conclusion can be definitively established from the premises alone."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Which of the following are examples of logical contradictions?\n\n(i) A square circle\n(ii) A married bachelor\n(iii) A tall short man\n(iv) A cold summer day\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A square circle (i) is a logical contradiction because a shape cannot simultaneously be a square and a circle. A married bachelor (ii) contradicts because 'bachelor' means unmarried. A tall short man (iii) contradicts because an entity cannot be both tall and short simultaneously. A cold summer day (iv) is NOT a logical contradiction — summer days can indeed be cold (weather anomalies); there is no inherent logical impossibility."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Match the following argument forms with their validity:\n\nColumn I:\n(a) All A are B. All B are C. ∴ All A are C.\n(b) Some A are B. All B are C. ∴ Some A are C.\n(c) All A are B. Some B are C. ∴ Some A are C.\n(d) No A is B. All C are B. ∴ No C is A.\n\nColumn II:\n(i) Valid\n(ii) Invalid\n\nChoose the correct match:",
+      "options": ["(a)-(i), (b)-(i), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(i), (c)-(i), (d)-(ii)", "(a)-(i), (b)-(ii), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(i), (d)-(i)"],
+      "correctAnswer": "(a)-(i), (b)-(i), (c)-(ii), (d)-(i)",
+      "explanation": "(a) is valid — classic Barbara syllogism. (b) is valid — those A that are B must be C. (c) is invalid — knowing all A are B and some B are C does not guarantee those particular B that are C overlap with A. (d) is valid — if no A is B and all C are B, then C cannot be A. Option 2 wrongly marks (c) valid and (d) invalid. Option 3 wrongly marks (b) invalid. Option 4 wrongly marks (a) invalid."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Statement: No student in this class failed. Aman is a student in this class.\n\nWhich conclusion follows?",
+      "options": ["Aman may have failed", "Aman did not fail", "Aman might not be a student", "Aman topped the class"],
+      "correctAnswer": "Aman did not fail",
+      "explanation": "Since no student in the class failed and Aman is a student in the class, Aman did not fail. 'Aman may have failed' contradicts the first premise. 'Aman might not be a student' contradicts the second premise. 'Aman topped the class' goes beyond what the premises state — not failing doesn't mean topping."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) If the contrapositive of a statement is true, then the original statement is also true.\n(ii) The inverse of a true statement is always true.\n(iii) A statement and its contrapositive are logically equivalent.\n(iv) The converse of a true conditional is always true.\n\nWhich of the statements given above are correct?",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — a statement and its contrapositive have the same truth value. (iii) is correct — they are logically equivalent by definition. (ii) is wrong — the inverse (¬P→¬Q) of a true statement (P→Q) is not necessarily true. (iv) is wrong — the converse (Q→P) of P→Q is not necessarily true. Only (i) and (iii) are correct."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "A group of 80 students was surveyed. 50 students study Mathematics, 40 study Science, and 20 study both subjects. How many students study neither Mathematics nor Science?",
+      "options": ["8", "10", "12", "15"],
+      "correctAnswer": "10",
+      "explanation": "Students studying at least one subject = Math + Science − Both = 50 + 40 − 20 = 70. Students studying neither = Total − At least one = 80 − 70 = 10. Option '8' results from a subtraction error. Option '12' could arise from miscounting the overlap. Option '15' would result from incorrectly computing 80 − 50 − 40 + 20 + 5."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) If it is raining, the ground is wet. The ground is not wet. Therefore, it is not raining.\n(ii) If it is raining, the ground is wet. It is not raining. Therefore, the ground is not wet.\n(iii) If it is raining, the ground is wet. The ground is wet. Therefore, it is raining.\n(iv) If it is raining, the ground is wet. It is raining. Therefore, the ground is wet.\n\nWhich of the above represent valid logical reasoning?",
+      "options": ["(i) and (iv) only", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i) and (iv) only",
+      "explanation": "(i) is Modus Tollens (denying the consequent) — valid. (iv) is Modus Ponens (affirming the antecedent) — valid. (ii) is the fallacy of denying the antecedent — the ground could be wet for other reasons. (iii) is the fallacy of affirming the consequent — the ground being wet doesn't prove rain. Only (i) and (iv) are valid."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Statement: All roses are flowers. Some flowers are red. All red things are colourful.\n\nConclusion I: Some flowers are colourful.\nConclusion II: All roses are colourful.\n\nWhich conclusion(s) follow(s)?",
+      "options": ["Only Conclusion I follows", "Only Conclusion II follows", "Both Conclusions I and II follow", "Neither Conclusion I nor II follows"],
+      "correctAnswer": "Only Conclusion I follows",
+      "explanation": "From 'Some flowers are red' and 'All red things are colourful', those flowers that are red must be colourful — so some flowers are colourful (I follows). For Conclusion II, we know all roses are flowers, but 'some flowers are red' doesn't guarantee roses are among the red flowers. So we cannot conclude all roses are colourful. Only Conclusion I follows."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "If 'P → Q' is true and 'Q → R' is true, which of the following can be validly concluded?",
+      "options": ["R → P", "P → R", "¬P → ¬R", "¬R → Q"],
+      "correctAnswer": "P → R",
+      "explanation": "By the chain rule (hypothetical syllogism): if P→Q and Q→R, then P→R. 'R → P' reverses the chain, which is not valid. '¬P → ¬R' is the inverse of P→R and not necessarily true. '¬R → Q' contradicts the contrapositive of Q→R (which gives ¬R→¬Q, not ¬R→Q)."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "In a row of children, Mohan is 8th from the left end and Sohan is 12th from the right end. If they interchange their positions, Mohan becomes 15th from the left. How many children are in the row?",
+      "options": ["22", "24", "26", "28"],
+      "correctAnswer": "26",
+      "explanation": "After interchange, Mohan takes Sohan's position. Mohan is now 15th from the left, which was Sohan's original position. From the right, Sohan was 12th. So total children = Mohan's new position from left + Sohan's original position from right − 1 = 15 + 12 − 1 = 26. Option '22' subtracts incorrectly. Option '24' forgets the −1 rule. Option '28' adds an extra 2."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "The following data shows the number of students who chose different elective subjects and their pass rates:\n\n| Subject | Students | Pass Rate |\n|---------|----------|-----------|\n| History | 40 | 80% |\n| Geography | 35 | 60% |\n| Economics | 25 | 72% |\n| Political Science | 20 | 90% |\n\nIn which subject is the number of students who failed the highest?",
+      "options": ["History", "Geography", "Economics", "Political Science"],
+      "correctAnswer": "Geography",
+      "explanation": "Failed students: History = 40 × 20% = 8, Geography = 35 × 40% = 14, Economics = 25 × 28% = 7, Political Science = 20 × 10% = 2. Geography has the most failures (14). History (8) has fewer. Economics (7) has fewer. Political Science (2) has the least."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "The following table shows the number of correct and incorrect answers given by four students in a logical reasoning test of 40 questions:\n\n| Student | Correct | Incorrect | Unanswered |\n|---------|---------|-----------|------------|\n| Arun | 28 | 8 | 4 |\n| Bina | 30 | 6 | 4 |\n| Chetan | 25 | 10 | 5 |\n| Divya | 32 | 5 | 3 |\n\nIf each correct answer carries +1 mark and each incorrect answer carries −0.25 marks, who scored the highest?",
+      "options": ["Arun", "Bina", "Chetan", "Divya"],
+      "correctAnswer": "Divya",
+      "explanation": "Scores: Arun = 28 − (8×0.25) = 28 − 2 = 26. Bina = 30 − (6×0.25) = 30 − 1.5 = 28.5. Chetan = 25 − (10×0.25) = 25 − 2.5 = 22.5. Divya = 32 − (5×0.25) = 32 − 1.25 = 30.75. Divya scored the highest. Arun (26) is third. Bina (28.5) is second. Chetan (22.5) is lowest."
+    }
+  ]
+}

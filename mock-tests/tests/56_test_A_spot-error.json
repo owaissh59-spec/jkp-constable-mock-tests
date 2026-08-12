@@ -1,0 +1,327 @@
+{
+  "subject": "A",
+  "topic": "Spot the Error",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'He go to school every day by bus.'",
+      "options": ["He go", "to school", "every day", "by bus"],
+      "correctAnswer": "He go",
+      "explanation": "'He go' is incorrect because the subject 'He' is third-person singular and requires 'goes' in the simple present tense. 'To school' is a correct prepositional phrase. 'Every day' is correct as an adverb of frequency. 'By bus' is a correct prepositional phrase indicating means of transport."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'Each of the students have submitted their assignments on time.'",
+      "options": ["Each of the students", "have submitted", "their assignments", "on time"],
+      "correctAnswer": "have submitted",
+      "explanation": "'Have submitted' is wrong because 'Each' is singular and requires 'has submitted'. 'Each of the students' is grammatically correct as a subject phrase. 'Their assignments' is acceptable in modern English as a gender-neutral pronoun. 'On time' is a correct adverbial phrase."
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Consider the following statements about common grammatical errors:\n\n(i) 'The furniture are old' is incorrect because 'furniture' is an uncountable noun requiring a singular verb.\n(ii) 'He is more taller than his brother' is incorrect because 'more' should not be used with comparative adjectives ending in '-er'.\n(iii) 'She told that she was tired' is correct usage.\n(iv) 'Neither of the boys were present' is incorrect because 'Neither' takes a singular verb.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — 'furniture' is uncountable and needs 'is'. (ii) is correct — double comparative ('more taller') is wrong; use either 'taller' or 'more tall'. (iv) is correct — 'Neither' is singular and requires 'was'. (iii) is wrong — 'told' requires an object (told me/told him); without an object, 'said' should be used: 'She said that she was tired.'"
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'The news are very disturbing and has caused panic among the people.'",
+      "options": ["The news are", "very disturbing", "and has caused panic", "among the people"],
+      "correctAnswer": "The news are",
+      "explanation": "'The news are' is incorrect because 'news' is an uncountable noun that takes a singular verb — it should be 'The news is'. 'Very disturbing' is a correct adverb-adjective combination. 'And has caused panic' correctly uses singular verb 'has' with 'news'. 'Among the people' is a correct prepositional phrase."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'He is one of those students who always comes late' contains an error.\nReason (R): In such constructions, the relative pronoun 'who' refers to the plural noun 'students', so the verb should be 'come' (plural).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the sentence has an error with 'comes'. (R) is correct — 'who' refers to 'students' (plural), so the verb must be 'come'. (R) directly explains why (A) is true, making it the correct explanation."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Match the following incorrect sentences with the type of error they contain:\n\nColumn I:\n(a) She is more prettier than her sister.\n(b) He told me that he is going.\n(c) The cattle is grazing in the field.\n(d) I am knowing the answer.\n\nColumn II:\n(i) Wrong tense of verb with a stative verb\n(ii) Double comparative error\n(iii) Subject-verb agreement error (plural noun with singular verb)\n(iv) Incorrect tense in reported speech\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a) 'more prettier' is a double comparative (ii) — should be 'prettier'. (b) 'told me that he is going' — reported speech requires past tense: 'was going' (iv). (c) 'cattle is' is wrong because 'cattle' is always plural — should be 'cattle are' (iii). (d) 'I am knowing' misuses the continuous tense with 'know', which is a stative verb and shouldn't be used in progressive form (i)."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'She said me that she would not be coming to the party tomorrow.'",
+      "options": ["She said me", "that she would", "not be coming to", "the party tomorrow"],
+      "correctAnswer": "She said me",
+      "explanation": "'Said me' is wrong — 'say' does not take an indirect object directly. The correct form is 'She said to me' or 'She told me'. 'That she would' is correct in reported speech. 'Not be coming to' is a grammatically correct negation of future continuous. 'The party tomorrow' is correct as a noun phrase with time adverb."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'Neither the teacher nor the students was present at the function yesterday.'",
+      "options": ["Neither the teacher", "nor the students", "was present at", "the function yesterday"],
+      "correctAnswer": "was present at",
+      "explanation": "'Was present' is wrong because in 'neither...nor' constructions, the verb agrees with the nearest subject. Here, 'the students' (plural) is nearest, so the verb should be 'were present'. 'Neither the teacher' is correct as the first element. 'Nor the students' is the correct correlative conjunction. 'The function yesterday' is correct."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Which of the following sentences are grammatically INCORRECT?\n\n(i) The scissors is on the table.\n(ii) Mathematics are my favourite subject.\n(iii) A lot of students has failed the exam.\n(iv) The police has arrested the thief.\n\nSelect the correct combination:",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "(i) is incorrect — 'scissors' is always plural: 'The scissors are'. (ii) is incorrect — 'Mathematics' takes a singular verb: 'Mathematics is'. (iii) is incorrect — 'A lot of students' is plural: 'have failed'. (iv) is incorrect — 'police' is treated as plural: 'The police have arrested'. All four sentences contain errors."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'I have been living in this city since five years.'",
+      "options": ["I have been living", "in this city", "since five years", "No error"],
+      "correctAnswer": "since five years",
+      "explanation": "'Since five years' is wrong because 'since' is used with a point in time (since 2019, since Monday), not a duration. For a period of time, 'for' should be used: 'for five years'. 'I have been living' correctly uses present perfect continuous. 'In this city' is a correct prepositional phrase."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Consider the following statements about errors with collective nouns:\n\n(i) 'The team are playing well' is correct when the members act individually.\n(ii) 'The jury have given its verdict' is incorrect because 'have' (plural) conflicts with 'its' (singular).\n(iii) 'The audience was clapping their hands' is incorrect due to number disagreement.\n(iv) 'A herd of cattle were crossing the road' is always incorrect.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — collective nouns can take plural verbs when members act individually. (ii) is correct — mixing plural 'have' with singular 'its' is inconsistent; it should be 'have given their verdict' or 'has given its verdict'. (iii) is correct — 'was' (singular) conflicts with 'their' (plural). (iv) is wrong — 'cattle' is inherently plural and 'were' is correct here."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'I am agree with your opinion' is grammatically wrong.\nReason (R): 'Agree' is a verb and cannot be used with 'am' — the correct form is 'I agree' (simple present).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'I am agree' is grammatically wrong. (R) is correct — 'agree' is a main verb, not an adjective, so it cannot be paired with 'am'. The correct form is 'I agree'. (R) provides the exact grammatical reason why (A) is an error."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'Despite of the heavy rain, the match continued without any interruption.'",
+      "options": ["Despite of the", "heavy rain", "the match continued", "without any interruption"],
+      "correctAnswer": "Despite of the",
+      "explanation": "'Despite of' is incorrect — 'despite' is a preposition that is never followed by 'of'. The correct form is 'Despite the heavy rain' or 'In spite of the heavy rain'. 'Heavy rain' is a correct adjective-noun combination. 'The match continued' is grammatically correct. 'Without any interruption' is a correct prepositional phrase."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'One of my friend has gone to Delhi for higher studies.'",
+      "options": ["One of my friend", "has gone to", "Delhi for", "higher studies"],
+      "correctAnswer": "One of my friend",
+      "explanation": "'One of my friend' is wrong because 'one of' must be followed by a plural noun — it should be 'One of my friends'. 'Has gone to' correctly agrees with 'One' (singular subject). 'Delhi for' is correct. 'Higher studies' is a correct noun phrase."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Match the following erroneous sentences with their corrected forms:\n\nColumn I:\n(a) He gave me an advice.\n(b) She is more senior than me.\n(c) I prefer tea than coffee.\n(d) He denied to help me.\n\nColumn II:\n(i) I prefer tea to coffee.\n(ii) He refused to help me.\n(iii) She is senior to me.\n(iv) He gave me a piece of advice.\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "(a) 'Advice' is uncountable — you cannot say 'an advice'; correct: 'a piece of advice' (iv). (b) 'Senior' already implies comparison and takes 'to', not 'than' — correct: 'senior to me' (iii). (c) 'Prefer' takes 'to', not 'than' — correct: 'prefer tea to coffee' (i). (d) 'Denied' means 'refused to accept a claim'; the correct word for refusing to do something is 'refused' (ii)."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'The teacher along with the students were present at the farewell function.'",
+      "options": ["The teacher along with", "the students", "were present at", "the farewell function"],
+      "correctAnswer": "were present at",
+      "explanation": "'Were present' is wrong because when the subject is followed by 'along with', the verb agrees with the main subject, which is 'The teacher' (singular). The correct verb is 'was present'. 'The teacher along with' is a correct linking phrase. 'The students' is correct as the accompanying noun. 'The farewell function' is correct."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'No sooner did he enter the room when everyone stood up to greet him.'",
+      "options": ["No sooner did he", "enter the room", "when everyone stood up", "to greet him"],
+      "correctAnswer": "when everyone stood up",
+      "explanation": "'When' is wrong after 'No sooner'. The correct correlative is 'No sooner...than' — so it should be 'than everyone stood up'. 'No sooner did he' uses correct inversion. 'Enter the room' is the correct infinitive. 'To greet him' is a correct infinitive of purpose."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Consider the following statements about common errors with prepositions:\n\n(i) 'He discussed about the problem' is wrong — 'discuss' is a transitive verb that takes a direct object without 'about'.\n(ii) 'She married with a doctor' is wrong — 'marry' does not take 'with'.\n(iii) 'He entered into the room' is wrong — 'enter' takes a direct object without 'into' when meaning a physical space.\n(iv) 'We reached at the station on time' is wrong — 'reach' is transitive and does not need 'at'.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "All four statements are correct. (i) 'Discuss' is transitive — 'He discussed the problem'. (ii) 'Marry' doesn't take 'with' — 'She married a doctor'. (iii) 'Enter' is transitive for physical places — 'He entered the room'. (iv) 'Reach' is transitive — 'We reached the station'. These are all common errors where a superfluous preposition is added to a transitive verb."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'She is more intelligent than him' is considered correct in informal usage.\nReason (R): In formal grammar, the comparison should be 'than he' (subject form), treating 'than' as a conjunction, but in everyday English 'than him' is widely accepted.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'than him' is widely accepted in informal and modern English. (R) is correct — formally 'than' acts as a conjunction requiring subject case ('than he is'), but informally it's treated as a preposition taking the object case ('than him'). (R) explains precisely why (A) holds true."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'The sceneries of Kashmir are very beautiful and attracts many tourists.'",
+      "options": ["The sceneries of", "Kashmir are very", "beautiful and attracts", "many tourists"],
+      "correctAnswer": "The sceneries of",
+      "explanation": "'The sceneries' is wrong because 'scenery' is an uncountable noun and has no plural form. The correct form is 'The scenery of'. 'Kashmir are very' — 'are' would need correction once 'scenery' is singular (should be 'is'). 'Beautiful and attracts' — 'attracts' would agree once subject is corrected. 'Many tourists' is correct. The primary error is the non-existent plural form 'sceneries'."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'He is suffering from fever since Monday and has not attended any class.'",
+      "options": ["He is suffering", "from fever since Monday", "and has not attended", "any class"],
+      "correctAnswer": "He is suffering",
+      "explanation": "'He is suffering' is incorrect because with 'since Monday' (a point in time), the present perfect continuous should be used: 'He has been suffering'. Present continuous cannot be used with 'since' to indicate duration from a past point. 'From fever since Monday' uses correct prepositions. 'And has not attended' is correct present perfect. 'Any class' is correct."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Which of the following sentences contain errors related to articles?\n\n(i) He is an European who lives in India.\n(ii) She went to the hospital to visit a patient.\n(iii) Gold is a precious metal.\n(iv) He is an honest man who never lies.\n\nSelect the correct combination:",
+      "options": ["(i) only", "(i) and (iii)", "(i) and (iv)", "(ii) and (iii)"],
+      "correctAnswer": "(i) only",
+      "explanation": "(i) is incorrect — 'European' begins with the sound /j/ (a consonant sound), so it should be 'a European'. (ii) is correct — 'the hospital' and 'a patient' are both properly used. (iii) is correct — 'Gold' without an article refers to the metal in general, and 'a precious metal' uses the indefinite article correctly. (iv) is correct — 'honest' begins with a silent 'h', so 'an honest man' is right."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'He is one of the best player that has ever represented the country.'",
+      "options": ["He is one of", "the best player", "that has ever", "represented the country"],
+      "correctAnswer": "the best player",
+      "explanation": "'The best player' is wrong because 'one of' must be followed by a plural noun. It should be 'the best players'. This is because 'one of' implies selection from a group, which must be plural. 'He is one of' is the correct introductory phrase. 'That has ever' — 'has' also needs to change to 'have' to agree with 'players'. 'Represented the country' is correct."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Consider the following statements about errors with confusable words:\n\n(i) 'The affect of pollution on health is severe' — 'affect' should be 'effect' (noun).\n(ii) 'She gave me a good advise' — 'advise' should be 'advice' (noun).\n(iii) 'The principle of the school welcomed the guests' — 'principle' should be 'principal' (person).\n(iv) 'He excepted the invitation gladly' — 'excepted' should be 'accepted'.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "All four are correct. (i) 'Effect' is the noun (the effect of); 'affect' is the verb. (ii) 'Advice' is the noun (a piece of advice); 'advise' is the verb. (iii) 'Principal' is the head of a school; 'principle' means a rule or belief. (iv) 'Accepted' means to receive willingly; 'excepted' means excluded. All four sentences use the wrong word of a confusable pair."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'Hardly had he reached the station than the train departed from platform number three.'",
+      "options": ["Hardly had he reached", "the station than", "the train departed from", "platform number three"],
+      "correctAnswer": "the station than",
+      "explanation": "'Hardly...than' is incorrect. The correct correlative is 'Hardly...when' (or 'Scarcely...when'). It should be 'the station when'. 'Hardly had he reached' uses correct inversion after 'Hardly'. 'The train departed from' is grammatically correct. 'Platform number three' is correct."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Match the following errors with the grammatical rule they violate:\n\nColumn I:\n(a) I, you and he are going.\n(b) Unless you do not work hard, you will fail.\n(c) He availed the opportunity.\n(d) She cut her hairs short.\n\nColumn II:\n(i) Double negative error\n(ii) Pronoun order error (correct: You, he and I)\n(iii) Uncountable noun treated as countable\n(iv) Missing reflexive pronoun (avail oneself of)\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "(a) 'I, you and he' should be 'You, he and I' — pronoun order rule: 2nd, 3rd, then 1st person (ii). (b) 'Unless' already implies negation; adding 'not' creates a double negative — should be 'Unless you work hard' (i). (c) 'Avail' requires reflexive usage: 'availed himself of the opportunity' (iv). (d) 'Hairs' is wrong — 'hair' (uncountable) when referring to hair on one's head: 'cut her hair short' (iii)."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'The informations given by the witness was found to be incorrect by the investigating officer.'",
+      "options": ["The informations given by", "the witness was found", "to be incorrect by", "the investigating officer"],
+      "correctAnswer": "The informations given by",
+      "explanation": "'Informations' is wrong because 'information' is an uncountable noun and cannot be made plural. It should be 'The information given by'. 'The witness was found' — 'was' correctly agrees with 'information' (singular). 'To be incorrect by' is correct passive construction. 'The investigating officer' is correct."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Consider the following statements about subject-verb agreement errors:\n\n(i) 'Bread and butter is my favourite breakfast' is correct because it refers to a single dish.\n(ii) 'Every boy and every girl were given a prize' is incorrect — 'Every...and every' takes a singular verb.\n(iii) 'The number of students are increasing' is incorrect — 'The number of' takes a singular verb.\n(iv) 'A number of students has passed' is incorrect — 'A number of' takes a plural verb.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "All four are correct. (i) 'Bread and butter' as a combined item takes singular 'is'. (ii) 'Every boy and every girl' emphasizes each individual — takes singular 'was given'. (iii) 'The number of' means a specific count (singular concept) — should be 'is increasing'. (iv) 'A number of' means 'many' (plural concept) — should be 'have passed'."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'He asked me that where was I going so late at night.'",
+      "options": ["He asked me that", "where was I going", "so late", "at night"],
+      "correctAnswer": "He asked me that",
+      "explanation": "'He asked me that' is wrong — in indirect questions, 'that' is not used before question words (where, what, when, etc.). The correct form is 'He asked me where I was going'. Also, 'where was I going' should be 'where I was going' (no inversion in indirect speech), but the primary error is the use of 'that'. 'So late' is correct. 'At night' is correct."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'I am working here since 2018' is grammatically incorrect.\nReason (R): When 'since' indicates a point in time from which an action continues to the present, the present perfect continuous tense must be used, not the present continuous.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'I am working here since 2018' is wrong; it should be 'I have been working here since 2018.' (R) is correct — 'since' with a point in time requires present perfect continuous for ongoing actions. (R) directly explains why (A) is incorrect."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'Being a rainy day, we decided to stay at home and watch a movie.'",
+      "options": ["Being a rainy day", "we decided to", "stay at home and", "watch a movie"],
+      "correctAnswer": "Being a rainy day",
+      "explanation": "'Being a rainy day' is a dangling participle — the participial phrase has no logical subject. 'We' cannot 'be a rainy day'. The correct form is 'It being a rainy day' or 'As it was a rainy day'. 'We decided to' is correct. 'Stay at home and' is correct. 'Watch a movie' is correct."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'He has been working in this company for the last ten years and he got promoted twice.'",
+      "options": ["He has been working", "in this company for", "the last ten years and", "he got promoted twice"],
+      "correctAnswer": "he got promoted twice",
+      "explanation": "'He got promoted twice' uses simple past, which is inconsistent when talking about events within a period that continues to the present ('for the last ten years'). It should be 'he has been promoted twice' (present perfect). 'He has been working' correctly uses present perfect continuous. 'In this company for' is correct. 'The last ten years and' is correct."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "Fill in the blank to correct the error: 'She is __________ than her sister' (choosing between 'elder' and 'older').",
+      "options": ["elder", "older", "more elder", "most old"],
+      "correctAnswer": "older",
+      "explanation": "'Older' is correct because 'older than' is used for general comparisons of age. 'Elder' cannot be followed by 'than' — it is used only attributively before a noun (e.g., 'my elder sister'). 'More elder' is wrong because 'elder' doesn't take 'more'. 'Most old' is wrong because the superlative of 'old' is 'oldest'."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Which of the following sentences are FREE from grammatical errors?\n\n(i) The committee have taken its decision unanimously.\n(ii) Neither he nor his friends were invited to the party.\n(iii) She is one of the tallest girls who have ever studied here.\n(iv) Each of the boys were given a book and a pen.\n\nSelect the correct combination:",
+      "options": ["(ii) and (iii) only", "(i) and (iv) only", "(i), (ii) and (iii)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(ii) and (iii) only",
+      "explanation": "(ii) is correct — in 'neither...nor', the verb agrees with the nearest subject 'friends' (plural), so 'were' is right. (iii) is correct — 'who' refers to 'girls' (plural), so 'have' is correct. (i) is wrong — 'have' (plural) conflicts with 'its' (singular); it should be either 'has taken its' or 'have taken their'. (iv) is wrong — 'Each' is singular and requires 'was given'."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Match the following incorrect sentences with their corrected versions:\n\nColumn I:\n(a) He did not knew the answer.\n(b) She does not talks to strangers.\n(c) They has completed the work.\n(d) He have been waiting for an hour.\n\nColumn II:\n(i) They have completed the work.\n(ii) He did not know the answer.\n(iii) He has been waiting for an hour.\n(iv) She does not talk to strangers.\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "(a) 'Did not knew' → 'did not know' — after 'did', the base form of the verb is used (ii). (b) 'Does not talks' → 'does not talk' — after 'does', the base form is used without 's' (iv). (c) 'They has' → 'They have' — 'They' takes 'have', not 'has' (i). (d) 'He have' → 'He has' — third person singular takes 'has' (iii)."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'If I would have studied harder, I would have passed the examination easily.'",
+      "options": ["If I would have", "studied harder", "I would have passed", "the examination easily"],
+      "correctAnswer": "If I would have",
+      "explanation": "'If I would have' is incorrect in conditional sentences. In the past unreal (third) conditional, the 'if' clause must use the past perfect: 'If I had studied harder'. 'Would have' belongs only in the main clause, not the 'if' clause. 'Studied harder' is the correct past participle + adverb. 'I would have passed' is the correct main clause in third conditional. 'The examination easily' is correct."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Spot the error in the following sentence: 'The children enjoyed very much at the picnic and returned home happily.'",
+      "options": ["The children enjoyed", "very much at", "the picnic and", "returned home happily"],
+      "correctAnswer": "very much at",
+      "explanation": "'Enjoyed very much at' is wrong — 'enjoy' is a transitive verb that needs a direct object. The correct form is 'enjoyed themselves very much at' or 'enjoyed the picnic very much'. You cannot use 'enjoy' without an object (a noun/pronoun or reflexive). 'The children' is correct. 'The picnic and' is correct. 'Returned home happily' is correct."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Consider the following statements about errors with 'unless' and 'until':\n\n(i) 'Unless you will not study, you cannot pass' has a double negative error.\n(ii) 'Until he does not come, we cannot start' is incorrect — 'until' should not be followed by 'not'.\n(iii) 'Unless you come on time, you will miss the bus' is correct.\n(iv) 'Until she arrives, we shall wait here' is correct.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "All four are correct. (i) 'Unless' already contains negative force, so adding 'not' creates a double negative — should be 'Unless you study'. (ii) Similarly, 'until' in this context already implies 'before the time that' — adding 'not' is redundant and wrong — should be 'Until he comes'. (iii) is correctly structured — 'Unless you come' (no extra negative). (iv) is correct — 'Until she arrives' properly uses 'until' without a negative."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "Fill in the blank to correct the error: The sentence 'He is __________ to lift this heavy box' should use:",
+      "options": ["enough strong", "strong enough", "too strong", "much strong"],
+      "correctAnswer": "strong enough",
+      "explanation": "'Strong enough' is correct because 'enough' always comes AFTER an adjective (adjective + enough + to-infinitive). 'Enough strong' places 'enough' before the adjective, which is wrong. 'Too strong' would imply excess (he is excessively strong), changing the meaning entirely. 'Much strong' is ungrammatical — 'much' doesn't modify adjectives in the positive degree without 'too'."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'He is more cleverer than his brother' contains an error of double comparison.\nReason (R): One-syllable and some two-syllable adjectives form comparatives by adding '-er', and using 'more' together with '-er' is grammatically redundant.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'more cleverer' is a double comparative error. (R) is correct — adjectives like 'clever' form comparatives with '-er' alone ('cleverer'), so adding 'more' is redundant. (R) directly explains why (A) is an error — the double marking of comparison is grammatically wrong."
+    }
+  ]
+}

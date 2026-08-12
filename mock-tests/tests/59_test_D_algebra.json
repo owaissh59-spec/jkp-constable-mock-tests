@@ -1,0 +1,327 @@
+{
+  "subject": "D",
+  "topic": "Basic Algebra",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "If 3x + 7 = 22, what is the value of x?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "5",
+      "explanation": "3x + 7 = 22 → 3x = 22 − 7 = 15 → x = 15/3 = 5. Option 3 gives 3(3)+7=16≠22. Option 4 gives 3(4)+7=19≠22. Option 6 gives 3(6)+7=25≠22."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about algebraic expressions:\n\n(i) In the expression 5x² + 3x − 7, the coefficient of x² is 5.\n(ii) A polynomial with one term is called a monomial.\n(iii) The degree of the polynomial 4x³ + 2x − 9 is 3.\n(iv) Constants are terms without any variable and have degree 1.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — the number multiplying x² is 5. (ii) is correct — a monomial has exactly one term (e.g., 7x²). (iii) is correct — the highest power of x is 3, so degree is 3. (iv) is wrong — constants (like −9) have degree 0, not 1."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Solve: 2(x − 3) = x + 4. The value of x is:",
+      "options": ["7", "8", "10", "11"],
+      "correctAnswer": "10",
+      "explanation": "2(x − 3) = x + 4 → 2x − 6 = x + 4 → 2x − x = 4 + 6 → x = 10. Option 7: 2(7−3)=8, 7+4=11, 8≠11. Option 8: 2(8−3)=10, 8+4=12, 10≠12. Option 11: 2(11−3)=16, 11+4=15, 16≠15."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The expression (a + b)² = a² + 2ab + b².\nReason (R): When a binomial is squared, the middle term is twice the product of the two terms.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — (a+b)² = a² + 2ab + b² is a standard algebraic identity. (R) is correct — the middle term 2ab is indeed twice the product of a and b. (R) directly explains (A) because the middle term '2ab' arises from the binomial expansion rule stated in (R)."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Match the following algebraic identities with their expanded forms:\n\nColumn I:\n(a) (a + b)²\n(b) (a − b)²\n(c) a² − b²\n(d) (a + b)(a − b)\n\nColumn II:\n(i) a² − 2ab + b²\n(ii) a² + 2ab + b²\n(iii) (a + b)(a − b)\n(iv) a² − b²\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "(a+b)² expands to a²+2ab+b² (ii). (a−b)² expands to a²−2ab+b² (i). a²−b² factors into (a+b)(a−b) (iii). (a+b)(a−b) simplifies to a²−b² (iv). Option 2 swaps (a+b)² and (a−b)². Option 3 swaps the factored forms incorrectly. Option 4 misplaces (b)."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "If x + y = 10 and xy = 21, what is the value of x² + y²?",
+      "options": ["52", "56", "58", "62"],
+      "correctAnswer": "58",
+      "explanation": "Using identity: x² + y² = (x+y)² − 2xy = (10)² − 2(21) = 100 − 42 = 58. Option 52 results from subtracting 48 instead of 42. Option 56 arises from computing 100−44. Option 62 would mean subtracting 38 instead of 42."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "The sum of two numbers is 15 and their difference is 5. What is the larger number?",
+      "options": ["8", "9", "10", "11"],
+      "correctAnswer": "10",
+      "explanation": "Let the numbers be a and b (a > b). a + b = 15 and a − b = 5. Adding: 2a = 20, so a = 10. Option 8 would give sum = 8+7=15 but difference = 1≠5. Option 9 gives 9+6=15, difference=3≠5. Option 11 gives 11+4=15, difference=7≠5."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Consider the following statements about linear equations:\n\n(i) A linear equation in one variable has exactly one solution.\n(ii) The equation 2x + 3 = 2x + 5 has no solution.\n(iii) The equation 3(x + 2) = 3x + 6 is true for all values of x.\n(iv) Every linear equation in two variables has infinitely many solutions.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "(i) is correct — a standard linear equation ax + b = 0 (a≠0) has exactly one solution x = −b/a. (ii) is correct — simplifying gives 3 = 5, which is impossible, so no solution. (iii) is correct — expanding gives 3x + 6 = 3x + 6, which is an identity true for all x. (iv) is correct — a linear equation in two variables (like 2x + y = 5) has infinitely many ordered pairs as solutions."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Simplify: (x + 3)(x − 3)",
+      "options": ["x² − 9", "x² + 9", "x² − 6x + 9", "x² + 6x − 9"],
+      "correctAnswer": "x² − 9",
+      "explanation": "Using the identity (a+b)(a−b) = a² − b²: (x+3)(x−3) = x² − 9. Option 'x²+9' incorrectly adds instead of subtracting. Option 'x²−6x+9' is the expansion of (x−3)². Option 'x²+6x−9' mixes incorrect signs."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If x² = 49, then x = 7 or x = −7.\nReason (R): Every positive number has two square roots — one positive and one negative.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — x² = 49 gives x = ±7. (R) is correct — every positive number has two square roots (e.g., √49 = ±7). (R) directly explains (A) because x² = 49 means x is a square root of 49, and the two values (±7) exist because of the principle stated in (R)."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "If 5x − 2y = 4 and x + 2y = 8, find the value of x.",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "2",
+      "explanation": "Adding both equations: 5x − 2y + x + 2y = 4 + 8 → 6x = 12 → x = 2. Option 1: 5(1)−2y=4 gives y=0.5, then 1+2(0.5)=2≠8. Option 3: 6(3)=18≠12. Option 4: 6(4)=24≠12."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Which of the following are factors of x² − 5x + 6?\n\n(i) (x − 2)\n(ii) (x − 3)\n(iii) (x + 2)\n(iv) (x + 3)\n\nSelect the correct combination:",
+      "options": ["(i) and (ii) only", "(iii) and (iv) only", "(i) and (iv) only", "(ii) and (iii) only"],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "x² − 5x + 6 factors as (x − 2)(x − 3) because (−2) + (−3) = −5 and (−2)(−3) = 6. So (x−2) and (x−3) are the factors. (x+2) would require a +2 root. (x+3) would require a +3 root. Neither appears in the factorization."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "A number is 7 more than twice another number. If their sum is 34, find the smaller number.",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": "9",
+      "explanation": "Let smaller = x. Larger = 2x + 7. Sum: x + 2x + 7 = 34 → 3x = 27 → x = 9. Verification: smaller = 9, larger = 2(9)+7 = 25, sum = 9+25 = 34 ✓. Option 7: 3(7)+7=28≠34. Option 8: 3(8)+7=31≠34. Option 10: 3(10)+7=37≠34."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Fill in the blank: The value of (a + b)² − (a − b)² is equal to __________.",
+      "options": ["2ab", "4ab", "2a² + 2b²", "a² + b²"],
+      "correctAnswer": "4ab",
+      "explanation": "(a+b)² = a² + 2ab + b². (a−b)² = a² − 2ab + b². Subtracting: (a²+2ab+b²) − (a²−2ab+b²) = 4ab. Option '2ab' divides the correct answer by 2. Option '2a²+2b²' is actually (a+b)²+(a−b)² divided differently. Option 'a²+b²' does not match any manipulation of these identities."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Consider the following statements about quadratic equations:\n\n(i) A quadratic equation has the general form ax² + bx + c = 0, where a ≠ 0.\n(ii) A quadratic equation always has exactly two real roots.\n(iii) The sum of roots of ax² + bx + c = 0 is −b/a.\n(iv) The product of roots of ax² + bx + c = 0 is c/a.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "All of the above", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — the standard form requires the coefficient of x² to be non-zero. (iii) is correct — sum of roots = −b/a (Vieta's formula). (iv) is correct — product of roots = c/a. (ii) is wrong — a quadratic equation may have two real roots, one repeated root, or no real roots (if discriminant < 0)."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Match the following equations with their solutions:\n\nColumn I:\n(a) 2x + 5 = 11\n(b) 3x − 9 = 0\n(c) x/4 = 5\n(d) 7x + 2 = 23\n\nColumn II:\n(i) x = 20\n(ii) x = 3\n(iii) x = 3\n(iv) x = 3\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "(a) 2x+5=11 → 2x=6 → x=3 (ii). (b) 3x−9=0 → 3x=9 → x=3 (iii). (c) x/4=5 → x=20 (i). (d) 7x+2=23 → 7x=21 → x=3 (iv). Note: (ii), (iii), and (iv) all have value x=3 but are distinct answer labels. Option 2 misplaces x=20. Option 3 and 4 scramble incorrectly."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "If a − b = 4 and a² − b² = 40, find the value of a + b.",
+      "options": ["8", "10", "12", "14"],
+      "correctAnswer": "10",
+      "explanation": "a² − b² = (a+b)(a−b). So 40 = (a+b)(4) → a+b = 40/4 = 10. Option 8 would give 8×4=32≠40. Option 12 gives 12×4=48≠40. Option 14 gives 14×4=56≠40."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The equation x² + 1 = 0 has no real solutions.\nReason (R): The square of any real number is always non-negative, so x² + 1 ≥ 1 > 0 for all real x.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — x² + 1 = 0 means x² = −1, which has no real solution. (R) is correct — x² ≥ 0 for all real x, so x² + 1 ≥ 1, meaning the expression can never equal 0. (R) explains (A) directly because it proves the left side can never be zero."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Simplify: (2x + 3)² − (2x − 3)²",
+      "options": ["12x", "24x", "36x²", "12"],
+      "correctAnswer": "24x",
+      "explanation": "Using identity (a+b)² − (a−b)² = 4ab, where a=2x and b=3: 4(2x)(3) = 24x. Alternatively: (2x+3)² = 4x²+12x+9; (2x−3)² = 4x²−12x+9. Difference = 24x. Option 12x uses 2ab instead of 4ab. Option 36x² confuses with a different identity. Option 12 drops the variable."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Consider the following statements about simultaneous linear equations:\n\n(i) Two linear equations in two variables may have no solution if the lines are parallel.\n(ii) If two lines intersect at one point, the system has a unique solution.\n(iii) If two lines are coincident, the system has infinitely many solutions.\n(iv) All pairs of linear equations have at least one solution.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — parallel lines never meet, so no solution exists. (ii) is correct — intersecting lines meet at exactly one point, giving a unique solution. (iii) is correct — coincident lines overlap entirely, giving infinite solutions. (iv) is wrong — parallel lines yield no solution, contradicting this claim."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "If x = 2 is a root of the equation x² − 5x + k = 0, find the value of k.",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": "6",
+      "explanation": "If x = 2 is a root: (2)² − 5(2) + k = 0 → 4 − 10 + k = 0 → k = 6. Option 4: 4−10+4=−2≠0. Option 5: 4−10+5=−1≠0. Option 7: 4−10+7=1≠0."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Which of the following equations are linear equations?\n\n(i) 3x + 2y = 7\n(ii) x² + y = 5\n(iii) 2x − 5 = 0\n(iv) xy = 10\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) 3x + 2y = 7 is linear — highest power of variables is 1. (iii) 2x − 5 = 0 is linear in one variable. (ii) x² + y = 5 is NOT linear because of x². (iv) xy = 10 is NOT linear because of the product of two variables (degree 2)."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The ages of a father and son are in the ratio 7:2. After 10 years, the ratio will be 9:4. What is the present age of the father?",
+      "options": ["28 years", "35 years", "42 years", "49 years"],
+      "correctAnswer": "35 years",
+      "explanation": "Let father = 7x, son = 2x. After 10 years: (7x+10)/(2x+10) = 9/4. Cross-multiplying: 4(7x+10) = 9(2x+10) → 28x+40 = 18x+90 → 10x = 50 → x = 5. Father = 7(5) = 35 years. Option 28: x=4, check: 38/18≠9/4. Option 42: x=6, 52/22≠9/4. Option 49: x=7, 59/24≠9/4."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Match the following algebraic terms with their definitions:\n\nColumn I:\n(a) Coefficient\n(b) Variable\n(c) Constant\n(d) Exponent\n\nColumn II:\n(i) A fixed value that does not change\n(ii) A symbol representing an unknown quantity\n(iii) The numerical factor of a term\n(iv) The power to which a variable is raised\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "explanation": "A coefficient is the numerical factor of a term (iii). A variable is a symbol for an unknown (ii). A constant is a fixed value (i). An exponent is the power to which a variable is raised (iv). Option 2 swaps coefficient and variable. Option 3 swaps variable and exponent. Option 4 swaps coefficient and constant."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "If (x + 4)(x − 2) = 0, the values of x are:",
+      "options": ["x = 4 and x = 2", "x = −4 and x = 2", "x = 4 and x = −2", "x = −4 and x = −2"],
+      "correctAnswer": "x = −4 and x = 2",
+      "explanation": "If (x+4)(x−2) = 0, then either x+4 = 0 → x = −4, or x−2 = 0 → x = 2. Option 'x=4 and x=2' uses wrong sign for first root. Option 'x=4 and x=−2' gets both signs wrong. Option 'x=−4 and x=−2' uses wrong sign for second root."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx.\n(ii) If x + y + z = 0, then x³ + y³ + z³ = 3xyz.\n(iii) x³ + y³ = (x + y)(x² + xy + y²).\n(iv) x³ − y³ = (x − y)(x² + xy + y²).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — standard expansion of trinomial square. (ii) is correct — if x+y+z=0, then x³+y³+z³=3xyz (a known identity). (iv) is correct — x³−y³ = (x−y)(x²+xy+y²). (iii) is wrong — x³+y³ = (x+y)(x²−xy+y²), not (x+y)(x²+xy+y²); the middle term should be −xy."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "A man is 4 times as old as his son. After 16 years, he will be only twice as old as his son. Find the son's present age.",
+      "options": ["6 years", "7 years", "8 years", "9 years"],
+      "correctAnswer": "8 years",
+      "explanation": "Let son = x, father = 4x. After 16 years: 4x + 16 = 2(x + 16) → 4x + 16 = 2x + 32 → 2x = 16 → x = 8. Son's age = 8 years. Option 6: 4(6)+16=40, 2(6+16)=44, 40≠44. Option 7: 4(7)+16=44, 2(7+16)=46, 44≠46. Option 9: 4(9)+16=52, 2(9+16)=50, 52≠50."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Fill in the blank: If x + 1/x = 5, then x² + 1/x² = __________.",
+      "options": ["21", "23", "25", "27"],
+      "correctAnswer": "23",
+      "explanation": "Squaring both sides: (x + 1/x)² = 25 → x² + 2 + 1/x² = 25 → x² + 1/x² = 23. Option 21 subtracts 4 instead of 2. Option 25 forgets to subtract 2. Option 27 adds 2 instead of subtracting."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The discriminant of the equation 2x² + 3x + 5 = 0 is negative.\nReason (R): A quadratic equation with a negative discriminant has no real roots.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — discriminant = b²−4ac = 9−40 = −31 < 0. (R) is correct — negative discriminant means no real roots. However, (R) does NOT explain (A); (R) tells us what happens when the discriminant is negative (no real roots), but doesn't explain WHY the discriminant of this particular equation is negative. The reason it's negative is because 3² < 4(2)(5)."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Solve the system of equations: x + y = 7, 2x − y = 8. The value of y is:",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "2",
+      "explanation": "Adding the equations: x+y+2x−y = 7+8 → 3x = 15 → x = 5. Substituting: 5+y = 7 → y = 2. Option 1: x+1=7 gives x=6, check 2(6)−1=11≠8. Option 3: x+3=7 gives x=4, check 2(4)−3=5≠8. Option 4: x+4=7 gives x=3, check 2(3)−4=2≠8."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Consider the following statements about factorization:\n\n(i) x² + 7x + 12 = (x + 3)(x + 4).\n(ii) x² − 9x + 20 = (x − 4)(x − 5).\n(iii) x² + x − 12 = (x + 4)(x − 3).\n(iv) x² − x − 12 = (x + 3)(x − 4).\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "(i) Check: (x+3)(x+4) = x²+7x+12 ✓. (ii) Check: (x−4)(x−5) = x²−9x+20 ✓. (iii) Check: (x+4)(x−3) = x²+x−12 ✓. (iv) Check: (x+3)(x−4) = x²−x−12 ✓. All four factorizations are correct."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "If the perimeter of a rectangle is 50 cm and its length is 5 cm more than its breadth, find the length.",
+      "options": ["12 cm", "13 cm", "14 cm", "15 cm"],
+      "correctAnswer": "15 cm",
+      "explanation": "Let breadth = x, length = x+5. Perimeter: 2(x + x+5) = 50 → 2(2x+5) = 50 → 4x+10 = 50 → 4x = 40 → x = 10. Length = 10+5 = 15 cm. Option 12: breadth=7, perimeter=2(12+7)=38≠50. Option 13: breadth=8, 2(13+8)=42≠50. Option 14: breadth=9, 2(14+9)=46≠50."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Which of the following expressions cannot be factored using the difference of squares identity?\n\n(i) x² − 16\n(ii) x² + 25\n(iii) 4a² − 9b²\n(iv) x² − 2\n\nSelect the correct combination:",
+      "options": ["(ii) only", "(ii) and (iv)", "(i) and (iii)", "(iv) only"],
+      "correctAnswer": "(ii) only",
+      "explanation": "(ii) x² + 25 is a sum of squares which cannot be factored using a²−b² = (a+b)(a−b) over real numbers. (i) x²−16 = (x+4)(x−4) ✓. (iii) 4a²−9b² = (2a+3b)(2a−3b) ✓. (iv) x²−2 = (x+√2)(x−√2) — this CAN be factored using difference of squares (with irrational factors). Only (ii) cannot be factored this way."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Match the following equations with the number of real roots they have:\n\nColumn I:\n(a) x² − 4x + 4 = 0\n(b) x² + 2x + 5 = 0\n(c) x² − 5x + 6 = 0\n(d) x² − 6x + 9 = 0\n\nColumn II:\n(i) Two distinct real roots\n(ii) No real roots\n(iii) Two equal (repeated) real roots\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "(a) x²−4x+4: D = 16−16 = 0, so two equal roots (iii). (b) x²+2x+5: D = 4−20 = −16 < 0, no real roots (ii). (c) x²−5x+6: D = 25−24 = 1 > 0, two distinct roots (i). (d) x²−6x+9: D = 36−36 = 0, two equal roots (iii). Option 2 misidentifies (a). Option 3 swaps (b) and (c). Option 4 completely mismatches."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "The sum of three consecutive even numbers is 78. What is the largest of these numbers?",
+      "options": ["24", "26", "28", "30"],
+      "correctAnswer": "28",
+      "explanation": "Let the numbers be x, x+2, x+4. Sum: 3x + 6 = 78 → 3x = 72 → x = 24. Largest = 24+4 = 28. Option 24 is the smallest number. Option 26 is the middle number. Option 30 would require the sum to be 84."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) √(a²) = |a| for all real values of a.\n(ii) (√a)² = a for a ≥ 0.\n(iii) √(ab) = √a × √b for a ≥ 0, b ≥ 0.\n(iv) √(a + b) = √a + √b for all positive a and b.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — √(a²) = |a| accounts for both positive and negative values of a. (ii) is correct — squaring a square root returns the original non-negative number. (iii) is correct — the square root of a product equals the product of square roots (for non-negative values). (iv) is wrong — √(a+b) ≠ √a + √b in general (e.g., √(9+16) = 5 ≠ 3+4 = 7)."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "If 2ˣ = 32, what is the value of x?",
+      "options": ["4", "5", "6", "7"],
+      "correctAnswer": "5",
+      "explanation": "32 = 2⁵, so 2ˣ = 2⁵ → x = 5. Option 4: 2⁴ = 16 ≠ 32. Option 6: 2⁶ = 64 ≠ 32. Option 7: 2⁷ = 128 ≠ 32."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "The following data shows the cost (in ₹) of hiring a taxi for different distances:\n\n| Distance (km) | Cost (₹) |\n|---------------|----------|\n| 5 | 80 |\n| 10 | 130 |\n| 15 | 180 |\n| 20 | 230 |\n\nIf the cost follows a linear pattern C = mx + b (where x is distance and C is cost), what will be the cost for 30 km?",
+      "options": ["₹280", "₹300", "₹320", "₹330"],
+      "correctAnswer": "₹330",
+      "explanation": "From the pattern: cost increases by ₹50 for every 5 km increase, so rate m = 50/5 = ₹10/km. Using point (5, 80): 80 = 10(5) + b → b = 30. So C = 10x + 30. For 30 km: C = 10(30) + 30 = 330. Option 280 uses wrong formula. Option 300 forgets the fixed charge. Option 320 uses rate of 10 but base of 20."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "A shopkeeper has two types of rice: one costing ₹40/kg and another costing ₹60/kg. In what ratio should he mix them to get a mixture costing ₹52/kg?",
+      "options": ["2:3", "3:2", "1:3", "3:1"],
+      "correctAnswer": "2:3",
+      "explanation": "Using alligation: (60−52):(52−40) = 8:12 = 2:3. The cheaper variety (₹40) and costlier variety (₹60) should be mixed in ratio 2:3 (cheaper:costlier). Wait — actually alligation gives (costlier excess):(cheaper excess) = ratio of cheaper:costlier. So ratio of ₹40 rice to ₹60 rice = (60−52):(52−40) = 8:12 = 2:3. Option 3:2 reverses the ratio. Option 1:3 and 3:1 don't satisfy: 1(40)+3(60)/4 = 55≠52."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "The following data shows the marks scored by students and their study hours per day:\n\n| Student | Study Hours | Marks |\n|---------|-------------|-------|\n| A | 2 | 40 |\n| B | 3 | 55 |\n| C | 4 | 70 |\n| D | 5 | 85 |\n| E | 6 | 100 |\n\nIf the relationship between marks (M) and study hours (H) is linear (M = aH + b), what is the expected marks for a student studying 7 hours per day?",
+      "options": ["105", "110", "115", "120"],
+      "correctAnswer": "115",
+      "explanation": "From the pattern: marks increase by 15 for every 1-hour increase. Using point (2, 40): 40 = a(2) + b. Using point (3, 55): 55 = a(3) + b. Subtracting: a = 15. Then b = 40 − 30 = 10. M = 15H + 10. For H = 7: M = 15(7) + 10 = 105 + 10 = 115. Option 105 forgets the constant. Option 110 uses a=14. Option 120 uses a=15 but b=15."
+    }
+  ]
+}

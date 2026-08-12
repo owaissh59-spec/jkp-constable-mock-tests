@@ -1,0 +1,407 @@
+{
+  "subject": "E",
+  "topic": "Computer Terminology & Fundamentals (Revision)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which of the following best describes the function of RAM in a computer?",
+      "options": ["Permanently stores the operating system", "Temporarily stores data and programs currently in use", "Processes arithmetic calculations", "Connects the computer to the internet"],
+      "correctAnswer": "Temporarily stores data and programs currently in use",
+      "explanation": "RAM (Random Access Memory) temporarily stores data and programs that are actively being used by the CPU. It does not permanently store anything — that's the role of ROM or hard drives. Processing calculations is done by the CPU/ALU. Connecting to internet is done by a network adapter."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about the CPU:\n\n(i) The CPU consists of the ALU, Control Unit, and Registers.\n(ii) The ALU performs both arithmetic and logical operations.\n(iii) The Control Unit executes calculations directly.\n(iv) Registers are small, fast memory locations within the CPU.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — CPU has three main components: ALU, CU, and Registers. (ii) is correct — ALU handles both arithmetic (+, −, ×, ÷) and logical (AND, OR, NOT) operations. (iv) is correct — registers are the fastest memory within the CPU. (iii) is wrong — the Control Unit does NOT execute calculations; it directs and coordinates operations. The ALU does the actual computing."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The acronym 'BIOS' stands for:",
+      "options": ["Binary Input Output System", "Basic Input Output System", "Broadband Internet Operating System", "Basic Integrated Operating Software"],
+      "correctAnswer": "Basic Input Output System",
+      "explanation": "BIOS stands for Basic Input Output System — it's firmware that initializes hardware during boot. 'Binary Input Output System' is fabricated. 'Broadband Internet Operating System' doesn't exist. 'Basic Integrated Operating Software' is also incorrect."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): ROM retains its data even when the computer is switched off.\nReason (R): ROM is a non-volatile memory that does not require continuous power to maintain stored information.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — ROM retains data without power. (R) is correct — non-volatile means data persists without power. (R) directly explains (A) because the non-volatile nature of ROM is exactly why it retains data when the computer is off."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Match the following memory units with their equivalents:\n\nColumn I:\n(a) 1 Kilobyte (KB)\n(b) 1 Megabyte (MB)\n(c) 1 Gigabyte (GB)\n(d) 1 Terabyte (TB)\n\nColumn II:\n(i) 1024 GB\n(ii) 1024 Bytes\n(iii) 1024 KB\n(iv) 1024 MB\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "1 KB = 1024 Bytes (ii). 1 MB = 1024 KB (iii). 1 GB = 1024 MB (iv). 1 TB = 1024 GB (i). Option 2 swaps KB and MB. Option 3 swaps MB and GB. Option 4 misplaces all units."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which generation of computers introduced the use of Integrated Circuits (ICs)?",
+      "options": ["First Generation", "Second Generation", "Third Generation", "Fourth Generation"],
+      "correctAnswer": "Third Generation",
+      "explanation": "Third generation computers (1964–1971) used Integrated Circuits (ICs). First generation used vacuum tubes. Second generation used transistors. Fourth generation uses microprocessors (VLSI)."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Which of the following are volatile memory types?\n\n(i) RAM\n(ii) ROM\n(iii) Cache memory\n(iv) Hard Disk\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i) and (ii) only", "(i), (iii) and (iv)", "(ii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "RAM (i) and Cache memory (iii) are volatile — they lose data when power is off. ROM (ii) is non-volatile — it retains data permanently. Hard Disk (iv) is non-volatile — data persists without power."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "The process of starting a computer and loading the operating system into RAM is called:",
+      "options": ["Compiling", "Booting", "Formatting", "Debugging"],
+      "correctAnswer": "Booting",
+      "explanation": "Booting is the process of starting up a computer and loading the OS. Compiling is translating source code into machine code. Formatting is preparing a storage device for use. Debugging is finding and fixing errors in programs."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware resources and provides a user interface.\n(ii) Windows, Linux, and macOS are examples of operating systems.\n(iii) An operating system is an example of application software.\n(iv) The OS acts as an intermediary between the user and computer hardware.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — OS manages CPU, memory, devices and provides UI. (ii) is correct — these are all popular operating systems. (iv) is correct — OS bridges the gap between user and hardware. (iii) is wrong — an OS is system software, not application software."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "The keyboard shortcut 'Ctrl + C' is universally used for:",
+      "options": ["Closing a window", "Copying selected content", "Creating a new file", "Cutting selected content"],
+      "correctAnswer": "Copying selected content",
+      "explanation": "Ctrl + C copies selected content to the clipboard. Closing a window uses Alt + F4. Creating a new file uses Ctrl + N. Cutting uses Ctrl + X."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer cannot function without an operating system.\nReason (R): The operating system provides the essential interface between hardware and application programs, managing all system resources.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — without an OS, users cannot interact with hardware or run applications. (R) is correct — the OS manages all resources and provides necessary interfaces. (R) explains (A) because the reason a computer needs an OS is precisely that it provides these essential management and interface functions."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a function of the Control Unit?",
+      "options": ["Fetching instructions from memory", "Decoding instructions", "Performing arithmetic calculations", "Coordinating the activities of all computer components"],
+      "correctAnswer": "Performing arithmetic calculations",
+      "explanation": "Performing arithmetic calculations is the function of the ALU, not the Control Unit. The CU fetches instructions (correct function). It decodes them (correct function). It coordinates all components (correct function). The CU directs traffic; the ALU does the math."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) LAN stands for Local Area Network and covers a small geographical area.\n(ii) WAN stands for Wide Area Network and can span countries or continents.\n(iii) The Internet is the largest example of a WAN.\n(iv) MAN stands for Metropolitan Area Network and covers a city-sized area.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "All four are correct. (i) LAN covers a building or campus. (ii) WAN spans large areas like countries. (iii) The Internet is indeed the world's largest WAN. (iv) MAN covers a metropolitan/city area, between LAN and WAN in scope."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Match the following file extensions with their types:\n\nColumn I:\n(a) .docx\n(b) .xlsx\n(c) .pptx\n(d) .pdf\n\nColumn II:\n(i) Spreadsheet file\n(ii) Presentation file\n(iii) Word processing document\n(iv) Portable document format\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": ".docx is a Word document (iii). .xlsx is an Excel spreadsheet (i). .pptx is a PowerPoint presentation (ii). .pdf is Portable Document Format (iv). Option 2 swaps document and spreadsheet. Option 3 swaps spreadsheet and presentation. Option 4 misplaces all."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "The term 'bandwidth' in computer networking refers to:",
+      "options": ["The physical width of the network cable", "The maximum rate of data transfer across a network", "The number of computers connected to a network", "The distance a signal can travel"],
+      "correctAnswer": "The maximum rate of data transfer across a network",
+      "explanation": "Bandwidth is the maximum data transfer rate of a network connection, measured in bits per second (bps). It's not about physical cable width. It's not the count of connected devices. It's not about signal distance (that's range)."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Which of the following correctly describes 'cloud computing'?",
+      "options": ["Computing that works only in cloudy weather", "Storing and accessing data and programs over the Internet instead of local storage", "A type of computer hardware shaped like clouds", "Computing without electricity using solar power"],
+      "correctAnswer": "Storing and accessing data and programs over the Internet instead of local storage",
+      "explanation": "Cloud computing delivers computing services (storage, processing, software) over the Internet. It has nothing to do with weather conditions. It's not a hardware form factor. It's not about solar-powered computing."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer viruses:\n\n(i) A virus is a malicious program that replicates itself and infects other files.\n(ii) Antivirus software can detect and remove viruses.\n(iii) A virus can spread through email attachments, USB drives, and downloads.\n(iv) All software downloaded from the internet contains viruses.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — viruses replicate by attaching to files. (ii) is correct — antivirus programs scan and remove malware. (iii) is correct — viruses spread through various media. (iv) is wrong — not ALL internet software has viruses; many programs from trusted sources are completely safe."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): SSD (Solid State Drive) is faster than a traditional HDD (Hard Disk Drive).\nReason (R): SSD uses flash memory chips with no moving parts, while HDD uses spinning magnetic platters and a read/write head.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — SSDs are significantly faster than HDDs in read/write speeds. (R) is correct — SSDs use flash memory without moving parts while HDDs have spinning disks. (R) explains (A) because the absence of mechanical parts allows electronic access which is much faster than waiting for platters to spin to the right position."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "The full form of 'URL' is:",
+      "options": ["Universal Resource Locator", "Uniform Resource Locator", "United Resource Link", "Universal Reference Location"],
+      "correctAnswer": "Uniform Resource Locator",
+      "explanation": "URL stands for Uniform Resource Locator — the address of a web page on the Internet. 'Universal Resource Locator' uses 'Universal' instead of the correct 'Uniform'. 'United Resource Link' is fabricated. 'Universal Reference Location' is also incorrect."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Which of the following are examples of output devices?\n\n(i) Monitor\n(ii) Printer\n(iii) Scanner\n(iv) Projector\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Monitor (i), Printer (ii), and Projector (iv) are output devices — they display or produce output from the computer. Scanner (iii) is an INPUT device — it converts physical documents/images into digital form for the computer."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Fill in the blank: The smallest unit of data in a computer is a __________, which can have a value of either 0 or 1.",
+      "options": ["Byte", "Bit", "Nibble", "Word"],
+      "correctAnswer": "Bit",
+      "explanation": "A Bit (Binary Digit) is the smallest unit of data, representing 0 or 1. A Byte is 8 bits. A Nibble is 4 bits. A Word is typically 16, 32, or 64 bits depending on the processor architecture."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "The 'Taskbar' in Windows operating system is used to:",
+      "options": ["Store deleted files", "Display running applications and provide quick access to features", "Format the hard drive", "Install new software"],
+      "correctAnswer": "Display running applications and provide quick access to features",
+      "explanation": "The Taskbar shows open programs, the Start button, system tray, and clock — providing quick navigation. Storing deleted files is done by the Recycle Bin. Formatting is done through Disk Management. Installing software is done through setup programs."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Consider the following statements about secondary storage:\n\n(i) Secondary storage is non-volatile — data persists when power is off.\n(ii) It is slower than primary memory (RAM) but has much larger capacity.\n(iii) Examples include hard drives, SSDs, USB flash drives, and optical discs.\n(iv) Secondary storage is directly accessed by the CPU for execution.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — secondary storage retains data without power. (ii) is correct — it's slower but offers TB of storage. (iii) is correct — all listed are secondary storage devices. (iv) is wrong — the CPU does NOT directly access secondary storage; data must first be loaded into RAM before the CPU can process it."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Match the following computer generations with their key technology:\n\nColumn I:\n(a) First Generation (1940–1956)\n(b) Second Generation (1956–1963)\n(c) Third Generation (1964–1971)\n(d) Fourth Generation (1971–present)\n\nColumn II:\n(i) Microprocessors (VLSI)\n(ii) Vacuum Tubes\n(iii) Integrated Circuits (ICs)\n(iv) Transistors\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "First gen used Vacuum Tubes (ii). Second gen used Transistors (iv). Third gen used ICs (iii). Fourth gen uses Microprocessors/VLSI (i). Option 2 swaps first and second gen. Option 3 swaps second and third gen. Option 4 reverses all."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Which protocol is used for sending emails over the Internet?",
+      "options": ["HTTP", "FTP", "SMTP", "TCP"],
+      "correctAnswer": "SMTP",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails. HTTP (HyperText Transfer Protocol) is for web pages. FTP (File Transfer Protocol) is for file transfers. TCP (Transmission Control Protocol) is a transport layer protocol, not specifically for email sending."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cache memory improves computer performance significantly.\nReason (R): Cache memory stores frequently accessed data and instructions, allowing the CPU to retrieve them faster than from RAM.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — cache significantly speeds up processing. (R) is correct — cache stores frequently used data closer to the CPU for faster access. (R) explains (A) because the performance improvement comes from reduced access time when data is found in cache rather than slower RAM."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The term 'phishing' in cybersecurity refers to:",
+      "options": ["A technique to speed up internet browsing", "Fraudulent attempts to obtain sensitive information by disguising as a trustworthy entity", "A method of fishing information from databases", "A type of computer virus that destroys files"],
+      "correctAnswer": "Fraudulent attempts to obtain sensitive information by disguising as a trustworthy entity",
+      "explanation": "Phishing is a social engineering attack where criminals impersonate legitimate organizations to steal passwords, credit card numbers, etc. It's not about speeding up browsing. It's not database querying. It's not a file-destroying virus — though viruses are different types of malware."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Consider the following statements about the binary number system:\n\n(i) Computers use the binary system because electronic circuits have two states — on and off.\n(ii) The binary system uses only digits 0 and 1.\n(iii) Each binary digit is called a 'bit'.\n(iv) The decimal number 10 is represented as 1100 in binary.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — binary suits electronic circuits with two voltage states. (ii) is correct — binary uses only 0 and 1. (iii) is correct — bit = binary digit. (iv) is wrong — decimal 10 in binary is 1010, not 1100. (1100 in binary = 12 in decimal)."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which of the following is the correct hierarchy of memory from fastest to slowest?",
+      "options": ["RAM → Cache → Registers → Hard Disk", "Registers → Cache → RAM → Hard Disk", "Cache → Registers → Hard Disk → RAM", "Hard Disk → RAM → Cache → Registers"],
+      "correctAnswer": "Registers → Cache → RAM → Hard Disk",
+      "explanation": "The correct speed hierarchy is: Registers (fastest, inside CPU) → Cache (very fast, near CPU) → RAM (fast, main memory) → Hard Disk (slowest, secondary storage). Option 1 incorrectly places RAM before Cache. Option 3 places Cache before Registers. Option 4 reverses the entire order."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Match the following software types with their examples:\n\nColumn I:\n(a) Operating System\n(b) Utility Software\n(c) Application Software\n(d) Programming Language\n\nColumn II:\n(i) Python\n(ii) Microsoft PowerPoint\n(iii) Disk Defragmenter\n(iv) Ubuntu Linux\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "Ubuntu Linux is an Operating System (iv). Disk Defragmenter is Utility Software (iii). Microsoft PowerPoint is Application Software (ii). Python is a Programming Language (i). Option 2 swaps OS and Utility. Option 3 swaps Application and Utility. Option 4 misplaces OS."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "The term 'GUI' refers to a type of user interface that uses:",
+      "options": ["Text commands typed at a prompt", "Graphical elements like windows, icons, menus, and pointers", "Voice commands only", "Physical switches and dials"],
+      "correctAnswer": "Graphical elements like windows, icons, menus, and pointers",
+      "explanation": "GUI (Graphical User Interface) uses visual elements like windows, icons, menus, and a pointer for interaction. Text commands at a prompt describe CLI (Command Line Interface). Voice commands describe voice UI. Physical switches describe early computer interfaces."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Consider the following statements about Internet protocols:\n\n(i) HTTP is used for accessing web pages.\n(ii) FTP is used for transferring files between computers.\n(iii) HTTPS is the secure version of HTTP, using encryption.\n(iv) IP address uniquely identifies every device on the Internet.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "All four are correct. (i) HTTP (HyperText Transfer Protocol) is for web access. (ii) FTP (File Transfer Protocol) handles file transfers. (iii) HTTPS adds SSL/TLS encryption to HTTP. (iv) Every internet-connected device has a unique IP address for identification."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Fill in the blank: A __________ is a malicious software that disguises itself as legitimate software to trick users into installing it.",
+      "options": ["Worm", "Trojan Horse", "Spyware", "Adware"],
+      "correctAnswer": "Trojan Horse",
+      "explanation": "A Trojan Horse appears to be useful/legitimate but contains hidden malicious code. A Worm self-replicates without needing to attach to other programs. Spyware secretly monitors user activity. Adware displays unwanted advertisements. The key distinguishing feature of a Trojan is its disguise as legitimate software."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A firewall is an essential security tool for computers connected to the Internet.\nReason (R): A firewall monitors and controls incoming and outgoing network traffic based on predetermined security rules.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — firewalls are essential for internet security. (R) is correct — firewalls monitor and filter traffic using security rules. (R) explains (A) because the monitoring and filtering of malicious traffic is exactly what makes firewalls essential for internet-connected computers."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of an operating system?\n\n(i) Memory management\n(ii) Process management\n(iii) File management\n(iv) Writing application programs\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) Memory management — OS allocates and deallocates RAM. (ii) Process management — OS handles running processes. (iii) File management — OS organizes files and directories. (iv) is wrong — writing application programs is done by programmers, not by the OS itself."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "The 'Recycle Bin' in Windows stores:",
+      "options": ["Files that have been permanently deleted", "Files that have been deleted but can still be restored", "System backup files", "Temporary internet files"],
+      "correctAnswer": "Files that have been deleted but can still be restored",
+      "explanation": "The Recycle Bin holds recently deleted files that can still be recovered/restored. Permanently deleted files (after emptying Recycle Bin) are not recoverable easily. System backups are stored elsewhere. Temporary internet files are in the browser cache."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer languages:\n\n(i) Machine language consists of binary code (0s and 1s) directly understood by the CPU.\n(ii) Assembly language uses mnemonics like ADD, MOV, SUB.\n(iii) High-level languages like C, Java, Python are closer to human language.\n(iv) Machine language programs are the easiest for humans to write.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — machine language is binary and directly executed by CPU. (ii) is correct — assembly uses short mnemonic codes. (iii) is correct — high-level languages resemble English. (iv) is wrong — machine language is the HARDEST for humans to write; high-level languages are the easiest."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Match the following keyboard shortcuts with their functions:\n\nColumn I:\n(a) Ctrl + V\n(b) Ctrl + Z\n(c) Ctrl + X\n(d) Alt + F4\n\nColumn II:\n(i) Close the active window\n(ii) Paste content from clipboard\n(iii) Cut selected content\n(iv) Undo the last action\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Ctrl+V pastes (ii). Ctrl+Z undoes (iv). Ctrl+X cuts (iii). Alt+F4 closes window (i). Option 2 swaps paste and cut. Option 3 swaps undo and cut. Option 4 swaps paste and undo."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "A file with the extension '.exe' indicates:",
+      "options": ["A text document", "An executable program file", "A spreadsheet file", "An image file"],
+      "correctAnswer": "An executable program file",
+      "explanation": ".exe indicates an executable program that can be run on Windows. A text document uses .txt or .doc. A spreadsheet uses .xls or .xlsx. An image file uses .jpg, .png, or .gif."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Consider the following statements about email:\n\n(i) CC (Carbon Copy) sends a copy to additional recipients visible to all.\n(ii) BCC (Blind Carbon Copy) hides the recipient's address from others.\n(iii) An email attachment can be any file type — documents, images, or videos.\n(iv) Emails can only be sent between users on the same network.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — CC recipients are visible to all. (ii) is correct — BCC hides recipients from others. (iii) is correct — any file type can be attached. (iv) is wrong — emails can be sent to anyone worldwide with an email address, across any network."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "If a file is 5 MB in size, how many KB (Kilobytes) is it?",
+      "options": ["500 KB", "5000 KB", "5120 KB", "5200 KB"],
+      "correctAnswer": "5120 KB",
+      "explanation": "1 MB = 1024 KB. So 5 MB = 5 × 1024 = 5120 KB. Option 500 divides by 10 instead of multiplying. Option 5000 uses 1000 instead of 1024. Option 5200 adds an incorrect amount."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Using strong passwords with a mix of uppercase, lowercase, numbers, and symbols makes accounts more secure.\nReason (R): Complex passwords are harder for hackers to guess or crack using brute force methods.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — complex passwords enhance security. (R) is correct — complexity increases the possible combinations, making brute force attacks impractical. (R) explains (A) because the difficulty of cracking is the direct reason why complex passwords provide better security."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "Which of the following best describes 'open source software'?",
+      "options": ["Software that is always free of cost", "Software whose source code is publicly available for modification and distribution", "Software that runs only on Linux", "Software with no copyright protection"],
+      "correctAnswer": "Software whose source code is publicly available for modification and distribution",
+      "explanation": "Open source software has publicly available source code that anyone can view, modify, and distribute. It's not always free of cost (some have paid support). It's not limited to Linux. It still has copyright protection (through licenses like GPL, MIT)."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer peripherals:\n\n(i) A webcam is an input device that captures video.\n(ii) A UPS (Uninterruptible Power Supply) provides backup power during outages.\n(iii) A router connects multiple devices to a network and routes data packets.\n(iv) A modem converts digital signals to analog and vice versa for internet communication.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "All four are correct. (i) Webcam captures video input. (ii) UPS provides battery backup during power failures. (iii) Router connects devices and directs network traffic. (iv) Modem modulates/demodulates signals for internet (MOdulator-DEModulator)."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "A computer with 8 GB of RAM has approximately how many bytes of memory?",
+      "options": ["8 billion bytes", "8.6 billion bytes", "8 million bytes", "800 million bytes"],
+      "correctAnswer": "8.6 billion bytes",
+      "explanation": "8 GB = 8 × 1024 × 1024 × 1024 bytes = 8,589,934,592 bytes ≈ 8.6 billion bytes. '8 billion' uses 1000 instead of 1024 for conversion. '8 million bytes' is 8 MB, not 8 GB. '800 million bytes' is roughly 0.8 GB."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "The term 'defragmentation' of a hard disk means:",
+      "options": ["Deleting all files from the disk", "Rearranging fragmented data so files are stored in contiguous blocks", "Formatting the disk for first-time use", "Scanning the disk for viruses"],
+      "correctAnswer": "Rearranging fragmented data so files are stored in contiguous blocks",
+      "explanation": "Defragmentation reorganizes scattered file fragments into contiguous blocks for faster access. It does not delete files. It is not formatting (which erases everything). It is not virus scanning (that's antivirus software's job)."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "Match the following terms with their descriptions:\n\nColumn I:\n(a) Virus\n(b) Worm\n(c) Trojan Horse\n(d) Spyware\n\nColumn II:\n(i) Self-replicating malware that spreads through networks without attaching to files\n(ii) Malicious code that attaches to files and requires human action to spread\n(iii) Software that secretly collects user data and browsing habits\n(iv) Malware disguised as legitimate software\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Virus attaches to files and needs human action (ii). Worm self-replicates through networks independently (i). Trojan Horse disguises as legitimate software (iv). Spyware secretly monitors users (iii). Option 2 swaps virus and worm. Option 3 swaps worm and Trojan. Option 4 swaps virus and Trojan."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "Consider the following statements about the Internet and World Wide Web:\n\n(i) The Internet is a global network of interconnected computers.\n(ii) The World Wide Web (WWW) is a collection of web pages accessible via the Internet.\n(iii) The Internet and the World Wide Web are the same thing.\n(iv) Web browsers like Chrome and Firefox are used to access the WWW.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — the Internet is a physical network infrastructure. (ii) is correct — WWW is a service/collection of pages on the Internet. (iv) is correct — browsers access web pages. (iii) is wrong — Internet and WWW are NOT the same; the Internet is the infrastructure while WWW is one of many services running on it (others include email, FTP, etc.)."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "The following data shows the storage capacity of different devices:\n\n| Device | Capacity |\n|--------|----------|\n| Floppy Disk | 1.44 MB |\n| CD | 700 MB |\n| DVD | 4.7 GB |\n| Blu-ray | 25 GB |\n| USB Drive | 64 GB |\n\nHow many CDs would be needed to store the equivalent of one 64 GB USB drive (approximately)?",
+      "options": ["64", "73", "91", "94"],
+      "correctAnswer": "94",
+      "explanation": "64 GB = 64 × 1024 MB = 65,536 MB. Number of CDs = 65,536 ÷ 700 ≈ 93.6, rounded up = 94 CDs. Option 64 simply divides 64 by 1, ignoring the GB/MB conversion. Option 73 uses incorrect conversion. Option 91 uses 720 MB per CD."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "The following data shows the response time (in nanoseconds) of different memory types:\n\n| Memory Type | Response Time (ns) |\n|-------------|--------------------|\n| Registers | 1 |\n| L1 Cache | 5 |\n| L2 Cache | 25 |\n| RAM | 100 |\n| Hard Disk | 10,000,000 |\n\nThe RAM is how many times slower than L1 Cache?",
+      "options": ["4 times", "10 times", "20 times", "25 times"],
+      "correctAnswer": "20 times",
+      "explanation": "RAM response time (100 ns) ÷ L1 Cache response time (5 ns) = 100/5 = 20 times slower. Option 4 divides by L2 Cache value. Option 10 uses incorrect values. Option 25 divides RAM by the difference between L1 and registers."
+    }
+  ]
+}
