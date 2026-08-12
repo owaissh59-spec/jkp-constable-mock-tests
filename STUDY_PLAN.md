@@ -181,17 +181,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 61 | Morning | A — General English | Active/Passive Voice | 30 | standard | Topic-wise | ⬜ |
-| 62 | Afternoon | D — Numerical and Reasoning Ability | Mental Reasoning & Sequential Output Tracing | 40 | standard | Topic-wise | ⬜ |
-| 63 | Late | FULL | Cumulative Revision — Week 3 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ⬜ |
+| 61 | Morning | A — General English | Active/Passive Voice | 30 | standard | Topic-wise | ✅ |
+| 62 | Afternoon | D — Numerical and Reasoning Ability | Mental Reasoning & Sequential Output Tracing | 40 | standard | Topic-wise | ✅ |
+| 63 | Late | FULL | Cumulative Revision — Week 3 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ✅ |
 
 ### Day 22
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 64 | Morning | B — General Knowledge & Current Affairs (India) | Constitution of India (Formation, Fundamental Rights, DPSP) | 30 | standard | Topic-wise | ⬜ |
-| 65 | Afternoon | C — General Knowledge — J&K | Agriculture & Industrialization in J&K Economy | 40 | standard | Topic-wise | ⬜ |
-| 66 | Late | D — Numerical and Reasoning Ability | Mensuration | 50 | standard | Topic-wise | ⬜ |
+| 64 | Morning | B — General Knowledge & Current Affairs (India) | Constitution of India (Formation, Fundamental Rights, DPSP) | 30 | standard | Topic-wise | ✅ |
+| 65 | Afternoon | C — General Knowledge — J&K | Agriculture & Industrialization in J&K Economy | 40 | standard | Topic-wise | ✅ |
+| 66 | Late | D — Numerical and Reasoning Ability | Mensuration | 50 | standard | Topic-wise | ✅ |
 
 ### Day 23
 
