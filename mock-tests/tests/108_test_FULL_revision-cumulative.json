@@ -1,0 +1,407 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision across all covered subjects",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct option to fill the blank: Neither the manager nor his assistants __________ aware of the change in schedule.",
+      "options": ["were", "was", "is", "has been"],
+      "correctAnswer": "were",
+      "explanation": "With 'neither...nor', the verb agrees with the NEARER subject. 'Assistants' (plural) is nearer, so the plural verb 'were' is correct. 'Was' would be correct if the singular subject were nearer. 'Is' is present tense and singular. 'Has been' is singular present perfect."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "A trader marks his goods 50% above cost price and allows a discount of 20%. His net profit percentage is:",
+      "options": ["20%", "30%", "25%", "15%"],
+      "correctAnswer": "20%",
+      "explanation": "Let CP = 100. MP = 150 (50% above). SP after 20% discount = 150 × 0.8 = 120. Profit = 120-100 = 20. Profit% = 20%. Option 30% forgets the discount. Option 25% miscalculates. Option 15% uses wrong markup-discount combination."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) Fundamental Rights are justiciable (enforceable by courts).\n(ii) Directive Principles are non-justiciable.\n(iii) Fundamental Duties were added by the 42nd Amendment.\n(iv) The Preamble is a part of the Constitution as per the Kesavananda Bharati case.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "Fundamental Rights can be enforced through Articles 32/226 (i correct). DPSPs cannot be enforced in courts — Article 37 (ii correct). Fundamental Duties were added by 42nd Amendment, 1976 (iii correct). Kesavananda Bharati case (1973) held Preamble is part of the Constitution (iv correct). All four are historically and legally accurate."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cloud computing allows users to access software and storage over the internet without local installation.\nReason (R): Cloud services (SaaS, PaaS, IaaS) are hosted on remote servers maintained by providers, eliminating the need for users to manage physical infrastructure.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — cloud computing provides remote access to software/storage via internet. Reason (R) is correct — cloud services are hosted remotely, removing local infrastructure needs. The remote hosting model (R) is exactly what enables the access described in (A). Option B is wrong because (R) explains the mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "The Uri-I and Uri-II hydroelectric projects are located on which river in J&K?",
+      "options": ["Jhelum", "Chenab", "Indus", "Tawi"],
+      "correctAnswer": "Jhelum",
+      "explanation": "Both Uri-I (480 MW) and Uri-II (240 MW) are on the Jhelum River near Uri town in Baramulla district. Chenab hosts Salal, Baglihar, Dulhasti. Indus flows through Ladakh. Tawi flows through Jammu city with no major hydro projects of this scale."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) To cry wolf\n(b) To have an axe to grind\n(c) To burn one's boats\n(d) To read between the lines\n\nColumn II:\n(i) To have a hidden personal motive\n(ii) To raise a false alarm\n(iii) To understand the hidden meaning\n(iv) To make retreat impossible by committing fully\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "'Cry wolf' = raise false alarm (a-ii). 'Have an axe to grind' = hidden selfish motive (b-i). 'Burn one's boats' = commit irrevocably with no retreat (c-iv). 'Read between the lines' = understand implied meaning (d-iii). Option B swaps cry wolf with axe to grind. Option C mismatches axe to grind with boats. Option D incorrectly pairs cry wolf with reading between lines."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Consider the following statements about probability:\n\n(i) The probability of a certain event is 1.\n(ii) The probability of an impossible event is 0.\n(iii) P(A) + P(A') = 1 for any event A.\n(iv) Probability can be negative for unlikely events.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Certain event has P=1 (i correct). Impossible event has P=0 (ii correct). An event and its complement always sum to 1 (iii correct). Statement (iv) is incorrect — probability can NEVER be negative; it always lies between 0 and 1 inclusive."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The 'Make in India' initiative was launched in which year?",
+      "options": ["2014", "2015", "2016", "2013"],
+      "correctAnswer": "2014",
+      "explanation": "Make in India was launched on 25 September 2014 by PM Modi to encourage manufacturing in India and attract foreign investment. 2015 saw Start-up India. 2016 saw Skill India. 2013 is before the current government."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'Had I known earlier, I would have helped' uses the inverted conditional structure.\nReason (R): In formal English, the auxiliary 'had' can be placed before the subject to replace 'if' in third conditional sentences, creating a more formal/literary style.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 'Had I known' is an inverted form of 'If I had known' (third conditional). Reason (R) is correct — inversion of auxiliary 'had' before subject replaces 'if' in formal English. The grammatical rule in (R) explains the structure in (A). Option B is wrong because (R) explains the inversion mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Which of the following are examples of application software?\n\n(i) Microsoft Word\n(ii) Windows 11\n(iii) Google Chrome\n(iv) Linux\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "MS Word (word processor) is application software (i correct). Google Chrome (web browser) is application software (iii correct). Windows 11 (ii) is an OPERATING SYSTEM, not application software. Linux (iv) is also an OPERATING SYSTEM. Only (i) and (iii) are applications that run ON an OS."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "If a car travels 240 km in 4 hours, what is its average speed in m/s?",
+      "options": ["16.67 m/s", "60 m/s", "20 m/s", "15 m/s"],
+      "correctAnswer": "16.67 m/s",
+      "explanation": "Speed = 240/4 = 60 km/h. Converting to m/s: 60 × 5/18 = 300/18 = 16.67 m/s. Option 60 is speed in km/h not m/s. Option 20 uses wrong conversion factor. Option 15 = 54 km/h conversion."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India follows a mixed economy model.\nReason (R): In India, both the public sector and private sector coexist, with the government intervening in key areas while allowing market forces to operate in others.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — India has a mixed economy. Reason (R) is correct — the coexistence of public and private sectors with government intervention defines a mixed economy. The description in (R) is the definition of mixed economy (A). Option B is wrong because (R) defines what mixed economy means. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Choose the word most nearly OPPOSITE in meaning to 'EXACERBATE':",
+      "options": ["Alleviate", "Worsen", "Intensify", "Aggravate"],
+      "correctAnswer": "Alleviate",
+      "explanation": "'Exacerbate' means to make worse or more severe. 'Alleviate' means to make less severe or relieve — the direct antonym. 'Worsen' is a synonym. 'Intensify' means to strengthen — similar to exacerbate. 'Aggravate' means to make worse — a synonym."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Consider the following statements about the Indus Waters Treaty:\n\n(i) It was signed in 1960 between India and Pakistan.\n(ii) It allocates eastern rivers (Ravi, Beas, Sutlej) to India.\n(iii) Western rivers (Indus, Jhelum, Chenab) are allocated to Pakistan.\n(iv) India is completely prohibited from using the western rivers.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Treaty was signed in 1960 brokered by the World Bank (i correct). Eastern rivers (Ravi, Beas, Sutlej) go to India (ii correct). Western rivers (Indus, Jhelum, Chenab) go to Pakistan (iii correct). Statement (iv) is incorrect — India is NOT completely prohibited; it can use western rivers for domestic use, non-consumptive purposes, limited agriculture, and run-of-the-river hydroelectric projects."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Match the following reasoning types with examples:\n\nColumn I:\n(a) Blood Relation: Father's mother\n(b) Coding: If A=1, B=2..., then CAT = ?\n(c) Direction: Face North, turn left\n(d) Series: 2, 6, 18, 54, ?\n\nColumn II:\n(i) 162 (multiply by 3)\n(ii) Facing West\n(iii) Paternal Grandmother\n(iv) 24 (3+1+20)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Father's mother = paternal grandmother (a-iii). CAT: C=3, A=1, T=20, sum=24 (b-iv). Face North, turn left = face West (c-ii). Series: ×3 pattern → 54×3=162 (d-i). Option B swaps blood relation with coding. Option C mismatches coding with direction. Option D incorrectly pairs blood relation with series."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Which of the following are correctly matched (Vitamin — Source)?\n\n(i) Vitamin A — Carrots, sweet potatoes\n(ii) Vitamin C — Citrus fruits, amla\n(iii) Vitamin D — Sunlight exposure\n(iv) Vitamin K — Cereals and pulses\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Vitamin A from carrots/sweet potatoes (beta-carotene) (i correct). Vitamin C from citrus/amla (ii correct). Vitamin D from sunlight on skin (iii correct). Vitamin K (iv) comes from green leafy vegetables (spinach, broccoli) and fermented foods, NOT primarily from cereals and pulses."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Consider the following statements about English grammar:\n\n(i) 'Fewer' is used with countable nouns; 'Less' with uncountable nouns.\n(ii) 'Who' is subjective case; 'Whom' is objective case.\n(iii) A gerund ends in '-ing' and functions as a noun.\n(iv) 'Lay' is intransitive (does not take an object).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Fewer/less distinction for countable/uncountable (i correct). Who(subjective)/Whom(objective) (ii correct). Gerund = -ing form as noun (iii correct). Statement (iv) is incorrect — 'LAY' is TRANSITIVE (takes an object: 'lay the book down'). 'LIE' is intransitive (no object: 'I lie down'). This is one of English's most confused verb pairs."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Match the following internet protocols with their functions:\n\nColumn I:\n(a) HTTP\n(b) SMTP\n(c) FTP\n(d) DNS\n\nColumn II:\n(i) Translates domain names to IP addresses\n(ii) Transfers web pages from server to browser\n(iii) Sends outgoing emails\n(iv) Transfers files between computers\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "HTTP transfers web pages (a-ii). SMTP sends outgoing email (b-iii). FTP transfers files (c-iv). DNS resolves domain names to IPs (d-i). Option B swaps HTTP with SMTP. Option C mismatches SMTP with FTP. Option D incorrectly pairs HTTP with DNS."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of interior angles of any triangle is always 180°.\nReason (R): This is a fundamental theorem of Euclidean geometry, provable by drawing a line parallel to one side through the opposite vertex.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — all triangles have angle sum of 180°. Reason (R) is correct — the classic proof uses a parallel line to create alternate angles that sum to 180°. The proof method in (R) demonstrates why (A) is true. Option B is wrong because (R) describes the proof method. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Quit India Movement:\n\n(i) It was launched on 8 August 1942.\n(ii) Mahatma Gandhi gave the call 'Do or Die'.\n(iii) The movement demanded immediate British withdrawal from India.\n(iv) It was launched in response to the Rowlatt Act.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Quit India was launched on 8 August 1942 (i correct). Gandhi's 'Do or Die' (Karo ya Maro) was the call (ii correct). It demanded immediate British withdrawal (iii correct). Statement (iv) is incorrect — the Quit India Movement was NOT in response to the Rowlatt Act (1919). The Rowlatt Act triggered the 1919 protests/Jallianwala Bagh. Quit India was triggered by the failure of the Cripps Mission (1942)."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Choose the correctly punctuated sentence:",
+      "options": ["The students — who had studied hard — passed with distinction.", "The students, who had studied hard; passed with distinction.", "The students who had studied hard, passed with distinction.", "The students: who had studied hard passed with distinction."],
+      "correctAnswer": "The students — who had studied hard — passed with distinction.",
+      "explanation": "Em dashes (—) can set off a parenthetical/non-essential clause within a sentence. This is correct punctuation for emphasis. Option B incorrectly uses semicolon. Option C has a misplaced comma (separating subject from verb). Option D misuses the colon. Only the em-dash version is correctly punctuated."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "The following data shows the production of a factory over 5 days:\n\n| Day | Units Produced | Defective Units |\n|-----|---------------|----------------|\n| Mon | 200 | 10 |\n| Tue | 250 | 15 |\n| Wed | 180 | 12 |\n| Thu | 300 | 18 |\n| Fri | 270 | 9 |\n\nOn which day was the defect rate (percentage of defective units) the lowest?",
+      "options": ["Friday", "Monday", "Thursday", "Tuesday"],
+      "correctAnswer": "Friday",
+      "explanation": "Mon: 10/200 = 5%. Tue: 15/250 = 6%. Wed: 12/180 = 6.67%. Thu: 18/300 = 6%. Fri: 9/270 = 3.33% (lowest). Friday has the lowest defect rate at 3.33%. Monday is second-best at 5%."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Wular Lake is the largest freshwater lake in India.\nReason (R): Wular Lake in Bandipora district is fed by the Jhelum River and serves as a natural flood basin for the Kashmir Valley.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Wular is India's largest freshwater lake. Reason (R) is correct — it is fed by the Jhelum and acts as a flood basin. However, (R) does NOT explain WHY it is the largest — being fed by a river and serving as a flood basin are facts about the lake but don't explain its large size (which is due to geological/tectonic formation). Option A is wrong because (R) gives characteristics, not the reason for its size. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) LAN covers a small area like an office or building.\n(ii) WAN covers a large geographical area like a country or continent.\n(iii) The Internet is the largest WAN in the world.\n(iv) MAN covers a metropolitan city and is smaller than a LAN.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "LAN = Local Area Network covering small areas (i correct). WAN = Wide Area Network spanning large distances (ii correct). The Internet is the world's largest WAN connecting billions of devices globally (iii correct). Statement (iv) is incorrect — MAN (Metropolitan Area Network) is LARGER than a LAN (covers a city), not smaller. The hierarchy is LAN < MAN < WAN."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Consider the following statements about types of clauses:\n\n(i) 'Although he was tired' is a subordinate adverb clause.\n(ii) 'What she said' is a subordinate noun clause.\n(iii) 'The man who came yesterday' contains a subordinate adjective clause.\n(iv) 'She danced gracefully' is a subordinate clause.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'Although he was tired' = adverb clause of concession (i correct). 'What she said' = noun clause functioning as subject/object (ii correct). 'Who came yesterday' = adjective/relative clause modifying 'man' (iii correct). 'She danced gracefully' (iv) is an INDEPENDENT (main) clause — it can stand alone. It is NOT subordinate."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "If the compound interest on a sum for 2 years at 10% per annum is ₹2,100, what is the principal?",
+      "options": ["₹10,000", "₹8,000", "₹12,000", "₹9,000"],
+      "correctAnswer": "₹10,000",
+      "explanation": "CI for 2 years at 10% = P[(1+10/100)² - 1] = P[1.21 - 1] = 0.21P. Given CI = 2100: 0.21P = 2100 → P = 2100/0.21 = ₹10,000. Option ₹8,000: 0.21×8000=1680≠2100. Option ₹12,000: 0.21×12000=2520≠2100. Option ₹9,000: 0.21×9000=1890≠2100."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Match the following rivers of India with the states where they originate:\n\nColumn I:\n(a) Ganga\n(b) Godavari\n(c) Narmada\n(d) Kaveri\n\nColumn II:\n(i) Karnataka (Talakaveri, Coorg)\n(ii) Uttarakhand (Gangotri glacier)\n(iii) Maharashtra (Trimbakeshwar, Nashik)\n(iv) Madhya Pradesh (Amarkantak)\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Ganga originates at Gangotri in Uttarakhand (a-ii). Godavari from Trimbakeshwar near Nashik, Maharashtra (b-iii). Narmada from Amarkantak in Madhya Pradesh (c-iv). Kaveri from Talakaveri in Coorg, Karnataka (d-i). Option B swaps Ganga with Godavari. Option C mismatches Godavari with Narmada. Option D incorrectly pairs Ganga with Narmada's origin."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Data' is traditionally treated as a plural noun in formal English ('The data show...').\nReason (R): 'Data' is the Latin plural of 'datum' (a single piece of information), so grammatically it takes a plural verb.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — in formal/academic usage, 'data' takes plural verb: 'data show/indicate'. Reason (R) is correct — 'data' is Latin plural of 'datum'. The Latin etymology (R) is the grammatical basis for plural treatment (A). Option B is wrong because (R) gives the etymological reason. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "A is the father of B. B is the sister of C. C is the husband of D. How is A related to D?",
+      "options": ["Father-in-law", "Father", "Uncle", "Grandfather"],
+      "correctAnswer": "Father-in-law",
+      "explanation": "A is father of B. B is sister of C (so A is also C's father). C is husband of D (C married D). From D's perspective: D's husband C's father = D's father-in-law = A. 'Father' would mean A is D's direct parent. 'Uncle' is same generation as parent. 'Grandfather' is a generation above father."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Consider the following statements about renewable energy in India:\n\n(i) India has the world's 4th largest installed renewable energy capacity.\n(ii) Solar energy is the fastest-growing renewable source in India.\n(iii) India targets 500 GW of non-fossil fuel capacity by 2030.\n(iv) India has completely eliminated coal-based power generation.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "India ranks 4th globally in renewable energy capacity (i correct). Solar has been India's fastest-growing RE source with massive additions yearly (ii correct). 500 GW non-fossil fuel by 2030 is India's climate commitment (iii correct). Statement (iv) is incorrect — India still relies heavily on coal (~55% of electricity); coal has NOT been eliminated."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Excel:\n\n(i) VLOOKUP searches for a value in the first column of a table and returns a value from a specified column.\n(ii) The IF function can be nested to test multiple conditions.\n(iii) Ctrl + ; inserts the current date in the active cell.\n(iv) Excel formulas begin with the # symbol.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "VLOOKUP searches left column and returns from a specified column (i correct). IF functions can be nested up to 64 levels (ii correct). Ctrl+; inserts current date (iii correct). Statement (iv) is incorrect — Excel formulas begin with = (equal sign), NOT #. The # symbol appears in error codes like #REF!, #VALUE!, etc."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct preposition: She is averse __________ taking risks in her business.",
+      "options": ["to", "of", "from", "for"],
+      "correctAnswer": "to",
+      "explanation": "'Averse to' is the correct collocation meaning having a strong dislike for something. 'Averse of' is incorrect. 'Averse from' is occasionally seen but 'to' is standard. 'Averse for' is not used. The standard preposition with 'averse' is 'to'."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) If 5 workers can complete a task in 12 days, then 10 workers can complete it in 6 days.\n(ii) Work done = Number of workers × Number of days (assuming equal efficiency).\n(iii) Workers and time are directly proportional when work is constant.\n(iv) If work is doubled, time is doubled (workers constant).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "5×12=60 worker-days; 10 workers: 60/10=6 days (i correct). Work = Workers × Days (ii correct). If work doubles with same workers, time doubles: 2W/(same workers) = 2×time (iv correct). Statement (iii) is incorrect — workers and time are INVERSELY proportional (more workers = less time), not directly proportional."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Sundarbans in West Bengal is a UNESCO World Heritage Site.\nReason (R): The Sundarbans is the largest mangrove forest in the world and is home to the Royal Bengal Tiger, making it ecologically unique.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Sundarbans is a UNESCO World Heritage Site (inscribed 1987). Reason (R) is correct — it's the world's largest mangrove forest and has Bengal Tigers. Its ecological uniqueness (R) is precisely why UNESCO designated it (A). Option B is wrong because (R) explains the heritage value. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Choose the sentence that uses the correct form of the verb:",
+      "options": ["Each of the contestants was given a certificate.", "Each of the contestants were given a certificate.", "Each of the contestants have been given a certificate.", "Each of the contestants are given a certificate."],
+      "correctAnswer": "Each of the contestants was given a certificate.",
+      "explanation": "'Each' is a singular indefinite pronoun and requires a singular verb 'was'. 'Were' is plural — incorrect with 'each'. 'Have been' is plural. 'Are' is plural. Despite 'contestants' being plural, the subject is 'each' (singular)."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Match the following J&K tourist destinations with their famous features:\n\nColumn I:\n(a) Dal Lake\n(b) Gulmarg\n(c) Vaishno Devi\n(d) Pangong Tso\n\nColumn II:\n(i) High-altitude lake on India-China border (Ladakh)\n(ii) Houseboats and shikaras\n(iii) Hindu pilgrimage shrine in Trikuta Mountains\n(iv) Asia's highest gondola cable car\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Dal Lake is famous for houseboats and shikaras (a-ii). Gulmarg has one of Asia's highest gondolas (b-iv). Vaishno Devi is a Hindu pilgrimage in Trikuta Mountains (c-iii). Pangong Tso is a high-altitude lake on the India-China LAC in Ladakh (d-i). Option B swaps Dal with Gulmarg. Option C mismatches Gulmarg with Vaishno Devi. Option D incorrectly pairs Dal with Pangong."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "The following data shows marks scored by students:\n\n| Student | English | Maths | Science | Total |\n|---------|---------|-------|---------|-------|\n| P | 78 | 82 | 75 | 235 |\n| Q | 85 | 70 | 80 | 235 |\n| R | 72 | 88 | 76 | 236 |\n| S | 80 | 75 | 82 | 237 |\n\nWho scored the highest in Maths?",
+      "options": ["R", "P", "S", "Q"],
+      "correctAnswer": "R",
+      "explanation": "P: 82 in Maths. Q: 70. R: 88 (highest). S: 75. R scored 88 in Maths — the highest among all students. P is second with 82. S has 75 and Q has 70."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "Which of the following are functions of the Reserve Bank of India?\n\n(i) Issuing currency notes\n(ii) Regulating commercial banks\n(iii) Managing foreign exchange reserves\n(iv) Collecting income tax\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "RBI issues currency notes (i correct). It regulates and supervises commercial banks (ii correct). It manages India's forex reserves (iii correct). Collecting income tax (iv) is the function of the Income Tax Department under the Ministry of Finance, NOT the RBI."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "Choose the word most nearly SIMILAR in meaning to 'PERFUNCTORY':",
+      "options": ["Superficial and without care", "Thorough and detailed", "Enthusiastic and eager", "Perfect and flawless"],
+      "correctAnswer": "Superficial and without care",
+      "explanation": "'Perfunctory' means done routinely without real interest or care, merely going through the motions. 'Superficial and without care' captures this meaning. 'Thorough and detailed' is the opposite. 'Enthusiastic and eager' is the opposite. 'Perfect and flawless' confuses 'perfunctory' with 'perfect' — they are not related."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A firewall is essential for network security.\nReason (R): A firewall monitors and filters incoming and outgoing network traffic based on security rules, blocking unauthorized access while allowing legitimate communication.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — firewalls are fundamental to network security. Reason (R) is correct — it accurately describes firewall functionality (traffic filtering based on rules). The filtering capability (R) is exactly what makes firewalls essential (A). Option B is wrong because (R) explains the security function. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "If the angles of a triangle are in the ratio 2:3:4, what is the measure of the largest angle?",
+      "options": ["80°", "60°", "90°", "100°"],
+      "correctAnswer": "80°",
+      "explanation": "Let angles = 2x, 3x, 4x. Sum = 2x+3x+4x = 9x = 180° → x = 20°. Largest angle = 4x = 4×20° = 80°. Option 60° = 3x (middle angle). Option 90° would need x=22.5. Option 100° would need x=25 but then total≠180°."
+    },
+    {
+      "id": "42",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Chipko Movement is considered one of the first environmental movements in India.\nReason (R): In the 1970s, villagers in the Himalayan region of Uttarakhand hugged trees to prevent their felling by commercial loggers, demonstrating grassroots environmental activism.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Chipko is a pioneering environmental movement in India. Reason (R) is correct — villagers literally embraced ('chipko' = embrace) trees to protect them in the 1970s Uttarakhand hills. The tree-hugging protest (R) is what defines the Chipko Movement (A). Option B is wrong because (R) describes the very movement. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "43",
+      "subject": "A",
+      "questionText": "Which of the following sentences use the correct form of the conditional?\n\n(i) If it rains, I will stay home. (First conditional — correct)\n(ii) If I were rich, I would travel the world. (Second conditional — correct)\n(iii) If she would have studied, she would have passed. (Third conditional — incorrect)\n(iv) Had they arrived earlier, they would have caught the train. (Third conditional inverted — correct)\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "First conditional with future possibility (i correct). Second conditional with subjunctive (ii correct). Inverted third conditional with 'had' (iv correct). Statement (iii) is INCORRECT — 'if she would have studied' is wrong; the correct form is 'If she HAD studied, she would have passed'. You cannot use 'would have' in the if-clause."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Consider the following statements about ransomware:\n\n(i) It encrypts victims' files and demands payment for the decryption key.\n(ii) Regular offline backups can help recover data without paying ransom.\n(iii) WannaCry (2017) was a famous ransomware attack.\n(iv) Paying the ransom always guarantees complete data recovery.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Ransomware encrypts files and demands payment (i correct). Offline backups allow recovery without paying (ii correct). WannaCry affected 200,000+ computers globally in 2017 (iii correct). Statement (iv) is incorrect — paying ransom does NOT guarantee recovery; criminals may not provide the key or it may not work properly. Security experts generally advise against paying."
+    },
+    {
+      "id": "45",
+      "subject": "C",
+      "questionText": "Consider the following statements about saffron cultivation in J&K:\n\n(i) Saffron is primarily grown in the Pampore area of Pulwama district.\n(ii) It is cultivated on the Karewa soils of the Kashmir Valley.\n(iii) J&K is the only state in India where saffron is commercially grown.\n(iv) India is the world's largest producer of saffron.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Saffron cultivation is concentrated in Pampore/Pulwama (i correct). Karewa soils provide ideal conditions (ii correct). J&K is India's only significant saffron-producing region (iii correct). Statement (iv) is incorrect — IRAN is the world's largest saffron producer (over 90% of global production), not India. India ranks much lower."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A split infinitive (e.g., 'to boldly go') was historically considered incorrect but is now widely accepted.\nReason (R): Modern grammar recognizes that placing an adverb between 'to' and the verb (splitting the infinitive) can sometimes improve clarity and natural flow of the sentence.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — split infinitives are now widely accepted (e.g., Star Trek's 'to boldly go'). Reason (R) is correct — modern grammar accepts them for clarity and natural flow. The modern acceptance of improved clarity (R) explains why the once-criticized structure is now standard (A). Option B is wrong because (R) explains the change in attitude. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "A number is increased by 20% and then decreased by 20%. The net change is:",
+      "options": ["4% decrease", "No change", "4% increase", "2% decrease"],
+      "correctAnswer": "4% decrease",
+      "explanation": "Let number = 100. After 20% increase: 120. After 20% decrease of 120: 120×0.8 = 96. Net change = 96-100 = -4 = 4% decrease. This is because the decrease applies to the larger number. The formula is: net change = -(20²/100) = -4%. 'No change' wrongly assumes they cancel. '4% increase' and '2% decrease' are miscalculations."
+    },
+    {
+      "id": "48",
+      "subject": "B",
+      "questionText": "Match the following Constitutional Amendments with their key provisions:\n\nColumn I:\n(a) 42nd Amendment (1976)\n(b) 44th Amendment (1978)\n(c) 73rd Amendment (1992)\n(d) 86th Amendment (2002)\n\nColumn II:\n(i) Right to Education (Article 21A)\n(ii) Panchayati Raj institutions constitutionalized\n(iii) Called 'Mini Constitution' — added DPSP, Fundamental Duties\n(iv) Restored freedoms curtailed during Emergency\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "42nd Amendment is called 'Mini Constitution' (added Fundamental Duties, words to Preamble) (a-iii). 44th Amendment restored rights after Emergency (b-iv). 73rd Amendment constitutionalized Panchayati Raj (c-ii). 86th Amendment inserted Article 21A (Right to Education) (d-i). Option B swaps 42nd with 44th. Option C mismatches 44th with 73rd. Option D incorrectly pairs 42nd with RTE."
+    },
+    {
+      "id": "49",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["The committee has submitted its report to the chairman.", "The committee have submitted their report to the chairman.", "The committee has submitted their report to the chairman.", "The committee have submitted its report to the chairman."],
+      "correctAnswer": "The committee has submitted its report to the chairman.",
+      "explanation": "When a collective noun ('committee') acts as a single unit, it takes a singular verb ('has') and singular pronoun ('its'). 'Have...their' uses plural for both — acceptable in British English when members act individually, but the singular form is more standard when the committee acts as one body submitting one report. The mixed forms in C and D are inconsistent."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "The following data shows the storage capacities and read speeds of different devices:\n\n| Device | Capacity | Read Speed |\n|--------|----------|------------|\n| HDD | 2 TB | 150 MB/s |\n| SSD | 1 TB | 550 MB/s |\n| USB 3.0 | 128 GB | 100 MB/s |\n| SD Card | 64 GB | 90 MB/s |\n\nWhich device offers the best speed-to-capacity ratio (speed per GB)?",
+      "options": ["SD Card", "SSD", "USB 3.0", "HDD"],
+      "correctAnswer": "SD Card",
+      "explanation": "Speed/Capacity: HDD: 150/2000 = 0.075 MB/s per GB. SSD: 550/1000 = 0.55 MB/s per GB. USB: 100/128 = 0.78 MB/s per GB. SD Card: 90/64 = 1.41 MB/s per GB (highest). SD Card has the best speed-to-capacity ratio because its relatively high speed is divided by a small capacity, giving the highest ratio."
+    }
+  ]
+}

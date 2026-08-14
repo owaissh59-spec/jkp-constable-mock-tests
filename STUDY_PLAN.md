@@ -293,9 +293,9 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 103 | Morning | A — General English | Homonyms & Homophones (Revision) | 30 | standard | Topic-wise | ⬜ |
-| 104 | Afternoon | C — General Knowledge — J&K | Tourist Destinations & Power Projects (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 105 | Late | FULL | Cumulative Revision — Week 5 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ⬜ |
+| 103 | Morning | A — General English | Homonyms & Homophones (Revision) | 30 | standard | Topic-wise | ✅ |
+| 104 | Afternoon | C — General Knowledge — J&K | Tourist Destinations & Power Projects (Revision) | 40 | standard | Topic-wise | ✅ |
+| 105 | Late | FULL | Cumulative Revision — Week 5 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ✅ |
 
 
 ## PHASE 2 — Consolidation (Multi-topic + First Full Mocks)  ·  Days 36–55
@@ -306,9 +306,9 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 106 | Morning | A — General English | All topics of General English (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 107 | Afternoon | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 108 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 106 | Morning | A — General English | All topics of General English (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 107 | Afternoon | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 108 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 37
 
