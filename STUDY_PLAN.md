@@ -330,17 +330,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 115 | Morning | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 116 | Afternoon | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 117 | Late | FULL | Full syllabus — all subjects A-E | 100 | exam | Full-length mock | ⬜ |
+| 115 | Morning | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 116 | Afternoon | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 117 | Late | FULL | Full syllabus — all subjects A-E | 100 | exam | Full-length mock | ✅ |
 
 ### Day 40
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 118 | Morning | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 119 | Afternoon | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 120 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 118 | Morning | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 119 | Afternoon | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 120 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 41
 
