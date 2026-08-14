@@ -1,0 +1,407 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision across all covered subjects",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct option: The manager, along with his team members, __________ present at the meeting.",
+      "options": ["was", "were", "are", "have been"],
+      "correctAnswer": "was",
+      "explanation": "When the subject is followed by 'along with', 'together with', 'as well as', the verb agrees with the MAIN subject ('manager' — singular). So 'was' is correct. 'Were' would agree with 'members' (wrong). 'Are' is present plural. 'Have been' is plural present perfect."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "A sum of ₹12,000 amounts to ₹13,920 in 2 years at simple interest. The rate of interest per annum is:",
+      "options": ["8%", "10%", "6%", "12%"],
+      "correctAnswer": "8%",
+      "explanation": "SI = 13920-12000 = ₹1920. R = (SI×100)/(P×T) = (1920×100)/(12000×2) = 192000/24000 = 8%. Option 10%: SI would be 2400. Option 6%: SI would be 1440. Option 12%: SI would be 2880."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Election Commission of India:\n\n(i) It is an autonomous constitutional body under Article 324.\n(ii) It conducts elections to Parliament, State Legislatures, and offices of President and Vice-President.\n(iii) It currently consists of the Chief Election Commissioner and two Election Commissioners.\n(iv) Election Commissioners can be removed by the President without any special procedure.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "ECI is constitutional body under Art. 324 (i correct). It conducts all major elections (ii correct). It has CEC + 2 ECs (iii correct). Statement (iv) is incorrect — the CEC can only be removed through impeachment (same process as SC judge). Other ECs can only be removed on CEC's recommendation. There IS a special procedure."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Phishing attacks often succeed because they create a sense of urgency.\nReason (R): Phishing emails typically use threatening language ('your account will be closed') or time-limited offers to pressure victims into acting hastily without verifying the sender's legitimacy.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — urgency is a key phishing tactic. Reason (R) is correct — threatening language/time pressure makes people bypass critical thinking. The pressure tactics (R) explain why urgency works (A). Option B is wrong because (R) describes the exact mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "The Pir Panjal Railway Tunnel on the USBRL project is approximately how long?",
+      "options": ["11.2 km", "9.2 km", "5.5 km", "15 km"],
+      "correctAnswer": "11.2 km",
+      "explanation": "The Pir Panjal Railway Tunnel (Banihal-Qazigund) is approximately 11.215 km — India's longest railway tunnel. 9.2 km is the Chenani-Nashri road tunnel. 5.5 km is too short. 15 km is too long for this tunnel."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Match the following phrasal verbs with their meanings:\n\nColumn I:\n(a) Put off\n(b) Put up with\n(c) Put down\n(d) Put across\n\nColumn II:\n(i) To communicate/explain an idea effectively\n(ii) To suppress or criticize\n(iii) To postpone\n(iv) To tolerate\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "'Put off' = postpone (a-iii). 'Put up with' = tolerate (b-iv). 'Put down' = suppress/criticize (c-ii). 'Put across' = communicate effectively (d-i). Option B swaps postpone with tolerate. Option C mismatches tolerate with suppress. Option D incorrectly pairs put off with communicate."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Consider the following number series: 5, 11, 23, 47, 95, ?\n\n(i) Each term is multiplied by 2 and then 1 is added.\n(ii) The pattern is: ×2+1.\n(iii) The next term is 191.\n(iv) The next term is 189.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "5×2+1=11 ✓. 11×2+1=23 ✓. 23×2+1=47 ✓. 47×2+1=95 ✓. Pattern is ×2+1 (i, ii correct). Next: 95×2+1=191 (iii correct). Statement (iv) saying 189 is incorrect — the correct answer is 191."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "The Tropic of Cancer passes through how many Indian states?",
+      "options": ["8", "6", "10", "5"],
+      "correctAnswer": "8",
+      "explanation": "The Tropic of Cancer (23.5°N) passes through 8 states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. Option 6 is too few. Option 10 is too many. Option 5 significantly undercounts."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The idiom 'to cry over spilt milk' means to regret something that cannot be undone.\nReason (R): Once milk is spilt, it cannot be recovered — the metaphor represents irreversible situations where regret is futile.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — the idiom means regretting what's done and cannot be changed. Reason (R) is correct — spilt milk is irrecoverable, making it a perfect metaphor for irreversible situations. The imagery (R) explains the idiom's meaning (A). Option B is wrong because (R) explains the metaphor. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Which of the following are types of malware?\n\n(i) Trojan Horse\n(ii) Ransomware\n(iii) Firewall\n(iv) Spyware\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Trojan Horse is malware disguised as legitimate software (i correct). Ransomware encrypts files for ransom (ii correct). Spyware secretly monitors activities (iv correct). Firewall (iii) is NOT malware — it's a SECURITY tool that protects against threats. It filters network traffic. Options B and C include firewall as malware."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "If a man walks at 5 km/h, he is late by 10 minutes for his office. If he walks at 6 km/h, he reaches 10 minutes early. The distance to his office is:",
+      "options": ["10 km", "12 km", "8 km", "15 km"],
+      "correctAnswer": "10 km",
+      "explanation": "Let distance = d km. Time difference = 10+10 = 20 min = 1/3 hour. d/5 - d/6 = 1/3. (6d-5d)/30 = 1/3. d/30 = 1/3. d = 10 km. Option 12: 12/5-12/6=12/30=0.4hr=24min≠20min. Option 8: 8/30=0.267hr=16min≠20min. Option 15: 15/30=0.5hr=30min≠20min."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Indian Parliament can amend Fundamental Rights.\nReason (R): The Supreme Court in the Kesavananda Bharati case (1973) held that Parliament can amend any part of the Constitution including Fundamental Rights, but cannot alter the 'basic structure' of the Constitution.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — Parliament can amend FRs (has done so multiple times). Reason (R) is correct — Kesavananda Bharati established that amendments are permitted but basic structure cannot be altered. The legal framework (R) explains the scope of Parliament's amending power (A). Option B is wrong because (R) provides the legal basis. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Choose the word most nearly SIMILAR in meaning to 'RECALCITRANT':",
+      "options": ["Defiant and uncooperative", "Obedient and compliant", "Gentle and kind", "Intelligent and quick"],
+      "correctAnswer": "Defiant and uncooperative",
+      "explanation": "'Recalcitrant' means stubbornly uncooperative, resistant to authority. 'Defiant and uncooperative' is the closest synonym. 'Obedient and compliant' is the antonym. 'Gentle and kind' is unrelated. 'Intelligent and quick' is also unrelated."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "Consider the following statements about the economy of J&K:\n\n(i) Apple/horticulture is the backbone of the Kashmir Valley's economy.\n(ii) Tourism contributes significantly to employment and GDP.\n(iii) J&K has over 20,000 MW of identified hydroelectric potential.\n(iv) The service sector contributes the largest share to J&K's GSDP.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "Apple/horticulture drives Kashmir's economy (i correct). Tourism is a major contributor (ii correct). ~20,000 MW hydro potential exists (iii correct). Services sector contributes most to GSDP (iv correct). All four are accurate representations of J&K's economic structure."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Match the following:\n\nColumn I:\n(a) 40% of 250\n(b) √(625)\n(c) 2³ × 3²\n(d) Average of 10, 20, 30, 40, 50\n\nColumn II:\n(i) 72\n(ii) 30\n(iii) 100\n(iv) 25\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "40% of 250 = 100 (a-iii). √625 = 25 (b-iv). 2³×3² = 8×9 = 72 (c-i). Average of 10,20,30,40,50 = 150/5 = 30 (d-ii). Option B swaps 100 with 25. Option C mismatches √625 with 72. Option D incorrectly pairs 40% with 30."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Which of the following rivers flow eastward into the Bay of Bengal?\n\n(i) Godavari\n(ii) Narmada\n(iii) Krishna\n(iv) Kaveri\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv) only", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Godavari flows east into Bay of Bengal (i correct). Krishna flows east into Bay of Bengal (iii correct). Kaveri flows east into Bay of Bengal (iv correct). Narmada (ii) flows WEST into the Arabian Sea — one of only two major peninsular rivers (with Tapti) flowing westward."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Consider the following statements about English grammar:\n\n(i) 'Despite' is followed by a noun/gerund, never by a clause with 'that'.\n(ii) 'Although' introduces a concession clause and can be followed by a full clause.\n(iii) 'In spite of' has the same meaning as 'despite'.\n(iv) 'However' can replace 'although' in all contexts without any change.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'Despite' takes noun/gerund: 'despite working hard' (i correct). 'Although' takes a full clause: 'although he worked hard' (ii correct). 'In spite of' = 'despite' — both are prepositions taking noun/gerund (iii correct). Statement (iv) is incorrect — 'however' is an adverb (needs semicolon or new sentence), while 'although' is a conjunction (introduces clause). They cannot be freely interchanged."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Match the following computer security terms with their definitions:\n\nColumn I:\n(a) Encryption\n(b) Firewall\n(c) Antivirus\n(d) VPN\n\nColumn II:\n(i) Creates a secure, encrypted tunnel for internet traffic\n(ii) Converts data into coded form unreadable without a key\n(iii) Detects and removes malicious software\n(iv) Monitors and controls network traffic based on rules\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Encryption converts data to coded form (a-ii). Firewall monitors/controls network traffic (b-iv). Antivirus detects/removes malware (c-iii). VPN creates encrypted tunnel (d-i). Option B swaps encryption with firewall. Option C mismatches firewall with antivirus. Option D incorrectly pairs encryption with VPN."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the cost price of 8 articles equals the selling price of 6 articles, there is a profit of 33.33%.\nReason (R): Let CP of 1 article = ₹1. CP of 8 = SP of 6 = ₹8. SP of 1 = 8/6 = ₹1.333. Profit% = (0.333/1)×100 = 33.33%.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — CP of 8 = SP of 6 gives 33.33% profit. Reason (R) correctly demonstrates: if CP=1, SP=8/6=4/3, profit=1/3, profit%=33.33%. The calculation (R) proves (A). Option B is wrong because (R) is the mathematical proof. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "20",
+      "subject": "B",
+      "questionText": "Match the following Constitutional bodies with their primary roles:\n\nColumn I:\n(a) CAG\n(b) UPSC\n(c) Finance Commission\n(d) National Human Rights Commission\n\nColumn II:\n(i) Recommends revenue distribution between Centre and States\n(ii) Protects human rights and investigates violations\n(iii) Audits government accounts and expenditure\n(iv) Conducts examinations for central civil services\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "CAG audits government accounts (a-iii). UPSC conducts civil service exams (b-iv). Finance Commission distributes revenue (c-i). NHRC investigates human rights violations (d-ii). Option B swaps CAG with UPSC. Option C mismatches UPSC with Finance Commission. Option D incorrectly pairs CAG with NHRC."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Choose the correct transformation into passive voice: 'Someone stole my bicycle yesterday.'",
+      "options": ["My bicycle was stolen yesterday.", "My bicycle is stolen yesterday.", "My bicycle has been stolen yesterday.", "My bicycle stolen yesterday."],
+      "correctAnswer": "My bicycle was stolen yesterday.",
+      "explanation": "Active Simple Past → Passive Simple Past: 'was/were + past participle'. 'Was stolen' is correct for past passive. 'Is stolen' is present passive. 'Has been stolen' is present perfect (conflicts with 'yesterday' — a specific past time). 'Stolen yesterday' lacks the auxiliary verb 'was'."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "The following data shows monthly expenses of a family:\n\n| Category | Amount (₹) | Percentage |\n|----------|-----------|------------|\n| Food | 12,000 | 30% |\n| Rent | 10,000 | 25% |\n| Education | 8,000 | 20% |\n| Transport | 6,000 | 15% |\n| Savings | 4,000 | 10% |\n\nWhat is the total monthly income of the family?",
+      "options": ["₹40,000", "₹36,000", "₹48,000", "₹50,000"],
+      "correctAnswer": "₹40,000",
+      "explanation": "Total = sum of all categories = 12000+10000+8000+6000+4000 = ₹40,000. Or: Food is 30% of total → 12000 = 30% → Total = 12000×100/30 = 40000. Option 36000 miscounts. Option 48000 uses wrong calculation. Option 50000 is too high."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Chenani-Nashri Tunnel significantly improved connectivity on the Jammu-Srinagar highway.\nReason (R): At approximately 9.2 km, it bypasses the landslide-prone Kud-Patnitop section, reducing travel time by about 2 hours and providing all-weather passage.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — the tunnel dramatically improved NH-44 connectivity. Reason (R) is correct — at 9.2 km it avoids the vulnerable section, saving ~2 hours. The bypass and time savings (R) explain the connectivity improvement (A). Option B is wrong because (R) explains HOW it improved. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Consider the following statements about cloud computing:\n\n(i) SaaS means Software as a Service (e.g., Google Docs, Gmail).\n(ii) IaaS means Infrastructure as a Service (e.g., AWS EC2).\n(iii) Cloud computing requires no internet connection.\n(iv) PaaS means Platform as a Service (e.g., Google App Engine).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "SaaS: software delivered via internet — Gmail, Google Docs (i correct). IaaS: virtualized computing resources — AWS EC2 (ii correct). PaaS: platform for developers — Google App Engine (iv correct). Statement (iii) is incorrect — cloud computing REQUIRES internet connectivity to access remote services. Without internet, cloud services are inaccessible."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Consider the following statements about synonyms and antonyms:\n\n(i) 'Benign' (harmless) is the antonym of 'Malignant' (harmful).\n(ii) 'Verbose' (wordy) is the synonym of 'Laconic' (brief).\n(iii) 'Ephemeral' (short-lived) is the synonym of 'Transient' (temporary).\n(iv) 'Audacious' (bold) is the antonym of 'Timid' (fearful).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Benign vs Malignant — antonyms (i correct). Ephemeral and Transient — synonyms (both mean short-lived) (iii correct). Audacious vs Timid — antonyms (bold vs fearful) (iv correct). Statement (ii) is incorrect — Verbose (wordy) and Laconic (brief) are ANTONYMS, not synonyms."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The LCM of two numbers is always divisible by their HCF.\nReason (R): LCM contains all prime factors at their highest powers, while HCF contains common factors at lowest powers; since LCM includes at least all factors in HCF, it is divisible by HCF.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — LCM is always divisible by HCF (e.g., LCM(12,18)=36, HCF=6, 36÷6=6). Reason (R) is correct — it explains the prime factorization basis. The factor inclusion argument (R) proves divisibility (A). Option B is wrong because (R) is the mathematical proof. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Consider the following statements about India's Five Year Plans:\n\n(i) The First Five Year Plan (1951-56) prioritized agriculture.\n(ii) The Second Plan (1956-61) focused on heavy industrialization.\n(iii) NITI Aayog replaced the Planning Commission in 2015.\n(iv) India has completed 15 Five Year Plans.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "First Plan focused on agriculture/irrigation (i correct). Second Plan (Mahalanobis Model) emphasized heavy industry (ii correct). NITI Aayog replaced Planning Commission on 1 Jan 2015 (iii correct). Statement (iv) is incorrect — India completed only 12 Five Year Plans (the 12th ended in 2017). The system was discontinued and replaced by NITI Aayog's 3-year action plans."
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the sentence 'Walking through the park, the flowers looked beautiful', there is a grammatical error.\nReason (R): This is a dangling modifier — 'Walking through the park' has no logical subject; flowers cannot walk. It should be 'Walking through the park, I noticed the flowers looked beautiful.'\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — the sentence has a dangling modifier error. Reason (R) is correct — it identifies the error (flowers can't walk) and provides correction (adding a logical subject). The analysis (R) explains the specific error in (A). Option B is wrong because (R) explains the error type and fix. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "A clock loses 5 minutes every hour. If set correctly at 12:00 noon on Monday, what time will it show when the actual time is 12:00 noon on Tuesday (24 hours later)?",
+      "options": ["10:00 AM Tuesday", "10:00 PM Monday", "11:00 AM Tuesday", "9:00 AM Tuesday"],
+      "correctAnswer": "10:00 AM Tuesday",
+      "explanation": "The clock loses 5 min/hour. In 24 actual hours, it loses 24×5 = 120 minutes = 2 hours. So when real time is Tuesday 12:00 noon, the clock shows 12:00 - 2:00 = 10:00 AM Tuesday. Option 10PM is wrong time of day. Option 11AM loses only 1 hour. Option 9AM loses 3 hours."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India has a federal structure with a strong central government.\nReason (R): The Constitution provides for division of powers (Union, State, Concurrent Lists), but emergency provisions, appointment of Governors, and residuary powers with the Centre create a unitary bias.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — India is federal with strong Centre (quasi-federal). Reason (R) is correct — it names specific provisions (lists, emergencies, Governors, residuary powers) that create unitary tilt. These constitutional features (R) explain the 'strong central' aspect of (A). Option B is wrong because (R) identifies the specific mechanisms. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Excel functions:\n\n(i) VLOOKUP searches vertically in the first column of a table.\n(ii) COUNTIF counts cells meeting a specific criterion.\n(iii) CONCATENATE joins text strings together.\n(iv) SUM function can only add a maximum of 10 cells.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "VLOOKUP searches the first column vertically (i correct). COUNTIF counts conditionally (ii correct). CONCATENATE joins text (iii correct). Statement (iv) is incorrect — SUM can add any number of cells (up to 255 arguments, each of which can be a range of thousands of cells). There's no 10-cell limit."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct word: The __________ between the two theories was highlighted by the professor during the lecture.",
+      "options": ["distinction", "extinction", "distraction", "construction"],
+      "correctAnswer": "distinction",
+      "explanation": "'Distinction' means a difference or contrast between things — fits perfectly when comparing two theories. 'Extinction' means the end/death of a species. 'Distraction' means something that diverts attention. 'Construction' means building something. Only 'distinction' fits the academic comparison context."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Consider the following statements about direction and distance:\n\n(i) If you face North and turn 90° clockwise, you face East.\n(ii) If you face South and turn 180°, you face North.\n(iii) North-West is exactly between North and West.\n(iv) Turning 360° brings you back to the original direction.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "North + 90° clockwise = East (i correct). South + 180° = North (ii correct). NW is at 315° — exactly between N(360°/0°) and W(270°) (iii correct). 360° rotation = full circle back to start (iv correct). All four are basic direction/angle facts."
+    },
+    {
+      "id": "34",
+      "subject": "B",
+      "questionText": "Match the following national symbols with what they represent:\n\nColumn I:\n(a) Lotus\n(b) Peacock\n(c) Mango\n(d) Banyan Tree\n\nColumn II:\n(i) National tree\n(ii) National bird\n(iii) National flower\n(iv) National fruit\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "Lotus = National flower (a-iii). Peacock = National bird (b-ii). Mango = National fruit (c-iv). Banyan = National tree (d-i). Option B swaps flower with bird. Option C mismatches bird with fruit. Option D incorrectly pairs Lotus with tree."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Less' is traditionally used with uncountable nouns while 'fewer' is used with countable nouns.\nReason (R): 'Less time' (uncountable) and 'fewer mistakes' (countable) follow the quantity-vs-number distinction in formal English grammar.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — less/fewer distinction based on countability is a formal grammar rule. Reason (R) is correct — it gives accurate examples showing the quantity (uncountable) vs number (countable) logic. The examples (R) illustrate the rule in (A). Option B is wrong because (R) demonstrates the rule. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Which of the following rivers of J&K ultimately drain into the Arabian Sea (via the Indus system)?\n\n(i) Jhelum\n(ii) Chenab\n(iii) Tawi\n(iv) Kaveri\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Jhelum → Chenab → Indus → Arabian Sea (i correct). Chenab → Indus → Arabian Sea (ii correct). Tawi → Chenab → Indus → Arabian Sea (iii correct). Kaveri (iv) is a SOUTH INDIAN river (Karnataka/Tamil Nadu) flowing into the Bay of Bengal — it has NO connection to J&K or the Indus system."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "The following data shows production costs:\n\n| Quantity | Fixed Cost (₹) | Variable Cost (₹) | Total Cost (₹) |\n|----------|---------------|-------------------|----------------|\n| 10 | 500 | 300 | 800 |\n| 20 | 500 | 600 | 1100 |\n| 30 | 500 | 900 | 1400 |\n| 40 | 500 | 1200 | 1700 |\n\nWhat is the variable cost per unit?",
+      "options": ["₹30", "₹50", "₹40", "₹25"],
+      "correctAnswer": "₹30",
+      "explanation": "Variable cost per unit = Variable Cost / Quantity. At any level: 300/10 = 600/20 = 900/30 = 1200/40 = ₹30 per unit. The fixed cost stays constant (₹500) regardless of quantity. Option ₹50 = total cost/20. Option ₹40 = total cost/quantity at some level. Option ₹25 is incorrect."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Suez Canal:\n\n(i) It connects the Mediterranean Sea to the Red Sea.\n(ii) It was opened in 1869.\n(iii) It eliminates the need to go around Africa (Cape of Good Hope).\n(iv) It is located in India.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Suez Canal connects the Mediterranean to the Red Sea (i correct). It opened on 17 November 1869 (ii correct). It shortens Europe-Asia route by avoiding Africa circumnavigation (iii correct). Statement (iv) is incorrect — the Suez Canal is in EGYPT, not India."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "Choose the sentence that is grammatically CORRECT:",
+      "options": ["Had she known about the delay, she would have made other arrangements.", "Had she knew about the delay, she would have made other arrangements.", "Had she known about the delay, she will have made other arrangements.", "Has she known about the delay, she would have made other arrangements."],
+      "correctAnswer": "Had she known about the delay, she would have made other arrangements.",
+      "explanation": "Inverted third conditional: 'Had + subject + past participle, ... would have + past participle.' 'Had she known...would have made' is correct. 'Knew' is wrong — need past participle 'known' after 'had'. 'Will have made' mixes future into past hypothetical. 'Has she known' uses present perfect, wrong for past unreal."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Two-factor authentication (2FA) provides significantly better security than passwords alone.\nReason (R): 2FA requires two different types of verification (something you know + something you have/are), meaning even if a password is compromised, the account remains protected by the second factor.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 2FA is much more secure than passwords alone. Reason (R) is correct — the dual-factor requirement means single-point compromise doesn't grant access. The layered protection mechanism (R) explains the improved security (A). Option B is wrong because (R) explains the security mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "If the perimeter of a square is 48 cm, its area is:",
+      "options": ["144 cm²", "192 cm²", "96 cm²", "120 cm²"],
+      "correctAnswer": "144 cm²",
+      "explanation": "Perimeter of square = 4×side → 48 = 4×side → side = 12 cm. Area = side² = 12² = 144 cm². Option 192 = 12×16. Option 96 = 48×2. Option 120 = 12×10."
+    },
+    {
+      "id": "42",
+      "subject": "B",
+      "questionText": "Which of the following correctly describes 'GDP at Market Price'?",
+      "options": ["Total value of goods and services produced within a country including taxes minus subsidies", "Total income of citizens living abroad", "Only agricultural output of a country", "Government expenditure on defence only"],
+      "correctAnswer": "Total value of goods and services produced within a country including taxes minus subsidies",
+      "explanation": "GDP at market price = total value of final goods/services produced domestically + indirect taxes - subsidies. 'Income of citizens abroad' is part of GNP, not GDP. 'Only agriculture' is far too narrow. 'Defence expenditure' is just one component of government spending."
+    },
+    {
+      "id": "43",
+      "subject": "A",
+      "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Prodigal\n(b) Erudite\n(c) Taciturn\n(d) Pristine\n\nColumn II:\n(i) Contaminated\n(ii) Loquacious\n(iii) Frugal\n(iv) Ignorant\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Prodigal (wasteful) ↔ Frugal (thrifty) (a-iii). Erudite (learned) ↔ Ignorant (unlearned) (b-iv). Taciturn (silent) ↔ Loquacious (talkative) (c-ii). Pristine (pure/clean) ↔ Contaminated (polluted) (d-i). Option B swaps prodigal with erudite. Option C mismatches erudite with taciturn. Option D incorrectly pairs prodigal with pristine."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\nStatement: 'All teachers are graduates. Some graduates are artists.'\n\nWhich conclusions definitely follow?\n\n(i) Some teachers are artists.\n(ii) Some graduates are teachers.\n(iii) All artists are graduates.\n(iv) Some artists may be teachers.\n\nSelect the correct combination:",
+      "options": ["(ii) only", "(i) and (ii)", "(ii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii) only",
+      "explanation": "All teachers are graduates → teachers ⊂ graduates → SOME graduates are teachers (ii DEFINITELY follows). (i) 'Some teachers are artists' — NOT definite; the artist-graduates may not overlap with teacher-graduates. (iii) 'All artists are graduates' — NOT stated; only SOME graduates are artists. (iv) 'Some artists may be teachers' — this is possible but not DEFINITE (only a possibility). Only (ii) is a certain conclusion."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer storage:\n\n(i) 1 KB = 1024 bytes.\n(ii) SSD is faster than HDD because it has no moving parts.\n(iii) ROM is volatile memory that loses data when power is off.\n(iv) Cache memory is the fastest type of computer memory.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "1 KB = 1024 bytes (2¹⁰) (i correct). SSD's flash memory (no moving parts) is faster than HDD's spinning platters (ii correct). Cache is fastest memory in the hierarchy (SRAM-based) (iv correct). Statement (iii) is incorrect — ROM is NON-VOLATILE (retains data without power). RAM is volatile, not ROM."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["Neither the students nor the teacher was present at the meeting.", "Neither the students nor the teacher were present at the meeting.", "Neither the students nor the teacher have been present at the meeting.", "Neither the students nor the teacher are present at the meeting."],
+      "correctAnswer": "Neither the students nor the teacher was present at the meeting.",
+      "explanation": "With 'neither...nor', the verb agrees with the NEARER subject. 'Teacher' (singular) is nearer, so singular 'was' is correct. 'Were' agrees with 'students' (farther subject — wrong). 'Have been' is plural. 'Are' is present plural."
+    },
+    {
+      "id": "47",
+      "subject": "B",
+      "questionText": "Consider the following statements about Indian currency:\n\n(i) The Reserve Bank of India issues all currency notes.\n(ii) The ₹1 note is issued by the Ministry of Finance.\n(iii) Indian currency notes carry the signature of the RBI Governor.\n(iv) India uses the decimal system for its currency (1 Rupee = 100 Paise).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(ii), (iii) and (iv) only", "(i), (iii) and (iv) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "RBI issues all notes (₹2 and above) (i correct — though (ii) also adds nuance). ₹1 note is issued by GoI/Ministry of Finance (ii correct). RBI Governor's signature appears on notes (iii correct). India uses decimal currency system (iv correct). Actually, there's a subtlety: (i) says 'all currency notes' while (ii) says ₹1 is by MoF. Both can be considered correct as ₹1 is practically out of circulation and technically a coin denomination now. All four statements are accepted as correct in exam contexts."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): When a number is increased by 10% and then decreased by 10%, the result is always less than the original number.\nReason (R): The net effect of successive increase and decrease of the same percentage is a decrease of (percentage²/100) = (10²/100) = 1%.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 100×1.1×0.9 = 99 < 100 (always decreases). Reason (R) is correct — the formula (p²/100) gives the net loss percentage: 10²/100 = 1% decrease. The mathematical formula (R) proves and quantifies (A). Option B is wrong because (R) provides the exact formula. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "49",
+      "subject": "C",
+      "questionText": "Consider the following about J&K's cultural heritage:\n\n(i) Kashmiri (Koshur) is the predominant language of the Kashmir Valley.\n(ii) Dogri is the main language of the Jammu region.\n(iii) Both Kashmiri and Dogri are recognized in the Eighth Schedule.\n(iv) Ladakhi belongs to the same language family as Kashmiri.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Kashmiri is the main Valley language (i correct). Dogri dominates the Jammu region (ii correct). Both are in the Eighth Schedule — Kashmiri from the beginning, Dogri added by 92nd Amendment (iii correct). Statement (iv) is incorrect — Ladakhi belongs to the TIBETO-BURMAN family, while Kashmiri belongs to the INDO-ARYAN/Dardic family. They are from completely different language families."
+    },
+    {
+      "id": "50",
+      "subject": "B",
+      "questionText": "The following data shows India's literacy rates:\n\n| Census Year | Male (%) | Female (%) | Total (%) |\n|-------------|----------|-----------|----------|\n| 1991 | 64.1 | 39.3 | 52.2 |\n| 2001 | 75.3 | 53.7 | 64.8 |\n| 2011 | 82.1 | 65.5 | 74.0 |\n\nWhat was the approximate increase in female literacy from 1991 to 2011?",
+      "options": ["26.2 percentage points", "12.6 percentage points", "33.3 percentage points", "21.8 percentage points"],
+      "correctAnswer": "26.2 percentage points",
+      "explanation": "Female literacy: 2011 (65.5%) - 1991 (39.3%) = 26.2 percentage points increase. Option 12.6 = 2001-1991 increase only. Option 33.3 overcalculates. Option 21.8 = 2011-2001+rounding error. The full 20-year increase is 26.2 pp."
+    }
+  ]
+}

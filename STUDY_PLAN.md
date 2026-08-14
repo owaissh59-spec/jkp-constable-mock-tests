@@ -316,7 +316,7 @@
 |---|---------|---------|---------------|---|------------|------|--------|
 | 109 | Morning | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
 | 110 | Afternoon | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
-| 111 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 111 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 38
 
