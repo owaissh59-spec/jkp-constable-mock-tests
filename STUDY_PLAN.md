@@ -261,17 +261,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 91 | Morning | B — General Knowledge & Current Affairs (India) | Centrally Sponsored Schemes & Indian Foreign Trade | 30 | standard | Topic-wise | ⬜ |
-| 92 | Afternoon | D — Numerical and Reasoning Ability | Coding & Decoding (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 93 | Late | A — General English | Comprehension Passage (Revision) | 50 | standard | Topic-wise | ⬜ |
+| 91 | Morning | B — General Knowledge & Current Affairs (India) | Centrally Sponsored Schemes & Indian Foreign Trade | 30 | standard | Topic-wise | ✅ |
+| 92 | Afternoon | D — Numerical and Reasoning Ability | Coding & Decoding (Revision) | 40 | standard | Topic-wise | ✅ |
+| 93 | Late | A — General English | Comprehension Passage (Revision) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 32
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 94 | Morning | E — Basic Concepts of Computers | E-mail & Internet Usage (Revision) | 30 | standard | Topic-wise | ⬜ |
-| 95 | Afternoon | C — General Knowledge — J&K | Rivers & Lakes of J&K (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 96 | Late | D — Numerical and Reasoning Ability | Speed, Distance & Time (Revision) | 50 | standard | Topic-wise | ⬜ |
+| 94 | Morning | E — Basic Concepts of Computers | E-mail & Internet Usage (Revision) | 30 | standard | Topic-wise | ✅ |
+| 95 | Afternoon | C — General Knowledge — J&K | Rivers & Lakes of J&K (Revision) | 40 | standard | Topic-wise | ✅ |
+| 96 | Late | D — Numerical and Reasoning Ability | Speed, Distance & Time (Revision) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 33
 

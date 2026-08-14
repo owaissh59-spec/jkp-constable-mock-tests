@@ -1,0 +1,247 @@
+{
+  "subject": "E",
+  "topic": "E-mail & Internet Usage (Revision)",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "What does the acronym SMTP stand for in the context of email communication?",
+      "options": ["Simple Mail Transfer Protocol", "Secure Mail Transfer Protocol", "Standard Message Transfer Protocol", "Simple Message Text Protocol"],
+      "correctAnswer": "Simple Mail Transfer Protocol",
+      "explanation": "SMTP stands for Simple Mail Transfer Protocol, used for sending emails between servers. Secure Mail Transfer Protocol is wrong because while it sounds plausible, the 'S' stands for 'Simple'. Standard Message Transfer Protocol is wrong because neither 'Standard' nor 'Message' is part of the acronym. Simple Message Text Protocol is wrong because it incorrectly replaces 'Mail Transfer' with 'Message Text'."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "When composing an email, the 'BCC' field is used to:",
+      "options": ["Send a copy to recipients without revealing their addresses to other recipients", "Send the email to the primary recipient only", "Forward the email automatically to a backup server", "Block certain contacts from receiving the message"],
+      "correctAnswer": "Send a copy to recipients without revealing their addresses to other recipients",
+      "explanation": "BCC (Blind Carbon Copy) sends copies to recipients whose addresses remain hidden from all other recipients. Sending to primary recipient only is wrong because that's the 'To' field's function. Forwarding to backup server is wrong because BCC is an addressing feature, not a server function. Blocking contacts is wrong because BCC adds recipients rather than blocking them."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Consider the following statements about email protocols:\n\n(i) IMAP allows users to access emails stored on the server without downloading them permanently.\n(ii) POP3 downloads emails to the local device and typically deletes them from the server.\n(iii) SMTP is used for receiving emails from the server to the client.\n(iv) IMAP supports synchronisation across multiple devices.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — IMAP (Internet Message Access Protocol) keeps emails on the server for remote access. (ii) is correct — POP3 downloads and usually removes from server. (iv) is correct — IMAP syncs across devices since mail stays on server. (iii) is wrong because SMTP is for sending emails, not receiving; POP3 and IMAP are for receiving."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Which of the following is the correct format of a valid email address?",
+      "options": ["username@domain.com", "username.domain@com", "username@domain@com", "@username.domain.com"],
+      "correctAnswer": "username@domain.com",
+      "explanation": "A valid email has the format: local-part@domain (e.g., username@domain.com). username.domain@com is wrong because the domain part must include a proper top-level domain with a dot separator. username@domain@com is wrong because an email address can have only one @ symbol. @username.domain.com is wrong because the local part (before @) cannot be empty."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Phishing emails are a major cybersecurity threat to internet users.\nReason (R): Phishing emails mimic legitimate organisations to trick users into revealing personal information like passwords and bank details.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A is correct — phishing is indeed a major cybersecurity threat affecting millions. R is correct — phishing works by impersonating trusted entities to steal sensitive data. R explains A because the deceptive technique described in R is exactly why phishing is so dangerous. Option 2 is wrong because R directly explains the mechanism that makes A true. Option 3 is wrong because R is factually accurate. Option 4 is wrong because A is well-established fact."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "The protocol HTTPS differs from HTTP primarily because HTTPS:",
+      "options": ["Encrypts data using SSL/TLS for secure communication", "Loads web pages faster than regular HTTP protocol", "Is used exclusively for email communication purposes", "Requires no internet connection to function properly"],
+      "correctAnswer": "Encrypts data using SSL/TLS for secure communication",
+      "explanation": "HTTPS adds SSL/TLS encryption to HTTP, securing data transmission between browser and server. Loading pages faster is wrong because HTTPS actually adds minimal overhead due to encryption. Exclusive email use is wrong because HTTPS is for web browsing; email uses SMTP/IMAP/POP3. No internet connection is wrong because HTTPS still requires internet connectivity to function."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Consider the following statements about internet browsers:\n\n(i) A web browser interprets HTML code to display web pages.\n(ii) Cookies are small text files stored by websites on the user's computer.\n(iii) The address bar of a browser is used to type URLs.\n(iv) Browsers can only display text content and cannot render images.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — browsers interpret HTML/CSS to render pages. (ii) is correct — cookies store user preferences and session data locally. (iii) is correct — the address/URL bar is for entering web addresses. (iv) is wrong because modern browsers render text, images, video, animations, and interactive content."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "What is the primary function of a search engine?",
+      "options": ["To index and retrieve relevant web pages based on user queries", "To create new websites automatically for businesses", "To send and receive email messages between users", "To store personal files in cloud-based storage systems"],
+      "correctAnswer": "To index and retrieve relevant web pages based on user queries",
+      "explanation": "Search engines crawl, index, and rank web pages to provide relevant results for user searches. Creating websites is wrong because that's done by web developers using tools, not search engines. Sending emails is wrong because email clients and servers handle that function. Storing personal files is wrong because that's the function of cloud storage services like Google Drive."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Match the following email features with their descriptions:\n\nColumn I:\n(a) CC (Carbon Copy)\n(b) Attachment\n(c) Subject line\n(d) Signature\n\nColumn II:\n(i) A brief description of the email's content\n(ii) A file sent along with the email message\n(iii) Pre-set text automatically added at the end of emails\n(iv) Sends a visible copy to additional recipients\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "CC sends a visible copy to additional recipients → (a)-(iv). Attachment is a file sent with the email → (b)-(ii). Subject line describes the email's content → (c)-(i). Signature is auto-appended text at the end → (d)-(iii). Option 2 is wrong because it swaps CC and Attachment. Option 3 is wrong because it swaps Attachment and Subject. Option 4 is wrong because it swaps Subject and Signature."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Consider the following statements about downloading and uploading:\n\n(i) Downloading means transferring data from a remote server to a local device.\n(ii) Uploading means transferring data from a local device to a remote server.\n(iii) Downloading always requires a paid subscription to the internet service.\n(iv) Uploading is used when attaching files to an email.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — downloading is server-to-device data transfer. (ii) is correct — uploading is device-to-server transfer. (iv) is correct — attaching files to email involves uploading them to the email server. (iii) is wrong because downloading doesn't always require a paid subscription; free Wi-Fi and free internet services exist."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Using strong passwords with a combination of letters, numbers, and special characters improves email account security.\nReason (R): Complex passwords are harder for hackers to guess or crack through brute-force attacks.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A is correct — strong passwords with mixed characters improve security. R is correct — complexity increases the number of possible combinations, making brute-force attacks impractical. R explains A because the difficulty of cracking is the direct reason why complex passwords provide better security. Option 2 is wrong because R is the direct mechanism. Option 3 is wrong because R is factually correct. Option 4 is wrong because A is also correct."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Which of the following are features of web-based email services like Gmail?\n\n(i) Emails can be accessed from any device with internet access.\n(ii) They provide spam filtering to block unwanted messages.\n(iii) They require installation of special software on every device.\n(iv) They offer cloud storage for attachments and files.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — web-based email works on any device with a browser and internet. (ii) is correct — services like Gmail have built-in spam filters. (iv) is correct — Gmail offers Google Drive storage for attachments. (iii) is wrong because web-based email services are accessed through a web browser without needing special software installation."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The term 'URL' stands for:",
+      "options": ["Uniform Resource Locator", "Universal Reference Link", "Unified Resource Language", "Universal Resource Locator"],
+      "correctAnswer": "Uniform Resource Locator",
+      "explanation": "URL stands for Uniform Resource Locator — the address used to access resources on the internet. Universal Reference Link is wrong because it uses 'Universal' and 'Reference Link' which are not the correct expansions. Unified Resource Language is wrong because it uses 'Unified' and 'Language'. Universal Resource Locator is wrong because the first word is 'Uniform', not 'Universal'."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Match the following internet terms with their meanings:\n\nColumn I:\n(a) ISP\n(b) DNS\n(c) FTP\n(d) VPN\n\nColumn II:\n(i) Translates domain names into IP addresses\n(ii) Creates a secure encrypted tunnel for internet traffic\n(iii) Company that provides internet connectivity to users\n(iv) Protocol used to transfer files between computers\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "ISP (Internet Service Provider) provides internet connectivity → (a)-(iii). DNS (Domain Name System) translates domain names to IPs → (b)-(i). FTP (File Transfer Protocol) transfers files → (c)-(iv). VPN (Virtual Private Network) creates encrypted tunnels → (d)-(ii). Option 2 is wrong because it swaps ISP and DNS. Option 3 is wrong because it swaps DNS and FTP. Option 4 is wrong because it swaps FTP and VPN."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "What is the purpose of the 'Reply All' function in email?",
+      "options": ["To send a response to the sender and all other recipients of the original email", "To forward the email to everyone in the contact list", "To automatically delete the original email after replying", "To reply only to the sender while hiding from other recipients"],
+      "correctAnswer": "To send a response to the sender and all other recipients of the original email",
+      "explanation": "'Reply All' sends the response to the original sender AND all recipients (in To and CC). Forwarding to the entire contact list is wrong because that would send to everyone you know, not just original recipients. Auto-deleting is wrong because Reply All has no delete function. Replying only to the sender is wrong because that's the function of simple 'Reply', not 'Reply All'."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Consider the following statements about internet safety:\n\n(i) Two-factor authentication adds an extra layer of security beyond passwords.\n(ii) Public Wi-Fi networks are always safe for online banking.\n(iii) Regular software updates help patch security vulnerabilities.\n(iv) Antivirus software helps detect and remove malicious programs.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — 2FA adds a second verification step (OTP, biometric). (iii) is correct — updates fix known security holes. (iv) is correct — antivirus software detects malware. (ii) is wrong because public Wi-Fi is often unsecured and vulnerable to man-in-the-middle attacks; it is NOT safe for sensitive transactions like banking."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "The __________ protocol is used to receive emails on a client device while keeping a synchronised copy on the mail server.",
+      "options": ["IMAP", "SMTP", "HTTP", "FTP"],
+      "correctAnswer": "IMAP",
+      "explanation": "IMAP (Internet Message Access Protocol) allows receiving and managing emails while keeping them synchronised on the server. SMTP is wrong because it is used for sending emails, not receiving. HTTP is wrong because it is for web browsing, not email retrieval. FTP is wrong because it is for file transfer between computers, not email management."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Spam filters in email services help protect users from unwanted and potentially harmful messages.\nReason (R): Spam emails may contain malware links, phishing attempts, or fraudulent offers that can compromise user security.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A is correct — spam filters do protect users from unwanted/harmful messages. R is correct — spam often contains malware, phishing, and scams. R explains A because the dangers described in R are precisely why spam filters are necessary for protection. Option 2 is wrong because R directly explains why protection (A) is needed. Option 3 is wrong because R is factually correct. Option 4 is wrong because A is also correct."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Which of the following best describes 'cloud computing' in the context of internet services?",
+      "options": ["Delivering computing services like storage and processing over the internet", "Storing data only on physical hard drives at the user's location", "A weather forecasting system that uses satellite technology", "A type of antivirus software that works without internet access"],
+      "correctAnswer": "Delivering computing services like storage and processing over the internet",
+      "explanation": "Cloud computing provides on-demand access to computing resources (storage, servers, databases) over the internet. Physical hard drives only is wrong because cloud computing specifically moves beyond local storage to internet-based resources. Weather forecasting is wrong because 'cloud' here refers to internet infrastructure, not meteorological clouds. Antivirus without internet is wrong because cloud computing requires internet connectivity by definition."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Match the following keyboard shortcuts commonly used in email clients:\n\nColumn I:\n(a) Ctrl + N\n(b) Ctrl + R\n(c) Ctrl + Enter\n(d) Ctrl + F\n\nColumn II:\n(i) Send the email\n(ii) Compose a new email\n(iii) Reply to the email\n(iv) Forward the email\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Ctrl+N = New/Compose email → (a)-(ii). Ctrl+R = Reply → (b)-(iii). Ctrl+Enter = Send → (c)-(i). Ctrl+F = Forward → (d)-(iv). Option 2 is wrong because it pairs Ctrl+N with Send. Option 3 is wrong because it swaps Reply and Forward. Option 4 is wrong because it pairs Ctrl+C (Enter) with Forward and Ctrl+F with Send."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Consider the following statements about e-banking (internet banking):\n\n(i) E-banking allows customers to perform financial transactions through a bank's website.\n(ii) NEFT and RTGS are methods of electronic fund transfer.\n(iii) E-banking can only be accessed from the bank's physical branch.\n(iv) OTP (One-Time Password) is used for additional transaction security.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — e-banking enables online financial transactions. (ii) is correct — NEFT and RTGS are electronic fund transfer systems in India. (iv) is correct — OTP provides additional security for online transactions. (iii) is wrong because e-banking's key advantage is that it can be accessed remotely from anywhere with internet access, not just from bank branches."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "What is the maximum file size typically allowed for email attachments in most standard email services?",
+      "options": ["25 MB", "500 MB", "1 GB", "100 KB"],
+      "correctAnswer": "25 MB",
+      "explanation": "Most standard email services (Gmail, Outlook, Yahoo) limit attachments to approximately 25 MB per email. 500 MB is wrong because that far exceeds standard email attachment limits. 1 GB is wrong because email is not designed for such large file transfers; cloud storage links are used instead. 100 KB is wrong because that is far too restrictive — modern email easily handles files larger than 100 KB."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Which of the following are correct descriptions of internet security threats?\n\n(i) A Trojan horse disguises itself as legitimate software to gain system access.\n(ii) A firewall is a type of malware that damages computer files.\n(iii) Ransomware encrypts user files and demands payment for decryption.\n(iv) Spyware secretly monitors user activity and collects personal data.\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — Trojans disguise as harmless software to infiltrate systems. (iii) is correct — ransomware encrypts data and demands ransom. (iv) is correct — spyware secretly collects user information. (ii) is wrong because a firewall is a SECURITY tool that protects systems by monitoring network traffic — it is NOT malware."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "The data below shows the number of phishing emails detected by an organisation's email security system over four quarters:\n\nQ1: 450, Q2: 620, Q3: 580, Q4: 890.\n\nWhat is the percentage increase in phishing emails from Q1 to Q4 (rounded to nearest whole number)?",
+      "options": ["98%", "78%", "110%", "56%"],
+      "correctAnswer": "98%",
+      "explanation": "Percentage increase = ((890-450)/450) × 100 = (440/450) × 100 = 97.78% ≈ 98%. 78% is wrong because it incorrectly calculates (890-450)/560. 110% is wrong because it uses a smaller denominator. 56% is wrong because it significantly underestimates the actual increase."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "The following data shows the number of registered email users (in millions) for four different service providers:\n\nProvider A: 320, Provider B: 280, Provider C: 450, Provider D: 150.\n\nWhat is the ratio of Provider C's users to the combined users of Providers A and D?",
+      "options": ["45:47", "45:28", "9:4", "3:2"],
+      "correctAnswer": "45:47",
+      "explanation": "Provider C = 450 million. Providers A + D = 320 + 150 = 470 million. Ratio = 450:470 = 45:47. 45:28 is wrong because it only uses Provider B (280) not A+D. 9:4 is wrong because 450:200 = 9:4 which doesn't use the correct combined value. 3:2 is wrong because 450:300 = 3:2 which doesn't represent A+D correctly."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "What does the term 'bandwidth' refer to in internet terminology?",
+      "options": ["The maximum rate of data transfer across a network connection", "The physical width of the cables used for internet wiring", "The total number of websites available on the internet", "The distance between the user and the nearest server"],
+      "correctAnswer": "The maximum rate of data transfer across a network connection",
+      "explanation": "Bandwidth refers to the maximum data transfer rate, usually measured in Mbps or Gbps. Physical cable width is wrong because bandwidth is a measure of data capacity, not physical dimensions. Total websites is wrong because bandwidth measures speed/capacity, not web content count. Distance to server is wrong because that relates to latency, not bandwidth."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The __________ is a unique numerical address assigned to every device connected to the internet, enabling identification and communication.",
+      "options": ["IP address", "email address", "MAC address", "postal address"],
+      "correctAnswer": "IP address",
+      "explanation": "An IP (Internet Protocol) address is the unique numerical identifier for devices on the internet (e.g., 192.168.1.1). Email address is wrong because it identifies a mailbox for messages, not a device on the network. MAC address is wrong because while it identifies network hardware, it is used locally (at data-link layer), not for internet-wide identification. Postal address is wrong because it is a physical location identifier, not a digital network address."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Which of the following are benefits of using email over traditional postal mail?\n\n(i) Emails reach the recipient almost instantly.\n(ii) Multiple files can be attached and sent simultaneously.\n(iii) Emails are always guaranteed to be 100% private and unreadable.\n(iv) Emails can be sent to multiple recipients simultaneously.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — email delivery is nearly instantaneous. (ii) is correct — multiple files can be attached. (iv) is correct — one email can be sent to many recipients at once. (iii) is wrong because emails are not always private — they can be intercepted, hacked, or read by administrators unless end-to-end encrypted."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "What is the function of a 'bookmark' in a web browser?",
+      "options": ["To save a website's URL for quick future access", "To permanently download a website for offline viewing", "To block a website from ever loading again", "To share a website's content on social media platforms"],
+      "correctAnswer": "To save a website's URL for quick future access",
+      "explanation": "A bookmark saves a web page's URL so users can quickly revisit it later. Permanently downloading is wrong because bookmarking only saves the link, not the page content. Blocking a website is wrong because that's the function of content blockers or parental controls. Sharing on social media is wrong because bookmarks are personal browser features, not sharing tools."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Which internet search technique uses quotation marks (\") around a phrase to find exact matches?",
+      "options": ["Phrase searching", "Boolean searching", "Wildcard searching", "Truncation searching"],
+      "correctAnswer": "Phrase searching",
+      "explanation": "Phrase searching uses quotation marks to find the exact sequence of words (e.g., \"climate change\"). Boolean searching is wrong because it uses operators like AND, OR, NOT — not quotation marks. Wildcard searching is wrong because it uses symbols like * or ? to replace characters. Truncation searching is wrong because it uses symbols at the end of word stems to find variations."
+    }
+  ]
+}
