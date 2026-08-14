@@ -354,9 +354,9 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 124 | Morning | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 125 | Afternoon | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 126 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 124 | Morning | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 125 | Afternoon | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 126 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 43
 
