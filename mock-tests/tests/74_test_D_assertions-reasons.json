@@ -1,0 +1,327 @@
+{
+  "subject": "D",
+  "topic": "Assertions & Reasons",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of any two odd numbers is always even.\nReason (R): An odd number can be written as (2n+1), and the sum of two such numbers is (2n+1)+(2m+1) = 2(n+m+1), which is even.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — e.g., 3+5=8, 7+9=16 (always even). (R) is correct — it provides the algebraic proof: 2(n+m+1) is divisible by 2. (R) directly explains (A) by mathematically proving why the sum is always even."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The product of any number and zero is always zero.\nReason (R): Zero is the additive identity — adding zero to any number gives the same number.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — n × 0 = 0 for all n (multiplicative property of zero). (R) is correct — zero IS the additive identity (n + 0 = n). However, (R) does NOT explain (A) — the additive identity property is about addition, not multiplication. The correct explanation would involve the multiplicative absorption property of zero."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): √2 is an irrational number.\nReason (R): An irrational number cannot be expressed as a ratio of two integers (p/q where q≠0).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — √2 = 1.41421356... is irrational (proven by contradiction). (R) is correct — this is the definition of irrational numbers. (R) explains (A) because √2 cannot be expressed as p/q (which is exactly the definition stated in R), hence it is irrational."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Consider the following statements about Assertion-Reason questions:\n\n(i) Both statements must be evaluated independently for their truth.\n(ii) If both are true, we must check whether R explains A.\n(iii) R can be true even if A is false.\n(iv) If A is false, R must also be false.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — evaluate A and R separately first. (ii) is correct — if both true, determine the causal link. (iii) is correct — R can be independently true even if A is wrong (e.g., A claims a false fact, but R states a true principle). (iv) is wrong — A and R are independent; R can be true while A is false."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A triangle with sides 3, 4, and 5 is a right-angled triangle.\nReason (R): In a right-angled triangle, the square of the hypotenuse equals the sum of squares of the other two sides (Pythagorean theorem).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 3²+4² = 9+16 = 25 = 5², so it's a right triangle. (R) is correct — this is the Pythagorean theorem. (R) explains (A) because the theorem stated in R is exactly how we verify A: since 3²+4²=5², the triangle is right-angled."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The equation x² + 4 = 0 has no real solutions.\nReason (R): The square of any real number is always non-negative (≥0), so x² + 4 ≥ 4 > 0 for all real x.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — x²+4=0 gives x²=−4, impossible for real numbers. (R) is correct — x²≥0 always, so x²+4≥4, never zero. (R) explains (A) directly by proving the left side can never equal zero."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Match the following Assertion-Reason answer categories with their descriptions:\n\nColumn I:\n(a) Both A and R correct, R explains A\n(b) Both A and R correct, R does NOT explain A\n(c) A correct, R incorrect\n(d) A incorrect, R correct\n\nColumn II:\n(i) A is true but the reasoning given is factually wrong\n(ii) Both true, and R gives the direct cause/reason for A\n(iii) A is false but R states a true independent fact\n(iv) Both true, but R is unrelated to or does not directly cause A\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Option (a) = both true and R explains A (ii). Option (b) = both true but R doesn't explain A (iv). Option (c) = A true but R false (i). Option (d) = A false but R true (iii). This is the standard framework for all A-R questions."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average of 10, 20, and 30 is 20.\nReason (R): Average = Sum of observations / Number of observations.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — (10+20+30)/3 = 60/3 = 20. (R) is correct — this is the formula for arithmetic mean. (R) explains (A) because applying the formula in R to the values in A yields the answer 20."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a train travels 240 km in 4 hours, its speed is 60 km/h.\nReason (R): Speed = Distance × Time.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct — 240÷4 = 60 km/h. (R) is INCORRECT — the correct formula is Speed = Distance ÷ Time (not Distance × Time). If Speed = Distance × Time were true, then 240×4=960, which is nonsensical. The formula in R is wrong."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The HCF of two prime numbers is always 1.\nReason (R): Prime numbers have no common factor other than 1.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — HCF of any two distinct primes (e.g., 7 and 11) is 1. (R) is correct — primes only have factors 1 and themselves, so two different primes share only 1. (R) explains (A) because having no common factor except 1 directly means the HCF is 1."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Consider the following statements about solving Assertion-Reason questions:\n\n(i) First determine if A is factually correct.\n(ii) Then determine if R is factually correct.\n(iii) If both are correct, check if R is the direct reason/cause for A.\n(iv) The answer is always 'Both correct and R explains A'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — verify A independently. (ii) is correct — verify R independently. (iii) is correct — if both true, assess the causal link. (iv) is wrong — the answer is NOT always 'R explains A'; there are four possible outcomes and each requires careful evaluation."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The area of a circle with radius 7 cm is 154 cm².\nReason (R): The circumference of a circle = 2πr.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — Area = πr² = (22/7)×49 = 154 cm². (R) is correct — Circumference = 2πr is a true formula. However, (R) does NOT explain (A) because (A) is about AREA (πr²), while (R) gives the CIRCUMFERENCE formula. The relevant formula for A would be Area = πr², not 2πr."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 0.999... (recurring) is exactly equal to 1.\nReason (R): If x = 0.999..., then 10x = 9.999..., so 10x − x = 9, giving x = 1.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — mathematically, 0.999... = 1 (this is a proven fact, not an approximation). (R) is correct — the algebraic proof is valid: let x=0.999..., then 10x=9.999..., subtracting gives 9x=9, so x=1. (R) provides the direct algebraic proof for (A)."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The LCM of 12 and 18 is 36.\nReason (R): LCM × HCF = Product of the two numbers.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — LCM(12,18) = 36 (smallest number divisible by both). (R) is correct — LCM × HCF = a × b is a standard property. (R) can verify (A): HCF(12,18)=6, so LCM = (12×18)/6 = 216/6 = 36. (R) provides the method to confirm (A)."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a ratio 3:5, if the total is 40, the smaller part is 15.\nReason (R): In ratio a:b, the parts are a/(a+b) × total and b/(a+b) × total.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — smaller part = 3/(3+5) × 40 = 3/8 × 40 = 15. (R) is correct — this is the standard formula for dividing a quantity in a given ratio. (R) explains (A) because applying the formula in R directly gives the value 15 stated in A."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The simple interest on ₹5,000 at 10% per annum for 2 years is ₹1,000.\nReason (R): Compound interest is always greater than simple interest for the same principal, rate, and time (when time > 1 year).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — SI = 5000×10×2/100 = ₹1,000. (R) is correct — CI > SI for time > 1 year (because interest earns interest). However, (R) does NOT explain (A) — (A) is about calculating simple interest, while (R) compares CI and SI. The correct explanation for A would be the SI formula: P×R×T/100."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The angles of a triangle always add up to 180°.\nReason (R): The exterior angle of a triangle equals the sum of the two non-adjacent interior angles.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct — the angle sum property of triangles states interior angles sum to 180°. (R) is correct — the exterior angle theorem is a valid geometric property. However, (R) does NOT directly explain (A) — the angle sum property is its own fundamental theorem (provable via parallel lines), while the exterior angle theorem is a consequence of it, not its cause."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Match the following Assertion-Reason pairs with their correct answers:\n\nColumn I:\n(a) A: 2+2=5. R: Addition is commutative.\n(b) A: Water boils at 100°C. R: The boiling point depends on atmospheric pressure.\n(c) A: All squares are rectangles. R: A square has four right angles and opposite sides equal.\n(d) A: 7 is a prime number. R: A prime has exactly two factors: 1 and itself.\n\nColumn II:\n(i) Both correct, R explains A\n(ii) Both correct, R does NOT explain A\n(iii) A incorrect, R correct\n(iv) A correct, R incorrect\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(i)",
+      "explanation": "(a) A is false (2+2=4, not 5), R is true (addition IS commutative) → (iii). (b) Both true — water does boil at 100°C (at standard pressure), and boiling point depends on pressure — but R explains WHY the boiling point is what it is at a given pressure, yet doesn't directly explain the specific value 100°C. This is (ii). (c) Both true — squares ARE rectangles, and having 4 right angles + equal opposite sides is what makes it a rectangle → R explains A (i). (d) Both true — 7 has only factors 1 and 7, which is the definition of prime → R explains A (i)."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The fraction 22/7 is exactly equal to π.\nReason (R): π is an irrational number that cannot be expressed as an exact fraction.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is INCORRECT — 22/7 is only an approximation of π (22/7 = 3.142857..., while π = 3.141592...). (R) is correct — π is indeed irrational and cannot be expressed as any fraction p/q exactly. Since π is irrational (R), no fraction including 22/7 can equal it exactly — which is why A is wrong."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If two lines are parallel, alternate interior angles formed by a transversal are equal.\nReason (R): When a transversal cuts two parallel lines, corresponding angles are equal.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — alternate interior angles are equal when lines are parallel. (R) is correct — corresponding angles are equal for parallel lines cut by a transversal. (R) explains (A) because alternate interior angles can be proven equal using corresponding angles and vertically opposite angles — the corresponding angle property is the foundational reason."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A shopkeeper who buys at ₹100 and sells at ₹125 makes a profit of 25%.\nReason (R): Profit% = (Profit/Cost Price) × 100.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Profit = 125−100 = 25. Profit% = (25/100)×100 = 25%. (R) is correct — this is the standard profit percentage formula. (R) explains (A) because applying the formula in R gives the 25% profit stated in A."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The diagonals of a rhombus bisect each other at right angles.\nReason (R): All sides of a rhombus are equal.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — diagonals of a rhombus are perpendicular bisectors of each other. (R) is correct — all four sides of a rhombus are equal. (R) explains (A) because it is precisely the equality of all sides that forces the diagonals to bisect each other at 90° (provable using congruent triangles formed by equal sides)."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Consider the following statements about the different answer choices in Assertion-Reason problems:\n\n(i) 'A correct, R correct, R explains A' — R must be the direct logical cause of A.\n(ii) 'A correct, R correct, R does NOT explain A' — both are true facts but from different domains or unrelated.\n(iii) 'A correct, R incorrect' — A is a true statement but R contains a factual error.\n(iv) 'A incorrect, R correct' — A makes a false claim but R states an independently true fact.\n\nWhich of the statements given above are correct?",
+      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "All of the above",
+      "explanation": "All four descriptions are correct characterizations of the four possible answer categories in Assertion-Reason questions. (i) correctly defines when R explains A. (ii) correctly defines when R is unrelated. (iii) correctly defines when R is wrong. (iv) correctly defines when A is wrong but R is independently valid."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The value of sin 30° + cos 60° = 1.\nReason (R): sin 30° = cos 60° = 1/2.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — sin 30° + cos 60° = 1/2 + 1/2 = 1. (R) is correct — both sin 30° and cos 60° equal 1/2. (R) explains (A) by providing the individual values whose sum equals 1."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A man who walks 3 km north then 4 km east is 5 km from his starting point.\nReason (R): In a right triangle, the hypotenuse = √(base² + perpendicular²).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — distance = √(3²+4²) = √(9+16) = √25 = 5 km. (R) is correct — Pythagorean theorem gives hypotenuse from the two sides. (R) explains (A) because the north-east path forms a right triangle, and R's formula gives the straight-line distance of 5 km."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The probability of getting a head when a fair coin is tossed is 1/2.\nReason (R): Probability = Number of favourable outcomes / Total number of outcomes.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — P(Head) = 1/2 for a fair coin. (R) is correct — this is the classical definition of probability. (R) explains (A) because applying the formula: favourable outcomes (Head) = 1, total outcomes (H,T) = 2, so P = 1/2."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): (a+b)² = a² + b².\nReason (R): The square of a binomial includes a middle term: (a+b)² = a² + 2ab + b².\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is INCORRECT — (a+b)² ≠ a²+b². The correct expansion includes the middle term 2ab: (a+b)² = a²+2ab+b². (R) is correct — it gives the correct expansion with the middle term. Since R provides the correct formula that contradicts A, we know A is false while R is true."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a number is divisible by both 3 and 4, it must be divisible by 12.\nReason (R): If a number is divisible by two co-prime numbers, it is also divisible by their product.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — e.g., 12, 24, 36 are all divisible by both 3 and 4, and by 12. (R) is correct — 3 and 4 are co-prime (HCF=1), so divisibility by both implies divisibility by 3×4=12. (R) explains (A) because 3 and 4 are co-prime, and R's principle directly proves A."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The perimeter of a rectangle with length 8 cm and breadth 5 cm is 26 cm.\nReason (R): Perimeter of a rectangle = 2(length + breadth).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — P = 2(8+5) = 2×13 = 26 cm. (R) is correct — standard perimeter formula. (R) explains (A) because applying R's formula to the given dimensions directly yields 26 cm."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of the first 10 natural numbers is 55.\nReason (R): The sum of first n natural numbers = n(n+1)/2.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 1+2+3+...+10 = 55. (R) is correct — n(n+1)/2 is the standard formula. (R) explains (A): 10×11/2 = 110/2 = 55. The formula in R directly produces the result in A."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An equilateral triangle has all angles equal to 60°.\nReason (R): The sum of all angles in a triangle is 180°, and in an equilateral triangle all angles are equal.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — each angle = 60° in an equilateral triangle. (R) is correct — angle sum = 180° and all angles equal means each = 180°/3 = 60°. (R) explains (A) by showing the logical derivation: equal angles + 180° sum → 60° each."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Match the following Assertions with their correct Reason evaluations:\n\nColumn I:\n(a) A: 5! = 120. R: n! = n × (n-1)!\n(b) A: √9 = ±3. R: Every number has two square roots.\n(c) A: 1 kg = 100 g. R: 1 kg = 1000 g.\n(d) A: π > 3. R: π ≈ 3.14159.\n\nColumn II:\n(i) Both correct, R explains A\n(ii) A incorrect, R correct\n(iii) Both correct, R does NOT explain A\n(iv) A correct, R correct, R explains A\n\nChoose the correct match:",
+      "options": ["(a)-(i), (b)-(ii), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(i), (b)-(i), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(i), (b)-(ii), (c)-(ii), (d)-(iv)",
+      "explanation": "(a) A: 5!=120 ✓, R: n!=n×(n-1)! ✓, R explains A (5!=5×4!=5×24=120) → (i). (b) A: √9=±3 is debatable — the principal square root symbol √9=3 (positive only), so A could be considered incorrect in strict notation; R is true (every positive number has + and − roots) → (ii). (c) A: 1 kg=100g is WRONG (should be 1000g); R: 1kg=1000g is correct → (ii). (d) A: π>3 ✓, R: π≈3.14159 ✓, R explains A (3.14>3) → (iv)=(i)."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If x + y = 7 and xy = 12, then x² + y² = 25.\nReason (R): x² + y² = (x+y)² − 2xy.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — x²+y² = (7)²−2(12) = 49−24 = 25. (R) is correct — this algebraic identity is standard. (R) explains (A) because applying R's identity with the given values directly yields 25."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The decimal expansion of 1/3 is non-terminating and recurring (0.333...).\nReason (R): A fraction in lowest terms has a terminating decimal expansion only if its denominator has no prime factor other than 2 and 5.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 1/3 = 0.333... (non-terminating recurring). (R) is correct — terminating decimals require denominators with only factors 2 and/or 5. (R) explains (A) because 1/3 has denominator 3 (a prime factor other than 2 or 5), so by R's rule, it must be non-terminating."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a parallelogram, opposite sides are equal and parallel.\nReason (R): A parallelogram is a quadrilateral with both pairs of opposite sides parallel.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — opposite sides of a parallelogram are equal and parallel. (R) is correct — this is the definition of a parallelogram. (R) explains (A) because the definition (both pairs of opposite sides parallel) directly implies they must also be equal (provable using alternate angles and congruent triangles)."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The volume of a cube with side 3 cm is 9 cm³.\nReason (R): Volume of a cube = side³.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is INCORRECT — Volume of cube with side 3 = 3³ = 27 cm³, NOT 9 cm³ (9 = 3² is the area of one face, not volume). (R) is correct — Volume = side³ is the correct formula. Applying R: 3³ = 27 ≠ 9, proving A wrong."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a person faces north and turns 90° clockwise, he will face east.\nReason (R): Clockwise rotation from north goes: North → East → South → West.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — turning 90° clockwise from north gives east. (R) is correct — clockwise sequence is N→E→S→W (each 90° turn). (R) explains (A) because the clockwise sequence shown in R demonstrates that one 90° turn from north leads to east."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A number is divisible by 6 if it is divisible by both 2 and 3.\nReason (R): 6 = 2 × 3, and 2 and 3 are co-prime.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — divisibility by both 2 and 3 implies divisibility by 6. (R) is correct — since 2 and 3 are co-prime (HCF=1), divisibility by both means divisibility by their product (6). (R) explains (A) by invoking the co-prime divisibility rule."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "The following data shows five Assertion-Reason pairs and their evaluations:\n\n| Pair | A Status | R Status | R explains A? |\n|------|----------|----------|---------------|\n| 1 | True | True | Yes |\n| 2 | True | True | No |\n| 3 | True | False | — |\n| 4 | False | True | — |\n| 5 | False | False | — |\n\nHow many pairs have the answer 'Both A and R are correct and R is the correct explanation of A'?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "1",
+      "explanation": "Only Pair 1 has both A true, R true, AND R explains A. Pair 2 has both true but R doesn't explain A (different answer). Pairs 3, 4, 5 don't qualify because either A or R (or both) are false. So only 1 pair gets this specific answer. Option 2 counts Pair 2 incorrectly. Options 3 and 4 greatly overcount."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "The following table shows student performance on Assertion-Reason questions:\n\n| Student | Correct Answers | Total Attempted |\n|---------|-----------------|------------------|\n| A | 8 | 10 |\n| B | 6 | 10 |\n| C | 7 | 10 |\n| D | 9 | 10 |\n\nIf each correct answer earns 2 marks and each wrong answer deducts 0.5 marks, who scored the highest?",
+      "options": ["A", "B", "C", "D"],
+      "correctAnswer": "D",
+      "explanation": "Scores: A = 8×2 − 2×0.5 = 16−1 = 15. B = 6×2 − 4×0.5 = 12−2 = 10. C = 7×2 − 3×0.5 = 14−1.5 = 12.5. D = 9×2 − 1×0.5 = 18−0.5 = 17.5. D scored highest (17.5). A got 15 (second). C got 12.5 (third). B got 10 (lowest)."
+    }
+  ]
+}

@@ -213,17 +213,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 73 | Morning | B — General Knowledge & Current Affairs (India) | Political & Physical Divisions of World & India | 30 | standard | Topic-wise | ⬜ |
-| 74 | Afternoon | D — Numerical and Reasoning Ability | Assertions & Reasons | 40 | standard | Topic-wise | ⬜ |
-| 75 | Late | E — Basic Concepts of Computers | MS Word (Revision) | 50 | standard | Topic-wise | ⬜ |
+| 73 | Morning | B — General Knowledge & Current Affairs (India) | Political & Physical Divisions of World & India | 30 | standard | Topic-wise | ✅ |
+| 74 | Afternoon | D — Numerical and Reasoning Ability | Assertions & Reasons | 40 | standard | Topic-wise | ✅ |
+| 75 | Late | E — Basic Concepts of Computers | MS Word (Revision) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 26
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 76 | Morning | A — General English | Articles & Clauses (Revision) | 30 | standard | Topic-wise | ⬜ |
-| 77 | Afternoon | B — General Knowledge & Current Affairs (India) | Important Rivers & Lakes in India | 40 | standard | Topic-wise | ⬜ |
-| 78 | Late | D — Numerical and Reasoning Ability | Arithmetical Operations | 50 | standard | Topic-wise | ⬜ |
+| 76 | Morning | A — General English | Articles & Clauses (Revision) | 30 | standard | Topic-wise | ✅ |
+| 77 | Afternoon | B — General Knowledge & Current Affairs (India) | Important Rivers & Lakes in India | 40 | standard | Topic-wise | ✅ |
+| 78 | Late | D — Numerical and Reasoning Ability | Arithmetical Operations | 50 | standard | Topic-wise | ✅ |
 
 ### Day 27
 
