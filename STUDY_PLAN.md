@@ -229,17 +229,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 79 | Morning | C — General Knowledge — J&K | Abbreviations & Important Dates of J&K (Revision) | 30 | standard | Topic-wise | ⬜ |
-| 80 | Afternoon | E — Basic Concepts of Computers | MS Excel (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 81 | Late | B — General Knowledge & Current Affairs (India) | Current Events — National & International | 50 | standard | Topic-wise | ⬜ |
+| 79 | Morning | C — General Knowledge — J&K | Abbreviations & Important Dates of J&K (Revision) | 30 | standard | Topic-wise | ✅ |
+| 80 | Afternoon | E — Basic Concepts of Computers | MS Excel (Revision) | 40 | standard | Topic-wise | ✅ |
+| 81 | Late | B — General Knowledge & Current Affairs (India) | Current Events — National & International | 50 | standard | Topic-wise | ✅ |
 
 ### Day 28
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 82 | Morning | D — Numerical and Reasoning Ability | Mathematical Reasoning | 30 | standard | Topic-wise | ⬜ |
-| 83 | Afternoon | A — General English | Synonyms & Antonyms (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 84 | Late | FULL | Cumulative Revision — Week 4 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ⬜ |
+| 82 | Morning | D — Numerical and Reasoning Ability | Mathematical Reasoning | 30 | standard | Topic-wise | ✅ |
+| 83 | Afternoon | A — General English | Synonyms & Antonyms (Revision) | 40 | standard | Topic-wise | ✅ |
+| 84 | Late | FULL | Cumulative Revision — Week 4 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ✅ |
 
 ### Day 29
 

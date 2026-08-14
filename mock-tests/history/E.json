@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Basic Concepts of Computers",
-  "count": 534,
+  "count": 581,
   "questions": [
     {
       "test": 5,
@@ -2672,6 +2672,241 @@
       "test": 75,
       "stem": "the 'spelling and grammar check' feature in ms word can be accessed",
       "key": "F7"
+    },
+    {
+      "test": 80,
+      "stem": "in ms excel, the function =concatenate(a1,\" \",b1) is used to:",
+      "key": "Join the text from A1 and B1 with a space between them"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about cell referencing in ms excel: (i) $a$1",
+      "key": "(i), (ii), (iii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 80,
+      "stem": "match the following excel functions with their descriptions: column i: (a) hlookup",
+      "key": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 80,
+      "stem": "which of the following are valid logical functions in ms excel? (i)",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 80,
+      "stem": "the keyboard shortcut ctrl + ; (semicolon) in ms excel is used",
+      "key": "Insert the current date in the active cell"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about pivot tables in ms excel: (i) a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "in ms excel, what does the formula =round(3.756, 2) return?",
+      "key": "3.76"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 80,
+      "stem": "the maximum number of rows in an ms excel 2007 and later",
+      "key": "1,048,576"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about the if function in ms excel: (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "match the following keyboard shortcuts with their actions in ms excel: column",
+      "key": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 80,
+      "stem": "which of the following are types of cell references in ms excel?",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 80,
+      "stem": "the function =today() in ms excel returns:",
+      "key": "The current date that updates automatically each day"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 80,
+      "stem": "in ms excel, which function counts only the cells that meet a",
+      "key": "COUNTIF"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about freeze panes in ms excel: (i) freeze",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 80,
+      "stem": "the shortcut key ctrl + shift + l in ms excel is",
+      "key": "Toggle AutoFilter on and off"
+    },
+    {
+      "test": 80,
+      "stem": "fill in the blank: in ms excel, the function that returns the",
+      "key": "LEN"
+    },
+    {
+      "test": 80,
+      "stem": "match the following chart types in excel with their best use cases:",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 80,
+      "stem": "in ms excel, what will the formula =left(\"computer\", 3) return?",
+      "key": "COM"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about data validation in ms excel: (i) data",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 80,
+      "stem": "which of the following are features available in the 'page layout' tab",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 80,
+      "stem": "the function =upper(\"hello world\") in excel returns:",
+      "key": "HELLO WORLD"
+    },
+    {
+      "test": 80,
+      "stem": "fill in the blank: in ms excel, the symbol __________ is used",
+      "key": "= (equal sign)"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about the trim function in ms excel: (i)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 80,
+      "stem": "in ms excel, what does the #div/0! error indicate?",
+      "key": "A formula is trying to divide by zero or an empty cell"
+    },
+    {
+      "test": 80,
+      "stem": "match the following excel functions with their categories: column i: (a) now",
+      "key": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    },
+    {
+      "test": 80,
+      "stem": "the following data shows quarterly sales (in ₹ lakhs) for a company:",
+      "key": "40"
+    },
+    {
+      "test": 80,
+      "stem": "in ms excel, the ctrl + shift + $ shortcut applies which",
+      "key": "Currency format"
+    },
+    {
+      "test": 80,
+      "stem": "the following data shows the marks of students in a test stored",
+      "key": "78"
+    },
+    {
+      "test": 80,
+      "stem": "which feature in ms excel allows you to see how changes to",
+      "key": "What-If Analysis"
+    },
+    {
+      "test": 80,
+      "stem": "consider the following statements about the text function in ms excel: (i)",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 80,
+      "stem": "in ms excel, which tab contains the 'sort & filter' options for",
+      "key": "Data tab"
+    },
+    {
+      "test": 80,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 80,
+      "stem": "the formula =iferror(a1/b1, \"error\") in excel will:",
+      "key": "Display 'Error' if the division produces an error, otherwise show the result"
+    },
+    {
+      "test": 80,
+      "stem": "in ms excel, what is the maximum number of columns available in",
+      "key": "16,384"
+    },
+    {
+      "test": 80,
+      "stem": "which of the following are valid ways to create a chart in",
+      "key": "(i), (ii) and (iii) only"
+    },
+    {
+      "test": 80,
+      "stem": "the function =substitute(\"ms excel\", \"excel\", \"word\") will return:",
+      "key": "MS Word"
+    },
+    {
+      "test": 84,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 84,
+      "stem": "which of the following are types of cyber attacks? (i) phishing (ii)",
+      "key": "(i), (ii) and (iv) only"
+    },
+    {
+      "test": 84,
+      "stem": "the keyboard shortcut ctrl + z in most applications is used to:",
+      "key": "Undo the last action"
+    },
+    {
+      "test": 84,
+      "stem": "match the following computer shortcuts with their functions: column i: (a) ctrl",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about the internet: (i) http stands for hypertext",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 84,
+      "stem": "fill in the blank: the full form of 'pdf' is portable __________",
+      "key": "Document"
+    },
+    {
+      "test": 84,
+      "stem": "consider the following statements about ms excel: (i) formulas in excel always",
+      "key": "(i), (ii) and (iii)"
     }
   ]
 }

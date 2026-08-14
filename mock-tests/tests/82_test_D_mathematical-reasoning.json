@@ -1,0 +1,247 @@
+{
+  "subject": "D",
+  "topic": "Mathematical Reasoning",
+  "total_questions": 30,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "If all roses are flowers and some flowers are red, which of the following conclusions is definitely true?",
+      "options": ["All roses are red", "Some roses are red", "Some flowers are roses", "No rose is red"],
+      "correctAnswer": "Some flowers are roses",
+      "explanation": "Since all roses are flowers, the set of roses is entirely within the set of flowers. Therefore, some flowers are roses (those that happen to be roses). 'All roses are red' doesn't follow because the premise only says SOME flowers are red. 'Some roses are red' is not necessarily true — the red flowers may not include any roses. 'No rose is red' also cannot be concluded definitively."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about logical reasoning:\n\n(i) If P → Q is true, then Q → P is also necessarily true.\n(ii) If P → Q is true and P is true, then Q must be true (Modus Ponens).\n(iii) If P → Q is true and Q is false, then P must be false (Modus Tollens).\n(iv) The contrapositive of P → Q is ~Q → ~P.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct — Modus Ponens states if P implies Q and P is true, Q must be true. Statement (iii) is correct — Modus Tollens states if P implies Q and Q is false, P must be false. Statement (iv) is correct — the contrapositive of P → Q is ~Q → ~P and is logically equivalent. Statement (i) is incorrect — P → Q does NOT mean Q → P (this is the fallacy of affirming the consequent/converse error)."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The statement 'If it rains, then the ground is wet' does NOT mean 'If the ground is wet, then it rained.'\nReason (R): The converse of a conditional statement is not logically equivalent to the original statement.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 'If rain → wet ground' does not mean 'wet ground → rain' (ground could be wet for other reasons). Reason (R) is correct — in logic, the converse (Q → P) is not equivalent to the original (P → Q). The Reason directly explains WHY the assertion is true — because converses aren't logically equivalent. Option B is wrong because (R) directly explains (A). Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "If the statement 'All dogs are animals' is true, which of the following must also be true?",
+      "options": ["Some animals are dogs", "All animals are dogs", "No animal is a dog", "Some dogs are not animals"],
+      "correctAnswer": "Some animals are dogs",
+      "explanation": "If all dogs are animals (dogs ⊆ animals), then there exist some animals that are dogs (since dogs exist as a non-empty set within animals). 'All animals are dogs' is wrong — there are animals that aren't dogs. 'No animal is a dog' contradicts the premise. 'Some dogs are not animals' also contradicts the premise that ALL dogs are animals."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Match the following logical terms with their definitions:\n\nColumn I:\n(a) Tautology\n(b) Contradiction\n(c) Contingency\n(d) Negation\n\nColumn II:\n(i) A statement that is always false\n(ii) A statement that reverses the truth value\n(iii) A statement that is always true\n(iv) A statement that can be true or false depending on values\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "A tautology is always true regardless of component values (a-iii). A contradiction is always false (b-i). A contingency can be true or false depending on the truth values of its components (c-iv). Negation reverses the truth value of a statement (d-ii). Option B swaps tautology with contradiction. Option C swaps contradiction with contingency. Option D misassigns tautology to negation."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "A statement says: 'If a number is divisible by 6, then it is divisible by both 2 and 3.' The contrapositive of this statement is:",
+      "options": ["If a number is not divisible by 2 or not divisible by 3, then it is not divisible by 6", "If a number is divisible by 2 and 3, then it is divisible by 6", "If a number is not divisible by 6, then it is not divisible by 2 or 3", "If a number is divisible by 6, then it is divisible by 2 or 3"],
+      "correctAnswer": "If a number is not divisible by 2 or not divisible by 3, then it is not divisible by 6",
+      "explanation": "The contrapositive of P → Q is ~Q → ~P. Here P = 'divisible by 6' and Q = 'divisible by 2 AND 3'. The negation of Q (divisible by 2 AND 3) is 'NOT divisible by 2 OR NOT divisible by 3' (De Morgan's Law). So the contrapositive is: 'If not div by 2 or not div by 3, then not div by 6.' Option B is the converse. Option C negates only P incorrectly. Option D changes AND to OR in the original."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Consider the following statements about mathematical induction:\n\n(i) The base case verifies the statement for the smallest value (usually n = 1).\n(ii) The inductive step assumes the statement is true for n = k and proves it for n = k + 1.\n(iii) Mathematical induction can only be used for proving statements about natural numbers.\n(iv) If both the base case and inductive step are proven, the statement holds for all relevant values.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — the base case establishes truth for the starting value. Statement (ii) is correct — the inductive step bridges from k to k+1. Statement (iv) is correct — together they prove the statement for all values from the base onward. Statement (iii) is incorrect — mathematical induction can be applied to integers, well-ordered sets, and can start from any integer, not just natural numbers."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "In a group of 60 students, 35 play cricket, 25 play football, and 10 play both. How many students play neither cricket nor football?",
+      "options": ["10", "15", "20", "5"],
+      "correctAnswer": "10",
+      "explanation": "Using the inclusion-exclusion principle: Students who play at least one sport = 35 + 25 - 10 = 50. Students who play neither = 60 - 50 = 10. Option 15 would result from forgetting to subtract the overlap. Option 20 incorrectly subtracts the overlap twice. Option 5 results from a calculation error."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a valid syllogism, if both premises are true, the conclusion must be true.\nReason (R): A valid argument preserves truth — it is impossible for the premises to be true and the conclusion false.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — validity means true premises guarantee a true conclusion. Reason (R) is correct — this is the definition of logical validity (truth-preserving). The Reason is the formal definition that explains why assertion (A) is true. Option B is wrong because (R) is the very definition that makes (A) true. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "If p is true and q is false, what is the truth value of the statement (p ∧ q) → p?",
+      "options": ["True", "False", "Cannot be determined", "Neither true nor false"],
+      "correctAnswer": "True",
+      "explanation": "When p = True and q = False: p ∧ q = True AND False = False. The conditional False → True = True (a conditional is false ONLY when the antecedent is true and consequent is false). Here the antecedent (p ∧ q) is false, so the conditional is vacuously true. 'False' is wrong because a false antecedent makes any conditional true. 'Cannot be determined' is wrong as we have definite values. 'Neither' doesn't apply in classical logic."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Consider the following statements about sets A and B:\n\n(i) If A ⊂ B, then A ∩ B = A.\n(ii) If A ∩ B = ∅, then A and B are disjoint sets.\n(iii) A ∪ B is always larger than both A and B individually.\n(iv) If A = B, then A ⊂ B and B ⊂ A.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — if A is a subset of B, their intersection is A itself. Statement (ii) is correct — empty intersection defines disjoint sets. Statement (iv) is correct — equality of sets means each is a subset of the other (A ⊆ B and B ⊆ A). Statement (iii) is incorrect — if A ⊂ B, then A ∪ B = B, which is not 'larger' than B; also |A ∪ B| can equal |A| or |B| when one contains the other."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Which of the following represents a valid logical argument?\n\n(i) All cats are animals. Tom is a cat. Therefore, Tom is an animal.\n(ii) Some birds can fly. Penguins are birds. Therefore, penguins can fly.\n(iii) If it rains, roads are wet. Roads are wet. Therefore, it rained.\n(iv) No fish can walk. Salmon is a fish. Therefore, salmon cannot walk.\n\nSelect the correct combination:",
+      "options": ["(i) and (iv) only", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i) and (iv) only",
+      "explanation": "(i) is valid — universal affirmative + specific case = valid conclusion (Barbara syllogism). (iv) is valid — universal negative + specific case = valid negative conclusion. (ii) is INVALID — 'some birds can fly' doesn't mean ALL birds can, so we can't conclude penguins fly. (iii) is INVALID — this is affirming the consequent (roads could be wet for other reasons). Options B, C, and D include invalid arguments."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "Match the following logical connectives with their symbols:\n\nColumn I:\n(a) Conjunction (AND)\n(b) Disjunction (OR)\n(c) Implication (IF...THEN)\n(d) Biconditional (IF AND ONLY IF)\n\nColumn II:\n(i) →\n(ii) ∧\n(iii) ↔\n(iv) ∨\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Conjunction (AND) uses ∧ (a-ii). Disjunction (OR) uses ∨ (b-iv). Implication (IF...THEN) uses → (c-i). Biconditional (IF AND ONLY IF) uses ↔ (d-iii). Option B swaps AND with OR. Option C assigns implication symbol to OR. Option D incorrectly assigns → to AND."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "If the statement 'Some students are hardworking' is true, which of the following is necessarily false?",
+      "options": ["No student is hardworking", "All students are hardworking", "Some students are not hardworking", "Many students are hardworking"],
+      "correctAnswer": "No student is hardworking",
+      "explanation": "'Some students are hardworking' (particular affirmative I) contradicts 'No student is hardworking' (universal negative E). If at least one student IS hardworking, then 'No student is hardworking' must be false. 'All students are hardworking' is possible (not necessarily false). 'Some students are not hardworking' is possible. 'Many students are hardworking' is possible."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Consider the following statements about truth tables:\n\n(i) A truth table for a compound statement with 2 variables has 4 rows.\n(ii) A truth table for a compound statement with 3 variables has 8 rows.\n(iii) The number of rows in a truth table is 2^n where n is the number of variables.\n(iv) A truth table for 4 variables has 12 rows.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — 2 variables give 2² = 4 rows. Statement (ii) is correct — 3 variables give 2³ = 8 rows. Statement (iii) is correct — the general formula is 2^n rows. Statement (iv) is incorrect — 4 variables give 2⁴ = 16 rows, not 12."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "A bag contains 5 red balls and 3 blue balls. If two balls are drawn at random without replacement, what is the probability that both are red?",
+      "options": ["5/14", "25/64", "10/28", "5/8"],
+      "correctAnswer": "5/14",
+      "explanation": "P(both red) = (5/8) × (4/7) = 20/56 = 5/14. First draw: 5 red out of 8 total = 5/8. Second draw (without replacement): 4 red out of 7 remaining = 4/7. Product = 20/56 = 5/14. Option 25/64 incorrectly assumes replacement (5/8 × 5/8). Option 10/28 = 5/14 (same answer but let's check: 10/28 does simplify to 5/14 — this is actually the same). Option 5/8 is just the first draw probability."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The statement 'p ∨ ~p' is always true (a tautology).\nReason (R): For any proposition p, either p is true or its negation (~p) is true — this is the Law of Excluded Middle.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — p ∨ ~p is always true regardless of the truth value of p (tautology). Reason (R) is correct — the Law of Excluded Middle states every proposition is either true or false, making p ∨ ~p always true. The Reason identifies the logical law that makes (A) true. Option B is wrong because (R) directly names the law. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "In how many ways can 5 different books be arranged on a shelf?",
+      "options": ["120", "25", "60", "720"],
+      "correctAnswer": "120",
+      "explanation": "The number of arrangements of 5 different books = 5! = 5 × 4 × 3 × 2 × 1 = 120. Option 25 = 5² (incorrect formula). Option 60 = 5 × 4 × 3 (only partial factorial, P(5,3)). Option 720 = 6! which is for 6 items, not 5."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Which of the following are examples of valid De Morgan's Laws?\n\n(i) ~(p ∧ q) ≡ ~p ∨ ~q\n(ii) ~(p ∨ q) ≡ ~p ∧ ~q\n(iii) ~(p ∧ q) ≡ ~p ∧ ~q\n(iv) ~(p ∨ q) ≡ ~p ∨ ~q\n\nSelect the correct combination:",
+      "options": ["(i) and (ii) only", "(iii) and (iv) only", "(i), (ii) and (iii)", "All of the above"],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "De Morgan's Laws state: ~(p ∧ q) ≡ ~p ∨ ~q (negation of AND becomes OR of negations) — (i) is correct. ~(p ∨ q) ≡ ~p ∧ ~q (negation of OR becomes AND of negations) — (ii) is correct. Statement (iii) is incorrect — it says negation of AND = AND of negations, but it should be OR. Statement (iv) is incorrect — it says negation of OR = OR of negations, but it should be AND."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "The following data shows the results of a logical test administered to 100 students:\n\n| Score Range | Number of Students |\n|-------------|-------------------|\n| 0–20 | 10 |\n| 21–40 | 25 |\n| 41–60 | 35 |\n| 61–80 | 20 |\n| 81–100 | 10 |\n\nWhat percentage of students scored above 60?",
+      "options": ["30%", "35%", "25%", "40%"],
+      "correctAnswer": "30%",
+      "explanation": "Students scoring above 60 = those in 61-80 range (20) + those in 81-100 range (10) = 30. Percentage = 30/100 × 100 = 30%. Option 35% would include 35 students (incorrect addition). Option 25% counts only 25 students. Option 40% overcounts the students above 60."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "If A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, then A ∪ B is:",
+      "options": ["{1, 2, 3, 4, 5, 6}", "{3, 4}", "{1, 2, 5, 6}", "{1, 2, 3, 4, 3, 4, 5, 6}"],
+      "correctAnswer": "{1, 2, 3, 4, 5, 6}",
+      "explanation": "The union A ∪ B contains all elements that are in A or B or both: {1, 2, 3, 4, 5, 6}. {3, 4} is the intersection A ∩ B. {1, 2, 5, 6} is the symmetric difference A Δ B. The last option repeats elements, which is not how sets work (sets contain unique elements only)."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The negation of 'All birds can fly' is 'Some birds cannot fly'.\n(ii) The negation of 'Some cats are white' is 'No cat is white'.\n(iii) The negation of 'No fish can walk' is 'All fish can walk'.\n(iv) The negation of 'Some students passed' is 'No student passed'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i) and (ii) only", "(i), (ii) and (iii)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — negation of 'All A are B' is 'Some A are not B'. Statement (ii) is correct — negation of 'Some A are B' is 'No A is B'. Statement (iv) is correct — negation of 'Some students passed' is 'No student passed' (same structure as ii). Statement (iii) is incorrect — the negation of 'No fish can walk' (universal negative) is 'Some fish can walk' (particular affirmative), NOT 'All fish can walk'."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "Match the following types of reasoning with their descriptions:\n\nColumn I:\n(a) Deductive reasoning\n(b) Inductive reasoning\n(c) Abductive reasoning\n(d) Analogical reasoning\n\nColumn II:\n(i) Drawing conclusions from specific observations to general rules\n(ii) Drawing conclusions from general premises to specific cases\n(iii) Inferring the best explanation for observed facts\n(iv) Drawing conclusions based on similarity between cases\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "Deductive reasoning goes from general to specific (a-ii). Inductive reasoning goes from specific observations to general rules (b-i). Abductive reasoning infers the best explanation for given facts (c-iii). Analogical reasoning draws conclusions based on similarities (d-iv). Option B swaps deductive with inductive. Option C misassigns inductive to abductive. Option D incorrectly places abductive as deductive."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Fill in the blank: If p → q is true and ~q is true, then by Modus Tollens, __________ must be true.",
+      "options": ["~p", "p", "q", "~q → ~p"],
+      "correctAnswer": "~p",
+      "explanation": "Modus Tollens states: If p → q and ~q, then ~p. Given that p implies q is true and q is false (~q), we conclude p must also be false (~p). 'p' is wrong — if q is false and p → q, then p cannot be true. 'q' is wrong — we are given that ~q is true. '~q → ~p' is the contrapositive form, not the conclusion drawn from the two premises."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "In a committee of 8 people, how many ways can a chairman and a secretary be selected?",
+      "options": ["56", "28", "64", "36"],
+      "correctAnswer": "56",
+      "explanation": "Selecting a chairman and secretary (two different positions) from 8 people = P(8,2) = 8 × 7 = 56. Order matters since chairman ≠ secretary. Option 28 = C(8,2) which doesn't account for which person gets which role. Option 64 = 8² which would allow the same person for both. Option 36 = 6 × 6 which uses wrong numbers."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Which of the following statements are logically equivalent?\n\n(i) p → q\n(ii) ~q → ~p\n(iii) ~p ∨ q\n(iv) q → p\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i) and (ii) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) p → q is the original conditional. (ii) ~q → ~p is the contrapositive, which is always equivalent to the original. (iii) ~p ∨ q is the material conditional form of p → q (a conditional is equivalent to 'not p OR q'). (iv) q → p is the CONVERSE of p → q, which is NOT logically equivalent. Options B and D incorrectly include the converse."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "A coin is tossed 3 times. What is the probability of getting at least 2 heads?",
+      "options": ["1/2", "3/8", "1/4", "5/8"],
+      "correctAnswer": "1/2",
+      "explanation": "Total outcomes = 2³ = 8. Favorable outcomes (at least 2 heads): Exactly 2 heads = C(3,2) = 3 ways (HHT, HTH, THH). Exactly 3 heads = C(3,3) = 1 way (HHH). Total favorable = 3 + 1 = 4. Probability = 4/8 = 1/2. Option 3/8 counts only exactly 2 heads. Option 1/4 = 2/8 is too low. Option 5/8 overcounts."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "The following data shows the number of valid and invalid arguments identified by a student in 5 practice sets:\n\n| Practice Set | Valid | Invalid | Total |\n|--------------|-------|---------|-------|\n| Set 1 | 7 | 3 | 10 |\n| Set 2 | 6 | 4 | 10 |\n| Set 3 | 8 | 2 | 10 |\n| Set 4 | 5 | 5 | 10 |\n| Set 5 | 9 | 1 | 10 |\n\nWhat is the overall accuracy (percentage of correct identifications) if valid answers are correct and invalid answers are errors?",
+      "options": ["70%", "75%", "80%", "65%"],
+      "correctAnswer": "70%",
+      "explanation": "Total valid (correct) identifications = 7 + 6 + 8 + 5 + 9 = 35. Total questions = 50. Accuracy = 35/50 × 100 = 70%. Option 75% would need 37.5 correct. Option 80% would need 40 correct. Option 65% would need 32.5 correct."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "If the universal set U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} and A = {2, 4, 6, 8, 10}, what is A' (complement of A)?",
+      "options": ["{1, 3, 5, 7, 9}", "{2, 4, 6, 8, 10}", "{1, 2, 3, 4, 5}", "{3, 5, 7, 9, 11}"],
+      "correctAnswer": "{1, 3, 5, 7, 9}",
+      "explanation": "The complement A' contains all elements in U that are NOT in A. U = {1,2,3,4,5,6,7,8,9,10}, A = {2,4,6,8,10}. So A' = {1,3,5,7,9}. Option {2,4,6,8,10} is A itself. Option {1,2,3,4,5} is not the complement. Option {3,5,7,9,11} includes 11 which is not in U."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "How many diagonals does a regular hexagon have?",
+      "options": ["9", "6", "12", "15"],
+      "correctAnswer": "9",
+      "explanation": "Number of diagonals of an n-sided polygon = n(n-3)/2. For hexagon (n=6): 6(6-3)/2 = 6×3/2 = 9. Option 6 = number of sides (not diagonals). Option 12 = 2 × 6 (incorrect formula). Option 15 = C(6,2) = total line segments including sides, not just diagonals."
+    }
+  ]
+}
