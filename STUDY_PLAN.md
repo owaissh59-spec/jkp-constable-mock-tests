@@ -197,17 +197,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 67 | Morning | A — General English | Direct/Indirect Narration | 30 | standard | Topic-wise | ⬜ |
-| 68 | Afternoon | E — Basic Concepts of Computers | Hardware & Software (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 69 | Late | B — General Knowledge & Current Affairs (India) | Democratic Institutions & Forms of Government | 50 | standard | Topic-wise | ⬜ |
+| 67 | Morning | A — General English | Direct/Indirect Narration | 30 | standard | Topic-wise | ✅ |
+| 68 | Afternoon | E — Basic Concepts of Computers | Hardware & Software (Revision) | 40 | standard | Topic-wise | ✅ |
+| 69 | Late | B — General Knowledge & Current Affairs (India) | Democratic Institutions & Forms of Government | 50 | standard | Topic-wise | ✅ |
 
 ### Day 24
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 70 | Morning | D — Numerical and Reasoning Ability | Trigonometry | 30 | standard | Topic-wise | ⬜ |
-| 71 | Afternoon | C — General Knowledge — J&K | Current Events — Local, National & International (J&K focus) | 40 | standard | Topic-wise | ⬜ |
-| 72 | Late | A — General English | One-Word Substitution | 50 | standard | Topic-wise | ⬜ |
+| 70 | Morning | D — Numerical and Reasoning Ability | Trigonometry | 30 | standard | Topic-wise | ✅ |
+| 71 | Afternoon | C — General Knowledge — J&K | Current Events — Local, National & International (J&K focus) | 40 | standard | Topic-wise | ✅ |
+| 72 | Late | A — General English | One-Word Substitution | 50 | standard | Topic-wise | ✅ |
 
 ### Day 25
 
