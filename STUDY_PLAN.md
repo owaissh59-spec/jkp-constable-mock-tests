@@ -245,17 +245,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 85 | Morning | B — General Knowledge & Current Affairs (India) | Agriculture & Industrialization in Economic Development | 30 | standard | Topic-wise | ⬜ |
-| 86 | Afternoon | D — Numerical and Reasoning Ability | Number System & Simplification (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 87 | Late | E — Basic Concepts of Computers | Safety & Security (Revision) | 50 | standard | Topic-wise | ⬜ |
+| 85 | Morning | B — General Knowledge & Current Affairs (India) | Agriculture & Industrialization in Economic Development | 30 | standard | Topic-wise | ✅ |
+| 86 | Afternoon | D — Numerical and Reasoning Ability | Number System & Simplification (Revision) | 40 | standard | Topic-wise | ✅ |
+| 87 | Late | E — Basic Concepts of Computers | Safety & Security (Revision) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 30
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 88 | Morning | A — General English | Idioms & Phrases (Revision) | 30 | standard | Topic-wise | ⬜ |
-| 89 | Afternoon | C — General Knowledge — J&K | History of J&K — Historical Places (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 90 | Late | D — Numerical and Reasoning Ability | Profit & Loss (Revision) | 50 | standard | Topic-wise | ⬜ |
+| 88 | Morning | A — General English | Idioms & Phrases (Revision) | 30 | standard | Topic-wise | ✅ |
+| 89 | Afternoon | C — General Knowledge — J&K | History of J&K — Historical Places (Revision) | 40 | standard | Topic-wise | ✅ |
+| 90 | Late | D — Numerical and Reasoning Ability | Profit & Loss (Revision) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 31
 
