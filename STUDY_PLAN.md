@@ -323,8 +323,8 @@
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
 | 112 | Morning | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
-| 113 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 114 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 113 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 114 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 39
 

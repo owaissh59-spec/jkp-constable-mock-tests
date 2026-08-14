@@ -1,0 +1,487 @@
+{
+  "subject": "A",
+  "topic": "All topics of General English (mixed)",
+  "total_questions": 60,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct article: __________ honest person is respected by everyone.",
+      "options": ["An", "A", "The", "No article"],
+      "correctAnswer": "An",
+      "explanation": "'Honest' begins with a silent 'h' — the vowel sound /ɒ/ is heard first, requiring 'an'. 'A' is for consonant sounds. 'The' would make it specific (not intended here). 'No article' is wrong because a singular countable noun needs an article."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Consider the following statements about English tenses:\n\n(i) Present Perfect Continuous uses 'has/have been + verb-ing'.\n(ii) Past Perfect uses 'had + past participle' for an action before another past action.\n(iii) Future Perfect uses 'will have + past participle' for completion before a future time.\n(iv) Simple Present can never be used for future events.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Present Perfect Continuous: has/have been + -ing (i correct). Past Perfect: had + PP for earlier of two past events (ii correct). Future Perfect: will have + PP (iii correct). Statement (iv) is incorrect — Simple Present IS used for scheduled future events: 'The train leaves at 6 PM tomorrow' or in conditional/time clauses: 'When he comes, tell him.'"
+    },
+    {
+      "id": "3",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Each', 'every', and 'neither' always take singular verbs.\nReason (R): These are distributive pronouns/determiners that refer to individuals separately within a group, treating each member as a single entity.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 'each HAS', 'every student IS', 'neither WAS' — all singular. Reason (R) is correct — distributive words single out individuals from a group. The individual treatment (R) is why singular verbs are used (A). Option B is wrong because (R) explains the grammar rule. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "4",
+      "subject": "A",
+      "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) To have cold feet\n(b) To see red\n(c) To feel under the weather\n(d) To be in the dark\n\nColumn II:\n(i) To be uninformed or unaware\n(ii) To feel nervous or afraid before an event\n(iii) To feel unwell or slightly ill\n(iv) To become very angry\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "'Cold feet' = nervous/afraid before something (a-ii). 'See red' = become very angry (b-iv). 'Under the weather' = feeling ill (c-iii). 'In the dark' = uninformed (d-i). Option B swaps cold feet with see red. Option C mismatches see red with under the weather. Option D incorrectly pairs cold feet with in the dark."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Which of the following sentences correctly use prepositions?\n\n(i) She is good at painting landscapes.\n(ii) He insisted on speaking to the manager.\n(iii) They congratulated him for his achievement.\n(iv) The book is different from what I expected.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "'Good at' is correct (i correct). 'Insisted on' is correct (ii correct). 'Different from' is correct British English (iv correct). 'Congratulated him FOR' (iii) is INCORRECT — the correct preposition is 'congratulated him ON his achievement'. Options B and D include the incorrect preposition."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Choose the word most nearly OPPOSITE in meaning to 'IMPETUOUS':",
+      "options": ["Cautious", "Hasty", "Reckless", "Impulsive"],
+      "correctAnswer": "Cautious",
+      "explanation": "'Impetuous' means acting quickly without thought, rash. 'Cautious' means careful and deliberate — the direct antonym. 'Hasty' is a synonym (acting too quickly). 'Reckless' means careless — synonym. 'Impulsive' means acting on impulse — synonym."
+    },
+    {
+      "id": "7",
+      "subject": "A",
+      "questionText": "Consider the following statements about clauses:\n\n(i) A subordinate clause cannot stand alone as a complete sentence.\n(ii) 'Although she was tired' is an adverb clause of concession.\n(iii) 'What he said' can function as a noun clause.\n(iv) A compound sentence contains at least one subordinate clause.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Subordinate clauses are dependent — can't stand alone (i correct). 'Although...' concedes a point — adverb clause (ii correct). 'What he said' acts as subject/object — noun clause (iii correct). Statement (iv) is incorrect — a COMPOUND sentence has two+ INDEPENDENT clauses joined by coordinators (and, but, or). A sentence with a subordinate clause is COMPLEX, not compound."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["Had I known the truth, I would have acted differently.", "Had I knew the truth, I would have acted differently.", "Had I known the truth, I will have acted differently.", "Have I known the truth, I would have acted differently."],
+      "correctAnswer": "Had I known the truth, I would have acted differently.",
+      "explanation": "Inverted third conditional: 'Had + subject + past participle, would have + past participle.' 'Known' is correct PP after 'had' (not 'knew'). 'Would have acted' is correct for the result clause (not 'will have'). 'Have I known' uses wrong auxiliary tense."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The passive voice sentence 'The letter was written by her' is grammatically correct.\nReason (R): In passive voice, the object of the active sentence becomes the subject, the verb takes 'be + past participle' form, and the original subject becomes the agent with 'by'.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 'The letter was written by her' is proper Simple Past passive. Reason (R) is correct — it accurately describes passive voice formation (object→subject, be+PP, agent with by). The rule in (R) explains the structure in (A). Option B is wrong because (R) explains passive formation. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Match the following homophones with their correct usage:\n\nColumn I:\n(a) Accept\n(b) Except\n(c) Affect\n(d) Effect\n\nColumn II:\n(i) The result or outcome (noun)\n(ii) To receive willingly (verb)\n(iii) To influence or have impact on (verb)\n(iv) Excluding or other than (preposition)\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Accept = to receive willingly (a-ii). Except = excluding (b-iv). Affect = to influence (verb) (c-iii). Effect = the result (noun) (d-i). Option B swaps accept with except. Option C mismatches except with affect. Option D incorrectly pairs accept with effect."
+    },
+    {
+      "id": "11",
+      "subject": "A",
+      "questionText": "Choose the word most nearly SIMILAR in meaning to 'FASTIDIOUS':",
+      "options": ["Very particular and hard to please about details", "Extremely fast and agile", "Easily bored and restless", "Very generous and giving"],
+      "correctAnswer": "Very particular and hard to please about details",
+      "explanation": "'Fastidious' means excessively attentive to detail, fussy, meticulous. 'Very particular about details' captures this. 'Fast and agile' confuses it with 'fast'. 'Bored and restless' is unrelated. 'Generous' is completely different."
+    },
+    {
+      "id": "12",
+      "subject": "A",
+      "questionText": "Consider the following statements about reported speech:\n\n(i) 'She said, \"I am happy\"' → She said that she was happy. (Correct)\n(ii) 'He said, \"The Earth is round\"' → He said that the Earth is round. (Universal truth — no change)\n(iii) 'They said, \"We will come tomorrow\"' → They said that they would come the next day. (Correct)\n(iv) 'He asked, \"Where do you live?\"' → He asked where did I live. (Correct)\n\nWhich transformations are CORRECT?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) Correct — 'am'→'was', 'I'→'she'. (ii) Correct — universal truths stay present tense. (iii) Correct — 'will'→'would', 'we'→'they', 'tomorrow'→'the next day'. Statement (iv) is INCORRECT — reported questions use statement word order: 'He asked where I lived' (NOT 'where did I live'). The auxiliary 'did' and question order must be removed."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Fill in the blank: The idiom 'to be in someone's good __________' means to have their approval or favour.",
+      "options": ["books", "eyes", "papers", "words"],
+      "correctAnswer": "books",
+      "explanation": "'In someone's good books' means having their favour/approval. 'Good eyes' is not a standard idiom. 'Good papers' is not idiomatic. 'Good words' — while 'put in a good word' exists, 'in someone's good words' is not the standard expression."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Who' is used as a subject pronoun and 'whom' is used as an object pronoun.\nReason (R): 'Who' performs actions (subject position) while 'whom' receives actions (object of verb/preposition) — similar to 'he/she' vs 'him/her'.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — who(subject)/whom(object) distinction is a rule of formal English. Reason (R) is correct — it explains the case system (nominative/objective) with the helpful he/him analogy. The grammatical case explanation (R) clarifies (A). Option B is wrong because (R) gives the reason and analogy. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Which of the following sentences contain errors in pronoun usage?\n\n(i) 'Between you and I, the plan won't work.' (Error: should be 'me')\n(ii) 'Everyone must bring their own lunch.' (Debatable but informal)\n(iii) 'The teacher told he and I to stay.' (Error: should be 'him and me')\n(iv) 'She hurt herself while cooking.' (Correct reflexive use)\n\nWhich sentences have DEFINITE errors?",
+      "options": ["(i) and (iii)", "(i), (ii) and (iii)", "(i) only", "(iii) and (iv)"],
+      "correctAnswer": "(i) and (iii)",
+      "explanation": "'Between you and I' (i) — after preposition 'between', objective 'me' is needed (definite error). 'Told he and I' (iii) — after verb 'told' (indirect object), 'him and me' is needed (definite error). 'Everyone...their' (ii) is debatable (accepted informally). 'Herself' (iv) is correctly used. Only (i) and (iii) have clear grammatical errors."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Match the following grammatical terms with examples:\n\nColumn I:\n(a) Oxymoron\n(b) Alliteration\n(c) Onomatopoeia\n(d) Euphemism\n\nColumn II:\n(i) 'Buzz', 'hiss', 'splash' — words imitating sounds\n(ii) 'Passed away' instead of 'died' — mild expression for harsh reality\n(iii) 'Deafening silence' — contradictory terms together\n(iv) 'Peter Piper picked peppers' — repetition of initial consonant sound\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Oxymoron: contradictory terms — 'deafening silence' (a-iii). Alliteration: repeated initial sounds — 'Peter Piper picked' (b-iv). Onomatopoeia: sound-imitating words — 'buzz, hiss' (c-i). Euphemism: mild substitute for harsh terms — 'passed away' for 'died' (d-ii). Option B swaps oxymoron with alliteration. Option C mismatches alliteration with onomatopoeia. Option D incorrectly pairs oxymoron with euphemism."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Choose the correct form: If the weather __________ fine tomorrow, we will go for a picnic.",
+      "options": ["is", "will be", "was", "would be"],
+      "correctAnswer": "is",
+      "explanation": "First conditional (real/possible future): 'If + present simple, will + verb.' The if-clause uses present simple 'is' (not future tense). 'Will be' cannot follow 'if' in standard conditionals. 'Was' would make it second conditional (unreal). 'Would be' also creates an unreal condition."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Consider the following statements about punctuation:\n\n(i) A semicolon connects two related independent clauses without a conjunction.\n(ii) An apostrophe shows possession ('John's book') or contraction ('don't').\n(iii) A colon introduces a list, explanation, or quotation.\n(iv) A comma always separates a subject from its verb.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Semicolons join related independent clauses (i correct). Apostrophes show possession/contraction (ii correct). Colons introduce lists/explanations (iii correct). Statement (iv) is incorrect — you should NEVER place a comma between a subject and its verb ('The boy, ran' is wrong). A comma doesn't separate subject from verb."
+    },
+    {
+      "id": "19",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The phrase 'a pair of trousers' takes a singular verb: 'A pair of trousers IS on the bed.'\nReason (R): When 'pair' is the head noun, the verb agrees with 'pair' (singular), not with the noun in the 'of' phrase.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 'a pair...IS' uses singular verb. Reason (R) is correct — 'pair' (singular) governs agreement, not 'trousers'. The head-noun rule (R) explains the singular verb (A). Option B is wrong because (R) is the grammar rule. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Choose the word most nearly OPPOSITE in meaning to 'VERBOSE':",
+      "options": ["Concise", "Wordy", "Talkative", "Lengthy"],
+      "correctAnswer": "Concise",
+      "explanation": "'Verbose' means using more words than necessary, long-winded. 'Concise' means brief and to the point — direct antonym. 'Wordy' is a synonym. 'Talkative' is similar. 'Lengthy' also aligns with verbose."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Which of the following are correct uses of the subjunctive mood?\n\n(i) 'I wish I were taller.' (Hypothetical — were for all subjects)\n(ii) 'The judge demanded that the prisoner be released.' (Demand + base form)\n(iii) 'If I was you, I'd leave.' (Formal subjunctive with 'were')\n(iv) 'It is essential that she attend the meeting.' (Essential + base form)\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "'I wish I were' — correct subjunctive (i correct). 'Demanded that...be released' — mandative subjunctive with base form (ii correct). 'Essential that she attend' — subjunctive after 'essential' (iv correct). Statement (iii) is INCORRECT — 'If I was you' does NOT use formal subjunctive; it should be 'If I WERE you.' The sentence actually uses indicative 'was' instead of subjunctive 'were'."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Match the following one-word substitutions:\n\nColumn I:\n(a) One who cannot be corrected\n(b) One who eats human flesh\n(c) One who knows many languages\n(d) One who hates marriage\n\nColumn II:\n(i) Misogamist\n(ii) Incorrigible\n(iii) Polyglot\n(iv) Cannibal\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Incorrigible = cannot be corrected (a-ii). Cannibal = eats human flesh (b-iv). Polyglot = knows many languages (c-iii). Misogamist = hates marriage (d-i). Option B swaps incorrigible with cannibal. Option C mismatches cannibal with polyglot. Option D incorrectly pairs incorrigible with misogamist."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Fill in the blank: Despite __________ all night, she could not finish the assignment.",
+      "options": ["studying", "studied", "to study", "study"],
+      "correctAnswer": "studying",
+      "explanation": "'Despite' is a preposition followed by a noun/gerund (-ing form). 'Studying' is the gerund functioning as a noun after 'despite'. 'Studied' is past tense — wrong after prepositions. 'To study' is infinitive — doesn't follow 'despite'. 'Study' is base form — incorrect here."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Consider the following statements about articles:\n\n(i) 'An MBA student' uses 'an' because M is pronounced /em/ (vowel sound).\n(ii) 'A university' uses 'a' because U is pronounced /juː/ (consonant sound).\n(iii) 'The' is used before unique nouns (the Sun, the Earth).\n(iv) Articles are always required before all proper nouns.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'An MBA' — M sounds like /em/ starting with vowel sound (i correct). 'A university' — /juː/ is a consonant sound (ii correct). 'The Sun/Earth' — unique entities get 'the' (iii correct). Statement (iv) is incorrect — most proper nouns take NO article ('India', 'John'). Only some take 'the' (The USA, The Ganges). Articles are NOT always required."
+    },
+    {
+      "id": "25",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Split infinitives (like 'to boldly go') are now widely accepted in modern English.\nReason (R): The traditional rule against splitting infinitives was based on Latin grammar rules inappropriately applied to English; modern usage authorities consider natural-sounding split infinitives acceptable.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — split infinitives are accepted in modern English. Reason (R) is correct — the old rule came from Latin (where infinitives are single words) and doesn't naturally apply to English. The historical explanation (R) shows why the rule was abandoned (A). Option B is wrong because (R) explains the acceptance. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Choose the correct word: The __________ of the committee was to investigate the fraud case.",
+      "options": ["mandate", "man date", "mandat", "manddate"],
+      "correctAnswer": "mandate",
+      "explanation": "'Mandate' means an official order or authority given to a body. 'Man date' is two words (not applicable). 'Mandat' and 'manddate' are misspellings. Only 'mandate' correctly fits as a noun meaning official instruction/authority."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Consider the following sentences and identify the correctly transformed passive voice:\n\n(i) 'They are building a bridge.' → 'A bridge is being built by them.' (Correct)\n(ii) 'She has completed the work.' → 'The work has been completed by her.' (Correct)\n(iii) 'He will write the letter.' → 'The letter will be written by him.' (Correct)\n(iv) 'She sings a song.' → 'A song is sung by she.' (Incorrect)\n\nWhich transformations are CORRECT?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) Present Continuous passive — correct. (ii) Present Perfect passive — correct. (iii) Simple Future passive — correct. Statement (iv) is incorrect — 'by she' should be 'by HER' (objective case after preposition 'by'). The correct form is 'A song is sung by her.'"
+    },
+    {
+      "id": "28",
+      "subject": "A",
+      "questionText": "Match the following analogies:\n\nColumn I:\n(a) Doctor : Hospital\n(b) Teacher : School\n(c) Pen : Writer\n(d) Hammer : Carpenter\n\nColumn II:\n(i) Worker : Tool relationship\n(ii) Professional : Workplace (place of work)\n(iii) Professional : Workplace (place of work)\n(iv) Worker : Tool relationship\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "Doctor:Hospital = professional:workplace (a-ii). Teacher:School = professional:workplace (b-iii). Pen:Writer = tool:worker (c-i). Hammer:Carpenter = tool:worker (d-iv). The first two are place relationships; the last two are tool relationships. Option B mismatches Doctor with tool. Option C swaps the tool pairs. Option D incorrectly pairs Doctor with tool."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Fill in the blank: She couldn't help __________ when she heard the joke.",
+      "options": ["laughing", "to laugh", "laugh", "laughed"],
+      "correctAnswer": "laughing",
+      "explanation": "'Can't help + gerund' is a fixed construction meaning unable to stop doing something: 'couldn't help laughing.' 'Can't help to laugh' is incorrect in standard English. 'Laugh' (base form) and 'laughed' (past) don't follow 'help' in this structure."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Choose the word most nearly SIMILAR in meaning to 'PERTINACIOUS':",
+      "options": ["Stubbornly persistent", "Extremely shy", "Very generous", "Completely irrelevant"],
+      "correctAnswer": "Stubbornly persistent",
+      "explanation": "'Pertinacious' means holding firmly to a purpose, stubbornly persistent. 'Stubbornly persistent' is the closest match. 'Extremely shy' is unrelated. 'Very generous' is unrelated. 'Completely irrelevant' confuses 'pertinacious' with 'impertinent' (which itself means irrelevant or rude)."
+    },
+    {
+      "id": "31",
+      "subject": "A",
+      "questionText": "Consider the following statements about active and passive voice:\n\n(i) In passive voice, the focus shifts from the doer to the receiver of the action.\n(ii) Not all sentences can be converted to passive (intransitive verbs cannot).\n(iii) 'The door was opened' is passive without an agent mentioned.\n(iv) Passive voice is always preferred over active voice in formal writing.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Passive shifts focus to receiver (i correct). Intransitive verbs (sleep, go, arrive) can't be passivized — they have no object (ii correct). Agentless passive is valid: 'was opened' (iii correct). Statement (iv) is incorrect — active voice is generally PREFERRED in most writing for clarity and directness. Passive is used situationally, not always preferred."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Lay' requires an object (transitive) while 'lie' does not (intransitive).\nReason (R): 'Lay' means to place/put something down (needs an object: lay the book), while 'lie' means to recline/rest (no object needed: I lie down).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — lay(transitive)/lie(intransitive) distinction. Reason (R) is correct — it defines both verbs with examples showing object requirement difference. The definitions (R) demonstrate the transitivity claim (A). Option B is wrong because (R) explains with examples. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "33",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["No sooner did the bell ring than the students rushed out.", "No sooner the bell rang than the students rushed out.", "No sooner did the bell ring when the students rushed out.", "No sooner had the bell ring than the students rushed out."],
+      "correctAnswer": "No sooner did the bell ring than the students rushed out.",
+      "explanation": "'No sooner...than' is the correct correlative pair (not 'when'). After 'no sooner' at the start, subject-verb inversion is required: 'did the bell ring' (not 'the bell rang'). Option B lacks inversion. Option C uses 'when' instead of 'than'. Option D uses 'had...ring' instead of 'had...rung' (wrong participle form)."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Match the following types of pronouns with examples:\n\nColumn I:\n(a) Demonstrative\n(b) Interrogative\n(c) Reflexive\n(d) Reciprocal\n\nColumn II:\n(i) 'They helped each other during the exam.'\n(ii) 'Those are my books on the shelf.'\n(iii) 'She taught herself to play piano.'\n(iv) 'Whom did you call yesterday?'\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Demonstrative: 'those' pointing to specific items (a-ii). Interrogative: 'whom' asking a question (b-iv). Reflexive: 'herself' — subject=object (c-iii). Reciprocal: 'each other' — mutual action (d-i). Option B swaps demonstrative with interrogative. Option C mismatches interrogative with reflexive. Option D incorrectly pairs demonstrative with reciprocal."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Fill in the blank: The teacher asked whether anyone __________ the answer to the question.",
+      "options": ["knew", "knows", "know", "knowing"],
+      "correctAnswer": "knew",
+      "explanation": "Reported question with past reporting verb 'asked' requires backshift: 'knows' → 'knew'. 'Knows' is present (no backshift). 'Know' is base form (no agreement). 'Knowing' is a participle (not a finite verb for the clause). Only 'knew' follows the sequence-of-tenses rule."
+    },
+    {
+      "id": "36",
+      "subject": "A",
+      "questionText": "Which of the following sentences have correct subject-verb agreement?\n\n(i) 'The news is very disturbing.' (Correct — 'news' is uncountable singular)\n(ii) 'Mathematics is my favourite subject.' (Correct — singular despite -s ending)\n(iii) 'The committee are divided in their opinion.' (Correct — members acting individually)\n(iv) 'Bread and butter are my breakfast.' (Incorrect — should be 'is' when one entity)\n\nWhich of the above assessments are CORRECT?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i) and (ii) only", "(i), (ii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "'News is' — correct, uncountable singular (i correct assessment). 'Mathematics is' — correct, singular subject (ii correct). 'Committee are...their' — correct in British English when members act individually (iii correct). 'Bread and butter are' — the assessment says it's incorrect and should be 'is' (correct assessment, as bread-and-butter is often treated as one unit) (iv correct). All four assessments are valid."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Choose the word most nearly OPPOSITE in meaning to 'LOQUACIOUS':",
+      "options": ["Taciturn", "Garrulous", "Verbose", "Talkative"],
+      "correctAnswer": "Taciturn",
+      "explanation": "'Loquacious' means very talkative. 'Taciturn' means reserved/saying very little — direct antonym. 'Garrulous' means excessively talkative — synonym. 'Verbose' means using too many words — synonym. 'Talkative' is a direct synonym. Only 'taciturn' is opposite."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The word 'unique' should not be modified by degree adverbs like 'very' or 'most' in formal English.\nReason (R): 'Unique' is an absolute adjective — something is either unique (one of a kind) or it isn't. There are no degrees of uniqueness.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 'very unique' is considered incorrect formally. Reason (R) is correct — 'unique' is absolute (like 'dead', 'perfect') and can't be graded. The absolute nature (R) explains why modifiers are inappropriate (A). Option B is wrong because (R) gives the logical reason. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "39",
+      "subject": "A",
+      "questionText": "Match the following phrasal verbs with their meanings:\n\nColumn I:\n(a) Give up\n(b) Give in\n(c) Give away\n(d) Give off\n\nColumn II:\n(i) To emit (light, heat, smell)\n(ii) To surrender or yield\n(iii) To stop trying or abandon\n(iv) To distribute free or reveal secrets\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "'Give up' = stop trying/abandon (a-iii). 'Give in' = surrender/yield (b-ii). 'Give away' = distribute freely or reveal (c-iv). 'Give off' = emit heat/light/smell (d-i). Option B swaps give up with give in. Option C mismatches give in with give away. Option D incorrectly pairs give up with give away."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Consider the following statements about conditional sentences:\n\n(i) Zero conditional: 'If water reaches 100°C, it boils.' (Universal truth)\n(ii) First conditional: 'If it rains tomorrow, I will stay home.' (Real future)\n(iii) Second conditional: 'If I were rich, I would travel.' (Unreal present)\n(iv) Third conditional: 'If she studies hard, she will pass.' (Unreal past)\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Zero conditional for universal truths (i correct). First conditional for real future possibilities (ii correct). Second conditional for unreal/hypothetical present (iii correct). Statement (iv) is incorrect — 'If she studies, she will pass' is a FIRST conditional (real future), NOT third conditional. Third conditional uses: 'If she HAD studied, she WOULD HAVE passed' (unreal past)."
+    },
+    {
+      "id": "41",
+      "subject": "A",
+      "questionText": "Choose the correct word: The police have not yet been able to __________ the cause of the fire.",
+      "options": ["ascertain", "assert", "assent", "ascent"],
+      "correctAnswer": "ascertain",
+      "explanation": "'Ascertain' means to find out or determine with certainty — fits investigating a cause. 'Assert' means to state forcefully. 'Assent' means agreement/consent. 'Ascent' means climbing/going up. Only 'ascertain' means to discover or determine."
+    },
+    {
+      "id": "42",
+      "subject": "A",
+      "questionText": "Consider the following statements about English prepositions:\n\n(i) 'At' is used for specific times (at 5 PM, at midnight).\n(ii) 'On' is used for days and dates (on Monday, on 15 August).\n(iii) 'In' is used for months, years, and longer periods (in January, in 2024).\n(iv) 'Since' is always used with a duration of time, not a point.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'At' for specific times (i correct). 'On' for days/dates (ii correct). 'In' for months/years/seasons (iii correct). Statement (iv) is incorrect — 'since' is used with a POINT of time ('since Monday', 'since 2020'), NOT duration. 'FOR' is used with duration ('for three days'). The since/for distinction is a common error."
+    },
+    {
+      "id": "43",
+      "subject": "A",
+      "questionText": "Fill in the blank: The politician's speech was so __________ that even his supporters found it boring.",
+      "options": ["vapid", "vivid", "valid", "varied"],
+      "correctAnswer": "vapid",
+      "explanation": "'Vapid' means dull, lacking interest or flavour — fits 'boring' context. 'Vivid' means bright/lively — opposite of boring. 'Valid' means well-founded/logical — unrelated to entertainment value. 'Varied' means diverse — doesn't mean boring."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Dangling modifiers create ambiguous or absurd sentences.\nReason (R): A dangling modifier occurs when the intended subject of the modifier is absent from the sentence, causing the modifier to 'dangle' without a logical noun to attach to.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — dangling modifiers create confusion (e.g., 'Running to the bus, my coffee spilled' — coffee can't run). Reason (R) is correct — the modifier has no logical subject in the sentence. The missing referent (R) causes the absurdity (A). Option B is wrong because (R) explains the mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "45",
+      "subject": "A",
+      "questionText": "Which of the following are correctly paired (Idiom — Meaning)?\n\n(i) 'Burning the candle at both ends' — exhausting oneself by working too hard\n(ii) 'A blessing in disguise' — something that seems bad but turns out good\n(iii) 'Barking up the wrong tree' — pursuing a mistaken course of action\n(iv) 'Break the ice' — to cause damage to property\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "'Burning candle at both ends' = overworking/exhausting oneself (i correct). 'Blessing in disguise' = apparent misfortune that's actually good (ii correct). 'Barking up wrong tree' = pursuing wrong approach (iii correct). Statement (iv) is incorrect — 'break the ice' means to INITIATE conversation in an awkward situation, NOT to damage property. Options B and D include the incorrect interpretation."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["Scarcely had he entered the room when the phone rang.", "Scarcely he had entered the room when the phone rang.", "Scarcely had he entered the room than the phone rang.", "Scarcely he entered the room when the phone rang."],
+      "correctAnswer": "Scarcely had he entered the room when the phone rang.",
+      "explanation": "'Scarcely...when' is the correct correlative pair (not 'than'). After 'scarcely' at the start, inversion is required: 'had he entered' (not 'he had entered'). Option B lacks inversion. Option C uses 'than' instead of 'when'. Option D lacks both inversion and 'had'."
+    },
+    {
+      "id": "47",
+      "subject": "A",
+      "questionText": "Match the following words with their meanings:\n\nColumn I:\n(a) Ambiguous\n(b) Ambivalent\n(c) Ambidextrous\n(d) Ambitious\n\nColumn II:\n(i) Able to use both hands equally well\n(ii) Having mixed feelings about something\n(iii) Having a strong desire for success\n(iv) Open to more than one interpretation\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "Ambiguous = open to multiple interpretations (a-iv). Ambivalent = having mixed/conflicting feelings (b-ii). Ambidextrous = equally skilled with both hands (c-i). Ambitious = strongly desiring success (d-iii). Option B swaps ambiguous with ambivalent. Option C mismatches ambivalent with ambidextrous. Option D incorrectly pairs ambiguous with ambitious."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "Consider the following statements about sentence transformation:\n\n(i) 'He is too tired to work.' = 'He is so tired that he cannot work.' (Correct)\n(ii) 'As soon as I saw him, I recognized him.' = 'No sooner did I see him than I recognized him.' (Correct)\n(iii) 'Unless you work hard, you will fail.' = 'If you do not work hard, you will fail.' (Correct)\n(iv) 'He said, \"I am going.\"' = 'He said that he is going.' (Correct)\n\nWhich transformations are CORRECT?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'Too...to' = 'so...that cannot' (i correct). 'As soon as' = 'No sooner...than' with inversion (ii correct). 'Unless' = 'If...not' (iii correct). Statement (iv) is incorrect — in reported speech with past 'said', 'am going' should become 'was going': 'He said that he WAS going.' Not backshifting is wrong."
+    },
+    {
+      "id": "49",
+      "subject": "A",
+      "questionText": "Fill in the blank: The manager __________ the employees to work overtime this weekend.",
+      "options": ["asked", "said", "told to", "spoke"],
+      "correctAnswer": "asked",
+      "explanation": "'Asked + object + to-infinitive' is the correct pattern: 'asked the employees to work.' 'Said' doesn't take an object directly before infinitive ('said them' is wrong). 'Told to' is wrong because 'told' already takes object directly ('told the employees to...' is fine, but 'told to the employees' is wrong). 'Spoke' doesn't take object+infinitive. 'Asked' is most natural here."
+    },
+    {
+      "id": "50",
+      "subject": "A",
+      "questionText": "Choose the word most nearly OPPOSITE in meaning to 'MAGNANIMOUS':",
+      "options": ["Petty and vindictive", "Generous and forgiving", "Noble and gracious", "Broad-minded and tolerant"],
+      "correctAnswer": "Petty and vindictive",
+      "explanation": "'Magnanimous' means generous, noble, forgiving — especially toward a rival. 'Petty and vindictive' (small-minded and seeking revenge) is the direct antonym. 'Generous and forgiving' is a synonym. 'Noble and gracious' is similar. 'Broad-minded' is also related to magnanimous."
+    },
+    {
+      "id": "51",
+      "subject": "A",
+      "questionText": "Consider the following statements about English spelling:\n\n(i) 'Accommodate' has double 'c' and double 'm'.\n(ii) 'Necessary' has one 'c' and double 's'.\n(iii) 'Separate' has 'a' (not 'e') in the middle: sep-A-rate.\n(iv) 'Occurrence' has double 'c', double 'r', and ends in '-ence'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "Accommodate: a-c-c-o-m-m-o-d-a-t-e (double c, double m) (i correct). Necessary: n-e-c-e-s-s-a-r-y (one c, two s's) (ii correct). Separate: not 'seperate' (iii correct). Occurrence: o-c-c-u-r-r-e-n-c-e (double c, double r, -ence ending) (iv correct). All four spelling rules are accurately stated."
+    },
+    {
+      "id": "52",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In English, double negatives are considered incorrect in standard usage.\nReason (R): Two negatives cancel each other out logically, creating a positive meaning — 'I don't know nothing' literally means 'I know something', which is the opposite of the speaker's intent.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — standard English avoids double negatives. Reason (R) is correct — logically, two negatives make a positive ('don't...nothing' = know something). The logical cancellation (R) explains why double negatives are considered errors (A). Option B is wrong because (R) gives the logical explanation. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "53",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["She is one of those students who always submit their work on time.", "She is one of those students who always submits her work on time.", "She is one of those students who always submit her work on time.", "She is one of those student who always submits their work on time."],
+      "correctAnswer": "She is one of those students who always submit their work on time.",
+      "explanation": "In 'one of those students who...', the relative pronoun 'who' refers to 'students' (plural), so the verb is plural 'submit' and pronoun is 'their'. Option B makes 'who' agree with 'one' (debatable but less standard). Option C mixes plural verb with singular pronoun. Option D has 'student' without plural and wrong verb."
+    },
+    {
+      "id": "54",
+      "subject": "A",
+      "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Benevolent\n(b) Gregarious\n(c) Prolific\n(d) Ostentatious\n\nColumn II:\n(i) Modest/understated\n(ii) Malevolent\n(iii) Unproductive/barren\n(iv) Reclusive/solitary\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Benevolent (kind) ↔ Malevolent (wishing harm) (a-ii). Gregarious (sociable) ↔ Reclusive (withdrawn) (b-iv). Prolific (productive) ↔ Unproductive (c-iii). Ostentatious (showy) ↔ Modest (understated) (d-i). Option B swaps benevolent with gregarious. Option C mismatches gregarious with prolific. Option D incorrectly pairs benevolent with modest."
+    },
+    {
+      "id": "55",
+      "subject": "A",
+      "questionText": "Fill in the blank: The company's profits have increased __________ over the past three years.",
+      "options": ["steadily", "steady", "steadiness", "more steady"],
+      "correctAnswer": "steadily",
+      "explanation": "An adverb is needed to modify the verb 'increased' — 'steadily' (adverb) is correct. 'Steady' is an adjective (modifies nouns). 'Steadiness' is a noun. 'More steady' is a comparative adjective form. Only the adverb 'steadily' can modify the verb."
+    },
+    {
+      "id": "56",
+      "subject": "A",
+      "questionText": "Consider the following statements about direct and indirect speech:\n\n(i) In indirect speech, first person pronouns change according to the subject of the reporting verb.\n(ii) 'Here' changes to 'there'; 'now' changes to 'then'.\n(iii) 'This' changes to 'that'; 'these' changes to 'those'.\n(iv) The tense never changes in reported speech regardless of the reporting verb's tense.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Pronouns change based on reporting verb subject (i correct). Place/time adverbs shift (here→there, now→then) (ii correct). Demonstratives shift (this→that, these→those) (iii correct). Statement (iv) is incorrect — tense DOES change (backshift) when the reporting verb is in past tense (says→said requires present→past shift in reported clause)."
+    },
+    {
+      "id": "57",
+      "subject": "A",
+      "questionText": "Choose the word most nearly SIMILAR in meaning to 'EQUANIMITY':",
+      "options": ["Calmness and composure, especially under stress", "Anger and frustration", "Confusion and chaos", "Extreme happiness"],
+      "correctAnswer": "Calmness and composure, especially under stress",
+      "explanation": "'Equanimity' means mental calmness and evenness of temper, especially in difficult situations. 'Calmness and composure under stress' matches perfectly. 'Anger and frustration' is the opposite. 'Confusion and chaos' is unrelated. 'Extreme happiness' is different (that's 'euphoria')."
+    },
+    {
+      "id": "58",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Semicolons are used between independent clauses when no coordinating conjunction is present.\nReason (R): A semicolon signals a closer relationship between clauses than a period, while avoiding the comma splice error that would occur with just a comma.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — semicolons join related independent clauses without conjunctions. Reason (R) is correct — semicolons show relationship (stronger than period) and prevent comma splices. The functional explanation (R) explains semicolon usage (A). Option B is wrong because (R) provides the stylistic/grammatical reasoning. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "59",
+      "subject": "A",
+      "questionText": "Which of the following sentences correctly use the comparative and superlative forms?\n\n(i) 'She is more intelligent than her brother.' (Correct — 'more' with multi-syllable adjective)\n(ii) 'He is the most tallest boy in class.' (Incorrect — double superlative)\n(iii) 'This book is better than that one.' (Correct — irregular comparative)\n(iv) 'Of the three sisters, she is the oldest.' (Correct — superlative for 3+)\n\nWhich sentences are CORRECT?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'More intelligent' — correct comparative for multi-syllable adjective (i correct). 'Better' — correct irregular comparative of 'good' (iii correct). 'Oldest' — correct superlative for comparing three (iv correct). Statement (ii) 'most tallest' is a DOUBLE SUPERLATIVE error — should be just 'tallest' or 'most tall' (never both). Only (i), (iii), and (iv) are correct."
+    },
+    {
+      "id": "60",
+      "subject": "A",
+      "questionText": "Match the following sentence types with examples:\n\nColumn I:\n(a) Simple sentence\n(b) Compound sentence\n(c) Complex sentence\n(d) Compound-complex sentence\n\nColumn II:\n(i) 'Although it rained, we went out and enjoyed the park.'\n(ii) 'The sun was shining brightly.'\n(iii) 'She sang while he played guitar.'\n(iv) 'He studied hard, but he failed the exam.'\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Simple: one independent clause — 'The sun was shining brightly' (a-ii). Compound: two independent clauses joined by conjunction — 'He studied...but he failed' (b-iv). Complex: independent + dependent — 'She sang while he played' (c-iii). Compound-complex: 2+ independent + dependent — 'Although it rained(dep), we went out(ind) and enjoyed(ind)' (d-i). Option B swaps simple with compound. Option C mismatches compound with complex. Option D incorrectly pairs simple with complex."
+    }
+  ]
+}
