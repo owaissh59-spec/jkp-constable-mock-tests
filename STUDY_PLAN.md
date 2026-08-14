@@ -277,17 +277,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 97 | Morning | A — General English | Pronouns & Tenses (Revision) | 30 | standard | Topic-wise | ⬜ |
-| 98 | Afternoon | B — General Knowledge & Current Affairs (India) | United Nations Organizations (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 99 | Late | D — Numerical and Reasoning Ability | Blood Relations (Revision) | 50 | standard | Topic-wise | ⬜ |
+| 97 | Morning | A — General English | Pronouns & Tenses (Revision) | 30 | standard | Topic-wise | ✅ |
+| 98 | Afternoon | B — General Knowledge & Current Affairs (India) | United Nations Organizations (Revision) | 40 | standard | Topic-wise | ✅ |
+| 99 | Late | D — Numerical and Reasoning Ability | Blood Relations (Revision) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 34
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 100 | Morning | D — Numerical and Reasoning Ability | Ratio & Proportion (Revision) | 30 | standard | Topic-wise | ⬜ |
-| 101 | Afternoon | E — Basic Concepts of Computers | Storage & Operating Systems (Revision) | 40 | standard | Topic-wise | ⬜ |
-| 102 | Late | B — General Knowledge & Current Affairs (India) | Everyday Science (Revision) | 50 | standard | Topic-wise | ⬜ |
+| 100 | Morning | D — Numerical and Reasoning Ability | Ratio & Proportion (Revision) | 30 | standard | Topic-wise | ✅ |
+| 101 | Afternoon | E — Basic Concepts of Computers | Storage & Operating Systems (Revision) | 40 | standard | Topic-wise | ✅ |
+| 102 | Late | B — General Knowledge & Current Affairs (India) | Everyday Science (Revision) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 35
 

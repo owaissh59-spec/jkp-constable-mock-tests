@@ -1,0 +1,327 @@
+{
+  "subject": "E",
+  "topic": "Storage & Operating Systems (Revision)",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which of the following is the correct order of storage capacity from smallest to largest?",
+      "options": ["Bit < Byte < KB < MB < GB < TB", "Byte < Bit < KB < MB < GB < TB", "Bit < Byte < MB < KB < GB < TB", "Bit < KB < Byte < MB < GB < TB"],
+      "correctAnswer": "Bit < Byte < KB < MB < GB < TB",
+      "explanation": "The correct hierarchy is: Bit (smallest) < Byte (8 bits) < Kilobyte (1024 bytes) < Megabyte (1024 KB) < Gigabyte (1024 MB) < Terabyte (1024 GB). Option B reverses Bit and Byte. Option C swaps MB and KB. Option D places KB before Byte which is incorrect."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about RAM (Random Access Memory):\n\n(i) RAM is volatile memory — it loses data when power is turned off.\n(ii) RAM provides faster access than hard disk drives.\n(iii) There are two main types: SRAM (Static) and DRAM (Dynamic).\n(iv) RAM permanently stores the operating system files.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "RAM is volatile — loses data without power (i correct). RAM is much faster than HDD/SSD for data access (ii correct). SRAM and DRAM are the two main types (iii correct). Statement (iv) is incorrect — RAM does NOT permanently store anything; the OS is stored on the hard disk and loaded into RAM temporarily during operation."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An SSD (Solid State Drive) is faster than a traditional HDD (Hard Disk Drive).\nReason (R): SSDs use flash memory chips with no moving parts, while HDDs use spinning magnetic platters with a read/write head, making SSDs mechanically faster.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — SSDs are significantly faster than HDDs in read/write speeds. Reason (R) is correct — SSDs use flash memory (no moving parts) vs HDDs with spinning disks and moving heads. The absence of mechanical parts in (R) directly explains the speed advantage in (A). Option B is wrong because the technology difference explains the speed. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the following storage devices with their types:\n\nColumn I:\n(a) DVD\n(b) USB Flash Drive\n(c) Hard Disk Drive\n(d) RAM\n\nColumn II:\n(i) Primary/Volatile memory\n(ii) Magnetic storage\n(iii) Optical storage\n(iv) Solid-state/Flash storage\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "DVD uses laser technology — optical storage (a-iii). USB Flash Drive uses NAND flash chips — solid-state storage (b-iv). Hard Disk Drive uses magnetic platters — magnetic storage (c-ii). RAM is primary volatile memory (d-i). Option B swaps optical with solid-state. Option C mismatches USB with magnetic. Option D incorrectly pairs DVD with magnetic."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which of the following are functions of an operating system?\n\n(i) Memory management\n(ii) Process management\n(iii) File management\n(iv) Creating spreadsheets\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Memory management (allocating/deallocating RAM) is an OS function (i correct). Process management (scheduling, creating/terminating processes) is an OS function (ii correct). File management (creating, deleting, organizing files) is an OS function (iii correct). Creating spreadsheets (iv) is a function of APPLICATION software like MS Excel, NOT the operating system."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "The storage capacity of a standard single-layer Blu-ray disc is approximately:",
+      "options": ["25 GB", "4.7 GB", "700 MB", "50 GB"],
+      "correctAnswer": "25 GB",
+      "explanation": "A single-layer Blu-ray disc holds approximately 25 GB. 4.7 GB is the capacity of a single-layer DVD. 700 MB is the capacity of a standard CD. 50 GB is the capacity of a dual-layer Blu-ray disc, not single-layer."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Consider the following statements about the Windows operating system:\n\n(i) Windows is developed by Microsoft Corporation.\n(ii) Windows uses a Graphical User Interface (GUI).\n(iii) The latest versions of Windows support multitasking.\n(iv) Windows is an open-source operating system.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Windows is developed by Microsoft (i correct). It uses GUI with windows, icons, menus (ii correct). Modern Windows supports running multiple programs simultaneously (iii correct). Statement (iv) is incorrect — Windows is PROPRIETARY (closed-source) software, not open-source. Linux is an example of an open-source OS."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): ROM (Read Only Memory) retains its data even when the computer is turned off.\nReason (R): ROM is non-volatile memory designed to permanently store firmware and essential startup instructions.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — ROM retains data without power. Reason (R) is correct — ROM's non-volatile nature is by design for storing firmware/BIOS. The non-volatile design (R) explains why data persists without power (A). Option B is wrong because (R) explains the mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "The 'Task Manager' in Windows can be opened using which keyboard shortcut?",
+      "options": ["Ctrl + Shift + Esc", "Ctrl + Alt + F4", "Alt + Shift + Tab", "Ctrl + Shift + Tab"],
+      "correctAnswer": "Ctrl + Shift + Esc",
+      "explanation": "Ctrl + Shift + Esc directly opens Task Manager in Windows. Ctrl + Alt + F4 is not a standard shortcut for Task Manager. Alt + Shift + Tab switches windows in reverse. Ctrl + Shift + Tab switches tabs backward in browsers. Note: Ctrl + Alt + Delete also provides access to Task Manager but through a security screen."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Match the following file systems with their associated operating systems:\n\nColumn I:\n(a) NTFS\n(b) ext4\n(c) APFS\n(d) FAT32\n\nColumn II:\n(i) Compatible with most OS (older standard)\n(ii) Windows (modern)\n(iii) macOS\n(iv) Linux\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "NTFS is Windows' modern file system (a-ii). ext4 is the default Linux file system (b-iv). APFS (Apple File System) is for macOS/iOS (c-iii). FAT32 is an older standard compatible with most operating systems (d-i). Option B swaps NTFS with ext4. Option C mismatches ext4 with macOS. Option D incorrectly pairs NTFS with the older standard."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Consider the following statements about secondary storage:\n\n(i) Secondary storage is non-volatile — data persists without power.\n(ii) It is slower than primary storage (RAM) but has larger capacity.\n(iii) Examples include hard disks, SSDs, DVDs, and USB drives.\n(iv) Secondary storage is directly accessible by the CPU without any intermediary.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Secondary storage is non-volatile (i correct). It's slower but larger than RAM (ii correct). HDDs, SSDs, DVDs, USB drives are all secondary storage (iii correct). Statement (iv) is incorrect — the CPU cannot directly access secondary storage; data must first be loaded into RAM (primary memory) before the CPU can process it."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Which of the following correctly describes 'virtual memory'?",
+      "options": ["A technique that uses hard disk space as an extension of RAM when physical RAM is full", "A special type of RAM chip that never loses data", "Memory used exclusively for storing virtual reality applications", "A wireless memory device accessed over the internet"],
+      "correctAnswer": "A technique that uses hard disk space as an extension of RAM when physical RAM is full",
+      "explanation": "Virtual memory uses a portion of the hard disk (called swap space/page file) to simulate additional RAM when physical RAM runs out. 'RAM chip that never loses data' describes ROM, not virtual memory. 'Memory for VR applications' confuses 'virtual' with 'virtual reality'. 'Wireless memory over internet' describes cloud storage, not virtual memory."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Formatting a storage device erases all data on it.\nReason (R): Formatting creates a new file system structure on the device, overwriting the previous directory information.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — formatting removes access to all existing data (quick format removes directory entries; full format also checks for bad sectors). Reason (R) is correct — formatting writes a new file system structure, making old data inaccessible. The new file system creation (R) explains why data is lost (A). Option B is wrong because (R) explains the mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Consider the following statements about Linux:\n\n(i) Linux is an open-source operating system.\n(ii) It was originally created by Linus Torvalds.\n(iii) Ubuntu, Fedora, and CentOS are popular Linux distributions.\n(iv) Linux can only be used on servers, not on personal computers.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Linux is open-source with freely available source code (i correct). Linus Torvalds created the Linux kernel in 1991 (ii correct). Ubuntu, Fedora, CentOS are popular distributions/distros (iii correct). Statement (iv) is incorrect — Linux is used on desktops, laptops, smartphones (Android is Linux-based), embedded devices, AND servers."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Which of the following are types of ROM?\n\n(i) PROM (Programmable ROM)\n(ii) EPROM (Erasable Programmable ROM)\n(iii) EEPROM (Electrically Erasable Programmable ROM)\n(iv) DRAM (Dynamic RAM)\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "PROM can be programmed once after manufacturing (i correct). EPROM can be erased by UV light and reprogrammed (ii correct). EEPROM can be electrically erased and reprogrammed (iii correct). DRAM (iv) is a type of RAM (volatile), NOT ROM. It stands for Dynamic Random Access Memory."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "The process of starting a computer and loading the operating system into memory is called:",
+      "options": ["Booting", "Formatting", "Defragmenting", "Compiling"],
+      "correctAnswer": "Booting",
+      "explanation": "Booting is the process of starting/restarting a computer and loading the OS from storage into RAM. Formatting prepares a storage device with a file system. Defragmenting reorganizes scattered file fragments on a disk. Compiling converts source code to machine code. Only booting relates to OS startup."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Match the following OS components with their functions:\n\nColumn I:\n(a) Kernel\n(b) Shell\n(c) Device Driver\n(d) File System\n\nColumn II:\n(i) Organizes data into files and directories\n(ii) Interface between user and kernel (command interpreter)\n(iii) Core that manages hardware and system resources\n(iv) Software enabling OS to communicate with hardware devices\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "Kernel is the OS core managing hardware/resources (a-iii). Shell is the user-kernel interface/command interpreter (b-ii). Device Driver enables OS-hardware communication (c-iv). File System organizes data in files/directories (d-i). Option B swaps kernel with shell. Option C mismatches shell with device driver. Option D incorrectly pairs kernel with device driver."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Consider the following statements about cloud storage:\n\n(i) Data is stored on remote servers accessed via the internet.\n(ii) Examples include Google Drive, Dropbox, and OneDrive.\n(iii) Cloud storage eliminates the need for any local storage device.\n(iv) Data can be accessed from multiple devices anywhere with internet.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Cloud storage uses remote internet-connected servers (i correct). Google Drive, Dropbox, OneDrive are popular services (ii correct). Data is accessible from anywhere with internet (iv correct). Statement (iii) is incorrect — cloud storage supplements but does NOT eliminate the need for local storage; the OS, applications, and often cached data still require local storage."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Fill in the blank: The smallest unit of storage in a computer is a __________, which represents either 0 or 1.",
+      "options": ["Bit", "Byte", "Nibble", "Word"],
+      "correctAnswer": "Bit",
+      "explanation": "A Bit (Binary Digit) is the smallest unit of data, representing a 0 or 1. A Byte = 8 bits. A Nibble = 4 bits (half a byte). A Word = varies by processor architecture (16, 32, or 64 bits). Only a Bit represents a single binary value."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Defragmentation improves the performance of a traditional hard disk drive.\nReason (R): Over time, files get fragmented (stored in non-contiguous sectors), and defragmentation rearranges them into contiguous blocks for faster sequential reading.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — defragmentation speeds up HDDs. Reason (R) is correct — fragmented files require the read head to move more, and defragmentation consolidates them. The contiguous arrangement (R) reduces head movement, explaining the performance boost (A). Option B is wrong because (R) explains the mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of SRAM compared to DRAM?\n\n(i) SRAM is faster than DRAM.\n(ii) SRAM is more expensive per bit than DRAM.\n(iii) SRAM does not need periodic refreshing.\n(iv) SRAM has higher storage density than DRAM.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "SRAM is faster due to flip-flop circuits (i correct). SRAM costs more per bit because of complex circuitry (ii correct). SRAM doesn't need refreshing unlike DRAM which needs constant refresh cycles (iii correct). Statement (iv) is incorrect — SRAM has LOWER storage density (fewer bits per chip) than DRAM because each SRAM cell requires more transistors."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "The 'Recycle Bin' in Windows operating system:",
+      "options": ["Temporarily stores deleted files before permanent removal", "Permanently deletes files immediately upon deletion", "Compresses files to save storage space", "Stores backup copies of all files automatically"],
+      "correctAnswer": "Temporarily stores deleted files before permanent removal",
+      "explanation": "The Recycle Bin holds deleted files temporarily, allowing recovery before permanent deletion (emptying). It does NOT permanently delete immediately — that's Shift+Delete. It doesn't compress files — that's file compression tools. It doesn't automatically backup — that's backup software. Recycle Bin acts as a safety net for accidental deletions."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Consider the following statements about partitioning a hard disk:\n\n(i) Partitioning divides a physical disk into separate logical sections.\n(ii) Each partition can have its own file system.\n(iii) Partitioning allows dual-booting with multiple operating systems.\n(iv) Partitioning increases the physical storage capacity of the disk.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Partitioning creates logical sections on one physical disk (i correct). Each partition can use different file systems like NTFS, FAT32 (ii correct). Multiple partitions enable installing different OSes for dual-boot (iii correct). Statement (iv) is incorrect — partitioning does NOT increase physical capacity; it only organizes existing space into sections."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Match the following Windows shortcuts with their functions:\n\nColumn I:\n(a) Windows + E\n(b) Windows + L\n(c) Windows + D\n(d) Windows + R\n\nColumn II:\n(i) Show/hide desktop\n(ii) Open File Explorer\n(iii) Open Run dialog\n(iv) Lock the computer\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Win+E opens File Explorer (a-ii). Win+L locks the computer (b-iv). Win+D shows/hides desktop (minimizes/restores all windows) (c-i). Win+R opens the Run dialog box (d-iii). Option B swaps Explorer with Lock. Option C mismatches Lock with Desktop. Option D incorrectly pairs Explorer with Run."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A 64-bit operating system can address more RAM than a 32-bit operating system.\nReason (R): A 32-bit OS can theoretically address up to 4 GB of RAM (2³² bytes), while a 64-bit OS can address up to 16 exabytes (2⁶⁴ bytes).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — 64-bit OS supports vastly more RAM than 32-bit. Reason (R) is correct — 2³² = ~4 GB limit for 32-bit, while 2⁶⁴ = ~16 EB theoretical limit for 64-bit. The mathematical limits in (R) prove why (A) is true. Option B is wrong because (R) provides the exact technical explanation. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Which of the following are types of operating systems based on user interaction?\n\n(i) Batch Operating System\n(ii) Time-sharing Operating System\n(iii) Real-time Operating System\n(iv) Spreadsheet Operating System\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Batch OS processes jobs in batches without user interaction (i correct). Time-sharing OS allows multiple users/processes to share CPU time (ii correct). Real-time OS provides immediate response for time-critical applications (iii correct). 'Spreadsheet Operating System' (iv) does NOT exist — spreadsheet is an application type (like Excel), not an OS category."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The 'Control Panel' in Windows is used for:",
+      "options": ["Changing system settings, managing hardware, and configuring software", "Creating documents and spreadsheets", "Browsing the internet", "Playing multimedia files"],
+      "correctAnswer": "Changing system settings, managing hardware, and configuring software",
+      "explanation": "Control Panel provides centralized access to system configuration — display settings, network, user accounts, hardware management, etc. Creating documents is done in Word/Office. Browsing uses web browsers. Playing media uses media players. Only system configuration is the Control Panel's role."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Consider the following statements about backup types:\n\n(i) A full backup copies ALL files every time.\n(ii) An incremental backup copies only files changed since the last backup of any type.\n(iii) A differential backup copies files changed since the last FULL backup.\n(iv) Incremental backup takes longer than full backup.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Full backup copies everything each time (i correct). Incremental backup copies changes since last backup of ANY type (ii correct). Differential copies changes since last FULL backup only (iii correct). Statement (iv) is incorrect — incremental backup takes LESS time than full backup because it only backs up recent changes, not all files."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Fill in the blank: 1 Terabyte (TB) = __________ Gigabytes (GB).",
+      "options": ["1024", "1000", "512", "2048"],
+      "correctAnswer": "1024",
+      "explanation": "In binary computing: 1 TB = 1024 GB (2¹⁰ = 1024). 1000 is the decimal (SI) approximation but the binary standard uses 1024. 512 = 2⁹ (half of 1024). 2048 = 2¹¹ (double the correct value)."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Match the following storage media with their approximate maximum capacities:\n\nColumn I:\n(a) Standard CD\n(b) Single-layer DVD\n(c) Single-layer Blu-ray\n(d) Typical USB 3.0 flash drive (common)\n\nColumn II:\n(i) 4.7 GB\n(ii) 25 GB\n(iii) 700 MB\n(iv) 16-256 GB (varies)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "Standard CD holds ~700 MB (a-iii). Single-layer DVD holds ~4.7 GB (b-i). Single-layer Blu-ray holds ~25 GB (c-ii). USB 3.0 flash drives commonly range 16-256 GB (d-iv). Option B swaps CD with DVD. Option C mismatches DVD with Blu-ray. Option D incorrectly pairs CD with USB range."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Consider the following statements about the BIOS:\n\n(i) BIOS stands for Basic Input/Output System.\n(ii) BIOS is stored in ROM on the motherboard.\n(iii) It performs the POST (Power-On Self-Test) during startup.\n(iv) BIOS is part of the Windows operating system.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "BIOS = Basic Input/Output System (i correct). It's stored in ROM/flash memory on the motherboard (ii correct). POST checks hardware during startup before loading OS (iii correct). Statement (iv) is incorrect — BIOS is FIRMWARE embedded in hardware, independent of any OS. It exists before and outside of Windows."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Which type of storage is primarily used for cache memory in a computer?",
+      "options": ["SRAM", "DRAM", "Hard Disk", "Flash memory"],
+      "correctAnswer": "SRAM",
+      "explanation": "Cache memory uses SRAM (Static RAM) because of its high speed, despite higher cost. DRAM is used for main memory (slower than SRAM but cheaper). Hard Disk is secondary storage (much slower). Flash memory is used in SSDs and USB drives but is slower than SRAM for cache purposes."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An operating system acts as an intermediary between the user and the computer hardware.\nReason (R): Without an OS, users would need to communicate directly with hardware using machine-level instructions, which is impractical.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Assertion (A) is correct — the OS provides an interface between users and hardware. Reason (R) is correct — direct hardware communication via machine code is impractical for users. The impracticality of direct hardware access (R) explains WHY the OS intermediary is necessary (A). Option B is wrong because (R) explains the need for the OS role. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Which of the following are advantages of SSD over HDD?\n\n(i) Faster read/write speeds\n(ii) No moving parts (more durable)\n(iii) Lower power consumption\n(iv) Lower cost per gigabyte\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "SSDs are significantly faster than HDDs (i correct). No moving parts means better durability and shock resistance (ii correct). SSDs use less power (iii correct). Statement (iv) is incorrect — SSDs are MORE EXPENSIVE per GB than HDDs. HDDs still offer better cost-per-gigabyte, which is why they remain popular for bulk storage."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "The 'Device Manager' in Windows is used to:",
+      "options": ["View and manage hardware devices and their drivers", "Manage email accounts and messages", "Create and edit documents", "Browse files on the internet"],
+      "correctAnswer": "View and manage hardware devices and their drivers",
+      "explanation": "Device Manager displays all hardware devices, their status, and allows updating/rolling back drivers or disabling devices. Managing email is done in email clients. Creating documents is in word processors. Browsing files online is via web browsers. Only hardware/driver management is Device Manager's function."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Consider the following statements about multitasking in operating systems:\n\n(i) Multitasking allows multiple programs to run simultaneously.\n(ii) The CPU switches rapidly between tasks giving the illusion of simultaneous execution.\n(iii) Preemptive multitasking gives the OS control over CPU allocation.\n(iv) Multitasking requires at least two physical CPUs.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Multitasking runs multiple programs concurrently (i correct). The CPU rapidly switches between processes (time-slicing) creating the illusion of simultaneity (ii correct). Preemptive multitasking lets the OS forcibly allocate CPU time (iii correct). Statement (iv) is incorrect — multitasking works on a SINGLE CPU through time-sharing; multiple CPUs enable true parallel processing but aren't required for multitasking."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "The following data shows the specifications of different storage devices:\n\n| Device | Capacity | Read Speed | Type |\n|--------|----------|------------|------|\n| HDD A | 2 TB | 150 MB/s | Magnetic |\n| SSD B | 1 TB | 550 MB/s | Solid State |\n| USB C | 64 GB | 100 MB/s | Flash |\n| DVD D | 4.7 GB | 11 MB/s | Optical |\n\nWhich device has the highest read speed?",
+      "options": ["SSD B", "HDD A", "USB C", "DVD D"],
+      "correctAnswer": "SSD B",
+      "explanation": "SSD B has the highest read speed at 550 MB/s. HDD A is second at 150 MB/s. USB C is third at 100 MB/s. DVD D is slowest at 11 MB/s. SSDs are significantly faster than all other storage types listed."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Which of the following correctly describes 'disk partitioning'?",
+      "options": ["Dividing a physical disk into separate logical sections that function independently", "Physically cutting a hard disk into pieces", "Combining multiple hard disks into one virtual disk", "Encrypting all data on a disk for security"],
+      "correctAnswer": "Dividing a physical disk into separate logical sections that function independently",
+      "explanation": "Disk partitioning creates logical divisions on a single physical disk, each appearing as a separate drive. 'Physically cutting' takes it literally — partitioning is logical, not physical. 'Combining multiple disks' describes RAID or disk spanning. 'Encrypting data' is disk encryption, a security feature."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "The following data shows the evolution of Windows OS versions:\n\n| Version | Year | Key Feature |\n|---------|------|-------------|\n| Windows 95 | 1995 | Start menu introduced |\n| Windows XP | 2001 | Stability and user-friendliness |\n| Windows 7 | 2009 | Improved taskbar |\n| Windows 10 | 2015 | Cortana and Edge browser |\n\nHow many years elapsed between the introduction of the Start menu and Windows 10?",
+      "options": ["20 years", "15 years", "25 years", "10 years"],
+      "correctAnswer": "20 years",
+      "explanation": "Start menu was introduced in Windows 95 (1995). Windows 10 was released in 2015. Difference = 2015 - 1995 = 20 years. Option 15 years = 2010-1995. Option 25 years = 2020-1995. Option 10 years = 2005-1995."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "The term 'multi-user operating system' means:",
+      "options": ["An OS that allows multiple users to access the system and its resources simultaneously", "An OS that can only be installed on multiple computers at once", "An OS that requires multiple user accounts to function", "An OS designed exclusively for network administrators"],
+      "correctAnswer": "An OS that allows multiple users to access the system and its resources simultaneously",
+      "explanation": "A multi-user OS allows several users to use the same computer/system resources at the same time (e.g., Unix/Linux servers). 'Installed on multiple computers' describes network deployment, not multi-user. 'Requires multiple accounts to function' is false — single-user OS also has accounts. 'Designed for admins only' is incorrect — multi-user serves all authorized users."
+    }
+  ]
+}
