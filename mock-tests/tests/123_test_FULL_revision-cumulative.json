@@ -1,0 +1,407 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision across all covered subjects",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Two pipes A and B can fill a tank in 12 hours and 18 hours respectively. If both pipes are opened together, how long will it take to fill the tank?",
+      "options": ["7 hours 12 minutes", "8 hours", "6 hours 30 minutes", "7 hours 30 minutes"],
+      "correctAnswer": "7 hours 12 minutes",
+      "explanation": "Combined rate = 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time = 36/5 = 7.2 hours = 7 hours 12 minutes. '8 hours' is wrong — gives rate 1/8. '6 hours 30 minutes' is wrong — that's 13/2, too fast. '7 hours 30 minutes' is wrong — that's 15/2 hours."
+    },
+    {
+      "id": "2",
+      "subject": "A",
+      "questionText": "Choose the correct synonym of 'RESILIENT':",
+      "options": ["Adaptable", "Fragile", "Rigid", "Sluggish"],
+      "correctAnswer": "Adaptable",
+      "explanation": "'Resilient' means able to recover quickly or withstand difficulties — similar to adaptable. 'Fragile' is wrong — it's an antonym meaning easily broken. 'Rigid' is wrong — means stiff, opposite of flexible/resilient. 'Sluggish' is wrong — means slow-moving, unrelated."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The Fundamental Duties in the Indian Constitution were added by which Amendment?",
+      "options": ["42nd Amendment, 1976", "44th Amendment, 1978", "73rd Amendment, 1992", "86th Amendment, 2002"],
+      "correctAnswer": "42nd Amendment, 1976",
+      "explanation": "Fundamental Duties were added to Part IVA by the 42nd Amendment (1976) on the recommendation of the Swaran Singh Committee. '44th Amendment' is wrong — it dealt with Right to Property and emergency provisions. '73rd Amendment' is wrong — it dealt with Panchayati Raj. '86th Amendment' is wrong — it added Right to Education."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "The function of an 'Antivirus' software is to:",
+      "options": ["Detect and remove malicious software from a computer", "Increase the speed of internet connection", "Manage hardware drivers", "Compress files for storage"],
+      "correctAnswer": "Detect and remove malicious software from a computer",
+      "explanation": "Antivirus scans, detects, and removes viruses, malware, and other threats. 'Increase internet speed' is wrong — that's ISP/router related. 'Manage hardware drivers' is wrong — that's Device Manager. 'Compress files' is wrong — that's compression software like WinZip."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "The 'Sheshnag Lake' in J&K is significant because it lies on the route to:",
+      "options": ["Amarnath Cave", "Vaishno Devi", "Gulmarg", "Sonamarg"],
+      "correctAnswer": "Amarnath Cave",
+      "explanation": "Sheshnag Lake is a glacial lake on the Pahalgam route to the Amarnath Cave shrine. 'Vaishno Devi' is wrong — that pilgrimage is in Reasi, Jammu. 'Gulmarg' is wrong — Gulmarg is accessed from Tangmarg. 'Sonamarg' is wrong — Sonamarg is on the Srinagar-Leh highway."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Consider the following statements about prepositions:\n\n(i) 'Between' is used for two persons or things; 'among' for more than two.\n(ii) 'Since' refers to a point of time; 'for' refers to a period/duration.\n(iii) 'In' is used for larger areas (countries, cities); 'at' for specific points.\n(iv) 'On' and 'upon' are always interchangeable in all contexts.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "'Between' for two, 'among' for more (i correct). 'Since' for point, 'for' for duration (ii correct). 'In' for large areas, 'at' for specific points (iii correct). (iv) is wrong because 'on' and 'upon' are NOT always interchangeable — 'upon' is more formal and used in specific expressions like 'once upon a time'. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of all interior angles of a hexagon is 720°.\nReason (R): The formula for the sum of interior angles of a polygon with n sides is (n–2) × 180°.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Hexagon: (6–2)×180° = 4×180° = 720° (A correct). The formula (n–2)×180° is correct for any polygon (R correct and directly produces A). Option 2 is wrong because R is the formula used to calculate A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "8",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN):\n\n(i) It provides ₹6,000 per year to eligible farmer families.\n(ii) The amount is transferred in three equal instalments of ₹2,000 each.\n(iii) It is a centrally sponsored scheme.\n(iv) Only farmers with less than 1 hectare of land are eligible.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "₹6,000/year (i correct). Three instalments of ₹2,000 (ii correct). Central scheme (iii correct). (iv) is wrong because PM-KISAN was initially for small farmers but was later extended to ALL farmer families regardless of land size. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Consider the following statements about email:\n\n(i) POP3 and IMAP are protocols for receiving emails.\n(ii) SMTP is used for sending emails.\n(iii) An email attachment can only be a document file, not an image.\n(iv) 'CC' stands for Carbon Copy and all recipients can see CC addresses.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "POP3/IMAP receive emails (i correct). SMTP sends emails (ii correct). CC addresses are visible (iv correct). (iii) is wrong because attachments can be any file type — documents, images, videos, archives, etc. Option 2 includes (iii). Option 3 excludes (iv). Option 4 includes (iii)."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Match the following words with their correct meanings:\n\nColumn I:\n(a) Ambiguous\n(b) Altruistic\n(c) Audacious\n(d) Affluent\n\nColumn II:\n(i) Wealthy\n(ii) Bold and daring\n(iii) Unclear, having multiple meanings\n(iv) Selflessly concerned for others\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Ambiguous = unclear/multiple meanings (iii). Altruistic = selfless (iv). Audacious = bold/daring (ii). Affluent = wealthy (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "A mixture of 60 litres has milk and water in the ratio 3:2. How much water must be added to make the ratio 1:1?",
+      "options": ["12 litres", "10 litres", "15 litres", "8 litres"],
+      "correctAnswer": "12 litres",
+      "explanation": "Milk = 60×3/5 = 36L. Water = 60×2/5 = 24L. For 1:1 ratio, water must equal milk = 36L. Water to add = 36–24 = 12L. '10 litres' is wrong — gives 34 water vs 36 milk. '15 litres' is wrong — gives 39 water vs 36 milk. '8 litres' is wrong — gives 32 water vs 36 milk."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "The 'Atal Setu' (Mumbai Trans Harbour Link) connects Mumbai to:",
+      "options": ["Navi Mumbai", "Pune", "Thane", "Lonavala"],
+      "correctAnswer": "Navi Mumbai",
+      "explanation": "Atal Setu (India's longest sea bridge, opened 2024) connects Mumbai to Navi Mumbai across Thane Creek. 'Pune' is wrong — it's connected by the Expressway, not this bridge. 'Thane' is wrong — it's a different connection. 'Lonavala' is wrong — a hill station far from the bridge."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'The furniture are very expensive' is incorrect.\nReason (R): 'Furniture' is an uncountable noun and takes a singular verb.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "'The furniture are...' is wrong; it should be 'The furniture is...' (A correct). 'Furniture' is uncountable requiring singular verb (R correct and explains why 'are' is wrong). Option 2 is wrong because R directly explains the error. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "14",
+      "subject": "C",
+      "questionText": "The 'Chenani-Nashri Tunnel' (Dr. Syama Prasad Mookerjee Tunnel) on NH-44 is approximately how long?",
+      "options": ["9.2 km", "5.5 km", "12 km", "7 km"],
+      "correctAnswer": "9.2 km",
+      "explanation": "The Chenani-Nashri Tunnel is approximately 9.2 km long, India's longest road tunnel when opened. '5.5 km' is wrong — far shorter. '12 km' is wrong — longer than actual. '7 km' is wrong — underestimate."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "The data shows marks of 6 students: 55, 60, 72, 68, 85, 50. What is the mean?",
+      "options": ["65", "68", "62", "70"],
+      "correctAnswer": "65",
+      "explanation": "Sum = 55+60+72+68+85+50 = 390. Mean = 390/6 = 65. '68' is wrong — would need sum 408. '62' is wrong — would need sum 372. '70' is wrong — would need sum 420."
+    },
+    {
+      "id": "16",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: She is good __________ mathematics but weak __________ science.",
+      "options": ["at, in", "in, at", "at, at", "in, in"],
+      "correctAnswer": "at, in",
+      "explanation": "'Good at' (skilled in) and 'weak in' (lacking ability in) are the correct collocations. 'In, at' is wrong — reverses the correct collocations. 'At, at' is wrong — 'weak at' is less standard. 'In, in' is wrong — 'good in' is non-standard."
+    },
+    {
+      "id": "17",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India is a 'Union of States' according to the Constitution.\nReason (R): Article 1 of the Constitution describes India as a 'Union of States', not a 'Federation', implying that states cannot secede from the Union.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "India is described as 'Union of States' (A correct). Article 1 uses this term, and it implies indestructible union without right to secede (R correct and explains the significance). Option 2 is wrong because R explains WHY 'Union' is used. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer needs both hardware and software to function.\nReason (R): Hardware provides the physical components while software provides the instructions that tell hardware what to do — neither can work alone.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both hardware and software are needed (A correct). Hardware is physical, software is instructions — interdependent (R correct and explains why both are essential). Option 2 is wrong because R explains the mutual dependency. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Consider the following statements about the series 3, 6, 11, 18, 27:\n\n(i) The differences between consecutive terms are 3, 5, 7, 9 — an AP with common difference 2.\n(ii) The next term is 38.\n(iii) Each term equals n² + 2 for nth position.\n(iv) The series is a geometric progression.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Differences: 3, 5, 7, 9 — AP with d=2 (i correct). Next difference=11, so next term=27+11=38 (ii correct). Check: n=1→1+2=3, n=2→4+2=6, n=3→9+2=11, n=4→16+2=18, n=5→25+2=27 ✓ (iii correct). (iv) is wrong because a GP needs constant ratio: 6/3=2, 11/6≈1.83 — not constant. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "20",
+      "subject": "A",
+      "questionText": "Which of the following sentences uses the correct form of the verb?\n\n(i) He suggested that she go to the doctor immediately.\n(ii) The teacher wishes that every student passes the exam.\n(iii) If I were you, I would accept the offer.\n(iv) She demanded that the report is submitted today.\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "'Suggested that she go' uses correct subjunctive (i correct). 'If I were' uses correct past subjunctive (iii correct). (ii) is wrong — should be 'passes' after 'wishes' is acceptable in informal usage but strictly 'pass' (subjunctive). Actually 'wishes that every student passes' can be considered acceptable. But 'demanded that the report is submitted' (iv) is definitely wrong — it should be 'be submitted' (subjunctive after demand). Let me reconsider: (ii) 'wishes' doesn't strictly require subjunctive in modern usage, making it debatable. The safest answer pairing (i) and (iii) as definitively correct uses of subjunctive. Option 2 includes (ii) which is debatable. Option 3 includes (iv) which is definitely wrong. Option 4 includes (iv)."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Match the following rivers with the states they flow through:\n\nColumn I:\n(a) Narmada\n(b) Krishna\n(c) Brahmaputra\n(d) Mahanadi\n\nColumn II:\n(i) Assam\n(ii) Madhya Pradesh and Gujarat\n(iii) Chhattisgarh and Odisha\n(iv) Maharashtra, Karnataka, and Andhra Pradesh/Telangana\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "Narmada flows through MP and Gujarat (ii). Krishna flows through Maharashtra, Karnataka, AP/Telangana (iv). Brahmaputra in Assam (i). Mahanadi through Chhattisgarh and Odisha (iii). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (c)."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "If the selling price of an article is ₹720 and the profit is 20%, what is the cost price?",
+      "options": ["₹600", "₹576", "₹640", "₹650"],
+      "correctAnswer": "₹600",
+      "explanation": "SP = CP + 20% of CP = 1.2×CP. So CP = 720/1.2 = ₹600. '₹576' is wrong — 576×1.2=691.2≠720. '₹640' is wrong — 640×1.2=768≠720. '₹650' is wrong — 650×1.2=780≠720."
+    },
+    {
+      "id": "23",
+      "subject": "A",
+      "questionText": "Fill in the blank: The idiom 'To throw in the towel' means __________.",
+      "options": ["to give up or admit defeat", "to start a fight", "to clean up a mess", "to celebrate a victory"],
+      "correctAnswer": "to give up or admit defeat",
+      "explanation": "'Throw in the towel' (from boxing) means to surrender/quit. 'Start a fight' is wrong — opposite of surrendering. 'Clean up a mess' is wrong — literal misinterpretation. 'Celebrate a victory' is wrong — opposite meaning."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Which of the following are input devices?\n\n(i) Keyboard\n(ii) Mouse\n(iii) Speaker\n(iv) Microphone\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Keyboard inputs text (i correct). Mouse inputs pointing/clicking (ii correct). Microphone inputs audio (iv correct). (iii) is wrong because a speaker is an OUTPUT device (produces sound). Option 2 includes (iii). Option 3 excludes (iv). Option 4 includes (iii)."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "The 'Swachh Bharat Mission' was launched on which date?",
+      "options": ["2 October 2014", "15 August 2014", "26 January 2015", "2 October 2015"],
+      "correctAnswer": "2 October 2014",
+      "explanation": "Swachh Bharat Mission launched on 2 October 2014 (Gandhi Jayanti). '15 August 2014' is wrong — Independence Day, no such launch. '26 January 2015' is wrong — Republic Day, different year. '2 October 2015' is wrong — wrong year."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Match the following mathematical concepts:\n\nColumn I:\n(a) Simple Interest for 3 years at 5% on ₹2000\n(b) Compound Interest for 2 years at 10% on ₹1000\n(c) 15% of 600\n(d) Average of 12, 18, 24, 30, 36\n\nColumn II:\n(i) 24\n(ii) ₹300\n(iii) 90\n(iv) ₹210\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "SI = 2000×5×3/100 = ₹300 (ii). CI = 1000[(1.1)²–1] = 1000×0.21 = ₹210 (iv). 15% of 600 = 90 (iii). Average = (12+18+24+30+36)/5 = 120/5 = 24 (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 assigns SI to 90."
+    },
+    {
+      "id": "27",
+      "subject": "A",
+      "questionText": "Choose the correct antonym of 'LETHARGIC':",
+      "options": ["Energetic", "Drowsy", "Inactive", "Weary"],
+      "correctAnswer": "Energetic",
+      "explanation": "'Lethargic' means sluggish/lacking energy. 'Energetic' (full of energy) is the antonym. 'Drowsy' is wrong — it's a near-synonym. 'Inactive' is wrong — similar meaning. 'Weary' is wrong — means tired, similar direction."
+    },
+    {
+      "id": "28",
+      "subject": "C",
+      "questionText": "Consider the following statements about the Indus Waters Treaty:\n\n(i) India can use the western rivers (Indus, Jhelum, Chenab) for limited purposes like run-of-river projects.\n(ii) The treaty was signed in 1960.\n(iii) Pakistan has exclusive rights over the eastern rivers (Ravi, Beas, Sutlej).\n(iv) The World Bank mediated the treaty.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (iv) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "India can use western rivers for limited run-of-river projects (i correct). Treaty signed in 1960 (ii correct). World Bank mediated (iv correct). (iii) is wrong because INDIA (not Pakistan) received rights over the eastern rivers. Pakistan got western rivers. Option 2 includes (iii). Option 3 excludes (ii). Option 4 includes (iii)."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a shopkeeper gives two successive discounts of 20% and 10%, the effective single discount is not 30%.\nReason (R): Successive discounts are calculated on the reduced price, not the original — so 20% + 10% effective = 1–(0.8×0.9) = 1–0.72 = 28%.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Two successive discounts of 20% and 10% give 28%, not 30% (A correct). R shows the calculation: price × 0.8 × 0.9 = 0.72 of original, so discount = 28% (R correct and proves A). Option 2 is wrong because R is the mathematical proof. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Consider the following statements about articles:\n\n(i) 'The' is used before superlatives (the tallest, the best).\n(ii) 'A/An' is used before singular countable nouns when mentioned for the first time.\n(iii) No article is used before abstract nouns used in a general sense (Honesty is a virtue).\n(iv) 'The' is always used before all proper nouns.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "'The' before superlatives (i correct). 'A/An' for first-mention singular countable nouns (ii correct). No article with general abstract nouns (iii correct). (iv) is wrong — 'the' is NOT used before all proper nouns (e.g., no 'the' before India, Mount Everest, Dr. Singh). Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "Which of the following are correctly matched (Country — Capital)?\n\n(i) Australia — Canberra\n(ii) Brazil — Rio de Janeiro\n(iii) Canada — Ottawa\n(iv) South Africa — Pretoria (administrative)\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Australia-Canberra (i correct). Canada-Ottawa (iii correct). South Africa-Pretoria as administrative capital (iv correct). (ii) is wrong because Brazil's capital is Brasília, NOT Rio de Janeiro (Rio is a major city but not the capital). Option 2 includes (ii). Option 3 excludes (iv). Option 4 includes (ii)."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Fill in the blank: The value of √(169) + √(225) – √(81) = __________.",
+      "options": ["19", "22", "17", "21"],
+      "correctAnswer": "19",
+      "explanation": "√169=13, √225=15, √81=9. Expression = 13+15–9 = 19. '22' is wrong — 13+9=22 but that's not the expression. '17' is wrong — miscalculation. '21' is wrong — 13+15–7=21 uses wrong √."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Match the following computer terms with their meanings:\n\nColumn I:\n(a) URL\n(b) ISP\n(c) HTML\n(d) CPU\n\nColumn II:\n(i) Central Processing Unit\n(ii) Internet Service Provider\n(iii) HyperText Markup Language\n(iv) Uniform Resource Locator\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "URL = Uniform Resource Locator (iv). ISP = Internet Service Provider (ii). HTML = HyperText Markup Language (iii). CPU = Central Processing Unit (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Choose the correct meaning of the idiom 'To beat around the bush':",
+      "options": ["To avoid coming to the main point", "To search for something in a forest", "To physically hit something", "To arrive early at a destination"],
+      "correctAnswer": "To avoid coming to the main point",
+      "explanation": "'Beat around the bush' means to talk evasively without addressing the real issue. 'Search in a forest' is wrong — literal misreading. 'Hit something' is wrong — literal misreading. 'Arrive early' is wrong — unrelated meaning."
+    },
+    {
+      "id": "35",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian Parliament:\n\n(i) Lok Sabha has a maximum strength of 552 members.\n(ii) Rajya Sabha has 250 members, of which 12 are nominated by the President.\n(iii) A Money Bill can only be introduced in Lok Sabha.\n(iv) Rajya Sabha can reject a Money Bill outright.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Lok Sabha max 552 (i correct). Rajya Sabha 250 with 12 nominated (ii correct). Money Bill only in Lok Sabha (iii correct). (iv) is wrong because Rajya Sabha CANNOT reject a Money Bill — it can only suggest amendments within 14 days; Lok Sabha may accept or reject those suggestions. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "A clock shows 4:30. What is the angle between the hour and minute hands?",
+      "options": ["45°", "30°", "60°", "75°"],
+      "correctAnswer": "45°",
+      "explanation": "At 4:30: minute hand at 180° (6 o'clock position). Hour hand: at 4:00 it's at 120°, in 30 min it moves 30×0.5°=15° more = 135°. Angle = 180°–135° = 45°. '30°' is wrong — uses wrong calculation. '60°' is wrong — miscalculates hour hand. '75°' is wrong — error in positioning."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The words 'loose' and 'lose' are commonly confused despite having different meanings.\nReason (R): 'Loose' (adjective) means not tight, while 'lose' (verb) means to misplace or be defeated — they differ in spelling by one letter.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Loose/lose are commonly confused (A correct). R explains the difference clearly — spelling differs by one letter causing confusion (R correct and explains why they're confused). Option 2 is wrong because R explains the reason for confusion. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "38",
+      "subject": "C",
+      "questionText": "The 'Karewa' deposits in Kashmir are significant because:",
+      "options": ["They provide ideal conditions for saffron and almond cultivation", "They are volcanic formations used for mining", "They are river deltas suitable for rice cultivation", "They are coral reefs found in Dal Lake"],
+      "correctAnswer": "They provide ideal conditions for saffron and almond cultivation",
+      "explanation": "Karewas are elevated lacustrine (ancient lake) deposits with well-drained soil ideal for saffron and dry fruits. 'Volcanic formations' is wrong — Karewas are sedimentary lake deposits. 'River deltas' is wrong — Karewas are elevated plateaus, not deltas. 'Coral reefs' is wrong — completely unrelated to Karewas."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "The 'National Education Policy 2020' replaced which earlier policy?",
+      "options": ["National Policy on Education 1986", "Kothari Commission Report 1966", "Right to Education Act 2009", "Sarva Shiksha Abhiyan 2001"],
+      "correctAnswer": "National Policy on Education 1986",
+      "explanation": "NEP 2020 replaced the 34-year-old National Policy on Education, 1986 (modified in 1992). 'Kothari Commission 1966' is wrong — it was a commission, not a policy that was formally 'replaced'. 'RTE Act 2009' is wrong — it's an Act, still in force. 'SSA 2001' is wrong — it's a programme, not a policy."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "The data shows production (in lakh tonnes) of wheat in 5 states:\n\n| State | Production |\n|---|---|\n| UP | 35 |\n| Punjab | 28 |\n| Haryana | 18 |\n| MP | 22 |\n| Rajasthan | 12 |\n\nWhat is the percentage share of Punjab in total production?",
+      "options": ["24.35%", "28%", "22%", "30%"],
+      "correctAnswer": "24.35%",
+      "explanation": "Total = 35+28+18+22+12 = 115. Punjab % = (28/115)×100 = 24.35%. '28%' is wrong — confuses production with percentage. '22%' is wrong — would need 25.3 out of 115. '30%' is wrong — would need 34.5 out of 115."
+    },
+    {
+      "id": "41",
+      "subject": "A",
+      "questionText": "Choose the correctly spelled word:",
+      "options": ["Occurrence", "Occurence", "Occurance", "Occurrance"],
+      "correctAnswer": "Occurrence",
+      "explanation": "'Occurrence' (double 'c', double 'r', '-ence') is correct. 'Occurence' is wrong — single 'r'. 'Occurance' is wrong — '-ance' ending is incorrect. 'Occurrance' is wrong — '-ance' and missing doubled 'r' in wrong place."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Word:\n\n(i) The 'Format Painter' copies formatting from one text to another.\n(ii) Ctrl+Z is the shortcut for Undo.\n(iii) A 'Template' is a pre-designed document layout.\n(iv) MS Word can only save files in .docx format.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Format Painter copies formatting (i correct). Ctrl+Z = Undo (ii correct). Templates are pre-designed layouts (iii correct). (iv) is wrong because Word can save in multiple formats: .doc, .pdf, .rtf, .txt, .html, etc. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+    },
+    {
+      "id": "43",
+      "subject": "B",
+      "questionText": "Which Article of the Indian Constitution abolishes untouchability?",
+      "options": ["Article 17", "Article 14", "Article 21", "Article 32"],
+      "correctAnswer": "Article 17",
+      "explanation": "Article 17 abolishes untouchability and forbids its practice in any form. 'Article 14' is wrong — it deals with equality before law. 'Article 21' is wrong — right to life and personal liberty. 'Article 32' is wrong — right to constitutional remedies."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Choose the correct analogy: Pen : Ink :: Car : __________",
+      "options": ["Fuel", "Road", "Tyre", "Driver"],
+      "correctAnswer": "Fuel",
+      "explanation": "A pen uses ink to function; a car uses fuel to function. The analogy is object:substance that powers it. 'Road' is wrong — that's where a car operates, not what powers it. 'Tyre' is wrong — that's a part of the car. 'Driver' is wrong — that's who operates it."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "The following data shows sales of a shop (in ₹ thousands) over 4 months:\n\n| Month | Sales |\n|---|---|\n| Jan | 45 |\n| Feb | 52 |\n| Mar | 48 |\n| Apr | 55 |\n\nWhat is the percentage increase from January to April?",
+      "options": ["22.2%", "20%", "25%", "18%"],
+      "correctAnswer": "22.2%",
+      "explanation": "Increase = 55–45 = 10. Percentage = (10/45)×100 = 22.2%. '20%' is wrong — 20% of 45=9. '25%' is wrong — 25% of 45=11.25. '18%' is wrong — 18% of 45=8.1."
+    },
+    {
+      "id": "46",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): J&K is the largest producer of apples in India.\nReason (R): The temperate climate of the Kashmir Valley with cold winters and mild summers provides ideal conditions for apple cultivation.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "J&K produces ~75% of India's apples (A correct). The temperate climate provides ideal growing conditions (R correct and explains why J&K dominates apple production). Option 2 is wrong because R explains the geographic reason. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "47",
+      "subject": "A",
+      "questionText": "Which of the following sentences correctly uses a relative pronoun?\n\n(i) The girl who won the prize is my neighbour.\n(ii) This is the car which I bought last year.\n(iii) The man whom you met yesterday is a doctor.\n(iv) The student which scored highest was rewarded.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "'Who' for person as subject (i correct). 'Which' for thing (ii correct). 'Whom' for person as object (iii correct). (iv) is wrong — 'which' cannot be used for people; should be 'who'. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Fill in the blank: If the perimeter of a square is 64 cm, its area is __________ sq cm.",
+      "options": ["256", "128", "196", "324"],
+      "correctAnswer": "256",
+      "explanation": "Side = 64/4 = 16 cm. Area = 16² = 256 sq cm. '128' is wrong — that's 8×16. '196' is wrong — that's 14². '324' is wrong — that's 18²."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "The data shows India's food grain production (in million tonnes) over 4 years:\n\n| Year | Production |\n|---|---|\n| 2020-21 | 310 |\n| 2021-22 | 315 |\n| 2022-23 | 330 |\n| 2023-24 | 332 |\n\nWhat is the total increase in production from 2020-21 to 2023-24?",
+      "options": ["22 million tonnes", "20 million tonnes", "25 million tonnes", "17 million tonnes"],
+      "correctAnswer": "22 million tonnes",
+      "explanation": "Increase = 332–310 = 22 million tonnes. '20 million tonnes' is wrong — would need final value of 330. '25 million tonnes' is wrong — would need final value of 335. '17 million tonnes' is wrong — would need final value of 327."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "Fill in the blank: The keyboard shortcut to select all text in a document is __________.",
+      "options": ["Ctrl+A", "Ctrl+S", "Ctrl+E", "Ctrl+D"],
+      "correctAnswer": "Ctrl+A",
+      "explanation": "Ctrl+A selects all content in the active document/area. 'Ctrl+S' is wrong — that saves. 'Ctrl+E' is wrong — that center-aligns. 'Ctrl+D' is wrong — that opens Font dialog in Word."
+    }
+  ]
+}

@@ -346,9 +346,9 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 121 | Morning | A — General English | All topics of General English (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 122 | Afternoon | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 123 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 121 | Morning | A — General English | All topics of General English (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 122 | Afternoon | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 123 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 42
 
