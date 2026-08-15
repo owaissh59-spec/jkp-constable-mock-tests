@@ -434,17 +434,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 154 | Morning | A — General English | All topics of General English (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 155 | Afternoon | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 156 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 154 | Morning | A — General English | All topics of General English (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 155 | Afternoon | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 156 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 53
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 157 | Morning | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 158 | Afternoon | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 159 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 157 | Morning | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 158 | Afternoon | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 159 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 54
 
