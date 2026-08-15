@@ -1,0 +1,407 @@
+{
+  "subject": "E",
+  "topic": "All topics of Basic Concepts of Computers (mixed)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "The full form of CPU is:",
+      "options": ["Central Processing Unit", "Common Processing Unit", "Central Program Unit", "Computer Personal Unit"],
+      "correctAnswer": "Central Processing Unit",
+      "explanation": "CPU stands for Central Processing Unit, the component that executes instructions and processes data. 'Common Processing Unit' and 'Computer Personal Unit' are not standard terms, and 'Central Program Unit' misnames the 'P' as program instead of processing, so only 'Central Processing Unit' is correct."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer generations:\n\n(i) The first generation used vacuum tubes.\n(ii) The second generation used transistors.\n(iii) The third generation used integrated circuits.\n(iv) The first generation used microprocessors.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "First-generation computers used vacuum tubes, the second used transistors, and the third used ICs, so (i), (ii) and (iii) are true. Statement (iv) is false because microprocessors appeared in the fourth generation, not the first, so any option including (iv) is wrong."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "One byte is equal to how many bits?",
+      "options": ["4", "6", "8", "16"],
+      "correctAnswer": "8",
+      "explanation": "By definition, one byte equals 8 bits, the standard unit for representing a single character. 4 bits form a nibble (half a byte), 6 is not a standard grouping, and 16 bits form a word on many systems but not a byte, so only 8 is correct."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the following storage units with their approximate sizes:\n\nColumn I:\n(a) Kilobyte\n(b) Megabyte\n(c) Gigabyte\n(d) Terabyte\n\nColumn II:\n(i) 1024 MB\n(ii) 1024 KB\n(iii) 1024 GB\n(iv) 1024 bytes\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "1 KB = 1024 bytes, 1 MB = 1024 KB, 1 GB = 1024 MB, and 1 TB = 1024 GB, giving (a)-(iv), (b)-(ii), (c)-(i), (d)-(iii). The other options swap KB with MB values or misplace GB and TB, which do not follow the standard 1024-multiplier hierarchy."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which of the following is a pointing device?",
+      "options": ["Keyboard", "Speaker", "Printer", "Mouse"],
+      "correctAnswer": "Mouse",
+      "explanation": "A mouse is a pointing device used to move a cursor on the screen. A keyboard is used to type characters, a speaker outputs sound, and a printer prints documents; none of them serves as a pointing device, so only the mouse fits this description."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are examples of secondary storage devices?\n\n(i) Hard disk\n(ii) SSD\n(iii) RAM\n(iv) DVD\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Hard disks, SSDs and DVDs all store data even when power is off, so they are secondary storage and (i), (ii) and (iv) are correct. RAM is primary volatile memory that loses data when powered off, so any option including RAM as secondary storage is wrong."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "The physical parts of a computer that can be touched are collectively called:",
+      "options": ["Software", "Hardware", "Firmware", "Freeware"],
+      "correctAnswer": "Hardware",
+      "explanation": "Hardware refers to the tangible components of a computer such as the CPU, keyboard and monitor. Software is a set of programs (intangible), firmware is software stored on hardware chips, and freeware is software distributed free of cost, so hardware is the correct term for physical parts."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): ROM is a volatile memory that loses data when the computer is switched off.\nReason (R): ROM stores essential instructions like the BIOS needed to boot the computer.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is true: ROM stores boot-time instructions like the BIOS. This makes the assertion false because ROM is non-volatile and retains its contents without power. Hence (A) is wrong while (R) is correct; the first two options fail because (A) is false, and the third fails because (R) is true."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "MS Word is an example of which type of software?",
+      "options": ["System software", "Application software", "Firmware", "Operating system"],
+      "correctAnswer": "Application software",
+      "explanation": "MS Word is a word-processing program designed for end-user document tasks, so it is application software. System software manages hardware, firmware is embedded in devices, and an operating system provides the platform on which Word runs, so none of them describes Word, which is application software."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Consider the following statements about the CPU:\n\n(i) It is often called the brain of the computer.\n(ii) It contains the ALU and the Control Unit.\n(iii) It stores permanent user files.\n(iv) It executes instructions given by programs.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The CPU is the brain, contains the ALU and Control Unit, and executes program instructions, so (i), (ii) and (iv) are true. Statement (iii) is false because permanent user files are stored on secondary storage like hard disks, not inside the CPU, so any option including (iii) is wrong."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Which of the following is NOT an input device?",
+      "options": ["Scanner", "Microphone", "Monitor", "Joystick"],
+      "correctAnswer": "Monitor",
+      "explanation": "A monitor displays information to the user, making it an output device. Scanners, microphones and joysticks all send data into the computer and are input devices, so they do not fit the 'NOT input' criterion; only the monitor is an output device here."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "The following table shows the storage capacity of four devices (in GB):\n\nDevice A — 4\nDevice B — 32\nDevice C — 128\nDevice D — 64\n\nWhich device has the highest storage capacity?",
+      "options": ["A", "B", "C", "D"],
+      "correctAnswer": "C",
+      "explanation": "Device C at 128 GB is the largest of the four, ahead of Device D at 64 GB, Device B at 32 GB and Device A at 4 GB. Device D is the second highest, not the peak, while A and B are clearly lower, so C has the maximum storage."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The number system used internally by computers is:",
+      "options": ["Decimal", "Octal", "Hexadecimal", "Binary"],
+      "correctAnswer": "Binary",
+      "explanation": "Computers process data using binary (base-2) with only 0 and 1, matching two-state electronic switches. Decimal is base-10 used by humans, octal is base-8, and hexadecimal is base-16 used for compact human-readable notation, but none is the internal number system; binary is correct."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Match the following file extensions with their file types:\n\nColumn I:\n(a) .docx\n(b) .xlsx\n(c) .pptx\n(d) .mp3\n\nColumn II:\n(i) Presentation\n(ii) Audio\n(iii) Word document\n(iv) Spreadsheet\n\nChoose the correct match:",
+      "options": ["(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": ".docx is a Word document, .xlsx a spreadsheet, .pptx a presentation and .mp3 an audio file, giving (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii). The other options swap spreadsheet with presentation or misplace the audio extension, which do not match standard file types."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Which of the following is an example of an antivirus program?",
+      "options": ["MS Excel", "Norton", "Google Chrome", "Adobe Photoshop"],
+      "correctAnswer": "Norton",
+      "explanation": "Norton is a well-known antivirus program that detects and removes malware. MS Excel is a spreadsheet application, Google Chrome is a web browser, and Adobe Photoshop is an image-editing tool, so none of them is an antivirus and Norton is correct."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Fill in the blank: The __________ is a small program that starts up the computer when it is switched on.",
+      "options": ["BIOS", "Word processor", "Spreadsheet", "Compiler"],
+      "correctAnswer": "BIOS",
+      "explanation": "The BIOS (Basic Input Output System) initialises hardware and boots the operating system when the computer starts. A word processor and spreadsheet are user applications, and a compiler translates high-level code, so none of them starts up the computer; the BIOS is correct."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Which of the following is a low-level language?",
+      "options": ["Python", "C++", "Java", "Assembly language"],
+      "correctAnswer": "Assembly language",
+      "explanation": "Assembly language works directly with machine-level instructions using mnemonics, so it is a low-level language. Python, C++ and Java are high-level languages that use human-readable syntax and require compilation or interpretation, so none of them is low-level; assembly language is correct."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Consider the following statements about the Internet:\n\n(i) The Internet is a global network of networks.\n(ii) A URL uniquely identifies a resource on the web.\n(iii) HTML is used to create web pages.\n(iv) The Internet was invented by Charles Babbage.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Internet is a global network of networks, URLs identify resources, and HTML builds web pages, so (i), (ii) and (iii) are true. Statement (iv) is false because Charles Babbage is called the father of the computer, not the Internet (which grew from ARPANET), so any option including (iv) is wrong."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The hard disk is a secondary storage device.\nReason (R): The hard disk retains data even when the computer is switched off.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: the hard disk is secondary storage and retains data without power. This non-volatility is precisely what qualifies it as secondary storage rather than primary memory, so (R) correctly explains (A). The other options are wrong because both statements are true and the reason does explain the assertion."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "The device used to convert an analog signal to a digital signal and vice versa for internet access over telephone lines is a:",
+      "options": ["Router", "Switch", "Modem", "Hub"],
+      "correctAnswer": "Modem",
+      "explanation": "A modem (modulator-demodulator) converts between analog and digital signals for transmission over phone lines. A router forwards packets between networks, a switch links devices within a LAN, and a hub broadcasts packets, so none performs analog-digital conversion; the modem is correct."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Which company developed the Windows operating system?",
+      "options": ["Apple", "IBM", "Oracle", "Microsoft"],
+      "correctAnswer": "Microsoft",
+      "explanation": "Windows is developed and marketed by Microsoft Corporation. Apple makes macOS and iOS, IBM produced OS/2 and mainframe systems, and Oracle is best known for its database software, so none of them created Windows; Microsoft is the correct developer."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Consider the following statements about email:\n\n(i) Email stands for electronic mail.\n(ii) An email address contains the '@' symbol.\n(iii) SMTP is a protocol used for sending emails.\n(iv) A single email cannot have multiple recipients.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Email means electronic mail, addresses use '@', and SMTP handles email transmission, so (i), (ii) and (iii) are true. Statement (iv) is false because an email can easily have many recipients via the To, Cc and Bcc fields, so any option including (iv) is wrong."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "The extension typically used for an executable file in Windows is:",
+      "options": [".txt", ".doc", ".exe", ".pdf"],
+      "correctAnswer": ".exe",
+      "explanation": ".exe files are executable programs in Windows that run when double-clicked. .txt is a plain-text file, .doc is a Word document format, and .pdf is a portable document format viewed with readers; none of them is directly executable, so .exe is correct."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Match the following abbreviations with their expansions:\n\nColumn I:\n(a) HTML\n(b) URL\n(c) HTTP\n(d) FTP\n\nColumn II:\n(i) File Transfer Protocol\n(ii) HyperText Markup Language\n(iii) Uniform Resource Locator\n(iv) HyperText Transfer Protocol\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "HTML is HyperText Markup Language, URL is Uniform Resource Locator, HTTP is HyperText Transfer Protocol, and FTP is File Transfer Protocol, giving (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i). The other options swap HTML with HTTP or misplace URL and FTP, which are technically incorrect."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "The main circuit board of a computer that connects all components is called the:",
+      "options": ["Motherboard", "Sound card", "Graphics card", "Hard disk"],
+      "correctAnswer": "Motherboard",
+      "explanation": "The motherboard is the main printed circuit board that houses the CPU, memory and connectors for all devices. A sound card and graphics card are expansion cards for specific functions, and a hard disk is a storage device, so none of them is the main board; the motherboard is correct."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Which of the following are types of computer network topologies?\n\n(i) Bus\n(ii) Star\n(iii) Ring\n(iv) Linear\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Bus, star and ring are standard network topologies, so (i), (ii) and (iii) are correct. 'Linear' is not a recognised topology name (a bus is sometimes drawn linearly but is not called that in classification), so any option including 'linear' is wrong."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The keyboard shortcut for cutting selected text in most applications is:",
+      "options": ["Ctrl + C", "Ctrl + X", "Ctrl + V", "Ctrl + Z"],
+      "correctAnswer": "Ctrl + X",
+      "explanation": "Ctrl + X removes the selected text and places it on the clipboard (cut). Ctrl + C only copies without removing, Ctrl + V pastes, and Ctrl + Z undoes the last action, so those do different jobs and Ctrl + X is the correct cut shortcut."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A compiler translates a high-level program into machine language.\nReason (R): A compiler executes source code line by line without producing an object file.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "The assertion is true: a compiler translates high-level code into machine language. However the reason is false because it describes an interpreter, not a compiler; a compiler processes the whole program and produces an object file. Hence (A) is correct but (R) is wrong; the first two options fail because (R) is false, and the last fails because (A) is true."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "A collection of related records stored together and treated as a single unit is called a:",
+      "options": ["File", "Field", "Byte", "Bit"],
+      "correctAnswer": "File",
+      "explanation": "A file groups related records under one name for storage and retrieval. A field is a single data item within a record, a byte is a unit of 8 bits, and a bit is the smallest unit of information, so none of them means a collection of records; a file is correct."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware resources.\n(ii) Windows, Linux and macOS are all operating systems.\n(iii) An operating system acts as an interface between the user and the hardware.\n(iv) Photoshop is an operating system.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "An OS manages hardware, Windows/Linux/macOS are all operating systems, and it acts as a user-hardware interface, so (i), (ii) and (iii) are true. Statement (iv) is false because Photoshop is an image-editing application, not an OS, so any option including (iv) is wrong."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "The following table shows the RAM (in GB) of four laptops:\n\nLaptop 1 — 4\nLaptop 2 — 8\nLaptop 3 — 16\nLaptop 4 — 12\n\nWhat is the average RAM per laptop?",
+      "options": ["8", "9", "10", "11"],
+      "correctAnswer": "10",
+      "explanation": "Total RAM = 4 + 8 + 16 + 12 = 40 GB, and average = 40 ÷ 4 = 10 GB. Option 8 and 9 fall below the true mean and 11 exceeds it; only 10 correctly divides the total by the four laptops, so it is the right average."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Which of the following is a search engine?",
+      "options": ["Gmail", "Google", "Facebook", "Twitter"],
+      "correctAnswer": "Google",
+      "explanation": "Google is one of the most widely used web search engines. Gmail is an email service, and Facebook and Twitter are social networking sites; while some sites offer search within themselves, they are not general web search engines, so Google is correct."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Which of the following are examples of programming languages?\n\n(i) Java\n(ii) Python\n(iii) HTML\n(iv) C\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Java, Python and C are all general-purpose programming languages, so (i), (ii) and (iv) are correct. HTML is a markup language used to structure web content, not a programming language, so any option including HTML as a programming language is wrong."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "The smallest unit of data in a computer is:",
+      "options": ["Bit", "Byte", "Kilobyte", "Nibble"],
+      "correctAnswer": "Bit",
+      "explanation": "A bit (binary digit) with a value of 0 or 1 is the smallest unit of data. A byte is 8 bits, a nibble is 4 bits, and a kilobyte is 1024 bytes, all of which are larger, so none of them is the smallest; the bit is correct."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer viruses:\n\n(i) A virus is a type of malicious software.\n(ii) A firewall helps prevent unauthorised network access.\n(iii) Antivirus software helps detect and remove viruses.\n(iv) A virus is a physical hardware component.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A virus is malicious software, a firewall blocks unauthorised access, and antivirus programs detect and remove viruses, so (i), (ii) and (iii) are true. Statement (iv) is false because a computer virus is a program, not a physical part, so any option including (iv) is wrong."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Match the following devices with their functions:\n\nColumn I:\n(a) Printer\n(b) Scanner\n(c) Webcam\n(d) Speaker\n\nColumn II:\n(i) Captures live video\n(ii) Produces audio output\n(iii) Produces printed output\n(iv) Converts printed documents to digital form\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "A printer produces printed output, a scanner digitises documents, a webcam captures live video, and a speaker outputs audio, giving (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii). The other options swap printer with scanner or webcam with speaker, which do not match their true functions."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "In word processing, the process of moving text from one place to another using cut and paste is known as:",
+      "options": ["Formatting", "Editing", "Saving", "Printing"],
+      "correctAnswer": "Editing",
+      "explanation": "Cutting and pasting text to reorganise a document is part of editing. Formatting changes appearance (fonts, colours), saving stores the file, and printing produces a hard copy, none of which is moving text, so 'editing' correctly describes cut-and-paste operations."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cache memory is generally slower than RAM.\nReason (R): Cache memory is placed close to the CPU to speed up access to frequently used data.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is true: cache sits close to the CPU to speed up access to frequently used data. This makes the assertion false because cache is faster than RAM, not slower. Hence (A) is wrong while (R) is correct; the first two options fail because (A) is false, and the third fails because (R) is true."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "The person who writes and tests computer programs is called a:",
+      "options": ["Programmer", "Operator", "Analyst", "Data entry clerk"],
+      "correctAnswer": "Programmer",
+      "explanation": "A programmer writes, tests and maintains software. An operator runs already-installed systems, an analyst studies requirements and designs solutions, and a data entry clerk keys in data, so none of them primarily writes and tests programs; a programmer is correct."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Which of the following is an example of an image file format?",
+      "options": [".mp3", ".jpg", ".txt", ".exe"],
+      "correctAnswer": ".jpg",
+      "explanation": ".jpg is a compressed image file format widely used for photographs. .mp3 is an audio format, .txt is plain text, and .exe is an executable program, so none of them stores an image; .jpg is the correct image format."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "The process of loading the operating system into memory when a computer is switched on is called:",
+      "options": ["Booting", "Formatting", "Compiling", "Executing"],
+      "correctAnswer": "Booting",
+      "explanation": "Booting loads the operating system into main memory so the computer becomes usable. Formatting prepares a disk for storage, compiling translates source code into machine code, and executing runs programs, so none of them describes OS start-up; booting is correct."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Excel:\n\n(i) A workbook contains one or more worksheets.\n(ii) Cells are identified by column letter and row number.\n(iii) Formulas in Excel begin with the '=' sign.\n(iv) Excel is used mainly for creating slide presentations.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A workbook contains worksheets, cells are named by column letter and row number, and formulas begin with '=', so (i), (ii) and (iii) are true. Statement (iv) is false because slide presentations are made in PowerPoint, not Excel, so any option including (iv) is wrong."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "Which of the following are cloud storage services?\n\n(i) Google Drive\n(ii) Dropbox\n(iii) OneDrive\n(iv) MS Paint\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Google Drive, Dropbox and OneDrive all store files on remote servers accessed over the internet, so (i), (ii) and (iii) are cloud storage services. MS Paint is a local drawing application, not a cloud service, so any option including MS Paint is wrong."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "The device that connects two or more computer networks and forwards data packets between them is a:",
+      "options": ["Hub", "Switch", "Router", "Bridge"],
+      "correctAnswer": "Router",
+      "explanation": "A router connects different networks and forwards packets based on IP addresses. A hub simply repeats signals to all ports, a switch works within a single LAN using MAC addresses, and a bridge joins two LAN segments but does not route across networks, so a router is correct."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Fill in the blank: __________ is a temporary storage area in memory that holds data being cut or copied.",
+      "options": ["Clipboard", "Recycle Bin", "Register", "Cache"],
+      "correctAnswer": "Clipboard",
+      "explanation": "The clipboard temporarily stores cut or copied content until it is pasted. The Recycle Bin holds deleted files, registers are inside the CPU for very small values, and cache stores frequently accessed data for the CPU, none of which is the paste buffer, so the clipboard is correct."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "The following table shows the number of files stored in four folders:\n\nFolder A — 25\nFolder B — 40\nFolder C — 15\nFolder D — 20\n\nWhich folder contains the fewest files?",
+      "options": ["A", "B", "C", "D"],
+      "correctAnswer": "C",
+      "explanation": "Folder C with 15 files has the fewest, below Folder D at 20, Folder A at 25 and Folder B at 40. Folder D is the second lowest, not the least, while A and B are higher, so C contains the fewest files."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "The person considered the father of the computer is:",
+      "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+      "correctAnswer": "Charles Babbage",
+      "explanation": "Charles Babbage designed the Analytical Engine in the 19th century and is called the father of the computer. Alan Turing is a pioneer of theoretical computing, Bill Gates founded Microsoft, and Steve Jobs co-founded Apple, so none of them holds the 'father of the computer' title; Babbage is correct."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A byte is smaller than a bit.\nReason (R): One byte contains 8 bits.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is true: one byte contains 8 bits. This directly contradicts the assertion, which wrongly claims a byte is smaller than a bit; in fact a byte is eight times larger. Hence (A) is wrong while (R) is correct; the first two options fail because (A) is false, and the third fails because (R) is true."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "In Windows, deleted files are temporarily stored in the:",
+      "options": ["Clipboard", "Recycle Bin", "Documents folder", "Downloads folder"],
+      "correctAnswer": "Recycle Bin",
+      "explanation": "Files deleted from a hard disk are moved to the Recycle Bin, from where they can be restored or emptied. The clipboard holds copied content, and the Documents and Downloads folders store user files, none of which is the deletion holding area, so the Recycle Bin is correct."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "Consider the following statements about the World Wide Web:\n\n(i) The WWW is a service that runs on the Internet.\n(ii) Tim Berners-Lee is credited with inventing the WWW.\n(iii) Web pages are viewed using web browsers.\n(iv) The WWW and the Internet are exactly the same thing.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The WWW runs on the Internet, Tim Berners-Lee invented it, and browsers display web pages, so (i), (ii) and (iii) are true. Statement (iv) is false because the Internet is the underlying network while the WWW is one service using it, so any option including (iv) is wrong."
+    }
+  ]
+}

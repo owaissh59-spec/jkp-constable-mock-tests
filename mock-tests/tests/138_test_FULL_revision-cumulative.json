@@ -1,0 +1,407 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision across all covered subjects",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct article to complete the sentence: We waited for ______ hour before the bus arrived.",
+      "options": ["an", "a", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "'Hour' begins with a silent 'h' and a vowel sound, so 'an hour' is correct. 'A' is used before consonant sounds, 'the' would make it a specific hour rather than a duration, and dropping the article is ungrammatical, so 'an' is right."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian flag:\n\n(i) It has three horizontal stripes.\n(ii) The saffron stripe is at the top.\n(iii) The Ashoka Chakra has 24 spokes.\n(iv) The green stripe is at the top.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Indian flag has three horizontal stripes with saffron on top and the Ashoka Chakra has 24 spokes, so (i), (ii) and (iii) are true. Statement (iv) is false because green is at the bottom, not the top, so any option that includes (iv) is wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "The following table shows the runs scored by a batsman in five innings:\n\nInnings 1 — 30\nInnings 2 — 45\nInnings 3 — 60\nInnings 4 — 50\nInnings 5 — 65\n\nWhat is his average score per innings?",
+      "options": ["50", "48", "45", "55"],
+      "correctAnswer": "50",
+      "explanation": "Total = 30 + 45 + 60 + 50 + 65 = 250, and average = 250 ÷ 5 = 50. Option 45 and 48 fall below the true mean and 55 exceeds it; only 50 correctly divides the total by five innings, so it is the right average score."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the following file types with their applications:\n\nColumn I:\n(a) .pdf\n(b) .html\n(c) .mp4\n(d) .zip\n\nColumn II:\n(i) Web page\n(ii) Compressed archive\n(iii) Portable document\n(iv) Video file\n\nChoose the correct match:",
+      "options": ["(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": ".pdf is a portable document, .html is a web page, .mp4 is a video file, and .zip is a compressed archive, giving (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii). The other options swap web page with archive or misplace the video extension, which do not match standard file types."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: The child is afraid ______ the dark.",
+      "options": ["of", "from", "with", "at"],
+      "correctAnswer": "of",
+      "explanation": "The fixed collocation 'afraid of' is used for something that causes fear, so 'afraid of the dark' is correct. 'From', 'with' and 'at' do not combine idiomatically with 'afraid' in this sense, so they are wrong and 'of' is the right preposition."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Which of the following are principal organs of the Indian judiciary?\n\n(i) Supreme Court\n(ii) High Courts\n(iii) District Courts\n(iv) Parliament\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Supreme Court, High Courts and District Courts together form the three-tier Indian judiciary, so (i), (ii) and (iii) are correct. Parliament is the legislature, not a judicial organ, so any option that includes Parliament is wrong."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "The Vaishno Devi shrine is located in the hills known as:",
+      "options": ["Pir Panjal", "Zabarwan", "Trikuta", "Shivalik"],
+      "correctAnswer": "Trikuta",
+      "explanation": "The Vaishno Devi shrine sits in the Trikuta hills near Katra in the Reasi district. Pir Panjal and Shivalik are broader ranges elsewhere in J&K, and Zabarwan is a range near Srinagar, so none of them hosts Vaishno Devi; the Trikuta hills are correct."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of two positive integers can be zero.\nReason (R): Positive integers are numbers greater than zero.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is true: positive integers are greater than zero. Because adding two numbers each greater than zero gives a result greater than zero, the assertion is false. Hence (A) is wrong while (R) is correct; the first two options fail because (A) is false, and the third fails because (R) is true."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct pronoun: Rita and ______ are best friends.",
+      "options": ["me", "I", "myself", "mine"],
+      "correctAnswer": "I",
+      "explanation": "The pronoun is part of the compound subject 'Rita and I', so the subject form 'I' is required. 'Me' is an object pronoun, 'myself' is reflexive and needs a matching subject, and 'mine' is possessive, none of which fits as the subject, so 'I' is the right pronoun."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "Who was the last Governor-General of independent India?",
+      "options": ["Lord Mountbatten", "C. Rajagopalachari", "Rajendra Prasad", "Lord Wavell"],
+      "correctAnswer": "C. Rajagopalachari",
+      "explanation": "C. Rajagopalachari became the first Indian and the last Governor-General of India before the office was abolished in 1950. Lord Mountbatten was the first Governor-General after independence, Rajendra Prasad became the first President, and Lord Wavell was Viceroy before independence, so only Rajaji fits."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The perimeter of a shape is the total length of its boundary.\n(ii) Area is measured in square units.\n(iii) Volume is measured in cubic units.\n(iv) Perimeter is measured in square units.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Perimeter is boundary length, area uses square units, and volume uses cubic units, so (i), (ii) and (iii) are true. Statement (iv) is false because perimeter is a length and uses linear (not square) units, so any option that includes (iv) is wrong."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Which of the following are examples of application software?\n\n(i) MS Word\n(ii) MS PowerPoint\n(iii) Windows 10\n(iv) VLC Media Player\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "MS Word, MS PowerPoint and VLC Media Player are all end-user programs, so they are application software and (i), (ii) and (iv) are correct. Windows 10 is an operating system, which is system software, not application software, so any option including Windows 10 is wrong."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Choose the word most similar in meaning to 'FURIOUS':",
+      "options": ["Angry", "Calm", "Happy", "Quiet"],
+      "correctAnswer": "Angry",
+      "explanation": "'Furious' means extremely angry, so 'angry' is the closest synonym. 'Calm' and 'quiet' suggest the opposite (peaceful state), and 'happy' expresses a positive emotion contrary to fury, so none of them is a synonym and 'angry' is correct."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Match the following books with their authors:\n\nColumn I:\n(a) Discovery of India\n(b) My Experiments with Truth\n(c) Panchatantra\n(d) Ramcharitmanas\n\nColumn II:\n(i) Vishnu Sharma\n(ii) Tulsidas\n(iii) Jawaharlal Nehru\n(iv) Mahatma Gandhi\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "'Discovery of India' is by Nehru, 'My Experiments with Truth' by Gandhi, 'Panchatantra' by Vishnu Sharma, and 'Ramcharitmanas' by Tulsidas, giving (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii). The other options swap Nehru with Gandhi or misplace Vishnu Sharma and Tulsidas, which are incorrect pairings."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "What is 40% of 250?",
+      "options": ["100", "90", "80", "110"],
+      "correctAnswer": "100",
+      "explanation": "40% of 250 = (40 ÷ 100) × 250 = 100. Option 80 corresponds to only 32% of 250, 90 to 36%, and 110 to 44%, none of which is 40%; only 100 equals exactly forty percent of two hundred and fifty."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Consider the following statements about the Kashmir Valley:\n\n(i) It is a large valley formed by the Jhelum river.\n(ii) It lies between the Pir Panjal range and the Great Himalayan range.\n(iii) It has a temperate climate.\n(iv) It is a hot desert.\n\nWhich of the statements given above are correct?",
+      "options": ["(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Kashmir Valley is drained by the Jhelum, lies between the Pir Panjal and Great Himalayan ranges, and has a temperate climate, so (i), (ii) and (iii) are true. Statement (iv) is false because it is not a hot desert (Ladakh is a cold desert instead), so any option including (iv) is wrong."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Choose the correct verb form: If I ______ rich, I would help the poor.",
+      "options": ["am", "were", "was", "had"],
+      "correctAnswer": "were",
+      "explanation": "In the second conditional (hypothetical present), the standard form uses 'were' for all subjects, so 'If I were rich' is correct. 'Am' is used in real conditions, 'was' is common in informal speech but not preferred in formal grammar, and 'had' would need 'had been', so 'were' is the right form."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Ganga is the longest river in India.\nReason (R): The Ganga rises from the Gangotri glacier in the Himalayas.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: the Ganga is the longest river in India, and it rises from the Gangotri glacier. However, its source alone does not explain its overall length, which depends on the whole course, so (R) does not correctly explain (A). The other options fail because both statements are true."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Which of the following are divisible by 3?\n\n(i) 102\n(ii) 205\n(iii) 306\n(iv) 411\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A number is divisible by 3 if its digit sum is divisible by 3: 102→3, 306→9 and 411→6, all divisible by 3, so (i), (iii) and (iv) are correct. 205's digit sum is 7, which is not divisible by 3, so any option including 205 is wrong."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "The word 'software' refers to:",
+      "options": ["The physical parts of a computer", "A set of programs and instructions", "A type of network cable", "A brand of computer"],
+      "correctAnswer": "A set of programs and instructions",
+      "explanation": "Software is the collective term for programs and instructions that tell the hardware what to do. Physical parts are hardware, network cables are hardware accessories, and 'a brand of computer' names a manufacturer rather than software, so 'a set of programs and instructions' is correct."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Choose the word opposite in meaning to 'PROFIT':",
+      "options": ["Loss", "Gain", "Benefit", "Earning"],
+      "correctAnswer": "Loss",
+      "explanation": "'Profit' means monetary gain, so its antonym is 'loss'. 'Gain', 'benefit' and 'earning' are close in meaning to profit rather than opposite, so none of them is the antonym and 'loss' is the correct opposite of profit."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian economy:\n\n(i) The RBI is the central bank of India.\n(ii) NITI Aayog replaced the Planning Commission in 2015.\n(iii) India is a mixed economy.\n(iv) All Indian banks are private banks.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The RBI is India's central bank, NITI Aayog replaced the Planning Commission in 2015, and India follows a mixed economy, so (i), (ii) and (iii) are true. Statement (iv) is false because India has many public-sector banks like SBI, so any option that includes (iv) is wrong."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The perimeter of a rectangle is 40 cm and its length is 12 cm. Its breadth is:",
+      "options": ["6 cm", "7 cm", "8 cm", "10 cm"],
+      "correctAnswer": "8 cm",
+      "explanation": "Perimeter = 2(l + b), so 40 = 2(12 + b), giving 12 + b = 20 and b = 8 cm. Option 6 cm gives a perimeter of 36 cm, 7 gives 38, and 10 gives 44 cm, none of which equals 40 cm, so 8 cm is the correct breadth."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Match the following one-word substitutions with their meanings:\n\nColumn I:\n(a) Herbivore\n(b) Carnivore\n(c) Omnivore\n(d) Insectivore\n\nColumn II:\n(i) Animal that eats meat\n(ii) Animal that eats insects\n(iii) Animal that eats plants\n(iv) Animal that eats both plants and meat\n\nChoose the correct match:",
+      "options": ["(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "A herbivore eats plants, a carnivore eats meat, an omnivore eats both, and an insectivore eats insects, giving (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii). The other options swap herbivore with carnivore or omnivore with insectivore, which contradict their dietary meanings."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "The 'Land of the Rising Sun' is a nickname for which country?",
+      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "correctAnswer": "Japan",
+      "explanation": "Japan is called the 'Land of the Rising Sun' because from an Asian perspective the sun rises in the east where Japan lies. China, South Korea and Thailand have their own nicknames but not this one, so Japan is the correct country."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Which of the following are famous handicrafts of Jammu & Kashmir?\n\n(i) Pashmina shawls\n(ii) Papier-mâché\n(iii) Bidriware\n(iv) Kani shawls\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Pashmina shawls, papier-mâché and Kani shawls are all well-known Kashmiri crafts, so (i), (ii) and (iv) are correct. Bidriware is a metal handicraft from Bidar in Karnataka, not Kashmir, so any option including Bidriware is wrong."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "The following table shows the marks obtained by a student in four subjects:\n\nMaths — 80\nScience — 70\nEnglish — 65\nHindi — 55\n\nWhat percentage of the total (out of 400) did the student score?",
+      "options": ["60%", "65.5%", "67.5%", "70%"],
+      "correctAnswer": "67.5%",
+      "explanation": "Total = 80 + 70 + 65 + 55 = 270 out of 400, and percentage = (270 ÷ 400) × 100 = 67.5%. Option 60% would correspond to 240, 65.5% to 262, and 70% to 280, none of which equals 270, so 67.5% is the correct percentage."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A USB flash drive is a portable storage device.\nReason (R): USB stands for Universal Serial Bus.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: USB drives are portable storage, and USB does stand for Universal Serial Bus. However, the meaning of the acronym does not explain why the drive is portable (that depends on its small size and flash memory), so (R) does not correctly explain (A). The other options fail because both statements are true."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Choose the correctly spelled word:",
+      "options": ["Necessary", "Necesary", "Neccessary", "Necesarry"],
+      "correctAnswer": "Necessary",
+      "explanation": "'Necessary' has one 'c' and two 's's, which is the correct English spelling. 'Neccessary' wrongly doubles the 'c', 'Necesary' drops one 's', and 'Necesarry' misplaces both letters and doubles the 'r', so all three are misspellings and only 'Necessary' is right."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "The following table shows the number of gold medals won by India in four Asian Games:\n\n2010 — 14\n2014 — 11\n2018 — 16\n2022 — 28\n\nIn which year did India win the fewest gold medals?",
+      "options": ["2018", "2010", "2022", "2014"],
+      "correctAnswer": "2014",
+      "explanation": "In 2014 India won only 11 gold medals, the lowest of the four editions. 2010 had 14, 2018 had 16, and 2022 had 28, all higher than 2014, so 2010 is the second-lowest but not the least, and 2014 is the correct year for the fewest gold medals."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Consider the following statements about a circle:\n\n(i) All radii of a circle are equal.\n(ii) The diameter is twice the radius.\n(iii) A chord always passes through the centre.\n(iv) The circumference is given by 2πr.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "All radii of a circle are equal, the diameter is 2r, and the circumference is 2πr, so (i), (ii) and (iv) are true. Statement (iii) is false because only a diameter passes through the centre; a general chord does not, so any option including (iii) is wrong."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "One who studies the past through relics is called a(n):",
+      "options": ["Historian", "Geographer", "Archaeologist", "Anthropologist"],
+      "correctAnswer": "Archaeologist",
+      "explanation": "An archaeologist studies the past by examining material remains such as tools, pottery and buildings. A historian works mainly with written records, a geographer studies the earth, and an anthropologist studies human cultures broadly, so none of them focuses on relics; 'archaeologist' is correct."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "The Indian Space Research Organisation (ISRO) is headquartered in:",
+      "options": ["Bengaluru", "Chennai", "Thiruvananthapuram", "Hyderabad"],
+      "correctAnswer": "Bengaluru",
+      "explanation": "ISRO's headquarters is in Bengaluru, Karnataka. Chennai hosts other institutions, Thiruvananthapuram has the Vikram Sarabhai Space Centre (a major unit of ISRO but not headquarters), and Hyderabad has NRSC, so none of them houses the ISRO headquarters; Bengaluru is correct."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Consider the following statements about output devices:\n\n(i) A printer produces printed output.\n(ii) A monitor displays visual output.\n(iii) A speaker produces sound output.\n(iv) A microphone is an output device.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Printers, monitors and speakers all produce output, so (i), (ii) and (iii) are true. Statement (iv) is false because a microphone captures sound and is an input device, not an output device, so any option including (iv) is wrong."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Match the following operations with their results on 24:\n\nColumn I:\n(a) 24 + 6\n(b) 24 − 6\n(c) 24 × 6\n(d) 24 ÷ 6\n\nColumn II:\n(i) 4\n(ii) 30\n(iii) 144\n(iv) 18\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "24 + 6 = 30, 24 − 6 = 18, 24 × 6 = 144, and 24 ÷ 6 = 4, giving (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i). The other options swap subtraction with addition or misplace 144 and 4, which are simple arithmetic errors."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Jhelum river flows through Srinagar.\nReason (R): The Jhelum originates at the Verinag spring in south Kashmir.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: the Jhelum flows through Srinagar, and it rises at Verinag. However, its source does not by itself explain why it specifically passes through Srinagar (that depends on the valley's geography and the river's course), so (R) does not correctly explain (A)."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: He is proud ______ his achievements.",
+      "options": ["for", "at", "of", "with"],
+      "correctAnswer": "of",
+      "explanation": "The fixed collocation 'proud of' is used for something one takes pride in, so 'proud of his achievements' is correct. 'For', 'at' and 'with' do not combine idiomatically with 'proud' in this sense, so they are wrong and 'of' is the right preposition."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian Parliament:\n\n(i) The Lok Sabha has a maximum strength of 552 members.\n(ii) Rajya Sabha members are elected by the state legislatures.\n(iii) The Vice-President of India is the ex-officio Chairman of the Rajya Sabha.\n(iv) Only the Rajya Sabha can introduce money bills.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Lok Sabha's maximum strength is 552, Rajya Sabha members are elected by state legislatures, and the Vice-President is the ex-officio Chairman of the Rajya Sabha, so (i), (ii) and (iii) are true. Statement (iv) is false because money bills can be introduced only in the Lok Sabha, not the Rajya Sabha, so any option with (iv) is wrong."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "The value of 15% of 400 + 20% of 300 is:",
+      "options": ["100", "110", "120", "130"],
+      "correctAnswer": "120",
+      "explanation": "15% of 400 = 60 and 20% of 300 = 60, so their sum = 60 + 60 = 120. Option 100 and 110 fall below the correct total, and 130 exceeds it; only 120 correctly adds fifteen percent of 400 with twenty percent of 300."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Choose the correct passive form of: 'They are painting the house.'",
+      "options": ["The house is painted.", "The house was painted.", "The house has been painted.", "The house is being painted."],
+      "correctAnswer": "The house is being painted.",
+      "explanation": "The active is in present continuous, so the passive uses 'is being' + past participle: 'The house is being painted.' 'Is painted' is simple present, 'was painted' is past, and 'has been painted' is present perfect, so only 'is being painted' preserves the present continuous meaning."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India follows a federal system of government.\nReason (R): The Constitution divides powers between the Centre and the states.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: India has a federal system, and the Constitution divides powers between the Centre and the states through Union, State and Concurrent Lists. This power division is precisely what makes the system federal, so (R) correctly explains (A). The other options fail because both statements are true and (R) does explain (A)."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Which of the following are examples of secondary storage media?\n\n(i) CD-ROM\n(ii) DVD\n(iii) RAM\n(iv) External hard drive\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "CD-ROMs, DVDs and external hard drives all retain data without power and store user files, so they are secondary storage and (i), (ii) and (iv) are correct. RAM is primary volatile memory that loses contents when powered off, so any option including RAM as secondary storage is wrong."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "If 8 workers can complete a job in 6 days, how many days will 12 workers take to complete the same job (working at the same rate)?",
+      "options": ["3 days", "4 days", "5 days", "6 days"],
+      "correctAnswer": "4 days",
+      "explanation": "Total work = 8 × 6 = 48 worker-days; with 12 workers, time = 48 ÷ 12 = 4 days. Option 3 days would require 16 workers, 5 days only 9.6 workers, and 6 days would need 8 workers, so only 4 days matches 12 workers, giving the same total effort of 48 worker-days."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Choose the word most similar in meaning to 'ENORMOUS':",
+      "options": ["Tiny", "Small", "Medium", "Huge"],
+      "correctAnswer": "Huge",
+      "explanation": "'Enormous' means very large in size, so 'huge' is the closest synonym. 'Tiny' and 'small' mean the opposite (very little), and 'medium' refers to an average size rather than a very large one, so none of them is a synonym and 'huge' is correct."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "Match the following countries with their capitals:\n\nColumn I:\n(a) Nepal\n(b) Sri Lanka\n(c) Bhutan\n(d) Bangladesh\n\nColumn II:\n(i) Sri Jayawardenepura Kotte\n(ii) Kathmandu\n(iii) Dhaka\n(iv) Thimphu\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "The capitals are Kathmandu (Nepal), Sri Jayawardenepura Kotte (Sri Lanka), Thimphu (Bhutan) and Dhaka (Bangladesh), giving (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii). The other options swap Thimphu with Dhaka or misplace Kathmandu, which do not match each country's actual capital."
+    },
+    {
+      "id": "46",
+      "subject": "C",
+      "questionText": "Consider the following statements about tourism in Jammu & Kashmir:\n\n(i) The Amarnath Yatra is a major Hindu pilgrimage.\n(ii) The Vaishno Devi shrine attracts many pilgrims annually.\n(iii) Gulmarg is popular for skiing.\n(iv) J&K has no religious pilgrimage sites.\n\nWhich of the statements given above are correct?",
+      "options": ["(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Amarnath Yatra is a major Hindu pilgrimage, Vaishno Devi draws millions each year, and Gulmarg is a well-known skiing destination, so (i), (ii) and (iii) are true. Statement (iv) is false because J&K has many pilgrimage sites, so any option including (iv) is wrong."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "A shopkeeper buys a book for ₹150 and sells it at a profit of 20%. The selling price is:",
+      "options": ["₹170", "₹175", "₹180", "₹200"],
+      "correctAnswer": "₹180",
+      "explanation": "SP = CP × (1 + profit%) = 150 × 1.20 = ₹180. Option ₹170 gives a profit of about 13.3%, ₹175 about 16.7%, and ₹200 a profit of 33.3%, none of which is 20%, so only ₹180 corresponds to a 20% profit on ₹150."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "Choose the word opposite in meaning to 'BRIGHT':",
+      "options": ["Radiant", "Shining", "Dazzling", "Dull"],
+      "correctAnswer": "Dull",
+      "explanation": "'Bright' means giving off strong light or being vivid, so its antonym is 'dull'. 'Radiant', 'shining' and 'dazzling' are close in meaning to bright rather than opposite, so none of them is the antonym and 'dull' is the correct opposite of bright."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "Fill in the blank: The __________ is the lower house of the Indian Parliament.",
+      "options": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Vidhan Parishad"],
+      "correctAnswer": "Lok Sabha",
+      "explanation": "The Lok Sabha (House of the People) is the lower house of the Indian Parliament. The Rajya Sabha is the upper house, and Vidhan Sabha and Vidhan Parishad are state legislative bodies rather than parts of the central Parliament, so only the Lok Sabha correctly fills the blank."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "The shortcut key used to paste content from the clipboard in most applications is:",
+      "options": ["Ctrl + C", "Ctrl + X", "Ctrl + Z", "Ctrl + V"],
+      "correctAnswer": "Ctrl + V",
+      "explanation": "Ctrl + V pastes content from the clipboard into the current location. Ctrl + C copies, Ctrl + X cuts, and Ctrl + Z undoes the last action, so those perform different tasks and Ctrl + V is the correct paste shortcut."
+    }
+  ]
+}
