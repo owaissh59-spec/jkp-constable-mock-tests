@@ -1,0 +1,407 @@
+{
+  "subject": "D",
+  "topic": "All topics of Numerical & Reasoning Ability (mixed)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "Simplify using BODMAS: 15 + 45 ÷ 9 × 3 − 8",
+      "options": ["22", "27", "18", "30"],
+      "correctAnswer": "22",
+      "explanation": "By BODMAS, division and multiplication are done first from left to right: 45 ÷ 9 = 5, then 5 × 3 = 15, giving 15 + 15 − 8 = 22. Option 27 wrongly adds 8 instead of subtracting it. Option 18 does the multiplication before the division (45 ÷ 27). Option 30 ignores the subtraction of 8 altogether, so all three violate the order of operations."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about a number divisible by 6:\n\n(i) It is always divisible by 2.\n(ii) It is always divisible by 3.\n(iii) It is always divisible by 12.\n(iv) The sum of its digits is always divisible by 3.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A number divisible by 6 must be divisible by both 2 and 3, so (i) and (ii) are true, and the digit-sum test for 3 makes (iv) true. Statement (iii) is false because 18 is divisible by 6 but not by 12. Hence only (i), (ii) and (iv) hold; every other option wrongly includes the false statement (iii)."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "The price of a commodity rose from ₹80 to ₹100. Find the percentage increase.",
+      "options": ["20%", "22%", "25%", "30%"],
+      "correctAnswer": "25%",
+      "explanation": "Percentage increase = (increase ÷ original) × 100 = (20 ÷ 80) × 100 = 25%. Option 20% wrongly uses the new price 100 as the base (20 ÷ 100). Option 22% and 30% do not correspond to any correct ratio here; 30% would need an increase of ₹24, not ₹20, so all three are incorrect."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Match the following:\n\nColumn I:\n(a) LCM of 4 and 6\n(b) HCF of 12 and 18\n(c) LCM of 3 and 5\n(d) HCF of 16 and 24\n\nColumn II:\n(i) 6\n(ii) 12\n(iii) 8\n(iv) 15\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "LCM of 4 and 6 is 12, HCF of 12 and 18 is 6, LCM of 3 and 5 is 15, and HCF of 16 and 24 is 8, giving (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii). The other options swap LCM with HCF values (e.g. pairing 4 and 6 with 15 or 12 and 18 with 12), which are arithmetically wrong."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "In a certain code, 'CAT' is written as 'DBU'. How will 'DOG' be written in that code?",
+      "options": ["EPH", "EPG", "FPH", "DPH"],
+      "correctAnswer": "EPH",
+      "explanation": "Each letter is shifted one place forward: C→D, A→B, T→U, so D→E, O→P, G→H gives EPH. Option EPG keeps G unchanged instead of moving it to H. Option FPH shifts D by two letters to F. Option DPH leaves D unchanged, so each of these breaks the consistent +1 rule."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following are prime numbers?\n\n(i) 51\n(ii) 53\n(iii) 57\n(iv) 59\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(ii) and (iv) only", "(ii) and (iii) only", "(iii) and (iv) only"],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "53 and 59 have no factors other than 1 and themselves, so they are prime. 51 = 3 × 17 and 57 = 3 × 19 are both composite. Therefore only (ii) and (iv) are prime; every option that includes 51 or 57 is wrong because those numbers are divisible by 3."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "A man buys an article for ₹500 and sells it for ₹575. Find his profit percent.",
+      "options": ["10%", "12%", "15%", "20%"],
+      "correctAnswer": "15%",
+      "explanation": "Profit = 575 − 500 = ₹75, and profit percent = (75 ÷ 500) × 100 = 15%. Option 10% corresponds to a profit of ₹50 and 20% to ₹100, neither of which matches. Option 12% would need a profit of ₹60, so all three are inconsistent with the actual ₹75 gain."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The number 1 is a prime number.\nReason (R): A prime number has exactly two distinct positive factors.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is correct: a prime has exactly two distinct factors, 1 and itself. But 1 has only one factor (itself), so it fails this definition, making the assertion false. Hence (A) is wrong while (R) is right. The first two options are invalid because (A) is false, and the third is wrong because (R) is actually true."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "A train 120 m long crosses a pole in 6 seconds. What is its speed?",
+      "options": ["72 km/h", "60 km/h", "66 km/h", "54 km/h"],
+      "correctAnswer": "72 km/h",
+      "explanation": "Speed = distance ÷ time = 120 ÷ 6 = 20 m/s, and 20 × 18/5 = 72 km/h. Option 60 km/h wrongly multiplies by 3 instead of 3.6. Options 66 and 54 km/h do not arise from any correct conversion of 20 m/s, so all three are incorrect."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements about a rhombus:\n\n(i) All four sides are equal.\n(ii) Its diagonals bisect each other at right angles.\n(iii) All its angles are right angles.\n(iv) Its opposite sides are parallel.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A rhombus has all sides equal, diagonals that bisect at right angles, and parallel opposite sides, so (i), (ii) and (iv) are true. Statement (iii) is false because a rhombus with right angles is a square, not the general rhombus. Every option containing (iii) is therefore incorrect."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "If A : B = 2 : 3 and B : C = 4 : 5, then A : C is:",
+      "options": ["2 : 5", "3 : 5", "8 : 15", "8 : 9"],
+      "correctAnswer": "8 : 15",
+      "explanation": "Make B common: A : B = 2 : 3 = 8 : 12 and B : C = 4 : 5 = 12 : 15, so A : C = 8 : 15. Option 2 : 5 simply pairs the first and last given numbers without equalising B. Options 3 : 5 and 8 : 9 come from incorrect scaling, so none matches the linked ratio."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "The following table shows the number of cars (in hundreds) sold by a dealer:\n\nJanuary — 20\nFebruary — 25\nMarch — 30\nApril — 15\n\nWhat is the total number of cars sold during these four months?",
+      "options": ["7500", "8000", "8500", "9000"],
+      "correctAnswer": "9000",
+      "explanation": "The figures are in hundreds, so total = (20 + 25 + 30 + 15) × 100 = 90 × 100 = 9000 cars. Option 8500 and 8000 come from dropping or misreading one month's value, while 7500 omits the largest month (March), so all three underestimate the correct total of 9000."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "The average of five consecutive even numbers is 30. What is the largest of them?",
+      "options": ["34", "32", "36", "38"],
+      "correctAnswer": "34",
+      "explanation": "For five consecutive even numbers the middle one equals the average, so it is 30, giving 26, 28, 30, 32, 34; the largest is 34. Option 32 is the fourth term, not the fifth. Options 36 and 38 assume the average is a lower term, which contradicts the symmetric spread around 30."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Match the following:\n\nColumn I:\n(a) Area of a circle\n(b) Area of a square\n(c) Perimeter of a rectangle\n(d) Volume of a cube\n\nColumn II:\n(i) side³\n(ii) πr²\n(iii) side²\n(iv) 2(l + b)\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Area of a circle is πr², area of a square is side², perimeter of a rectangle is 2(l + b) and volume of a cube is side³, giving (a)-(ii), (b)-(iii), (c)-(iv), (d)-(i). The other options interchange the circle and square formulas or swap the perimeter and volume expressions, which are dimensionally and formulaically wrong."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "A sum of ₹6,000 earns ₹1,440 as simple interest in 4 years. Find the rate of interest per annum.",
+      "options": ["5%", "5.5%", "6%", "6.5%"],
+      "correctAnswer": "6%",
+      "explanation": "Using SI = (P × R × T) ÷ 100, we get 1440 = (6000 × R × 4) ÷ 100 = 240R, so R = 6%. Option 5% gives interest of ₹1,200 and 6.5% gives ₹1,560, neither equal to ₹1,440. Option 5.5% yields ₹1,320, so all three fail to match the given interest."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Fill in the blank in the number series: 3, 6, 11, 18, 27, __________",
+      "options": ["45", "40", "36", "38"],
+      "correctAnswer": "38",
+      "explanation": "The differences are 3, 5, 7, 9 and next is 11, so 27 + 11 = 38. Option 36 assumes a constant difference of 9, ignoring the increasing pattern. Options 40 and 45 add 13 or 18, which do not follow the arithmetic progression of odd-number gaps."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Find the next term in the series: B, D, G, K, __________",
+      "options": ["P", "O", "Q", "N"],
+      "correctAnswer": "P",
+      "explanation": "The gaps between letters grow: B(+2)D(+3)G(+4)K(+5)P, since K is the 11th letter and 11 + 5 = 16 = P. Option O comes from adding only 4, N from adding 3, and Q from adding 6, so each breaks the pattern of steadily increasing gaps."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) Every natural number is a whole number.\n(ii) Every integer is a whole number.\n(iii) Zero is a whole number.\n(iv) Every whole number is a natural number.\n\nWhich of the statements given above are correct?",
+      "options": ["(i) and (ii) only", "(i) and (iii) only", "(ii) and (iii) only", "(i) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "Natural numbers are a subset of whole numbers, so (i) is true, and zero is a whole number, so (iii) is true. Statement (ii) is false because negative integers are not whole numbers, and (iv) is false because zero is a whole number but not a natural number. Hence only (i) and (iii) are correct."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The area of a triangle with base 10 cm and height 6 cm is 30 sq cm.\nReason (R): The area of a triangle is equal to the product of its base and its height.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "The area is ½ × 10 × 6 = 30 sq cm, so (A) is correct. However (R) omits the factor of one-half; the area is half the product of base and height, not the full product, so (R) is wrong. The first two options fail because (R) is incorrect, and the last fails because (A) is actually correct."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Two trains move in opposite directions at 54 km/h and 36 km/h. Their relative speed is:",
+      "options": ["15 m/s", "20 m/s", "22.5 m/s", "25 m/s"],
+      "correctAnswer": "25 m/s",
+      "explanation": "For opposite directions relative speed adds: 54 + 36 = 90 km/h, and 90 × 5/18 = 25 m/s. Option 15 m/s (54 km/h alone) and 22.5 m/s ignore one train or the addition. Option 20 m/s corresponds to 72 km/h, which is neither the sum nor a valid combination, so all three are wrong."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "The value of sin 30° + cos 60° is:",
+      "options": ["1", "0.5", "0", "√3"],
+      "correctAnswer": "1",
+      "explanation": "sin 30° = 1/2 and cos 60° = 1/2, so their sum is 1. Option 0.5 counts only one of the two equal terms. Option 0 would require the values to cancel, which they do not since both are positive, and √3 does not arise from these standard 30°–60° values."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Which of the following are perfect squares?\n\n(i) 169\n(ii) 200\n(iii) 225\n(iv) 250\n\nSelect the correct combination:",
+      "options": ["(i) and (ii) only", "(i) and (iii) only", "(ii) and (iv) only", "(iii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "169 = 13² and 225 = 15² are perfect squares. 200 lies between 14² (196) and 15² (225) and 250 between 15² and 16² (256), so neither is a perfect square. Hence only (i) and (iii) qualify; any option including 200 or 250 is wrong."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "In an examination 40% of the students failed and 300 students passed. Find the total number of students.",
+      "options": ["450", "480", "500", "540"],
+      "correctAnswer": "500",
+      "explanation": "If 40% failed then 60% passed, and 60% of the total = 300, so total = 300 ÷ 0.6 = 500. Option 450 wrongly treats 300 as 66.7% of the total, and 540 assumes a different failure rate. Option 480 does not match any consistent percentage, so all three are incorrect."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Consider the following statements about the number 0:\n\n(i) It is neither positive nor negative.\n(ii) It is a whole number.\n(iii) Division of any non-zero number by 0 is undefined.\n(iv) It is a natural number.\n\nWhich of the statements given above are correct?",
+      "options": ["(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Zero is neither positive nor negative, it is a whole number, and dividing a non-zero number by zero is undefined, so (i), (ii) and (iii) are true. Statement (iv) is false because natural numbers begin at 1, not 0. Every option that includes (iv) is therefore incorrect."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "The average age of 11 players of a team is 28 years. If the age of the coach is included, the average becomes 29 years. Find the coach's age.",
+      "options": ["40 years", "38 years", "42 years", "36 years"],
+      "correctAnswer": "40 years",
+      "explanation": "Total age of 11 players = 11 × 28 = 308; with the coach the total for 12 people = 12 × 29 = 348, so the coach's age = 348 − 308 = 40. Option 29 (not listed) would ignore the extra rise; 38, 42 and 36 come from arithmetic slips in the totals and do not satisfy both averages."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Match the following:\n\nColumn I:\n(a) 25% as a fraction\n(b) 0.2 as a fraction\n(c) 50% as a fraction\n(d) 0.75 as a fraction\n\nColumn II:\n(i) 1/5\n(ii) 3/4\n(iii) 1/4\n(iv) 1/2\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "25% = 1/4, 0.2 = 1/5, 50% = 1/2 and 0.75 = 3/4, giving (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii). The other options swap 25% with 50% (1/4 vs 1/2) or misplace 0.2 and 0.75, all of which are numerically incorrect conversions."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "₹1,200 is divided among A, B and C in the ratio 3 : 4 : 5. Find B's share.",
+      "options": ["300", "360", "400", "480"],
+      "correctAnswer": "400",
+      "explanation": "Total parts = 3 + 4 + 5 = 12, and each part = 1200 ÷ 12 = 100, so B's share = 4 × 100 = ₹400. Option 300 is A's share (3 parts) and 500 (not listed) would be C's. Options 360 and 480 do not correspond to any whole number of parts of ₹100, so they are wrong."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A number ending in the digit 2 can be a perfect square.\nReason (R): A perfect square can end only in the digits 0, 1, 4, 5, 6 or 9.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is a well-known fact: perfect squares end only in 0, 1, 4, 5, 6 or 9. Because 2 is not in that list, no perfect square can end in 2, so the assertion is false. Thus (A) is wrong while (R) is correct; the first two options fail because (A) is false, and the third fails because (R) is true."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "By selling an article for ₹720 a shopkeeper loses 10%. Find the cost price.",
+      "options": ["₹800", "₹780", "₹792", "₹820"],
+      "correctAnswer": "₹800",
+      "explanation": "A 10% loss means the selling price is 90% of the cost, so CP = 720 ÷ 0.90 = ₹800. Option ₹792 wrongly reduces 720 by 10% (treating SP as cost). Options ₹780 and ₹820 do not give exactly a 10% loss on ₹720, so all three are incorrect."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The HCF of two co-prime numbers is 1.\n(ii) The LCM of two co-prime numbers is their product.\n(iii) 1 is co-prime with every natural number.\n(iv) Two even numbers can be co-prime.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Co-prime numbers share no factor except 1, so their HCF is 1 (i) and their LCM equals their product (ii); also 1 shares no factor with any number, so (iii) is true. Statement (iv) is false because two even numbers always share the factor 2 and can never be co-prime. Hence only (i), (ii) and (iii) are correct."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "The following table shows the marks scored by a student:\n\nMathematics — 80\nScience — 72\nEnglish — 66\nHindi — 62\n\nWhat is the average mark per subject?",
+      "options": ["68", "72", "70", "74"],
+      "correctAnswer": "70",
+      "explanation": "Total marks = 80 + 72 + 66 + 62 = 280, and average = 280 ÷ 4 = 70. Option 68 and 72 come from arithmetic slips in the sum, and 74 would require a total of 296, which is higher than the actual 280, so all three are incorrect."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "The smallest number which is exactly divisible by 12, 15 and 18 is:",
+      "options": ["90", "120", "360", "180"],
+      "correctAnswer": "180",
+      "explanation": "The required number is the LCM of 12, 15 and 18. Prime factorisation gives 2² × 3² × 5 = 180, which all three divide exactly. Option 90 is not divisible by 12, 120 is not divisible by 18, and 360 is a common multiple but not the smallest, so 180 is the correct least common multiple."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Which of the following are divisible by 9?\n\n(i) 729\n(ii) 918\n(iii) 837\n(iv) 655\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A number is divisible by 9 if its digit sum is divisible by 9. For 729 → 18, 918 → 18 and 837 → 18, all divisible by 9. For 655 → 16, which is not, so (iv) fails. Hence only (i), (ii) and (iii) qualify; any option containing 655 is wrong."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "The compound interest on ₹5,000 at 10% per annum for 2 years is:",
+      "options": ["₹1,000", "₹1,050", "₹1,025", "₹1,100"],
+      "correctAnswer": "₹1,050",
+      "explanation": "Amount = 5000 × (1.1)² = 5000 × 1.21 = ₹6,050, so CI = 6050 − 5000 = ₹1,050. Option ₹1,000 is the simple interest (5000 × 10% × 2) and ignores compounding. Options ₹1,025 and ₹1,100 do not match the compounded amount, so all three are incorrect."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Consider the following statements about prime numbers:\n\n(i) 2 is the only even prime number.\n(ii) Every prime number greater than 2 is odd.\n(iii) 1 is a prime number.\n(iv) There are infinitely many prime numbers.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "2 is indeed the only even prime, every prime beyond 2 is odd, and Euclid proved there are infinitely many primes, so (i), (ii) and (iv) are true. Statement (iii) is false because 1 has only one factor and is not prime. Every option including (iii) is therefore incorrect."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Match the following relationships:\n\nColumn I:\n(a) Father's brother\n(b) Mother's sister\n(c) Brother's son\n(d) Son's daughter\n\nColumn II:\n(i) Nephew\n(ii) Granddaughter\n(iii) Uncle\n(iv) Aunt\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Father's brother is an uncle, mother's sister is an aunt, brother's son is a nephew and son's daughter is a granddaughter, giving (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii). The other options swap uncle with aunt or nephew with granddaughter, which are the wrong gender or generation."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "A man walks 5 km towards north, turns right and walks 3 km, then turns right and walks 5 km. How far is he from the starting point?",
+      "options": ["3 km", "8 km", "13 km", "5 km"],
+      "correctAnswer": "3 km",
+      "explanation": "Going north 5 km, then east 3 km, then south 5 km brings him back to the same latitude but 3 km east of the start, so the distance is 3 km. Option 8 km adds the north and east legs, 13 km adds all legs, and 5 km ignores that the two 5 km legs cancel vertically, so all three are wrong."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of the interior angles of a triangle is 180°.\nReason (R): A triangle is a polygon with three sides.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: a triangle's interior angles sum to 180° and it is a three-sided polygon. However, merely having three sides does not by itself explain why the angles total 180°, so (R) is not the correct explanation of (A). The first option is wrong for that reason, and the last two are wrong because both statements are actually true."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "If 3x − 7 = 2x + 5, then the value of x is:",
+      "options": ["7", "10", "12", "5"],
+      "correctAnswer": "12",
+      "explanation": "Subtract 2x from both sides to get x − 7 = 5, then add 7 to get x = 12. Option 5 comes from wrongly reading the right side as the answer, and 7 from moving only the constant. Option 10 does not satisfy the equation since 3(10) − 7 = 23 ≠ 2(10) + 5 = 25, so 12 is the only value that balances both sides."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "A shopkeeper marks his goods 40% above the cost price and then allows a discount of 25% on the marked price. His profit percent is:",
+      "options": ["10%", "8%", "15%", "5%"],
+      "correctAnswer": "5%",
+      "explanation": "Take cost as 100; marked price = 140, and after 25% discount SP = 140 × 0.75 = 105, giving a profit of 5%. Option 15% wrongly subtracts 25 from 40, ignoring that the discount applies to the higher marked price. Options 10% and 8% do not follow from the successive markup and discount, so 5% is correct."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "A car covers 240 km in 4 hours. To cover the same distance in 3 hours, by how much must its speed be increased?",
+      "options": ["20 km/h", "15 km/h", "25 km/h", "30 km/h"],
+      "correctAnswer": "20 km/h",
+      "explanation": "Original speed = 240 ÷ 4 = 60 km/h and required speed = 240 ÷ 3 = 80 km/h, so the increase is 80 − 60 = 20 km/h. Option 30 km/h wrongly assumes the new speed is 90, and 15 or 25 km/h do not match the difference between 60 and 80, so all three are incorrect."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "Consider the following statements about quadrilaterals:\n\n(i) A rectangle has all four sides equal.\n(ii) A square is a special type of rectangle.\n(iii) The diagonals of a rectangle are equal.\n(iv) Every square is a rhombus.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "A square is a rectangle with equal sides (ii), a rectangle has equal diagonals (iii), and a square with all sides equal is also a rhombus (iv). Statement (i) is false because a rectangle only needs opposite sides equal, not all four. Hence only (ii), (iii) and (iv) are correct."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Which of the following are multiples of both 3 and 4?\n\n(i) 24\n(ii) 36\n(iii) 40\n(iv) 60\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A multiple of both 3 and 4 must be a multiple of 12. 24, 36 and 60 are all multiples of 12, but 40 is a multiple of 4 only and not of 3. Hence (i), (ii) and (iv) are correct; any option that includes 40 is wrong because 40 ÷ 3 is not a whole number."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+      "options": ["Father", "Grandfather", "Brother", "Uncle"],
+      "correctAnswer": "Uncle",
+      "explanation": "A and B and C are siblings (A brother, B sister, C the father of D). Since A is a brother of C, and C is D's father, A is D's uncle. Option Father is wrong because C is the parent, Grandfather is a generation too high, and Brother would make A a sibling of D, which the relations do not support."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Fill in the blank in the series: 7, 14, 28, 56, __________",
+      "options": ["112", "98", "108", "120"],
+      "correctAnswer": "112",
+      "explanation": "Each term is double the previous one: 7, 14, 28, 56, so the next is 56 × 2 = 112. Option 98 adds 42, 108 adds 52, and 120 adds 64, none of which follows the constant doubling rule that governs this geometric sequence."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "The following table shows the number of books issued by a library:\n\nMonday — 45\nTuesday — 60\nWednesday — 55\nThursday — 40\n\nOn which day were the maximum books issued?",
+      "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "correctAnswer": "Tuesday",
+      "explanation": "Comparing the four figures, 60 (Tuesday) is the highest, ahead of 55 on Wednesday, 45 on Monday and 40 on Thursday. Wednesday is the second highest, not the maximum, while Monday and Thursday are clearly lower, so Tuesday is when the most books were issued."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "The population of a town increases by 10% in the first year and then decreases by 10% in the next year. If the initial population was 10,000, what is it at the end of two years?",
+      "options": ["10,000", "9,800", "9,900", "10,100"],
+      "correctAnswer": "9,900",
+      "explanation": "After a 10% rise the population is 11,000, and a 10% fall of that is 11,000 × 0.9 = 9,900. Option 10,000 wrongly assumes the two changes cancel, but the decrease acts on a larger base. Options 9,800 and 10,100 do not follow from the successive percentage changes, so 9,900 is correct."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The value of tan 45° is greater than 1.\nReason (R): tan 45° is equal to 1.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is a standard value: tan 45° = 1. The assertion claims it is greater than 1, which is false since it equals exactly 1. Thus (A) is wrong and (R) is right. The first two options fail because (A) is false, and the third fails because (R) is a correct trigonometric value."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "The angles of a triangle are in the ratio 2 : 3 : 4. The measure of the largest angle is:",
+      "options": ["80°", "90°", "100°", "60°"],
+      "correctAnswer": "80°",
+      "explanation": "The angle sum of a triangle is 180°, and 2 + 3 + 4 = 9 parts, so one part = 20°. The largest angle is 4 parts = 80°. Option 60° is the middle angle (3 parts) and 40° (not listed) the smallest. Options 90° and 100° exceed 4 × 20° and would make the total more than 180°, so they are wrong."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "Consider the following statements about even and odd numbers:\n\n(i) The sum of two odd numbers is even.\n(ii) The product of two odd numbers is odd.\n(iii) The sum of an odd number and an even number is odd.\n(iv) The product of an even number and an odd number is odd.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Odd + odd = even (i), odd × odd = odd (ii), and odd + even = odd (iii) are all true. Statement (iv) is false because an even number times any number is even, so even × odd = even, not odd. Hence only (i), (ii) and (iii) are correct, and every option with (iv) is wrong."
+    }
+  ]
+}

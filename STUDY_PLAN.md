@@ -370,17 +370,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 130 | Morning | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 131 | Afternoon | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 132 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 130 | Morning | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 131 | Afternoon | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 132 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 45
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 133 | Morning | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 134 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 135 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 133 | Morning | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 134 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 135 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 46
 

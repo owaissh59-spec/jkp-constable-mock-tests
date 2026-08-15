@@ -1,0 +1,407 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision across all covered subjects",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct article to complete the sentence: She is ______ university student in her final year.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'University' begins with a consonant sound /juː/, so the article 'a' is used, not 'an'. 'An' is used only before a vowel sound, 'the' would make it specific rather than introduce her, and omitting the article is ungrammatical before a singular countable noun here, so 'a' is correct."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) It was adopted on 26 November 1949.\n(ii) India is described as a sovereign, socialist, secular, democratic republic.\n(iii) The words 'socialist' and 'secular' were added by the 42nd Amendment.\n(iv) The Constitution originally had no Preamble.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Constitution was adopted on 26 November 1949, the Preamble describes India in those terms, and 'socialist' and 'secular' were indeed added by the 42nd Amendment (1976), so (i), (ii) and (iii) are true. Statement (iv) is false because the Constitution always had a Preamble, so any option containing (iv) is wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "The following table shows the number of runs scored by a batsman in four matches:\n\nMatch 1 — 45\nMatch 2 — 60\nMatch 3 — 30\nMatch 4 — 65\n\nWhat is his average score per match?",
+      "options": ["45", "55", "50", "60"],
+      "correctAnswer": "50",
+      "explanation": "Total runs = 45 + 60 + 30 + 65 = 200, and average = 200 ÷ 4 = 50. Option 45 and 55 come from arithmetic slips in the sum, and 60 is the highest single score rather than the average, so 50 is the correct mean of the four innings."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the following computer components with their descriptions:\n\nColumn I:\n(a) CPU\n(b) RAM\n(c) HDD\n(d) Monitor\n\nColumn II:\n(i) Output device\n(ii) Volatile primary memory\n(iii) Brain of the computer\n(iv) Secondary storage\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "The CPU is the brain of the computer, RAM is volatile primary memory, the HDD is secondary storage and the monitor is an output device, giving (a)-(iii), (b)-(ii), (c)-(iv), (d)-(i). The other options swap RAM with the CPU or misclassify the HDD as an output device, which are technically incorrect."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: The meeting has been postponed ______ Monday.",
+      "options": ["to", "at", "on", "in"],
+      "correctAnswer": "to",
+      "explanation": "'Postpone to' correctly indicates moving an event to a later specific point, so 'to Monday' is right. 'At' is used for precise times (at 5 pm), 'on' for days when simply stating them (on Monday) but not after 'postponed', and 'in' for months or years, so 'to' is the correct collocation here."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Which of the following were leaders of the Indian freedom struggle?\n\n(i) Bhagat Singh\n(ii) Chandrashekhar Azad\n(iii) George Washington\n(iv) Bal Gangadhar Tilak\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Bhagat Singh, Chandrashekhar Azad and Bal Gangadhar Tilak were all leaders of India's freedom struggle, so (i), (ii) and (iv) are correct. George Washington was the first President of the United States and had no role in India's independence, so any option that includes (iii) is wrong."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "The Dal Lake, famous for its houseboats and shikaras, is located in:",
+      "options": ["Jammu", "Leh", "Srinagar", "Anantnag"],
+      "correctAnswer": "Srinagar",
+      "explanation": "The Dal Lake lies in Srinagar and is renowned for its houseboats and shikaras. Jammu is the winter capital known for temples, Leh is in Ladakh, and Anantnag is a district in south Kashmir; none of these hosts the Dal Lake, so Srinagar is the correct location."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of two even numbers is always odd.\nReason (R): An even number is exactly divisible by 2.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is true: an even number is divisible by 2. But the assertion is false because the sum of two even numbers is always even, not odd (for example 4 + 6 = 10). Hence (A) is wrong while (R) is correct; the first two options fail because (A) is false, and the third fails because (R) is true."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct word: He has been living in this city ______ 2010.",
+      "options": ["since", "for", "from", "by"],
+      "correctAnswer": "since",
+      "explanation": "'Since' is used with a point of time (a specific year) in the present perfect continuous, so 'since 2010' is correct. 'For' is used with a duration (for ten years), 'from' needs a matching 'to', and 'by' indicates a deadline, none of which fits this ongoing action beginning at a fixed year."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "The Rowlatt Act was passed in the year:",
+      "options": ["1909", "1919", "1929", "1935"],
+      "correctAnswer": "1919",
+      "explanation": "The Rowlatt Act, allowing detention without trial, was passed in 1919 and led to widespread protest. 1909 was the Morley-Minto Reforms, 1929 the Lahore Session's Purna Swaraj resolution, and 1935 the Government of India Act, so 1919 is the correct year for the Rowlatt Act."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The square of an even number is even.\n(ii) The square of an odd number is odd.\n(iii) The product of two negative numbers is negative.\n(iv) Zero multiplied by any number is zero.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The square of an even number is even, the square of an odd number is odd, and zero times anything is zero, so (i), (ii) and (iv) are true. Statement (iii) is false because the product of two negative numbers is positive, not negative, so any option including (iii) is wrong."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Which of the following are input devices?\n\n(i) Keyboard\n(ii) Mouse\n(iii) Printer\n(iv) Scanner\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A keyboard, mouse and scanner all feed data into the computer, so they are input devices and (i), (ii) and (iv) are correct. A printer produces output on paper, making it an output device, so any option that includes the printer as an input device is wrong."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Choose the word most similar in meaning to 'BENEVOLENT':",
+      "options": ["Kind", "Cruel", "Selfish", "Rude"],
+      "correctAnswer": "Kind",
+      "explanation": "'Benevolent' means well-meaning and kindly, so 'kind' is the closest synonym. 'Cruel' and 'rude' are opposite in tone, and 'selfish' contradicts the generous spirit of benevolence, so all three are wrong and 'kind' correctly matches the meaning."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Match the following events with their years:\n\nColumn I:\n(a) Quit India Movement\n(b) Non-Cooperation Movement\n(c) Partition of Bengal\n(d) Formation of the Indian National Congress\n\nColumn II:\n(i) 1885\n(ii) 1905\n(iii) 1920\n(iv) 1942\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "The Quit India Movement was in 1942, the Non-Cooperation Movement began in 1920, Bengal was partitioned in 1905 and the Congress was formed in 1885, giving (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i). The other options swap 1942 with 1920 or misplace the partition year, which are historically incorrect."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "25% of 320 is:",
+      "options": ["70", "75", "80", "90"],
+      "correctAnswer": "80",
+      "explanation": "25% means one-quarter, so 320 ÷ 4 = 80. Option 70 and 75 are less than a quarter of 320, and 90 exceeds it; only 80 equals exactly 25% of 320, so the other values do not correspond to a quarter of the number."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Consider the following statements about Jammu & Kashmir:\n\n(i) Srinagar is the summer capital.\n(ii) Jammu is the winter capital.\n(iii) The Jhelum river flows through Srinagar.\n(iv) Gulmarg is located in the Jammu region.\n\nWhich of the statements given above are correct?",
+      "options": ["(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Srinagar is the summer capital, Jammu the winter capital, and the Jhelum flows through Srinagar, so (i), (ii) and (iii) are true. Statement (iv) is false because Gulmarg is a hill station in the Kashmir Valley (Baramulla district), not in the Jammu region, so any option with (iv) is wrong."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Choose the correct verb form: By the time we reached the station, the train ______.",
+      "options": ["had left", "has left", "leaves", "is leaving"],
+      "correctAnswer": "had left",
+      "explanation": "The past perfect 'had left' shows the train departed before the past action of reaching, which the sentence requires. 'Has left' is present perfect and clashes with the past clause, while 'leaves' and 'is leaving' are present forms that cannot describe a completed earlier past action, so 'had left' is correct."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Delhi is the capital of India.\nReason (R): The Yamuna river flows through Delhi.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: Delhi is India's capital, and the Yamuna does flow through it. However, a river flowing through a city is not the reason it is the national capital, so (R) does not explain (A). The other options fail because both statements are factually correct."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Which of the following numbers are divisible by 11?\n\n(i) 121\n(ii) 132\n(iii) 145\n(iv) 253\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "121 = 11 × 11, 132 = 11 × 12 and 253 = 11 × 23, so all three are divisible by 11 and (i), (ii) and (iv) are correct. 145 = 11 × 13 + 2 leaves a remainder, so it is not divisible by 11; hence any option including 145 is wrong."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Which of the following is an example of system software?",
+      "options": ["MS Word", "MS Excel", "Google Chrome", "Operating system"],
+      "correctAnswer": "Operating system",
+      "explanation": "An operating system manages hardware and provides a platform for other programs, so it is system software. MS Word and MS Excel are application software for documents and spreadsheets, and Google Chrome is an application (a web browser), so none of them is system software; only the operating system qualifies."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Choose the word opposite in meaning to 'ABUNDANT':",
+      "options": ["Scarce", "Plenty", "Ample", "Large"],
+      "correctAnswer": "Scarce",
+      "explanation": "'Abundant' means present in large quantity, so its antonym is 'scarce', meaning in short supply. 'Plenty' and 'ample' are synonyms of abundant, and 'large' relates to size rather than quantity available, so none of them is the opposite; 'scarce' is correct."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Consider the following statements about the President of India:\n\n(i) He is the constitutional head of the state.\n(ii) He is elected directly by the people.\n(iii) He is the supreme commander of the armed forces.\n(iv) He is a part of the Parliament.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The President is the head of state, the supreme commander of the armed forces, and a part of Parliament, so (i), (iii) and (iv) are true. Statement (ii) is false because the President is elected indirectly by an electoral college, not directly by the people, so any option including (ii) is wrong."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "A car travels 150 km in 2.5 hours. What is its average speed?",
+      "options": ["50 km/h", "55 km/h", "60 km/h", "65 km/h"],
+      "correctAnswer": "60 km/h",
+      "explanation": "Average speed = distance ÷ time = 150 ÷ 2.5 = 60 km/h. Option 50 km/h would cover only 125 km in 2.5 hours, and 55 or 65 km/h do not give exactly 150 km over that time, so 60 km/h is the only speed consistent with the given distance and duration."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) To bury the hatchet\n(b) A blessing in disguise\n(c) Once in a blue moon\n(d) To let the cat out of the bag\n\nColumn II:\n(i) Very rarely\n(ii) To reveal a secret\n(iii) To make peace\n(iv) A good thing that at first seemed bad\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "'Bury the hatchet' means to make peace, 'a blessing in disguise' is a good thing that seemed bad, 'once in a blue moon' means very rarely, and 'let the cat out of the bag' means to reveal a secret, giving (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii). The other options swap 'rarely' with 'reveal a secret', which distorts the idioms."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Who was the first President of India?",
+      "options": ["Rajendra Prasad", "S. Radhakrishnan", "Zakir Husain", "V.V. Giri"],
+      "correctAnswer": "Rajendra Prasad",
+      "explanation": "Dr. Rajendra Prasad was the first President of India, serving from 1950 to 1962. S. Radhakrishnan was the second President, Zakir Husain the third, and V.V. Giri the fourth, so all of them came after Rajendra Prasad, who held the office first."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Which of the following lakes are located in Jammu & Kashmir?\n\n(i) Dal Lake\n(ii) Wular Lake\n(iii) Chilika Lake\n(iv) Manasbal Lake\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Dal, Wular and Manasbal lakes all lie in the Kashmir Valley, so (i), (ii) and (iv) are correct. Chilika Lake is a brackish lagoon in Odisha, not in Jammu & Kashmir, so any option that includes Chilika is wrong."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "The following table shows the monthly expenditure (in ₹ thousand) of a family:\n\nFood — 12\nRent — 10\nTransport — 5\nOthers — 3\n\nWhat fraction of the total expenditure is spent on food?",
+      "options": ["1/3", "1/4", "2/5", "1/2"],
+      "correctAnswer": "2/5",
+      "explanation": "Total expenditure = 12 + 10 + 5 + 3 = 30 thousand, and food is 12, so the fraction is 12/30 = 2/5. Option 1/3 would be 10 out of 30, 1/4 would be 7.5, and 1/2 would be 15, none of which equals the food share of 12, so 2/5 is correct."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): RAM is a permanent storage device that retains data after the power is switched off.\nReason (R): RAM is a volatile memory that loses its contents when the power is switched off.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is true: RAM is volatile and loses data when powered off. This directly contradicts the assertion, which wrongly calls RAM permanent, so (A) is false. Hence (A) is wrong while (R) is correct; the first two options fail because (A) is false, and the third fails because (R) is a true statement about RAM."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Choose the correctly spelled word:",
+      "options": ["Accommodate", "Acommodate", "Accomodate", "Acomodate"],
+      "correctAnswer": "Accommodate",
+      "explanation": "'Accommodate' is spelled with a double 'c' and a double 'm', which is the correct form. 'Acommodate' drops one 'c', 'Accomodate' drops one 'm', and 'Acomodate' drops both, so all three are misspellings and only 'Accommodate' is right."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "The following table shows the rice production (in million tonnes) of India:\n\n2019 — 116\n2020 — 118\n2021 — 124\n2022 — 130\n\nIn which year was the production the highest?",
+      "options": ["2021", "2022", "2020", "2019"],
+      "correctAnswer": "2022",
+      "explanation": "The 2022 figure of 130 million tonnes is the highest of the four years, followed by 124 in 2021, 118 in 2020 and 116 in 2019. 2021 is the second highest, not the peak, while 2019 and 2020 are lower, so 2022 recorded the maximum rice production."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Consider the following statements about a right-angled triangle:\n\n(i) One of its angles is 90°.\n(ii) The side opposite the right angle is called the hypotenuse.\n(iii) The Pythagoras theorem applies to it.\n(iv) The sum of all its interior angles is 270°.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A right-angled triangle has a 90° angle, its longest side opposite that angle is the hypotenuse, and the Pythagoras theorem holds, so (i), (ii) and (iii) are true. Statement (iv) is false because the interior angles of any triangle sum to 180°, not 270°, so any option including (iv) is wrong."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "One who cannot read or write is called:",
+      "options": ["Ignorant", "Educated", "Scholar", "Illiterate"],
+      "correctAnswer": "Illiterate",
+      "explanation": "'Illiterate' precisely means unable to read or write. 'Ignorant' means lacking knowledge in general, not specifically reading and writing; 'educated' and 'scholar' mean the opposite, describing learned people, so none of them fits the definition and 'illiterate' is the correct one-word substitution."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "The process by which green plants prepare their own food is called:",
+      "options": ["Photosynthesis", "Respiration", "Transpiration", "Digestion"],
+      "correctAnswer": "Photosynthesis",
+      "explanation": "Photosynthesis is the process by which green plants use sunlight, water and carbon dioxide to make food (glucose). Respiration releases energy from food, transpiration is the loss of water vapour from leaves, and digestion breaks down food in animals, so photosynthesis is the correct term for plants making food."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer memory:\n\n(i) 1 kilobyte equals 1024 bytes.\n(ii) ROM is non-volatile memory.\n(iii) A hard disk is a primary storage device.\n(iv) Cache memory is faster than RAM.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "1 KB equals 1024 bytes, ROM retains data without power (non-volatile), and cache is faster than RAM, so (i), (ii) and (iv) are true. Statement (iii) is false because a hard disk is a secondary storage device, not primary storage, so any option including (iii) is wrong."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Match the following numbers with their properties:\n\nColumn I:\n(a) 17\n(b) 100\n(c) 27\n(d) 64\n\nColumn II:\n(i) Perfect cube\n(ii) Prime number\n(iii) Perfect square\n(iv) Both a perfect cube and a perfect square\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "17 is prime, 100 = 10² is a perfect square, 27 = 3³ is a perfect cube, and 64 = 8² = 4³ is both a square and a cube, giving (a)-(ii), (b)-(iii), (c)-(i), (d)-(iv). The other options wrongly call 100 prime or 27 a square, which are not their true properties."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Saffron in Jammu & Kashmir is mainly grown in the Gulmarg region.\nReason (R): Pampore in the Kashmir Valley is famous for saffron cultivation.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is true: Pampore is celebrated as the saffron town of Kashmir. This makes the assertion false, since saffron is grown mainly around Pampore, not Gulmarg (which is a ski and tourism destination). Hence (A) is wrong while (R) is correct; options one and two fail because (A) is false, and the third fails because (R) is true."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: He is very good ______ mathematics.",
+      "options": ["at", "in", "on", "with"],
+      "correctAnswer": "at",
+      "explanation": "The fixed collocation 'good at' is used to express skill in a subject or activity, so 'good at mathematics' is correct. 'Good in' is non-standard here, 'good on' and 'good with' are used in other contexts (good with people), so none of them fits, and 'at' is the right preposition."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "Consider the following statements about Indian rivers:\n\n(i) The Ganga originates from the Gangotri glacier.\n(ii) The Godavari is the longest river of peninsular India.\n(iii) The Narmada flows into the Bay of Bengal.\n(iv) The Brahmaputra enters India through Arunachal Pradesh.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Ganga rises from the Gangotri glacier, the Godavari is peninsular India's longest river, and the Brahmaputra enters India through Arunachal Pradesh, so (i), (ii) and (iv) are true. Statement (iii) is false because the Narmada flows westward into the Arabian Sea, not the Bay of Bengal, so any option with (iii) is wrong."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "The value of 12 × 12 − 12 ÷ 12 is:",
+      "options": ["132", "144", "143", "145"],
+      "correctAnswer": "143",
+      "explanation": "By BODMAS, multiplication and division come first: 12 × 12 = 144 and 12 ÷ 12 = 1, so 144 − 1 = 143. Option 144 forgets to subtract, 132 wrongly does 144 − 12, and 145 adds instead of subtracting, so 143 is the correct result of the ordered operations."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Choose the correct passive form of the sentence: 'The teacher praised the student.'",
+      "options": ["The student praised the teacher.", "The student is praised by the teacher.", "The student has praised the teacher.", "The student was praised by the teacher."],
+      "correctAnswer": "The student was praised by the teacher.",
+      "explanation": "The active sentence is in the simple past, so the passive uses 'was' + past participle: 'The student was praised by the teacher.' The first option reverses the doer, the second shifts to present tense, and the third is active present perfect, so only the fourth correctly keeps the past tense and passive voice."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Sundarbans is home to the Royal Bengal Tiger.\nReason (R): The Sundarbans is a vast mangrove delta that provides a natural habitat for the tiger.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: the Sundarbans shelters the Royal Bengal Tiger, and it is a large mangrove delta. The mangrove habitat is precisely why the tiger thrives there, so (R) correctly explains (A). The other options are wrong because both statements are true and the reason does explain the assertion."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Which of the following are examples of web browsers?\n\n(i) Google Chrome\n(ii) Mozilla Firefox\n(iii) MS Excel\n(iv) Microsoft Edge\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Google Chrome, Mozilla Firefox and Microsoft Edge are all web browsers used to access the internet, so (i), (ii) and (iv) are correct. MS Excel is a spreadsheet application, not a browser, so any option that includes MS Excel is wrong."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "The perimeter of a rectangle is 60 cm and its length is 18 cm. Its breadth is:",
+      "options": ["10 cm", "11 cm", "12 cm", "14 cm"],
+      "correctAnswer": "12 cm",
+      "explanation": "Perimeter = 2(length + breadth), so 60 = 2(18 + b), giving 18 + b = 30 and b = 12 cm. Option 10 and 11 cm give perimeters of 56 and 58 cm, and 14 cm gives 64 cm, none of which equals 60 cm, so 12 cm is the correct breadth."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Choose the word nearest in meaning to 'DILIGENT':",
+      "options": ["Lazy", "Careless", "Slow", "Hardworking"],
+      "correctAnswer": "Hardworking",
+      "explanation": "'Diligent' describes someone who works hard and is careful, so 'hardworking' is the closest synonym. 'Lazy' and 'careless' are opposites of diligent, and 'slow' refers to speed rather than effort, so none of them matches; 'hardworking' is correct."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "Match the following personalities with their fields:\n\nColumn I:\n(a) C.V. Raman\n(b) Sachin Tendulkar\n(c) Lata Mangeshkar\n(d) M.F. Husain\n\nColumn II:\n(i) Cricket\n(ii) Painting\n(iii) Physics\n(iv) Music\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "C.V. Raman was a physicist, Sachin Tendulkar a cricketer, Lata Mangeshkar a singer (music) and M.F. Husain a painter, giving (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii). The other options swap physics with cricket or music with painting, which do not match each person's actual field."
+    },
+    {
+      "id": "46",
+      "subject": "C",
+      "questionText": "Consider the following statements about the economy of Jammu & Kashmir:\n\n(i) Horticulture is an important sector of the economy.\n(ii) Apples are a major fruit crop.\n(iii) Tourism contributes significantly to the economy.\n(iv) Jammu & Kashmir has no hydroelectric power projects.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Horticulture (especially apples) and tourism are key pillars of the J&K economy, so (i), (ii) and (iii) are true. Statement (iv) is false because J&K has several hydroelectric projects on rivers like the Chenab (for example Baglihar and Salal), so any option that includes (iv) is wrong."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "If 5 pens cost ₹75, the cost of 8 pens is:",
+      "options": ["₹100", "₹110", "₹120", "₹135"],
+      "correctAnswer": "₹120",
+      "explanation": "The cost of one pen = 75 ÷ 5 = ₹15, so 8 pens cost 8 × 15 = ₹120. Option ₹100 and ₹110 undervalue the pens, and ₹135 would be the price of 9 pens, so only ₹120 correctly scales the unit price to eight pens."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "Choose the word opposite in meaning to 'ANCIENT':",
+      "options": ["Old", "Historic", "Aged", "Modern"],
+      "correctAnswer": "Modern",
+      "explanation": "'Ancient' means very old or belonging to the distant past, so its antonym is 'modern', meaning of the present time. 'Old', 'historic' and 'aged' are all close in meaning to ancient rather than opposite, so they are wrong and 'modern' is the correct antonym."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "Fill in the blank: The __________ is the upper house of the Indian Parliament.",
+      "options": ["Rajya Sabha", "Lok Sabha", "Vidhan Sabha", "Legislative Council"],
+      "correctAnswer": "Rajya Sabha",
+      "explanation": "The Rajya Sabha is the upper house of Parliament, representing the states. The Lok Sabha is the lower house, the Vidhan Sabha is a state legislative assembly, and the Legislative Council is the upper house at the state level, not the national Parliament, so only the Rajya Sabha is correct."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "The shortcut key used to copy selected text in most applications is:",
+      "options": ["Ctrl + X", "Ctrl + C", "Ctrl + V", "Ctrl + Z"],
+      "correctAnswer": "Ctrl + C",
+      "explanation": "Ctrl + C copies the selected text or object to the clipboard. Ctrl + X cuts (removes and copies), Ctrl + V pastes the copied content, and Ctrl + Z undoes the last action, so those perform different tasks and Ctrl + C is the correct copy shortcut."
+    }
+  ]
+}
