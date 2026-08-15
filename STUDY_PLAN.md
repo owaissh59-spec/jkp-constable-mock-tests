@@ -418,17 +418,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 148 | Morning | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 149 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 150 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 148 | Morning | C — General Knowledge — J&K | All topics of GK J&K (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 149 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 150 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 51
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 151 | Morning | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 152 | Afternoon | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 153 | Late | FULL | Full syllabus — all subjects A-E | 100 | exam | Full-length mock | ⬜ |
+| 151 | Morning | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 152 | Afternoon | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 153 | Late | FULL | Full syllabus — all subjects A-E | 100 | exam | Full-length mock | ✅ |
 
 ### Day 52
 
