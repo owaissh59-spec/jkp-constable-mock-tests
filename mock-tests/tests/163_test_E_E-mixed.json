@@ -1,0 +1,407 @@
+{
+  "subject": "E",
+  "topic": "All topics of Basic Concepts of Computers (mixed)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which protocol is used to send emails from a client to an email server?",
+      "options": ["POP3", "IMAP", "SMTP", "FTP"],
+      "correctAnswer": "SMTP",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails from a client to a mail server. POP3 (Post Office Protocol 3) is used for retrieving/downloading emails. IMAP (Internet Message Access Protocol) is also for reading emails from a server. FTP (File Transfer Protocol) is for file transfers, not email."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Excel formulas:\n\n(i) A formula in Excel always begins with the equals sign (=).\n(ii) The SUM function adds all numbers in a specified range.\n(iii) Relative cell references change when a formula is copied to another cell.\n(iv) The VLOOKUP function is used to sort data alphabetically.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Excel formulas start with = sign (i). SUM adds numbers in a range (ii). Relative references (like A1) change when copied — unlike absolute references ($A$1) (iii). However, VLOOKUP searches for a value in the first column and returns a corresponding value from another column — it does NOT sort data, making (iv) incorrect."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A Solid State Drive (SSD) is faster than a traditional Hard Disk Drive (HDD).\nReason (R): SSDs have no moving parts and use flash memory chips to store data, eliminating mechanical seek time.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "SSDs are significantly faster than HDDs in read/write speeds (A is correct). SSDs use NAND flash memory with no mechanical platters or read/write heads, eliminating the seek time and rotational latency that slow down HDDs (R is correct). The absence of mechanical parts directly causes the speed advantage, so (R) explains (A)."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the following keyboard shortcuts in MS Word with their functions:\n\nColumn I:\n(a) Ctrl + B\n(b) Ctrl + I\n(c) Ctrl + S\n(d) Ctrl + P\n\nColumn II:\n(i) Save document\n(ii) Print document\n(iii) Bold text\n(iv) Italicize text\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "Ctrl+B applies bold formatting (iii). Ctrl+I applies italic formatting (iv). Ctrl+S saves the document (i). Ctrl+P opens the print dialog (ii). Option 2 wrongly assigns italic to Ctrl+B. Option 3 wrongly assigns save to Ctrl+I. Option 4 wrongly assigns save to Ctrl+B."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which of the following are types of malware?\n\n(i) Ransomware\n(ii) Firewall\n(iii) Spyware\n(iv) Adware\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Ransomware encrypts data and demands payment for decryption (i). Spyware secretly monitors user activity and steals data (iii). Adware displays unwanted advertisements, sometimes bundled with malicious code (iv). A firewall is a SECURITY tool that protects against threats — it is NOT malware, making (ii) incorrect."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "The 'cc' field in an email stands for:",
+      "options": ["Carbon Copy", "Computer Copy", "Certified Copy", "Common Copy"],
+      "correctAnswer": "Carbon Copy",
+      "explanation": "CC stands for Carbon Copy — recipients in this field receive a copy of the email and all recipients can see who was CC'd. 'Computer Copy' is not a standard term. 'Certified Copy' relates to legal documents, not email. 'Common Copy' is not a recognized email term."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) Windows, Linux, and macOS are all examples of operating systems.\n(ii) An operating system manages hardware resources and provides services to applications.\n(iii) A multi-user OS allows only one user to work at a time.\n(iv) The kernel is the core component of an operating system.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Windows, Linux, and macOS are operating systems (i). An OS manages hardware and provides application services (ii). The kernel is the core of the OS that directly interacts with hardware (iv). However, a multi-user OS allows MULTIPLE users to work simultaneously (like Linux/Unix servers), not just one — making (iii) incorrect."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Phishing attacks are a major cybersecurity threat.\nReason (R): Phishing uses deceptive emails or websites that mimic legitimate organizations to trick users into revealing sensitive information.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Phishing is indeed a major cybersecurity threat causing significant financial losses worldwide (A is correct). Phishing works by impersonating trusted entities via fake emails/websites to steal credentials, passwords, or financial data (R is correct). This deceptive nature described in (R) is exactly what makes phishing a major threat, so (R) explains (A)."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Fill in the blank: The shortcut key to select all content in a document in MS Word is __________.",
+      "options": ["Ctrl + A", "Ctrl + E", "Ctrl + S", "Ctrl + D"],
+      "correctAnswer": "Ctrl + A",
+      "explanation": "Ctrl + A selects all content in the current document. Ctrl + E centers the selected text. Ctrl + S saves the document. Ctrl + D opens the Font dialog box. All are Word shortcuts but only Ctrl + A performs Select All."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Which of the following is the correct hierarchy of memory from largest capacity to smallest?",
+      "options": ["Hard Disk → RAM → Cache → Registers", "RAM → Hard Disk → Cache → Registers", "Cache → RAM → Hard Disk → Registers", "Registers → Cache → RAM → Hard Disk"],
+      "correctAnswer": "Hard Disk → RAM → Cache → Registers",
+      "explanation": "In terms of storage capacity (largest to smallest): Hard Disk (terabytes) → RAM (gigabytes) → Cache (megabytes) → Registers (bytes/kilobytes). Option 2 wrongly places RAM above Hard Disk. Option 3 puts Cache as largest. Option 4 puts Registers as largest, which is actually the order of speed (fastest to slowest), not capacity."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Match the following internet terms with their descriptions:\n\nColumn I:\n(a) URL\n(b) ISP\n(c) HTML\n(d) IP Address\n\nColumn II:\n(i) A unique numerical label assigned to each device on a network\n(ii) A company that provides internet access to users\n(iii) The address of a web page on the internet\n(iv) The standard markup language for creating web pages\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "URL (Uniform Resource Locator) is the web page address (iii). ISP (Internet Service Provider) provides internet access (ii). HTML (HyperText Markup Language) is for creating web pages (iv). IP Address is a unique numerical label for network devices (i). Option 2 wrongly assigns ISP description to URL. Option 3 wrongly assigns HTML description to ISP. Option 4 wrongly assigns IP Address to URL."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "The function of a 'router' in a computer network is to:",
+      "options": ["Store data permanently on the network", "Direct data packets between different networks", "Convert digital signals to analog signals", "Protect the network from virus attacks"],
+      "correctAnswer": "Direct data packets between different networks",
+      "explanation": "A router forwards data packets between different networks, determining the best path for data transmission. Storing data is done by servers/storage devices. Converting digital to analog is done by a modem. Protecting from viruses is done by antivirus software and firewalls, not routers."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Consider the following statements about search engines:\n\n(i) Google, Bing, and Yahoo are examples of search engines.\n(ii) Search engines use web crawlers (bots) to index web pages.\n(iii) The process of improving website visibility in search results is called SEO.\n(iv) A search engine stores all web pages on its own servers permanently.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Google, Bing, Yahoo are popular search engines (i). Web crawlers/spiders scan and index web pages (ii). SEO (Search Engine Optimization) improves site ranking in results (iii). However, search engines store indexed copies (cached versions) for reference but do NOT permanently store all web pages — the pages remain on their original servers, making (iv) incorrect."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Backing up data regularly is an essential computer safety practice.\nReason (R): Backups ensure that data can be recovered in case of hardware failure, malware attacks, or accidental deletion.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Regular backups are indeed essential for data safety (A is correct). Backups provide recovery options against hardware failure, malware, and accidental deletion (R is correct). The data recovery capability described in (R) is precisely what makes backups essential, so (R) explains (A)."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "In MS Excel, which symbol is used to make a cell reference absolute (so it doesn't change when copied)?",
+      "options": ["#", "$", "&", "@"],
+      "correctAnswer": "$",
+      "explanation": "The dollar sign ($) makes cell references absolute in Excel — e.g., $A$1 locks both column and row. The hash (#) appears in error displays like #REF!. The ampersand (&) is used for text concatenation. The @ symbol has no standard reference function in Excel formulas."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Which of the following are features of MS Word?\n\n(i) Mail Merge\n(ii) Track Changes\n(iii) Pivot Tables\n(iv) Spell Check\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Mail Merge creates personalized bulk documents in Word (i). Track Changes records edits for collaborative reviewing (ii). Spell Check identifies and corrects spelling errors (iv). However, Pivot Tables are a feature of MS Excel for data analysis, NOT MS Word, making (iii) incorrect."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "The term 'bandwidth' in computer networking refers to:",
+      "options": ["The physical width of network cables", "The maximum data transfer rate of a network connection", "The number of computers connected to a network", "The distance between two network nodes"],
+      "correctAnswer": "The maximum data transfer rate of a network connection",
+      "explanation": "Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given time (measured in bits per second). It's not about physical cable width. It doesn't count connected computers. It doesn't measure distance between nodes."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Consider the following statements about e-banking (internet banking):\n\n(i) It allows customers to conduct financial transactions through a bank's website.\n(ii) OTP (One-Time Password) is a security measure used in e-banking.\n(iii) E-banking can only be accessed through desktop computers.\n(iv) NEFT and RTGS are electronic fund transfer systems.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "E-banking allows online financial transactions through bank websites/apps (i). OTP adds a security layer for authentication (ii). NEFT and RTGS are electronic fund transfer mechanisms (iv). However, e-banking is NOT limited to desktops — it can be accessed through smartphones, tablets, and other devices via mobile banking apps, making (iii) incorrect."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Match the following MS Excel functions with their purposes:\n\nColumn I:\n(a) =COUNT()\n(b) =AVERAGE()\n(c) =IF()\n(d) =CONCATENATE()\n\nColumn II:\n(i) Joins two or more text strings into one\n(ii) Returns a value based on a condition\n(iii) Counts the number of cells containing numbers\n(iv) Calculates the arithmetic mean of values\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "COUNT counts cells with numbers (iii). AVERAGE calculates the arithmetic mean (iv). IF returns values based on logical conditions (ii). CONCATENATE joins text strings together (i). Option 2 wrongly assigns mean calculation to COUNT. Option 3 wrongly assigns conditional logic to AVERAGE. Option 4 wrongly assigns text joining to COUNT."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "A 'cookie' in the context of web browsing is:",
+      "options": ["A type of computer virus that damages files", "A small text file stored by websites on the user's computer", "An encryption algorithm for secure browsing", "A tool that blocks advertisements on web pages"],
+      "correctAnswer": "A small text file stored by websites on the user's computer",
+      "explanation": "A cookie is a small text file that websites store on a user's browser to remember preferences, login status, or browsing history. It is NOT a virus — cookies themselves don't damage files. It's not an encryption algorithm (that would be SSL/TLS). It's not an ad-blocker."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): HTTPS is more secure than HTTP for transmitting data over the internet.\nReason (R): HTTPS uses SSL/TLS encryption to protect data during transmission between the browser and the server.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "HTTPS is indeed more secure than HTTP (A is correct). HTTPS adds SSL/TLS encryption that protects data from interception during transit (R is correct). The encryption layer described in (R) is exactly what provides the security advantage of HTTPS, so (R) explains (A)."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "The 'Recycle Bin' in Windows can store files deleted from:",
+      "options": ["Only the C: drive", "Only internal hard drives", "Both internal and external drives equally", "Internal drives but not from USB drives or network locations"],
+      "correctAnswer": "Internal drives but not from USB drives or network locations",
+      "explanation": "The Windows Recycle Bin stores files deleted from internal hard drives. Files deleted from USB flash drives, external drives, or network locations are permanently deleted without going to Recycle Bin. It's not limited to C: drive only — it covers all internal drive partitions. It does NOT treat external drives equally."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) LAN covers a small geographical area like a building or campus.\n(ii) WAN covers a large geographical area, often spanning countries.\n(iii) MAN covers a metropolitan area, larger than LAN but smaller than WAN.\n(iv) The internet is an example of a LAN.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "LAN (Local Area Network) covers small areas like buildings (i). WAN (Wide Area Network) spans large areas across countries (ii). MAN (Metropolitan Area Network) covers a city — between LAN and WAN (iii). The internet is a WAN (the largest network), NOT a LAN, making (iv) incorrect."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Which feature in MS Word allows you to create personalized letters for multiple recipients from a single template?",
+      "options": ["Track Changes", "Mail Merge", "Find and Replace", "Macros"],
+      "correctAnswer": "Mail Merge",
+      "explanation": "Mail Merge combines a template document with a data source to create personalized copies for multiple recipients. Track Changes records edits for review, not mass personalization. Find and Replace substitutes text but doesn't create multiple documents. Macros automate repetitive tasks but aren't designed for personalized bulk mailings."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Fill in the blank: The full form of PDF is Portable __________ Format.",
+      "options": ["Data", "Document", "Digital", "Desktop"],
+      "correctAnswer": "Document",
+      "explanation": "PDF stands for Portable Document Format — a file format developed by Adobe for presenting documents independent of software, hardware, or operating system. 'Data' would be PD(ata)F. 'Digital' would be PD(igital)F. 'Desktop' would be PD(esktop)F. Only 'Document' is correct."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Which of the following practices help in maintaining computer security?\n\n(i) Using strong passwords with a mix of characters\n(ii) Regularly updating operating system and software\n(iii) Sharing passwords with trusted colleagues for convenience\n(iv) Installing and updating antivirus software\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Strong passwords with mixed characters prevent unauthorized access (i). Regular updates patch security vulnerabilities (ii). Installing/updating antivirus detects and removes threats (iv). However, sharing passwords — even with trusted colleagues — is a security risk and violates basic security principles, making (iii) incorrect."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cloud computing has become popular for data storage and application hosting.\nReason (R): Cloud computing allows users to access data and applications over the internet without needing powerful local hardware.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Cloud computing is widely popular for storage (Google Drive, Dropbox) and hosting (AWS, Azure) — (A) is correct. It enables internet-based access without requiring powerful local hardware (R is correct). This convenience of remote access and reduced hardware dependency is what drives cloud computing's popularity, so (R) explains (A)."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "In MS Word, the 'Header and Footer' feature is found under which tab?",
+      "options": ["Home", "Insert", "Page Layout", "References"],
+      "correctAnswer": "Insert",
+      "explanation": "Header and Footer options are located under the Insert tab in MS Word's Ribbon interface. The Home tab has font/paragraph formatting. Page Layout has margins, orientation, and page setup. References has citations, table of contents, and footnotes."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Match the following storage units with their equivalent values:\n\nColumn I:\n(a) 1 Kilobyte (KB)\n(b) 1 Megabyte (MB)\n(c) 1 Gigabyte (GB)\n(d) 1 Terabyte (TB)\n\nColumn II:\n(i) 1024 GB\n(ii) 1024 Bytes\n(iii) 1024 KB\n(iv) 1024 MB\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "1 KB = 1024 Bytes (ii). 1 MB = 1024 KB (iii). 1 GB = 1024 MB (iv). 1 TB = 1024 GB (i). Each unit is 1024 times the previous one. Option 2 wrongly assigns 1024KB to KB. Option 3 wrongly assigns 1024MB to MB. Option 4 wrongly assigns 1024MB to KB."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "The primary function of an antivirus program is to:",
+      "options": ["Increase computer processing speed", "Detect, prevent, and remove malicious software", "Manage files and folders on the hard drive", "Connect the computer to the internet"],
+      "correctAnswer": "Detect, prevent, and remove malicious software",
+      "explanation": "Antivirus software scans, detects, prevents, and removes viruses, malware, and other threats. It doesn't increase processing speed (that's hardware/optimization). It doesn't manage files (that's the file manager/OS). It doesn't provide internet connectivity (that's the network adapter/ISP)."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Consider the following statements about email:\n\n(i) BCC stands for Blind Carbon Copy — recipients cannot see other BCC addresses.\n(ii) An attachment is a file sent along with an email message.\n(iii) The subject line of an email is optional and has no practical use.\n(iv) Email can be accessed through web-based clients like Gmail or through desktop clients like Outlook.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "BCC is Blind Carbon Copy — BCC recipients are hidden from others (i). Attachments are files sent with emails (ii). Email can be accessed via web clients (Gmail) or desktop clients (Outlook) (iv). However, the subject line is highly useful for identifying email content, organizing messages, and filtering — it is NOT practically useless, making (iii) incorrect."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "What does the term 'defragmentation' mean in computer maintenance?",
+      "options": ["Permanently deleting all files from the hard disk", "Rearranging fragmented data on a disk so files are stored contiguously", "Installing a new operating system on the computer", "Removing malware and viruses from the system"],
+      "correctAnswer": "Rearranging fragmented data on a disk so files are stored contiguously",
+      "explanation": "Defragmentation reorganizes scattered file fragments on a disk so each file occupies contiguous sectors, improving read/write speed. It doesn't delete files (that's formatting/wiping). It's not installing an OS (that's installation). It's not removing malware (that's antivirus scanning)."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Which of the following are valid types of charts available in MS Excel?\n\n(i) Bar Chart\n(ii) Pie Chart\n(iii) Line Chart\n(iv) Paragraph Chart\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Bar Chart displays data with rectangular bars (i). Pie Chart shows proportions as slices of a circle (ii). Line Chart displays trends over time with connected data points (iii). 'Paragraph Chart' does NOT exist in Excel or any standard charting system, making (iv) incorrect."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "The following data shows download speeds (in Mbps) offered by four internet plans:\n\nPlan A → 50\nPlan B → 100\nPlan C → 75\nPlan D → 150\n\nIf a user downloads a 600 MB file, approximately how many seconds would it take using Plan B? (Use: 1 Byte = 8 bits)",
+      "options": ["48 seconds", "36 seconds", "60 seconds", "72 seconds"],
+      "correctAnswer": "48 seconds",
+      "explanation": "Plan B speed = 100 Mbps = 100 megabits per second. File size = 600 MB = 600 × 8 = 4800 megabits. Time = 4800 / 100 = 48 seconds. Option 36 would be 4800/133. Option 60 would be if we didn't convert MB to Mb (600/10=60). Option 72 would use 4800/66.7."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Match the following computer generations with their key technology:\n\nColumn I:\n(a) First Generation (1940s-50s)\n(b) Second Generation (1950s-60s)\n(c) Third Generation (1960s-70s)\n(d) Fourth Generation (1970s-present)\n\nColumn II:\n(i) Microprocessors (VLSI)\n(ii) Vacuum Tubes\n(iii) Integrated Circuits (ICs)\n(iv) Transistors\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "First generation used vacuum tubes (ii). Second generation used transistors (iv). Third generation used integrated circuits (iii). Fourth generation uses microprocessors/VLSI (i). Option 2 wrongly assigns transistors to first gen. Option 3 wrongly assigns ICs to second gen. Option 4 wrongly assigns microprocessors to first gen."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "A 'firewall' in computer security functions as:",
+      "options": ["A device that cools down the processor", "A barrier that monitors and controls incoming and outgoing network traffic", "A software that recovers deleted files", "A hardware component that boosts WiFi signals"],
+      "correctAnswer": "A barrier that monitors and controls incoming and outgoing network traffic",
+      "explanation": "A firewall acts as a security barrier between a trusted internal network and untrusted external networks, filtering traffic based on security rules. It's not a cooling device (that's a heat sink/fan). It doesn't recover files (that's data recovery software). It doesn't boost WiFi (that's a WiFi extender/repeater)."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Consider the following statements about file management in Windows:\n\n(i) Files can be organized into folders (directories) for better management.\n(ii) The file extension indicates the type of file (e.g., .txt for text, .jpg for images).\n(iii) Windows allows only 8-character file names.\n(iv) Files can be moved, copied, renamed, and deleted using File Explorer.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Files are organized into folders/directories (i). Extensions indicate file type (ii). File Explorer handles move, copy, rename, delete operations (iv). However, modern Windows (since Windows 95) supports long file names up to 255 characters — the 8-character limit was only in MS-DOS (8.3 naming convention), making (iii) incorrect."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "The following data shows the storage capacity (in GB) of different USB drives available in a shop:\n\nDrive P → 16\nDrive Q → 32\nDrive R → 64\nDrive S → 128\n\nIf a customer needs to store 250 GB of data and can buy multiple drives of the same type, what is the minimum number of Drive Q units needed?",
+      "options": ["7", "8", "9", "10"],
+      "correctAnswer": "8",
+      "explanation": "Drive Q = 32 GB each. To store 250 GB: 250 ÷ 32 = 7.8125. Since we can't use a fraction of a drive, we need 8 drives (8 × 32 = 256 GB ≥ 250 GB). Option 7 gives only 224 GB (insufficient). Option 9 gives 288 GB (more than needed). Option 10 gives 320 GB (excessive)."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a search engine?",
+      "options": ["Google", "Bing", "Wikipedia", "Yahoo"],
+      "correctAnswer": "Wikipedia",
+      "explanation": "Wikipedia is an online encyclopedia (a reference website), not a search engine. Google is the world's most popular search engine. Bing is Microsoft's search engine. Yahoo also provides search engine services. Wikipedia contains information but doesn't crawl and index the entire web like search engines do."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Using public WiFi networks without precautions can be a security risk.\nReason (R): Data transmitted over unsecured public WiFi can be intercepted by attackers using packet-sniffing tools.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Using public WiFi without precautions (like VPN) is indeed risky (A is correct). Unsecured WiFi allows attackers to intercept data using packet sniffers (R is correct). The interception vulnerability described in (R) is exactly what makes public WiFi risky, so (R) explains (A)."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "In MS Word, the 'Find and Replace' function can be accessed using which shortcut key?",
+      "options": ["Ctrl + F", "Ctrl + H", "Ctrl + R", "Ctrl + G"],
+      "correctAnswer": "Ctrl + H",
+      "explanation": "Ctrl + H opens Find and Replace in MS Word. Ctrl + F opens only Find (without Replace). Ctrl + R right-aligns text. Ctrl + G opens the Go To dialog. While Ctrl + F lets you find text, the full Find AND Replace dialog specifically uses Ctrl + H."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer passwords:\n\n(i) A strong password should be at least 8 characters with a mix of uppercase, lowercase, numbers, and symbols.\n(ii) Passwords should be changed regularly for better security.\n(iii) Using the same password for all accounts is a recommended practice.\n(iv) Two-factor authentication (2FA) adds an extra layer of security beyond passwords.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Strong passwords need 8+ characters with mixed character types (i). Regular password changes improve security (ii). 2FA provides additional security through a second verification method (iv). However, using the same password for all accounts is extremely dangerous — if one account is compromised, all others are at risk, making (iii) incorrect."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "Which view in MS Word shows the document as it will appear when printed?",
+      "options": ["Draft View", "Web Layout View", "Print Layout View", "Outline View"],
+      "correctAnswer": "Print Layout View",
+      "explanation": "Print Layout View displays the document exactly as it will appear on printed paper, showing margins, headers, footers, and graphics. Draft View shows text without page boundaries for fast editing. Web Layout shows how it would look as a web page. Outline View shows the document structure with headings and levels."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of optical storage media (CD/DVD)?\n\n(i) Data is read using a laser beam.\n(ii) They are examples of non-volatile storage.\n(iii) They use magnetic platters to store data.\n(iv) A standard CD can hold approximately 700 MB of data.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "CDs/DVDs use laser beams to read data from reflective surfaces (i). They are non-volatile — data persists without power (ii). A standard CD holds about 700 MB (iv). However, optical media use laser-burned pits on a reflective surface, NOT magnetic platters — magnetic platters are used by hard disk drives, making (iii) incorrect."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "The term 'phishing' in cybersecurity specifically refers to:",
+      "options": ["Illegally copying software programs", "Using fake websites or emails to steal personal information", "Breaking into computer systems to steal data", "Flooding a server with excessive requests to crash it"],
+      "correctAnswer": "Using fake websites or emails to steal personal information",
+      "explanation": "Phishing specifically involves creating fraudulent emails or websites that impersonate legitimate entities to steal credentials. Illegally copying software is piracy. Breaking into systems is hacking/cracking. Flooding servers is a DDoS (Denial of Service) attack. Each is a different type of cybercrime."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "The following data shows the number of cyber attacks reported in a company over four quarters:\n\nQ1 → 12\nQ2 → 18\nQ3 → 15\nQ4 → 25\n\nWhat is the percentage increase in attacks from Q1 to Q4?",
+      "options": ["100.0%", "108.3%", "115.5%", "95.8%"],
+      "correctAnswer": "108.3%",
+      "explanation": "Increase from Q1 to Q4 = 25 - 12 = 13. Percentage increase = (13/12) × 100 = 108.33% ≈ 108.3%. Option 100% would require an increase of exactly 12. Option 115.5% would need increase of about 13.86. Option 95.8% would come from using wrong base (13/13.57)."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "In MS Excel, which key is pressed to confirm data entry in a cell and move to the cell below?",
+      "options": ["Tab", "Enter", "Escape", "Shift + Enter"],
+      "correctAnswer": "Enter",
+      "explanation": "Pressing Enter confirms the data in the current cell and moves the cursor to the cell directly below. Tab confirms and moves to the cell to the right. Escape cancels the current entry without saving. Shift + Enter confirms and moves to the cell above (opposite direction of Enter)."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "Match the following cybersecurity threats with their descriptions:\n\nColumn I:\n(a) Trojan Horse\n(b) Worm\n(c) Ransomware\n(d) Keylogger\n\nColumn II:\n(i) Records every keystroke to steal passwords and sensitive data\n(ii) Disguises itself as legitimate software but performs malicious actions\n(iii) Encrypts victim's data and demands payment for decryption\n(iv) Self-replicating program that spreads across networks without user action\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Trojan Horse disguises as legitimate software to perform malicious actions (ii). Worm self-replicates and spreads across networks autonomously (iv). Ransomware encrypts data and demands ransom (iii). Keylogger records keystrokes to steal information (i). Option 2 wrongly assigns self-replication to Trojans. Option 3 wrongly assigns encryption to Worms. Option 4 wrongly assigns keystroke recording to Trojans."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "What is the function of the 'Task Manager' in Windows?",
+      "options": ["To create and schedule tasks for automatic execution", "To monitor running processes, system performance, and end unresponsive programs", "To manage user accounts and permissions on the computer", "To organize files and folders on the desktop"],
+      "correctAnswer": "To monitor running processes, system performance, and end unresponsive programs",
+      "explanation": "Task Manager (Ctrl+Alt+Del or Ctrl+Shift+Esc) shows running processes, CPU/memory usage, and allows ending frozen programs. Creating scheduled tasks is done by Task Scheduler (different tool). Managing user accounts is done through Control Panel/Settings. Organizing files is done through File Explorer."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "Which generation of mobile network technology is commonly referred to as '4G LTE'?",
+      "options": ["Third Generation", "Fourth Generation", "Fifth Generation", "Second Generation"],
+      "correctAnswer": "Fourth Generation",
+      "explanation": "4G LTE (Long Term Evolution) is the fourth generation of mobile network technology, offering high-speed mobile internet. Third generation (3G) provided basic mobile internet. Fifth generation (5G) is the latest offering ultra-fast speeds. Second generation (2G) primarily supported voice calls and SMS."
+    }
+  ]
+}

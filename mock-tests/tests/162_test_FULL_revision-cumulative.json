@@ -1,0 +1,407 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision across all covered subjects",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: The principal presided __________ the annual function.",
+      "options": ["on", "over", "at", "upon"],
+      "correctAnswer": "over",
+      "explanation": "'Preside over' is the correct prepositional collocation meaning to chair or lead a meeting/event. 'Preside on' is not standard English. 'Preside at' can be used to indicate location but 'preside over' is the standard fixed phrase. 'Preside upon' is archaic and not used in modern English."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "The Comptroller and Auditor General (CAG) of India is appointed by:",
+      "options": ["The Prime Minister", "The President of India", "The Chief Justice of India", "The Speaker of Lok Sabha"],
+      "correctAnswer": "The President of India",
+      "explanation": "Under Article 148, the CAG is appointed by the President of India. The Prime Minister may recommend but doesn't appoint. The Chief Justice administers the oath but doesn't appoint. The Speaker has no role in CAG appointment."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "If a train travels 360 km in 4 hours, what is its average speed in metres per second?",
+      "options": ["25 m/s", "20 m/s", "30 m/s", "22 m/s"],
+      "correctAnswer": "25 m/s",
+      "explanation": "Speed = 360/4 = 90 km/h. Converting to m/s: 90 × (5/18) = 25 m/s. Option 20 m/s would be 72 km/h (using wrong distance). Option 30 m/s would be 108 km/h. Option 22 m/s would result from an incorrect conversion factor."
+    },
+    {
+      "id": "4",
+      "subject": "C",
+      "questionText": "The Vaishno Devi shrine is located in which district of Jammu & Kashmir?",
+      "options": ["Udhampur", "Reasi", "Kathua", "Rajouri"],
+      "correctAnswer": "Reasi",
+      "explanation": "Vaishno Devi shrine is located in the Trikuta Mountains in Reasi district (earlier part of Udhampur but now a separate district). Udhampur is a neighbouring district. Kathua is in the southern part of Jammu division. Rajouri is in the Pir Panjal region."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer viruses:\n\n(i) A virus attaches itself to a host program and replicates when the host is executed.\n(ii) A worm is self-replicating and does not need a host program to spread.\n(iii) A Trojan horse replicates itself automatically across networks.\n(iv) Antivirus software uses signature-based detection to identify known malware.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A virus needs a host program and replicates when executed (i). A worm is self-replicating without needing a host (ii). Antivirus uses signature-based detection (iv). However, a Trojan horse does NOT replicate itself — it disguises as legitimate software but relies on users to install it, unlike worms. Statement (iii) is incorrect."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Consider the following statements about the use of articles with geographical names:\n\n(i) 'The' is used before mountain ranges (e.g., the Himalayas, the Alps).\n(ii) 'The' is used before individual mountain peaks (e.g., the Mount Everest).\n(iii) 'The' is used before rivers (e.g., the Ganga, the Nile).\n(iv) 'The' is used before oceans (e.g., the Pacific Ocean, the Indian Ocean).\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'The' is used before mountain ranges like the Himalayas (i). 'The' is used before rivers like the Ganga (iii). 'The' is used before oceans like the Pacific (iv). However, 'the' is NOT used before individual peaks — we say 'Mount Everest' not 'the Mount Everest', making (ii) incorrect."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Indian Constitution provides for an independent judiciary.\nReason (R): Judges of the Supreme Court and High Courts are appointed by the President and can only be removed through impeachment.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The Constitution provides for an independent judiciary through separation of powers (A is correct). Judges are appointed by the President (with collegium recommendation) and can only be removed through impeachment (a difficult process requiring special majority), ensuring security of tenure — (R) is correct. The appointment method and removal difficulty are key mechanisms that guarantee judicial independence, so (R) explains (A)."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Consider the following statements about number series:\n\n(i) In an arithmetic progression, the common difference between consecutive terms is constant.\n(ii) In a geometric progression, each term is obtained by multiplying the previous term by a constant ratio.\n(iii) The series 2, 6, 18, 54, ... is an arithmetic progression.\n(iv) The nth term of an AP is given by a + (n-1)d.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "In AP, the common difference is constant (i). In GP, each term is multiplied by a constant ratio (ii). The nth term of AP = a + (n-1)d (iv). However, 2, 6, 18, 54 has ratios 3, 3, 3 — it's a geometric progression (GP), not an arithmetic progression, making (iii) incorrect."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Which keyboard shortcut is used to 'Undo' the last action in MS Word?",
+      "options": ["Ctrl + Z", "Ctrl + Y", "Ctrl + X", "Ctrl + U"],
+      "correctAnswer": "Ctrl + Z",
+      "explanation": "Ctrl + Z is the universal shortcut for Undo in MS Word and most applications. Ctrl + Y is for Redo (repeating the undone action). Ctrl + X is for Cut. Ctrl + U is for Underline. All are common shortcuts but only Ctrl + Z performs Undo."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Choose the antonym of 'ostentatious':",
+      "options": ["Showy", "Modest", "Flamboyant", "Extravagant"],
+      "correctAnswer": "Modest",
+      "explanation": "'Ostentatious' means designed to attract notice through showiness. 'Modest' means unassuming, not showy — the direct opposite. 'Showy' is a synonym. 'Flamboyant' means attracting attention through confidence or style — similar to ostentatious. 'Extravagant' means excessive or lavish — also similar in meaning."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "Match the following Indian states with their classical dance forms:\n\nColumn I:\n(a) Kerala\n(b) Andhra Pradesh\n(c) Manipur\n(d) Odisha\n\nColumn II:\n(i) Odissi\n(ii) Kathakali\n(iii) Kuchipudi\n(iv) Manipuri\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Kathakali is from Kerala (ii). Kuchipudi is from Andhra Pradesh (iii). Manipuri dance is from Manipur (iv). Odissi is from Odisha (i). Option 2 wrongly assigns Kuchipudi to Kerala. Option 3 wrongly assigns Manipuri to Andhra Pradesh. Option 4 wrongly assigns Odissi to Kerala."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "A shopkeeper marks a product at ₹500 and offers a discount of 20%. If he still makes a profit of 25%, what was the cost price of the product?",
+      "options": ["₹300", "₹320", "₹350", "₹280"],
+      "correctAnswer": "₹320",
+      "explanation": "Selling price after 20% discount = 500 × (80/100) = ₹400. If profit is 25%, then SP = CP × (125/100). So CP = 400 × (100/125) = ₹320. Option ₹300 would give SP = 375 (not matching). Option ₹350 would give SP = 437.50 with 25% profit. Option ₹280 would give SP = 350 with 25% profit."
+    },
+    {
+      "id": "13",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Dal Lake is one of the most important tourist attractions of Srinagar.\nReason (R): Dal Lake features houseboats, shikaras, and floating gardens (Rad) that attract visitors from around the world.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Dal Lake is indeed one of Srinagar's most important tourist attractions (A is correct). The lake's houseboats, shikaras, and floating gardens (locally called 'Rad') are its unique features that make it a global tourist draw (R is correct). These distinctive features are precisely what makes Dal Lake a major attraction, so (R) explains (A)."
+    },
+    {
+      "id": "14",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct word: Despite his __________ efforts, the project failed to meet the deadline.",
+      "options": ["strenuous", "stranuous", "strenuos", "strenious"],
+      "correctAnswer": "strenuous",
+      "explanation": "'Strenuous' (meaning requiring great exertion) is the correct spelling and fits the context of hard efforts. 'Stranuous' is a misspelling (wrong vowel placement). 'Strenuos' is a misspelling (missing 'u'). 'Strenious' is also a misspelling (wrong ending). Only 'strenuous' is correctly spelled."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Match the following file extensions with their types:\n\nColumn I:\n(a) .docx\n(b) .xlsx\n(c) .pptx\n(d) .pdf\n\nColumn II:\n(i) Spreadsheet file\n(ii) Presentation file\n(iii) Portable document format\n(iv) Word processing document\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": ".docx is a Word processing document created in MS Word (iv). .xlsx is a spreadsheet file created in MS Excel (i). .pptx is a presentation file created in MS PowerPoint (ii). .pdf is Portable Document Format (iii). Option 2 wrongly assigns spreadsheet to .docx. Option 3 wrongly assigns presentation to .xlsx. Option 4 wrongly assigns PDF to .docx."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Which Indian state is the largest producer of coffee?",
+      "options": ["Tamil Nadu", "Kerala", "Karnataka", "Andhra Pradesh"],
+      "correctAnswer": "Karnataka",
+      "explanation": "Karnataka produces about 70% of India's coffee output, primarily from the Coorg, Chikmagalur, and Hassan districts. Tamil Nadu is the second largest producer. Kerala produces significant amounts but ranks third. Andhra Pradesh produces coffee in the Eastern Ghats region but in much smaller quantities."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a coding system where A=1, B=2, C=3, ... Z=26, the word 'CAB' is coded as 312.\nReason (R): In positional coding, each letter is replaced by its numerical position in the alphabet.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "C=3, A=1, B=2, so CAB = 312 (A is correct). The coding system replaces each letter with its alphabetical position — this is positional coding (R is correct). The positional coding rule stated in (R) is exactly what produces the code 312 for CAB, so (R) explains (A)."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Choose the correct meaning of the idiom: 'To turn over a new leaf'",
+      "options": ["To start reading a new book", "To begin behaving in a better way", "To turn the pages of a calendar", "To plant new saplings in a garden"],
+      "correctAnswer": "To begin behaving in a better way",
+      "explanation": "'To turn over a new leaf' means to make a fresh start, especially by improving one's behaviour or habits. It doesn't literally mean reading a book (though 'leaf' can mean page). Turning calendar pages is a literal interpretation. Planting saplings is unrelated — 'leaf' here is metaphorical, referring to a new page in life."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Pradhan Mantri Jan Dhan Yojana (PMJDY):\n\n(i) It was launched in August 2014.\n(ii) It aims to provide universal access to banking facilities.\n(iii) Account holders get a RuPay debit card and accidental insurance cover.\n(iv) The scheme is limited to rural areas only.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "PMJDY was launched on 28 August 2014 (i). Its objective is universal access to banking/financial services (ii). Account holders receive a RuPay debit card with ₹2 lakh accidental insurance (iii). However, the scheme is NOT limited to rural areas — it covers both rural and urban unbanked populations, making (iv) incorrect."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "In a family, A is the mother of B. B is the sister of C. D is the husband of A. What is D's relation to C?",
+      "options": ["Uncle", "Father", "Brother", "Grandfather"],
+      "correctAnswer": "Father",
+      "explanation": "A is B's mother. B is C's sister, meaning A is also C's mother. D is A's husband, meaning D is the father of A's children. Since C is A's child, D is C's father. 'Uncle' would require D to be A's brother. 'Brother' would require them to be of the same generation. 'Grandfather' would require an additional generation gap."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "Which of the following are examples of input devices?\n\n(i) Keyboard\n(ii) Monitor\n(iii) Scanner\n(iv) Mouse\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Keyboard is an input device for entering text/commands (i). Scanner is an input device for digitizing documents/images (iii). Mouse is an input device for pointing and clicking (iv). Monitor is an OUTPUT device that displays information — not an input device, making (ii) incorrect."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Choose the synonym of 'impeccable':",
+      "options": ["Flawless", "Imperfect", "Mediocre", "Adequate"],
+      "correctAnswer": "Flawless",
+      "explanation": "'Impeccable' means without any faults or errors — synonymous with 'flawless'. 'Imperfect' means having faults — the opposite. 'Mediocre' means average or unremarkable. 'Adequate' means barely sufficient — far less than impeccable."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "The Chenab Bridge, one of the world's highest railway bridges, is being constructed in which district of J&K?",
+      "options": ["Ramban", "Reasi", "Udhampur", "Doda"],
+      "correctAnswer": "Reasi",
+      "explanation": "The Chenab Bridge (part of the Udhampur-Srinagar-Baramulla Rail Link) spans the Chenab river in Reasi district near Bakkal and Kauri. Ramban is nearby but the bridge is administratively in Reasi. Udhampur is further south. Doda is in a different part of the Chenab valley."
+    },
+    {
+      "id": "24",
+      "subject": "B",
+      "questionText": "Which of the following correctly describes the 'Swamitva Yojana'?",
+      "options": ["A scheme to provide free housing to homeless urban families", "A scheme to provide property cards to rural household owners using drone surveys", "A scheme to distribute agricultural land to landless labourers", "A scheme for digital literacy in villages"],
+      "correctAnswer": "A scheme to provide property cards to rural household owners using drone surveys",
+      "explanation": "SVAMITVA (Survey of Villages and Mapping with Improvised Technology in Village Areas) uses drone technology to survey rural inhabited land and provides property cards to homeowners. It's not about urban housing (that's PM Awas). It's not land distribution (that was land reform). It's not digital literacy (that's PMGDISHA)."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "The following data shows the marks obtained by a student in five subjects:\n\nEnglish → 72\nMaths → 85\nScience → 68\nHistory → 76\nComputer → 79\n\nWhat is the average marks obtained by the student?",
+      "options": ["74", "76", "78", "80"],
+      "correctAnswer": "76",
+      "explanation": "Average = (72 + 85 + 68 + 76 + 79) / 5 = 380 / 5 = 76. Option 74 results from an addition error. Option 78 could come from miscounting. Option 80 is too high — would require a total of 400."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): We say 'a European country' not 'an European country'.\nReason (R): The choice between 'a' and 'an' depends on the initial sound, not the initial letter — 'European' begins with a consonant sound /j/.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "We do say 'a European' (A is correct). The article 'a' is used because 'European' starts with the consonant sound /juː/ (the 'y' sound), despite beginning with the vowel letter 'E' — (R) is correct. This phonetic rule directly explains why 'a' is used instead of 'an', so (R) explains (A)."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "The Tropic of Cancer passes through how many Indian states?",
+      "options": ["6", "7", "8", "9"],
+      "correctAnswer": "8",
+      "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. Option 6 misses two states. Option 7 misses one state. Option 9 overcounts by including a state it doesn't actually pass through."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Match the following reasoning concepts with their descriptions:\n\nColumn I:\n(a) Analogy\n(b) Syllogism\n(c) Coding-Decoding\n(d) Blood Relations\n\nColumn II:\n(i) Determining family connections between persons\n(ii) Finding similarity of relationship between pairs\n(iii) Logical deduction from two premises\n(iv) Substituting letters/numbers according to a rule\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Analogy involves finding similar relationships between pairs (ii). Syllogism is logical deduction from two premises leading to a conclusion (iii). Coding-Decoding substitutes letters/numbers using a rule (iv). Blood Relations determines family connections (i). Option 2 wrongly assigns logical deduction to analogy. Option 3 wrongly assigns substitution to syllogism. Option 4 wrongly assigns family connections to analogy."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): RAM is called volatile memory.\nReason (R): RAM loses all its stored data when the computer is switched off or loses power.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "RAM (Random Access Memory) is indeed called volatile memory (A is correct). It loses all stored data when power is cut off (R is correct). The definition of 'volatile' in computing is precisely 'loses data without power' — so (R) is the definition that explains why RAM is called volatile, making it the correct explanation of (A)."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["She is working here since 2015.", "She has been working here since 2015.", "She was working here since 2015.", "She had been working here since 2015."],
+      "correctAnswer": "She has been working here since 2015.",
+      "explanation": "'Since' with a point of time requires present perfect continuous when the action continues to the present — 'has been working since 2015'. Present continuous 'is working...since' is wrong with 'since'. Past continuous 'was working...since' doesn't connect to present. Past perfect continuous 'had been working...since' would need a past reference point."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Reserve Bank of India (RBI):\n\n(i) RBI was established in 1935 based on the recommendations of the Hilton Young Commission.\n(ii) RBI was nationalized in 1949.\n(iii) The RBI acts as the banker to the government.\n(iv) RBI headquarters were originally in Delhi.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "RBI was established on 1 April 1935 on the Hilton Young Commission's recommendation (i). It was nationalized on 1 January 1949 (ii). It acts as banker to the Central and State governments (iii). However, RBI's original headquarters were in Calcutta (now Kolkata), later moved to Mumbai — not Delhi, making (iv) incorrect."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "If the simple interest on a sum of ₹5,000 for 3 years is ₹1,200, what is the rate of interest per annum?",
+      "options": ["6%", "7%", "8%", "9%"],
+      "correctAnswer": "8%",
+      "explanation": "SI = (P × R × T) / 100. So 1200 = (5000 × R × 3) / 100. 1200 = 150R. R = 1200/150 = 8%. Option 6% would give SI = 900. Option 7% would give SI = 1050. Option 9% would give SI = 1350."
+    },
+    {
+      "id": "33",
+      "subject": "C",
+      "questionText": "Which river is known as the 'Lifeline of Ladakh'?",
+      "options": ["Chenab", "Jhelum", "Indus", "Tawi"],
+      "correctAnswer": "Indus",
+      "explanation": "The Indus River is called the 'Lifeline of Ladakh' as it flows through the entire Ladakh region providing water for irrigation and sustenance. Chenab flows through Jammu division. Jhelum is the lifeline of the Kashmir Valley. Tawi is a river in Jammu city. Only the Indus is associated with Ladakh."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Concur\n(b) Affluent\n(c) Valiant\n(d) Tranquil\n\nColumn II:\n(i) Turbulent\n(ii) Cowardly\n(iii) Dissent\n(iv) Destitute\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "'Concur' (agree) is opposite of 'dissent' (disagree) (iii). 'Affluent' (wealthy) is opposite of 'destitute' (extremely poor) (iv). 'Valiant' (brave) is opposite of 'cowardly' (lacking courage) (ii). 'Tranquil' (calm) is opposite of 'turbulent' (agitated/disturbed) (i). Option 2 wrongly pairs concur with destitute. Option 3 wrongly pairs affluent with cowardly. Option 4 wrongly pairs concur with turbulent."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "In MS Excel, which function is used to find the highest value in a range of cells?",
+      "options": ["=SUM()", "=MAX()", "=MIN()", "=AVERAGE()"],
+      "correctAnswer": "=MAX()",
+      "explanation": "=MAX() returns the highest (maximum) value in a range. =SUM() adds all values together. =MIN() returns the lowest (minimum) value. =AVERAGE() calculates the arithmetic mean. Only MAX identifies the highest value."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "Who was the first woman President of the Indian National Congress?",
+      "options": ["Sarojini Naidu", "Annie Besant", "Sucheta Kripalani", "Indira Gandhi"],
+      "correctAnswer": "Annie Besant",
+      "explanation": "Annie Besant was the first woman to preside over the Indian National Congress at the Calcutta session in 1917. Sarojini Naidu presided over the 1925 Kanpur session (second woman). Sucheta Kripalani was the first woman Chief Minister (of UP). Indira Gandhi was Congress President later in 1959."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "A man walks 5 km towards North, then turns right and walks 3 km, then turns right again and walks 5 km. How far is he from his starting point?",
+      "options": ["3 km", "5 km", "8 km", "2 km"],
+      "correctAnswer": "3 km",
+      "explanation": "Starting point → 5 km North → turns right (now facing East) → 3 km East → turns right (now facing South) → 5 km South. He is now at the same North-South level as start but 3 km East of start. Distance from starting point = 3 km. Option 5 km incorrectly adds directions. Option 8 km adds all distances. Option 2 km is an arbitrary value."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Choose the correct option to complete the sentence: Neither the students nor the teacher __________ satisfied with the result.",
+      "options": ["were", "was", "are", "have been"],
+      "correctAnswer": "was",
+      "explanation": "With 'neither...nor', the verb agrees with the nearer subject. 'Teacher' (singular) is nearer to the verb, so 'was' (singular past) is correct. 'Were' would be correct if 'students' were nearer. 'Are' is present tense and plural. 'Have been' is present perfect plural — both incorrect with singular 'teacher' as the nearer subject."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "Which of the following are correctly matched?\n\n(i) Bhakra Nangal Dam — Sutlej River\n(ii) Hirakud Dam — Mahanadi River\n(iii) Nagarjuna Sagar Dam — Godavari River\n(iv) Tehri Dam — Bhagirathi River\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Bhakra Nangal Dam is on the Sutlej (i). Hirakud Dam is on the Mahanadi in Odisha (ii). Tehri Dam is on the Bhagirathi in Uttarakhand (iv). However, Nagarjuna Sagar Dam is on the Krishna River (not Godavari), making (iii) incorrect."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "The following data shows the number of books issued from a library in five months:\n\nJan → 450\nFeb → 380\nMar → 520\nApr → 490\nMay → 560\n\nWhat is the percentage increase in book issues from February to May?",
+      "options": ["42.5%", "45.2%", "47.4%", "50.0%"],
+      "correctAnswer": "47.4%",
+      "explanation": "Increase from Feb to May = 560 - 380 = 180. Percentage increase = (180/380) × 100 = 47.37% ≈ 47.4%. Option 42.5% might use wrong base. Option 45.2% could come from a calculation error. Option 50.0% would require an increase of 190."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "Consider the following statements about internet protocols:\n\n(i) HTTP stands for HyperText Transfer Protocol.\n(ii) HTTPS adds a security layer (SSL/TLS) over HTTP.\n(iii) FTP is used for transferring files between computers.\n(iv) SMTP is used for receiving emails from a server.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "HTTP is HyperText Transfer Protocol (i). HTTPS adds SSL/TLS encryption for secure communication (ii). FTP (File Transfer Protocol) transfers files between computers (iii). However, SMTP (Simple Mail Transfer Protocol) is used for SENDING emails, not receiving — POP3 and IMAP are used for receiving, making (iv) incorrect."
+    },
+    {
+      "id": "42",
+      "subject": "A",
+      "questionText": "Which of the following pairs of words are homophones?\n\n(i) Bare — Bear\n(ii) Brake — Break\n(iii) Quite — Quiet\n(iv) Flour — Floor\n\nSelect the correct combination:",
+      "options": ["(i) and (ii) only", "(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i) and (ii) only",
+      "explanation": "'Bare' and 'bear' are homophones — both pronounced /bɛər/ (i). 'Brake' and 'break' are homophones — both pronounced /breɪk/ (ii). 'Quite' (/kwaɪt/) and 'quiet' (/kwaɪ.ət/) are NOT homophones — different pronunciation (iii). 'Flour' (/flaʊər/) and 'floor' (/flɔːr/) are NOT homophones — different pronunciation (iv)."
+    },
+    {
+      "id": "43",
+      "subject": "C",
+      "questionText": "Fill in the blank: The __________ is the largest river system in Jammu & Kashmir by basin area.",
+      "options": ["Jhelum", "Chenab", "Indus", "Ravi"],
+      "correctAnswer": "Indus",
+      "explanation": "The Indus river system has the largest basin area covering Ladakh and parts of northern J&K. Jhelum is the principal river of the Kashmir Valley but has a smaller basin. Chenab flows through Jammu division but its basin is smaller than the Indus. Ravi touches only a small part of J&K near Kathua."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Choose the correct tense: 'Look! The children __________ in the garden right now.'",
+      "options": ["play", "are playing", "played", "have played"],
+      "correctAnswer": "are playing",
+      "explanation": "'Look!' indicates something happening at this very moment, requiring present continuous tense — 'are playing'. Simple present 'play' describes habitual actions. Past tense 'played' describes completed actions. Present perfect 'have played' connects past to present but doesn't describe an ongoing action at this instant."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "The 'Right to Information Act' was enacted in India in which year?",
+      "options": ["2003", "2005", "2007", "2009"],
+      "correctAnswer": "2005",
+      "explanation": "The Right to Information (RTI) Act was enacted by Parliament in 2005 and came into full force on 12 October 2005. Option 2003 is when the Freedom of Information Act (predecessor) existed. Option 2007 and 2009 are too late — the RTI Act was already operational by then."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "If 3 × 5 = 19, 4 × 7 = 33, then 5 × 8 = ?",
+      "options": ["44", "45", "43", "46"],
+      "correctAnswer": "46",
+      "explanation": "The pattern is a × (b + 1) + 1. Verification: 3 × (5+1) + 1 = 3×6 + 1 = 18+1 = 19 ✓. 4 × (7+1) + 1 = 4×8 + 1 = 32+1 = 33 ✓. So 5 × (8+1) + 1 = 5×9 + 1 = 45+1 = 46. Option 44 would result from 5×8+4. Option 45 would miss the +1 step. Option 43 would use an incorrect pattern."
+    },
+    {
+      "id": "47",
+      "subject": "B",
+      "questionText": "Fill in the blank: The National Commission for Women was established in __________.",
+      "options": ["1990", "1992", "1995", "1998"],
+      "correctAnswer": "1992",
+      "explanation": "The National Commission for Women was established in January 1992 under the National Commission for Women Act, 1990 (the Act was passed in 1990 but the Commission was constituted in 1992). Option 1990 is when the enabling Act was passed, not when the commission was established. Option 1995 and 1998 are too late."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "Choose the correct analogy: Mitigate : Aggravate :: Alleviate : __________",
+      "options": ["Worsen", "Improve", "Relieve", "Reduce"],
+      "correctAnswer": "Worsen",
+      "explanation": "Mitigate (lessen) is the antonym of aggravate (make worse). Similarly, alleviate (relieve/reduce) is the antonym of 'worsen'. 'Improve' is similar to alleviate, not opposite. 'Relieve' is a synonym of alleviate. 'Reduce' is also similar in meaning. The analogy is word : antonym."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "Which of the following is NOT an operating system?",
+      "options": ["Linux", "Windows", "Oracle", "macOS"],
+      "correctAnswer": "Oracle",
+      "explanation": "Oracle is primarily a database management system (Oracle Database) and a technology corporation — not an operating system. Linux is an open-source OS. Windows is Microsoft's OS. macOS is Apple's desktop OS. Oracle does have Oracle Linux but 'Oracle' alone refers to the database/company, not an OS."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "In a certain code language, if each letter is replaced by the next letter in the alphabet (A→B, B→C, ... Z→A), what is the code for DATA?",
+      "options": ["EBUB", "CZSY", "FCXC", "DWZW"],
+      "correctAnswer": "EBUB",
+      "explanation": "Applying +1 shift to each letter: D(4)→E(5), A(1)→B(2), T(20)→U(21), A(1)→B(2). So DATA becomes EBUB. Option CZSY would result from shifting backwards (-1). Option FCXC would result from shifting +2 for some letters inconsistently. Option DWZW uses an incorrect shifting pattern."
+    }
+  ]
+}

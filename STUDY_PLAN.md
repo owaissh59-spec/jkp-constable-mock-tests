@@ -450,17 +450,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 160 | Morning | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 161 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 162 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 160 | Morning | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 161 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 162 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 55
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 163 | Morning | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 164 | Afternoon | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 165 | Late | FULL | Full syllabus — all subjects A-E | 100 | exam | Full-length mock | ⬜ |
+| 163 | Morning | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 164 | Afternoon | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 165 | Late | FULL | Full syllabus — all subjects A-E | 100 | exam | Full-length mock | ✅ |
 
 
 ## PHASE 3 — Simulation & Revision (Full-length + Weak-area)  ·  Days 56–69

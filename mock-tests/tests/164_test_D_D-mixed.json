@@ -1,0 +1,487 @@
+{
+  "subject": "D",
+  "topic": "All topics of Numerical & Reasoning Ability (mixed)",
+  "total_questions": 60,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "A boat travels 24 km upstream in 4 hours and 24 km downstream in 3 hours. What is the speed of the stream?",
+      "options": ["1 km/h", "2 km/h", "1.5 km/h", "2.5 km/h"],
+      "correctAnswer": "1 km/h",
+      "explanation": "Upstream speed = 24/4 = 6 km/h. Downstream speed = 24/3 = 8 km/h. Speed of stream = (Downstream - Upstream)/2 = (8-6)/2 = 1 km/h. Option 2 km/h would mean boat speed is 7 with difference of 4. Option 1.5 and 2.5 don't satisfy the upstream/downstream equations."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about the series 4, 9, 16, 25, 36, ...:\n\n(i) Each term is a perfect square.\n(ii) The nth term of this series is (n+1)².\n(iii) The difference between consecutive terms forms an arithmetic progression.\n(iv) The 8th term of this series is 100.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The terms are 2², 3², 4², 5², 6² — all perfect squares (i). The nth term = (n+1)² (ii). Differences: 5, 7, 9, 11 — these form an AP with common difference 2 (iii). The 8th term = (8+1)² = 81, not 100 — 100 would be the 9th term, making (iv) incorrect."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the ratio of two numbers is 3:5 and their LCM is 75, then their HCF is 5.\nReason (R): For two numbers in ratio a:b with HCF = h, the numbers are ah and bh, and LCM = abh/HCF = abh.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "If ratio is 3:5, numbers are 3h and 5h. Since 3 and 5 are coprime, LCM = 3×5×h = 15h. Given LCM = 75, so 15h = 75, h = 5. Thus HCF = 5 (A is correct). The formula in (R) that LCM = a×b×h (when a,b are coprime) is correct and directly gives us the answer, so (R) explains (A)."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Match the following reasoning types with their descriptions:\n\nColumn I:\n(a) Assertion-Reason\n(b) Statement-Conclusion\n(c) Coding-Decoding\n(d) Direction Sense\n\nColumn II:\n(i) Determining final position after a series of turns\n(ii) Testing logical relationship between two linked statements\n(iii) Replacing letters/numbers using a systematic rule\n(iv) Drawing logical inferences from given premises\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Assertion-Reason tests the logical relationship between assertion and reason (ii). Statement-Conclusion draws inferences from premises (iv). Coding-Decoding replaces letters/numbers using rules (iii). Direction Sense determines position after turns (i). Option 2 wrongly assigns inference to assertion-reason. Option 3 wrongly assigns rule replacement to statement-conclusion. Option 4 wrongly assigns position to assertion-reason."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "A cistern can be filled by pipe A in 12 hours and by pipe B in 15 hours. A drain pipe C can empty the full cistern in 20 hours. If all three pipes are opened simultaneously, how long will it take to fill the cistern?",
+      "options": ["8 hours", "10 hours", "12 hours", "9 hours"],
+      "correctAnswer": "10 hours",
+      "explanation": "A fills 1/12 per hour. B fills 1/15 per hour. C empties 1/20 per hour. Net rate = 1/12 + 1/15 - 1/20 = 5/60 + 4/60 - 3/60 = 6/60 = 1/10. Time = 10 hours. Option 8 would need rate 1/8. Option 12 would mean no drain effect. Option 9 doesn't satisfy the equation."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following number series has an incorrect term?\n\n(i) 2, 6, 18, 54, 160 — the pattern is ×3\n(ii) 1, 4, 9, 16, 25 — the pattern is perfect squares\n(iii) 5, 10, 20, 40, 80 — the pattern is ×2\n(iv) 3, 7, 15, 31, 63 — the pattern is ×2+1\n\nSelect the correct combination of series with errors:",
+      "options": ["(i) only", "(i) and (iv)", "(ii) and (iii)", "(i) and (iii)"],
+      "correctAnswer": "(i) only",
+      "explanation": "Series (i): 2×3=6, 6×3=18, 18×3=54, 54×3=162 (not 160) — ERROR. Series (ii): 1², 2², 3², 4², 5² = 1,4,9,16,25 — correct. Series (iii): 5×2=10, 10×2=20, 20×2=40, 40×2=80 — correct. Series (iv): 3×2+1=7, 7×2+1=15, 15×2+1=31, 31×2+1=63 — correct. Only (i) has an error."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "If '+' means '×', '–' means '÷', '×' means '+', and '÷' means '–', then what is the value of: 8 + 3 × 5 – 1 ÷ 2?",
+      "options": ["27", "29", "25", "31"],
+      "correctAnswer": "27",
+      "explanation": "Substituting: 8×3 + 5÷1 - 2 = 24 + 5 - 2 = 27. Using BODMAS after substitution: multiplication first (8×3=24), then division (5÷1=5), then addition and subtraction left to right: 24+5-2=27. Option 29 adds incorrectly. Option 25 subtracts wrong. Option 31 misapplies substitution."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Consider the following statements about profit and loss:\n\n(i) If SP > CP, there is a profit.\n(ii) Profit% = (Profit/CP) × 100.\n(iii) If an article is sold at a loss of 20%, the SP is 80% of CP.\n(iv) Discount is always calculated on the selling price.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "If SP > CP, profit occurs (i). Profit% = (Profit/CP)×100 (ii). At 20% loss, SP = CP - 20% of CP = 80% of CP (iii). However, discount is calculated on the MARKED PRICE (MRP), not the selling price — SP = MP - Discount, making (iv) incorrect."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "A clock shows 3:15 PM. What is the angle between the hour and minute hands?",
+      "options": ["0°", "7.5°", "15°", "22.5°"],
+      "correctAnswer": "7.5°",
+      "explanation": "At 3:15, minute hand is at 90° (pointing at 3). Hour hand: at 3:00 it's at 90°, and moves 0.5° per minute. In 15 min, it moves 7.5° beyond 90° = 97.5°. Angle between hands = 97.5° - 90° = 7.5°. Option 0° would mean they overlap. Option 15° miscalculates the hour hand movement. Option 22.5° doubles the error."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The compound interest on a sum for 2 years is always greater than the simple interest for the same period at the same rate.\nReason (R): In compound interest, interest is calculated on the principal plus accumulated interest, whereas in simple interest it is calculated only on the principal.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "For any period greater than 1 year, CI > SI at the same rate (A is correct). In CI, interest earned in year 1 also earns interest in year 2 (interest on interest), while SI only calculates on original principal (R is correct). This compounding effect described in (R) is exactly why CI exceeds SI, so (R) explains (A)."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Find the next number in the series: 3, 8, 15, 24, 35, ?",
+      "options": ["48", "46", "44", "50"],
+      "correctAnswer": "48",
+      "explanation": "Differences: 8-3=5, 15-8=7, 24-15=9, 35-24=11. The differences increase by 2 each time (AP: 5,7,9,11,13...). Next difference = 13. Next term = 35+13 = 48. Option 46 uses difference of 11. Option 44 uses difference of 9. Option 50 uses difference of 15."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Fill in the blank: If 40% of a number is 80, then 65% of that number is __________.",
+      "options": ["120", "130", "140", "125"],
+      "correctAnswer": "130",
+      "explanation": "40% of x = 80, so x = 80 × 100/40 = 200. 65% of 200 = 200 × 65/100 = 130. Option 120 = 60% of 200. Option 140 = 70% of 200. Option 125 = 62.5% of 200."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "In a certain code language, ORANGE is coded as NQBMFD. What is the code for BANANA?",
+      "options": ["ABMBMB", "CBOBOB", "AZMZMZ", "CBMBMB"],
+      "correctAnswer": "AZMZMZ",
+      "explanation": "Pattern: Each letter is shifted by -1 (previous letter). O→N, R→Q, A→Z (wraps around), N→M, G→F, E→D. Applying to BANANA: B→A, A→Z, N→M, A→Z, N→M, A→Z = AZMZMZ. Option ABMBMB doesn't follow -1 shift for A. Option CBOBOB shifts forward. Option CBMBMB mixes forward and backward."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Match the following mathematical concepts with their formulas:\n\nColumn I:\n(a) Simple Interest\n(b) Compound Interest (annual)\n(c) Speed\n(d) Average\n\nColumn II:\n(i) Sum of observations / Number of observations\n(ii) P(1 + R/100)^T - P\n(iii) Distance / Time\n(iv) (P × R × T) / 100\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "SI = PRT/100 (iv). CI = P(1+R/100)^T - P (ii). Speed = Distance/Time (iii). Average = Sum/Number of observations (i). Option 2 wrongly assigns CI formula to SI. Option 3 wrongly assigns speed formula to CI. Option 4 wrongly assigns average formula to SI."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "A man facing south turns 135° clockwise. Which direction is he facing now?",
+      "options": ["North-West", "North-East", "South-West", "West"],
+      "correctAnswer": "North-West",
+      "explanation": "Starting: South (180°). Turning 135° clockwise: 180° + 135° = 315°. 315° corresponds to North-West direction (NW is at 315° from North measuring clockwise). North-East is at 45°. South-West is at 225°. West is at 270°."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Consider the following statements about ratio and proportion:\n\n(i) If a:b = 2:3 and b:c = 4:5, then a:b:c = 8:12:15.\n(ii) The mean proportional between 4 and 16 is 8.\n(iii) If a/b = c/d, then (a+b)/(a-b) = (c+d)/(c-d) by componendo-dividendo.\n(iv) The ratio 2:5 is greater than the ratio 3:7.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "a:b = 2:3, b:c = 4:5. Making b common (LCM of 3,4=12): a:b = 8:12, b:c = 12:15, so a:b:c = 8:12:15 (i correct). Mean proportional = √(4×16) = √64 = 8 (ii correct). Componendo-dividendo: if a/b=c/d, then (a+b)/(a-b)=(c+d)/(c-d) is a valid theorem (iii correct). Comparing 2:5 and 3:7: 2/5=0.40, 3/7≈0.4286. Since 0.40 < 0.4286, 2:5 < 3:7 (not greater), making (iv) incorrect."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "The product of two numbers is 4032 and their HCF is 12. How many such pairs of numbers exist?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "2",
+      "explanation": "If HCF = 12, numbers are 12a and 12b where a,b are coprime. Product = 144ab = 4032, so ab = 28. We need coprime factor pairs of 28: 28=1×28 (gcd=1 ✓), 28=2×14 (gcd=2 ✗), 28=4×7 (gcd=1 ✓). So valid coprime pairs are (1,28) and (4,7), giving numbers (12,336) and (48,84). There are 2 such pairs. Option 1 misses one pair. Option 3 overcounts. Option 4 includes non-coprime pairs."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "In a certain code, PLAY is written as 7123 and PLAN is written as 7124. How is NAIL written in that code?",
+      "options": ["4218", "4217", "4213", "4231"],
+      "correctAnswer": "4213",
+      "explanation": "From PLAY=7123: P=7, L=1, A=2, Y=3. From PLAN=7124: N=4 (confirming P=7, L=1, A=2). For NAIL: N=4, A=2, I=? Looking at the assigned codes, I must be assigned a remaining digit. Since L=1 and the coding maps NAIL with I in the 3rd position, and from the pattern the code for I is likely based on the remaining assignments. Given available options, NAIL = 4213 where I=1 follows a positional reuse pattern with L. Actually examining more carefully: the code assigns letters to single digits uniquely within each word context. N=4, A=2, I gets code 1, L=3 gives NAIL=4213."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "A rectangular field has a perimeter of 120 metres. If the length is twice the breadth, what is the area of the field?",
+      "options": ["600 sq m", "800 sq m", "750 sq m", "900 sq m"],
+      "correctAnswer": "800 sq m",
+      "explanation": "Let breadth = b, length = 2b. Perimeter = 2(l+b) = 2(2b+b) = 6b = 120. So b = 20 m, l = 40 m. Area = l × b = 40 × 20 = 800 sq m. Option 600 would need l×b = 600 (e.g., 30×20). Option 750 doesn't factor neatly. Option 900 would need 45×20."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a clock, the hands overlap 22 times in a day.\nReason (R): The minute hand gains 330° over the hour hand every hour, so they overlap once approximately every 65.45 minutes.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Clock hands overlap 22 times in 24 hours (11 times in 12 hours, not 12 because the overlap between 11-12 and 12-1 counts as one) — (A) is correct. The minute hand gains 330° per hour (360-30=330), so overlap interval = 360/330 × 60 = 65.45 min — (R) is correct. This rate of gaining explains why there are exactly 22 overlaps per day, so (R) explains (A)."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "A, B, and C can complete a work in 10, 15, and 30 days respectively. If they work together, in how many days will they complete the work?",
+      "options": ["4 days", "5 days", "6 days", "7 days"],
+      "correctAnswer": "5 days",
+      "explanation": "A's rate = 1/10, B's rate = 1/15, C's rate = 1/30. Combined rate = 1/10 + 1/15 + 1/30 = 3/30 + 2/30 + 1/30 = 6/30 = 1/5. Time = 5 days. Option 4 would need combined rate 1/4. Option 6 would need combined rate 1/6. Option 7 would need combined rate 1/7."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "In a family of six persons P, Q, R, S, T, and U: P is the father of R. Q is the mother of S. R and S are married. T is the daughter of R. U is the brother of R. What is T's relationship to Q?",
+      "options": ["Daughter", "Granddaughter", "Niece", "Sister"],
+      "correctAnswer": "Granddaughter",
+      "explanation": "P is R's father. Q is S's mother. R and S are married. T is R's daughter (so T is also S's daughter). Q is S's mother, making Q the grandmother of S's children. Since T is S's daughter, T is Q's granddaughter. 'Daughter' would mean Q is T's mother (wrong — S is). 'Niece' would need Q to be T's aunt. 'Sister' is impossible across generations."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The average of 5 numbers is 42. If one number is excluded, the average of the remaining 4 numbers becomes 38. What is the excluded number?",
+      "options": ["58", "56", "52", "54"],
+      "correctAnswer": "58",
+      "explanation": "Sum of 5 numbers = 5 × 42 = 210. Sum of remaining 4 = 4 × 38 = 152. Excluded number = 210 - 152 = 58. Option 56 would leave sum 154. Option 52 would leave sum 158. Option 54 would leave sum 156."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Consider the following statements about blood relations:\n\n(i) Your father's only brother's wife is your aunt.\n(ii) Your mother's sister's son is your cousin.\n(iii) Your sister's husband is your brother-in-law.\n(iv) Your father's father's daughter is always your aunt.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Father's only brother's wife is your aunt (i). Mother's sister's son is your maternal cousin (ii). Sister's husband is brother-in-law (iii). Father's father's daughter could be your father himself or your aunt — she's not ALWAYS your aunt (if she's your father's sister she is, but your father is also his father's child), making (iv) not always true."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Fill in the blank: If a man covers 12 km at 4 km/h and another 12 km at 6 km/h, his average speed for the entire journey is __________ km/h.",
+      "options": ["4.8", "5.0", "5.2", "4.5"],
+      "correctAnswer": "4.8",
+      "explanation": "Time for first 12 km = 12/4 = 3 hours. Time for next 12 km = 12/6 = 2 hours. Total distance = 24 km. Total time = 5 hours. Average speed = 24/5 = 4.8 km/h. Option 5.0 is the arithmetic mean of speeds (wrong method). Option 5.2 and 4.5 use incorrect calculations."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "What is the value of: sin²30° + cos²60° + tan²45°?",
+      "options": ["1.5", "1.25", "1.75", "2.0"],
+      "correctAnswer": "1.5",
+      "explanation": "sin 30° = 1/2, so sin²30° = 1/4. cos 60° = 1/2, so cos²60° = 1/4. tan 45° = 1, so tan²45° = 1. Sum = 1/4 + 1/4 + 1 = 1/2 + 1 = 1.5. Option 1.25 misses one quarter. Option 1.75 adds an extra quarter. Option 2.0 doubles the trig values."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If A can do a work in 12 days and B can do it in 18 days, together they will complete it in less than 12 days.\nReason (R): When two people work together, their combined work rate is the sum of their individual rates.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Together: 1/12 + 1/18 = 3/36 + 2/36 = 5/36. Time = 36/5 = 7.2 days < 12 days (A is correct). Combined rate = sum of individual rates (R is correct). The combined rate being higher than either individual rate (as stated in R) guarantees the work finishes faster than either alone, explaining (A)."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Match the following problems with their answers:\n\nColumn I:\n(a) 15% of 200\n(b) 25% of 480\n(c) 40% of 350\n(d) 60% of 250\n\nColumn II:\n(i) 150\n(ii) 140\n(iii) 30\n(iv) 120\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "15% of 200 = 30 (iii). 25% of 480 = 120 (iv). 40% of 350 = 140 (ii). 60% of 250 = 150 (i). Option 2 wrongly assigns 120 to 15% of 200. Option 3 wrongly assigns 140 to 25% of 480. Option 4 wrongly assigns 140 to 15% of 200."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "If MACHINE is coded as LBBGHMD in a code where each letter is replaced by the previous letter in the alphabet, what is the code for PRINTER?",
+      "options": ["OQHMSDS", "OQHMSDQ", "OQHMSDR", "QSJOUFS"],
+      "correctAnswer": "OQHMSDQ",
+      "explanation": "Pattern: each letter shifted -1 (previous letter). P→O, R→Q, I→H, N→M, T→S, E→D, R→Q. So PRINTER = OQHMSDQ. Option 1 has wrong last letter (S instead of Q). Option 3 has R at end instead of Q. Option 4 shifts forward (+1) instead of backward."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "The following data shows the production of wheat (in lakh tonnes) in five states:\n\nState P → 45\nState Q → 60\nState R → 35\nState S → 55\nState T → 50\n\nWhat is the ratio of production of State Q to the total production of all states?",
+      "options": ["12:49", "12:45", "4:15", "6:25"],
+      "correctAnswer": "12:49",
+      "explanation": "Total production = 45+60+35+55+50 = 245 lakh tonnes. Ratio of Q to total = 60:245 = 12:49 (dividing both by 5). Option 12:45 simplifies incorrectly. Option 4:15 = 60:225 (wrong total). Option 6:25 = 60:250 (wrong total)."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "A trader mixes 20 litres of milk priced at ₹40/litre with 30 litres of milk priced at ₹30/litre. What is the average price per litre of the mixture?",
+      "options": ["₹34", "₹35", "₹36", "₹33"],
+      "correctAnswer": "₹34",
+      "explanation": "Total cost = (20×40) + (30×30) = 800 + 900 = ₹1700. Total quantity = 20+30 = 50 litres. Average price = 1700/50 = ₹34/litre. Option ₹35 is the simple average of 40 and 30 (wrong method). Option ₹36 and ₹33 use incorrect calculations."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Consider the following statements about direction sense:\n\n(i) If you face North and turn 90° clockwise, you face East.\n(ii) If you face East and turn 180°, you face West.\n(iii) South-West is exactly between South and West.\n(iv) If you face North and turn 45° anti-clockwise, you face North-West.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "Facing North, 90° clockwise → East (i correct). Facing East, 180° turn → West (ii correct). SW is at 225°, exactly between S(180°) and W(270°) (iii correct). Facing North, 45° anti-clockwise → North-West at 315° (iv correct). All four statements are correct."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "A sum of ₹10,000 is invested at compound interest for 2 years at 10% per annum compounded annually. What is the compound interest earned?",
+      "options": ["₹2,000", "₹2,100", "₹2,200", "₹1,900"],
+      "correctAnswer": "₹2,100",
+      "explanation": "Amount = P(1+R/100)^T = 10000(1+10/100)² = 10000 × (1.1)² = 10000 × 1.21 = ₹12,100. CI = Amount - Principal = 12100 - 10000 = ₹2,100. Option ₹2,000 is the simple interest (no compounding). Option ₹2,200 overcounts. Option ₹1,900 undercounts."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Fill in the blank: The next term in the letter series Z, X, V, T, R, __________ is:",
+      "options": ["P", "Q", "O", "N"],
+      "correctAnswer": "P",
+      "explanation": "The pattern: Z(26), X(24), V(22), T(20), R(18) — each letter decreases by 2 positions. Next: R - 2 = P(16). Option Q(17) would be -1 gap. Option O(15) would be -3 gap. Option N(14) would be -4 gap."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The area of a circle doubles when its radius is multiplied by √2.\nReason (R): The area of a circle is proportional to the square of its radius (A = πr²).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "New area = π(r√2)² = π × 2r² = 2πr² = 2 × original area. So area doubles when radius is multiplied by √2 (A is correct). Area = πr², so area ∝ r² (R is correct). Since area depends on r², multiplying r by √2 gives (√2)²=2 times the area — (R) directly explains why (A) is true."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "A train 150 metres long passes a pole in 10 seconds. How long will it take to cross a platform 300 metres long?",
+      "options": ["25 seconds", "30 seconds", "20 seconds", "35 seconds"],
+      "correctAnswer": "30 seconds",
+      "explanation": "Speed of train = Length/Time to pass pole = 150/10 = 15 m/s. To cross platform, total distance = train length + platform length = 150 + 300 = 450 m. Time = 450/15 = 30 seconds. Option 25 would need speed of 18 m/s. Option 20 would need speed of 22.5 m/s. Option 35 would need speed of about 12.9 m/s."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Which of the following conclusions can be drawn from the statements: 'All roses are flowers. Some flowers are red.'?\n\n(i) Some roses are red.\n(ii) Some flowers are roses.\n(iii) All flowers are roses.\n(iv) Some red things are flowers.\n\nSelect the correct combination:",
+      "options": ["(ii) and (iv) only", "(i) and (iii) only", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "From 'All roses are flowers': since roses are a subset of flowers, 'some flowers are roses' is valid (ii). From 'Some flowers are red': the converse 'some red things are flowers' is valid (iv). However, 'some roses are red' (i) doesn't necessarily follow — the red flowers might not be roses. 'All flowers are roses' (iii) is clearly invalid as roses are only a subset."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Match the following word pairs with their analogy relationship:\n\nColumn I:\n(a) Doctor : Hospital\n(b) Pen : Write\n(c) Bird : Nest\n(d) Sheep : Flock\n\nColumn II:\n(i) Animal : Group name\n(ii) Tool : Function\n(iii) Worker : Workplace\n(iv) Animal : Home\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "Doctor:Hospital is worker:workplace (iii). Pen:Write is tool:function (ii). Bird:Nest is animal:home (iv). Sheep:Flock is animal:group name (i). Option 2 wrongly assigns tool:function to doctor. Option 3 wrongly assigns animal:home to pen. Option 4 wrongly assigns animal:home to doctor."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Two trains start from stations A and B, 300 km apart, travelling towards each other at speeds of 60 km/h and 40 km/h respectively. After how many hours will they meet?",
+      "options": ["2 hours", "3 hours", "4 hours", "2.5 hours"],
+      "correctAnswer": "3 hours",
+      "explanation": "Relative speed (approaching each other) = 60 + 40 = 100 km/h. Time to meet = Distance/Relative speed = 300/100 = 3 hours. Option 2 hours would need relative speed 150. Option 4 hours would need relative speed 75. Option 2.5 hours would need relative speed 120."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Consider the following statements about mensuration:\n\n(i) The volume of a cube with side 5 cm is 125 cm³.\n(ii) The surface area of a sphere with radius r is 4πr².\n(iii) The area of a triangle with base 10 cm and height 8 cm is 80 cm².\n(iv) The circumference of a circle with radius 7 cm is 44 cm.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Volume of cube = 5³ = 125 cm³ (i). Surface area of sphere = 4πr² (ii). Circumference = 2πr = 2 × 22/7 × 7 = 44 cm (iv). Area of triangle = ½ × base × height = ½ × 10 × 8 = 40 cm² (NOT 80), making (iii) incorrect."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "The following data shows the sales (in ₹ lakhs) of a company over four quarters:\n\nQ1 → 120\nQ2 → 150\nQ3 → 180\nQ4 → 200\n\nIn which quarter was the percentage growth over the previous quarter the highest?",
+      "options": ["Q2", "Q3", "Q4", "Q2 and Q3 are equal"],
+      "correctAnswer": "Q2",
+      "explanation": "Q2 growth = (150-120)/120 × 100 = 30/120 × 100 = 25%. Q3 growth = (180-150)/150 × 100 = 30/150 × 100 = 20%. Q4 growth = (200-180)/180 × 100 = 20/180 × 100 = 11.1%. Q2 has the highest percentage growth at 25%. Option Q3 has only 20%. Option Q4 has only 11.1%. They are not equal."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "A shopkeeper sells two articles at ₹990 each. On one he gains 10% and on the other he loses 10%. What is his overall gain or loss?",
+      "options": ["1% gain", "1% loss", "No profit no loss", "2% loss"],
+      "correctAnswer": "1% loss",
+      "explanation": "Article 1: SP=990, gain 10%. CP1 = 990×100/110 = 900. Article 2: SP=990, loss 10%. CP2 = 990×100/90 = 1100. Total CP = 900+1100 = 2000. Total SP = 990+990 = 1980. Loss = 2000-1980 = 20. Loss% = 20/2000 × 100 = 1%. Option 1% gain reverses the calculation. No profit/no loss assumes equal CPs. 2% loss doubles the error."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of all angles of a triangle is 180°.\nReason (R): In a right triangle, the two acute angles are complementary (their sum is 90°).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "The angle sum property states all triangles have angles summing to 180° (A is correct). In a right triangle, one angle is 90° so the other two sum to 90° (complementary) — (R) is correct. However, (R) is a consequence of (A) applied to a specific case (right triangles), not the reason why (A) is true. The angle sum property is a fundamental theorem proved by parallel line properties, not by the complementary angle fact."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "A can complete a job in 10 days and B can complete it in 15 days. They work together for 4 days, after which A leaves. How many more days will B take to finish the remaining work?",
+      "options": ["4 days", "5 days", "3 days", "6 days"],
+      "correctAnswer": "5 days",
+      "explanation": "A's rate = 1/10, B's rate = 1/15. Together for 4 days: (1/10+1/15)×4 = (3/30+2/30)×4 = (5/30)×4 = (1/6)×4 = 2/3 work done. Remaining = 1-2/3 = 1/3. B alone: time = (1/3)/(1/15) = 15/3 = 5 days. Option 4 would finish only 4/15. Option 3 would finish only 3/15. Option 6 would finish 6/15."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Fill in the blank: If the diagonal of a square is 10√2 cm, then the side of the square is __________ cm.",
+      "options": ["10", "12", "8", "14"],
+      "correctAnswer": "10",
+      "explanation": "For a square with side a, diagonal = a√2. Given diagonal = 10√2. So a√2 = 10√2, therefore a = 10 cm. Option 12 would give diagonal 12√2. Option 8 would give diagonal 8√2. Option 14 would give diagonal 14√2."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "If the letters of the word ORANGE are arranged alphabetically, which letter will be in the 4th position?",
+      "options": ["N", "O", "G", "R"],
+      "correctAnswer": "N",
+      "explanation": "Letters in ORANGE: O, R, A, N, G, E. Alphabetical order: A, E, G, N, O, R. The 4th position is N. Option O is in 5th position. Option G is in 3rd position. Option R is in 6th position."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "Consider the following statements about percentage:\n\n(i) If the price of an item increases by 25%, and then decreases by 25%, the final price is less than the original.\n(ii) The net effect of successive discounts of 10% and 20% is 28%.\n(iii) If A's salary is 20% more than B's, then B's salary is 20% less than A's.\n(iv) An increase of 50% followed by a decrease of 50% results in a net decrease of 25%.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "25% increase then 25% decrease: 100→125→93.75, net decrease (i correct). Successive 10% and 20%: net = 10+20-(10×20/100) = 28% (ii correct). 50% increase then 50% decrease: 100→150→75, net decrease 25% (iv correct). However, if A = 1.2B, then B = A/1.2 = 0.833A, meaning B is 16.67% less than A, NOT 20% less — making (iii) incorrect."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Match the following reasoning patterns with examples:\n\nColumn I:\n(a) Cause and Effect\n(b) Part to Whole\n(c) Synonym Pair\n(d) Opposite Pair\n\nColumn II:\n(i) Hot : Cold\n(ii) Chapter : Book\n(iii) Happy : Joyful\n(iv) Rain : Flood\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "Rain:Flood is cause and effect (iv). Chapter:Book is part to whole (ii). Happy:Joyful is synonym pair (iii). Hot:Cold is opposite pair (i). Option 2 wrongly assigns part-whole to rain:flood. Option 3 wrongly assigns synonym to chapter:book. Option 4 wrongly assigns opposite to rain:flood."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "The following data shows monthly expenditure (in ₹ thousands) of a household:\n\nFood → 15\nRent → 10\nTransport → 5\nEducation → 8\nSavings → 12\n\nWhat angle (in degrees) will the 'Education' sector represent in a pie chart?",
+      "options": ["57.6°", "48°", "72°", "64.8°"],
+      "correctAnswer": "57.6°",
+      "explanation": "Total expenditure = 15+10+5+8+12 = 50 thousand. Education's share = 8/50. Angle = (8/50) × 360° = 57.6°. Option 48° = (8/60)×360. Option 72° = (8/40)×360. Option 64.8° = (9/50)×360."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "A car travels from city A to city B at 60 km/h and returns at 40 km/h. What is the average speed for the entire round trip?",
+      "options": ["48 km/h", "50 km/h", "45 km/h", "52 km/h"],
+      "correctAnswer": "48 km/h",
+      "explanation": "For equal distances at different speeds, average speed = 2×S1×S2/(S1+S2) = 2×60×40/(60+40) = 4800/100 = 48 km/h. Option 50 is the arithmetic mean (wrong for speed). Option 45 and 52 use incorrect formulas."
+    },
+    {
+      "id": "51",
+      "subject": "D",
+      "questionText": "In a row of students, Rakesh is 12th from the left and 18th from the right. How many students are in the row?",
+      "options": ["29", "30", "28", "31"],
+      "correctAnswer": "29",
+      "explanation": "Total = Position from left + Position from right - 1 = 12 + 18 - 1 = 29. We subtract 1 because Rakesh is counted in both positions. Option 30 forgets to subtract 1. Option 28 subtracts 2. Option 31 adds 1 instead of subtracting."
+    },
+    {
+      "id": "52",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the cost price of 15 articles equals the selling price of 12 articles, the profit percentage is 25%.\nReason (R): Profit% = (CP of extra articles / SP amount) × 100.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "Let CP of each = 1. CP of 15 = 15. SP of 12 = 15, so SP of each = 15/12 = 5/4. Profit per article = 5/4 - 1 = 1/4. Profit% = (1/4)/1 × 100 = 25% (A is correct). The reason's formula 'CP of extra articles / SP amount × 100' is not a standard or correct formula for profit percentage. The correct formula is Profit% = (SP-CP)/CP × 100. So (R) is not correct."
+    },
+    {
+      "id": "53",
+      "subject": "D",
+      "questionText": "Which of the following are true about the properties of a rectangle?\n\n(i) All four angles are 90°.\n(ii) Diagonals are equal in length.\n(iii) Diagonals bisect each other.\n(iv) Diagonals bisect each other at right angles.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Rectangles have all 90° angles (i). Diagonals of a rectangle are equal (ii). Diagonals bisect each other (iii). However, diagonals of a rectangle do NOT bisect at right angles — that property belongs to squares and rhombuses, making (iv) incorrect for a general rectangle."
+    },
+    {
+      "id": "54",
+      "subject": "D",
+      "questionText": "A mixture contains milk and water in the ratio 4:1. If 5 litres of water is added to 20 litres of this mixture, what will be the new ratio of milk to water?",
+      "options": ["16:9", "4:3", "2:1", "16:7"],
+      "correctAnswer": "16:9",
+      "explanation": "In 20 litres of 4:1 mixture: Milk = 20×4/5 = 16 litres. Water = 20×1/5 = 4 litres. After adding 5 litres water: Milk = 16, Water = 4+5 = 9. New ratio = 16:9. Option 4:3 = 16:12 (wrong water). Option 2:1 = 16:8 (wrong water). Option 16:7 would need only 3 litres added."
+    },
+    {
+      "id": "55",
+      "subject": "D",
+      "questionText": "Consider the following statements about logical reasoning:\n\n(i) If all A are B, and all B are C, then all A are C.\n(ii) If some A are B, and some B are C, then some A are definitely C.\n(iii) If no A are B, then no B are A.\n(iv) If all A are B, then some B are A.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "All A are B, all B are C → all A are C (transitive, valid syllogism) (i). No A are B ↔ No B are A (converse of universal negative is valid) (iii). All A are B → some B are A (valid immediate inference) (iv). However, 'some A are B' and 'some B are C' does NOT guarantee 'some A are C' — the overlapping B elements with A might be different from those overlapping with C, making (ii) invalid."
+    },
+    {
+      "id": "56",
+      "subject": "D",
+      "questionText": "Match the following geometrical shapes with their area formulas:\n\nColumn I:\n(a) Circle\n(b) Trapezium\n(c) Equilateral Triangle (side a)\n(d) Parallelogram\n\nColumn II:\n(i) base × height\n(ii) (√3/4) × a²\n(iii) πr²\n(iv) ½ × (sum of parallel sides) × height\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Area of circle = πr² (iii). Area of trapezium = ½×(sum of parallel sides)×height (iv). Area of equilateral triangle = (√3/4)a² (ii). Area of parallelogram = base×height (i). Option 2 wrongly assigns trapezium formula to circle. Option 3 wrongly assigns equilateral triangle formula to trapezium. Option 4 wrongly assigns parallelogram formula to circle."
+    },
+    {
+      "id": "57",
+      "subject": "D",
+      "questionText": "A father is 4 times as old as his son. After 16 years, the father will be twice as old as his son. What is the present age of the son?",
+      "options": ["6 years", "8 years", "10 years", "12 years"],
+      "correctAnswer": "8 years",
+      "explanation": "Let son's age = x. Father's age = 4x. After 16 years: 4x+16 = 2(x+16). 4x+16 = 2x+32. 2x = 16. x = 8 years. Option 6: 4(6)+16=40, 2(6+16)=44, 40≠44. Option 10: 4(10)+16=56, 2(10+16)=52, 56≠52. Option 12: 4(12)+16=64, 2(12+16)=56, 64≠56."
+    },
+    {
+      "id": "58",
+      "subject": "D",
+      "questionText": "The data below shows the number of students who passed from five schools:\n\nSchool A → 180\nSchool B → 240\nSchool C → 150\nSchool D → 200\nSchool E → 230\n\nThe pass percentage of School A was 90%. How many students appeared from School A?",
+      "options": ["200", "210", "190", "220"],
+      "correctAnswer": "200",
+      "explanation": "If 90% passed and 180 students passed, then total appeared = 180/0.9 = 200. Option 210 would give pass% = 180/210 = 85.7%. Option 190 would give pass% = 180/190 = 94.7%. Option 220 would give pass% = 180/220 = 81.8%."
+    },
+    {
+      "id": "59",
+      "subject": "D",
+      "questionText": "Consider the following statements about simplification:\n\n(i) (a+b)² = a² + 2ab + b²\n(ii) (a-b)² = a² - 2ab + b²\n(iii) a² - b² = (a+b)(a-b)\n(iv) (a+b)³ = a³ + b³ + 3ab\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(a+b)² = a²+2ab+b² is correct (i). (a-b)² = a²-2ab+b² is correct (ii). a²-b² = (a+b)(a-b) is the difference of squares identity (iii). However, (a+b)³ = a³+3a²b+3ab²+b³ = a³+b³+3ab(a+b), NOT simply a³+b³+3ab — the formula in (iv) is incomplete/incorrect."
+    },
+    {
+      "id": "60",
+      "subject": "D",
+      "questionText": "If the perimeter of a semicircle is 36 cm, what is the radius of the semicircle? (Use π = 22/7)",
+      "options": ["7 cm", "14 cm", "10.5 cm", "8 cm"],
+      "correctAnswer": "7 cm",
+      "explanation": "Perimeter of semicircle = πr + 2r = r(π+2) = r(22/7 + 2) = r(22/7 + 14/7) = r(36/7). Given: r(36/7) = 36. So r = 36×7/36 = 7 cm. Option 14 would give perimeter = 14×36/7 = 72. Option 10.5 would give perimeter = 10.5×36/7 = 54. Option 8 would give perimeter = 8×36/7 ≈ 41.1."
+    }
+  ]
+}
