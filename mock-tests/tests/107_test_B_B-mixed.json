@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "B",
       "questionText": "The Jallianwala Bagh massacre took place in which city and in which year?",
-      "options": ["Amritsar, 1919", "Lahore, 1920", "Delhi, 1918", "Lucknow, 1921"],
+      "options": [
+        "Amritsar, 1919",
+        "Lahore, 1920",
+        "Delhi, 1918",
+        "Lucknow, 1921"
+      ],
       "correctAnswer": "Amritsar, 1919",
       "explanation": "The Jallianwala Bagh massacre occurred on 13 April 1919 in Amritsar, Punjab, when General Dyer ordered troops to fire on a peaceful gathering. Lahore is in present-day Pakistan. Delhi and Lucknow were not the sites. 1920 and 1921 are incorrect years."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "B",
       "questionText": "Consider the following statements about the Panchayati Raj system in India:\n\n(i) It was constitutionalized by the 73rd Constitutional Amendment Act, 1992.\n(ii) It provides for a three-tier system: Gram Panchayat, Panchayat Samiti, and Zila Parishad.\n(iii) One-third of seats are reserved for women.\n(iv) Panchayat elections are conducted by the State Election Commission.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "(i), (ii) and (iv) only"],
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "The 73rd Amendment (1992) constitutionalized Panchayati Raj (i correct). Three tiers: village, intermediate, district (ii correct). Minimum one-third seats reserved for women (iii correct). State Election Commissions conduct panchayat elections (iv correct). All four are factually accurate."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India follows a 'First Past the Post' (FPTP) electoral system for Lok Sabha elections.\nReason (R): In FPTP, the candidate with the most votes in a constituency wins, regardless of whether they achieve a majority of total votes cast.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — India uses FPTP for Lok Sabha and state assembly elections. Reason (R) is correct — in FPTP, the candidate with plurality (most votes) wins without needing 50%+. The definition in (R) directly describes how the FPTP system in (A) works. Option B is wrong because (R) defines the system. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "B",
       "questionText": "Match the following revolutions in India with their associated leaders:\n\nColumn I:\n(a) Green Revolution\n(b) White Revolution (Operation Flood)\n(c) Blue Revolution\n(d) Yellow Revolution\n\nColumn II:\n(i) Sam Pitroda (oilseeds)\n(ii) M.S. Swaminathan\n(iii) Dr. Verghese Kurien\n(iv) Dr. Hiralal Chaudhuri (fish)\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
       "explanation": "Green Revolution — M.S. Swaminathan (father of Indian Green Revolution) (a-ii). White Revolution — Dr. Verghese Kurien (father of White Revolution/Amul) (b-iii). Blue Revolution — Dr. Hiralal Chaudhuri (fish farming/aquaculture) (c-iv). Yellow Revolution — Sam Pitroda is associated with telecom; the Yellow Revolution (oilseeds) is associated with multiple figures (d-i). Option B swaps Green with White. Option C mismatches White with Blue. Option D incorrectly pairs Green with Blue."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "B",
       "questionText": "Which of the following are Fundamental Duties under Article 51A of the Indian Constitution?\n\n(i) To abide by the Constitution and respect the National Flag and National Anthem.\n(ii) To promote harmony and common brotherhood among all people of India.\n(iii) To pay income tax regularly.\n(iv) To protect and improve the natural environment.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv) only",
       "explanation": "Respecting Constitution, Flag, and Anthem is a Fundamental Duty (i correct). Promoting harmony and brotherhood is a Duty (ii correct). Protecting the natural environment is a Duty (iv correct). Paying income tax (iii) is NOT listed as a Fundamental Duty — it is a legal obligation under tax law but not in Article 51A."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "B",
       "questionText": "The Right to Education Act (RTE) was enacted in which year, and what age group does it cover?",
-      "options": ["2009, children aged 6-14 years", "2005, children aged 5-14 years", "2010, children aged 6-16 years", "2012, children aged 5-15 years"],
+      "options": [
+        "2009, children aged 6-14 years",
+        "2005, children aged 5-14 years",
+        "2010, children aged 6-16 years",
+        "2012, children aged 5-15 years"
+      ],
       "correctAnswer": "2009, children aged 6-14 years",
       "explanation": "The Right of Children to Free and Compulsory Education Act was enacted in 2009 (came into force April 2010). It covers children aged 6-14 years. 2005 is when the 86th Amendment was passed (not the Act itself). Other age ranges are incorrect."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "B",
       "questionText": "Consider the following statements about India's space programme:\n\n(i) ISRO was founded in 1969.\n(ii) India's first satellite Aryabhata was launched in 1975.\n(iii) Chandrayaan-3 achieved a soft landing on the Moon's south polar region in 2023.\n(iv) India's first crewed space mission Gaganyaan was completed in 2022.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "ISRO was established on 15 August 1969 (i correct). Aryabhata was launched on 19 April 1975 with Soviet help (ii correct). Chandrayaan-3 landed on 23 August 2023 near the south pole (iii correct). Statement (iv) is incorrect — Gaganyaan has NOT been completed; it is still under development with test flights ongoing."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Indian monsoon is crucial for Indian agriculture.\nReason (R): About 52% of India's agricultural land is rain-fed (without irrigation), making it heavily dependent on monsoon rainfall for crop production.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — monsoon is vital for Indian agriculture. Reason (R) is correct — over half of farmland depends on rain, not irrigation. The high dependence on rainfall (R) directly explains why monsoon is crucial (A). Option B is wrong because (R) explains the dependence. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "B",
       "questionText": "Match the following international organizations with their headquarters:\n\nColumn I:\n(a) WTO\n(b) SAARC\n(c) ASEAN\n(d) BRICS (New Development Bank)\n\nColumn II:\n(i) Jakarta, Indonesia\n(ii) Kathmandu, Nepal\n(iii) Geneva, Switzerland\n(iv) Shanghai, China\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
       "explanation": "WTO is headquartered in Geneva (a-iii). SAARC secretariat is in Kathmandu (b-ii). ASEAN secretariat is in Jakarta (c-i). BRICS New Development Bank is in Shanghai (d-iv). Option B swaps WTO with SAARC. Option C mismatches SAARC with ASEAN. Option D incorrectly places WTO in Shanghai."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "B",
       "questionText": "The Goods and Services Tax (GST) was implemented in India from which date?",
-      "options": ["1 July 2017", "1 April 2016", "1 January 2018", "1 April 2017"],
+      "options": [
+        "1 July 2017",
+        "1 April 2016",
+        "1 January 2018",
+        "1 April 2017"
+      ],
       "correctAnswer": "1 July 2017",
       "explanation": "GST was launched at midnight on 1 July 2017 in a special Parliament session. 1 April 2016 is incorrect. 1 January 2018 is too late. 1 April 2017 is not the correct date — it was specifically midnight of 30 June/1 July 2017."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "B",
       "questionText": "Consider the following statements about SAARC:\n\n(i) It was established in 1985 with headquarters in Kathmandu.\n(ii) It has 8 member countries.\n(iii) India, Pakistan, and China are its founding members.\n(iv) Its objective is to promote economic and social development in South Asia.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "SAARC was established on 8 December 1985 with HQ in Kathmandu (i correct). It has 8 members: India, Pakistan, Bangladesh, Nepal, Sri Lanka, Bhutan, Maldives, Afghanistan (ii correct). Its objective is regional socio-economic cooperation (iv correct). Statement (iii) is incorrect — CHINA is NOT a SAARC member (it's an observer). All 7 original members are South Asian; Afghanistan joined later."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "B",
       "questionText": "Which of the following is the longest river in peninsular India?",
-      "options": ["Godavari", "Krishna", "Narmada", "Kaveri"],
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Narmada",
+        "Kaveri"
+      ],
       "correctAnswer": "Godavari",
       "explanation": "Godavari (~1,465 km) is the longest river in peninsular India, often called 'Dakshin Ganga'. Krishna (~1,400 km) is second longest in the peninsula. Narmada (~1,312 km) is third. Kaveri (~805 km) is much shorter. Godavari clearly leads."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India is the world's largest democracy.\nReason (R): India has the highest number of eligible voters (over 960 million) and conducts regular free elections through an independent Election Commission.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — India is the world's largest democracy by population. Reason (R) is correct — the massive electorate and functioning democratic institutions support this claim. The voter numbers and free elections (R) substantiate the 'largest democracy' claim (A). Option B is wrong because (R) provides the evidence. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "B",
       "questionText": "Match the following national parks with the animals they are primarily known for:\n\nColumn I:\n(a) Jim Corbett\n(b) Kaziranga\n(c) Gir\n(d) Hemis\n\nColumn II:\n(i) Asiatic Lion\n(ii) Snow Leopard\n(iii) Bengal Tiger\n(iv) One-horned Rhinoceros\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Jim Corbett (Uttarakhand) — Bengal Tiger (a-iii). Kaziranga (Assam) — One-horned Rhinoceros (b-iv). Gir (Gujarat) — Asiatic Lion (c-i). Hemis (Ladakh) — Snow Leopard (d-ii). Option B swaps Corbett with Kaziranga. Option C mismatches Kaziranga with Gir. Option D incorrectly pairs Corbett with Snow Leopard."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "B",
       "questionText": "Which of the following are correctly paired (Award — Field)?\n\n(i) Dronacharya Award — Outstanding coaches in sports\n(ii) Arjuna Award — Outstanding sportspersons\n(iii) Shanti Swarup Bhatnagar — Science and Technology\n(iv) Dadasaheb Phalke Award — Literature\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Dronacharya — for outstanding coaches (i correct). Arjuna — for outstanding sportspersons (ii correct). Shanti Swarup Bhatnagar — for science and technology (iii correct). Dadasaheb Phalke (iv) is for CINEMA (outstanding contribution to Indian cinema), NOT literature. Literature awards include Sahitya Akademi and Jnanpith."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "B",
       "questionText": "The MGNREGA (Mahatma Gandhi National Rural Employment Guarantee Act) guarantees how many days of employment per year?",
-      "options": ["100 days", "150 days", "200 days", "75 days"],
+      "options": [
+        "100 days",
+        "150 days",
+        "200 days",
+        "75 days"
+      ],
       "correctAnswer": "100 days",
       "explanation": "MGNREGA guarantees 100 days of wage employment per financial year to every rural household whose adult members volunteer to do unskilled manual work. 150 and 200 days are too high. 75 days is too low. The number 100 is a defining feature of the Act."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Supreme Court is the apex court of the Indian judicial system.\n(ii) High Courts exist at the state level.\n(iii) The Chief Justice of India is appointed by the President on the recommendation of the outgoing CJI.\n(iv) The Supreme Court has both original and appellate jurisdiction.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "The Supreme Court is apex (i correct). High Courts operate at state level (ii correct). CJI appointment involves the collegium system with outgoing CJI's recommendation to the President (iii correct — through convention/collegium). SC has original jurisdiction (disputes between states/Centre) and appellate jurisdiction (appeals from HCs) (iv correct). All are accurate."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "B",
       "questionText": "Fill in the blank: The __________ is India's central bank, responsible for monetary policy and currency regulation.",
-      "options": ["Reserve Bank of India", "State Bank of India", "NABARD", "SEBI"],
+      "options": [
+        "Reserve Bank of India",
+        "State Bank of India",
+        "NABARD",
+        "SEBI"
+      ],
       "correctAnswer": "Reserve Bank of India",
       "explanation": "RBI is India's central bank managing monetary policy, currency issue, and banking regulation. SBI is a commercial bank (largest PSU bank). NABARD handles agricultural/rural development finance. SEBI regulates the securities market. Only RBI is the central bank."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Tropic of Cancer passes through 8 states of India.\nReason (R): The Tropic of Cancer (23.5°N latitude) passes through Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — the Tropic of Cancer passes through 8 Indian states. Reason (R) is correct — it accurately lists all 8 states from west to east. The named states (R) prove the count of 8 in (A). Option B is wrong because the list validates the count. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "B",
       "questionText": "Match the following dances with their states of origin:\n\nColumn I:\n(a) Bharatanatyam\n(b) Kathakali\n(c) Odissi\n(d) Manipuri\n\nColumn II:\n(i) Odisha\n(ii) Tamil Nadu\n(iii) Manipur\n(iv) Kerala\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "Bharatanatyam is from Tamil Nadu (a-ii). Kathakali is from Kerala (b-iv). Odissi is from Odisha (c-i). Manipuri is from Manipur (d-iii). Option B swaps Tamil Nadu with Kerala. Option C mismatches Kerala with Odisha. Option D incorrectly pairs Bharatanatyam with Manipur."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian economy after 1991 liberalization:\n\n(i) FDI was liberalized in many sectors.\n(ii) The License Raj was largely dismantled.\n(iii) The public sector was given an even larger commanding role.\n(iv) Import restrictions were significantly reduced.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "FDI was opened up in many sectors after 1991 (i correct). The License Raj was dismantled — most industries no longer needed licenses (ii correct). Import restrictions were eased significantly (iv correct). Statement (iii) is incorrect — the 1991 reforms REDUCED the public sector's dominant role through privatization and disinvestment, not increased it."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "B",
       "questionText": "Who among the following was the first President of India?",
-      "options": ["Dr. Rajendra Prasad", "Dr. S. Radhakrishnan", "Jawaharlal Nehru", "B.R. Ambedkar"],
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Jawaharlal Nehru",
+        "B.R. Ambedkar"
+      ],
       "correctAnswer": "Dr. Rajendra Prasad",
       "explanation": "Dr. Rajendra Prasad was India's first President (1950-1962) and served two terms. Dr. S. Radhakrishnan was the second President. Jawaharlal Nehru was the first Prime Minister. B.R. Ambedkar chaired the Drafting Committee but was never President."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "B",
       "questionText": "Which of the following correctly describes the 'Directive Principles of State Policy'?\n\n(i) They are contained in Part IV of the Constitution.\n(ii) They are NOT enforceable in courts.\n(iii) They provide guidelines for governance to achieve social and economic justice.\n(iv) They were borrowed from the Irish Constitution.\n\nSelect the correct combination:",
-      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "DPSPs are in Part IV (Articles 36-51) (i correct). They are non-justiciable — courts cannot enforce them (ii correct). They guide the state toward social/economic democracy (iii correct). They were inspired by the Irish Constitution which borrowed from the Spanish Constitution (iv correct). All four are accurate."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India has a quasi-federal structure.\nReason (R): While India has federal features (division of powers, independent judiciary), it also has strong unitary features (single citizenship, emergency powers, Governor system) tilting the balance toward the Centre.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — India is described as 'quasi-federal' or 'federal with unitary tilt'. Reason (R) is correct — it accurately lists both federal and unitary features. The mix of features described in (R) is what creates the 'quasi-federal' characterization (A). Option B is wrong because (R) defines quasi-federalism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "B",
       "questionText": "Match the following Five Year Plans with their key focus areas:\n\nColumn I:\n(a) First Five Year Plan (1951-56)\n(b) Second Five Year Plan (1956-61)\n(c) Fourth Five Year Plan (1969-74)\n(d) Eighth Five Year Plan (1992-97)\n\nColumn II:\n(i) Human resource development and liberalization\n(ii) Agriculture and irrigation\n(iii) Growth with stability and self-reliance\n(iv) Rapid industrialization (Mahalanobis model)\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "First Plan focused on agriculture/irrigation (a-ii). Second Plan used the Mahalanobis model for rapid industrialization (b-iv). Fourth Plan aimed for growth with stability and self-reliance (c-iii). Eighth Plan focused on human resources and was implemented during LPG reforms (d-i). Option B swaps First with Second. Option C mismatches Second with Fourth. Option D incorrectly pairs First with Fourth."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "B",
       "questionText": "Consider the following statements about India's nuclear programme:\n\n(i) India conducted its first nuclear test (Smiling Buddha) in 1974 at Pokhran.\n(ii) India conducted Pokhran-II nuclear tests in 1998.\n(iii) India has signed the Nuclear Non-Proliferation Treaty (NPT).\n(iv) India maintains a 'No First Use' nuclear doctrine.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "India's first nuclear test was on 18 May 1974 at Pokhran (i correct). Pokhran-II (Operation Shakti) was in May 1998 (ii correct). India maintains No First Use policy (iv correct). Statement (iii) is incorrect — India has NOT signed the NPT, considering it discriminatory. India is a non-signatory nuclear weapons state."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "B",
       "questionText": "The Chipko Movement of the 1970s was primarily associated with:",
-      "options": ["Conservation of forests in Uttarakhand", "Anti-dam protests in Narmada Valley", "Wildlife protection in Rajasthan", "Anti-mining movement in Jharkhand"],
+      "options": [
+        "Conservation of forests in Uttarakhand",
+        "Anti-dam protests in Narmada Valley",
+        "Wildlife protection in Rajasthan",
+        "Anti-mining movement in Jharkhand"
+      ],
       "correctAnswer": "Conservation of forests in Uttarakhand",
       "explanation": "The Chipko Movement (1973 onwards) involved villagers in Uttarakhand (then UP hills) hugging trees to prevent their felling by contractors. Anti-dam is the Narmada Bachao Andolan. Wildlife protection in Rajasthan relates to Bishnoi community. Anti-mining in Jharkhand is separate. Chipko is specifically about forest conservation."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "B",
       "questionText": "Fill in the blank: The __________ Amendment to the Constitution lowered the voting age from 21 to 18 years.",
-      "options": ["61st", "73rd", "42nd", "44th"],
+      "options": [
+        "61st",
+        "73rd",
+        "42nd",
+        "44th"
+      ],
       "correctAnswer": "61st",
       "explanation": "The 61st Constitutional Amendment Act, 1988 reduced the voting age from 21 to 18 years. The 73rd Amendment deals with Panchayati Raj. The 42nd is called the 'Mini Constitution' amendment. The 44th restored many freedoms curtailed during Emergency."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Bhakra-Nangal Dam on the Sutlej River is one of India's largest multipurpose river valley projects.\nReason (R): It provides irrigation, hydroelectric power generation, and flood control for the states of Punjab, Haryana, and Rajasthan.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — Bhakra-Nangal is among India's largest multipurpose projects. Reason (R) is correct — it serves irrigation, power, and flood control for multiple states. The multiple purposes described in (R) are what make it a multipurpose project (A). Option B is wrong because (R) explains its multipurpose nature. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "B",
       "questionText": "Which of the following sports trophies are correctly matched?\n\n(i) Davis Cup — Tennis\n(ii) Thomas Cup — Badminton\n(iii) Ranji Trophy — Cricket\n(iv) Durand Cup — Hockey\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Davis Cup — Tennis (men's team) (i correct). Thomas Cup — Badminton (men's team) (ii correct). Ranji Trophy — domestic first-class Cricket (iii correct). Durand Cup (iv) is for FOOTBALL, not Hockey. Hockey has trophies like Beighton Cup and Nehru Trophy. Options B and D incorrectly include Durand Cup-Hockey."
     },
@@ -247,7 +397,12 @@
       "id": "31",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian Parliament:\n\n(i) A Money Bill can only be introduced in the Lok Sabha.\n(ii) The Rajya Sabha can delay a Money Bill for a maximum of 14 days.\n(iii) Joint sitting of both Houses can resolve deadlocks on ordinary bills.\n(iv) Constitutional Amendment Bills require a special majority in both Houses.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "Money Bills are introduced only in Lok Sabha (i correct). Rajya Sabha has only 14 days to suggest amendments for Money Bills (ii correct). Joint sitting under Article 108 resolves deadlocks on ordinary bills (iii correct). Constitutional amendments need special majority (2/3 of members present and voting + majority of total membership) in both houses (iv correct)."
     },
@@ -255,7 +410,12 @@
       "id": "32",
       "subject": "B",
       "questionText": "Match the following rivers with the cities located on their banks:\n\nColumn I:\n(a) Ganga\n(b) Yamuna\n(c) Musi\n(d) Sabarmati\n\nColumn II:\n(i) Ahmedabad\n(ii) Hyderabad\n(iii) Varanasi\n(iv) Agra\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "Varanasi is on the Ganga (a-iii). Agra is on the Yamuna (b-iv). Hyderabad is on the Musi (c-ii). Ahmedabad is on the Sabarmati (d-i). Option B swaps Ganga cities. Option C mismatches Yamuna with Musi. Option D incorrectly pairs Ganga with Sabarmati."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "B",
       "questionText": "The 'Swadeshi Movement' was a response to which British action?",
-      "options": ["Partition of Bengal (1905)", "Jallianwala Bagh Massacre (1919)", "Rowlatt Act (1919)", "Salt Tax"],
+      "options": [
+        "Partition of Bengal (1905)",
+        "Jallianwala Bagh Massacre (1919)",
+        "Rowlatt Act (1919)",
+        "Salt Tax"
+      ],
       "correctAnswer": "Partition of Bengal (1905)",
       "explanation": "The Swadeshi Movement was launched in 1905 in response to Lord Curzon's partition of Bengal, which was seen as a divide-and-rule tactic. Jallianwala Bagh (1919) led to Non-Cooperation. Rowlatt Act triggered hartals. Salt Tax inspired the Salt March (1930). Only Bengal Partition sparked Swadeshi."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "B",
       "questionText": "Consider the following statements about climate zones in India:\n\n(i) India has tropical monsoon climate in most parts.\n(ii) The Thar Desert has a hot desert climate.\n(iii) The Western Ghats receive heavy rainfall due to orographic effect.\n(iv) Ladakh has a tropical wet climate.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Most of India experiences tropical monsoon climate (i correct). Thar Desert has hot arid/desert climate (ii correct). Western Ghats force moist winds upward causing heavy orographic rainfall (iii correct). Statement (iv) is incorrect — Ladakh has a COLD DESERT climate (high altitude, very low rainfall), NOT tropical wet."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Indian Constitution provides for an independent judiciary.\nReason (R): Judges of the Supreme Court and High Courts have security of tenure, cannot have their salaries reduced during their term, and are appointed through a collegium system rather than by the executive alone.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — judiciary is independent in India. Reason (R) is correct — security of tenure, salary protection, and collegium appointment all ensure independence from executive interference. These safeguards (R) directly enable judicial independence (A). Option B is wrong because (R) lists the mechanisms of independence. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "B",
       "questionText": "The 'Look East Policy' (now 'Act East Policy') of India primarily aims at:",
-      "options": ["Strengthening ties with Southeast Asian and East Asian nations", "Developing eastern Indian states economically", "Establishing military bases in eastern countries", "Importing goods exclusively from China"],
+      "options": [
+        "Strengthening ties with Southeast Asian and East Asian nations",
+        "Developing eastern Indian states economically",
+        "Establishing military bases in eastern countries",
+        "Importing goods exclusively from China"
+      ],
       "correctAnswer": "Strengthening ties with Southeast Asian and East Asian nations",
       "explanation": "The Act East Policy (upgraded from Look East in 2014) aims to deepen India's engagement with ASEAN and East Asian countries through trade, culture, and strategic partnerships. 'Developing eastern states' is a domestic policy goal. 'Military bases' is not the policy's aim. 'Importing from China' is too narrow and inaccurate."
     },
@@ -295,7 +475,12 @@
       "id": "37",
       "subject": "B",
       "questionText": "Match the following Constitutional bodies with their functions:\n\nColumn I:\n(a) Election Commission\n(b) Comptroller and Auditor General\n(c) Union Public Service Commission\n(d) Finance Commission\n\nColumn II:\n(i) Conducts examinations for central government services\n(ii) Recommends distribution of revenues between Centre and States\n(iii) Audits government accounts\n(iv) Conducts elections to Parliament and state legislatures\n\nChoose the correct match:",
-      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"],
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
       "explanation": "Election Commission conducts elections (a-iv). CAG audits government finances (b-iii). UPSC recruits for central services (c-i). Finance Commission recommends revenue sharing (d-ii). Option B swaps EC with CAG. Option C mismatches CAG with UPSC. Option D incorrectly pairs EC with Finance Commission."
     },
@@ -303,7 +488,12 @@
       "id": "38",
       "subject": "B",
       "questionText": "Consider the following statements about Indian foreign trade:\n\n(i) India's largest trading partner by value is the United States.\n(ii) India exports IT services, pharmaceuticals, textiles, and gems.\n(iii) India imports crude oil, gold, and electronic goods.\n(iv) India has always had a trade surplus (exports > imports).\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "The US is among India's largest trading partners by combined trade value (i correct — though China competes closely). India exports IT/ITES, pharma, textiles, gems & jewellery (ii correct). India imports crude oil, gold, electronics (iii correct). Statement (iv) is incorrect — India has consistently had a TRADE DEFICIT (imports > exports) in merchandise, partially offset by services exports."
     },
@@ -311,7 +501,12 @@
       "id": "39",
       "subject": "B",
       "questionText": "Fill in the blank: The __________ Games, often called the 'Olympics of Asia', are held every four years among Asian nations.",
-      "options": ["Asian", "Commonwealth", "South Asian", "Olympic"],
+      "options": [
+        "Asian",
+        "Commonwealth",
+        "South Asian",
+        "Olympic"
+      ],
       "correctAnswer": "Asian",
       "explanation": "The Asian Games (Asiad) are the multi-sport event for Asian nations held every 4 years, often called 'Olympics of Asia'. Commonwealth Games involve former British colonies globally. South Asian Games are smaller (SAARC nations). Olympic Games are global, not Asian-specific."
     },
@@ -319,7 +514,12 @@
       "id": "40",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India abolished the Planning Commission in 2015 and replaced it with NITI Aayog.\nReason (R): NITI Aayog was created as a policy think tank to promote cooperative federalism and provide strategic guidance, moving away from centralized top-down planning.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — Planning Commission was replaced by NITI Aayog on 1 January 2015. Reason (R) is correct — NITI Aayog was designed as a think tank promoting cooperative federalism and bottom-up planning. The new approach (R) explains why the replacement happened (A). Option B is wrong because (R) explains the rationale. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -327,15 +527,25 @@
       "id": "41",
       "subject": "B",
       "questionText": "Consider the following statements about ASEAN:\n\n(i) ASEAN was established in 1967.\n(ii) Its secretariat is located in Jakarta, Indonesia.\n(iii) India is a full member of ASEAN.\n(iv) It currently has 10 member countries.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "ASEAN was founded on 8 August 1967 (i correct). Its secretariat is in Jakarta (ii correct). It has 10 members (iv correct). Statement (iii) is incorrect — India is NOT a full member of ASEAN; it is a 'Dialogue Partner' and part of 'ASEAN Plus' frameworks (ASEAN+1, EAS). Members are all Southeast Asian nations."
     },
     {
       "id": "42",
       "subject": "B",
-      "questionText": "The following data shows India's population growth:\n\n| Census Year | Population (crore) |\n|-------------|--------------------|\n| 1951 | 36.1 |\n| 1971 | 54.8 |\n| 1991 | 84.6 |\n| 2011 | 121.0 |\n\nIn which intercensal period was the absolute increase in population the highest?",
-      "options": ["1991-2011", "1971-1991", "1951-1971", "All were equal"],
+      "questionText": "The following data shows India's population growth:\n\n1951 → 36.1\n1971 → 54.8\n1991 → 84.6\n2011 → 121.0\n\nIn which intercensal period was the absolute increase in population the highest?",
+      "options": [
+        "1991-2011",
+        "1971-1991",
+        "1951-1971",
+        "All were equal"
+      ],
       "correctAnswer": "1991-2011",
       "explanation": "1951-1971: 54.8-36.1 = 18.7 crore. 1971-1991: 84.6-54.8 = 29.8 crore. 1991-2011: 121.0-84.6 = 36.4 crore (highest). Option 1971-1991 has 29.8 crore. Option 1951-1971 has 18.7 crore. They are clearly not equal."
     },
@@ -343,7 +553,12 @@
       "id": "43",
       "subject": "B",
       "questionText": "Which of the following are scheduled languages recognized in the Eighth Schedule of the Constitution?\n\n(i) Hindi\n(ii) English\n(iii) Sanskrit\n(iv) Dogri\n\nSelect the correct combination:",
-      "options": ["(i), (iii) and (iv) only", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (iii) and (iv) only",
       "explanation": "Hindi is a scheduled language (i correct). Sanskrit is listed in the Eighth Schedule (iii correct). Dogri was added to the Eighth Schedule by the 92nd Amendment in 2003 (iv correct). ENGLISH (ii) is NOT in the Eighth Schedule — it's recognized as an associate official language under the Official Languages Act but is not a scheduled language."
     },
@@ -351,7 +566,12 @@
       "id": "44",
       "subject": "B",
       "questionText": "Match the following government schemes with their objectives:\n\nColumn I:\n(a) PM-KISAN\n(b) Ayushman Bharat\n(c) PM Ujjwala Yojana\n(d) Beti Bachao Beti Padhao\n\nColumn II:\n(i) Free LPG connections for BPL women\n(ii) Income support of ₹6000/year for farmer families\n(iii) Health insurance of ₹5 lakh per family\n(iv) Welfare and education of girl children\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
       "explanation": "PM-KISAN provides ₹6000/year income support (a-ii). Ayushman Bharat provides ₹5 lakh health insurance (b-iii). PM Ujjwala gives free LPG to BPL households (c-i). Beti Bachao Beti Padhao promotes girl child welfare/education (d-iv). Option B swaps PM-KISAN with Ayushman. Option C mismatches Ayushman with Ujjwala. Option D incorrectly pairs PM-KISAN with BBBP."
     },
@@ -359,7 +579,12 @@
       "id": "45",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) It was adopted on 26 November 1949 and came into force on 26 January 1950.\n(ii) Dr. B.R. Ambedkar chaired the Drafting Committee.\n(iii) The Constituent Assembly had 389 members.\n(iv) It originally had 395 Articles, 22 Parts, and 8 Schedules.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "Adopted 26 Nov 1949, effective 26 Jan 1950 (i correct). Dr. Ambedkar was Chairman of Drafting Committee (ii correct). Constituent Assembly originally had 389 members (reduced to 299 after partition) (iii correct). Originally had 395 Articles, 22 Parts, 8 Schedules (iv correct). All four are historically accurate."
     },
@@ -367,15 +592,25 @@
       "id": "46",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Narmada River flows westward into the Arabian Sea, unlike most peninsular rivers that flow eastward.\nReason (R): The Narmada flows through a rift valley (fault zone) between the Vindhya and Satpura ranges, which slopes westward.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — Narmada flows west (unlike Godavari, Krishna, Kaveri that flow east). Reason (R) is correct — it flows through a rift valley between Vindhya and Satpura, which determines its westward course. The geological structure (R) explains the unusual westward flow (A). Option B is wrong because (R) explains the direction. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
     {
       "id": "47",
       "subject": "B",
-      "questionText": "The following data shows India's GDP sector-wise composition (approximate):\n\n| Sector | % of GDP | % of Employment |\n|--------|----------|----------------|\n| Agriculture | 17 | 42 |\n| Industry | 26 | 25 |\n| Services | 57 | 33 |\n\nWhich sector shows the largest gap between its GDP contribution and employment share?",
-      "options": ["Agriculture", "Services", "Industry", "All are equal"],
+      "questionText": "The following data shows India's GDP sector-wise composition (approximate):\n\nAgriculture → 17, 42\nIndustry → 26, 25\nServices → 57, 33\n\nWhich sector shows the largest gap between its GDP contribution and employment share?",
+      "options": [
+        "Agriculture",
+        "Services",
+        "Industry",
+        "All are equal"
+      ],
       "correctAnswer": "Agriculture",
       "explanation": "Agriculture: GDP 17% vs Employment 42% = gap of 25 percentage points (huge mismatch). Services: GDP 57% vs Employment 33% = gap of 24 pp. Industry: GDP 26% vs Employment 25% = gap of only 1 pp. Agriculture has the largest gap, indicating many workers produce relatively low output value."
     },
@@ -383,7 +618,12 @@
       "id": "48",
       "subject": "B",
       "questionText": "Fill in the blank: The __________ is the upper house of the Indian Parliament, also known as the 'Council of States'.",
-      "options": ["Rajya Sabha", "Lok Sabha", "Vidhan Sabha", "Vidhan Parishad"],
+      "options": [
+        "Rajya Sabha",
+        "Lok Sabha",
+        "Vidhan Sabha",
+        "Vidhan Parishad"
+      ],
       "correctAnswer": "Rajya Sabha",
       "explanation": "Rajya Sabha (Council of States) is the upper house of Parliament. Lok Sabha (House of the People) is the lower house. Vidhan Sabha is the state legislative assembly. Vidhan Parishad is the state legislative council. Only Rajya Sabha fits 'upper house of Parliament'."
     },
@@ -391,7 +631,12 @@
       "id": "49",
       "subject": "B",
       "questionText": "Match the following Indian classical music forms with their regions:\n\nColumn I:\n(a) Hindustani classical\n(b) Carnatic classical\n(c) Rabindra Sangeet\n(d) Bhangra\n\nColumn II:\n(i) Punjab\n(ii) North India\n(iii) South India\n(iv) Bengal\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
       "explanation": "Hindustani classical is from North India (a-ii). Carnatic classical is from South India (b-iii). Rabindra Sangeet (songs of Tagore) is from Bengal (c-iv). Bhangra is a folk dance/music from Punjab (d-i). Option B swaps North with South. Option C mismatches Carnatic with Bengal. Option D incorrectly places Hindustani in Punjab."
     },
@@ -399,7 +644,12 @@
       "id": "50",
       "subject": "B",
       "questionText": "Consider the following statements about Indian agriculture:\n\n(i) India is the world's largest producer of milk.\n(ii) India is the world's second largest producer of wheat and rice.\n(iii) The Green Revolution primarily benefited Punjab, Haryana, and western UP.\n(iv) India's agriculture depends entirely on canal irrigation.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "India is the world's largest milk producer (i correct). India is among the top 2 producers of wheat and rice globally (ii correct). Green Revolution's impact was concentrated in Punjab, Haryana, western UP (iii correct). Statement (iv) is incorrect — Indian agriculture uses MULTIPLE irrigation sources: wells/tubewells (60%+), canals (~25%), tanks, and rainfed. It does NOT depend entirely on canals."
     },
@@ -407,7 +657,12 @@
       "id": "51",
       "subject": "B",
       "questionText": "The Comptroller and Auditor General (CAG) of India is appointed by:",
-      "options": ["The President of India", "The Prime Minister", "The Parliament", "The Chief Justice of India"],
+      "options": [
+        "The President of India",
+        "The Prime Minister",
+        "The Parliament",
+        "The Chief Justice of India"
+      ],
       "correctAnswer": "The President of India",
       "explanation": "The CAG is appointed by the President under Article 148 of the Constitution. The PM may advise but doesn't appoint. Parliament doesn't appoint CAG (it receives CAG reports). CJI has no role in CAG appointment. Only the President makes this appointment."
     },
@@ -415,7 +670,12 @@
       "id": "52",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Ganges is considered India's most sacred river.\nReason (R): The Ganges basin supports over 400 million people, making it the most densely populated river basin in the world, and has deep cultural-religious significance in Hinduism.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — the Ganges is the holiest river in Hinduism. Reason (R) is correct — it supports 400+ million people and has immense religious significance (purification, cremation rites, holy cities like Varanasi). The religious significance mentioned in (R) explains why it's considered most sacred (A). Option B is wrong because cultural/religious significance in (R) is the reason for sanctity. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -423,7 +683,12 @@
       "id": "53",
       "subject": "B",
       "questionText": "Which of the following pairs of states and their capitals are correctly matched?\n\n(i) Uttarakhand — Dehradun\n(ii) Jharkhand — Ranchi\n(iii) Chhattisgarh — Raipur\n(iv) Telangana — Visakhapatnam\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Uttarakhand-Dehradun (i correct). Jharkhand-Ranchi (ii correct). Chhattisgarh-Raipur (iii correct). Statement (iv) is incorrect — Telangana's capital is HYDERABAD, not Visakhapatnam (which is in Andhra Pradesh)."
     },
@@ -431,7 +696,12 @@
       "id": "54",
       "subject": "B",
       "questionText": "Match the following freedom fighters with their famous slogans:\n\nColumn I:\n(a) Subhas Chandra Bose\n(b) Bal Gangadhar Tilak\n(c) Bhagat Singh\n(d) Mahatma Gandhi\n\nColumn II:\n(i) 'Do or Die'\n(ii) 'Give me blood, and I shall give you freedom'\n(iii) 'Inquilab Zindabad'\n(iv) 'Swaraj is my birthright'\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Bose — 'Give me blood...' (a-ii). Tilak — 'Swaraj is my birthright and I shall have it' (b-iv). Bhagat Singh — 'Inquilab Zindabad' (Long Live Revolution) (c-iii). Gandhi — 'Do or Die' (Quit India, 1942) (d-i). Option B swaps Bose with Tilak. Option C mismatches Tilak with Bhagat Singh. Option D incorrectly pairs Bose with Bhagat Singh."
     },
@@ -439,15 +709,25 @@
       "id": "55",
       "subject": "B",
       "questionText": "Consider the following statements about the Reserve Bank of India:\n\n(i) It was established in 1935.\n(ii) It was nationalized in 1949.\n(iii) It is headquartered in Mumbai.\n(iv) It is responsible for printing all denominations of Indian currency notes.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "RBI was established on 1 April 1935 (i correct). It was nationalized on 1 January 1949 (ii correct). Its central office is in Mumbai (iii correct). Statement (iv) is partially incorrect — RBI issues all notes EXCEPT ₹1 notes (and coins), which are issued by the Ministry of Finance. So it doesn't print ALL denominations."
     },
     {
       "id": "56",
       "subject": "B",
-      "questionText": "The following data shows India's exports to different regions (approximate % share):\n\n| Region | Export Share (%) |\n|--------|------------------|\n| North America | 18 |\n| Europe | 17 |\n| Middle East | 14 |\n| East Asia | 13 |\n| Africa | 8 |\n\nWhich region receives the highest share of Indian exports?",
-      "options": ["North America", "Europe", "Middle East", "East Asia"],
+      "questionText": "The following data shows India's exports to different regions (approximate % share):\n\nNorth America → 18\nEurope → 17\nMiddle East → 14\nEast Asia → 13\nAfrica → 8\n\nWhich region receives the highest share of Indian exports?",
+      "options": [
+        "North America",
+        "Europe",
+        "Middle East",
+        "East Asia"
+      ],
       "correctAnswer": "North America",
       "explanation": "North America (primarily USA) receives the highest share at 18%. Europe is second at 17%. Middle East is third at 14%. East Asia is fourth at 13%. The data clearly shows North America leading Indian export destinations."
     },
@@ -455,7 +735,12 @@
       "id": "57",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India's IT services sector has become a major export earner and employment generator.\nReason (R): India has a large pool of English-speaking, technically skilled graduates who provide cost-effective IT services to global clients, especially in software development and BPO.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — IT/ITES is India's largest services export sector (over $200 billion revenue). Reason (R) is correct — the combination of English proficiency, technical skills, and cost advantage explains India's IT dominance. The workforce characteristics in (R) directly explain the sector's success (A). Option B is wrong because (R) explains the competitive advantage. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -463,7 +748,12 @@
       "id": "58",
       "subject": "B",
       "questionText": "Which of the following statements about the Mughal Empire in India are correct?\n\n(i) Babur founded the Mughal Empire in 1526 after the First Battle of Panipat.\n(ii) Akbar introduced the 'Mansabdari System' and 'Din-i-Ilahi'.\n(iii) Shah Jahan built the Taj Mahal in Agra.\n(iv) The Mughal Empire ended with the rule of Jahangir.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Babur won Panipat in 1526 founding the Mughal Empire (i correct). Akbar introduced Mansabdari system and Din-i-Ilahi (ii correct). Shah Jahan commissioned the Taj Mahal (iii correct). Statement (iv) is incorrect — the Mughal Empire didn't end with Jahangir (who ruled 1605-1627). It continued through Shah Jahan, Aurangzeb, and later Mughals until 1857 (Bahadur Shah Zafar)."
     },
@@ -471,15 +761,25 @@
       "id": "59",
       "subject": "B",
       "questionText": "Match the following Centrally Sponsored Schemes with their primary beneficiaries:\n\nColumn I:\n(a) MGNREGA\n(b) PM Awas Yojana\n(c) Swachh Bharat Mission\n(d) PM Fasal Bima Yojana\n\nColumn II:\n(i) All citizens (sanitation)\n(ii) Rural households (employment)\n(iii) Farmers (crop insurance)\n(iv) Homeless/poor families (housing)\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "MGNREGA guarantees rural employment (a-ii). PM Awas provides housing to homeless/poor (b-iv). Swachh Bharat targets all citizens for sanitation/cleanliness (c-i). PM Fasal Bima insures farmers' crops (d-iii). Option B swaps MGNREGA with PMAY. Option C mismatches PMAY with Swachh Bharat. Option D incorrectly pairs MGNREGA with crop insurance."
     },
     {
       "id": "60",
       "subject": "B",
-      "questionText": "The following data shows India's HDI (Human Development Index) rank over time:\n\n| Year | HDI Rank (out of ~190 countries) |\n|------|----------------------------------|\n| 2000 | 124 |\n| 2010 | 119 |\n| 2015 | 130 |\n| 2020 | 131 |\n| 2024 | 134 |\n\nWhat trend does the data suggest about India's HDI ranking in recent years?",
-      "options": ["India's relative HDI ranking has been declining (worsening) in recent years", "India has consistently improved its HDI ranking", "India's ranking has remained constant", "India reached the top 50 by 2024"],
+      "questionText": "The following data shows India's HDI (Human Development Index) rank over time:\n\n2000 → 124\n2010 → 119\n2015 → 130\n2020 → 131\n2024 → 134\n\nWhat trend does the data suggest about India's HDI ranking in recent years?",
+      "options": [
+        "India's relative HDI ranking has been declining (worsening) in recent years",
+        "India has consistently improved its HDI ranking",
+        "India's ranking has remained constant",
+        "India reached the top 50 by 2024"
+      ],
       "correctAnswer": "India's relative HDI ranking has been declining (worsening) in recent years",
       "explanation": "From 2010 (rank 119) to 2024 (rank 134), India's ranking has worsened (higher number = worse rank). While India's absolute HDI score has improved slightly, other countries have improved faster, causing India to slip in relative ranking. 'Consistently improved' is wrong — rankings went from 119 to 134. 'Remained constant' is factually wrong. 'Top 50' is far from reality at rank 134."
     }

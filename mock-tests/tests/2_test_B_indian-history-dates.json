@@ -246,7 +246,7 @@
     {
       "id": "31",
       "subject": "B",
-      "questionText": "The following table shows major events of the Indian Freedom Struggle and their years:\n\n| Event | Year |\n|-------|------|\n| Formation of INC | 1885 |\n| Partition of Bengal | 1905 |\n| Jallianwala Bagh | 1919 |\n| Quit India Movement | 1942 |\n\nWhat is the time gap (in years) between the longest interval and the shortest interval between consecutive events listed?",
+      "questionText": "The following table shows major events of the Indian Freedom Struggle and their years:\n\nFormation of INC → 1885\nPartition of Bengal → 1905\nJallianwala Bagh → 1919\nQuit India Movement → 1942\n\nWhat is the time gap (in years) between the longest interval and the shortest interval between consecutive events listed?",
       "options": ["3", "6", "9", "7"],
       "correctAnswer": "9",
       "explanation": "The intervals are: 1905–1885 = 20 years, 1919–1905 = 14 years, 1942–1919 = 23 years. The longest interval is 23 years (Jallianwala Bagh to Quit India) and the shortest is 14 years (Partition of Bengal to Jallianwala Bagh). Difference = 23 – 14 = 9 years. 3 is wrong (incorrect calculation). 6 is wrong (possibly 20–14=6, but that's not longest minus shortest). 7 is wrong (incorrect calculation)."
@@ -294,7 +294,7 @@
     {
       "id": "37",
       "subject": "B",
-      "questionText": "The following data shows freedom movements and the number of arrests made:\n\n| Movement | Approximate Arrests |\n|----------|--------------------|\n| Non-Cooperation (1920–22) | 30,000 |\n| Civil Disobedience (1930–34) | 90,000 |\n| Quit India (1942) | 100,000 |\n\nThe percentage increase in arrests from the Non-Cooperation Movement to the Civil Disobedience Movement was:",
+      "questionText": "The following data shows freedom movements and the number of arrests made:\n\nNon-Cooperation (1920–22) → 30,000\nCivil Disobedience (1930–34) → 90,000\nQuit India (1942) → 100,000\n\nThe percentage increase in arrests from the Non-Cooperation Movement to the Civil Disobedience Movement was:",
       "options": ["100%", "150%", "200%", "300%"],
       "correctAnswer": "200%",
       "explanation": "Percentage increase = ((90,000 – 30,000) / 30,000) × 100 = (60,000 / 30,000) × 100 = 200%. 100% is wrong — that would mean arrests doubled to 60,000. 150% is wrong — that would mean arrests reached 75,000. 300% is wrong — that would mean arrests reached 120,000."

@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "E",
       "questionText": "Which of the following is the primary function of the motherboard in a computer?",
-      "options": ["To store data permanently", "To connect and allow communication between all components", "To display output on the screen", "To supply electrical power to the computer"],
+      "options": [
+        "To store data permanently",
+        "To connect and allow communication between all components",
+        "To display output on the screen",
+        "To supply electrical power to the computer"
+      ],
       "correctAnswer": "To connect and allow communication between all components",
       "explanation": "The motherboard is the main circuit board that physically connects the CPU, RAM, storage, and peripherals, enabling them to communicate. Permanent storage is done by hard drives. Display is handled by the monitor/GPU. Power supply is a separate unit (PSU/SMPS)."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "E",
       "questionText": "Consider the following statements about RAM and ROM:\n\n(i) RAM is volatile — it loses data when power is turned off.\n(ii) ROM is non-volatile — it retains data without power.\n(iii) RAM is used for temporary storage of running programs.\n(iv) ROM stores user-created documents and files.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — RAM is volatile. (ii) is correct — ROM retains data permanently. (iii) is correct — RAM holds active programs/data. (iv) is wrong — ROM stores firmware (BIOS), not user documents; user files are stored on hard drives or SSDs."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "E",
       "questionText": "The speed of a microprocessor is measured in:",
-      "options": ["Megabytes (MB)", "Gigahertz (GHz)", "Pixels per inch (PPI)", "Bits per second (bps)"],
+      "options": [
+        "Megabytes (MB)",
+        "Gigahertz (GHz)",
+        "Pixels per inch (PPI)",
+        "Bits per second (bps)"
+      ],
       "correctAnswer": "Gigahertz (GHz)",
       "explanation": "Processor speed (clock speed) is measured in Gigahertz (GHz), representing billions of clock cycles per second. Megabytes measure storage capacity. PPI measures display resolution. Bits per second measures network/data transfer speed."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An SSD (Solid State Drive) is faster and more durable than a traditional HDD.\nReason (R): SSDs use flash memory chips with no moving parts, eliminating mechanical delays and vulnerability to physical shocks.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "(A) is correct — SSDs offer faster read/write speeds and better shock resistance. (R) is correct — flash memory with no moving parts means no seek time and no vulnerability to drops. (R) explains (A) because the absence of mechanical parts directly causes both the speed advantage and the durability advantage."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "E",
       "questionText": "Match the following hardware components with their functions:\n\nColumn I:\n(a) ALU\n(b) Control Unit\n(c) Cache Memory\n(d) GPU\n\nColumn II:\n(i) Coordinates and directs all computer operations\n(ii) Performs arithmetic and logical operations\n(iii) Processes and renders graphics/images\n(iv) Stores frequently accessed data for faster retrieval\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "ALU performs arithmetic and logical operations (ii). Control Unit coordinates all operations (i). Cache stores frequently accessed data (iv). GPU processes graphics (iii). Option 2 swaps ALU and CU. Option 3 swaps CU and Cache. Option 4 swaps ALU and GPU."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "E",
       "questionText": "Which type of software acts as an intermediary between the user and computer hardware?",
-      "options": ["Application software", "System software (Operating System)", "Utility software", "Middleware"],
+      "options": [
+        "Application software",
+        "System software (Operating System)",
+        "Utility software",
+        "Middleware"
+      ],
       "correctAnswer": "System software (Operating System)",
       "explanation": "The Operating System (system software) manages hardware resources and provides a user interface, acting as the bridge between user and hardware. Application software performs specific tasks (word processing, etc.). Utility software maintains the system. Middleware connects different applications but doesn't directly manage hardware."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "E",
       "questionText": "Which of the following are examples of application software?\n\n(i) Microsoft Excel\n(ii) Windows 11\n(iii) Adobe Photoshop\n(iv) Google Chrome\n\nSelect the correct combination:",
-      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "Microsoft Excel (spreadsheet), Adobe Photoshop (image editing), and Google Chrome (web browser) are all application software — designed for specific user tasks. Windows 11 (ii) is NOT application software — it is an Operating System (system software)."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "E",
       "questionText": "The full form of SMPS in a computer is:",
-      "options": ["Switch Mode Power Supply", "System Mode Power Supply", "Standard Motherboard Power System", "Secure Multi-Processing System"],
+      "options": [
+        "Switch Mode Power Supply",
+        "System Mode Power Supply",
+        "Standard Motherboard Power System",
+        "Secure Multi-Processing System"
+      ],
       "correctAnswer": "Switch Mode Power Supply",
       "explanation": "SMPS stands for Switch Mode Power Supply — it converts AC mains power to regulated DC voltages needed by computer components. 'System Mode Power Supply' is fabricated. 'Standard Motherboard Power System' is incorrect. 'Secure Multi-Processing System' is unrelated."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "E",
       "questionText": "Consider the following statements about computer buses:\n\n(i) A bus is a communication pathway that transfers data between components.\n(ii) The address bus carries the memory location to be accessed.\n(iii) The data bus carries actual data between CPU and memory.\n(iv) The control bus carries power supply to all components.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — a bus is a set of wires for data transfer. (ii) is correct — the address bus specifies which memory location to access. (iii) is correct — the data bus carries data. (iv) is wrong — the control bus carries control signals (read/write, interrupt, clock), NOT power. Power is supplied through separate power connectors."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "E",
       "questionText": "Which generation of computers used transistors as their main electronic component?",
-      "options": ["First Generation", "Second Generation", "Third Generation", "Fourth Generation"],
+      "options": [
+        "First Generation",
+        "Second Generation",
+        "Third Generation",
+        "Fourth Generation"
+      ],
       "correctAnswer": "Second Generation",
       "explanation": "Second generation computers (1956–1963) used transistors, which were smaller, faster, and more reliable than vacuum tubes. First gen used vacuum tubes. Third gen used integrated circuits (ICs). Fourth gen uses microprocessors (VLSI)."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Multi-core processors can perform multiple tasks simultaneously more efficiently than single-core processors.\nReason (R): Each core in a multi-core processor can independently execute instructions, allowing true parallel processing.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "(A) is correct — multi-core processors handle multitasking better. (R) is correct — independent cores allow parallel execution of different tasks. (R) explains (A) because the ability to run instructions simultaneously on separate cores is the direct mechanism enabling superior multitasking."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "E",
       "questionText": "Which of the following is NOT a type of computer based on size and capability?",
-      "options": ["Supercomputer", "Mainframe", "Compiler", "Microcomputer"],
+      "options": [
+        "Supercomputer",
+        "Mainframe",
+        "Compiler",
+        "Microcomputer"
+      ],
       "correctAnswer": "Compiler",
       "explanation": "A compiler is software that translates source code into machine code — it is NOT a type of computer. Supercomputers (fastest, largest), Mainframes (large, for enterprises), and Microcomputers (personal computers) are all computer types classified by size and capability."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "E",
       "questionText": "Consider the following statements about optical storage devices:\n\n(i) CDs, DVDs, and Blu-ray discs use laser technology to read and write data.\n(ii) A standard DVD can store approximately 4.7 GB of data.\n(iii) Blu-ray discs have higher storage capacity than DVDs due to shorter wavelength laser.\n(iv) Optical discs are volatile — data is lost when removed from the drive.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — all optical media use laser for reading/writing. (ii) is correct — single-layer DVD holds 4.7 GB. (iii) is correct — Blu-ray uses a blue-violet laser (shorter wavelength) allowing tighter data packing (25 GB per layer). (iv) is wrong — optical discs are NON-volatile; data persists regardless of whether the disc is in a drive."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "E",
       "questionText": "Match the following software types with their examples:\n\nColumn I:\n(a) Operating System\n(b) Utility Software\n(c) Programming Language\n(d) Database Software\n\nColumn II:\n(i) MySQL\n(ii) Disk Defragmenter\n(iii) Java\n(iv) Linux\n\nChoose the correct match:",
-      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"],
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
       "explanation": "Linux is an Operating System (iv). Disk Defragmenter is Utility Software (ii). Java is a Programming Language (iii). MySQL is Database Software (i). Option 2 swaps OS and Utility. Option 3 swaps Programming and Utility. Option 4 swaps OS and Database."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "E",
       "questionText": "The term 'firmware' refers to:",
-      "options": ["Software stored on a hard disk", "A permanent program stored in ROM that controls hardware at the lowest level", "Temporary files created during software installation", "Antivirus definitions updated weekly"],
+      "options": [
+        "Software stored on a hard disk",
+        "A permanent program stored in ROM that controls hardware at the lowest level",
+        "Temporary files created during software installation",
+        "Antivirus definitions updated weekly"
+      ],
       "correctAnswer": "A permanent program stored in ROM that controls hardware at the lowest level",
       "explanation": "Firmware is software permanently embedded in ROM/flash memory of hardware devices (BIOS, router firmware, printer firmware) that provides low-level control. It's not on the hard disk (that's regular software). It's not temporary installation files. It's not antivirus definitions (those are regularly updated data files)."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "E",
       "questionText": "Which of the following correctly describes the difference between a compiler and an interpreter?",
-      "options": ["A compiler runs programs faster; an interpreter stores more data", "A compiler translates the entire program at once; an interpreter translates line by line", "A compiler is hardware; an interpreter is software", "A compiler works only with Python; an interpreter works only with C"],
+      "options": [
+        "A compiler runs programs faster; an interpreter stores more data",
+        "A compiler translates the entire program at once; an interpreter translates line by line",
+        "A compiler is hardware; an interpreter is software",
+        "A compiler works only with Python; an interpreter works only with C"
+      ],
       "correctAnswer": "A compiler translates the entire program at once; an interpreter translates line by line",
       "explanation": "A compiler translates the complete source code into machine code before execution (e.g., C, C++). An interpreter translates and executes one line at a time (e.g., Python, JavaScript). Option 1 confuses speed with storage. Option 3 wrongly calls compiler hardware. Option 4 reverses the languages — C uses a compiler, Python uses an interpreter."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "E",
       "questionText": "Consider the following statements about the differences between primary and secondary memory:\n\n(i) Primary memory is faster but has less capacity than secondary memory.\n(ii) Secondary memory is non-volatile while most primary memory (RAM) is volatile.\n(iii) CPU directly accesses primary memory but not secondary memory.\n(iv) Primary memory is cheaper per GB than secondary memory.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — RAM is much faster but typically 8-64 GB vs TB of secondary storage. (ii) is correct — RAM loses data without power; HDDs/SSDs retain it. (iii) is correct — CPU accesses RAM directly; secondary storage data must be loaded into RAM first. (iv) is wrong — primary memory (RAM) is MORE expensive per GB than secondary storage (HDDs/SSDs), not cheaper."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "E",
       "questionText": "Fill in the blank: The component that converts AC power from the wall outlet to DC power for computer components is called the __________.",
-      "options": ["UPS", "SMPS (Power Supply Unit)", "Motherboard", "Transformer"],
+      "options": [
+        "UPS",
+        "SMPS (Power Supply Unit)",
+        "Motherboard",
+        "Transformer"
+      ],
       "correctAnswer": "SMPS (Power Supply Unit)",
       "explanation": "The SMPS (Switch Mode Power Supply) / PSU converts AC to regulated DC voltages (+3.3V, +5V, +12V) for computer components. A UPS provides battery backup during power outages but doesn't do the main AC-DC conversion inside the PC. The motherboard distributes power but doesn't convert it. A transformer changes voltage levels but SMPS specifically uses switching technology for efficiency."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A 64-bit operating system can address more RAM than a 32-bit operating system.\nReason (R): A 64-bit system can theoretically address up to 16 exabytes of memory, while a 32-bit system is limited to approximately 4 GB.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "(A) is correct — 64-bit OS can utilize far more RAM. (R) is correct — 2³² = 4 GB limit for 32-bit; 2⁶⁴ = 16 EB theoretical limit for 64-bit. (R) explains (A) by providing the mathematical basis (addressable memory space) for why 64-bit supports more RAM."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "E",
       "questionText": "Which of the following are functions performed by the BIOS during computer startup?\n\n(i) POST (Power-On Self Test) — checks hardware components.\n(ii) Loads the operating system from storage into RAM.\n(iii) Creates user documents automatically.\n(iv) Identifies and initializes hardware devices.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — POST checks CPU, RAM, and peripherals are functioning. (ii) is correct — BIOS locates and begins loading the OS (bootstrap). (iv) is correct — BIOS detects and initializes hardware (keyboard, display, drives). (iii) is wrong — BIOS does NOT create user documents; it only performs system-level initialization."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "E",
       "questionText": "The term 'plug and play' in computing means:",
-      "options": ["Playing games immediately after buying a computer", "The ability of the OS to automatically detect and configure new hardware without manual driver installation", "Connecting a computer to a power plug to start playing", "A type of gaming software"],
+      "options": [
+        "Playing games immediately after buying a computer",
+        "The ability of the OS to automatically detect and configure new hardware without manual driver installation",
+        "Connecting a computer to a power plug to start playing",
+        "A type of gaming software"
+      ],
       "correctAnswer": "The ability of the OS to automatically detect and configure new hardware without manual driver installation",
       "explanation": "Plug and Play (PnP) allows the operating system to automatically recognize and configure newly connected hardware devices. It is not about gaming. It is not about power connections. It refers to seamless hardware recognition without manual intervention."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "E",
       "questionText": "Consider the following statements about types of software licenses:\n\n(i) Proprietary software requires purchase and does not share source code (e.g., Microsoft Office).\n(ii) Open-source software makes source code freely available (e.g., Linux, Firefox).\n(iii) Freeware is free to use but source code may not be available (e.g., Skype).\n(iv) All free software is also open source.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — proprietary/commercial software is closed-source and paid. (ii) is correct — open source allows viewing and modifying code. (iii) is correct — freeware is free to use but not necessarily open source. (iv) is wrong — 'free' software (no cost) is NOT always open source; freeware like Adobe Acrobat Reader is free but closed-source."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "E",
       "questionText": "Match the following ports/connectors with their primary uses:\n\nColumn I:\n(a) USB\n(b) HDMI\n(c) Ethernet (RJ-45)\n(d) 3.5mm Audio Jack\n\nColumn II:\n(i) Connecting to a wired network\n(ii) Connecting peripherals (mouse, keyboard, pen drive)\n(iii) Connecting headphones/speakers\n(iv) Transmitting high-definition audio and video\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "USB connects peripherals (ii). HDMI transmits HD audio/video (iv). Ethernet connects to wired network (i). 3.5mm jack connects headphones/speakers (iii). Option 2 swaps USB and HDMI. Option 3 swaps HDMI and Ethernet. Option 4 swaps USB and audio jack."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "E",
       "questionText": "Which of the following is a characteristic of DRAM (Dynamic RAM)?",
-      "options": ["It does not require refreshing", "It needs constant electrical refreshing to retain data", "It is faster than SRAM (Static RAM)", "It is used primarily for cache memory"],
+      "options": [
+        "It does not require refreshing",
+        "It needs constant electrical refreshing to retain data",
+        "It is faster than SRAM (Static RAM)",
+        "It is used primarily for cache memory"
+      ],
       "correctAnswer": "It needs constant electrical refreshing to retain data",
       "explanation": "DRAM stores data as charges in capacitors that leak over time, requiring constant refreshing (thousands of times per second). It DOES require refreshing (not option 1). SRAM is actually faster than DRAM (not option 3). Cache memory uses SRAM, not DRAM (not option 4). DRAM is used for main memory (RAM sticks) due to its lower cost per bit."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "E",
       "questionText": "Consider the following statements about the evolution of storage devices:\n\n(i) Floppy disks (1.44 MB) were commonly used in the 1980s-1990s.\n(ii) CDs (700 MB) replaced floppies for larger data storage.\n(iii) USB flash drives offer portable, rewritable storage from 1 GB to 1 TB+.\n(iv) Cloud storage requires no internet connection to access files.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — 3.5-inch floppies with 1.44 MB were standard. (ii) is correct — CDs with 700 MB capacity became popular for software distribution and music. (iii) is correct — USB drives offer convenient portable storage in large capacities. (iv) is wrong — cloud storage requires an internet connection to upload, access, and sync files."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer with more RAM generally performs better at multitasking.\nReason (R): More RAM allows more programs and data to be held in fast-access memory simultaneously, reducing the need to swap data to the slower hard disk.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "(A) is correct — more RAM improves multitasking performance. (R) is correct — with more RAM, the system swaps less to disk (paging/swapping), keeping things fast. (R) explains (A) because the mechanism by which more RAM helps is precisely the reduction of slow disk swapping."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "E",
       "questionText": "The 'Device Manager' in Windows is used to:",
-      "options": ["Manage email accounts", "View and control hardware devices and their drivers", "Create new user accounts", "Install application software"],
+      "options": [
+        "Manage email accounts",
+        "View and control hardware devices and their drivers",
+        "Create new user accounts",
+        "Install application software"
+      ],
       "correctAnswer": "View and control hardware devices and their drivers",
       "explanation": "Device Manager displays all hardware devices, their status, and allows updating/disabling/uninstalling drivers. It doesn't manage email (that's email clients). It doesn't create user accounts (that's Settings/Control Panel). It doesn't install applications (that's setup programs/app stores)."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "E",
       "questionText": "Which of the following statements about input and output devices are correct?\n\n(i) A touchscreen serves as both input and output device.\n(ii) A printer is an output device that produces hard copy.\n(iii) A microphone is an input device that captures audio.\n(iv) A speaker is an input device that receives sound.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — touchscreen displays output and accepts touch input. (ii) is correct — printers produce paper output. (iii) is correct — microphones capture audio input for the computer. (iv) is wrong — a speaker is an OUTPUT device (it produces sound), not an input device."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "E",
       "questionText": "Fill in the blank: The process of loading the operating system from the hard disk into RAM when the computer starts is called __________.",
-      "options": ["Formatting", "Defragmentation", "Booting", "Compiling"],
+      "options": [
+        "Formatting",
+        "Defragmentation",
+        "Booting",
+        "Compiling"
+      ],
       "correctAnswer": "Booting",
       "explanation": "Booting is the startup process where BIOS loads the OS into RAM. Formatting erases and prepares a storage device. Defragmentation reorganizes fragmented files. Compiling translates source code to machine code."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "E",
       "questionText": "Match the following memory types with their characteristics:\n\nColumn I:\n(a) Register\n(b) Cache (L1)\n(c) RAM\n(d) Hard Disk\n\nColumn II:\n(i) Largest capacity, slowest access\n(ii) Smallest, fastest — inside CPU\n(iii) Very fast, small — between CPU and RAM\n(iv) Medium speed, medium capacity — main memory\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
       "explanation": "Registers are smallest and fastest, inside the CPU (ii). Cache L1 is very fast and small, sits between CPU and RAM (iii). RAM is medium speed/capacity, serving as main memory (iv). Hard Disk has largest capacity but slowest access (i). This follows the memory hierarchy."
     },
@@ -247,7 +397,12 @@
       "id": "31",
       "subject": "E",
       "questionText": "Consider the following statements about operating system functions:\n\n(i) Memory management — allocates RAM to running processes.\n(ii) Process management — handles creation, scheduling, and termination of processes.\n(iii) File management — organizes data in directories and manages read/write access.\n(iv) Game development — creates video games for the computer.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — OS allocates and deallocates memory. (ii) is correct — OS manages process lifecycle and CPU scheduling. (iii) is correct — OS maintains file system structure and controls access. (iv) is wrong — game development is done by programmers using application software, NOT by the operating system."
     },
@@ -255,7 +410,12 @@
       "id": "32",
       "subject": "E",
       "questionText": "Which of the following is the correct order of computer memory from most expensive (per GB) to least expensive?",
-      "options": ["Register > Cache > RAM > SSD > HDD", "HDD > SSD > RAM > Cache > Register", "RAM > Cache > Register > HDD > SSD", "Cache > Register > SSD > RAM > HDD"],
+      "options": [
+        "Register > Cache > RAM > SSD > HDD",
+        "HDD > SSD > RAM > Cache > Register",
+        "RAM > Cache > Register > HDD > SSD",
+        "Cache > Register > SSD > RAM > HDD"
+      ],
       "correctAnswer": "Register > Cache > RAM > SSD > HDD",
       "explanation": "Cost per GB decreases as we go from faster to slower memory: Registers (most expensive, fewest bytes) > Cache > RAM > SSD > HDD (cheapest per GB, most capacity). Option 2 reverses the order. Option 3 incorrectly places RAM above Cache. Option 4 places Cache above Register."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Device drivers are essential for hardware components to function properly with the operating system.\nReason (R): Device drivers act as translators between the hardware device and the OS, providing the specific instructions the OS needs to communicate with each device.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "(A) is correct — without drivers, the OS cannot communicate with hardware. (R) is correct — drivers translate generic OS commands into device-specific instructions. (R) explains (A) because the translation function is exactly why drivers are essential — the OS cannot natively speak to every hardware device."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "E",
       "questionText": "Which of the following best describes 'virtual memory'?",
-      "options": ["Extra RAM chips installed on the motherboard", "A technique where the OS uses hard disk space as an extension of RAM when RAM is full", "Memory stored on cloud servers", "USB flash drives used as additional memory"],
+      "options": [
+        "Extra RAM chips installed on the motherboard",
+        "A technique where the OS uses hard disk space as an extension of RAM when RAM is full",
+        "Memory stored on cloud servers",
+        "USB flash drives used as additional memory"
+      ],
       "correctAnswer": "A technique where the OS uses hard disk space as an extension of RAM when RAM is full",
       "explanation": "Virtual memory allows the OS to use a portion of the hard disk (swap file/page file) to simulate additional RAM when physical RAM is exhausted. It's not extra physical RAM chips. It's not cloud storage. While USB can sometimes supplement (ReadyBoost), that's different from the virtual memory concept."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "E",
       "questionText": "Consider the following statements about the classification of computers by purpose:\n\n(i) General-purpose computers can perform a wide variety of tasks (personal computers, laptops).\n(ii) Special-purpose computers are designed for specific tasks (ATMs, traffic signals, washing machine controllers).\n(iii) Embedded computers are special-purpose computers built into other devices.\n(iv) All computers are general-purpose by default.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — PCs/laptops can run diverse software for many tasks. (ii) is correct — special-purpose computers handle specific functions. (iii) is correct — embedded systems are special-purpose computers inside devices (cars, appliances, medical equipment). (iv) is wrong — NOT all computers are general-purpose; special-purpose and embedded computers are designed for limited, specific functions."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "E",
       "questionText": "Match the following computer generations with a notable computer of that era:\n\nColumn I:\n(a) First Generation\n(b) Second Generation\n(c) Third Generation\n(d) Fourth Generation\n\nColumn II:\n(i) IBM PC (1981)\n(ii) ENIAC (1945)\n(iii) IBM System/360 (1964)\n(iv) IBM 7090 (1959)\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "ENIAC (1945) was a first-gen vacuum tube computer (ii). IBM 7090 (1959) was a transistor-based second-gen computer (iv). IBM System/360 (1964) was a third-gen IC-based computer (iii). IBM PC (1981) was a fourth-gen microprocessor-based personal computer (i)."
     },
@@ -295,7 +475,12 @@
       "id": "37",
       "subject": "E",
       "questionText": "The term 'multithreading' in computing refers to:",
-      "options": ["Using multiple network cables simultaneously", "A CPU's ability to execute multiple threads (sub-tasks) of a process concurrently", "Running multiple monitors at the same time", "Connecting multiple printers to one computer"],
+      "options": [
+        "Using multiple network cables simultaneously",
+        "A CPU's ability to execute multiple threads (sub-tasks) of a process concurrently",
+        "Running multiple monitors at the same time",
+        "Connecting multiple printers to one computer"
+      ],
       "correctAnswer": "A CPU's ability to execute multiple threads (sub-tasks) of a process concurrently",
       "explanation": "Multithreading allows a CPU to handle multiple threads within a process simultaneously, improving performance. It's not about network cables (that would be link aggregation). It's not about multiple monitors (that's multi-display). It's not about multiple printers (that's print management)."
     },
@@ -303,23 +488,38 @@
       "id": "38",
       "subject": "E",
       "questionText": "Consider the following statements about USB standards:\n\n(i) USB 2.0 supports data transfer up to 480 Mbps.\n(ii) USB 3.0 supports data transfer up to 5 Gbps.\n(iii) USB Type-C is a connector type that can be inserted either way up.\n(iv) All USB devices require their own separate power source.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — USB 2.0 has max 480 Mbps (Hi-Speed). (ii) is correct — USB 3.0 has max 5 Gbps (SuperSpeed). (iii) is correct — USB-C is reversible (no wrong way to plug in). (iv) is wrong — USB ports provide power to devices (5V), so many USB devices (flash drives, mice, keyboards) draw power directly from the USB port without a separate source."
     },
     {
       "id": "39",
       "subject": "E",
-      "questionText": "The following data shows the storage capacity of different media:\n\n| Storage Medium | Capacity |\n|----------------|----------|\n| Floppy Disk | 1.44 MB |\n| CD-ROM | 700 MB |\n| DVD (single layer) | 4.7 GB |\n| Blu-ray (single layer) | 25 GB |\n\nApproximately how many floppy disks would be needed to store the data equivalent to one single-layer DVD?",
-      "options": ["2,800", "3,100", "3,340", "3,600"],
+      "questionText": "The following data shows the storage capacity of different media:\n\nFloppy Disk → 1.44 MB\nCD-ROM → 700 MB\nDVD (single layer) → 4.7 GB\nBlu-ray (single layer) → 25 GB\n\nApproximately how many floppy disks would be needed to store the data equivalent to one single-layer DVD?",
+      "options": [
+        "2,800",
+        "3,100",
+        "3,340",
+        "3,600"
+      ],
       "correctAnswer": "3,340",
       "explanation": "4.7 GB = 4.7 × 1024 MB = 4,812.8 MB. Number of floppies = 4812.8 / 1.44 ≈ 3,342 ≈ 3,340. Option 2,800 uses 4 GB instead of 4.7 GB. Option 3,100 uses wrong conversion. Option 3,600 uses 5.2 GB."
     },
     {
       "id": "40",
       "subject": "E",
-      "questionText": "The following data shows the specifications of four computers:\n\n| Computer | RAM | Processor Speed | Storage |\n|----------|-----|-----------------|----------|\n| A | 4 GB | 2.4 GHz | 500 GB HDD |\n| B | 8 GB | 3.2 GHz | 256 GB SSD |\n| C | 16 GB | 2.8 GHz | 1 TB HDD |\n| D | 8 GB | 3.6 GHz | 512 GB SSD |\n\nWhich computer is likely to have the fastest overall performance for everyday multitasking?",
-      "options": ["A", "B", "C", "D"],
+      "questionText": "The following data shows the specifications of four computers:\n\nA → 4 GB, 2.4 GHz, 500 GB HDD\nB → 8 GB, 3.2 GHz, 256 GB SSD\nC → 16 GB, 2.8 GHz, 1 TB HDD\nD → 8 GB, 3.6 GHz, 512 GB SSD\n\nWhich computer is likely to have the fastest overall performance for everyday multitasking?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
       "correctAnswer": "D",
       "explanation": "Computer D has the best combination for everyday multitasking: highest processor speed (3.6 GHz), adequate RAM (8 GB), and SSD storage (fastest read/write). A has least RAM and slowest processor with HDD. B is strong but slower processor than D. C has most RAM but slower processor and HDD (much slower than SSD for everyday responsiveness)."
     }

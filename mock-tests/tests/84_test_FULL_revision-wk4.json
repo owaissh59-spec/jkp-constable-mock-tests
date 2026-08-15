@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "A",
       "questionText": "Choose the word that is most nearly OPPOSITE in meaning to 'TENACIOUS':",
-      "options": ["Yielding", "Persistent", "Stubborn", "Determined"],
+      "options": [
+        "Yielding",
+        "Persistent",
+        "Stubborn",
+        "Determined"
+      ],
       "correctAnswer": "Yielding",
       "explanation": "TENACIOUS means holding firmly, persistent. YIELDING means giving way under pressure, compliant — the antonym. PERSISTENT is a synonym. STUBBORN is similar in meaning. DETERMINED also means firm in purpose — similar."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "D",
       "questionText": "A train 150 metres long passes a pole in 15 seconds. What is the speed of the train in km/h?",
-      "options": ["36 km/h", "40 km/h", "30 km/h", "45 km/h"],
+      "options": [
+        "36 km/h",
+        "40 km/h",
+        "30 km/h",
+        "45 km/h"
+      ],
       "correctAnswer": "36 km/h",
       "explanation": "Speed = Distance/Time = 150/15 = 10 m/s. Converting to km/h: 10 × 18/5 = 36 km/h. Option 40 km/h results from dividing 150 by 13.5 incorrectly. Option 30 km/h uses wrong conversion. Option 45 km/h uses incorrect calculation."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian Parliament:\n\n(i) The Rajya Sabha has a maximum strength of 250 members.\n(ii) The Lok Sabha has a maximum strength of 552 members.\n(iii) The Vice President of India is the ex-officio Chairman of the Rajya Sabha.\n(iv) Members of Rajya Sabha are directly elected by the people.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — Rajya Sabha has max 250 members (238 elected + 12 nominated). Statement (ii) is correct — Lok Sabha has max 552 (530 states + 20 UTs + 2 Anglo-Indians, though the last category has lapsed). Statement (iii) is correct — VP is ex-officio Chairman of Rajya Sabha. Statement (iv) is incorrect — Rajya Sabha members are INDIRECTLY elected by state legislative assemblies, not directly by people."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer virus cannot spread without human action such as running an infected program.\nReason (R): Unlike worms, viruses require a host program to attach themselves to and need the host to be executed to replicate.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — viruses need human action (like opening a file/running a program) to spread. Reason (R) is correct — viruses attach to host programs and need the host to execute, unlike worms which spread independently. The Reason explains the mechanism behind why human action is required. Option B is wrong because (R) explains (A). Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "C",
       "questionText": "The Mughal Road in J&K connects which two regions?",
-      "options": ["Shopian (Kashmir) to Rajouri (Jammu)", "Srinagar to Leh", "Jammu to Udhampur", "Baramulla to Kupwara"],
+      "options": [
+        "Shopian (Kashmir) to Rajouri (Jammu)",
+        "Srinagar to Leh",
+        "Jammu to Udhampur",
+        "Baramulla to Kupwara"
+      ],
       "correctAnswer": "Shopian (Kashmir) to Rajouri (Jammu)",
       "explanation": "The Mughal Road is an alternative route connecting the Kashmir Valley (Shopian district) to the Jammu region (Rajouri/Poonch), passing through Pir Panjal range. Srinagar to Leh is connected by NH-1 (via Zoji La). Jammu to Udhampur is connected by NH-44. Baramulla to Kupwara is within the valley."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "A",
       "questionText": "Match the following words with their synonyms:\n\nColumn I:\n(a) Solemn\n(b) Frivolous\n(c) Ardent\n(d) Placid\n\nColumn II:\n(i) Calm\n(ii) Serious\n(iii) Passionate\n(iv) Trivial\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Solemn means serious and dignified (a-ii). Frivolous means not having serious purpose/trivial (b-iv). Ardent means enthusiastic/passionate (c-iii). Placid means not easily upset/calm (d-i). Option B swaps solemn with frivolous. Option C mismatches frivolous with passionate. Option D incorrectly pairs solemn with calm."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "D",
       "questionText": "Consider the following statements about number properties:\n\n(i) The sum of the first n natural numbers is n(n+1)/2.\n(ii) Every prime number greater than 2 is odd.\n(iii) The product of two consecutive integers is always even.\n(iv) Zero is a positive number.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — sum formula for first n naturals = n(n+1)/2. Statement (ii) is correct — 2 is the only even prime; all other primes are odd. Statement (iii) is correct — in any two consecutive integers, one is even, making the product even. Statement (iv) is incorrect — zero is neither positive nor negative."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "B",
       "questionText": "The 'Swachh Bharat Mission' was launched on which date?",
-      "options": ["2 October 2014", "15 August 2014", "26 January 2015", "5 June 2014"],
+      "options": [
+        "2 October 2014",
+        "15 August 2014",
+        "26 January 2015",
+        "5 June 2014"
+      ],
       "correctAnswer": "2 October 2014",
       "explanation": "Swachh Bharat Mission was launched on 2 October 2014, Gandhi Jayanti, symbolizing Mahatma Gandhi's vision of a clean India. 15 August 2014 is Independence Day but not the launch date. 26 January 2015 is Republic Day, not the launch. 5 June is World Environment Day, not the launch date."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "A",
       "questionText": "Choose the word that is most nearly SIMILAR in meaning to 'EXONERATE':",
-      "options": ["Acquit", "Convict", "Blame", "Accuse"],
+      "options": [
+        "Acquit",
+        "Convict",
+        "Blame",
+        "Accuse"
+      ],
       "correctAnswer": "Acquit",
       "explanation": "EXONERATE means to absolve someone from blame. ACQUIT means to free from a criminal charge — the closest synonym. CONVICT means to declare guilty — antonym. BLAME means to assign responsibility for a fault — antonym. ACCUSE means to charge with an offence — antonym."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "E",
       "questionText": "Which of the following are types of cyber attacks?\n\n(i) Phishing\n(ii) Ransomware\n(iii) Defragmentation\n(iv) Man-in-the-middle\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv) only",
       "explanation": "Phishing (fraudulent communications to steal data) is a cyber attack (i correct). Ransomware (malware that encrypts files for ransom) is a cyber attack (ii correct). Man-in-the-middle (intercepting communications) is a cyber attack (iv correct). Defragmentation is a legitimate disk maintenance process that rearranges data for efficiency — NOT a cyber attack (iii incorrect)."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "D",
       "questionText": "If the cost price of an article is ₹800 and it is sold at a profit of 15%, what is the selling price?",
-      "options": ["₹920", "₹900", "₹960", "₹880"],
+      "options": [
+        "₹920",
+        "₹900",
+        "₹960",
+        "₹880"
+      ],
       "correctAnswer": "₹920",
       "explanation": "Selling Price = Cost Price + Profit = 800 + (15% of 800) = 800 + 120 = ₹920. Option ₹900 adds only ₹100 (12.5% error). Option ₹960 adds 20% instead of 15%. Option ₹880 adds only 10%."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India is a federal country with a unitary bias.\nReason (R): The Constitution provides for a strong Centre with emergency powers and residuary powers vesting in the Union.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — India has federal features (division of powers, two levels of government) but with unitary tilt (single citizenship, integrated judiciary, emergency provisions). Reason (R) is correct — strong Centre with emergency powers and residuary powers with Union explain the unitary bias. The Reason provides specific provisions that create the unitary tilt. Option B is wrong because (R) explains (A). Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "A",
       "questionText": "Consider the following statements about antonyms:\n\n(i) 'Bellicose' (warlike) is the antonym of 'Peaceful'.\n(ii) 'Prolific' (productive) is the antonym of 'Barren'.\n(iii) 'Apathetic' (uncaring) is the antonym of 'Passionate'.\n(iv) 'Verbose' (wordy) is the antonym of 'Eloquent'.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Bellicose (aggressive/warlike) vs Peaceful — antonyms (i correct). Prolific (producing much) vs Barren (unproductive) — antonyms (ii correct). Apathetic (showing no interest) vs Passionate (showing strong feelings) — antonyms (iii correct). Verbose (wordy) vs Eloquent (fluent/persuasive) — these are NOT antonyms; someone can be both verbose and eloquent. The antonym of verbose is concise/succinct (iv incorrect)."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "C",
       "questionText": "Consider the following statements about the Chenab river in J&K:\n\n(i) It originates from the confluence of Chandra and Bhaga rivers.\n(ii) It flows through Jammu division.\n(iii) The Baglihar dam is built on the Chenab.\n(iv) It is classified as an 'eastern river' under the Indus Waters Treaty.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — Chenab originates from Chandra and Bhaga confluence in Himachal Pradesh. Statement (ii) is correct — it flows through Doda, Kishtwar, and Jammu division. Statement (iii) is correct — Baglihar dam is on the Chenab near Doda. Statement (iv) is incorrect — Chenab is a 'WESTERN river' (allocated to Pakistan) under the Indus Waters Treaty, not an eastern river."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "D",
       "questionText": "Match the following mathematical concepts with their formulas:\n\nColumn I:\n(a) Simple Interest\n(b) Compound Interest (1 year)\n(c) Area of Circle\n(d) Perimeter of Rectangle\n\nColumn II:\n(i) πr²\n(ii) 2(l + b)\n(iii) PRT/100\n(iv) P(1 + R/100)^n - P\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Simple Interest = PRT/100 (a-iii). Compound Interest = P(1+R/100)^n - P (b-iv). Area of Circle = πr² (c-i). Perimeter of Rectangle = 2(l+b) (d-ii). Option B swaps SI with CI. Option C mismatches CI with area. Option D incorrectly pairs SI with perimeter."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "B",
       "questionText": "Which of the following Fundamental Rights is available only to Indian citizens and NOT to foreigners?",
-      "options": ["Right to equality before law (Art. 14)", "Freedom of speech and expression (Art. 19)", "Right to life and personal liberty (Art. 21)", "Right against exploitation (Art. 23)"],
+      "options": [
+        "Right to equality before law (Art. 14)",
+        "Freedom of speech and expression (Art. 19)",
+        "Right to life and personal liberty (Art. 21)",
+        "Right against exploitation (Art. 23)"
+      ],
       "correctAnswer": "Freedom of speech and expression (Art. 19)",
       "explanation": "Article 19 rights (speech, assembly, movement, etc.) are available ONLY to citizens. Article 14 (equality before law) applies to all persons. Article 21 (right to life) applies to all persons including foreigners. Article 23 (prohibition of trafficking) also applies to all persons."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "E",
       "questionText": "The keyboard shortcut Ctrl + Z in most applications is used to:",
-      "options": ["Undo the last action", "Redo the last action", "Close the application", "Save the document"],
+      "options": [
+        "Undo the last action",
+        "Redo the last action",
+        "Close the application",
+        "Save the document"
+      ],
       "correctAnswer": "Undo the last action",
       "explanation": "Ctrl + Z is the universal shortcut for Undo — it reverses the last action performed. Ctrl + Y is typically used for Redo. Ctrl + W or Alt + F4 closes applications. Ctrl + S saves documents."
     },
@@ -143,15 +228,25 @@
       "id": "18",
       "subject": "A",
       "questionText": "Choose the word that is most nearly OPPOSITE in meaning to 'AUSTERE':",
-      "options": ["Luxurious", "Severe", "Strict", "Plain"],
+      "options": [
+        "Luxurious",
+        "Severe",
+        "Strict",
+        "Plain"
+      ],
       "correctAnswer": "Luxurious",
       "explanation": "AUSTERE means severe in manner, strict, or having no comforts/luxuries. LUXURIOUS means extremely comfortable and elegant — the antonym. SEVERE is a synonym of austere. STRICT is similar. PLAIN is similar in the sense of simple."
     },
     {
       "id": "19",
       "subject": "D",
-      "questionText": "The following data shows marks obtained by 5 students in a test:\n\n| Student | Maths | English | GK |\n|---------|-------|---------|----|\n| P | 72 | 68 | 75 |\n| Q | 85 | 78 | 80 |\n| R | 60 | 72 | 65 |\n| S | 78 | 80 | 70 |\n| T | 90 | 65 | 85 |\n\nWho has the highest total marks across all three subjects?",
-      "options": ["Q", "T", "S", "P"],
+      "questionText": "The following data shows marks obtained by 5 students in a test:\n\nP → 72, 68, 75\nQ → 85, 78, 80\nR → 60, 72, 65\nS → 78, 80, 70\nT → 90, 65, 85\n\nWho has the highest total marks across all three subjects?",
+      "options": [
+        "Q",
+        "T",
+        "S",
+        "P"
+      ],
       "correctAnswer": "Q",
       "explanation": "P total: 72+68+75 = 215. Q total: 85+78+80 = 243. R total: 60+72+65 = 197. S total: 78+80+70 = 228. T total: 90+65+85 = 240. Q has the highest total at 243. T is second with 240. S is third with 228. P is fourth with 215."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "B",
       "questionText": "Match the following Indian states with their capitals:\n\nColumn I:\n(a) Meghalaya\n(b) Mizoram\n(c) Nagaland\n(d) Manipur\n\nColumn II:\n(i) Imphal\n(ii) Shillong\n(iii) Kohima\n(iv) Aizawl\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Meghalaya's capital is Shillong (a-ii). Mizoram's capital is Aizawl (b-iv). Nagaland's capital is Kohima (c-iii). Manipur's capital is Imphal (d-i). Option B swaps Meghalaya with Mizoram. Option C swaps Mizoram and Nagaland. Option D incorrectly pairs Meghalaya with Kohima."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "A",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Sycophant' and 'Flatterer' are synonyms.\nReason (R): A sycophant is a person who acts obsequiously toward someone in order to gain advantage, which is a form of insincere flattery.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — sycophant and flatterer both describe someone who praises insincerely for personal gain. Reason (R) is correct — it defines sycophant accurately as one who behaves obsequiously (a form of flattery). The Reason explains WHY they are synonyms by showing the overlapping meaning. Option B is wrong because (R) directly explains the synonym relationship. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "D",
       "questionText": "If 3x + 7 = 22, what is the value of x?",
-      "options": ["5", "7", "4", "6"],
+      "options": [
+        "5",
+        "7",
+        "4",
+        "6"
+      ],
       "correctAnswer": "5",
       "explanation": "3x + 7 = 22 → 3x = 22 - 7 = 15 → x = 15/3 = 5. Option 7 results from incorrectly subtracting 3 from 22. Option 4 gives 3(4)+7 = 19, not 22. Option 6 gives 3(6)+7 = 25, not 22."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "B",
       "questionText": "Consider the following statements about the Directive Principles of State Policy:\n\n(i) They are contained in Part IV of the Constitution.\n(ii) They are enforceable in courts of law.\n(iii) They aim to establish social and economic democracy.\n(iv) Article 39 deals with equal pay for equal work.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "Statement (i) is correct — DPSP are in Part IV (Articles 36-51). Statement (iii) is correct — DPSPs aim to create social and economic conditions for justice and welfare. Statement (iv) is correct — Article 39(d) directs equal pay for equal work for both men and women. Statement (ii) is incorrect — DPSPs are NOT enforceable in courts (Article 37 explicitly states this). They are non-justiciable."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "E",
       "questionText": "Match the following computer shortcuts with their functions:\n\nColumn I:\n(a) Ctrl + C\n(b) Ctrl + V\n(c) Ctrl + X\n(d) Ctrl + A\n\nColumn II:\n(i) Select All\n(ii) Cut\n(iii) Copy\n(iv) Paste\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "Ctrl+C is Copy (a-iii). Ctrl+V is Paste (b-iv). Ctrl+X is Cut (c-ii). Ctrl+A is Select All (d-i). Option B swaps copy with paste. Option C swaps paste with cut. Option D incorrectly pairs Ctrl+C with cut."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "C",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Saffron is called 'Red Gold' and is the most expensive spice cultivated in J&K.\nReason (R): Saffron cultivation is limited to the Karewa lands around Pampore in Pulwama district due to specific soil and climatic requirements.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — saffron is called Red Gold due to its high value and is J&K's costliest spice crop. Reason (R) is correct — saffron requires specific Karewa soils and climate, concentrated around Pampore. The limited geographic suitability (R) explains WHY it's so expensive and rare (A). Option B is wrong because the limited growing area directly contributes to its high value. Option C is wrong because (R) is factually correct. Option D is wrong because (A) is correct."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "A",
       "questionText": "Which of the following pairs are correctly identified as SYNONYMS?\n\n(i) Elated — Jubilant\n(ii) Perplexed — Bewildered\n(iii) Mundane — Extraordinary\n(iv) Sporadic — Intermittent\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv) only",
       "explanation": "Elated (ecstatically happy) and Jubilant (feeling great happiness) — synonyms (i correct). Perplexed (completely baffled) and Bewildered (confused) — synonyms (ii correct). Sporadic (occurring irregularly) and Intermittent (occurring at intervals) — synonyms (iv correct). Mundane (ordinary) and Extraordinary (remarkable) — these are ANTONYMS (iii incorrect)."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "D",
       "questionText": "Consider the following statements about the properties of triangles:\n\n(i) The sum of all angles in a triangle is 180°.\n(ii) The longest side of a triangle is opposite the largest angle.\n(iii) An equilateral triangle has all angles equal to 60°.\n(iv) A right triangle can have two angles of 90°.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — angle sum property: all angles in a triangle total 180°. Statement (ii) is correct — the longest side is always opposite the largest angle. Statement (iii) is correct — equilateral triangle: 180°/3 = 60° each. Statement (iv) is incorrect — a triangle cannot have two 90° angles because that would total 180° already, leaving 0° for the third angle, which is impossible."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "B",
       "questionText": "The 'Pradhan Mantri Jan Dhan Yojana' is primarily related to:",
-      "options": ["Financial inclusion", "Health insurance", "Skill development", "Housing for all"],
+      "options": [
+        "Financial inclusion",
+        "Health insurance",
+        "Skill development",
+        "Housing for all"
+      ],
       "correctAnswer": "Financial inclusion",
       "explanation": "PMJDY is a financial inclusion programme aimed at providing universal access to banking services with at least one basic banking account for every household. Health insurance is Ayushman Bharat. Skill development is PM Kaushal Vikas Yojana. Housing is PM Awas Yojana."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "A",
       "questionText": "Fill in the blank: The word 'CUMBERSOME' is most similar in meaning to __________.",
-      "options": ["Unwieldy", "Lightweight", "Convenient", "Simple"],
+      "options": [
+        "Unwieldy",
+        "Lightweight",
+        "Convenient",
+        "Simple"
+      ],
       "correctAnswer": "Unwieldy",
       "explanation": "CUMBERSOME means difficult to manage because of size/weight, awkward. UNWIELDY means difficult to carry or move because of size — the closest synonym. LIGHTWEIGHT is the opposite. CONVENIENT means easy to use — antonym. SIMPLE means easy — antonym."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "D",
       "questionText": "The average of five numbers is 24. If one number is removed, the average becomes 22. What is the removed number?",
-      "options": ["32", "28", "30", "26"],
+      "options": [
+        "32",
+        "28",
+        "30",
+        "26"
+      ],
       "correctAnswer": "32",
       "explanation": "Sum of 5 numbers = 5 × 24 = 120. Sum of remaining 4 numbers = 4 × 22 = 88. Removed number = 120 - 88 = 32. Option 28 results from computing 120-92. Option 30 uses wrong remaining sum. Option 26 subtracts too much."
     },
@@ -247,7 +397,12 @@
       "id": "31",
       "subject": "E",
       "questionText": "Consider the following statements about the Internet:\n\n(i) HTTP stands for HyperText Transfer Protocol.\n(ii) An IP address uniquely identifies a device on a network.\n(iii) DNS converts domain names to IP addresses.\n(iv) HTML is a programming language used to build applications.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — HTTP stands for HyperText Transfer Protocol. Statement (ii) is correct — IP addresses uniquely identify devices on networks. Statement (iii) is correct — DNS (Domain Name System) translates domain names to IP addresses. Statement (iv) is incorrect — HTML is a markup language for structuring web content, NOT a programming language. It cannot perform logic or build applications on its own."
     },
@@ -255,7 +410,12 @@
       "id": "32",
       "subject": "B",
       "questionText": "Which of the following is the longest river in India?",
-      "options": ["Ganga", "Godavari", "Yamuna", "Brahmaputra"],
+      "options": [
+        "Ganga",
+        "Godavari",
+        "Yamuna",
+        "Brahmaputra"
+      ],
       "correctAnswer": "Ganga",
       "explanation": "The Ganga is the longest river in India at approximately 2,525 km within India. Godavari is the longest river in peninsular India (approximately 1,465 km) but shorter overall. Yamuna is approximately 1,376 km. Brahmaputra is long overall but its length within India is shorter than the Ganga."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "A",
       "questionText": "Choose the word that is most nearly SIMILAR in meaning to 'COMMENSURATE':",
-      "options": ["Proportionate", "Excessive", "Inadequate", "Irregular"],
+      "options": [
+        "Proportionate",
+        "Excessive",
+        "Inadequate",
+        "Irregular"
+      ],
       "correctAnswer": "Proportionate",
       "explanation": "COMMENSURATE means corresponding in size or degree, proportionate. PROPORTIONATE means corresponding in size/amount — the closest synonym. EXCESSIVE means more than necessary — implies disproportion. INADEQUATE means insufficient — implies disproportion. IRREGULAR means not even or balanced — different meaning."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The probability of any event lies between 0 and 1 (inclusive).\nReason (R): Probability 0 means the event is impossible, and probability 1 means the event is certain.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — probability values range from 0 to 1. Reason (R) is correct — P=0 means impossible, P=1 means certain. The Reason explains the boundaries mentioned in (A) — why probability can't go below 0 or above 1. Option B is wrong because (R) explains the bounds in (A). Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian economy:\n\n(i) India is the world's fifth largest economy by nominal GDP.\n(ii) Agriculture contributes the largest share to India's GDP.\n(iii) The service sector is the largest contributor to India's GDP.\n(iv) India's fiscal year runs from April to March.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "Statement (i) is correct — India is the 5th largest economy by nominal GDP. Statement (iii) is correct — the service sector contributes over 50% of India's GDP. Statement (iv) is correct — India's fiscal year is April 1 to March 31. Statement (ii) is incorrect — agriculture contributes only about 15-17% of GDP; services sector is the largest contributor."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "C",
       "questionText": "Which of the following districts of J&K is famous for walnut production?",
-      "options": ["Kupwara", "Jammu", "Samba", "Kathua"],
+      "options": [
+        "Kupwara",
+        "Jammu",
+        "Samba",
+        "Kathua"
+      ],
       "correctAnswer": "Kupwara",
       "explanation": "Kupwara district in Kashmir is among the major walnut-producing districts of J&K. Jammu district is in the plains and is more suited to wheat and citrus. Samba is also in the Jammu plains. Kathua is in the lower Jammu region — none of these have the climate for walnut cultivation which requires cooler altitudes."
     },
@@ -295,15 +475,25 @@
       "id": "37",
       "subject": "A",
       "questionText": "Choose the word that is most nearly OPPOSITE in meaning to 'JOVIAL':",
-      "options": ["Morose", "Cheerful", "Merry", "Jolly"],
+      "options": [
+        "Morose",
+        "Cheerful",
+        "Merry",
+        "Jolly"
+      ],
       "correctAnswer": "Morose",
       "explanation": "JOVIAL means cheerful and friendly. MOROSE means sullen and ill-tempered — the antonym. CHEERFUL is a synonym of jovial. MERRY is a synonym. JOLLY is also a synonym."
     },
     {
       "id": "38",
       "subject": "D",
-      "questionText": "The following data shows production (in tonnes) of different crops in a region:\n\n| Crop | 2022 | 2023 |\n|------|------|------|\n| Wheat | 450 | 500 |\n| Rice | 380 | 420 |\n| Maize | 200 | 250 |\n| Barley | 120 | 100 |\n\nWhich crop showed the highest percentage increase from 2022 to 2023?",
-      "options": ["Maize", "Wheat", "Rice", "Barley"],
+      "questionText": "The following data shows production (in tonnes) of different crops in a region:\n\nWheat → 450, 500\nRice → 380, 420\nMaize → 200, 250\nBarley → 120, 100\n\nWhich crop showed the highest percentage increase from 2022 to 2023?",
+      "options": [
+        "Maize",
+        "Wheat",
+        "Rice",
+        "Barley"
+      ],
       "correctAnswer": "Maize",
       "explanation": "Wheat increase: (500-450)/450 × 100 = 11.1%. Rice increase: (420-380)/380 × 100 = 10.5%. Maize increase: (250-200)/200 × 100 = 25%. Barley decreased: (100-120)/120 × 100 = -16.7%. Maize has the highest percentage increase at 25%."
     },
@@ -311,7 +501,12 @@
       "id": "39",
       "subject": "E",
       "questionText": "Fill in the blank: The full form of 'PDF' is Portable __________ Format.",
-      "options": ["Document", "Data", "Digital", "Display"],
+      "options": [
+        "Document",
+        "Data",
+        "Digital",
+        "Display"
+      ],
       "correctAnswer": "Document",
       "explanation": "PDF stands for Portable Document Format, a file format developed by Adobe for presenting documents independent of hardware/software. 'Data' would make it PdF which is not the standard. 'Digital' is not the correct expansion. 'Display' does not match the established abbreviation."
     },
@@ -319,7 +514,12 @@
       "id": "40",
       "subject": "B",
       "questionText": "Match the following national parks with their states:\n\nColumn I:\n(a) Jim Corbett National Park\n(b) Kaziranga National Park\n(c) Ranthambore National Park\n(d) Periyar National Park\n\nColumn II:\n(i) Rajasthan\n(ii) Kerala\n(iii) Uttarakhand\n(iv) Assam\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Jim Corbett is in Uttarakhand (a-iii). Kaziranga is in Assam (b-iv). Ranthambore is in Rajasthan (c-i). Periyar is in Kerala (d-ii). Option B swaps Corbett with Kaziranga. Option C swaps Kaziranga with Ranthambore. Option D incorrectly places Corbett in Kerala."
     },
@@ -327,7 +527,12 @@
       "id": "41",
       "subject": "A",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Ephemeral' and 'Transient' are synonyms.\nReason (R): Both words describe something that lasts for a very short time.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — ephemeral and transient are synonyms meaning short-lived. Reason (R) is correct — it defines their shared meaning (lasting briefly). The Reason shows WHY they are synonyms — both describe brevity. Option B is wrong because (R) explains the synonym relationship. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -335,7 +540,12 @@
       "id": "42",
       "subject": "D",
       "questionText": "If the ratio of ages of A and B is 3:5 and the difference in their ages is 10 years, what is the age of A?",
-      "options": ["15 years", "20 years", "12 years", "18 years"],
+      "options": [
+        "15 years",
+        "20 years",
+        "12 years",
+        "18 years"
+      ],
       "correctAnswer": "15 years",
       "explanation": "Let ages be 3x and 5x. Difference = 5x - 3x = 2x = 10 → x = 5. Age of A = 3x = 3 × 5 = 15 years. Option 20 years = 4x (wrong multiple). Option 12 years = 12 doesn't fit ratio. Option 18 years uses wrong ratio factor."
     },
@@ -343,7 +553,12 @@
       "id": "43",
       "subject": "B",
       "questionText": "Which of the following are correctly matched?\n\n(i) Padma Shri — Fourth highest civilian award\n(ii) Bharat Ratna — Highest civilian award\n(iii) Padma Vibhushan — Second highest civilian award\n(iv) Padma Bhushan — Second highest civilian award\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "The correct order of civilian awards is: Bharat Ratna (1st/highest) > Padma Vibhushan (2nd) > Padma Bhushan (3rd) > Padma Shri (4th). Statement (i) is correct — Padma Shri is the fourth highest. Statement (ii) is correct — Bharat Ratna is the highest. Statement (iii) is correct — Padma Vibhushan is the second highest. Statement (iv) is incorrect — Padma Bhushan is the THIRD highest, not second."
     },
@@ -351,7 +566,12 @@
       "id": "44",
       "subject": "E",
       "questionText": "Consider the following statements about MS Excel:\n\n(i) Formulas in Excel always begin with an = sign.\n(ii) A workbook can contain multiple worksheets.\n(iii) The intersection of a row and column is called a cell.\n(iv) Excel can only store numerical data, not text.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — all Excel formulas begin with =. Statement (ii) is correct — a workbook contains multiple worksheets (tabs). Statement (iii) is correct — a cell is the intersection of a row and column. Statement (iv) is incorrect — Excel can store text, numbers, dates, formulas, and other data types, not just numbers."
     },
@@ -359,7 +579,12 @@
       "id": "45",
       "subject": "A",
       "questionText": "Choose the word that is most nearly SIMILAR in meaning to 'AMELIORATE':",
-      "options": ["Worsen", "Improve", "Maintain", "Destroy"],
+      "options": [
+        "Worsen",
+        "Improve",
+        "Maintain",
+        "Destroy"
+      ],
       "correctAnswer": "Improve",
       "explanation": "AMELIORATE means to make something better or improve a situation. IMPROVE is the closest synonym. WORSEN means to make worse — antonym. MAINTAIN means to keep the same — not improving. DESTROY means to put an end to — opposite."
     },
@@ -367,7 +592,12 @@
       "id": "46",
       "subject": "D",
       "questionText": "Which of the following are correct?\n\n(i) The HCF of 12 and 18 is 6.\n(ii) The LCM of 4 and 6 is 12.\n(iii) The HCF of two prime numbers is always 1.\n(iv) The LCM of two numbers is always less than their product.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Statement (i) is correct — HCF(12,18) = 6. Statement (ii) is correct — LCM(4,6) = 12. Statement (iii) is correct — two distinct primes share no common factor other than 1. Statement (iv) is incorrect — LCM is NOT always less than the product. For coprime numbers (like 4 and 9), LCM = 36 = 4×9 (equal to the product). LCM ≤ product, with equality for coprimes."
     },
@@ -375,7 +605,12 @@
       "id": "47",
       "subject": "B",
       "questionText": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
-      "options": ["Karnataka", "Rajasthan", "Madhya Pradesh", "Gujarat"],
+      "options": [
+        "Karnataka",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Gujarat"
+      ],
       "correctAnswer": "Karnataka",
       "explanation": "The Tropic of Cancer (23.5°N) passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. Karnataka is located south of the Tropic of Cancer. Rajasthan, Madhya Pradesh, and Gujarat are all on the Tropic of Cancer's path."
     },
@@ -383,7 +618,12 @@
       "id": "48",
       "subject": "C",
       "questionText": "What does the abbreviation 'JKBOSE' stand for?",
-      "options": ["Jammu & Kashmir Board of School Education", "Jammu & Kashmir Board of Secondary Education", "Jammu & Kashmir Bureau of Standard Education", "Jammu & Kashmir Board of Scholastic Examination"],
+      "options": [
+        "Jammu & Kashmir Board of School Education",
+        "Jammu & Kashmir Board of Secondary Education",
+        "Jammu & Kashmir Bureau of Standard Education",
+        "Jammu & Kashmir Board of Scholastic Examination"
+      ],
       "correctAnswer": "Jammu & Kashmir Board of School Education",
       "explanation": "JKBOSE stands for Jammu & Kashmir Board of School Education, which conducts examinations and prescribes curriculum for schools in J&K. 'Board of Secondary Education' is incorrect — the word is 'School' not 'Secondary'. 'Bureau of Standard Education' is fabricated. 'Board of Scholastic Examination' does not exist."
     },
@@ -391,7 +631,12 @@
       "id": "49",
       "subject": "A",
       "questionText": "Choose the word that is most nearly OPPOSITE in meaning to 'INDOLENT':",
-      "options": ["Industrious", "Lazy", "Sluggish", "Lethargic"],
+      "options": [
+        "Industrious",
+        "Lazy",
+        "Sluggish",
+        "Lethargic"
+      ],
       "correctAnswer": "Industrious",
       "explanation": "INDOLENT means wanting to avoid activity or exertion, lazy. INDUSTRIOUS means diligent and hardworking — the antonym. LAZY is a synonym of indolent. SLUGGISH means lacking energy — similar. LETHARGIC means lacking energy — similar."
     },
@@ -399,7 +644,12 @@
       "id": "50",
       "subject": "D",
       "questionText": "A clock shows 3:15. What is the angle between the hour and minute hands?",
-      "options": ["7.5°", "0°", "15°", "22.5°"],
+      "options": [
+        "7.5°",
+        "0°",
+        "15°",
+        "22.5°"
+      ],
       "correctAnswer": "7.5°",
       "explanation": "At 3:15, the minute hand is at 90° (pointing at 3). The hour hand moves 0.5° per minute, so in 15 minutes past 3, it moves 7.5° beyond the 3 o'clock position (90° + 7.5° = 97.5°). Angle between them = 97.5° - 90° = 7.5°. Option 0° would mean they overlap (incorrect). Option 15° miscalculates the hour hand movement. Option 22.5° doubles the correct answer."
     }

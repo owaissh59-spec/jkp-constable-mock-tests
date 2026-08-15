@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "B",
       "questionText": "The chemical formula of common salt (table salt) is:",
-      "options": ["NaCl", "KCl", "CaCl₂", "NaOH"],
+      "options": [
+        "NaCl",
+        "KCl",
+        "CaCl₂",
+        "NaOH"
+      ],
       "correctAnswer": "NaCl",
       "explanation": "Common salt is sodium chloride (NaCl). KCl is potassium chloride (used as salt substitute). CaCl₂ is calcium chloride (used for de-icing). NaOH is sodium hydroxide (caustic soda) — a strong base, not a salt for consumption."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "B",
       "questionText": "Consider the following statements about the human digestive system:\n\n(i) Digestion begins in the mouth with saliva breaking down starch.\n(ii) The stomach secretes hydrochloric acid to aid digestion.\n(iii) The small intestine is the primary site of nutrient absorption.\n(iv) The large intestine digests proteins into amino acids.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Saliva contains amylase which starts starch digestion (i correct). HCl in the stomach creates an acidic environment for pepsin to work (ii correct). The small intestine absorbs most nutrients via villi (iii correct). Statement (iv) is incorrect — protein digestion occurs in the stomach and small intestine, NOT the large intestine. The large intestine mainly absorbs water and forms feces."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Ice floats on water.\nReason (R): Ice is less dense than liquid water because water expands when it freezes, creating a crystalline structure with more space between molecules.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — ice floats on water (observable fact). Reason (R) is correct — water molecules form a hexagonal crystal lattice when frozen, making ice less dense (0.917 g/cm³) than liquid water (1.0 g/cm³). The lower density explained in (R) directly causes floating (A). Option B is wrong because (R) explains the mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "B",
       "questionText": "Match the following vitamins with their deficiency diseases:\n\nColumn I:\n(a) Vitamin A\n(b) Vitamin B1 (Thiamine)\n(c) Vitamin C\n(d) Vitamin D\n\nColumn II:\n(i) Scurvy\n(ii) Rickets\n(iii) Night blindness\n(iv) Beriberi\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Vitamin A deficiency causes night blindness (a-iii). Vitamin B1 deficiency causes beriberi (b-iv). Vitamin C deficiency causes scurvy (c-i). Vitamin D deficiency causes rickets (d-ii). Option B swaps Vitamin A with B1. Option C mismatches Vitamin B1 with scurvy. Option D incorrectly pairs Vitamin A with rickets."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "B",
       "questionText": "Which of the following are renewable sources of energy?\n\n(i) Solar energy\n(ii) Coal\n(iii) Wind energy\n(iv) Hydroelectric power\n\nSelect the correct combination:",
-      "options": ["(i), (iii) and (iv) only", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (iii) and (iv) only",
       "explanation": "Solar energy is renewable (replenished by the sun) (i correct). Wind energy is renewable (naturally replenished) (iii correct). Hydroelectric uses flowing water — renewable (iv correct). Coal (ii) is a NON-RENEWABLE fossil fuel that takes millions of years to form and is depleted when burned."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "B",
       "questionText": "The gas used in refrigerators as a coolant is commonly known as:",
-      "options": ["Freon (CFC/HFC)", "Oxygen", "Nitrogen", "Carbon dioxide"],
+      "options": [
+        "Freon (CFC/HFC)",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
       "correctAnswer": "Freon (CFC/HFC)",
       "explanation": "Refrigerators traditionally used Freon (chlorofluorocarbons/CFCs), now replaced by HFCs due to ozone concerns. Oxygen is a breathing gas, not a coolant. Nitrogen is used for industrial cooling but not in domestic refrigerators. Carbon dioxide has limited use in some commercial systems but is not the common household refrigerant."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "B",
       "questionText": "Consider the following statements about sound:\n\n(i) Sound requires a medium (solid, liquid, or gas) to travel.\n(ii) Sound travels fastest in solids and slowest in gases.\n(iii) The speed of sound in air is approximately 343 m/s at room temperature.\n(iv) Sound can travel through a vacuum.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Sound needs a medium — it's a mechanical wave (i correct). Sound travels fastest in solids (particles closest) and slowest in gases (particles farthest) (ii correct). Speed in air ≈ 343 m/s at 20°C (iii correct). Statement (iv) is incorrect — sound CANNOT travel through a vacuum because there are no particles to vibrate."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A pressure cooker cooks food faster than an ordinary vessel.\nReason (R): Inside a pressure cooker, the boiling point of water increases above 100°C due to higher pressure, allowing food to cook at a higher temperature.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — pressure cookers cook faster. Reason (R) is correct — increased pressure raises water's boiling point above 100°C (typically to ~120°C), meaning food cooks at a higher temperature and therefore faster. The higher cooking temperature (R) explains the faster cooking (A). Option B is wrong because (R) is the direct cause. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "B",
       "questionText": "The hardest natural substance known is:",
-      "options": ["Diamond", "Iron", "Quartz", "Topaz"],
+      "options": [
+        "Diamond",
+        "Iron",
+        "Quartz",
+        "Topaz"
+      ],
       "correctAnswer": "Diamond",
       "explanation": "Diamond (a form of carbon) is the hardest known natural substance, rated 10 on the Mohs hardness scale. Iron is a metal, relatively hard but not the hardest (about 4-5 on Mohs). Quartz is 7 on Mohs scale. Topaz is 8 on Mohs scale. Diamond surpasses all at 10."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "B",
       "questionText": "Match the following scientists with their discoveries/inventions:\n\nColumn I:\n(a) Isaac Newton\n(b) Alexander Fleming\n(c) Thomas Edison\n(d) Louis Pasteur\n\nColumn II:\n(i) Electric light bulb\n(ii) Laws of motion and gravity\n(iii) Pasteurization and germ theory\n(iv) Penicillin (antibiotic)\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "Newton discovered laws of motion and gravity (a-ii). Fleming discovered penicillin (b-iv). Edison invented the practical electric light bulb (c-i). Pasteur developed pasteurization and germ theory (d-iii). Option B swaps Newton with Fleming. Option C mismatches Fleming with Edison. Option D incorrectly pairs Newton with Pasteur."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "B",
       "questionText": "Consider the following statements about the human blood:\n\n(i) Red blood cells carry oxygen using hemoglobin.\n(ii) White blood cells fight infections.\n(iii) Platelets help in blood clotting.\n(iv) Blood type O+ can donate to all blood types (universal donor).\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "RBCs carry oxygen via hemoglobin (i correct). WBCs are part of the immune system fighting infections (ii correct). Platelets form clots to stop bleeding (iii correct). Statement (iv) is incorrect — O+ is NOT the universal donor. O-NEGATIVE is the universal donor (can donate to all). O+ can donate to other Rh-positive types but not to Rh-negative recipients."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "B",
       "questionText": "Which of the following gases is responsible for the depletion of the ozone layer?",
-      "options": ["Chlorofluorocarbons (CFCs)", "Carbon dioxide", "Oxygen", "Nitrogen"],
+      "options": [
+        "Chlorofluorocarbons (CFCs)",
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen"
+      ],
       "correctAnswer": "Chlorofluorocarbons (CFCs)",
       "explanation": "CFCs release chlorine atoms in the stratosphere which catalytically destroy ozone molecules. Carbon dioxide causes global warming but doesn't deplete ozone. Oxygen is part of the ozone cycle (O₃), not a destroyer. Nitrogen is inert in this context and doesn't attack ozone."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): We see lightning before we hear thunder during a storm.\nReason (R): Light travels at approximately 3 × 10⁸ m/s while sound travels at approximately 343 m/s in air, making light nearly a million times faster.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — lightning (light) is always perceived before thunder (sound). Reason (R) is correct — light (3×10⁸ m/s) is vastly faster than sound (343 m/s). The speed difference (R) directly explains why light arrives first (A). Option B is wrong because (R) is the exact reason. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "B",
       "questionText": "Which of the following are greenhouse gases?\n\n(i) Carbon dioxide (CO₂)\n(ii) Methane (CH₄)\n(iii) Nitrogen (N₂)\n(iv) Nitrous oxide (N₂O)\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv) only",
       "explanation": "CO₂ is a major greenhouse gas from fossil fuel burning (i correct). Methane is a potent greenhouse gas from livestock and decomposition (ii correct). Nitrous oxide is a greenhouse gas from agriculture and industry (iv correct). Nitrogen (N₂) (iii) is NOT a greenhouse gas — it makes up 78% of the atmosphere but does not trap heat."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "B",
       "questionText": "The process by which plants make their food using sunlight is called:",
-      "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Fermentation"
+      ],
       "correctAnswer": "Photosynthesis",
       "explanation": "Photosynthesis converts CO₂ and water into glucose and oxygen using sunlight and chlorophyll. Respiration is the breakdown of glucose for energy (opposite process). Transpiration is loss of water from leaves. Fermentation is anaerobic breakdown of sugars by microorganisms."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "B",
       "questionText": "Consider the following statements about mirrors and lenses:\n\n(i) A concave mirror converges light rays.\n(ii) A convex mirror is used as a rear-view mirror in vehicles.\n(iii) A convex lens is used in magnifying glasses.\n(iv) A concave lens converges light to a focal point.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Concave mirrors converge parallel light rays to a focus (i correct). Convex mirrors give wider field of view — used as rear-view mirrors (ii correct). Convex lenses converge light and magnify — used in magnifying glasses (iii correct). Statement (iv) is incorrect — a concave lens DIVERGES light (spreads it out), it does NOT converge. Convex lenses converge."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "B",
       "questionText": "Match the following diseases with their causative agents:\n\nColumn I:\n(a) Malaria\n(b) Tuberculosis\n(c) AIDS\n(d) Cholera\n\nColumn II:\n(i) HIV (virus)\n(ii) Plasmodium (protozoan)\n(iii) Vibrio cholerae (bacteria)\n(iv) Mycobacterium tuberculosis (bacteria)\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "Malaria is caused by Plasmodium parasite (a-ii). TB is caused by Mycobacterium tuberculosis (b-iv). AIDS is caused by HIV virus (c-i). Cholera is caused by Vibrio cholerae bacteria (d-iii). Option B swaps malaria with TB. Option C mismatches TB with cholera. Option D incorrectly pairs malaria with HIV."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "B",
       "questionText": "The unit of electrical resistance is:",
-      "options": ["Ohm", "Ampere", "Volt", "Watt"],
+      "options": [
+        "Ohm",
+        "Ampere",
+        "Volt",
+        "Watt"
+      ],
       "correctAnswer": "Ohm",
       "explanation": "Electrical resistance is measured in Ohms (Ω). Ampere measures electric current. Volt measures electric potential difference. Watt measures power. Only Ohm is the unit of resistance (R = V/I)."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "B",
       "questionText": "Fill in the blank: The phenomenon of splitting white light into seven colours using a prism is called __________.",
-      "options": ["Dispersion", "Reflection", "Refraction", "Diffraction"],
+      "options": [
+        "Dispersion",
+        "Reflection",
+        "Refraction",
+        "Diffraction"
+      ],
       "correctAnswer": "Dispersion",
       "explanation": "Dispersion is the splitting of white light into its component colours (VIBGYOR) when passing through a prism. Reflection is bouncing of light off a surface. Refraction is bending of light when entering a different medium. Diffraction is bending of light around obstacles. Only dispersion specifically refers to colour separation."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An iron nail sinks in water but a ship made of iron floats.\nReason (R): The ship is designed to displace a volume of water whose weight equals the ship's total weight, according to Archimedes' principle.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — solid iron sinks but hollow iron ships float. Reason (R) is correct — the ship's hollow shape displaces enough water (buoyant force = weight of displaced water ≥ ship's weight). Archimedes' principle (R) explains the buoyancy that allows floating (A). Option B is wrong because (R) is the scientific principle at work. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "B",
       "questionText": "Consider the following statements about acids and bases:\n\n(i) Acids turn blue litmus paper red.\n(ii) Bases turn red litmus paper blue.\n(iii) A substance with pH 7 is neutral.\n(iv) Lemon juice is a base.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Acids turn blue litmus red (i correct). Bases turn red litmus blue (ii correct). pH 7 = neutral (neither acidic nor basic) (iii correct). Statement (iv) is incorrect — lemon juice is an ACID (contains citric acid, pH ≈ 2), not a base."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "B",
       "questionText": "Which of the following metals is the best conductor of electricity?",
-      "options": ["Silver", "Copper", "Iron", "Aluminium"],
+      "options": [
+        "Silver",
+        "Copper",
+        "Iron",
+        "Aluminium"
+      ],
       "correctAnswer": "Silver",
       "explanation": "Silver is the best conductor of electricity among all metals. Copper is second-best (used in wiring due to lower cost). Aluminium is third. Iron is a relatively poor conductor compared to these three. Silver's atomic structure allows the freest electron movement."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "B",
       "questionText": "Match the following organs with their primary functions:\n\nColumn I:\n(a) Heart\n(b) Lungs\n(c) Kidneys\n(d) Liver\n\nColumn II:\n(i) Filtration of blood and urine formation\n(ii) Gaseous exchange (O₂ in, CO₂ out)\n(iii) Pumping blood throughout the body\n(iv) Detoxification and bile production\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
       "explanation": "Heart pumps blood (a-iii). Lungs perform gas exchange (b-ii). Kidneys filter blood and form urine (c-i). Liver detoxifies and produces bile (d-iv). Option B swaps heart with lungs. Option C mismatches lungs with kidneys. Option D incorrectly pairs heart with liver."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "B",
       "questionText": "Consider the following statements about Newton's laws of motion:\n\n(i) First law states that an object remains at rest or in uniform motion unless acted upon by an external force.\n(ii) Second law states F = ma (Force = mass × acceleration).\n(iii) Third law states that for every action there is an equal and opposite reaction.\n(iv) Newton's laws apply only to objects in space, not on Earth.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "First law (inertia): object stays in its state unless force acts on it (i correct). Second law: F=ma relating force to mass and acceleration (ii correct). Third law: action-reaction pairs (iii correct). Statement (iv) is incorrect — Newton's laws apply everywhere on Earth and in space (at non-relativistic speeds). They govern everyday motion."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A thermos flask (vacuum flask) keeps hot liquids hot and cold liquids cold for extended periods.\nReason (R): The vacuum between the double walls of the flask minimizes heat transfer by conduction and convection, while the silvered walls reduce radiation.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — thermos maintains temperature of contents. Reason (R) is correct — vacuum prevents conduction/convection, silver coating reflects radiation, minimizing all modes of heat transfer. The engineering design (R) explains the insulating ability (A). Option B is wrong because (R) explains the mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "B",
       "questionText": "The gas that is essential for respiration in humans is:",
-      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
       "correctAnswer": "Oxygen",
       "explanation": "Humans require oxygen for cellular respiration (converting glucose to energy). Carbon dioxide is a waste product of respiration (exhaled). Nitrogen makes up 78% of air but isn't used in respiration. Hydrogen is not directly involved in breathing."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "B",
       "questionText": "Which of the following are correct about the solar system?\n\n(i) Mercury is the closest planet to the Sun.\n(ii) Jupiter is the largest planet in the solar system.\n(iii) Earth is the third planet from the Sun.\n(iv) Venus is the coldest planet in the solar system.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Mercury is closest to the Sun (i correct). Jupiter is the largest (ii correct). Earth is 3rd from the Sun (iii correct). Statement (iv) is incorrect — Venus is actually the HOTTEST planet (due to greenhouse effect), not the coldest. Neptune or Uranus are the coldest planets."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "B",
       "questionText": "The chemical formula of baking soda is:",
-      "options": ["NaHCO₃", "Na₂CO₃", "CaCO₃", "NaCl"],
+      "options": [
+        "NaHCO₃",
+        "Na₂CO₃",
+        "CaCO₃",
+        "NaCl"
+      ],
       "correctAnswer": "NaHCO₃",
       "explanation": "Baking soda is sodium bicarbonate (NaHCO₃). Na₂CO₃ is washing soda (sodium carbonate). CaCO₃ is limestone/chalk (calcium carbonate). NaCl is common salt (sodium chloride). Only NaHCO₃ is baking soda."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "B",
       "questionText": "Consider the following statements about the human nervous system:\n\n(i) The brain is the control centre of the nervous system.\n(ii) Neurons are the basic structural units of the nervous system.\n(iii) The spinal cord connects the brain to the rest of the body.\n(iv) Reflexes are controlled exclusively by the brain.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "The brain is the central control organ (i correct). Neurons (nerve cells) are the functional units (ii correct). The spinal cord is the communication highway between brain and body (iii correct). Statement (iv) is incorrect — REFLEX actions are controlled by the SPINAL CORD (reflex arc), NOT the brain. That's why they're so fast — they bypass the brain."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "B",
       "questionText": "Match the following elements with their symbols:\n\nColumn I:\n(a) Gold\n(b) Silver\n(c) Iron\n(d) Sodium\n\nColumn II:\n(i) Na\n(ii) Fe\n(iii) Au\n(iv) Ag\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "Gold = Au (from Latin 'Aurum') (a-iii). Silver = Ag (from Latin 'Argentum') (b-iv). Iron = Fe (from Latin 'Ferrum') (c-ii). Sodium = Na (from Latin 'Natrium') (d-i). Option B swaps gold with silver. Option C mismatches silver with iron. Option D incorrectly pairs gold with sodium."
     },
@@ -247,7 +397,12 @@
       "id": "31",
       "subject": "B",
       "questionText": "Fill in the blank: The process of converting a liquid into vapour at a temperature below its boiling point is called __________.",
-      "options": ["Evaporation", "Boiling", "Condensation", "Sublimation"],
+      "options": [
+        "Evaporation",
+        "Boiling",
+        "Condensation",
+        "Sublimation"
+      ],
       "correctAnswer": "Evaporation",
       "explanation": "Evaporation occurs at any temperature below the boiling point as surface molecules escape into vapour. Boiling occurs only at the boiling point throughout the liquid. Condensation is the reverse (vapour to liquid). Sublimation is solid directly to gas (like dry ice). Only evaporation fits the description of liquid-to-vapour below boiling point."
     },
@@ -255,7 +410,12 @@
       "id": "32",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Copper and aluminium are widely used for making electrical wires.\nReason (R): Both metals are excellent conductors of electricity and are ductile (can be drawn into thin wires).\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — copper and aluminium are primary wire materials. Reason (R) is correct — both have high conductivity AND ductility (can be drawn into wires). The combination of conductivity and ductility (R) explains their use in wiring (A). Option B is wrong because (R) gives the exact reasons. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "B",
       "questionText": "Consider the following statements about the electromagnetic spectrum:\n\n(i) Radio waves have the longest wavelength.\n(ii) Gamma rays have the highest frequency.\n(iii) Visible light is a small portion of the electromagnetic spectrum.\n(iv) Microwaves are used only for cooking food.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Radio waves have the longest wavelength in the EM spectrum (i correct). Gamma rays have the shortest wavelength and highest frequency (ii correct). Visible light occupies a tiny portion of the full spectrum (iii correct). Statement (iv) is incorrect — microwaves are used for communication (mobile phones, WiFi, satellite), radar, AND cooking — not ONLY cooking."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "B",
       "questionText": "Which of the following correctly explains why the sky appears blue?",
-      "options": ["Blue light is scattered more by the atmosphere because it has a shorter wavelength (Rayleigh scattering)", "The sky reflects the blue colour of the oceans", "The Sun emits only blue light during daytime", "Blue paint particles exist naturally in the atmosphere"],
+      "options": [
+        "Blue light is scattered more by the atmosphere because it has a shorter wavelength (Rayleigh scattering)",
+        "The sky reflects the blue colour of the oceans",
+        "The Sun emits only blue light during daytime",
+        "Blue paint particles exist naturally in the atmosphere"
+      ],
       "correctAnswer": "Blue light is scattered more by the atmosphere because it has a shorter wavelength (Rayleigh scattering)",
       "explanation": "Rayleigh scattering causes shorter wavelengths (blue/violet) to scatter more than longer ones (red). Our eyes are more sensitive to blue than violet, so the sky appears blue. The ocean reflection theory is a myth. The sun emits all visible wavelengths. Blue paint particles don't exist in the atmosphere."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "B",
       "questionText": "Which of the following are properties of magnets?\n\n(i) Like poles repel, unlike poles attract.\n(ii) A freely suspended magnet always points North-South.\n(iii) Magnets can attract all metals equally.\n(iv) Cutting a magnet in half creates two complete magnets, each with North and South poles.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv) only", "(i), (ii) and (iii) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv) only",
       "explanation": "Like poles repel, unlike attract (i correct). A free magnet aligns North-South due to Earth's magnetic field (ii correct). Breaking a magnet gives two complete magnets with both poles (iv correct). Statement (iii) is incorrect — magnets attract only ferromagnetic metals (iron, nickel, cobalt), NOT all metals. Aluminium, copper, gold are not attracted by magnets."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "B",
       "questionText": "Match the following everyday substances with their chemical names:\n\nColumn I:\n(a) Vinegar\n(b) Bleaching powder\n(c) Plaster of Paris\n(d) Washing soda\n\nColumn II:\n(i) Calcium sulphate hemihydrate\n(ii) Sodium carbonate\n(iii) Acetic acid (dilute)\n(iv) Calcium hypochlorite\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Vinegar = dilute acetic acid (a-iii). Bleaching powder = calcium hypochlorite (b-iv). Plaster of Paris = calcium sulphate hemihydrate (c-i). Washing soda = sodium carbonate Na₂CO₃ (d-ii). Option B swaps vinegar with bleaching powder. Option C mismatches bleaching powder with Plaster of Paris. Option D incorrectly pairs vinegar with washing soda."
     },
@@ -295,7 +475,12 @@
       "id": "37",
       "subject": "B",
       "questionText": "The phenomenon where a metal spoon in hot soup becomes hot at the handle is an example of:",
-      "options": ["Conduction", "Convection", "Radiation", "Evaporation"],
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Evaporation"
+      ],
       "correctAnswer": "Conduction",
       "explanation": "Conduction is heat transfer through a solid material by molecular vibration without bulk movement. The spoon conducts heat from the hot soup end to the cool handle. Convection is heat transfer in fluids through movement of the fluid itself. Radiation is heat transfer through electromagnetic waves without medium. Evaporation is liquid-to-gas transition."
     },
@@ -303,7 +488,12 @@
       "id": "38",
       "subject": "B",
       "questionText": "Consider the following statements about the water cycle:\n\n(i) Evaporation converts water from liquid to water vapour.\n(ii) Condensation forms clouds from water vapour.\n(iii) Precipitation includes rain, snow, and hail.\n(iv) The water cycle is powered by nuclear energy from power plants.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Evaporation changes water to vapour (i correct). Condensation of vapour forms clouds (ii correct). Rain, snow, hail are forms of precipitation (iii correct). Statement (iv) is incorrect — the water cycle is powered by SOLAR ENERGY (the Sun heats water causing evaporation), not nuclear power plants."
     },
@@ -311,7 +501,12 @@
       "id": "39",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Stainless steel does not rust easily.\nReason (R): Stainless steel contains chromium which forms a thin protective oxide layer on the surface, preventing further oxidation of iron.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — stainless steel resists rusting. Reason (R) is correct — chromium (typically 10.5%+) forms Cr₂O₃ passive layer that protects the iron underneath. The chromium oxide layer (R) explains the rust resistance (A). Option B is wrong because (R) is the scientific explanation. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -319,7 +514,12 @@
       "id": "40",
       "subject": "B",
       "questionText": "The SI unit of force is:",
-      "options": ["Newton", "Joule", "Pascal", "Watt"],
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
       "correctAnswer": "Newton",
       "explanation": "Force is measured in Newtons (N) = kg⋅m/s². Joule is the unit of energy/work. Pascal is the unit of pressure. Watt is the unit of power. Only Newton measures force (F = ma)."
     },
@@ -327,15 +527,25 @@
       "id": "41",
       "subject": "B",
       "questionText": "Which of the following are communicable (infectious) diseases?\n\n(i) Tuberculosis\n(ii) Diabetes\n(iii) Cholera\n(iv) Dengue\n\nSelect the correct combination:",
-      "options": ["(i), (iii) and (iv) only", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (iii) and (iv) only",
       "explanation": "TB is communicable (spread through air/droplets) (i correct). Cholera is communicable (spread through contaminated water) (iii correct). Dengue is communicable (spread by mosquitoes) (iv correct). Diabetes (ii) is a NON-COMMUNICABLE disease — it's a metabolic disorder, not caused by pathogens and not spread person-to-person."
     },
     {
       "id": "42",
       "subject": "B",
-      "questionText": "The following data shows the boiling points of different substances:\n\n| Substance | Boiling Point (°C) |\n|-----------|-------------------|\n| Water | 100 |\n| Ethanol | 78 |\n| Mercury | 357 |\n| Oxygen | -183 |\n\nWhich substance has the lowest boiling point?",
-      "options": ["Oxygen", "Ethanol", "Water", "Mercury"],
+      "questionText": "The following data shows the boiling points of different substances:\n\nWater → 100\nEthanol → 78\nMercury → 357\nOxygen → -183\n\nWhich substance has the lowest boiling point?",
+      "options": [
+        "Oxygen",
+        "Ethanol",
+        "Water",
+        "Mercury"
+      ],
       "correctAnswer": "Oxygen",
       "explanation": "Oxygen has the lowest boiling point at -183°C (it's a gas at room temperature). Ethanol boils at 78°C. Water at 100°C. Mercury at 357°C (highest in this list). The lower the boiling point, the more easily a substance turns into gas."
     },
@@ -343,7 +553,12 @@
       "id": "43",
       "subject": "B",
       "questionText": "Consider the following statements about electricity:\n\n(i) Electric current is the flow of electrons in a conductor.\n(ii) Voltage (potential difference) drives the current through a circuit.\n(iii) Resistance opposes the flow of current.\n(iv) In a series circuit, the total resistance decreases as more resistors are added.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Current = flow of electrons/charges (i correct). Voltage is the driving force (ii correct). Resistance opposes current flow (iii correct). Statement (iv) is incorrect — in a SERIES circuit, total resistance INCREASES as more resistors are added (R_total = R₁+R₂+...). It DECREASES in parallel circuits."
     },
@@ -351,7 +566,12 @@
       "id": "44",
       "subject": "B",
       "questionText": "Match the following types of soil with their characteristics:\n\nColumn I:\n(a) Sandy soil\n(b) Clay soil\n(c) Loamy soil\n(d) Alluvial soil\n\nColumn II:\n(i) Best for agriculture — mixture of sand, silt, and clay\n(ii) Deposited by rivers — very fertile\n(iii) Large particles — drains water quickly\n(iv) Small particles — retains water, becomes sticky\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Sandy soil has large particles and drains quickly (a-iii). Clay soil has tiny particles and retains water/becomes sticky (b-iv). Loamy soil is the ideal mixture for farming (c-i). Alluvial soil is deposited by rivers and is very fertile (d-ii). Option B swaps sandy with clay. Option C mismatches clay with loamy. Option D incorrectly pairs sandy with alluvial."
     },
@@ -359,7 +579,12 @@
       "id": "45",
       "subject": "B",
       "questionText": "The gas produced when an acid reacts with a metal is:",
-      "options": ["Hydrogen", "Oxygen", "Carbon dioxide", "Nitrogen"],
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
       "correctAnswer": "Hydrogen",
       "explanation": "When acids react with metals, hydrogen gas is released (e.g., Zn + H₂SO₄ → ZnSO₄ + H₂↑). Oxygen is released during decomposition of some compounds or photosynthesis. Carbon dioxide is released when acids react with carbonates. Nitrogen is not typically produced in acid-metal reactions."
     },
@@ -367,15 +592,25 @@
       "id": "46",
       "subject": "B",
       "questionText": "Consider the following statements about the human eye:\n\n(i) The lens focuses light on the retina.\n(ii) The iris controls the amount of light entering the eye.\n(iii) The retina contains rod and cone cells for detecting light.\n(iv) Near-sightedness (myopia) is corrected using a convex lens.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "The lens focuses light onto the retina (i correct). The iris adjusts pupil size to control light entry (ii correct). Rods (dim light) and cones (colour/bright light) on the retina detect images (iii correct). Statement (iv) is incorrect — myopia (near-sightedness) is corrected using a CONCAVE lens (diverging), not convex. Convex lenses correct hypermetropia (far-sightedness)."
     },
     {
       "id": "47",
       "subject": "B",
-      "questionText": "The following data shows the melting points of different substances:\n\n| Substance | Melting Point (°C) |\n|-----------|-------------------|\n| Ice | 0 |\n| Iron | 1538 |\n| Gold | 1064 |\n| Lead | 327 |\n\nWhich metal has the highest melting point?",
-      "options": ["Iron", "Gold", "Lead", "All have equal melting points"],
+      "questionText": "The following data shows the melting points of different substances:\n\nIce → 0\nIron → 1538\nGold → 1064\nLead → 327\n\nWhich metal has the highest melting point?",
+      "options": [
+        "Iron",
+        "Gold",
+        "Lead",
+        "All have equal melting points"
+      ],
       "correctAnswer": "Iron",
       "explanation": "Iron has the highest melting point at 1538°C among the listed metals. Gold melts at 1064°C (second). Lead melts at 327°C (lowest metal listed). Ice (0°C) is not a metal. The data clearly shows iron with the highest melting point."
     },
@@ -383,7 +618,12 @@
       "id": "48",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Plants release oxygen during the day and carbon dioxide at night.\nReason (R): During the day, photosynthesis dominates over respiration producing net oxygen; at night, only respiration occurs, releasing CO₂.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — plants produce net O₂ during day and net CO₂ at night. Reason (R) is correct — daytime photosynthesis (uses CO₂, releases O₂) exceeds respiration; at night without sunlight, only respiration (uses O₂, releases CO₂) occurs. The balance between processes (R) explains the observation (A). Option B is wrong because (R) explains the mechanism. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -391,15 +631,25 @@
       "id": "49",
       "subject": "B",
       "questionText": "Which of the following are examples of chemical changes?\n\n(i) Rusting of iron\n(ii) Melting of ice\n(iii) Burning of paper\n(iv) Cooking of food\n\nSelect the correct combination:",
-      "options": ["(i), (iii) and (iv) only", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (iii) and (iv) only",
       "explanation": "Rusting forms new substance iron oxide — chemical change (i correct). Burning produces CO₂, water, and ash — new substances formed — chemical change (iii correct). Cooking changes chemical composition of food — chemical change (iv correct). Melting of ice (ii) is a PHYSICAL change — only state changes (solid to liquid), no new substance is formed."
     },
     {
       "id": "50",
       "subject": "B",
-      "questionText": "The following data shows the pH values of different substances:\n\n| Substance | pH |\n|-----------|----|\n| Lemon juice | 2 |\n| Pure water | 7 |\n| Baking soda solution | 9 |\n| Stomach acid | 1.5 |\n\nWhich substance is the most acidic?",
-      "options": ["Stomach acid", "Lemon juice", "Baking soda solution", "Pure water"],
+      "questionText": "The following data shows the pH values of different substances:\n\nLemon juice → 2\nPure water → 7\nBaking soda solution → 9\nStomach acid → 1.5\n\nWhich substance is the most acidic?",
+      "options": [
+        "Stomach acid",
+        "Lemon juice",
+        "Baking soda solution",
+        "Pure water"
+      ],
       "correctAnswer": "Stomach acid",
       "explanation": "Lower pH = more acidic. Stomach acid has pH 1.5 (most acidic). Lemon juice has pH 2 (second most acidic). Pure water is neutral at pH 7. Baking soda solution is basic at pH 9. The pH scale shows stomach acid is the strongest acid listed."
     }

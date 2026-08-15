@@ -254,7 +254,7 @@
     {
       "id": "32",
       "subject": "D",
-      "questionText": "The following table shows the marks scored by a student in five tests:\n\n| Test | Marks (out of 50) |\n|------|-------------------|\n| 1 | 35 |\n| 2 | 42 |\n| 3 | 28 |\n| 4 | 38 |\n| 5 | 47 |\n\nWhat is the difference between the highest and lowest marks scored?",
+      "questionText": "The following table shows the marks scored by a student in five tests:\n\nTest 1 → 35 marks (out of 50)\nTest 2 → 42 marks (out of 50)\nTest 3 → 28 marks (out of 50)\nTest 4 → 38 marks (out of 50)\nTest 5 → 47 marks (out of 50)\n\nWhat is the difference between the highest and lowest marks scored?",
       "options": ["17", "19", "21", "15"],
       "correctAnswer": "19",
       "explanation": "Highest marks = 47 (Test 5). Lowest marks = 28 (Test 3). Difference = 47 – 28 = 19. 17 is wrong — results from computing 42 – 25 or similar error. 21 is wrong — results from computing 49 – 28. 15 is wrong — results from computing 42 – 27 or 43 – 28."
@@ -272,8 +272,8 @@
       "subject": "D",
       "questionText": "Consider the following statements about the number 3600:\n\n(i) It is a perfect square.\n(ii) Its square root is 60.\n(iii) It is divisible by 16.\n(iv) It is divisible by 25.\n\nWhich of the statements given above are correct?",
       "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — 3600 = 60², so it is a perfect square. (ii) is correct — √3600 = 60. (iv) is correct — 3600 ÷ 25 = 144, so it is divisible by 25. (iii) is correct — 3600 ÷ 16 = 225, so it IS divisible by 16. Wait: 3600 = 2⁴ × 3² × 5² and 16 = 2⁴, so yes. Actually all four are correct. Let me recalculate: 16 × 225 = 3600 ✓. So 'All of the above' would be correct. However, (iii) 3600 ÷ 16 = 225. Actually this means all are correct — the answer is 'All of the above'. Correction: The answer should be 'All of the above' but that wasn't my intended answer. Let me verify: 3600 = 2⁴ × 3² × 5². 16 = 2⁴. Since 3600 has 2⁴ as a factor, yes it's divisible by 16. So all four are correct."
+      "correctAnswer": "All of the above",
+      "explanation": "(i) is correct — 3600 = 60², so it is a perfect square. (ii) is correct — √3600 = 60. (iii) is correct — 3600 ÷ 16 = 225, so it is divisible by 16 (3600 = 2⁴ × 3² × 5² contains 2⁴ = 16 as a factor). (iv) is correct — 3600 ÷ 25 = 144, so it is divisible by 25. All four statements are correct."
     },
     {
       "id": "35",
@@ -310,7 +310,7 @@
     {
       "id": "39",
       "subject": "D",
-      "questionText": "The data below shows production of rice (in lakh tonnes) by four states:\n\n| State | Production |\n|-------|------------|\n| P | 45 |\n| Q | 60 |\n| R | 30 |\n| S | 75 |\n\nThe production of State R is what percentage of the total production of all four states?",
+      "questionText": "The data below shows production of rice (in lakh tonnes) by four states:\n\nState P → 45\nState Q → 60\nState R → 30\nState S → 75\n\nThe production of State R is what percentage of the total production of all four states?",
       "options": ["14.29%", "15.5%", "12.5%", "16.67%"],
       "correctAnswer": "14.29%",
       "explanation": "Total production = 45 + 60 + 30 + 75 = 210 lakh tonnes. Percentage of R = (30/210) × 100 = 14.29% (approximately). 15.5% is wrong — would mean R's share is 32.55 out of 210. 12.5% is wrong — would mean production is 30/240. 16.67% is wrong — that's 1/6, which would mean total is 180."
@@ -368,8 +368,8 @@
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) √(144/9) = 4\n(ii) ³√(8/27) = 2/3\n(iii) (−3)² = −9\n(iv) (0.1)³ = 0.001\n\nWhich of the statements given above are correct?",
       "options": ["(ii) and (iv) only", "(i), (ii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(ii) and (iv) only",
-      "explanation": "(ii) is correct — ³√(8/27) = ³√8 / ³√27 = 2/3. (iv) is correct — (0.1)³ = 0.1 × 0.1 × 0.1 = 0.001. (i) is wrong — √(144/9) = √144/√9 = 12/3 = 4. Actually wait: 12/3 = 4, so (i) IS correct. Let me recalculate: √(144/9) = √16 = 4. Yes, 144/9 = 16, √16 = 4. So (i) is correct. (iii) is wrong — (−3)² = 9, not −9 (squaring a negative gives a positive). So (i), (ii) and (iv) are correct."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — √(144/9) = √16 = 4 (since 144/9 = 16 and √16 = 4). (ii) is correct — ³√(8/27) = ³√8 / ³√27 = 2/3. (iv) is correct — (0.1)³ = 0.1 × 0.1 × 0.1 = 0.001. (iii) is wrong — (−3)² = 9, not −9 (squaring a negative number gives a positive result)."
     },
     {
       "id": "47",
@@ -390,7 +390,7 @@
     {
       "id": "49",
       "subject": "D",
-      "questionText": "The number of students scoring different marks in a test is given below:\n\n| Marks Range | Number of Students |\n|-------------|-------------------|\n| 0–20 | 5 |\n| 21–40 | 12 |\n| 41–60 | 18 |\n| 61–80 | 10 |\n| 81–100 | 5 |\n\nHow many students scored more than 40 marks?",
+      "questionText": "The number of students scoring different marks in a test is given below:\n\n0–20 → 5 students\n21–40 → 12 students\n41–60 → 18 students\n61–80 → 10 students\n81–100 → 5 students\n\nHow many students scored more than 40 marks?",
       "options": ["33", "28", "35", "30"],
       "correctAnswer": "33",
       "explanation": "Students scoring more than 40: 41–60 = 18, 61–80 = 10, 81–100 = 5. Total = 18 + 10 + 5 = 33. 28 is wrong — results from adding only 18 + 10 (forgetting 81–100 group). 35 is wrong — results from including 21–40 group partially. 30 is wrong — results from computing 12 + 18 (wrong groups)."

@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "B",
       "questionText": "The process of pasteurisation of milk involves heating it to a specific temperature and then rapidly cooling it. The primary purpose of this process is to:",
-      "options": ["Increase the fat content of milk", "Kill harmful bacteria without significantly altering taste", "Convert lactose into glucose for easier digestion", "Add vitamins and minerals to the milk"],
+      "options": [
+        "Increase the fat content of milk",
+        "Kill harmful bacteria without significantly altering taste",
+        "Convert lactose into glucose for easier digestion",
+        "Add vitamins and minerals to the milk"
+      ],
       "correctAnswer": "Kill harmful bacteria without significantly altering taste",
       "explanation": "Pasteurisation heats milk to about 72°C for 15 seconds to kill pathogenic bacteria while preserving taste and nutritional value. 'Increase fat content' is wrong — pasteurisation does not change fat levels; that is done by cream separation. 'Convert lactose into glucose' is wrong — pasteurisation does not alter milk sugars; lactase enzyme does that. 'Add vitamins and minerals' is wrong — that process is called fortification, not pasteurisation."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "B",
       "questionText": "Consider the following statements:\n\n(i) Vitamin C is a water-soluble vitamin found abundantly in citrus fruits.\n(ii) Vitamin D is primarily obtained through exposure to sunlight.\n(iii) Vitamin A deficiency causes scurvy.\n(iv) Vitamin K is essential for blood clotting.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — Vitamin C (ascorbic acid) is water-soluble and abundant in citrus fruits like oranges and lemons. (ii) is correct — Vitamin D is synthesised in the skin upon exposure to UV-B radiation from sunlight. (iv) is correct — Vitamin K is essential for the synthesis of prothrombin needed for blood clotting. (iii) is wrong — Vitamin A deficiency causes night blindness; it is Vitamin C deficiency that causes scurvy."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "B",
       "questionText": "Match the following household chemicals with their common names:\n\nColumn I:\n(a) Sodium bicarbonate\n(b) Acetic acid\n(c) Calcium hypochlorite\n(d) Sodium hydroxide\n\nColumn II:\n(i) Vinegar\n(ii) Caustic soda\n(iii) Baking soda\n(iv) Bleaching powder\n\nChoose the correct match:",
-      "options": ["(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
       "explanation": "Sodium bicarbonate (NaHCO₃) is baking soda (iii). Acetic acid (CH₃COOH) is the main component of vinegar (i). Calcium hypochlorite (Ca(OCl)₂) is bleaching powder (iv). Sodium hydroxide (NaOH) is caustic soda (ii). The first option wrongly swaps baking soda and vinegar. The second option wrongly assigns bleaching powder to acetic acid. The fourth option wrongly assigns caustic soda to sodium bicarbonate."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "B",
       "questionText": "A person standing in front of a plane mirror sees their image. The image formed is:",
-      "options": ["Real, inverted and magnified", "Virtual, inverted and diminished", "Real, erect and of the same size", "Virtual, erect and laterally inverted"],
+      "options": [
+        "Real, inverted and magnified",
+        "Virtual, inverted and diminished",
+        "Real, erect and of the same size",
+        "Virtual, erect and laterally inverted"
+      ],
       "correctAnswer": "Virtual, erect and laterally inverted",
       "explanation": "A plane mirror always forms a virtual, erect image that is laterally inverted (left-right reversal) and of the same size as the object. 'Real, inverted and magnified' is wrong — that describes a concave mirror image when object is between F and C. 'Virtual, inverted and diminished' is wrong — virtual images in mirrors are always erect, not inverted. 'Real, erect and of the same size' is wrong — plane mirrors cannot form real images."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "B",
       "questionText": "Which of the following are greenhouse gases that contribute to global warming?\n\n(i) Carbon dioxide\n(ii) Methane\n(iii) Nitrogen\n(iv) Nitrous oxide\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Carbon dioxide (CO₂), methane (CH₄), and nitrous oxide (N₂O) are all greenhouse gases that trap heat in the atmosphere. Nitrogen (N₂) is wrong — it makes up about 78% of the atmosphere but is not a greenhouse gas because its molecular structure does not absorb infrared radiation."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cooking food in a pressure cooker is faster than cooking in an open vessel.\nReason (R): The boiling point of water increases with increase in pressure.\n\nChoose the correct option:",
-      "options": ["(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct", "Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"],
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — food cooks faster in a pressure cooker. Reason (R) is correct — boiling point rises with pressure. (R) correctly explains (A) because the increased pressure inside the cooker raises the boiling point of water above 100°C, so food is cooked at a higher temperature and hence faster."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "B",
       "questionText": "The element __________ is added to table salt (NaCl) in India to prevent goitre, a thyroid disorder.",
-      "options": ["Iodine", "Calcium", "Iron", "Fluorine"],
+      "options": [
+        "Iodine",
+        "Calcium",
+        "Iron",
+        "Fluorine"
+      ],
       "correctAnswer": "Iodine",
       "explanation": "Iodine (as potassium iodate) is added to table salt to prevent iodine deficiency disorders including goitre (enlargement of the thyroid gland). 'Iron' is wrong — iron is added to flour and cereals to prevent anaemia, not goitre. 'Calcium' is wrong — calcium is needed for bones and teeth but is not added to salt for goitre prevention. 'Fluorine' is wrong — fluoride is added to toothpaste and water for dental health, not to salt for goitre."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "B",
       "questionText": "Why do we see lightning before we hear thunder during a thunderstorm?",
-      "options": ["Light travels much faster than sound", "Sound waves are absorbed by rain clouds", "Thunder is produced after lightning", "Human ears are less sensitive than eyes"],
+      "options": [
+        "Light travels much faster than sound",
+        "Sound waves are absorbed by rain clouds",
+        "Thunder is produced after lightning",
+        "Human ears are less sensitive than eyes"
+      ],
       "correctAnswer": "Light travels much faster than sound",
       "explanation": "Light travels at approximately 3 × 10⁸ m/s while sound travels at about 343 m/s in air. This enormous speed difference means light from a lightning flash reaches us almost instantly, while the thunder (sound) takes longer. 'Thunder is produced after lightning' is wrong — they are produced simultaneously; thunder is the sound caused by rapid air expansion from lightning. 'Sound waves absorbed by rain clouds' is wrong — some absorption occurs but the main reason is the speed difference. 'Human ears less sensitive than eyes' is wrong — sensitivity is not the issue; it is the different speeds of propagation."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "B",
       "questionText": "Consider the following statements:\n\n(i) Sound cannot travel through vacuum.\n(ii) Sound travels faster in air than in water.\n(iii) The speed of sound in air at 20°C is approximately 343 m/s.\n(iv) Ultrasound has frequency greater than 20,000 Hz.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "(i) is correct — sound requires a material medium for propagation and cannot travel through vacuum. (iii) is correct — speed of sound in air at 20°C is approximately 343 m/s. (iv) is correct — ultrasound has frequency above 20,000 Hz (above human hearing range). (ii) is wrong — sound travels faster in water (about 1500 m/s) than in air (343 m/s) because water is denser and more elastic."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "B",
       "questionText": "The normal human body temperature is approximately:",
-      "options": ["37°C", "35°C", "39°C", "40°C"],
+      "options": [
+        "37°C",
+        "35°C",
+        "39°C",
+        "40°C"
+      ],
       "correctAnswer": "37°C",
       "explanation": "The average normal human body temperature is approximately 37°C (98.6°F). '35°C' is wrong — this would indicate hypothermia. '39°C' is wrong — this indicates fever. '40°C' is wrong — this indicates high fever requiring medical attention."
     },
@@ -87,15 +137,25 @@
       "id": "11",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Ice floats on water.\nReason (R): The density of ice is less than the density of liquid water.\n\nChoose the correct option:",
-      "options": ["(A) is correct but (R) is not correct", "Both (A) and (R) are correct and (R) is the correct explanation of (A)", "(A) is not correct but (R) is correct", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"],
+      "options": [
+        "(A) is correct but (R) is not correct",
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — ice floats on water, which is an anomalous property of water. Reason (R) is correct — ice has a density of about 0.917 g/cm³ while liquid water has a density of 1.0 g/cm³. (R) correctly explains (A) because any substance with lower density than the liquid it is placed in will float (Archimedes' principle)."
     },
     {
       "id": "12",
       "subject": "B",
-      "questionText": "The following table shows the boiling points of different liquids:\n\n| Liquid | Boiling Point (°C) |\n|--------|-------------------|\n| Water | 100 |\n| Ethanol | 78 |\n| Mercury | 357 |\n| Acetone | 56 |\n\nWhich liquid would evaporate most quickly if left in an open container at room temperature (25°C)?",
-      "options": ["Ethanol", "Water", "Mercury", "Acetone"],
+      "questionText": "The following table shows the boiling points of different liquids:\n\nWater → 100\nEthanol → 78\nMercury → 357\nAcetone → 56\n\nWhich liquid would evaporate most quickly if left in an open container at room temperature (25°C)?",
+      "options": [
+        "Ethanol",
+        "Water",
+        "Mercury",
+        "Acetone"
+      ],
       "correctAnswer": "Acetone",
       "explanation": "Acetone has the lowest boiling point (56°C) among the listed liquids, meaning it has the weakest intermolecular forces and the highest vapour pressure at room temperature, so it evaporates fastest. 'Ethanol' is wrong — its boiling point (78°C) is higher than acetone, so it evaporates slower. 'Water' is wrong — its boiling point (100°C) is much higher, indicating stronger hydrogen bonds. 'Mercury' is wrong — its very high boiling point (357°C) means it evaporates extremely slowly at room temperature."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "B",
       "questionText": "Which of the following are correct about the human digestive system?\n\n(i) Saliva contains the enzyme amylase which breaks down starch.\n(ii) The stomach secretes hydrochloric acid.\n(iii) The small intestine is primarily responsible for water absorption.\n(iv) Bile is produced by the liver and stored in the gall bladder.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Saliva contains salivary amylase (ptyalin) that begins starch digestion (i). The stomach secretes HCl to create an acidic environment for pepsin to work (ii). Bile is produced by the liver and stored in the gall bladder (iv). (iii) is wrong — the large intestine (colon) is primarily responsible for water absorption, not the small intestine (which mainly absorbs nutrients)."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "B",
       "questionText": "A clinical thermometer used to measure human body temperature typically has a range of:",
-      "options": ["0°C to 100°C", "35°C to 42°C", "30°C to 50°C", "20°C to 45°C"],
+      "options": [
+        "0°C to 100°C",
+        "35°C to 42°C",
+        "30°C to 50°C",
+        "20°C to 45°C"
+      ],
       "correctAnswer": "35°C to 42°C",
       "explanation": "A clinical thermometer is designed with a range of 35°C to 42°C because normal body temperature is around 37°C and it needs to measure fever conditions (up to 42°C) and hypothermia (down to 35°C). '0°C to 100°C' is wrong — that is the range of a laboratory thermometer. '30°C to 50°C' is wrong — this range is too wide for a clinical thermometer. '20°C to 45°C' is wrong — temperatures below 35°C are rarely encountered clinically and this range is not standard."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "B",
       "questionText": "Match the following diseases with their causative agents:\n\nColumn I:\n(a) Malaria\n(b) Tuberculosis\n(c) Dengue\n(d) Ringworm\n\nColumn II:\n(i) Virus\n(ii) Fungus\n(iii) Protozoan (Plasmodium)\n(iv) Bacterium (Mycobacterium)\n\nChoose the correct match:",
-      "options": ["(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Malaria is caused by the protozoan Plasmodium (iii), transmitted by Anopheles mosquitoes. Tuberculosis is caused by the bacterium Mycobacterium tuberculosis (iv). Dengue is caused by the Dengue virus (i), transmitted by Aedes mosquitoes. Ringworm is caused by fungi (ii) like Trichophyton. The first option wrongly assigns virus to malaria. The second option wrongly assigns fungus to TB. The fourth option reverses all assignments incorrectly."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "B",
       "questionText": "If a person standing at a distance of 680 metres from a cliff claps his hands, after how many seconds will he hear the echo? (Speed of sound in air = 340 m/s)",
-      "options": ["2 seconds", "1 second", "6 seconds", "4 seconds"],
+      "options": [
+        "2 seconds",
+        "1 second",
+        "6 seconds",
+        "4 seconds"
+      ],
       "correctAnswer": "4 seconds",
       "explanation": "For an echo, sound must travel to the cliff and back. Total distance = 2 × 680 = 1360 metres. Time = Distance/Speed = 1360/340 = 4 seconds. '2 seconds' is wrong — this would be the time for sound to travel only one way (680/340). '1 second' is wrong — this gives a distance of only 340 m total. '6 seconds' is wrong — this would require a total distance of 2040 m."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "B",
       "questionText": "The gas used in refrigerators as a coolant that was found to deplete the ozone layer is:",
-      "options": ["Carbon dioxide", "Chlorofluorocarbon (CFC)", "Nitrogen", "Argon"],
+      "options": [
+        "Carbon dioxide",
+        "Chlorofluorocarbon (CFC)",
+        "Nitrogen",
+        "Argon"
+      ],
       "correctAnswer": "Chlorofluorocarbon (CFC)",
       "explanation": "CFCs (like Freon) were widely used as refrigerants but were found to release chlorine atoms in the stratosphere that catalytically destroy ozone molecules. 'Carbon dioxide' is wrong — CO₂ is a greenhouse gas but does not deplete ozone. 'Nitrogen' is wrong — nitrogen is inert and does not damage the ozone layer. 'Argon' is wrong — argon is a noble gas and chemically unreactive."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): We feel cool when we perspire on a hot day.\nReason (R): Evaporation causes cooling because the liquid absorbs latent heat from the body surface.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — perspiration (sweating) makes us feel cooler. Reason (R) is correct — evaporation is an endothermic process; the liquid sweat absorbs latent heat of vaporisation from the skin surface. (R) correctly explains (A) because it is precisely this absorption of heat energy during evaporation of sweat that lowers our body surface temperature."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "B",
       "questionText": "The blood group that is known as the 'universal donor' is:",
-      "options": ["AB positive", "A positive", "B negative", "O negative"],
+      "options": [
+        "AB positive",
+        "A positive",
+        "B negative",
+        "O negative"
+      ],
       "correctAnswer": "O negative",
       "explanation": "O negative is the universal donor because it lacks A, B antigens and Rh factor, so it can be transfused to patients of any blood group without causing an immune reaction. 'AB positive' is wrong — it is the universal recipient, not donor. 'A positive' is wrong — it contains A antigen which would cause reactions in B and O recipients. 'B negative' is wrong — it contains B antigen which would cause reactions in A and O recipients."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "B",
       "questionText": "Consider the following statements:\n\n(i) Photosynthesis occurs in the chloroplasts of plant cells.\n(ii) It converts carbon dioxide and water into glucose and oxygen.\n(iii) It requires sunlight as an energy source.\n(iv) It occurs only during nighttime.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — photosynthesis takes place in chloroplasts which contain chlorophyll. (ii) is correct — the overall equation is 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. (iii) is correct — sunlight provides the energy needed to drive the reaction. (iv) is wrong — photosynthesis occurs during daytime when sunlight is available; it is respiration that occurs both day and night."
     },
@@ -167,15 +267,25 @@
       "id": "21",
       "subject": "B",
       "questionText": "The colour of an object that we see depends on the wavelength of light it:",
-      "options": ["Absorbs", "Refracts", "Diffracts", "Reflects"],
+      "options": [
+        "Absorbs",
+        "Refracts",
+        "Diffracts",
+        "Reflects"
+      ],
       "correctAnswer": "Reflects",
       "explanation": "An object appears a certain colour because it reflects light of that particular wavelength and absorbs the rest. For example, a red apple reflects red wavelengths and absorbs other colours. 'Absorbs' is wrong — absorbed wavelengths are not seen; they are converted to heat. 'Refracts' is wrong — refraction bends light but does not determine object colour. 'Diffracts' is wrong — diffraction is the bending of light around obstacles and is not the primary mechanism for perceiving object colour."
     },
     {
       "id": "22",
       "subject": "B",
-      "questionText": "The following table shows the pH values of some common substances:\n\n| Substance | pH |\n|-----------|----|\n| Lemon juice | 2.2 |\n| Pure water | 7.0 |\n| Baking soda solution | 8.3 |\n| Household ammonia | 11.5 |\n\nBased on the data, which substance is the strongest acid?",
-      "options": ["Pure water", "Baking soda solution", "Household ammonia", "Lemon juice"],
+      "questionText": "The following table shows the pH values of some common substances:\n\nLemon juice → 2.2\nPure water → 7.0\nBaking soda solution → 8.3\nHousehold ammonia → 11.5\n\nBased on the data, which substance is the strongest acid?",
+      "options": [
+        "Pure water",
+        "Baking soda solution",
+        "Household ammonia",
+        "Lemon juice"
+      ],
       "correctAnswer": "Lemon juice",
       "explanation": "Lemon juice has the lowest pH value (2.2), making it the strongest acid in the table. pH below 7 indicates acidity, and lower pH means stronger acid. 'Pure water' is wrong — pH 7.0 is neutral, neither acidic nor basic. 'Baking soda solution' is wrong — pH 8.3 is mildly basic (alkaline). 'Household ammonia' is wrong — pH 11.5 is strongly basic, the opposite of acidic."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "B",
       "questionText": "The __________ is the largest organ of the human body by surface area.",
-      "options": ["Skin", "Small intestine", "Liver", "Lungs"],
+      "options": [
+        "Skin",
+        "Small intestine",
+        "Liver",
+        "Lungs"
+      ],
       "correctAnswer": "Skin",
       "explanation": "The skin is the largest organ of the human body, covering approximately 1.5 to 2 square metres in adults. 'Liver' is wrong — while it is the largest internal organ by weight (about 1.5 kg), its surface area is much less than the skin. 'Small intestine' is wrong — though its internal absorptive surface area is large, it is not classified as the largest organ by external surface area. 'Lungs' is wrong — while the total alveolar surface area is large internally, the lungs are not the largest organ by body surface area."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "B",
       "questionText": "Which of the following correctly explains why a needle floats on water if placed carefully on the surface?",
-      "options": ["The needle is less dense than water", "Surface tension of water supports the needle", "Water exerts a magnetic repulsion on the needle", "The needle displaces water equal to its weight"],
+      "options": [
+        "The needle is less dense than water",
+        "Surface tension of water supports the needle",
+        "Water exerts a magnetic repulsion on the needle",
+        "The needle displaces water equal to its weight"
+      ],
       "correctAnswer": "Surface tension of water supports the needle",
       "explanation": "A needle floats due to surface tension — the cohesive forces between water molecules create a film-like surface that can support the weight of the needle. 'Needle is less dense than water' is wrong — steel (needle material) is about 8 times denser than water. 'Water exerts magnetic repulsion' is wrong — water is diamagnetic and does not exert significant magnetic force on a steel needle. 'Needle displaces water equal to its weight' is wrong — this describes Archimedes' principle for buoyancy, but the needle does not actually sink into and displace water when supported by surface tension."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "B",
       "questionText": "Match the following simple machines with their everyday examples:\n\nColumn I:\n(a) Lever\n(b) Inclined plane\n(c) Pulley\n(d) Wedge\n\nColumn II:\n(i) Axe blade\n(ii) Flagpole mechanism\n(iii) See-saw\n(iv) Wheelchair ramp\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "A see-saw is a lever (iii) — it pivots on a fulcrum. A wheelchair ramp is an inclined plane (iv) — it reduces effort by increasing distance. A flagpole mechanism uses a pulley (ii) — to change direction of force. An axe blade is a wedge (i) — it splits material by converting force. The second option wrongly assigns pulley to lever. The third option wrongly assigns axe to inclined plane. The fourth option wrongly assigns ramp to lever."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "B",
       "questionText": "Which of the following are properties of acids?\n\n(i) They turn blue litmus paper red.\n(ii) They have a pH value greater than 7.\n(iii) They react with metals to produce hydrogen gas.\n(iv) They have a sour taste.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "(i) is correct — acids turn blue litmus paper red, which is a standard chemical test. (iii) is correct — acids react with metals like zinc and magnesium to produce hydrogen gas. (iv) is correct — acids have a characteristic sour taste (e.g., citric acid in lemons). (ii) is wrong — acids have a pH value less than 7, not greater than 7. Substances with pH greater than 7 are bases (alkaline)."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "B",
       "questionText": "Consider the following statements:\n\n(i) The domestic electricity supply in India is 220V, 50Hz AC.\n(ii) A fuse wire has a high melting point so it does not melt easily.\n(iii) An earthing wire is connected to protect against electric shock.\n(iv) Electrical appliances in a house are connected in parallel.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "(i) is correct — India uses 220-240V, 50Hz AC for domestic supply. (iii) is correct — earthing provides a low-resistance path to ground, protecting against electric shock during short circuits. (iv) is correct — parallel connection ensures each appliance gets the same voltage and can be operated independently. (ii) is wrong — a fuse wire has a LOW melting point so that it melts and breaks the circuit when excessive current flows, protecting the circuit."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "B",
       "questionText": "Which of the following phenomena causes the formation of a rainbow?",
-      "options": ["Diffraction of sunlight by clouds", "Dispersion and total internal reflection of sunlight in water droplets", "Absorption of certain wavelengths by water vapour", "Reflection of sunlight by ice crystals in the atmosphere"],
+      "options": [
+        "Diffraction of sunlight by clouds",
+        "Dispersion and total internal reflection of sunlight in water droplets",
+        "Absorption of certain wavelengths by water vapour",
+        "Reflection of sunlight by ice crystals in the atmosphere"
+      ],
       "correctAnswer": "Dispersion and total internal reflection of sunlight in water droplets",
       "explanation": "A rainbow is formed when sunlight enters water droplets, undergoes dispersion (separation into component colours due to different refractive indices) and total internal reflection before exiting. 'Diffraction by clouds' is wrong — diffraction produces coronas and glories, not rainbows. 'Absorption by water vapour' is wrong — absorption removes certain wavelengths but does not create the spectrum pattern of a rainbow. 'Reflection by ice crystals' is wrong — ice crystals produce halos (22° ring), not rainbows."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Copper is used for making electrical wires in homes.\nReason (R): Copper is the cheapest metal available for making wires.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is not correct but (R) is correct", "(A) is correct but (R) is not correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is not correct but (R) is correct",
+        "(A) is correct but (R) is not correct"
+      ],
       "correctAnswer": "(A) is correct but (R) is not correct",
       "explanation": "Assertion (A) is correct — copper is widely used for electrical wiring in homes. Reason (R) is wrong — copper is not the cheapest metal; aluminium and iron are cheaper. Copper is used because it is an excellent conductor of electricity (second only to silver) and is ductile, making it ideal for wires. Cost is not the primary reason for its selection."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "B",
       "questionText": "The chemical name of washing soda is:",
-      "options": ["Sodium carbonate", "Sodium bicarbonate", "Sodium chloride", "Calcium carbonate"],
+      "options": [
+        "Sodium carbonate",
+        "Sodium bicarbonate",
+        "Sodium chloride",
+        "Calcium carbonate"
+      ],
       "correctAnswer": "Sodium carbonate",
       "explanation": "Washing soda is sodium carbonate (Na₂CO₃·10H₂O in its hydrated form). 'Sodium bicarbonate' is wrong — NaHCO₃ is baking soda, not washing soda. 'Sodium chloride' is wrong — NaCl is common table salt. 'Calcium carbonate' is wrong — CaCO₃ is limestone or marble, not washing soda."
     },
@@ -247,7 +397,12 @@
       "id": "31",
       "subject": "B",
       "questionText": "Which of the following are renewable sources of energy?\n\n(i) Solar energy\n(ii) Coal\n(iii) Wind energy\n(iv) Biomass\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "Solar energy (i), wind energy (iii), and biomass (iv) are all renewable energy sources because they are naturally replenished on a human timescale. (ii) Coal is wrong — coal is a fossil fuel formed over millions of years and is classified as a non-renewable energy source because it cannot be replenished within a human lifetime."
     },
@@ -255,7 +410,12 @@
       "id": "32",
       "subject": "B",
       "questionText": "A 60-watt bulb is used for 5 hours daily. How many units (kWh) of electricity does it consume in 30 days?",
-      "options": ["9 units", "3 units", "90 units", "30 units"],
+      "options": [
+        "9 units",
+        "3 units",
+        "90 units",
+        "30 units"
+      ],
       "correctAnswer": "9 units",
       "explanation": "Energy consumed = Power × Time. Power = 60W = 0.06 kW. Daily usage = 5 hours. Total time in 30 days = 5 × 30 = 150 hours. Energy = 0.06 × 150 = 9 kWh = 9 units. '3 units' is wrong — this would be for 10 days only (0.06 × 50). '90 units' is wrong — this incorrectly uses 60 kW instead of 0.06 kW. '30 units' is wrong — this incorrectly calculates as 1 unit per day."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "B",
       "questionText": "The metal used in the filament of an electric bulb is tungsten because it has:",
-      "options": ["Very low electrical resistance", "High flexibility and ductility", "Low cost compared to other metals", "A very high melting point"],
+      "options": [
+        "Very low electrical resistance",
+        "High flexibility and ductility",
+        "Low cost compared to other metals",
+        "A very high melting point"
+      ],
       "correctAnswer": "A very high melting point",
       "explanation": "Tungsten is used in incandescent bulb filaments because it has the highest melting point (3422°C) of any metal, allowing it to glow white-hot without melting. 'Very low electrical resistance' is wrong — tungsten actually has relatively high resistance, which is needed to generate heat and light. 'High flexibility and ductility' is wrong — while tungsten is ductile, many metals are flexible; the key property is its melting point. 'Low cost' is wrong — tungsten is not cheap; it is chosen specifically for its thermal properties."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "B",
       "questionText": "Match the following vitamins with their deficiency diseases:\n\nColumn I:\n(a) Vitamin A\n(b) Vitamin B1\n(c) Vitamin C\n(d) Vitamin D\n\nColumn II:\n(i) Scurvy\n(ii) Rickets\n(iii) Night blindness\n(iv) Beriberi\n\nChoose the correct match:",
-      "options": ["(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Vitamin A deficiency causes night blindness (iii). Vitamin B1 (thiamine) deficiency causes beriberi (iv). Vitamin C deficiency causes scurvy (i). Vitamin D deficiency causes rickets (ii) in children. The first option wrongly assigns scurvy to Vitamin A. The second option wrongly assigns scurvy to B1 and beriberi to C. The third option wrongly assigns rickets to Vitamin A."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "B",
       "questionText": "The phenomenon by which a raw mango kept with ripe bananas ripens faster is due to:",
-      "options": ["Carbon dioxide released by ripe bananas", "Heat generated by ripe bananas during respiration", "Ethylene gas released by ripe bananas", "Moisture absorbed from ripe bananas"],
+      "options": [
+        "Carbon dioxide released by ripe bananas",
+        "Heat generated by ripe bananas during respiration",
+        "Ethylene gas released by ripe bananas",
+        "Moisture absorbed from ripe bananas"
+      ],
       "correctAnswer": "Ethylene gas released by ripe bananas",
       "explanation": "Ripe fruits release ethylene (C₂H₄), a natural plant hormone that accelerates the ripening process in nearby unripe fruits. 'Carbon dioxide' is wrong — while CO₂ is released during respiration, it does not trigger ripening; in fact, high CO₂ can slow ripening. 'Heat generated' is wrong — the heat from fruit respiration is negligible and cannot significantly accelerate ripening. 'Moisture absorbed' is wrong — moisture does not trigger the biochemical processes of ripening."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "B",
       "questionText": "Consider the following statements:\n\n(i) Both oxygen and moisture are required for rusting of iron.\n(ii) Rusting is a chemical change that produces iron oxide.\n(iii) Painting iron surfaces can prevent rusting.\n(iv) Rusting occurs faster in distilled water than in salt water.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — both oxygen and moisture (water) are necessary for iron to rust. (ii) is correct — rusting produces hydrated iron(III) oxide (Fe₂O₃·xH₂O), which is a chemical change. (iii) is correct — painting provides a barrier that prevents oxygen and moisture from reaching the iron surface. (iv) is wrong — rusting occurs faster in salt water because dissolved salts act as electrolytes that speed up the electrochemical corrosion process."
     },
@@ -295,7 +475,12 @@
       "id": "37",
       "subject": "B",
       "questionText": "The organ in the human body that produces insulin is the:",
-      "options": ["Pancreas", "Kidney", "Liver", "Thyroid gland"],
+      "options": [
+        "Pancreas",
+        "Kidney",
+        "Liver",
+        "Thyroid gland"
+      ],
       "correctAnswer": "Pancreas",
       "explanation": "Insulin is produced by the beta cells of the islets of Langerhans in the pancreas. It regulates blood sugar levels. 'Liver' is wrong — the liver stores glycogen and produces bile but does not produce insulin. 'Kidney' is wrong — kidneys filter blood and produce urine; they produce erythropoietin and renin but not insulin. 'Thyroid gland' is wrong — the thyroid produces thyroxine (T4) and triiodothyronine (T3), not insulin."
     },
@@ -303,7 +488,12 @@
       "id": "38",
       "subject": "B",
       "questionText": "Why do diamonds sparkle brilliantly?",
-      "options": ["Because diamonds absorb all colours except white", "Due to fluorescence caused by UV radiation", "Because diamonds are transparent and light passes straight through", "Due to total internal reflection of light within the diamond"],
+      "options": [
+        "Because diamonds absorb all colours except white",
+        "Due to fluorescence caused by UV radiation",
+        "Because diamonds are transparent and light passes straight through",
+        "Due to total internal reflection of light within the diamond"
+      ],
       "correctAnswer": "Due to total internal reflection of light within the diamond",
       "explanation": "Diamonds have a very high refractive index (2.42), giving them a small critical angle (about 24.4°). Light entering the diamond undergoes multiple total internal reflections before emerging, creating the brilliant sparkle. 'Absorb all colours except white' is wrong — diamonds are transparent; their sparkle comes from refraction and reflection, not selective absorption. 'Fluorescence from UV' is wrong — while some diamonds fluoresce under UV, this is not the primary cause of sparkle in visible light. 'Light passes straight through' is wrong — if light simply passed through, the diamond would not sparkle; it is the internal reflections that cause brilliance."
     },
@@ -311,7 +501,12 @@
       "id": "39",
       "subject": "B",
       "questionText": "Galvanisation is the process of coating iron with a layer of:",
-      "options": ["Tin", "Zinc", "Copper", "Chromium"],
+      "options": [
+        "Tin",
+        "Zinc",
+        "Copper",
+        "Chromium"
+      ],
       "correctAnswer": "Zinc",
       "explanation": "Galvanisation involves coating iron or steel with a layer of zinc to prevent rusting. Zinc is more reactive than iron and undergoes preferential corrosion (sacrificial protection). 'Tin' is wrong — coating with tin is called tin-plating (used in food cans). 'Copper' is wrong — copper plating is used for decoration but is less reactive than iron so would not provide sacrificial protection. 'Chromium' is wrong — chromium plating is called chrome plating, used for decorative purposes."
     },
@@ -319,7 +514,12 @@
       "id": "40",
       "subject": "B",
       "questionText": "Consider the following statements:\n\n(i) At higher altitudes, atmospheric pressure is lower than at sea level.\n(ii) Water boils at a temperature lower than 100°C on mountains.\n(iii) Food cooks faster at higher altitudes because water boils sooner.\n(iv) A pressure cooker is especially useful at high altitudes because it raises the boiling point of water.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — atmospheric pressure decreases with increasing altitude. (ii) is correct — at higher altitudes, lower pressure causes water to boil below 100°C (e.g., about 95°C at 1500m). (iv) is correct — a pressure cooker raises internal pressure, thereby raising the boiling point above 100°C, compensating for the low atmospheric pressure. (iii) is wrong — while water boils sooner (at lower temperature), food actually cooks SLOWER because the lower boiling temperature means less heat energy is transferred to the food."
     }

@@ -253,7 +253,7 @@
     {
       "id": "20",
       "subject": "D",
-      "questionText": "The following table shows investment details of four persons:\n\n| Person | Principal (Rs.) | Rate (% p.a.) | Time (years) | Type |\n|--------|----------------|---------------|--------------|------|\n| Amir   | 5000           | 10            | 2            | SI   |\n| Bilal  | 5000           | 10            | 2            | CI   |\n| Charu  | 8000           | 5             | 3            | SI   |\n| Deepa  | 8000           | 5             | 3            | CI   |\n\nWhat is the total simple interest earned by Amir and Charu together?",
+      "questionText": "The following table shows investment details of four persons:\n\nAmir → 5000, 10, 2, SI\nBilal → 5000, 10, 2, CI\nCharu → 8000, 5, 3, SI\nDeepa → 8000, 5, 3, CI\n\nWhat is the total simple interest earned by Amir and Charu together?",
       "options": [
         "Rs. 2000",
         "Rs. 2100",
@@ -266,7 +266,7 @@
     {
       "id": "21",
       "subject": "D",
-      "questionText": "The following table shows investment details of four persons:\n\n| Person | Principal (Rs.) | Rate (% p.a.) | Time (years) | Type |\n|--------|----------------|---------------|--------------|------|\n| Amir   | 5000           | 10            | 2            | SI   |\n| Bilal  | 5000           | 10            | 2            | CI   |\n| Charu  | 8000           | 5             | 3            | SI   |\n| Deepa  | 8000           | 5             | 3            | CI   |\n\nHow much more interest does Bilal earn compared to Amir?",
+      "questionText": "The following table shows investment details of four persons:\n\nAmir → 5000, 10, 2, SI\nBilal → 5000, 10, 2, CI\nCharu → 8000, 5, 3, SI\nDeepa → 8000, 5, 3, CI\n\nHow much more interest does Bilal earn compared to Amir?",
       "options": [
         "Rs. 40",
         "Rs. 60",

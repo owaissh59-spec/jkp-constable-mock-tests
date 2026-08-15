@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "D",
       "questionText": "A shopkeeper buys an article for ₹400 and sells it for ₹500. His profit percentage is:",
-      "options": ["25%", "20%", "30%", "15%"],
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
       "correctAnswer": "25%",
       "explanation": "Profit = SP − CP = 500 − 400 = ₹100. Profit% = (100/400) × 100 = 25%. 20% is wrong — (80/400)×100. 30% is wrong — (120/400)×100. 15% is wrong — (60/400)×100."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "D",
       "questionText": "A man sold a bicycle for ₹1,800 at a loss of 10%. The cost price of the bicycle was:",
-      "options": ["₹2,000", "₹1,980", "₹2,100", "₹1,900"],
+      "options": [
+        "₹2,000",
+        "₹1,980",
+        "₹2,100",
+        "₹1,900"
+      ],
       "correctAnswer": "₹2,000",
       "explanation": "SP = CP × (100 − Loss%)/100. So 1800 = CP × 90/100. CP = 1800 × 100/90 = ₹2,000. ₹1,980 is wrong — 1800/0.909. ₹2,100 is wrong — 1800/0.857. ₹1,900 is wrong — 1800/0.947."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "D",
       "questionText": "Consider the following statements about profit and loss:\n\n(i) Profit% = (Profit/Cost Price) × 100.\n(ii) Loss% = (Loss/Selling Price) × 100.\n(iii) If SP > CP, there is a profit.\n(iv) If SP < CP, there is a loss.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "(i) is correct — Profit% is always calculated on CP. (iii) is correct — when selling price exceeds cost price, there's profit. (iv) is correct — when selling price is below cost price, there's loss. (ii) is wrong — Loss% = (Loss/COST PRICE) × 100, NOT Selling Price. Both profit% and loss% are calculated on CP."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "D",
       "questionText": "An article is bought for ₹600 and sold at a profit of 20%. The selling price is:",
-      "options": ["₹720", "₹700", "₹740", "₹680"],
+      "options": [
+        "₹720",
+        "₹700",
+        "₹740",
+        "₹680"
+      ],
       "correctAnswer": "₹720",
       "explanation": "SP = CP × (100 + Profit%)/100 = 600 × 120/100 = ₹720. ₹700 is wrong — that's 16.67% profit. ₹740 is wrong — that's 23.33% profit. ₹680 is wrong — that's 13.33% profit."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A shopkeeper marks up goods by 50% and then gives a 20% discount, earning a net profit of 20%.\nReason (R): If CP = 100, marked price = 150, discount = 20% of 150 = 30, SP = 120, Profit = 20%.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — 50% markup then 20% discount gives 20% net profit. Reason (R) is also correct — CP=100, MP=150, discount=30, SP=120, profit=20%. (R) proves (A) with exact calculation. Option 2 is wrong because (R) directly proves (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "D",
       "questionText": "Match the following with their formulas:\n\nColumn I:\n(a) Profit\n(b) Loss\n(c) Profit Percentage\n(d) Selling Price (at profit)\n\nColumn II:\n(i) CP × (100 + P%)/100\n(ii) (Profit/CP) × 100\n(iii) SP − CP (when SP > CP)\n(iv) CP − SP (when CP > SP)\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "(a) Profit = SP − CP (when SP > CP) — matches (iii). (b) Loss = CP − SP (when CP > SP) — matches (iv). (c) Profit% = (Profit/CP) × 100 — matches (ii). (d) SP at profit = CP × (100+P%)/100 — matches (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "D",
       "questionText": "A trader bought 10 pencils for ₹80 and sold them at ₹10 each. His profit or loss percentage is:",
-      "options": ["25% profit", "20% profit", "25% loss", "20% loss"],
+      "options": [
+        "25% profit",
+        "20% profit",
+        "25% loss",
+        "20% loss"
+      ],
       "correctAnswer": "25% profit",
       "explanation": "CP = ₹80. SP = 10 × 10 = ₹100. Profit = 100 − 80 = ₹20. Profit% = (20/80) × 100 = 25%. '20% profit' is wrong — (16/80)×100. '25% loss' is wrong — there's profit, not loss. '20% loss' is wrong — completely incorrect."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "D",
       "questionText": "Which of the following statements are correct?\n\n(i) If an article is sold at twice its cost price, the profit is 100%.\n(ii) If an article is sold at half its cost price, the loss is 50%.\n(iii) If there is no profit and no loss, SP = CP.\n(iv) Discount is always calculated on the cost price.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — SP = 2×CP, Profit = CP, Profit% = (CP/CP)×100 = 100%. (ii) is correct — SP = CP/2, Loss = CP/2, Loss% = (CP/2)/CP × 100 = 50%. (iii) is correct — no profit/no loss means SP exactly equals CP. (iv) is wrong — Discount is calculated on the MARKED PRICE (MRP), NOT cost price."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "D",
       "questionText": "A shopkeeper marks an article at ₹500 and gives a discount of 10%. His selling price is:",
-      "options": ["₹450", "₹400", "₹475", "₹490"],
+      "options": [
+        "₹450",
+        "₹400",
+        "₹475",
+        "₹490"
+      ],
       "correctAnswer": "₹450",
       "explanation": "Discount = 10% of 500 = ₹50. SP = MP − Discount = 500 − 50 = ₹450. ₹400 is wrong — that's 20% discount. ₹475 is wrong — that's 5% discount. ₹490 is wrong — that's 2% discount."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) Marked Price (MP) is the price printed on the label.\n(ii) Discount is given on the Marked Price, not Cost Price.\n(iii) SP = MP − Discount.\n(iv) A shopkeeper always sells at a loss if he gives a discount.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — MP (also called list price or MRP) is the labelled price. (ii) is correct — discounts are calculated on MP. (iii) is correct — selling price = marked price minus discount amount. (iv) is wrong — if MP is sufficiently higher than CP, a discount can be given while still making a profit (e.g., 50% markup with 20% discount = 20% profit)."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a shopkeeper sells two articles at the same price — one at 25% profit and the other at 25% loss — he incurs an overall loss.\nReason (R): The cost prices are different; the article sold at loss had a higher CP, so the absolute loss exceeds the absolute profit.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — selling at same SP with equal profit% and loss% always gives net loss = (common%)²/100 = 6.25%. Reason (R) is also correct — CP of loss item = SP×100/75 (higher) while CP of profit item = SP×100/125 (lower), so the loss amount exceeds the profit amount. (R) explains the mechanism. Option 2 is wrong because (R) explains why. Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "D",
       "questionText": "Fill in the blank: If CP = ₹250 and Loss = 12%, then SP = __________.",
-      "options": ["₹220", "₹230", "₹200", "₹225"],
+      "options": [
+        "₹220",
+        "₹230",
+        "₹200",
+        "₹225"
+      ],
       "correctAnswer": "₹220",
       "explanation": "SP = CP × (100 − Loss%)/100 = 250 × 88/100 = ₹220. ₹230 is wrong — 250 × 92/100. ₹200 is wrong — 250 × 80/100. ₹225 is wrong — 250 × 90/100."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "D",
       "questionText": "A fruit seller buys oranges at ₹5 each and sells them at ₹7 each. His profit percentage is:",
-      "options": ["40%", "28.57%", "35%", "42.86%"],
+      "options": [
+        "40%",
+        "28.57%",
+        "35%",
+        "42.86%"
+      ],
       "correctAnswer": "40%",
       "explanation": "Profit per orange = 7 − 5 = ₹2. Profit% = (2/5) × 100 = 40%. 28.57% is wrong — (2/7)×100 (wrongly using SP as base). 35% is wrong — incorrect. 42.86% is wrong — (3/7)×100."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "D",
       "questionText": "Match the following scenarios with the profit/loss percentage:\n\nColumn I:\n(a) CP = ₹200, SP = ₹250\n(b) CP = ₹500, SP = ₹400\n(c) CP = ₹800, SP = ₹1000\n(d) CP = ₹300, SP = ₹270\n\nColumn II:\n(i) 25% profit\n(ii) 10% loss\n(iii) 20% loss\n(iv) 25% profit... wait, (a) = 25% profit and (c) = 25% profit too.\n\nLet me fix: \n(i) 20% loss\n(ii) 25% profit\n(iii) 25% profit... \n\nActual correct matching:\n(a) CP=200, SP=250: Profit=50, P%=25%\n(b) CP=500, SP=400: Loss=100, L%=20%\n(c) CP=800, SP=1000: Profit=200, P%=25%\n(d) CP=300, SP=270: Loss=30, L%=10%\n\nColumn II:\n(i) 25% profit\n(ii) 20% loss\n(iii) 10% loss\n(iv) 25% profit",
-      "options": ["(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+      ],
       "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
       "explanation": "(a) CP=200, SP=250: Profit=50, P%=(50/200)×100=25% — matches (i). (b) CP=500, SP=400: Loss=100, L%=(100/500)×100=20% — matches (ii). (c) CP=800, SP=1000: Profit=200, P%=(200/800)×100=25% — matches (iv). (d) CP=300, SP=270: Loss=30, L%=(30/300)×100=10% — matches (iii). Option 2 swaps (a) and (b). Option 3 swaps (b) and (d). Option 4 swaps (c) and (d)."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "D",
       "questionText": "By selling an article for ₹960, a man makes a profit of 20%. To make a profit of 30%, he should sell it for:",
-      "options": ["₹1,040", "₹1,000", "₹1,080", "₹1,020"],
+      "options": [
+        "₹1,040",
+        "₹1,000",
+        "₹1,080",
+        "₹1,020"
+      ],
       "correctAnswer": "₹1,040",
       "explanation": "SP at 20% profit = ₹960. CP = 960 × 100/120 = ₹800. For 30% profit: SP = 800 × 130/100 = ₹1,040. ₹1,000 is wrong — that's 25% profit. ₹1,080 is wrong — that's 35% profit. ₹1,020 is wrong — that's 27.5% profit."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "D",
       "questionText": "Consider the following statements about discount:\n\n(i) Discount% = (Discount/Marked Price) × 100.\n(ii) A successive discount of 10% and 20% is equivalent to a single discount of 28%.\n(iii) A successive discount of 20% and 20% equals a single discount of 40%.\n(iv) SP after discount = MP × (100 − Discount%)/100.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — Discount% = (Discount amount/MP) × 100. (ii) is correct — net discount = 10 + 20 − (10×20)/100 = 30 − 2 = 28%. (iv) is correct — SP = MP × (1 − D%/100). (iii) is wrong — successive 20% and 20% = 20 + 20 − (20×20)/100 = 40 − 4 = 36%, NOT 40%."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A shopkeeper who buys at ₹100 and sells at ₹80 incurs a loss of 20%.\nReason (R): Loss = CP − SP = 100 − 80 = 20; Loss% = (20/100) × 100 = 20%.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — selling at 80 when bought at 100 is a 20% loss. Reason (R) is also correct — it shows the exact calculation. (R) explains (A) step by step. Option 2 is wrong because (R) directly proves (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "D",
       "questionText": "A man buys a TV for ₹15,000 and sells it at a loss of 20%. The selling price is:",
-      "options": ["₹12,000", "₹13,000", "₹11,000", "₹12,500"],
+      "options": [
+        "₹12,000",
+        "₹13,000",
+        "₹11,000",
+        "₹12,500"
+      ],
       "correctAnswer": "₹12,000",
       "explanation": "SP = CP × (100 − L%)/100 = 15000 × 80/100 = ₹12,000. ₹13,000 is wrong — that's 13.33% loss. ₹11,000 is wrong — that's 26.67% loss. ₹12,500 is wrong — that's 16.67% loss."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "D",
       "questionText": "Which of the following are correct?\n\n(i) If CP of 12 articles = SP of 10 articles, then profit% = 20%.\n(ii) If a man sells at cost price, his profit is 0%.\n(iii) Profit and Loss are always calculated on Selling Price.\n(iv) If SP = 2 × CP, the profit percentage is 100%.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — let CP of 1 article = c. Then 12c = 10×SP, so SP = 12c/10 = 1.2c. Profit% = (0.2c/c)×100 = 20%. (ii) is correct — no profit when SP = CP. (iv) is correct — SP=2CP means Profit=CP, Profit%=100%. (iii) is wrong — Profit and Loss are calculated on COST PRICE, not Selling Price."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "D",
       "questionText": "Fill in the blank: If a shopkeeper sells goods worth ₹3,000 at a profit of 15%, his cost price was __________.",
-      "options": ["₹2,608.70 (approximately 3000/1.15)", "₹2,550", "₹2,700", "₹2,500"],
+      "options": [
+        "₹2,608.70 (approximately 3000/1.15)",
+        "₹2,550",
+        "₹2,700",
+        "₹2,500"
+      ],
       "correctAnswer": "₹2,608.70 (approximately 3000/1.15)",
       "explanation": "SP = CP × 1.15. So CP = SP/1.15 = 3000/1.15 ≈ ₹2,608.70. ₹2,550 is wrong — 2550 × 1.15 = 2932.50. ₹2,700 is wrong — 2700 × 1.15 = 3105. ₹2,500 is wrong — 2500 × 1.15 = 2875."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "D",
       "questionText": "A dealer marks his goods 40% above cost price and then allows a discount of 25%. His gain or loss percentage is:",
-      "options": ["5% profit", "5% loss", "10% profit", "15% profit"],
+      "options": [
+        "5% profit",
+        "5% loss",
+        "10% profit",
+        "15% profit"
+      ],
       "correctAnswer": "5% profit",
       "explanation": "Let CP = 100. MP = 140. Discount = 25% of 140 = 35. SP = 140 − 35 = 105. Profit = 5, Profit% = 5%. '5% loss' is wrong — there's profit not loss. '10% profit' is wrong — SP would need to be 110. '15% profit' is wrong — SP would need to be 115."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) Cost Price includes the purchase price plus overhead expenses (transport, taxes).\n(ii) Marked Price is always greater than Cost Price.\n(iii) If no discount is given, SP = MP.\n(iv) Loss can never exceed the Cost Price.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "(i) is correct — total CP = purchase price + transport + taxes etc. (iii) is correct — without discount, the selling price equals the marked price. (iv) is correct — maximum loss = CP (when article is sold for ₹0 or given free); loss cannot exceed CP. (ii) is wrong — MP is NOT always > CP; in clearance sales, items may be marked at or below cost."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Two successive discounts of 10% and 10% are NOT equivalent to a single discount of 20%.\nReason (R): The second discount is applied on the already-reduced price, not on the original price, so the effective discount is 10 + 10 − (10×10)/100 = 19%.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — 10%+10% ≠ 20% single discount. Reason (R) is also correct — net = 10+10−1 = 19%. E.g., on ₹100: first 10% → ₹90, then 10% of 90 → ₹9 off → ₹81. Single 20% would give ₹80. (R) explains the mathematical mechanism. Option 2 is wrong because (R) proves (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "D",
       "questionText": "A book was sold for ₹275 at a loss of 8%. The cost price of the book was approximately:",
-      "options": ["₹299 (approximately 275/0.92)", "₹283", "₹310", "₹290"],
+      "options": [
+        "₹299 (approximately 275/0.92)",
+        "₹283",
+        "₹310",
+        "₹290"
+      ],
       "correctAnswer": "₹299 (approximately 275/0.92)",
       "explanation": "SP = CP × (100−8)/100 = CP × 0.92. CP = 275/0.92 ≈ ₹298.91 ≈ ₹299. ₹283 is wrong — 283×0.92=260.36. ₹310 is wrong — 310×0.92=285.20. ₹290 is wrong — 290×0.92=266.80."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "D",
       "questionText": "Match the following:\n\nColumn I:\n(a) CP = 200, SP = 240\n(b) CP = 500, SP = 450\n(c) MP = 600, Discount = 10%\n(d) CP = 400, Profit% = 15%\n\nColumn II:\n(i) SP = ₹460\n(ii) SP = ₹540\n(iii) 20% profit\n(iv) 10% loss\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "(a) Profit=40, P%=(40/200)×100=20% — matches (iii). (b) Loss=50, L%=(50/500)×100=10% — matches (iv). (c) SP=600−60=₹540 — matches (ii). (d) SP=400×1.15=₹460 — matches (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "D",
       "questionText": "A shopkeeper buys 15 items for ₹1,200 and sells 12 items for ₹1,200. His profit percentage is:",
-      "options": ["25%", "20%", "30%", "15%"],
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
       "correctAnswer": "25%",
       "explanation": "CP per item = 1200/15 = ₹80. SP per item = 1200/12 = ₹100. Profit per item = 20. Profit% = (20/80)×100 = 25%. 20% is wrong — (16/80)×100. 30% is wrong — (24/80)×100. 15% is wrong — (12/80)×100."
     },
@@ -215,15 +345,25 @@
       "id": "27",
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) If a person gains 10% by selling an article for ₹550, the CP is ₹500.\n(ii) To gain 20% on the same article (CP=500), he must sell at ₹600.\n(iii) If he sells at ₹450, his loss is 10%.\n(iv) If he sells at ₹500, his profit is 10%.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — CP = 550/1.10 = 500 ✓. (ii) is correct — SP = 500 × 1.20 = 600 ✓. (iii) is correct — Loss = 500−450=50, L%=(50/500)×100=10% ✓. (iv) is wrong — selling at ₹500 = CP, so profit is 0%, not 10%."
     },
     {
       "id": "28",
       "subject": "D",
-      "questionText": "The profit and loss data for a shop selling 4 items is:\n\n| Item | CP (₹) | SP (₹) |\n|------|---------|--------|\n| A | 100 | 130 |\n| B | 200 | 180 |\n| C | 150 | 180 |\n| D | 250 | 300 |\n\nWhat is the overall profit percentage on all items?",
-      "options": ["12.86%", "10%", "15%", "8.57%"],
+      "questionText": "The profit and loss data for a shop selling 4 items is:\n\nA → 100, 130\nB → 200, 180\nC → 150, 180\nD → 250, 300\n\nWhat is the overall profit percentage on all items?",
+      "options": [
+        "12.86%",
+        "10%",
+        "15%",
+        "8.57%"
+      ],
       "correctAnswer": "12.86%",
       "explanation": "Total CP = 100+200+150+250 = ₹700. Total SP = 130+180+180+300 = ₹790. Profit = 90. Profit% = (90/700)×100 = 12.86%. 10% is wrong — would need profit of 70. 15% is wrong — would need profit of 105. 8.57% is wrong — (60/700)×100."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "D",
       "questionText": "A table was sold at a profit of 10% for ₹1,100. If it had been sold for ₹1,200, the profit percentage would have been:",
-      "options": ["20%", "25%", "15%", "30%"],
+      "options": [
+        "20%",
+        "25%",
+        "15%",
+        "30%"
+      ],
       "correctAnswer": "20%",
       "explanation": "At 10% profit, SP=₹1100. CP = 1100/1.10 = ₹1,000. If SP=₹1,200: Profit=200, P%=(200/1000)×100=20%. 25% is wrong — SP would be 1250. 15% is wrong — SP would be 1150. 30% is wrong — SP would be 1300."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A shopkeeper gains more by selling at 30% profit than at 20% profit for the same article.\nReason (R): Higher profit percentage means a larger difference between SP and CP, leading to more absolute profit.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — 30% profit > 20% profit on the same CP gives more money. Reason (R) is also correct — higher % means larger SP−CP gap. (R) explains (A) logically. Option 2 is wrong because (R) directly explains (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
     },
@@ -247,31 +397,51 @@
       "id": "31",
       "subject": "D",
       "questionText": "If a shopkeeper sells goods at cost price but uses a weight that is 20% less (gives 800g instead of 1000g), his profit percentage is:",
-      "options": ["25%", "20%", "30%", "15%"],
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "15%"
+      ],
       "correctAnswer": "25%",
       "explanation": "He sells 800g at the price of 1000g. Effective CP = cost of 800g. Charges = price of 1000g. Profit on 800g = price of 200g. Profit% = (200/800)×100 = 25%. 20% is wrong — that would be 160/800. 30% is wrong — that would be 240/800. 15% is wrong — that would be 120/800."
     },
     {
       "id": "32",
       "subject": "D",
-      "questionText": "The sales data for a shopkeeper over 3 days is:\n\n| Day | Items Sold | CP per item | SP per item |\n|-----|-----------|-------------|-------------|\n| Mon | 10 | ₹50 | ₹60 |\n| Tue | 15 | ₹50 | ₹55 |\n| Wed | 5 | ₹50 | ₹70 |\n\nOn which day was the profit percentage per item the highest?",
-      "options": ["Wednesday", "Monday", "Tuesday", "All days equal"],
+      "questionText": "The sales data for a shopkeeper over 3 days is:\n\nMon → 10, ₹50, ₹60\nTue → 15, ₹50, ₹55\nWed → 5, ₹50, ₹70\n\nOn which day was the profit percentage per item the highest?",
+      "options": [
+        "Wednesday",
+        "Monday",
+        "Tuesday",
+        "All days equal"
+      ],
       "correctAnswer": "Wednesday",
       "explanation": "Monday: Profit=10, P%=(10/50)×100=20%. Tuesday: Profit=5, P%=(5/50)×100=10%. Wednesday: Profit=20, P%=(20/50)×100=40%. Wednesday has highest profit% (40%). Monday is wrong — 20% < 40%. Tuesday is wrong — 10% < 40%. 'All equal' is wrong — they differ."
     },
     {
       "id": "33",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) If SP = ₹450 and Profit% = 12.5%, then CP = ₹400.\n(ii) If CP = ₹600 and Loss% = 5%, then SP = ₹570.\n(iii) If MP = ₹1000 and Discount% = 15%, then SP = ₹850.\n(iv) If CP = ₹240 and SP = ₹300, then Profit% = 25%.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "questionText": "Consider the following statements:\n\n(i) If SP = ₹450 and Profit% = 12.5%, then CP = ₹400.\n(ii) If CP = ₹600 and Loss% = 5%, then SP = ₹570.\n(iii) If MP = ₹1000 and Discount% = 15%, then SP = ₹800.\n(iv) If CP = ₹240 and SP = ₹300, then Profit% = 25%.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) CP = 450/1.125 = 400 ✓. (ii) SP = 600×0.95 = 570 ✓. (iv) Profit=60, P%=(60/240)×100=25% ✓. (iii) is wrong — SP = 1000×0.85 = ₹850 ✓. Wait — (iii) IS correct: 1000−150=850. Let me recheck all: all four are correct! Given the options, (i), (ii) and (iv) is the answer if we must exclude one — perhaps (iii) calculation: 15% of 1000 = 150, SP = 850. This IS correct. All 4 seem correct. The answer must be (i), (ii) and (iv) per the given options."
+      "explanation": "(i) CP = 450/1.125 = ₹400 ✓. (ii) SP = 600 × 0.95 = ₹570 ✓. (iv) Profit = 300−240 = 60, Profit% = (60/240)×100 = 25% ✓. (iii) SP = 1000 × (1−0.15) = 1000 × 0.85 = ₹850, not ₹800 as stated ✗. Therefore only (i), (ii) and (iv) are correct."
     },
     {
       "id": "34",
       "subject": "D",
       "questionText": "A dealer offers a discount of 20% on an article and still makes a profit of 20%. If the cost price is ₹500, the marked price is:",
-      "options": ["₹750", "₹700", "₹800", "₹650"],
+      "options": [
+        "₹750",
+        "₹700",
+        "₹800",
+        "₹650"
+      ],
       "correctAnswer": "₹750",
       "explanation": "SP at 20% profit = 500 × 1.20 = ₹600. After 20% discount: SP = MP × 0.80. So 600 = MP × 0.80. MP = 600/0.80 = ₹750. ₹700 is wrong — 700×0.80=560. ₹800 is wrong — 800×0.80=640. ₹650 is wrong — 650×0.80=520."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "D",
       "questionText": "Match the following terms with their definitions:\n\nColumn I:\n(a) Cost Price\n(b) Marked Price\n(c) Discount\n(d) Selling Price\n\nColumn II:\n(i) The actual amount received from the buyer\n(ii) The price at which goods are purchased\n(iii) The reduction offered on the marked price\n(iv) The price displayed on the label/tag\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "(a) Cost Price = price at which goods are bought — matches (ii). (b) Marked Price = label/tag price — matches (iv). (c) Discount = reduction on MP — matches (iii). (d) Selling Price = amount actually paid by buyer — matches (i). Option 2 swaps CP and MP. Option 3 swaps MP and Discount. Option 4 swaps Discount and SP."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "D",
       "questionText": "A person sells two chairs at ₹600 each. On one he gains 20% and on the other he loses 20%. His overall profit or loss is:",
-      "options": ["4% loss", "No profit no loss", "4% profit", "2% loss"],
+      "options": [
+        "4% loss",
+        "No profit no loss",
+        "4% profit",
+        "2% loss"
+      ],
       "correctAnswer": "4% loss",
       "explanation": "When selling two items at same SP with equal gain% and loss%, there's always a loss = (common%)²/100 = (20)²/100 = 4%. Alternatively: CP₁=600/1.20=500, CP₂=600/0.80=750. Total CP=1250, Total SP=1200. Loss=50, Loss%=(50/1250)×100=4%. 'No profit no loss' is wrong — there IS a loss. '4% profit' is wrong — it's loss. '2% loss' is wrong — incorrect calculation."
     },
@@ -295,7 +475,12 @@
       "id": "37",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the cost price of 20 articles equals the selling price of 16 articles, the profit percentage is 25%.\nReason (R): Let CP per article = c. Then 20c = 16 × SP, so SP = 20c/16 = 1.25c. Profit% = (0.25c/c) × 100 = 25%.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — CP of 20 = SP of 16 gives 25% profit. Reason (R) is also correct — proves it algebraically: SP = 1.25×CP means 25% profit. (R) provides the mathematical proof. Option 2 is wrong because (R) directly proves (A). Option 3 is wrong because (R) is correct. Option 4 is wrong because (A) is correct."
     },
@@ -303,7 +488,12 @@
       "id": "38",
       "subject": "D",
       "questionText": "A chair is sold for ₹540 at a loss of 10%. To gain 10%, it should be sold for:",
-      "options": ["₹660", "₹600", "₹620", "₹640"],
+      "options": [
+        "₹660",
+        "₹600",
+        "₹620",
+        "₹640"
+      ],
       "correctAnswer": "₹660",
       "explanation": "At 10% loss: SP = CP × 0.90 = 540. CP = 540/0.90 = ₹600. For 10% gain: SP = 600 × 1.10 = ₹660. ₹600 is wrong — that's selling at CP (0% profit). ₹620 is wrong — that's 3.33% profit. ₹640 is wrong — that's 6.67% profit."
     },
@@ -311,23 +501,38 @@
       "id": "39",
       "subject": "D",
       "questionText": "Consider the following:\n\n(i) If a shopkeeper gives 5% discount on an article marked ₹200, the SP is ₹190.\n(ii) If he bought it for ₹160, his profit after discount is ₹30.\n(iii) His profit percentage on the discounted sale is 18.75%.\n(iv) If he gave no discount, his profit% would have been 20%.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "All of the above"],
-      "correctAnswer": "All of the above",
-      "explanation": "(i) SP = 200 − 5% of 200 = 200−10 = 190 ✓. (ii) Profit = 190−160 = 30 ✓. (iii) P% = (30/160)×100 = 18.75% ✓. (iv) Without discount: SP=200, P=40, P%=(40/160)×100=25%... Wait that's 25% not 20%. Let me recalculate: (40/200)×100=20%? No — P% is on CP: (40/160)×100=25%. So (iv) should be 25%, not 20%. (iv) is WRONG. Given the options, 'All of the above' can't be right if (iv) is wrong. The answer should be (i), (ii) and (iii)."
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) SP = 200 − 5% of 200 = 200 − 10 = ₹190 ✓. (ii) Profit = 190 − 160 = ₹30 ✓. (iii) Profit% = (30/160) × 100 = 18.75% ✓. (iv) is WRONG — without discount, SP = ₹200, Profit = 200 − 160 = ₹40, Profit% = (40/160) × 100 = 25%, not 20% as stated. Therefore only (i), (ii) and (iii) are correct."
     },
     {
       "id": "40",
       "subject": "D",
       "questionText": "A trader marks his goods 30% above cost price. If he allows a discount of 10%, his profit percentage is:",
-      "options": ["17%", "20%", "15%", "22%"],
+      "options": [
+        "17%",
+        "20%",
+        "15%",
+        "22%"
+      ],
       "correctAnswer": "17%",
       "explanation": "Let CP = 100. MP = 130. Discount = 10% of 130 = 13. SP = 130−13 = 117. Profit = 17. Profit% = 17%. 20% is wrong — SP would be 120. 15% is wrong — SP would be 115. 22% is wrong — SP would be 122."
     },
     {
       "id": "41",
       "subject": "D",
-      "questionText": "The data below shows a shopkeeper's transactions for a week:\n\n| Day | Total CP (₹) | Total SP (₹) |\n|-----|-------------|-------------|\n| Mon | 5000 | 5500 |\n| Tue | 4000 | 3800 |\n| Wed | 6000 | 7200 |\n\nOn which day did the shopkeeper earn the highest profit percentage?",
-      "options": ["Wednesday", "Monday", "Tuesday", "All equal"],
+      "questionText": "The data below shows a shopkeeper's transactions for a week:\n\nMon → 5000, 5500\nTue → 4000, 3800\nWed → 6000, 7200\n\nOn which day did the shopkeeper earn the highest profit percentage?",
+      "options": [
+        "Wednesday",
+        "Monday",
+        "Tuesday",
+        "All equal"
+      ],
       "correctAnswer": "Wednesday",
       "explanation": "Monday: P%=(500/5000)×100=10%. Tuesday: L%=(200/4000)×100=5% loss. Wednesday: P%=(1200/6000)×100=20%. Wednesday has highest profit% (20%). Monday is wrong — 10%<20%. Tuesday is wrong — it's a loss day. 'All equal' is wrong — percentages differ."
     },
@@ -335,7 +540,12 @@
       "id": "42",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Selling 120 items at the price originally charged for 100 items represents a 20% discount.\nReason (R): The buyer gets 20 extra items (20% more) for the same price, which is equivalent to a 20% discount in value.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
       "explanation": "Assertion (A) is approximately correct — giving 120 for the price of 100 is like a discount. Reason (R) is correct — 20 extra items for the same money. However, the ACTUAL discount equivalent is different: the effective price per item drops from P to P×100/120, a reduction of 16.67%, not exactly 20%. The (R) says 'equivalent to 20% discount' which isn't precisely correct — it's a 16.67% per-item discount. So while both are approximately stated, (R) doesn't precisely explain (A). Option 1 could also be argued. Given the closest match, Option 2."
     },
@@ -343,31 +553,51 @@
       "id": "43",
       "subject": "D",
       "questionText": "If the selling price is doubled, the profit triples. The ratio of cost price to selling price is:",
-      "options": ["2:3", "1:2", "3:4", "1:3"],
-      "correctAnswer": "2:3",
-      "explanation": "Let CP = c, SP = s, Profit = s−c. New SP = 2s, New Profit = 2s−c. Given: 2s−c = 3(s−c) → 2s−c = 3s−3c → 2c = s. So CP:SP = c:2c... wait that gives 1:2. Let me redo: 2s−c = 3(s−c) → 2s−c = 3s−3c → 3c−c = 3s−2s → 2c = s. So s = 2c, CP:SP = c:s = c:2c = 1:2. Hmm. Let me verify: if CP=1, SP=2, Profit=1. Doubled SP=4, New profit=3. 3=3×1 ✓. So ratio is 1:2. But wait — that's not in line with '2:3'. Let me re-read the question. 'If SP is doubled, profit triples.' CP=c, SP=s. Profit=s-c. New: SP=2s, profit=2s-c. 2s-c=3(s-c)=3s-3c. So 2c=s. CP:SP=c:2c=1:2. The answer should be 1:2. But let me check my derivation again — yes 1:2 is correct."
+      "options": [
+        "2:3",
+        "1:2",
+        "3:4",
+        "1:3"
+      ],
+      "correctAnswer": "1:2",
+      "explanation": "Let CP = c, SP = s, Profit = s − c. When SP is doubled: new SP = 2s, new Profit = 2s − c. Given that new profit = 3 × original profit: 2s − c = 3(s − c) → 2s − c = 3s − 3c → 2c = s. So CP:SP = c:s = c:2c = 1:2. Verification: if CP = 1, SP = 2, Profit = 1. Doubled SP = 4, new profit = 3 = 3 × 1 ✓. Option 2:3 is wrong — would mean SP = 1.5×CP. Option 3:4 is wrong. Option 1:3 is wrong."
     },
     {
       "id": "44",
       "subject": "D",
       "questionText": "A man bought a car for ₹3,00,000 and spent ₹50,000 on repairs. He sold it at a profit of 10%. The selling price of the car is:",
-      "options": ["₹3,85,000", "₹3,30,000", "₹3,50,000", "₹3,55,000"],
+      "options": [
+        "₹3,85,000",
+        "₹3,30,000",
+        "₹3,50,000",
+        "₹3,55,000"
+      ],
       "correctAnswer": "₹3,85,000",
       "explanation": "Total CP = 3,00,000 + 50,000 = ₹3,50,000. SP at 10% profit = 3,50,000 × 1.10 = ₹3,85,000. ₹3,30,000 is wrong — 10% profit on 3,00,000 only. ₹3,50,000 is wrong — that's selling at CP. ₹3,55,000 is wrong — incomplete calculation."
     },
     {
       "id": "45",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) If a shopkeeper makes 20% profit on an article sold for ₹720, the cost price is ₹600.\n(ii) If the same article were sold for ₹660, the profit would be 10%.\n(iii) To avoid any loss, the minimum SP should be ₹600.\n(iv) If sold at ₹540, the loss would be 10%.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "questionText": "Consider the following statements:\n\n(i) If a shopkeeper makes 20% profit on an article sold for ₹720, the cost price is ₹600.\n(ii) If the same article were sold for ₹660, the profit would be 10%.\n(iii) To avoid any loss, the minimum SP should be ₹600.\n(iv) If sold at ₹540, the loss would be 15%.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) CP = 720/1.20 = ₹600 ✓. (ii) P=660−600=60, P%=(60/600)×100=10% ✓. (iii) Min SP to avoid loss = CP = ₹600 ✓. (iv) At SP=540: Loss=60, L%=(60/600)×100=10% ✓. Actually (iv) is also correct! All four are correct. Given the options, (i), (ii) and (iii) is the best match."
+      "explanation": "(i) CP = 720/1.20 = ₹600 ✓. (ii) If sold for ₹660: Profit = 660−600 = 60, P% = (60/600)×100 = 10% ✓. (iii) To avoid loss, minimum SP must equal CP = ₹600 ✓. (iv) If sold at ₹540: Loss = 600−540 = 60, L% = (60/600)×100 = 10%, not 15% as stated ✗. Therefore only (i), (ii) and (iii) are correct."
     },
     {
       "id": "46",
       "subject": "D",
       "questionText": "A shopkeeper buys rice at ₹40/kg and sells at ₹50/kg. His profit percentage is:",
-      "options": ["25%", "20%", "30%", "10%"],
+      "options": [
+        "25%",
+        "20%",
+        "30%",
+        "10%"
+      ],
       "correctAnswer": "25%",
       "explanation": "Profit = 50−40 = ₹10/kg. Profit% = (10/40)×100 = 25%. 20% is wrong — (8/40)×100. 30% is wrong — (12/40)×100. 10% is wrong — (4/40)×100."
     },
@@ -375,7 +605,12 @@
       "id": "47",
       "subject": "D",
       "questionText": "Match the following:\n\nColumn I:\n(a) CP=₹400, Profit=25%\n(b) CP=₹600, Loss=15%\n(c) MP=₹800, Discount=25%\n(d) SP=₹540, Profit=8%\n\nColumn II:\n(i) SP = ₹600\n(ii) SP = ₹500\n(iii) SP = ₹510\n(iv) CP = ₹500\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
       "explanation": "(a) SP=400×1.25=₹500 — matches (ii). (b) SP=600×0.85=₹510 — matches (iii). (c) SP=800−200=₹600 — matches (i). (d) CP=540/1.08=₹500 — matches (iv). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (c) and (d)."
     },
@@ -383,7 +618,12 @@
       "id": "48",
       "subject": "D",
       "questionText": "A wholesaler sells goods at 10% profit to a retailer, who sells them at 20% profit to a customer. If the customer pays ₹660, the original cost to the wholesaler was:",
-      "options": ["₹500", "₹550", "₹480", "₹520"],
+      "options": [
+        "₹500",
+        "₹550",
+        "₹480",
+        "₹520"
+      ],
       "correctAnswer": "₹500",
       "explanation": "Customer pays ₹660 = Retailer's SP. Retailer's CP = 660/1.20 = ₹550. Wholesaler's SP = Retailer's CP = ₹550. Wholesaler's CP = 550/1.10 = ₹500. ₹550 is wrong — that's the retailer's CP, not wholesaler's. ₹480 is wrong — incorrect calculation. ₹520 is wrong — incorrect."
     },
@@ -391,7 +631,12 @@
       "id": "49",
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) If an article is bought for ₹100 and sold for ₹125, the profit is 25%.\n(ii) If the same article is sold for ₹75, the loss is 25%.\n(iii) Profit of 25% and loss of 25% on the same CP give the same absolute amount of profit and loss.\n(iv) The difference between the SP at 25% profit and SP at 25% loss (on same CP) is always 50% of CP.\n\nWhich of the statements given above are correct?",
-      "options": ["All of the above", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
       "correctAnswer": "All of the above",
       "explanation": "(i) P=25, P%=(25/100)×100=25% ✓. (ii) L=25, L%=(25/100)×100=25% ✓. (iii) Both = ₹25 in absolute terms ✓. (iv) SP at 25% profit=125, SP at 25% loss=75. Difference=50=50% of CP=100 ✓. All four are correct."
     },
@@ -399,7 +644,12 @@
       "id": "50",
       "subject": "D",
       "questionText": "A dealer purchased a washing machine for ₹7,500 and spent ₹500 on transport and ₹1,000 on installation. He sold it for ₹10,800. His profit percentage is:",
-      "options": ["20%", "15%", "25%", "18%"],
+      "options": [
+        "20%",
+        "15%",
+        "25%",
+        "18%"
+      ],
       "correctAnswer": "20%",
       "explanation": "Total CP = 7500 + 500 + 1000 = ₹9,000. SP = ₹10,800. Profit = 10,800 − 9,000 = ₹1,800. Profit% = (1800/9000) × 100 = 20%. 15% is wrong — would need profit of 1350. 25% is wrong — would need profit of 2250. 18% is wrong — would need profit of 1620."
     }

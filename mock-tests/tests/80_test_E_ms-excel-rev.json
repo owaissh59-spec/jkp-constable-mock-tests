@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "E",
       "questionText": "In MS Excel, the function =CONCATENATE(A1,\" \",B1) is used to:",
-      "options": ["Join the text from A1 and B1 with a space between them", "Add the numerical values of A1 and B1", "Compare text in A1 and B1 and return the longer one", "Count the characters in A1 and B1 combined"],
+      "options": [
+        "Join the text from A1 and B1 with a space between them",
+        "Add the numerical values of A1 and B1",
+        "Compare text in A1 and B1 and return the longer one",
+        "Count the characters in A1 and B1 combined"
+      ],
       "correctAnswer": "Join the text from A1 and B1 with a space between them",
       "explanation": "The CONCATENATE function joins (concatenates) text strings. Here it joins the content of A1, a space character \" \", and B1 into a single string. 'Add numerical values' is wrong — that would be SUM. 'Compare text and return the longer one' is wrong — no such function exists for CONCATENATE. 'Count characters combined' is wrong — that would require LEN function."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "E",
       "questionText": "Consider the following statements about cell referencing in MS Excel:\n\n(i) $A$1 is an absolute cell reference that does not change when copied.\n(ii) A$1 is a mixed reference where the column changes but the row does not.\n(iii) $A1 is a mixed reference where the column is fixed but the row changes.\n(iv) A1 is a relative reference that adjusts when the formula is copied.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i), (iii) and (iv) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "All four statements are correct. $A$1 locks both column and row (absolute). A$1 locks only the row (mixed — column changes, row stays). $A1 locks only the column (mixed — column stays, row changes). A1 is relative and adjusts both row and column when copied. All forms of referencing are accurately described."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The VLOOKUP function in Excel searches for a value in the leftmost column of a table.\nReason (R): VLOOKUP stands for Vertical Lookup and works only with data arranged in columns.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — VLOOKUP searches for a value in the first (leftmost) column of a specified table range. Reason (R) is also correct — VLOOKUP stands for Vertical Lookup and searches vertically down columns. The Reason correctly explains WHY it searches the leftmost column — because it operates vertically. Option B is wrong because the reason does explain the assertion. Option C is wrong because (R) is factually correct. Option D is wrong because (A) is factually correct."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "E",
       "questionText": "Match the following Excel functions with their descriptions:\n\nColumn I:\n(a) HLOOKUP\n(b) INDEX\n(c) MATCH\n(d) SUMIF\n\nColumn II:\n(i) Returns the position of a value in a range\n(ii) Adds cells that meet a specified condition\n(iii) Returns a value from a specific row and column intersection\n(iv) Searches for a value in the top row of a table\n\nChoose the correct match:",
-      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"],
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
       "explanation": "HLOOKUP (Horizontal Lookup) searches in the top row of a table (a-iv). INDEX returns a value at a specified row and column intersection within a range (b-iii). MATCH returns the relative position of a value in a range (c-i). SUMIF adds values in cells that satisfy a given condition (d-ii). Option B swaps HLOOKUP with INDEX. Option C swaps INDEX with MATCH. Option D incorrectly assigns SUMIF to searching top rows."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "E",
       "questionText": "Which of the following are valid logical functions in MS Excel?\n\n(i) IF\n(ii) AND\n(iii) OR\n(iv) BETWEEN\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "IF, AND, and OR are all valid logical functions in Excel. IF evaluates a condition and returns different values based on the result. AND returns TRUE if all conditions are true. OR returns TRUE if any condition is true. BETWEEN is NOT a valid Excel function — to check if a value is between two numbers, you use a combination of AND with comparison operators. Options B, C, and D all include BETWEEN which doesn't exist as an Excel function."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "E",
       "questionText": "The keyboard shortcut Ctrl + ; (semicolon) in MS Excel is used to:",
-      "options": ["Insert the current date in the active cell", "Insert a semicolon character in the cell", "Open the Go To dialog box", "Toggle between showing formulas and values"],
+      "options": [
+        "Insert the current date in the active cell",
+        "Insert a semicolon character in the cell",
+        "Open the Go To dialog box",
+        "Toggle between showing formulas and values"
+      ],
       "correctAnswer": "Insert the current date in the active cell",
       "explanation": "Ctrl + ; inserts the current date into the active cell in Excel. 'Insert a semicolon character' is wrong — you simply type a semicolon for that. 'Open the Go To dialog' is wrong — that shortcut is Ctrl + G or F5. 'Toggle between formulas and values' is wrong — that shortcut is Ctrl + ` (grave accent)."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "E",
       "questionText": "Consider the following statements about Pivot Tables in MS Excel:\n\n(i) A Pivot Table summarizes large amounts of data quickly.\n(ii) Pivot Tables can group data by categories such as dates, numbers, or text.\n(iii) Pivot Tables permanently alter the source data when created.\n(iv) Pivot Tables allow drag-and-drop field arrangement.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Statement (i) is correct — Pivot Tables are designed to summarize and analyze large datasets. Statement (ii) is correct — they can group data by various categories. Statement (iv) is correct — fields can be arranged by drag-and-drop in the PivotTable Field List. Statement (iii) is incorrect — Pivot Tables do NOT alter the source data; they create a separate summary that references the original data."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "E",
       "questionText": "In MS Excel, what does the formula =ROUND(3.756, 2) return?",
-      "options": ["3.75", "3.76", "3.80", "4.00"],
+      "options": [
+        "3.75",
+        "3.76",
+        "3.80",
+        "4.00"
+      ],
       "correctAnswer": "3.76",
       "explanation": "The ROUND function rounds a number to a specified number of digits. =ROUND(3.756, 2) rounds 3.756 to 2 decimal places. Since the third decimal (6) is ≥ 5, it rounds up the second decimal from 5 to 6, giving 3.76. Option A (3.75) would be the result of ROUNDDOWN or TRUNC. Option C (3.80) rounds to 1 decimal incorrectly. Option D (4.00) rounds to zero decimals."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In Excel, the formula bar displays the content or formula of the currently selected cell.\nReason (R): A cell may show a calculated value on the worksheet while the formula bar shows the actual formula used.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — the formula bar shows the actual content (text, number, or formula) of the active cell. Reason (R) is also correct — when a cell contains a formula like =A1+B1, the cell displays the result (e.g., 10) but the formula bar shows =A1+B1. The Reason explains exactly why the formula bar is important — it reveals what's behind the displayed value. Option B is wrong because (R) directly explains (A). Option C is wrong because (R) is factually accurate. Option D is wrong because (A) is correct."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "E",
       "questionText": "The maximum number of rows in an MS Excel 2007 and later worksheet is:",
-      "options": ["65,536", "1,048,576", "256,000", "2,097,152"],
+      "options": [
+        "65,536",
+        "1,048,576",
+        "256,000",
+        "2,097,152"
+      ],
       "correctAnswer": "1,048,576",
       "explanation": "Excel 2007 and later versions support 1,048,576 rows (2^20) per worksheet. 65,536 is incorrect — that was the row limit in Excel 2003 and earlier (2^16). 256,000 is a fabricated number not matching any Excel version. 2,097,152 is double the actual limit and incorrect."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "E",
       "questionText": "Consider the following statements about the IF function in MS Excel:\n\n(i) The syntax is IF(logical_test, value_if_true, value_if_false).\n(ii) IF functions can be nested up to 64 levels in Excel 2007 and later.\n(iii) The value_if_false argument is mandatory and cannot be omitted.\n(iv) IF can be combined with AND, OR functions for multiple conditions.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Statement (i) is correct — the IF function syntax has three arguments: logical test, value if true, value if false. Statement (ii) is correct — Excel 2007+ allows nesting up to 64 IF functions. Statement (iv) is correct — IF is commonly combined with AND/OR for complex conditions. Statement (iii) is incorrect — the value_if_false argument is optional; if omitted, the function returns FALSE when the condition is not met."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "E",
       "questionText": "Match the following keyboard shortcuts with their actions in MS Excel:\n\nColumn I:\n(a) Ctrl + Home\n(b) Ctrl + End\n(c) Ctrl + Page Down\n(d) Ctrl + Page Up\n\nColumn II:\n(i) Move to the previous worksheet\n(ii) Move to cell A1\n(iii) Move to the next worksheet\n(iv) Move to the last used cell\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Ctrl + Home moves to cell A1 (a-ii). Ctrl + End moves to the last used cell in the worksheet (b-iv). Ctrl + Page Down moves to the next worksheet tab (c-iii). Ctrl + Page Up moves to the previous worksheet tab (d-i). Option B swaps Home with End. Option C incorrectly pairs End with next worksheet. Option D misassigns Home to previous worksheet."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "E",
       "questionText": "Which of the following are types of cell references in MS Excel?\n\n(i) Relative reference (e.g., A1)\n(ii) Absolute reference (e.g., $A$1)\n(iii) Mixed reference (e.g., $A1 or A$1)\n(iv) Dynamic reference (e.g., @A1)\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Relative (A1), Absolute ($A$1), and Mixed ($A1 or A$1) are the three types of cell references in Excel. '@A1' with the @ symbol is not a standard cell reference type — the @ symbol in newer Excel versions is used for implicit intersection in structured references (tables), not as a general reference type. Options B, C, and D incorrectly include 'Dynamic reference @A1' which is not a recognized type."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "E",
       "questionText": "The function =TODAY() in MS Excel returns:",
-      "options": ["The current date that updates automatically each day", "The current time in hours and minutes", "The date and time combined in one cell", "The date the workbook was first created"],
+      "options": [
+        "The current date that updates automatically each day",
+        "The current time in hours and minutes",
+        "The date and time combined in one cell",
+        "The date the workbook was first created"
+      ],
       "correctAnswer": "The current date that updates automatically each day",
       "explanation": "=TODAY() returns the current system date and updates automatically whenever the worksheet is recalculated. 'Current time' is wrong — that would be =NOW() which returns both date and time, or TIME functions. 'Date and time combined' is wrong — =NOW() does that, not =TODAY(). 'Date workbook was created' is wrong — TODAY() always shows the current date, not a fixed creation date."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The AutoFill feature in Excel can automatically complete a series such as days of the week or months.\nReason (R): Excel recognizes built-in custom lists and extends patterns when the fill handle is dragged.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — AutoFill can extend series like Monday, Tuesday... or Jan, Feb... Reason (R) is also correct — Excel maintains built-in custom lists (days, months) and recognizes patterns to continue them when you drag the fill handle. The Reason explains the mechanism behind AutoFill's ability to complete series. Option B is wrong because (R) directly explains how (A) works. Option C is wrong because (R) is factually correct. Option D is wrong because (A) is correct."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "E",
       "questionText": "In MS Excel, which function counts only the cells that meet a specific condition?",
-      "options": ["COUNTIF", "COUNT", "COUNTA", "COUNTBLANK"],
+      "options": [
+        "COUNTIF",
+        "COUNT",
+        "COUNTA",
+        "COUNTBLANK"
+      ],
       "correctAnswer": "COUNTIF",
       "explanation": "COUNTIF counts cells that meet a single specified condition (e.g., =COUNTIF(A1:A10,\">50\") counts cells greater than 50). COUNT counts only cells containing numbers. COUNTA counts all non-empty cells regardless of content type. COUNTBLANK counts empty/blank cells. None of the other three apply a condition-based filter."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "E",
       "questionText": "Consider the following statements about Freeze Panes in MS Excel:\n\n(i) Freeze Panes keeps rows or columns visible while scrolling.\n(ii) Freeze Panes is available under the View tab.\n(iii) You can freeze both the top row and first column simultaneously.\n(iv) Freezing panes permanently locks cells from being edited.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — Freeze Panes keeps specified rows/columns visible while scrolling through data. Statement (ii) is correct — the Freeze Panes option is found under the View tab. Statement (iii) is correct — you can freeze both the top row and first column simultaneously. Statement (iv) is incorrect — Freeze Panes only affects visibility during scrolling; it does NOT lock or protect cells from editing."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "E",
       "questionText": "The shortcut key Ctrl + Shift + L in MS Excel is used to:",
-      "options": ["Toggle AutoFilter on and off", "Lock the selected cells", "Insert a hyperlink", "Apply left alignment to cells"],
+      "options": [
+        "Toggle AutoFilter on and off",
+        "Lock the selected cells",
+        "Insert a hyperlink",
+        "Apply left alignment to cells"
+      ],
       "correctAnswer": "Toggle AutoFilter on and off",
       "explanation": "Ctrl + Shift + L toggles the AutoFilter feature, adding or removing dropdown filter arrows to the header row. 'Lock selected cells' is wrong — cell locking is done through Format Cells > Protection. 'Insert a hyperlink' is wrong — that shortcut is Ctrl + K. 'Apply left alignment' is wrong — that shortcut is Ctrl + L (which also creates a table in some contexts)."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "E",
       "questionText": "Fill in the blank: In MS Excel, the function that returns the number of characters in a text string is __________.",
-      "options": ["LEN", "COUNT", "SIZE", "CHAR"],
+      "options": [
+        "LEN",
+        "COUNT",
+        "SIZE",
+        "CHAR"
+      ],
       "correctAnswer": "LEN",
       "explanation": "The LEN function returns the number of characters in a text string (e.g., =LEN(\"Hello\") returns 5). COUNT is wrong — it counts cells with numbers, not characters. SIZE is wrong — it is not a valid Excel function. CHAR is wrong — it returns a character based on a number code, not the length of text."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "E",
       "questionText": "Match the following chart types in Excel with their best use cases:\n\nColumn I:\n(a) Pie Chart\n(b) Bar Chart\n(c) Line Chart\n(d) Scatter Chart\n\nColumn II:\n(i) Showing trends over time\n(ii) Comparing quantities across categories\n(iii) Showing proportions of a whole\n(iv) Showing correlation between two variables\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
       "explanation": "Pie charts show proportions/percentages of a whole (a-iii). Bar charts compare quantities across different categories (b-ii). Line charts show trends over time (c-i). Scatter charts display correlation between two numerical variables (d-iv). Option B swaps pie with bar. Option C swaps bar with line. Option D incorrectly pairs pie with correlation."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "E",
       "questionText": "In MS Excel, what will the formula =LEFT(\"COMPUTER\", 3) return?",
-      "options": ["COM", "TER", "PUT", "CMP"],
+      "options": [
+        "COM",
+        "TER",
+        "PUT",
+        "CMP"
+      ],
       "correctAnswer": "COM",
       "explanation": "The LEFT function extracts a specified number of characters from the beginning (left side) of a text string. =LEFT(\"COMPUTER\", 3) returns the first 3 characters: 'COM'. 'TER' would be the result of =RIGHT(\"COMPUTER\", 3). 'PUT' would be the result of =MID(\"COMPUTER\", 4, 3). 'CMP' is not extractable from any standard text function with these parameters."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "E",
       "questionText": "Consider the following statements about data validation in MS Excel:\n\n(i) Data validation restricts the type of data that can be entered in a cell.\n(ii) You can create dropdown lists using data validation.\n(iii) Data validation can display custom error messages when invalid data is entered.\n(iv) Data validation cannot be applied to an entire column at once.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — data validation can restrict entries to whole numbers, dates, text length, etc. Statement (ii) is correct — dropdown lists are a common data validation feature (List type). Statement (iii) is correct — you can set custom input messages and error alerts. Statement (iv) is incorrect — data validation CAN be applied to an entire column by selecting the column before setting validation rules."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The #REF! error in Excel occurs when a formula refers to a cell that is not valid.\nReason (R): Deleting a row or column that is referenced by a formula causes the reference to become invalid.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — #REF! appears when a cell reference in a formula is no longer valid. Reason (R) is also correct and explains the most common cause of #REF! — when you delete a row/column that a formula references, the reference breaks. The Reason directly explains how invalid references are created. Option B is wrong because (R) explains a primary cause of (A). Option C is wrong because (R) is factually correct. Option D is wrong because (A) is correct."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "E",
       "questionText": "Which of the following are features available in the 'Page Layout' tab of MS Excel?\n\n(i) Setting page margins\n(ii) Choosing page orientation (Portrait/Landscape)\n(iii) Adding headers and footers\n(iv) Inserting Pivot Tables\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Setting margins (i), page orientation (ii), and headers/footers (iii — under Print Titles section) are all available in the Page Layout tab. Inserting Pivot Tables (iv) is NOT in the Page Layout tab — Pivot Tables are found under the Insert tab. Options B, C, and D all include Pivot Tables which belongs to the Insert tab."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "E",
       "questionText": "The function =UPPER(\"hello world\") in Excel returns:",
-      "options": ["HELLO WORLD", "Hello World", "hello world", "Hello world"],
+      "options": [
+        "HELLO WORLD",
+        "Hello World",
+        "hello world",
+        "Hello world"
+      ],
       "correctAnswer": "HELLO WORLD",
       "explanation": "The UPPER function converts all characters in a text string to uppercase. =UPPER(\"hello world\") returns 'HELLO WORLD'. 'Hello World' would be the result of the PROPER function. 'hello world' would be the result of the LOWER function (or unchanged text). 'Hello world' would not be produced by any single standard function."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "E",
       "questionText": "Fill in the blank: In MS Excel, the symbol __________ is used before a formula to indicate that the cell contains a formula and not plain text.",
-      "options": ["= (equal sign)", "# (hash)", "@ (at sign)", "$ (dollar sign)"],
+      "options": [
+        "= (equal sign)",
+        "# (hash)",
+        "@ (at sign)",
+        "$ (dollar sign)"
+      ],
       "correctAnswer": "= (equal sign)",
       "explanation": "All formulas in Excel must begin with the = (equal sign) to tell Excel that the cell content is a formula to be calculated. The # hash is not used to start formulas — it appears in error codes like #REF!. The @ sign is used in structured table references, not to begin formulas. The $ dollar sign is used for absolute references within formulas, not to start them."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "E",
       "questionText": "Consider the following statements about the TRIM function in MS Excel:\n\n(i) TRIM removes all extra spaces from text, leaving only single spaces between words.\n(ii) TRIM removes leading and trailing spaces from a text string.\n(iii) TRIM removes all spaces including those between words.\n(iv) TRIM is useful for cleaning data imported from external sources.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Statement (i) is correct — TRIM removes extra spaces, leaving only single spaces between words. Statement (ii) is correct — it removes leading (before) and trailing (after) spaces. Statement (iv) is correct — TRIM is commonly used to clean imported data that has irregular spacing. Statement (iii) is incorrect — TRIM does NOT remove all spaces; it preserves single spaces between words."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "E",
       "questionText": "In MS Excel, what does the #DIV/0! error indicate?",
-      "options": ["A formula is trying to divide by zero or an empty cell", "A cell reference in the formula is invalid", "The formula contains a circular reference", "The function name is misspelled"],
+      "options": [
+        "A formula is trying to divide by zero or an empty cell",
+        "A cell reference in the formula is invalid",
+        "The formula contains a circular reference",
+        "The function name is misspelled"
+      ],
       "correctAnswer": "A formula is trying to divide by zero or an empty cell",
       "explanation": "The #DIV/0! error occurs when a formula attempts to divide a number by zero or by an empty cell. 'Cell reference is invalid' is wrong — that would produce a #REF! error. 'Circular reference' is wrong — circular references produce a different warning message. 'Function name misspelled' is wrong — that would produce a #NAME? error."
     },
@@ -231,15 +371,25 @@
       "id": "29",
       "subject": "E",
       "questionText": "Match the following Excel functions with their categories:\n\nColumn I:\n(a) NOW\n(b) TRIM\n(c) ABS\n(d) RAND\n\nColumn II:\n(i) Math & Trigonometry\n(ii) Text\n(iii) Date & Time\n(iv) Math & Trigonometry (random number)\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
       "explanation": "NOW is a Date & Time function that returns the current date and time (a-iii). TRIM is a Text function that removes extra spaces (b-ii). ABS is a Math function that returns the absolute value of a number (c-i). RAND is a Math & Trigonometry function that generates a random number between 0 and 1 (d-iv). Option B incorrectly categorizes NOW as Text. Option C swaps TRIM with ABS. Option D misassigns NOW to Math."
     },
     {
       "id": "30",
       "subject": "E",
-      "questionText": "The following data shows quarterly sales (in ₹ lakhs) for a company:\n\n| Quarter | Product A | Product B | Product C |\n|---------|-----------|-----------|----------|\n| Q1 | 25 | 30 | 20 |\n| Q2 | 35 | 28 | 25 |\n| Q3 | 40 | 35 | 30 |\n| Q4 | 30 | 40 | 35 |\n\nIf this data is in cells B2:D5, what value will =MAX(B2:D5) return?",
-      "options": ["40", "35", "130", "105"],
+      "questionText": "The following data shows quarterly sales (in ₹ lakhs) for a company:\n\nQ1 → 25, 30, 20\nQ2 → 35, 28, 25\nQ3 → 40, 35, 30\nQ4 → 30, 40, 35\n\nIf this data is in cells B2:D5, what value will =MAX(B2:D5) return?",
+      "options": [
+        "40",
+        "35",
+        "130",
+        "105"
+      ],
       "correctAnswer": "40",
       "explanation": "=MAX(B2:D5) returns the largest value in the entire range B2:D5. Looking at all values: 25, 30, 20, 35, 28, 25, 40, 35, 30, 30, 40, 35 — the maximum is 40 (which appears twice: Product A Q3 and Product B Q4). Option 35 is just the second-highest value. Option 130 would be the sum of Q3 row. Option 105 is not meaningful in this context."
     },
@@ -247,15 +397,25 @@
       "id": "31",
       "subject": "E",
       "questionText": "In MS Excel, the Ctrl + Shift + $ shortcut applies which format to selected cells?",
-      "options": ["Currency format", "Percentage format", "Date format", "Scientific format"],
+      "options": [
+        "Currency format",
+        "Percentage format",
+        "Date format",
+        "Scientific format"
+      ],
       "correctAnswer": "Currency format",
       "explanation": "Ctrl + Shift + $ applies the Currency number format with two decimal places to selected cells. Ctrl + Shift + % applies Percentage format — not $. There is no direct shortcut for Date format using $. Scientific format uses a different shortcut. The $ symbol in the shortcut directly hints at currency."
     },
     {
       "id": "32",
       "subject": "E",
-      "questionText": "The following data shows the marks of students in a test stored in Excel:\n\n| Student | Marks |\n|---------|-------|\n| Aman | 78 |\n| Bina | 85 |\n| Charu | 62 |\n| Dinesh | 91 |\n| Esha | 74 |\n\nIf marks are in B2:B6, what will =AVERAGE(B2:B6) return?",
-      "options": ["78", "78.0", "78.5", "390"],
+      "questionText": "The following data shows the marks of students in a test stored in Excel:\n\nAman → 78\nBina → 85\nCharu → 62\nDinesh → 91\nEsha → 74\n\nIf marks are in B2:B6, what will =AVERAGE(B2:B6) return?",
+      "options": [
+        "78",
+        "78.0",
+        "78.5",
+        "390"
+      ],
       "correctAnswer": "78",
       "explanation": "=AVERAGE(B2:B6) calculates the arithmetic mean: (78 + 85 + 62 + 91 + 74) ÷ 5 = 390 ÷ 5 = 78. Option 78.0 is wrong because Excel displays 78 without unnecessary decimals by default (and 78.0 is the same value but not how Excel typically shows it without formatting). Option 78.5 results from a miscalculation. Option 390 would be the result of =SUM(B2:B6), not AVERAGE."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "E",
       "questionText": "Which feature in MS Excel allows you to see how changes to cell values affect formula results in real time?",
-      "options": ["What-If Analysis", "Track Changes", "Data Validation", "Conditional Formatting"],
+      "options": [
+        "What-If Analysis",
+        "Track Changes",
+        "Data Validation",
+        "Conditional Formatting"
+      ],
       "correctAnswer": "What-If Analysis",
       "explanation": "What-If Analysis (including Goal Seek, Scenario Manager, and Data Tables) allows you to test how different values affect formula outcomes. Track Changes records edits made to a workbook but doesn't simulate value changes. Data Validation restricts input types but doesn't analyze impacts. Conditional Formatting changes cell appearance based on values but doesn't analyze formula sensitivity."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "E",
       "questionText": "Consider the following statements about the TEXT function in MS Excel:\n\n(i) TEXT converts a numeric value to text with a specified format.\n(ii) The syntax is TEXT(value, format_text).\n(iii) =TEXT(0.75, \"0%\") displays as '75%'.\n(iv) TEXT results can be used directly in arithmetic calculations.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — TEXT converts numbers to formatted text strings. Statement (ii) is correct — the syntax takes a value and a format code. Statement (iii) is correct — 0.75 formatted as \"0%\" displays '75%'. Statement (iv) is incorrect — since TEXT returns a text string, the result cannot be directly used in arithmetic calculations without converting back to a number."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "E",
       "questionText": "In MS Excel, which tab contains the 'Sort & Filter' options for organizing data?",
-      "options": ["Data tab", "Home tab", "View tab", "Insert tab"],
+      "options": [
+        "Data tab",
+        "Home tab",
+        "View tab",
+        "Insert tab"
+      ],
       "correctAnswer": "Data tab",
       "explanation": "The Sort & Filter group with advanced sorting and filtering options is located in the Data tab. While basic Sort & Filter buttons also appear in the Home tab's Editing group, the primary and comprehensive Sort & Filter features are in the Data tab. The View tab handles display settings. The Insert tab handles charts, tables, and objects — not data sorting."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Named ranges in Excel make formulas easier to understand.\nReason (R): A named range like 'Sales' is more readable in a formula than a cell reference like B2:B100.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — named ranges improve formula readability (e.g., =SUM(Sales) vs =SUM(B2:B100)). Reason (R) is also correct and directly explains why — a descriptive name like 'Sales' is clearer than an abstract cell reference. The Reason provides a concrete example of how named ranges improve understanding. Option B is wrong because the reason directly explains the assertion. Option C is wrong because (R) is correct. Option D is wrong because (A) is correct."
     },
@@ -295,7 +475,12 @@
       "id": "37",
       "subject": "E",
       "questionText": "The formula =IFERROR(A1/B1, \"Error\") in Excel will:",
-      "options": ["Display 'Error' if the division produces an error, otherwise show the result", "Always display 'Error' regardless of the calculation", "Display the result only if both cells contain text", "Divide A1 by B1 and add the word 'Error' to the result"],
+      "options": [
+        "Display 'Error' if the division produces an error, otherwise show the result",
+        "Always display 'Error' regardless of the calculation",
+        "Display the result only if both cells contain text",
+        "Divide A1 by B1 and add the word 'Error' to the result"
+      ],
       "correctAnswer": "Display 'Error' if the division produces an error, otherwise show the result",
       "explanation": "IFERROR evaluates the formula (A1/B1) and if it produces any error (like #DIV/0! when B1 is 0), it returns the specified value ('Error'). If no error occurs, it returns the normal result of A1/B1. 'Always display Error' is wrong — it only shows Error when an error occurs. 'Display result only if both contain text' is wrong — IFERROR doesn't check data types. 'Add Error to result' is wrong — IFERROR is conditional, not concatenation."
     },
@@ -303,7 +488,12 @@
       "id": "38",
       "subject": "E",
       "questionText": "In MS Excel, what is the maximum number of columns available in a worksheet (Excel 2007 and later)?",
-      "options": ["16,384", "256", "1,024", "65,536"],
+      "options": [
+        "16,384",
+        "256",
+        "1,024",
+        "65,536"
+      ],
       "correctAnswer": "16,384",
       "explanation": "Excel 2007 and later support 16,384 columns (2^14), ranging from A to XFD. 256 columns (A to IV) was the limit in Excel 2003 and earlier. 1,024 is not the column limit for any Excel version. 65,536 is the row limit of older Excel versions, not the column count."
     },
@@ -311,7 +501,12 @@
       "id": "39",
       "subject": "E",
       "questionText": "Which of the following are valid ways to create a chart in MS Excel?\n\n(i) Select data and use the Insert tab > Charts group\n(ii) Select data and press F11 to create a chart on a new sheet\n(iii) Select data and press Alt + F1 to create a chart on the same sheet\n(iv) Right-click data and select 'Insert Chart' from the context menu\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(i), (iii) and (iv) only", "All of the above"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
+        "All of the above"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Statement (i) is correct — the Insert tab has a Charts group for creating charts. Statement (ii) is correct — F11 creates a chart on a new chart sheet instantly. Statement (iii) is correct — Alt + F1 creates an embedded chart on the current worksheet. Statement (iv) is incorrect — 'Insert Chart' is not available in the standard right-click context menu; chart insertion is done through the Insert tab or keyboard shortcuts."
     },
@@ -319,7 +514,12 @@
       "id": "40",
       "subject": "E",
       "questionText": "The function =SUBSTITUTE(\"MS Excel\", \"Excel\", \"Word\") will return:",
-      "options": ["MS Word", "MS Excel Word", "Excel Word", "MS ExcelWord"],
+      "options": [
+        "MS Word",
+        "MS Excel Word",
+        "Excel Word",
+        "MS ExcelWord"
+      ],
       "correctAnswer": "MS Word",
       "explanation": "The SUBSTITUTE function replaces specified text within a string. =SUBSTITUTE(\"MS Excel\", \"Excel\", \"Word\") replaces 'Excel' with 'Word' in the string 'MS Excel', resulting in 'MS Word'. 'MS Excel Word' would imply appending rather than substituting. 'Excel Word' would mean the 'MS ' part was removed. 'MS ExcelWord' would mean the text was appended without replacing."
     }

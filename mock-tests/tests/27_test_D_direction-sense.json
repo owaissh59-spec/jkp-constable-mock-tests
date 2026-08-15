@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "D",
       "questionText": "A man walks 5 km towards the North, then turns right and walks 3 km. In which direction is he from his starting point?",
-      "options": ["North-East", "North-West", "South-East", "South-West"],
+      "options": [
+        "North-East",
+        "North-West",
+        "South-East",
+        "South-West"
+      ],
       "correctAnswer": "North-East",
       "explanation": "Starting from the origin, 5 km North places him north; then turning right (East) and walking 3 km places him north-east of the starting point. 'North-West' is wrong because he turned right (East), not left (West). 'South-East' is wrong because he moved North first, not South. 'South-West' is wrong because neither direction component matches his movements."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "D",
       "questionText": "Consider the following statements about direction sense:\n\n(i) If you face North and turn clockwise by 90°, you will face East.\n(ii) The direction opposite to North-East is South-West.\n(iii) If you face South and turn left, you will face East.\n(iv) Sunrise generally occurs in the West.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — clockwise 90° from North is East. Statement (ii) is correct — NE and SW are opposite directions. Statement (iii) is correct — facing South and turning left (clockwise from South perspective) means facing East. Statement (iv) is wrong because the sun rises in the East, not the West."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "D",
       "questionText": "Ravi starts walking from point A, goes 4 km South, then turns left and walks 3 km. He then turns left again and walks 4 km. How far is he from point A?",
-      "options": ["3 km", "4 km", "5 km", "7 km"],
+      "options": [
+        "3 km",
+        "4 km",
+        "5 km",
+        "7 km"
+      ],
       "correctAnswer": "3 km",
       "explanation": "From A: 4 km South, then left (East) 3 km, then left (North) 4 km. The 4 km South and 4 km North cancel out, leaving him 3 km East of A. Distance = 3 km. '4 km' is wrong — it would mean he only moved vertically. '5 km' is wrong — that would be the hypotenuse if movements didn't cancel. '7 km' is wrong — that is the total distance walked, not displacement."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a person faces East and turns 180°, he will face West.\nReason (R): A 180° turn always reverses the direction a person is facing.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — turning 180° from East results in facing West. Reason (R) is correct — a 180° turn always reverses direction regardless of starting direction. (R) directly explains (A) because the reversal property of 180° turns is why East becomes West."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "D",
       "questionText": "Match the following starting directions with the result after the given turn:\n\nColumn I:\n(a) Facing North, turn right\n(b) Facing East, turn left\n(c) Facing South, turn right\n(d) Facing West, turn right\n\nColumn II:\n(i) Facing North\n(ii) Facing East\n(iii) Facing West\n(iv) Facing North\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Facing North + right = East (ii). Facing East + left = North (iv). Facing South + right = West (iii). Facing West + right = North (i). The second option wrongly assigns North+right to West. The third option wrongly assigns East+left to North matching (i) instead of (iv). The fourth option has multiple incorrect assignments."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "D",
       "questionText": "A girl starts from her house and walks 2 km towards the East. She then turns left and walks 3 km, then turns left again and walks 2 km. In which direction is she from her house now?",
-      "options": ["North", "South", "East", "West"],
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
       "correctAnswer": "North",
       "explanation": "From house: 2 km East, then left (North) 3 km, then left (West) 2 km. The 2 km East and 2 km West cancel out. She is directly 3 km North of her house. 'South' is wrong — she moved North, not South. 'East' is wrong — her east-west movements cancelled. 'West' is wrong — same reason, movements cancelled out."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "D",
       "questionText": "If you are facing South-West and turn 135° clockwise, which direction will you face?",
-      "options": ["North", "North-West", "West", "North-East"],
+      "options": [
+        "North",
+        "North-West",
+        "West",
+        "North-East"
+      ],
       "correctAnswer": "North",
       "explanation": "South-West is at 225° from North (clockwise). Adding 135° clockwise: 225° + 135° = 360° = 0° = North. 'North-West' is wrong — that would be 315° (only 90° turn). 'West' is wrong — that would be 270° (only 45° turn). 'North-East' is wrong — that would be 45° (180° turn from SW)."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "D",
       "questionText": "Consider the following statements about a person who starts facing North:\n\n(i) After turning right twice (90° each), he faces South.\n(ii) After turning left three times (90° each), he faces East.\n(iii) After turning right once and left once, he faces North again.\n(iv) After turning right four times (90° each), he faces West.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i): North → right → East → right → South. Correct. Statement (ii): North → left → West → left → South → left → East. Correct. Statement (iii): North → right → East → left → North. Correct. Statement (iv): North → right → East → right → South → right → West → right → North, not West. Wrong."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "D",
       "questionText": "Suresh walks 10 m towards the North, turns right and walks 15 m, turns right again and walks 10 m. What is the distance between his starting and ending points?",
-      "options": ["15 m", "10 m", "20 m", "25 m"],
+      "options": [
+        "15 m",
+        "10 m",
+        "20 m",
+        "25 m"
+      ],
       "correctAnswer": "15 m",
       "explanation": "From start: 10 m North, then right (East) 15 m, then right (South) 10 m. The 10 m North and 10 m South cancel. He is 15 m East of the start. Distance = 15 m. '10 m' is wrong — that ignores the eastward movement. '20 m' is wrong — no calculation yields 20. '25 m' is wrong — that would be 10+15, the sum not displacement."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "D",
       "questionText": "Which of the following are pairs of opposite directions?\n\n(i) North and South\n(ii) East and West\n(iii) North-East and South-West\n(iv) North-West and South-East\n\nSelect the correct combination:",
-      "options": ["All of the above", "(i), (ii) and (iii) only", "(i) and (ii) only", "(i), (ii) and (iv) only"],
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iii) only",
+        "(i) and (ii) only",
+        "(i), (ii) and (iv) only"
+      ],
       "correctAnswer": "All of the above",
       "explanation": "All four pairs are opposite directions. North↔South (i), East↔West (ii), NE↔SW (iii), and NW↔SE (iv) are all pairs separated by 180°. The second option is wrong because it excludes NW↔SE which is also opposite. The third option is wrong because it excludes diagonal opposites. The fourth option is wrong because it excludes NE↔SW which is also opposite."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "D",
       "questionText": "A person walks 6 km West, then 8 km North. What is the shortest distance from his starting point?",
-      "options": ["10 km", "14 km", "8 km", "12 km"],
+      "options": [
+        "10 km",
+        "14 km",
+        "8 km",
+        "12 km"
+      ],
       "correctAnswer": "10 km",
       "explanation": "Using Pythagoras theorem: √(6² + 8²) = √(36 + 64) = √100 = 10 km. '14 km' is wrong — that is simply 6+8 (total walking distance, not shortest). '8 km' is wrong — that is only the northward component. '12 km' is wrong — no calculation yields 12 from these numbers."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If Rahul's shadow falls to his left side in the morning, he is facing North.\nReason (R): In the morning, the sun is in the East, so shadows fall towards the West.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — if facing North in the morning, the sun is to the East (right side), and shadows fall to the West (left side). So shadow falls to his left. Reason (R) is correct — morning sun in the East casts shadows towards the West. (R) explains (A) because the westward shadow direction (his left when facing North) confirms his orientation. 'Both correct but not explanation' is wrong because (R) directly explains the shadow position. '(A) correct but (R) wrong' is wrong because (R) is factually correct. '(A) wrong but (R) correct' is wrong because (A) is also correct."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "D",
       "questionText": "Priya starts from point P and walks 7 km towards the South. She then turns left and walks 5 km, and then turns left again and walks 7 km. In which direction is she from point P?",
-      "options": ["East", "West", "North", "South"],
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
       "correctAnswer": "East",
       "explanation": "From P: 7 km South, then left (East) 5 km, then left (North) 7 km. The 7 km South and 7 km North cancel out. She is 5 km East of P. 'West' is wrong — she turned left from South which is East, not West. 'North' is wrong — her north-south movements cancelled. 'South' is wrong — same reason, they cancelled."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "D",
       "questionText": "Fill in the blank: If you face East and turn anti-clockwise by 270°, you will face __________.",
-      "options": ["South", "North", "West", "East"],
+      "options": [
+        "South",
+        "North",
+        "West",
+        "East"
+      ],
       "correctAnswer": "South",
       "explanation": "Facing East (90° from North). Anti-clockwise 270° means: 90° − 270° = −180°, equivalent to 360° − 180° = 180° from North = South. Alternatively, anti-clockwise 270° equals clockwise 90°. East + clockwise 90° = South. 'North' is wrong — that would be anti-clockwise 90° from East. 'West' is wrong — that would be anti-clockwise 180° from East. 'East' is wrong — that would mean no net turn."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "D",
       "questionText": "A man walks 3 km North, then 4 km East, then 3 km South. How far and in which direction is he from the starting point?",
-      "options": ["4 km East", "3 km North", "5 km North-East", "6 km East"],
+      "options": [
+        "4 km East",
+        "3 km North",
+        "5 km North-East",
+        "6 km East"
+      ],
       "correctAnswer": "4 km East",
       "explanation": "3 km North + 3 km South cancel out = net 0 in N-S direction. 4 km East remains. He is exactly 4 km East of start. '3 km North' is wrong — the north-south movements cancelled. '5 km North-East' is wrong — there is no net northward displacement. '6 km East' is wrong — he only walked 4 km East."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "D",
       "questionText": "Consider the following statements about shadows and direction:\n\n(i) In the evening, the sun is in the West, so shadows fall towards the East.\n(ii) At noon, when the sun is directly overhead, shadows are shortest.\n(iii) In the morning, if your shadow is behind you, you are facing East.\n(iv) Shadows always fall towards the North regardless of time.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — evening sun in West casts shadows East. Statement (ii) is correct — overhead sun produces minimal/shortest shadows. Statement (iii) is correct — morning sun in East, if shadow is behind you, you face East (toward the sun). Statement (iv) is wrong — shadow direction depends on the sun's position and changes throughout the day."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "D",
       "questionText": "Match the following movements with the final direction faced:\n\nColumn I:\n(a) Face South, turn left 90°\n(b) Face West, turn right 180°\n(c) Face North, turn right 270°\n(d) Face East, turn right 90°\n\nColumn II:\n(i) South\n(ii) East\n(iii) West\n(iv) East\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Face South + left 90° = East (ii). Face West + right 180° = East (iv). Face North + right 270° = North clockwise 270° = West (iii). Face East + right 90° = South (i). The second option wrongly assigns South+left to West. The third option wrongly assigns West+right 180° to West. The fourth option wrongly assigns South+left to South."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "D",
       "questionText": "Anil starts from a point and walks 8 km towards the East. He turns left and walks 6 km, then turns left and walks 8 km. What is the distance between his final position and the starting point?",
-      "options": ["6 km", "8 km", "10 km", "14 km"],
+      "options": [
+        "6 km",
+        "8 km",
+        "10 km",
+        "14 km"
+      ],
       "correctAnswer": "6 km",
       "explanation": "From start: 8 km East, then left (North) 6 km, then left (West) 8 km. East 8 km + West 8 km cancel = 0 in E-W. He is 6 km North of start. Distance = 6 km. '8 km' is wrong — the east-west components cancelled. '10 km' is wrong — Pythagoras would apply only if components didn't cancel. '14 km' is wrong — that's 8+6, total distance walked in one direction, not displacement."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "D",
       "questionText": "If North-East is called East, East is called South-East, and so on (each direction is rotated one step clockwise), then what will South be called in this new system?",
-      "options": ["South-West", "West", "South-East", "North-West"],
+      "options": [
+        "South-West",
+        "West",
+        "South-East",
+        "North-West"
+      ],
       "correctAnswer": "South-West",
       "explanation": "Each direction is renamed as the next direction clockwise. The sequence clockwise: N, NE, E, SE, S, SW, W, NW. If NE→E (one step clockwise), E→SE, SE→S, S→SW. So South is called South-West. 'West' is wrong — that would be two steps clockwise. 'South-East' is wrong — that's what SE would be called (i.e., South). 'North-West' is wrong — that's far from one step clockwise from South."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a person walks North and then turns right, he is now walking towards the East.\nReason (R): Turning right means turning 90° clockwise from the current direction.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — walking North then turning right (clockwise 90°) gives East. Reason (R) is correct — right turn means 90° clockwise. (R) explains (A) because it's precisely the clockwise 90° turn from North that results in facing East."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "D",
       "questionText": "A boy walks 4 km East, then 3 km North, then 4 km West. In which direction is he from his starting point?",
-      "options": ["North", "North-East", "East", "North-West"],
+      "options": [
+        "North",
+        "North-East",
+        "East",
+        "North-West"
+      ],
       "correctAnswer": "North",
       "explanation": "4 km East + 4 km West = 0 (cancel out). 3 km North remains. He is directly North of the starting point. 'North-East' is wrong — there is no net eastward displacement. 'East' is wrong — east-west movements cancelled. 'North-West' is wrong — there is no net westward displacement."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) A 360° turn brings you back to the original direction.\n(ii) A clockwise turn of 90° from West leads to North.\n(iii) An anti-clockwise turn of 90° from East leads to North.\n(iv) Two consecutive right turns of 90° each from North lead to South.\n\nWhich of the statements given above are correct?",
-      "options": ["All of the above", "(i), (ii) and (iii) only", "(i), (ii) and (iv) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "All of the above",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "All of the above",
       "explanation": "All four statements are correct. (i) 360° = full circle, returns to original direction. (ii) West is at 270°; clockwise 90° = 360° = 0° = North. Correct. (iii) East is at 90°; anti-clockwise 90° = 0° = North. Correct. (iv) North → right → East → right → South. Correct. The other options are wrong because they each exclude one statement that is in fact correct."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "D",
       "questionText": "Seema walks 12 m towards the South, turns left and walks 5 m. What is the shortest distance from her starting point?",
-      "options": ["13 m", "17 m", "12 m", "10 m"],
+      "options": [
+        "13 m",
+        "17 m",
+        "12 m",
+        "10 m"
+      ],
       "correctAnswer": "13 m",
       "explanation": "She walks 12 m South and 5 m East (left from South). By Pythagoras: √(12² + 5²) = √(144 + 25) = √169 = 13 m. '17 m' is wrong — that's 12+5 (total distance, not displacement). '12 m' is wrong — that ignores the eastward component. '10 m' is wrong — no calculation yields 10 from 12 and 5."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "D",
       "questionText": "Which of the following are correct about direction sense problems?\n\n(i) 'Turns right' means a 90° clockwise turn.\n(ii) 'Turns left' means a 90° anti-clockwise turn.\n(iii) The shortest distance between two points is always the straight-line distance.\n(iv) 'Turns right' and 'turns left' always mean 180° turns.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — right turn = 90° clockwise. (ii) is correct — left turn = 90° anti-clockwise. (iii) is correct — straight-line distance (displacement) is always the shortest. (iv) is wrong — right and left turns mean 90° turns by convention in direction sense problems, not 180°."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "D",
       "questionText": "Rakesh starts from his office facing North. He turns right and walks 100 m, then turns right and walks 100 m, then turns right and walks 100 m. How far is he from the starting point and in which direction?",
-      "options": ["100 m South", "100 m East", "200 m South", "100 m North"],
+      "options": [
+        "100 m South",
+        "100 m East",
+        "200 m South",
+        "100 m North"
+      ],
       "correctAnswer": "100 m South",
       "explanation": "Facing North → right (East) 100 m to (100,0). Turn right (South) 100 m to (100,-100). Turn right (West) 100 m to (0,-100). Net: 100E - 100W = 0 in E-W; 100S in N-S. He is 100 m South. '100 m East' is wrong — the east-west movements cancelled. '200 m South' is wrong — he only moved 100 m south. '100 m North' is wrong — he moved south overall."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In direction problems, the Pythagorean theorem is used to find the shortest distance when a person makes perpendicular movements.\nReason (R): The Pythagorean theorem states that in a right triangle, the square of the hypotenuse equals the sum of squares of the other two sides.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — when movements are perpendicular (N-S combined with E-W), Pythagoras gives the straight-line distance. Reason (R) is correct — it accurately states the Pythagorean theorem. (R) explains (A) because the theorem's formula is precisely what allows calculation of shortest distance from perpendicular displacements."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "D",
       "questionText": "Mohan faces South-East. He turns 90° clockwise. Which direction is he facing now?",
-      "options": ["South-West", "North-West", "North-East", "West"],
+      "options": [
+        "South-West",
+        "North-West",
+        "North-East",
+        "West"
+      ],
       "correctAnswer": "South-West",
       "explanation": "South-East is at 135° from North (clockwise). Adding 90° clockwise: 135° + 90° = 225° = South-West. 'North-West' is wrong — that's 315° (180° turn from SE). 'North-East' is wrong — that's 45° (270° clockwise or 90° anti-clockwise from SE). 'West' is wrong — that's 270° (135° clockwise from SE)."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "D",
       "questionText": "Consider the following statements about a person who walks 5 km North, then 5 km East:\n\n(i) His final position is North-East of the starting point.\n(ii) The shortest distance from start is 5√2 km (approximately 7.07 km).\n(iii) He has covered a total distance of 10 km.\n(iv) His final position is exactly East of the starting point.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — 5 km North + 5 km East places him NE. (ii) is correct — √(5² + 5²) = √50 = 5√2 ≈ 7.07 km. (iii) is correct — total distance walked = 5 + 5 = 10 km. (iv) is wrong — he is NE, not directly East, because he has northward displacement too."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "D",
       "questionText": "A person starts from a point and walks 3 km towards West, then turns right and walks 4 km. In which direction is he from the starting point?",
-      "options": ["North-West", "North-East", "South-West", "South-East"],
+      "options": [
+        "North-West",
+        "North-East",
+        "South-West",
+        "South-East"
+      ],
       "correctAnswer": "North-West",
       "explanation": "From start: 3 km West, then right turn from West = North, walks 4 km North. He has net displacement of 3 km West and 4 km North = North-West of starting point. 'North-East' is wrong — he went West, not East. 'South-West' is wrong — he went North, not South. 'South-East' is wrong — he went neither South nor East."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "D",
       "questionText": "Match the following angular turns with the number of right-angle (90°) turns they equal:\n\nColumn I:\n(a) 180° turn\n(b) 360° turn\n(c) 270° clockwise turn\n(d) 90° anti-clockwise turn\n\nColumn II:\n(i) Equivalent to 1 left turn\n(ii) Equivalent to 2 right turns\n(iii) Equivalent to 4 right turns (full circle)\n(iv) Equivalent to 3 right turns\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
       "explanation": "180° = two 90° right turns (ii). 360° = four 90° right turns, full circle (iii). 270° clockwise = three right turns (iv). 90° anti-clockwise = one left turn (i). The second option wrongly assigns 180° to three right turns. The third option wrongly assigns 360° to three right turns. The fourth option wrongly assigns 180° to four right turns."
     },
@@ -247,7 +397,12 @@
       "id": "31",
       "subject": "D",
       "questionText": "Deepa starts from point X and walks 6 km South. She then turns East and walks 8 km. How far is she from point X (shortest distance)?",
-      "options": ["10 km", "14 km", "8 km", "12 km"],
+      "options": [
+        "10 km",
+        "14 km",
+        "8 km",
+        "12 km"
+      ],
       "correctAnswer": "10 km",
       "explanation": "By Pythagoras: √(6² + 8²) = √(36 + 64) = √100 = 10 km. '14 km' is wrong — that's the total distance walked (6+8). '8 km' is wrong — that's only the eastward component. '12 km' is wrong — no calculation from 6 and 8 yields 12."
     },
@@ -255,7 +410,12 @@
       "id": "32",
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) If you face West and turn anti-clockwise by 90°, you face South.\n(ii) North-East is exactly 45° from both North and East.\n(iii) If you face East and turn clockwise by 180°, you face West.\n(iv) If you face South and turn anti-clockwise by 90°, you face West.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — West (270°) anti-clockwise 90° = 270° - 90° = 180° = South. (ii) is correct — NE is at 45° from North and 45° from East. (iii) is correct — East (90°) clockwise 180° = 90° + 180° = 270° = West. (iv) is wrong — South (180°) anti-clockwise 90° = 180° - 90° = 90° = East, not West."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "D",
       "questionText": "Ram walks 5 km from his house towards the East. He then turns left and walks 4 km, turns left again and walks 5 km, and finally turns left and walks 2 km. How far is he from his house?",
-      "options": ["2 km", "4 km", "3 km", "5 km"],
+      "options": [
+        "2 km",
+        "4 km",
+        "3 km",
+        "5 km"
+      ],
       "correctAnswer": "2 km",
       "explanation": "From house: 5 km East → left (North) 4 km → left (West) 5 km → left (South) 2 km. Net E-W: 5E - 5W = 0. Net N-S: 4N - 2S = 2N. He is 2 km North of house. Distance = 2 km. '4 km' is wrong — it considers only the northward walk. '3 km' is wrong — no net calculation gives 3. '5 km' is wrong — that would be the hypotenuse of a 3-4-5 triangle which doesn't apply here."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "D",
       "questionText": "Fill in the blank: If the sun rises to your left and your shadow falls behind you, you are facing __________.",
-      "options": ["South", "North", "East", "West"],
+      "options": [
+        "South",
+        "North",
+        "East",
+        "West"
+      ],
       "correctAnswer": "South",
       "explanation": "In the morning, the sun is in the East. If the sun is to your left, East is to your left, so you face South (with East on left, West on right). Shadow falls behind (towards North, opposite to sun = West side), confirming the morning scenario with facing South. 'North' is wrong — if facing North, sun (East) would be to your right. 'East' is wrong — you'd be facing the sun with shadow behind toward West, but sun would be ahead not to the left. 'West' is wrong — sun would be behind you, shadow in front."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If two people start from the same point, one walks North and the other walks East, the angle between their paths is 90°.\nReason (R): North and East are perpendicular directions on the compass.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — North and East paths from the same point form a 90° angle. Reason (R) is correct — North and East are perpendicular (separated by 90°). (R) directly explains (A) because the perpendicularity of these compass directions is why the angle between paths is 90°."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "D",
       "questionText": "A person walks 20 m North, 15 m East, 20 m South, and 15 m West. Where does he end up relative to the starting point?",
-      "options": ["At the starting point itself", "15 m East", "20 m North", "35 m North-East"],
+      "options": [
+        "At the starting point itself",
+        "15 m East",
+        "20 m North",
+        "35 m North-East"
+      ],
       "correctAnswer": "At the starting point itself",
       "explanation": "20 m North + 20 m South = 0 net N-S. 15 m East + 15 m West = 0 net E-W. He is back at the starting point. '15 m East' is wrong — the eastward and westward movements cancelled. '20 m North' is wrong — the northward and southward movements cancelled. '35 m North-East' is wrong — all movements cancelled out completely."
     },
@@ -295,7 +475,12 @@
       "id": "37",
       "subject": "D",
       "questionText": "Consider the following statements about a person who faces North and makes the following moves: walks 10 m, turns right, walks 10 m, turns right, walks 10 m:\n\n(i) He traces three sides of a square.\n(ii) His final position is 10 m East of the starting point.\n(iii) He is now facing South.\n(iv) He ends up at the starting point.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — three equal segments with right turns trace three sides of a square. (ii) is correct — from (0,0): 10N to (0,10), right(E) 10 to (10,10), right(S) 10 to (10,0). He is 10 m East of start. (iii) is correct — North → right → East → right → South, he faces South. (iv) is wrong — he is at (10,0), not back at (0,0); he would need a fourth side to complete the square."
     },
@@ -303,7 +488,12 @@
       "id": "38",
       "subject": "D",
       "questionText": "Kavita is standing at point A. She walks 9 km towards the South, then turns right and walks 12 km. What is the shortest distance between her current position and point A?",
-      "options": ["15 km", "21 km", "12 km", "18 km"],
+      "options": [
+        "15 km",
+        "21 km",
+        "12 km",
+        "18 km"
+      ],
       "correctAnswer": "15 km",
       "explanation": "By Pythagoras: √(9² + 12²) = √(81 + 144) = √225 = 15 km. '21 km' is wrong — that's the total distance walked (9+12). '12 km' is wrong — that's only the westward component. '18 km' is wrong — no calculation from 9 and 12 yields 18."
     },
@@ -311,7 +501,12 @@
       "id": "39",
       "subject": "D",
       "questionText": "Which of the following movements will bring a person back to the starting point?\n\n(i) 4 km North, 4 km East, 4 km South, 4 km West\n(ii) 3 km North, 5 km East, 3 km South, 5 km West\n(iii) 6 km West, 6 km North, 6 km East\n(iv) 2 km South, 3 km East, 2 km North, 3 km West\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i): 4N + 4S = 0, 4E + 4W = 0 → returns to start. (ii): 3N + 3S = 0, 5E + 5W = 0 → returns to start. (iv): 2S + 2N = 0, 3E + 3W = 0 → returns to start. (iii): 6W + 6E = 0 in E-W, but 6N remains → does NOT return (is 6 km North of start)."
     },
@@ -319,7 +514,12 @@
       "id": "40",
       "subject": "D",
       "questionText": "A boy starts walking towards the East. After walking 50 m, he turns to his left and walks 30 m. He then turns to his left again and walks 50 m. In which direction is he from the starting point?",
-      "options": ["North", "South", "East", "West"],
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
       "correctAnswer": "North",
       "explanation": "From start: 50 m East → left (North) 30 m → left (West) 50 m. Net E-W: 50E - 50W = 0. Net N-S: 30 m North. He is directly 30 m North of start. 'South' is wrong — he moved North not South. 'East' is wrong — east-west cancelled. 'West' is wrong — east-west cancelled."
     },
@@ -327,7 +527,12 @@
       "id": "41",
       "subject": "D",
       "questionText": "Match the following scenarios with the shortest distance from start:\n\nColumn I:\n(a) Walk 3 km North, 4 km East\n(b) Walk 6 km South, 8 km West\n(c) Walk 5 km North, 12 km East\n(d) Walk 8 km South, 15 km East\n\nColumn II:\n(i) 13 km\n(ii) 10 km\n(iii) 5 km\n(iv) 17 km\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
       "explanation": "(a): √(3²+4²) = √25 = 5 km (iii). (b): √(6²+8²) = √100 = 10 km (ii). (c): √(5²+12²) = √169 = 13 km (i). (d): √(8²+15²) = √289 = 17 km (iv). The second option assigns 10 to (a) which is wrong (should be 5). The third option assigns 10 to (c) which is wrong (should be 13). The fourth option assigns 13 to (d) which is wrong (should be 17)."
     },
@@ -335,7 +540,12 @@
       "id": "42",
       "subject": "D",
       "questionText": "Sita faces North and turns clockwise by 45°. She then turns clockwise by another 90°. Which direction is she facing now?",
-      "options": ["South-East", "South", "East", "South-West"],
+      "options": [
+        "South-East",
+        "South",
+        "East",
+        "South-West"
+      ],
       "correctAnswer": "South-East",
       "explanation": "Starting North (0°), clockwise 45° = NE (45°), then clockwise 90° more = 45° + 90° = 135° = South-East. 'South' is wrong — that would be 180° (total 180° clockwise). 'East' is wrong — that would be 90° total. 'South-West' is wrong — that would be 225° total."
     },
@@ -343,7 +553,12 @@
       "id": "43",
       "subject": "D",
       "questionText": "Consider the following statements about a person starting from point O and walking 7 km North, then 7 km East:\n\n(i) He is 14 km away from O.\n(ii) He is in the North-East direction from O.\n(iii) The shortest distance from O is 7√2 km.\n(iv) He has traced two sides of a right-angled triangle with O as one vertex.\n\nWhich of the statements given above are correct?",
-      "options": ["(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
       "correctAnswer": "(ii), (iii) and (iv)",
       "explanation": "(ii) is correct — 7N + 7E places him NE. (iii) is correct — √(7²+7²) = √98 = 7√2 ≈ 9.9 km. (iv) is correct — the two perpendicular walks and the straight line back form a right triangle. (i) is wrong — 14 km is the total distance walked, not the shortest distance (which is 7√2 ≈ 9.9 km)."
     },
@@ -351,15 +566,25 @@
       "id": "44",
       "subject": "D",
       "questionText": "If Ravi is standing at point P facing North, and his friend Amit is standing exactly to the South-West of Ravi, in which direction should Ravi turn to face Amit?",
-      "options": ["He should turn 225° clockwise (or 135° anti-clockwise)", "He should turn 135° clockwise", "He should turn 90° clockwise", "He should turn 180° clockwise"],
+      "options": [
+        "He should turn 225° clockwise (or 135° anti-clockwise)",
+        "He should turn 135° clockwise",
+        "He should turn 90° clockwise",
+        "He should turn 180° clockwise"
+      ],
       "correctAnswer": "He should turn 225° clockwise (or 135° anti-clockwise)",
       "explanation": "Ravi faces North (0°). South-West is at 225° clockwise from North. So he must turn 225° clockwise. Equivalently, 360° - 225° = 135° anti-clockwise. '135° clockwise' is wrong — that would make him face South-East. '90° clockwise' is wrong — that would make him face East. '180° clockwise' is wrong — that would make him face South."
     },
     {
       "id": "45",
       "subject": "D",
-      "questionText": "The following data shows the movements of four persons starting from the same point:\n\n| Person | Movement 1 | Movement 2 |\n|---|---|---|\n| A | 6 km North | 8 km East |\n| B | 5 km South | 12 km West |\n| C | 8 km West | 6 km North |\n| D | 9 km East | 12 km South |\n\nWhich person is farthest from the starting point?",
-      "options": ["D", "B", "C", "A"],
+      "questionText": "The following data shows the movements of four persons starting from the same point:\n\nA → 6 km North, 8 km East\nB → 5 km South, 12 km West\nC → 8 km West, 6 km North\nD → 9 km East, 12 km South\n\nWhich person is farthest from the starting point?",
+      "options": [
+        "D",
+        "B",
+        "C",
+        "A"
+      ],
       "correctAnswer": "D",
       "explanation": "A: √(6²+8²) = √100 = 10 km. B: √(5²+12²) = √169 = 13 km. C: √(8²+6²) = √100 = 10 km. D: √(9²+12²) = √225 = 15 km. D is farthest at 15 km. 'B' is wrong — B is 13 km away (less than D's 15). 'C' is wrong — C is 10 km away. 'A' is wrong — A is 10 km away."
     },
@@ -367,7 +592,12 @@
       "id": "46",
       "subject": "D",
       "questionText": "A man faces West and turns 45° anti-clockwise. Which direction is he facing?",
-      "options": ["South-West", "North-West", "South", "South-East"],
+      "options": [
+        "South-West",
+        "North-West",
+        "South",
+        "South-East"
+      ],
       "correctAnswer": "South-West",
       "explanation": "West is at 270° from North (clockwise). Anti-clockwise 45° from West: 270° - 45° = 225° = South-West. 'North-West' is wrong — that would be clockwise 45° from West (315°... no, NW is 315°, and W+45° clockwise = 315° = NW). 'South' is wrong — that would be anti-clockwise 90° from West. 'South-East' is wrong — that is 135°, very far from 225°."
     },
@@ -375,15 +605,25 @@
       "id": "47",
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) If a man walks towards the setting sun, he is walking towards the West.\n(ii) If at sunrise your shadow is to your right, you are facing South.\n(iii) The direction between North and West is called North-West.\n(iv) East and West are separated by 90°.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — the sun sets in the West. (ii) is correct — at sunrise (sun in East): if shadow is to your right, the shadow direction (West) is on your right side, meaning you face South (with West on right, East on left). (iii) is correct — NW is between N and W. (iv) is wrong — East and West are opposite directions separated by 180°, not 90°."
     },
     {
       "id": "48",
       "subject": "D",
-      "questionText": "The following data shows the movements of three delivery boys starting from the same depot:\n\n| Boy | Route |\n|---|---|\n| X | 4 km East, 3 km North |\n| Y | 5 km North, 12 km East |\n| Z | 3 km West, 4 km South |\n\nWhat is the difference in shortest distance from the depot between the farthest and nearest delivery boy?",
-      "options": ["8 km", "5 km", "7 km", "10 km"],
+      "questionText": "The following data shows the movements of three delivery boys starting from the same depot:\n\nX → 4 km East, 3 km North\nY → 5 km North, 12 km East\nZ → 3 km West, 4 km South\n\nWhat is the difference in shortest distance from the depot between the farthest and nearest delivery boy?",
+      "options": [
+        "8 km",
+        "5 km",
+        "7 km",
+        "10 km"
+      ],
       "correctAnswer": "8 km",
       "explanation": "X: √(4²+3²) = √25 = 5 km. Y: √(5²+12²) = √169 = 13 km. Z: √(3²+4²) = √25 = 5 km. Farthest = Y (13 km), Nearest = X or Z (5 km). Difference = 13 - 5 = 8 km. '5 km' is wrong — that's the distance of X and Z, not the difference. '7 km' is wrong — no calculation gives 7. '10 km' is wrong — that would require farthest to be 15 or nearest to be 3."
     },
@@ -391,7 +631,12 @@
       "id": "49",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a person walks equal distances North and then East, he is at a 45° angle (North-East) from the starting point.\nReason (R): When the perpendicular sides of a right triangle are equal, the angles opposite to them are both 45°.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — equal North and East movements place the person at exactly NE (45° from North). Reason (R) is correct — in an isosceles right triangle, both acute angles are 45°. (R) explains (A) because the equal perpendicular displacements form an isosceles right triangle, making the direction angle exactly 45°."
     },
@@ -399,7 +644,12 @@
       "id": "50",
       "subject": "D",
       "questionText": "A man starts from his home and walks 15 m towards the North. He then turns right and walks 20 m. He again turns right and walks 15 m. How far is he from his home and in which direction?",
-      "options": ["20 m East", "15 m South", "20 m West", "25 m North-East"],
+      "options": [
+        "20 m East",
+        "15 m South",
+        "20 m West",
+        "25 m North-East"
+      ],
       "correctAnswer": "20 m East",
       "explanation": "From home: 15 m North → right (East) 20 m → right (South) 15 m. Net N-S: 15N - 15S = 0. Net E-W: 20 m East. He is 20 m East of home. '15 m South' is wrong — north and south cancel out, no net south displacement. '20 m West' is wrong — he went East not West. '25 m North-East' is wrong — there is no net northward displacement."
     }

@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "B",
       "questionText": "The United Nations was established in which year?",
-      "options": ["1945", "1920", "1950", "1939"],
+      "options": [
+        "1945",
+        "1920",
+        "1950",
+        "1939"
+      ],
       "correctAnswer": "1945",
       "explanation": "The UN was established on 24 October 1945 after the ratification of the UN Charter. '1920' is wrong — that is when the League of Nations was established. '1950' is wrong — by then the UN was already five years old. '1939' is wrong — that is when World War II began."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "B",
       "questionText": "Consider the following statements about the UN Security Council:\n\n(i) It has 15 members — 5 permanent and 10 non-permanent.\n(ii) The permanent members have veto power.\n(iii) Non-permanent members are elected for a term of 5 years.\n(iv) It is the primary organ responsible for maintaining international peace and security.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — the Security Council has 5 permanent + 10 non-permanent = 15 members. (ii) is correct — the P5 have veto power. (iv) is correct — maintaining peace and security is its primary role. (iii) is wrong — non-permanent members are elected for 2 years, not 5 years."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "B",
       "questionText": "The headquarters of the United Nations is located in:",
-      "options": ["New York, USA", "Geneva, Switzerland", "The Hague, Netherlands", "Vienna, Austria"],
+      "options": [
+        "New York, USA",
+        "Geneva, Switzerland",
+        "The Hague, Netherlands",
+        "Vienna, Austria"
+      ],
       "correctAnswer": "New York, USA",
       "explanation": "The main UN headquarters is in New York City, USA. 'Geneva' is wrong — it hosts many UN agencies (WHO, UNHCR) but is not the main HQ. 'The Hague' is wrong — it hosts the International Court of Justice. 'Vienna' is wrong — it hosts IAEA and UNIDO but is not the main HQ."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The five permanent members of the UN Security Council are the USA, UK, France, Russia, and China.\nReason (R): These five nations were the principal Allied victors of World War II and were given permanent seats with veto power.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — the P5 are USA, UK, France, Russia (formerly USSR), and China. Reason (R) is correct — they were the major Allied powers of WWII. (R) explains (A) because their status as WWII victors is the historical reason they received permanent seats with veto power."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "B",
       "questionText": "Match the following UN organs with their primary functions:\n\nColumn I:\n(a) General Assembly\n(b) Security Council\n(c) International Court of Justice\n(d) Secretariat\n\nColumn II:\n(i) Settles legal disputes between states\n(ii) Deliberative body where all member states discuss issues\n(iii) Maintains international peace and security\n(iv) Carries out day-to-day administrative work of the UN\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
       "explanation": "General Assembly is the deliberative body (ii). Security Council maintains peace (iii). ICJ settles legal disputes (i). Secretariat handles administration (iv). The second option wrongly assigns peace-keeping to General Assembly. The third option wrongly assigns legal disputes to Security Council. The fourth option wrongly assigns administration to General Assembly."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "B",
       "questionText": "The 'veto power' in the UN Security Council means:",
-      "options": ["Any one of the five permanent members can block a substantive resolution by voting against it", "All 15 members must agree unanimously for any resolution to pass", "The Secretary-General can reject any decision of the Security Council", "Only the USA can block resolutions"],
+      "options": [
+        "Any one of the five permanent members can block a substantive resolution by voting against it",
+        "All 15 members must agree unanimously for any resolution to pass",
+        "The Secretary-General can reject any decision of the Security Council",
+        "Only the USA can block resolutions"
+      ],
       "correctAnswer": "Any one of the five permanent members can block a substantive resolution by voting against it",
       "explanation": "Veto power means any single P5 member can block a substantive resolution. 'All 15 must agree' is wrong — only 9 affirmative votes are needed, with no P5 veto. 'Secretary-General can reject' is wrong — the SG has no veto; it is a power of the P5. 'Only USA can block' is wrong — all five permanent members have equal veto power."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "B",
       "questionText": "Which of the following are principal organs of the United Nations?\n\n(i) General Assembly\n(ii) Security Council\n(iii) International Court of Justice\n(iv) World Health Organization\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "The General Assembly (i), Security Council (ii), and ICJ (iii) are principal organs of the UN (along with ECOSOC, Trusteeship Council, and Secretariat). WHO (iv) is wrong — it is a specialized agency of the UN, not a principal organ."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "B",
       "questionText": "Consider the following statements about the UN General Assembly:\n\n(i) Every member state has one vote regardless of size or population.\n(ii) It meets in regular session annually from September.\n(iii) It can pass resolutions that are legally binding on all member states.\n(iv) It elects non-permanent members of the Security Council.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — one country, one vote principle. (ii) is correct — regular sessions begin in September each year. (iv) is correct — the GA elects non-permanent SC members. (iii) is wrong — GA resolutions are generally recommendations, not legally binding (unlike Security Council resolutions under Chapter VII)."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "B",
       "questionText": "The International Court of Justice (ICJ) is located in:",
-      "options": ["The Hague, Netherlands", "New York, USA", "Geneva, Switzerland", "London, UK"],
+      "options": [
+        "The Hague, Netherlands",
+        "New York, USA",
+        "Geneva, Switzerland",
+        "London, UK"
+      ],
       "correctAnswer": "The Hague, Netherlands",
       "explanation": "The ICJ (also called the World Court) is located at the Peace Palace in The Hague, Netherlands. 'New York' is wrong — that is the main UN headquarters. 'Geneva' is wrong — it hosts other UN agencies. 'London' is wrong — it hosts no major UN judicial body."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India has been elected as a non-permanent member of the UN Security Council multiple times.\nReason (R): India is the world's largest democracy and has actively participated in UN peacekeeping operations.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — India has served 8 terms as non-permanent member. Reason (R) is correct — India is the largest democracy and a major UN peacekeeping contributor. However, (R) does not directly explain (A) because election depends on regional rotation and voting by GA members, not solely on democracy or peacekeeping contributions."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "B",
       "questionText": "The Secretary-General of the United Nations is appointed by:",
-      "options": ["The General Assembly on the recommendation of the Security Council", "The Security Council alone", "The International Court of Justice", "Direct election by all member states"],
+      "options": [
+        "The General Assembly on the recommendation of the Security Council",
+        "The Security Council alone",
+        "The International Court of Justice",
+        "Direct election by all member states"
+      ],
       "correctAnswer": "The General Assembly on the recommendation of the Security Council",
       "explanation": "The GA appoints the Secretary-General based on the Security Council's recommendation. 'Security Council alone' is wrong — it only recommends; the GA makes the formal appointment. 'ICJ' is wrong — the ICJ plays no role in this appointment. 'Direct election by all member states' is wrong — it is not a direct election but an appointment process."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "B",
       "questionText": "Match the following UN specialized agencies with their functions:\n\nColumn I:\n(a) WHO\n(b) UNESCO\n(c) UNICEF\n(d) ILO\n\nColumn II:\n(i) Promotes education, science, and culture\n(ii) Focuses on children's rights and welfare\n(iii) Promotes international health\n(iv) Sets international labour standards\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
       "explanation": "WHO promotes international health (iii). UNESCO promotes education, science, and culture (i). UNICEF focuses on children's welfare (ii). ILO sets labour standards (iv). The second option wrongly assigns education to WHO. The third option wrongly assigns children to UNESCO. The fourth option wrongly assigns labour to UNICEF."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "B",
       "questionText": "The current number of member states in the United Nations is approximately:",
-      "options": ["193", "150", "210", "175"],
+      "options": [
+        "193",
+        "150",
+        "210",
+        "175"
+      ],
       "correctAnswer": "193",
       "explanation": "The UN has 193 member states. '150' is wrong — the UN crossed 150 members decades ago. '210' is wrong — there are fewer than 200 sovereign states in the world. '175' is wrong — the count was 175 in the 1990s; it has since grown."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "B",
       "questionText": "Consider the following statements about the Economic and Social Council (ECOSOC):\n\n(i) It coordinates the economic and social work of the UN.\n(ii) It has 54 member states elected by the General Assembly.\n(iii) It oversees specialized agencies like WHO and UNESCO.\n(iv) It has the power to impose military sanctions.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — ECOSOC coordinates economic and social UN activities. (ii) is correct — it has 54 members elected for 3-year terms. (iii) is correct — it coordinates with specialized agencies. (iv) is wrong — military sanctions are the domain of the Security Council, not ECOSOC."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "B",
       "questionText": "The UN Charter was signed at which conference?",
-      "options": ["San Francisco Conference (1945)", "Yalta Conference (1945)", "Bretton Woods Conference (1944)", "Potsdam Conference (1945)"],
+      "options": [
+        "San Francisco Conference (1945)",
+        "Yalta Conference (1945)",
+        "Bretton Woods Conference (1944)",
+        "Potsdam Conference (1945)"
+      ],
       "correctAnswer": "San Francisco Conference (1945)",
       "explanation": "The UN Charter was signed on 26 June 1945 at the United Nations Conference on International Organization in San Francisco. 'Yalta Conference' is wrong — it discussed post-war Europe but did not sign the UN Charter. 'Bretton Woods' is wrong — it established the IMF and World Bank, not the UN. 'Potsdam Conference' is wrong — it dealt with post-war Germany."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Trusteeship Council is one of the six principal organs of the UN but has suspended operations.\nReason (R): All trust territories have achieved self-governance or independence, so the Council's work is complete.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — the Trusteeship Council is a principal organ that suspended operations in 1994. Reason (R) is correct — all 11 trust territories achieved independence or self-governance by 1994. (R) explains (A) because the completion of its mandate is exactly why it suspended operations."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "B",
       "questionText": "Which of the following countries are permanent members of the UN Security Council?\n\n(i) United States of America\n(ii) Germany\n(iii) France\n(iv) Russia\n\nSelect the correct combination:",
-      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "USA (i), France (iii), and Russia (iv) are permanent members of the Security Council. Germany (ii) is wrong — despite being a major power, Germany is not a permanent member of the Security Council (it has served as non-permanent member)."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "B",
       "questionText": "The World Health Organization (WHO) is headquartered in:",
-      "options": ["Geneva, Switzerland", "New York, USA", "Washington D.C., USA", "Paris, France"],
+      "options": [
+        "Geneva, Switzerland",
+        "New York, USA",
+        "Washington D.C., USA",
+        "Paris, France"
+      ],
       "correctAnswer": "Geneva, Switzerland",
       "explanation": "WHO headquarters is in Geneva, Switzerland. 'New York' is wrong — that is the main UN headquarters. 'Washington D.C.' is wrong — it hosts the World Bank and IMF. 'Paris' is wrong — it hosts UNESCO."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "B",
       "questionText": "Consider the following statements about UN peacekeeping:\n\n(i) Peacekeeping forces are often called 'Blue Helmets' or 'Blue Berets'.\n(ii) India is one of the largest contributors to UN peacekeeping forces.\n(iii) Peacekeeping operations are authorised by the Security Council.\n(iv) The General Assembly directly commands peacekeeping forces in the field.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — UN peacekeepers are known as Blue Helmets. (ii) is correct — India is one of the top contributors. (iii) is correct — the Security Council authorises peacekeeping. (iv) is wrong — peacekeeping operations are under the Secretary-General's direction, not the General Assembly's direct command."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "B",
       "questionText": "The term of a non-permanent member of the UN Security Council is:",
-      "options": ["2 years", "3 years", "5 years", "1 year"],
+      "options": [
+        "2 years",
+        "3 years",
+        "5 years",
+        "1 year"
+      ],
       "correctAnswer": "2 years",
       "explanation": "Non-permanent members serve 2-year terms and cannot be immediately re-elected. '3 years' is wrong — that is the term for ECOSOC members. '5 years' is wrong — that is the term for the Secretary-General. '1 year' is wrong — it is too short for meaningful participation."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "B",
       "questionText": "Match the following UN agencies with their headquarters:\n\nColumn I:\n(a) UNESCO\n(b) FAO\n(c) IAEA\n(d) UNHCR\n\nColumn II:\n(i) Rome, Italy\n(ii) Paris, France\n(iii) Vienna, Austria\n(iv) Geneva, Switzerland\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
       "explanation": "UNESCO is in Paris (ii). FAO is in Rome (i). IAEA is in Vienna (iii). UNHCR is in Geneva (iv). The second option wrongly places UNESCO in Rome. The third option wrongly places FAO in Vienna. The fourth option wrongly places IAEA in Geneva."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "B",
       "questionText": "The Universal Declaration of Human Rights (UDHR) was adopted by the UN General Assembly in which year?",
-      "options": ["1948", "1945", "1950", "1955"],
+      "options": [
+        "1948",
+        "1945",
+        "1950",
+        "1955"
+      ],
       "correctAnswer": "1948",
       "explanation": "The UDHR was adopted on 10 December 1948. '1945' is wrong — that is when the UN was established. '1950' is wrong — the UDHR was already two years old by then. '1955' is wrong — it significantly postdates the actual adoption."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The UN replaced the League of Nations as the primary international organisation for world peace.\nReason (R): The League of Nations failed to prevent World War II, demonstrating the need for a stronger international body.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — the UN replaced the League of Nations after WWII. Reason (R) is correct — the League's failure to prevent WWII showed a stronger organisation was needed. (R) explains (A) because the League's failure was the direct motivation for establishing the UN."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "B",
       "questionText": "Consider the following statements about the International Court of Justice (ICJ):\n\n(i) It has 15 judges elected for 9-year terms.\n(ii) Only states (not individuals) can be parties in cases before the ICJ.\n(iii) Its judgments are binding on the parties involved.\n(iv) Any country can enforce ICJ judgments militarily without UN approval.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — the ICJ has 15 judges serving 9-year terms. (ii) is correct — only states may be parties, not individuals. (iii) is correct — ICJ judgments are binding on the parties. (iv) is wrong — enforcement of ICJ rulings may be referred to the Security Council; no country can unilaterally enforce them militarily."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "B",
       "questionText": "The full form of UNICEF is:",
-      "options": ["United Nations International Children's Emergency Fund", "United Nations Intergovernmental Council for Education Fund", "United Nations Institute for Cultural and Educational Forum", "United Nations International Committee for Economic Freedom"],
+      "options": [
+        "United Nations International Children's Emergency Fund",
+        "United Nations Intergovernmental Council for Education Fund",
+        "United Nations Institute for Cultural and Educational Forum",
+        "United Nations International Committee for Economic Freedom"
+      ],
       "correctAnswer": "United Nations International Children's Emergency Fund",
       "explanation": "UNICEF was originally named United Nations International Children's Emergency Fund (now UN Children's Fund but retains the acronym). The other options contain fabricated expansions that do not correspond to any UN body."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "B",
       "questionText": "Which of the following are functions of the UN General Assembly?\n\n(i) Discussing and making recommendations on international issues\n(ii) Approving the UN budget\n(iii) Electing non-permanent members of the Security Council\n(iv) Deploying military forces to conflict zones\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — the GA discusses and recommends on world issues. (ii) is correct — it approves the budget. (iii) is correct — it elects SC non-permanent members. (iv) is wrong — deploying military forces is the Security Council's responsibility, not the General Assembly's."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "B",
       "questionText": "The Food and Agriculture Organization (FAO) is headquartered in:",
-      "options": ["Rome, Italy", "New York, USA", "Geneva, Switzerland", "Nairobi, Kenya"],
+      "options": [
+        "Rome, Italy",
+        "New York, USA",
+        "Geneva, Switzerland",
+        "Nairobi, Kenya"
+      ],
       "correctAnswer": "Rome, Italy",
       "explanation": "FAO is headquartered in Rome, Italy. 'New York' is wrong — that is the main UN headquarters. 'Geneva' is wrong — it hosts WHO and UNHCR. 'Nairobi' is wrong — it hosts UNEP (UN Environment Programme)."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "B",
       "questionText": "Consider the following statements about the UN Secretariat:\n\n(i) It is headed by the Secretary-General.\n(ii) The Secretary-General serves a term of 5 years (renewable).\n(iii) It carries out the day-to-day work of the UN.\n(iv) The Secretariat makes all binding decisions for member states.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — the SG heads the Secretariat. (ii) is correct — the term is 5 years, renewable. (iii) is correct — it handles administrative/day-to-day work. (iv) is wrong — the Secretariat is administrative; binding decisions come from the Security Council or other organs."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The UN Security Council can impose economic sanctions or authorise military action against a country.\nReason (R): Under Chapter VII of the UN Charter, the Security Council has enforcement powers to maintain or restore international peace and security.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — the SC can impose sanctions and authorise force. Reason (R) is correct — Chapter VII grants these enforcement powers. (R) explains (A) because Chapter VII is the specific legal basis that empowers the Security Council to take such actions."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "B",
       "questionText": "Match the following with their correct descriptions:\n\nColumn I:\n(a) Veto power\n(b) Chapter VII\n(c) General Assembly\n(d) ECOSOC\n\nColumn II:\n(i) Coordinates economic and social work\n(ii) One state, one vote; all 193 members\n(iii) Enforcement powers for peace and security\n(iv) Ability of P5 to block resolutions\n\nChoose the correct match:",
-      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
       "explanation": "Veto power is the P5's ability to block resolutions (iv). Chapter VII provides enforcement powers (iii). General Assembly has all 193 members with one vote each (ii). ECOSOC coordinates economic/social work (i). The second option wrongly assigns enforcement to veto. The third option wrongly assigns one-state-one-vote to Chapter VII. The fourth option wrongly assigns ECOSOC's function to the GA."
     },
@@ -247,7 +397,12 @@
       "id": "31",
       "subject": "B",
       "questionText": "The first Secretary-General of the United Nations was:",
-      "options": ["Trygve Lie (Norway)", "Dag Hammarskjold (Sweden)", "U Thant (Myanmar)", "Kofi Annan (Ghana)"],
+      "options": [
+        "Trygve Lie (Norway)",
+        "Dag Hammarskjold (Sweden)",
+        "U Thant (Myanmar)",
+        "Kofi Annan (Ghana)"
+      ],
       "correctAnswer": "Trygve Lie (Norway)",
       "explanation": "Trygve Lie of Norway was the first UN Secretary-General (1946–1952). 'Dag Hammarskjold' is wrong — he was the second SG. 'U Thant' is wrong — he was the third SG. 'Kofi Annan' is wrong — he was the seventh SG."
     },
@@ -255,7 +410,12 @@
       "id": "32",
       "subject": "B",
       "questionText": "Consider the following statements about the UN General Assembly voting:\n\n(i) Important questions require a two-thirds majority.\n(ii) Other matters require a simple majority.\n(iii) Each member state has one vote.\n(iv) Permanent members of the Security Council have veto power in the General Assembly.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — important questions (peace, budget, membership) need two-thirds majority. (ii) is correct — other matters need a simple majority. (iii) is correct — one country, one vote. (iv) is wrong — veto power exists only in the Security Council, NOT in the General Assembly."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "B",
       "questionText": "UNESCO is concerned primarily with:",
-      "options": ["Education, science, and culture", "International trade and tariffs", "Military alliances", "Banking and monetary policy"],
+      "options": [
+        "Education, science, and culture",
+        "International trade and tariffs",
+        "Military alliances",
+        "Banking and monetary policy"
+      ],
       "correctAnswer": "Education, science, and culture",
       "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organization) promotes education, science, culture, and communication. 'International trade' is wrong — that is WTO. 'Military alliances' is wrong — the UN is not a military alliance. 'Banking and monetary policy' is wrong — that is the World Bank and IMF."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "B",
       "questionText": "Which of the following are correctly matched?\n\n(i) UNDP — United Nations Development Programme\n(ii) UNHCR — United Nations High Commissioner for Refugees\n(iii) UNEP — United Nations Environment Programme\n(iv) WHO — World Housing Organization\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) UNDP = United Nations Development Programme — correct. (ii) UNHCR = United Nations High Commissioner for Refugees — correct. (iii) UNEP = United Nations Environment Programme — correct. (iv) is wrong — WHO stands for World Health Organization, not World Housing Organization."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "B",
       "questionText": "The UN Day is celebrated on:",
-      "options": ["24 October", "26 June", "10 December", "1 January"],
+      "options": [
+        "24 October",
+        "26 June",
+        "10 December",
+        "1 January"
+      ],
       "correctAnswer": "24 October",
       "explanation": "UN Day is 24 October, the date the UN Charter came into force in 1945. '26 June' is wrong — that is the date the Charter was signed (celebrated as Charter Day). '10 December' is wrong — that is Human Rights Day. '1 January' is wrong — it is New Year's Day, not UN Day."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India was one of the founding members of the United Nations in 1945.\nReason (R): India signed the UN Charter on 26 June 1945, even before gaining independence from British rule in 1947.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Assertion (A) is correct — India was a founding member despite being under British rule. Reason (R) is correct — British India signed the Charter on 26 June 1945. (R) explains (A) because signing the Charter as a founding signatory is what made India a founding member."
     },
@@ -295,15 +475,25 @@
       "id": "37",
       "subject": "B",
       "questionText": "Consider the following statements about the six principal organs of the UN:\n\n(i) General Assembly\n(ii) Security Council\n(iii) Economic and Social Council (ECOSOC)\n(iv) Trusteeship Council\n(v) International Court of Justice\n(vi) Secretariat\n\nAll six organs listed above are correctly identified as the principal organs of the UN.",
-      "options": ["True — all six are correctly listed", "False — ECOSOC is not a principal organ", "False — Trusteeship Council was never a principal organ", "False — Secretariat is not a principal organ"],
+      "options": [
+        "True — all six are correctly listed",
+        "False — ECOSOC is not a principal organ",
+        "False — Trusteeship Council was never a principal organ",
+        "False — Secretariat is not a principal organ"
+      ],
       "correctAnswer": "True — all six are correctly listed",
       "explanation": "The UN has exactly six principal organs: General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ, and Secretariat. All are established by the UN Charter. 'ECOSOC is not a principal organ' is wrong — it is. 'Trusteeship Council was never a principal organ' is wrong — it was and remains one, though suspended. 'Secretariat is not a principal organ' is wrong — it is."
     },
     {
       "id": "38",
       "subject": "B",
-      "questionText": "The following data shows India's terms as a non-permanent member of the UN Security Council:\n\n| Term | Years |\n|---|---|\n| 1st | 1950–51 |\n| 2nd | 1967–68 |\n| 7th | 2011–12 |\n| 8th | 2021–22 |\n\nWhat is the gap (in years) between India's 7th and 8th terms?",
-      "options": ["10 years", "9 years", "8 years", "12 years"],
+      "questionText": "The following data shows India's terms as a non-permanent member of the UN Security Council:\n\n1st → 1950–51\n2nd → 1967–68\n7th → 2011–12\n8th → 2021–22\n\nWhat is the gap (in years) between India's 7th and 8th terms?",
+      "options": [
+        "10 years",
+        "9 years",
+        "8 years",
+        "12 years"
+      ],
       "correctAnswer": "10 years",
       "explanation": "India's 7th term started in 2011 and 8th term started in 2021. Gap = 2021 − 2011 = 10 years. '9 years' is wrong — the calculation clearly gives 10. '8 years' is wrong — it undercounts. '12 years' is wrong — it overcounts."
     },
@@ -311,7 +501,12 @@
       "id": "39",
       "subject": "B",
       "questionText": "Match the following Secretaries-General with their countries:\n\nColumn I:\n(a) Ban Ki-moon\n(b) Kofi Annan\n(c) Antonio Guterres\n(d) Boutros Boutros-Ghali\n\nColumn II:\n(i) Ghana\n(ii) South Korea\n(iii) Portugal\n(iv) Egypt\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
       "explanation": "Ban Ki-moon is from South Korea (ii). Kofi Annan is from Ghana (i). Antonio Guterres is from Portugal (iii). Boutros Boutros-Ghali is from Egypt (iv). The second option wrongly assigns Ghana to Ban Ki-moon. The third option wrongly assigns Portugal to Kofi Annan. The fourth option wrongly assigns Egypt to Guterres."
     },
@@ -319,7 +514,12 @@
       "id": "40",
       "subject": "B",
       "questionText": "The International Labour Organization (ILO) was originally established in:",
-      "options": ["1919 (as part of the Treaty of Versailles)", "1945 (along with the UN)", "1950 (after the Korean War)", "1960 (during decolonization)"],
+      "options": [
+        "1919 (as part of the Treaty of Versailles)",
+        "1945 (along with the UN)",
+        "1950 (after the Korean War)",
+        "1960 (during decolonization)"
+      ],
       "correctAnswer": "1919 (as part of the Treaty of Versailles)",
       "explanation": "ILO was established in 1919 under the Treaty of Versailles and later became a UN specialized agency. '1945' is wrong — ILO predates the UN. '1950' is wrong — ILO had been functioning for 31 years by then. '1960' is wrong — ILO was 41 years old by then."
     },
@@ -327,7 +527,12 @@
       "id": "41",
       "subject": "B",
       "questionText": "Consider the following statements about the UN veto power:\n\n(i) The veto can only be exercised on substantive (non-procedural) matters.\n(ii) An abstention by a permanent member does not count as a veto.\n(iii) The veto applies to all six principal organs of the UN.\n(iv) As of 2024, Russia/USSR has used the veto the most number of times.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — veto applies only to substantive matters. (ii) is correct — an abstention is not a veto. (iv) is correct — Russia/USSR has historically used the veto the most times. (iii) is wrong — the veto power exists only in the Security Council, not in other UN organs."
     },
@@ -335,7 +540,12 @@
       "id": "42",
       "subject": "B",
       "questionText": "Which of the following bodies can give advisory opinions on legal questions to the UN General Assembly?\n\n(i) International Court of Justice\n(ii) Security Council\n(iii) Secretariat\n(iv) ECOSOC\n\nSelect the correct option:",
-      "options": ["(i) only", "(i) and (ii)", "(i), (ii) and (iii)", "All of the above"],
+      "options": [
+        "(i) only",
+        "(i) and (ii)",
+        "(i), (ii) and (iii)",
+        "All of the above"
+      ],
       "correctAnswer": "(i) only",
       "explanation": "Only the International Court of Justice can give advisory opinions on legal questions referred to it by the GA or Security Council. The Security Council (ii) makes political decisions, not legal opinions. The Secretariat (iii) is administrative. ECOSOC (iv) handles economic/social coordination, not legal opinions."
     },
@@ -343,7 +553,12 @@
       "id": "43",
       "subject": "B",
       "questionText": "The World Bank Group is headquartered in:",
-      "options": ["Washington D.C., USA", "New York, USA", "Geneva, Switzerland", "London, UK"],
+      "options": [
+        "Washington D.C., USA",
+        "New York, USA",
+        "Geneva, Switzerland",
+        "London, UK"
+      ],
       "correctAnswer": "Washington D.C., USA",
       "explanation": "The World Bank Group is headquartered in Washington D.C. 'New York' is wrong — that is the main UN headquarters. 'Geneva' is wrong — it hosts WHO and UNHCR. 'London' is wrong — it does not host the World Bank."
     },
@@ -351,7 +566,12 @@
       "id": "44",
       "subject": "B",
       "questionText": "Consider the following statements about India and the UN:\n\n(i) India is a founding member of the UN.\n(ii) India has contributed significantly to UN peacekeeping operations.\n(iii) India is a permanent member of the UN Security Council.\n(iv) India has long demanded reform of the Security Council including permanent membership.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — India was a founding member in 1945. (ii) is correct — India is a top contributor to peacekeeping. (iv) is correct — India has been demanding UNSC reform. (iii) is wrong — India is NOT a permanent member; it aspires to become one but currently only the P5 have permanent seats."
     },
@@ -359,7 +579,12 @@
       "id": "45",
       "subject": "B",
       "questionText": "Fill in the blank: The International Atomic Energy Agency (IAEA), often called the 'Atoms for Peace' organization, is headquartered in __________.",
-      "options": ["Vienna, Austria", "Geneva, Switzerland", "New York, USA", "Tokyo, Japan"],
+      "options": [
+        "Vienna, Austria",
+        "Geneva, Switzerland",
+        "New York, USA",
+        "Tokyo, Japan"
+      ],
       "correctAnswer": "Vienna, Austria",
       "explanation": "IAEA is headquartered in Vienna, Austria. 'Geneva' is wrong — it hosts WHO and other agencies. 'New York' is wrong — that is the main UN HQ. 'Tokyo' is wrong — Japan hosts no major UN agency headquarters."
     },
@@ -367,7 +592,12 @@
       "id": "46",
       "subject": "B",
       "questionText": "The number of non-permanent members in the UN Security Council is:",
-      "options": ["10", "5", "15", "20"],
+      "options": [
+        "10",
+        "5",
+        "15",
+        "20"
+      ],
       "correctAnswer": "10",
       "explanation": "The Security Council has 10 non-permanent members (elected for 2-year terms). '5' is wrong — that is the number of permanent members. '15' is wrong — that is the total number of SC members (permanent + non-permanent). '20' is wrong — it exceeds the total SC membership."
     },
@@ -375,7 +605,12 @@
       "id": "47",
       "subject": "B",
       "questionText": "Fill in the blank: The preamble of the UN Charter begins with the words 'We the __________ of the United Nations'.",
-      "options": ["Peoples", "Nations", "Governments", "Leaders"],
+      "options": [
+        "Peoples",
+        "Nations",
+        "Governments",
+        "Leaders"
+      ],
       "correctAnswer": "Peoples",
       "explanation": "The UN Charter preamble begins 'We the Peoples of the United Nations...' emphasizing that the UN represents peoples, not just governments. 'Nations' is wrong — the specific wording is 'Peoples'. 'Governments' is wrong — it deliberately uses 'Peoples' to be more inclusive. 'Leaders' is wrong — the Charter speaks for peoples, not leaders."
     },
@@ -383,15 +618,25 @@
       "id": "48",
       "subject": "B",
       "questionText": "Match the following UN-related days with their dates:\n\nColumn I:\n(a) UN Day\n(b) Human Rights Day\n(c) World Environment Day\n(d) International Day of Peace\n\nColumn II:\n(i) 10 December\n(ii) 24 October\n(iii) 21 September\n(iv) 5 June\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"],
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "UN Day is 24 October (ii). Human Rights Day is 10 December (i). World Environment Day is 5 June (iv). International Day of Peace is 21 September (iii). The second option wrongly assigns Human Rights Day to 24 Oct. The third option wrongly assigns Environment Day to 10 Dec. The fourth option wrongly swaps Environment and Peace days."
     },
     {
       "id": "49",
       "subject": "B",
-      "questionText": "The following data shows the number of vetoes exercised by permanent members (approximate totals up to 2024):\n\n| Country | Vetoes Used |\n|---|---|\n| Russia/USSR | ~120 |\n| USA | ~80 |\n| UK | ~30 |\n| France | ~18 |\n| China | ~17 |\n\nWhich country has used the veto the least number of times?",
-      "options": ["China", "France", "UK", "USA"],
+      "questionText": "The following data shows the number of vetoes exercised by permanent members (approximate totals up to 2024):\n\nRussia/USSR → ~120\nUSA → ~80\nUK → ~30\nFrance → ~18\nChina → ~17\n\nWhich country has used the veto the least number of times?",
+      "options": [
+        "China",
+        "France",
+        "UK",
+        "USA"
+      ],
       "correctAnswer": "China",
       "explanation": "China has used the veto approximately 17 times, the fewest among the P5. 'France' is wrong — it has used it about 18 times (slightly more). 'UK' is wrong — about 30 vetoes. 'USA' is wrong — about 80 vetoes."
     },
@@ -399,7 +644,12 @@
       "id": "50",
       "subject": "B",
       "questionText": "Consider the following statements about the relationship between the UN and the League of Nations:\n\n(i) The League of Nations was established after World War I in 1920.\n(ii) The USA was a founding member of the League of Nations.\n(iii) The League formally dissolved in 1946, transferring its assets to the UN.\n(iv) The League failed primarily because major powers did not support it.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "(i) is correct — the League was established in 1920 after WWI. (iii) is correct — it dissolved in April 1946. (iv) is correct — the absence of major powers (USA never joined; Japan, Germany, Italy left) weakened it. (ii) is wrong — the USA never joined the League of Nations despite President Wilson proposing it, because the US Senate rejected the Treaty of Versailles."
     }

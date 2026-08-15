@@ -7,7 +7,12 @@
       "id": "1",
       "subject": "A",
       "questionText": "Choose the correct preposition: He was accused __________ stealing the money.",
-      "options": ["of", "for", "with", "on"],
+      "options": [
+        "of",
+        "for",
+        "with",
+        "on"
+      ],
       "correctAnswer": "of",
       "explanation": "'Accused of' is the correct fixed collocation. 'For' is wrong — we say 'blamed for', not 'accused for'. 'With' is wrong — we say 'charged with', not 'accused with'. 'On' is wrong — doesn't pair with 'accused'."
     },
@@ -15,7 +20,12 @@
       "id": "2",
       "subject": "D",
       "questionText": "A sum of ₹5,000 is invested at compound interest at 10% per annum. What is the amount after 3 years?",
-      "options": ["₹6,655", "₹6,500", "₹6,750", "₹6,600"],
+      "options": [
+        "₹6,655",
+        "₹6,500",
+        "₹6,750",
+        "₹6,600"
+      ],
       "correctAnswer": "₹6,655",
       "explanation": "A = 5000(1.1)³ = 5000×1.331 = ₹6,655. '₹6,500' is wrong — that's simple interest (5000+1500). '₹6,750' is wrong — uses wrong rate. '₹6,600' is wrong — miscalculation."
     },
@@ -23,7 +33,12 @@
       "id": "3",
       "subject": "B",
       "questionText": "The 'Preamble' of the Indian Constitution declares India as a:",
-      "options": ["Sovereign Socialist Secular Democratic Republic", "Federal Democratic Monarchy", "Socialist Communist Republic", "Secular Parliamentary Federation"],
+      "options": [
+        "Sovereign Socialist Secular Democratic Republic",
+        "Federal Democratic Monarchy",
+        "Socialist Communist Republic",
+        "Secular Parliamentary Federation"
+      ],
       "correctAnswer": "Sovereign Socialist Secular Democratic Republic",
       "explanation": "The Preamble declares India a 'Sovereign Socialist Secular Democratic Republic'. 'Federal Democratic Monarchy' is wrong — India has no monarchy. 'Socialist Communist Republic' is wrong — India is democratic, not communist. 'Secular Parliamentary Federation' is wrong — incomplete and inaccurate phrasing."
     },
@@ -31,7 +46,12 @@
       "id": "4",
       "subject": "E",
       "questionText": "The 'motherboard' in a computer is:",
-      "options": ["The main circuit board that connects all components", "A type of storage device", "An input device for gaming", "A software program for system maintenance"],
+      "options": [
+        "The main circuit board that connects all components",
+        "A type of storage device",
+        "An input device for gaming",
+        "A software program for system maintenance"
+      ],
       "correctAnswer": "The main circuit board that connects all components",
       "explanation": "The motherboard is the primary PCB housing CPU socket, RAM slots, and connectors for all peripherals. 'Storage device' is wrong — that's HDD/SSD. 'Input device' is wrong — that's keyboard/mouse. 'Software program' is wrong — motherboard is hardware."
     },
@@ -39,7 +59,12 @@
       "id": "5",
       "subject": "C",
       "questionText": "The 'Dogri' language is predominantly spoken in which region of J&K?",
-      "options": ["Jammu division", "Kashmir Valley", "Ladakh", "Gurez Valley"],
+      "options": [
+        "Jammu division",
+        "Kashmir Valley",
+        "Ladakh",
+        "Gurez Valley"
+      ],
       "correctAnswer": "Jammu division",
       "explanation": "Dogri is the primary language of the Jammu plains and hills. 'Kashmir Valley' is wrong — Kashmiri is spoken there. 'Ladakh' is wrong — Ladakhi/Balti is spoken there. 'Gurez Valley' is wrong — Shina language is spoken there."
     },
@@ -47,7 +72,12 @@
       "id": "6",
       "subject": "A",
       "questionText": "Consider the following statements about the use of articles:\n\n(i) 'The' is used before names of newspapers (The Times of India).\n(ii) 'A/An' is used to refer to something for the first time.\n(iii) No article is used before meals in general (I had lunch).\n(iv) 'The' is always used before the word 'school'.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "'The' before newspapers (i correct). 'A/An' for first mention (ii correct). No article before meals in general sense (iii correct). (iv) is wrong — we don't always use 'the' before school (e.g., 'He goes to school' — no article when referring to the purpose). Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
     },
@@ -55,7 +85,12 @@
       "id": "7",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average speed for a round trip is always less than the arithmetic mean of the two speeds.\nReason (R): Average speed for equal distances uses the harmonic mean formula: 2ab/(a+b), which is always ≤ arithmetic mean.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "For unequal speeds, harmonic mean < arithmetic mean (A correct). R states the harmonic mean formula and its property (R correct and explains why A holds). Option 2 is wrong because R is the mathematical proof. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
     },
@@ -63,7 +98,12 @@
       "id": "8",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian monsoon:\n\n(i) The retreating monsoon (Oct-Nov) brings rainfall mainly to Tamil Nadu coast.\n(ii) The monsoon enters India from the southwest direction.\n(iii) The Western Ghats receive more rainfall than the eastern slopes (rain shadow effect).\n(iv) Monsoon rainfall is uniform across all parts of India.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Retreating monsoon (NE) brings rain to Tamil Nadu (i correct). SW monsoon enters India (ii correct). Western Ghats' windward side gets more rain (iii correct). (iv) is wrong — monsoon rainfall is highly variable (Cherrapunji gets 1000+ cm while Rajasthan gets <25 cm). Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
     },
@@ -71,7 +111,12 @@
       "id": "9",
       "subject": "E",
       "questionText": "Consider the following statements about computer memory:\n\n(i) ROM stands for Read Only Memory.\n(ii) ROM is non-volatile — it retains data even without power.\n(iii) RAM is used to permanently store user files.\n(iv) Cache memory speeds up data access for the CPU.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iv) only",
       "explanation": "ROM = Read Only Memory (i correct). ROM is non-volatile (ii correct). Cache speeds up CPU data access (iv correct). (iii) is wrong because RAM is TEMPORARY working memory — it does NOT permanently store files; that's the hard disk/SSD. Option 2 includes (iii). Option 3 excludes (iv). Option 4 includes (iii)."
     },
@@ -79,7 +124,12 @@
       "id": "10",
       "subject": "A",
       "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Diligent\n(b) Benign\n(c) Coherent\n(d) Exuberant\n\nColumn II:\n(i) Subdued\n(ii) Lazy\n(iii) Malignant\n(iv) Incoherent\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
       "explanation": "Diligent (hardworking) ↔ Lazy (ii). Benign (harmless/kind) ↔ Malignant (harmful) (iii). Coherent (logical) ↔ Incoherent (illogical) (iv). Exuberant (energetic) ↔ Subdued (quiet/restrained) (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (c)."
     },
@@ -87,7 +137,12 @@
       "id": "11",
       "subject": "D",
       "questionText": "A cylindrical tank with radius 7 m and height 10 m is filled with water. What is the volume of water? (π = 22/7)",
-      "options": ["1,540 m³", "1,440 m³", "1,640 m³", "1,320 m³"],
+      "options": [
+        "1,540 m³",
+        "1,440 m³",
+        "1,640 m³",
+        "1,320 m³"
+      ],
       "correctAnswer": "1,540 m³",
       "explanation": "V = πr²h = (22/7)×7²×10 = (22/7)×49×10 = 22×70 = 1,540 m³. '1,440 m³' is wrong — uses wrong radius. '1,640 m³' is wrong — too large. '1,320 m³' is wrong — too small."
     },
@@ -95,7 +150,12 @@
       "id": "12",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The 73rd Constitutional Amendment (1992) is a landmark in Indian democratic decentralization.\nReason (R): It gave constitutional status to Panchayati Raj institutions, mandating regular elections, reservation for SCs/STs/women, and a three-tier system.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "73rd Amendment is a decentralization landmark (A correct). R details what it did — constitutional status, elections, reservations, three tiers (R correct and explains why it's a landmark). Option 2 is wrong because R explains the significance. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
     },
@@ -103,7 +163,12 @@
       "id": "13",
       "subject": "C",
       "questionText": "The 'Gulmarg Gondola' is one of the highest cable cars in the world. It reaches approximately:",
-      "options": ["4,390 metres (Apharwat Peak)", "3,000 metres", "5,500 metres", "2,500 metres"],
+      "options": [
+        "4,390 metres (Apharwat Peak)",
+        "3,000 metres",
+        "5,500 metres",
+        "2,500 metres"
+      ],
       "correctAnswer": "4,390 metres (Apharwat Peak)",
       "explanation": "The Gulmarg Gondola Phase-2 reaches Apharwat Peak at ~4,390 m elevation. '3,000 m' is wrong — that's only Phase-1 (Kongdoori). '5,500 m' is wrong — far above actual. '2,500 m' is wrong — below Gulmarg itself."
     },
@@ -111,7 +176,12 @@
       "id": "14",
       "subject": "A",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'I look forward to hear from you' is grammatically incorrect.\nReason (R): 'Look forward to' requires a gerund (verb-ing form) after 'to' because 'to' here is a preposition, not part of an infinitive.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Should be 'hearing', not 'hear' (A correct). 'To' in 'look forward to' is a preposition requiring gerund (R correct and explains why 'hear' is wrong). Option 2 is wrong because R explains the grammar rule. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
     },
@@ -119,7 +189,12 @@
       "id": "15",
       "subject": "D",
       "questionText": "Consider the following statements about ratios:\n\n(i) If A:B = 2:3 and B:C = 4:5, then A:B:C = 8:12:15.\n(ii) In a ratio, both terms can be multiplied by the same number without changing the ratio.\n(iii) The ratio 3:4 is the same as 6:8.\n(iv) If A:B = 3:5, then A is always 3.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "A:B=2:3, B:C=4:5. Make B common: A:B=8:12, B:C=12:15. So A:B:C=8:12:15 (i correct). Multiplying by same number preserves ratio (ii correct). 3:4 = 6:8 (multiplied by 2) (iii correct). (iv) is wrong — A:B=3:5 means A is 3 parts, not necessarily the number 3 (A could be 6 if B is 10). Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
     },
@@ -127,7 +202,12 @@
       "id": "16",
       "subject": "E",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Regularly backing up data is an important cyber safety practice.\nReason (R): Backups protect against data loss from hardware failure, ransomware attacks, accidental deletion, or natural disasters.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Regular backups are essential (A correct). They protect against multiple threats (R correct and explains why backups are important). Option 2 is wrong because R explains the necessity. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
     },
@@ -135,7 +215,12 @@
       "id": "17",
       "subject": "B",
       "questionText": "The 'Sixth Schedule' of the Indian Constitution deals with:",
-      "options": ["Administration of tribal areas in certain northeastern states", "Panchayati Raj institutions", "Distribution of legislative powers", "Emergency provisions"],
+      "options": [
+        "Administration of tribal areas in certain northeastern states",
+        "Panchayati Raj institutions",
+        "Distribution of legislative powers",
+        "Emergency provisions"
+      ],
       "correctAnswer": "Administration of tribal areas in certain northeastern states",
       "explanation": "The Sixth Schedule provides for Autonomous District/Regional Councils in Assam, Meghalaya, Tripura, and Mizoram for tribal governance. 'Panchayati Raj' is wrong — that's Part IX (73rd Amendment). 'Legislative powers' is wrong — that's Seventh Schedule (three lists). 'Emergency' is wrong — that's Part XVIII."
     },
@@ -143,7 +228,12 @@
       "id": "18",
       "subject": "A",
       "questionText": "Choose the correct synonym of 'TENACIOUS':",
-      "options": ["Persistent", "Weak", "Temporary", "Flexible"],
+      "options": [
+        "Persistent",
+        "Weak",
+        "Temporary",
+        "Flexible"
+      ],
       "correctAnswer": "Persistent",
       "explanation": "'Tenacious' means holding firmly to something — persistent/determined. 'Weak' is wrong — antonym. 'Temporary' is wrong — means short-lived. 'Flexible' is wrong — means adaptable, somewhat opposite of holding firm."
     },
@@ -151,7 +241,12 @@
       "id": "19",
       "subject": "D",
       "questionText": "Match the following problems with their answers:\n\nColumn I:\n(a) Area of a triangle with base 14 cm and height 8 cm\n(b) Perimeter of a square with side 13 cm\n(c) Circumference of a circle with radius 21 cm (π=22/7)\n(d) Volume of a cube with side 4 cm\n\nColumn II:\n(i) 52 cm\n(ii) 64 cm³\n(iii) 56 sq cm\n(iv) 132 cm\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
       "explanation": "Triangle area = ½×14×8=56 sq cm (iii). Square perimeter = 4×13=52 cm (i). Circumference = 2×22/7×21=132 cm (iv). Cube volume = 4³=64 cm³ (ii). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
     },
@@ -159,7 +254,12 @@
       "id": "20",
       "subject": "B",
       "questionText": "Which of the following are scheduled tribes in India recognized under Article 342?\n\n(i) Santhal\n(ii) Bhil\n(iii) Brahmin\n(iv) Gond\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iv) only",
       "explanation": "Santhal (Jharkhand/WB) is a ST (i correct). Bhil (Rajasthan/Gujarat) is a ST (ii correct). Gond (MP/Maharashtra) is a ST (iv correct). (iii) is wrong — Brahmin is an upper-caste community, NOT a Scheduled Tribe. Option 2 includes (iii). Option 3 excludes (iv). Option 4 includes (iii)."
     },
@@ -167,7 +267,12 @@
       "id": "21",
       "subject": "A",
       "questionText": "Fill in the blank: She was so tired that she could __________ keep her eyes open.",
-      "options": ["hardly", "hard", "heartily", "hardly not"],
+      "options": [
+        "hardly",
+        "hard",
+        "heartily",
+        "hardly not"
+      ],
       "correctAnswer": "hardly",
       "explanation": "'Hardly' means 'barely/scarcely' — fits the context of extreme tiredness. 'Hard' is wrong — means 'with effort' (adverb of manner), different meaning. 'Heartily' is wrong — means 'enthusiastically'. 'Hardly not' is wrong — double negative, grammatically incorrect."
     },
@@ -175,7 +280,12 @@
       "id": "22",
       "subject": "D",
       "questionText": "In a code language, 'COMPUTER' is written as 'DPNQVUFS'. What is the coding rule?",
-      "options": ["Each letter shifted by +1", "Each letter shifted by +2", "Letters reversed", "Alternate letters shifted +1 and +2"],
+      "options": [
+        "Each letter shifted by +1",
+        "Each letter shifted by +2",
+        "Letters reversed",
+        "Alternate letters shifted +1 and +2"
+      ],
       "correctAnswer": "Each letter shifted by +1",
       "explanation": "C+1=D, O+1=P, M+1=N, P+1=Q, U+1=V, T+1=U, E+1=F, R+1=S. Each letter +1. 'Shifted by +2' is wrong — C+2=E, not D. 'Reversed' is wrong — would give RETUPMOC. 'Alternate +1/+2' is wrong — doesn't produce DPNQVUFS."
     },
@@ -183,7 +293,12 @@
       "id": "23",
       "subject": "C",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Kashmir Valley has highly fertile alluvial soil.\nReason (R): The Jhelum river and its tributaries deposit rich alluvial sediments on the flat valley floor during annual flooding and irrigation.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Kashmir Valley has fertile alluvial soil (A correct). Jhelum and tributaries deposit sediments making it fertile (R correct and explains the source of fertility). Option 2 is wrong because R explains the mechanism. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
     },
@@ -191,7 +306,12 @@
       "id": "24",
       "subject": "B",
       "questionText": "Match the following Indian states with their nicknames:\n\nColumn I:\n(a) Kerala\n(b) Rajasthan\n(c) Meghalaya\n(d) Punjab\n\nColumn II:\n(i) Land of Five Rivers\n(ii) God's Own Country\n(iii) Abode of Clouds\n(iv) Land of Kings\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Kerala = God's Own Country (ii). Rajasthan = Land of Kings (iv). Meghalaya = Abode of Clouds (iii). Punjab = Land of Five Rivers (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
     },
@@ -199,7 +319,12 @@
       "id": "25",
       "subject": "D",
       "questionText": "The data shows the number of items sold by a shopkeeper over 5 days: 25, 30, 20, 35, 40. What is the average daily sales?",
-      "options": ["30", "35", "28", "32"],
+      "options": [
+        "30",
+        "35",
+        "28",
+        "32"
+      ],
       "correctAnswer": "30",
       "explanation": "Sum = 25+30+20+35+40 = 150. Average = 150/5 = 30. '35' is wrong — would need sum 175. '28' is wrong — would need sum 140. '32' is wrong — would need sum 160."
     },
@@ -207,7 +332,12 @@
       "id": "26",
       "subject": "A",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'He is more taller than his brother' is grammatically wrong.\nReason (R): With comparative adjectives ending in '-er', we do not add 'more' — it should be just 'taller', not 'more taller' (double comparative error).\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "'More taller' is a double comparative error (A correct). R explains that '-er' adjectives don't take 'more' (R correct and explains why it's wrong). Option 2 is wrong because R explains the exact error. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
     },
@@ -215,7 +345,12 @@
       "id": "27",
       "subject": "E",
       "questionText": "Match the following keyboard shortcuts with their functions:\n\nColumn I:\n(a) Ctrl+C\n(b) Ctrl+V\n(c) Ctrl+X\n(d) Ctrl+Z\n\nColumn II:\n(i) Undo\n(ii) Copy\n(iii) Paste\n(iv) Cut\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
       "explanation": "Ctrl+C = Copy (ii). Ctrl+V = Paste (iii). Ctrl+X = Cut (iv). Ctrl+Z = Undo (i). Option 2 swaps Copy and Paste. Option 3 swaps Paste and Cut. Option 4 swaps Copy and Cut."
     },
@@ -223,7 +358,12 @@
       "id": "28",
       "subject": "B",
       "questionText": "The 'Pradhan Mantri Ujjwala Yojana' aims to provide:",
-      "options": ["Free LPG connections to BPL households", "Free electricity to all rural households", "Solar panels to urban households", "Free cooking stoves to factory workers"],
+      "options": [
+        "Free LPG connections to BPL households",
+        "Free electricity to all rural households",
+        "Solar panels to urban households",
+        "Free cooking stoves to factory workers"
+      ],
       "correctAnswer": "Free LPG connections to BPL households",
       "explanation": "PMUY provides free LPG connections to women in BPL families to replace polluting fuels. 'Free electricity' is wrong — that's Saubhagya scheme. 'Solar panels' is wrong — different scheme. 'Cooking stoves to factory workers' is wrong — incorrect target group."
     },
@@ -231,7 +371,12 @@
       "id": "29",
       "subject": "D",
       "questionText": "A person facing East turns 90° clockwise, then 180° anticlockwise, then 45° clockwise. Which direction is he now facing?",
-      "options": ["North-East", "South-East", "North", "East"],
+      "options": [
+        "North-East",
+        "South-East",
+        "North",
+        "East"
+      ],
       "correctAnswer": "North-East",
       "explanation": "Start: East. +90° CW = South. –180° ACW = North. +45° CW = North-East. 'South-East' is wrong — wrong sequence. 'North' is wrong — that's before the final 45° turn. 'East' is wrong — that's the starting position."
     },
@@ -239,7 +384,12 @@
       "id": "30",
       "subject": "A",
       "questionText": "Which of the following sentences use the correct idiom?\n\n(i) He was caught red-handed while stealing.\n(ii) She let the cat out of the basket.\n(iii) You need to pull up your socks to pass the exam.\n(iv) He kicked the pail after a long illness.\n\nSelect the correct combination:",
-      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii) and (iv) only"],
+      "options": [
+        "(i) and (iii) only",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii) and (iv) only"
+      ],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "'Caught red-handed' — correct idiom for being caught in the act (i correct). 'Pull up your socks' — correct idiom for improving performance (iii correct). (ii) is wrong — the idiom is 'let the cat out of the BAG', not basket. (iv) is wrong — the idiom is 'kicked the BUCKET', not pail. Option 2 includes (ii). Option 3 includes (iv). Option 4 includes wrong idioms."
     },
@@ -247,7 +397,12 @@
       "id": "31",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) It is the longest written constitution in the world.\n(ii) It originally had 395 Articles and 8 Schedules.\n(iii) Dr. B.R. Ambedkar was the Chairman of the Drafting Committee.\n(iv) The Constitution can only be amended by a referendum.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Longest written constitution (i correct). Originally 395 Articles, 8 Schedules (ii correct). Ambedkar chaired Drafting Committee (iii correct). (iv) is wrong — India amends the Constitution through Parliamentary process (simple/special majority + state ratification for some), NOT referendum. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
     },
@@ -255,7 +410,12 @@
       "id": "32",
       "subject": "D",
       "questionText": "If 12 workers can build a wall in 8 days, how many workers are needed to build it in 6 days?",
-      "options": ["16", "14", "18", "10"],
+      "options": [
+        "16",
+        "14",
+        "18",
+        "10"
+      ],
       "correctAnswer": "16",
       "explanation": "Workers × Days = constant. 12×8 = W×6 → W = 96/6 = 16. '14' is wrong — 14×6=84≠96. '18' is wrong — 18×6=108≠96. '10' is wrong — 10×6=60≠96."
     },
@@ -263,7 +423,12 @@
       "id": "33",
       "subject": "E",
       "questionText": "Which of the following are examples of application software?\n\n(i) Microsoft Word\n(ii) Windows Operating System\n(iii) Google Chrome\n(iv) Adobe Photoshop\n\nSelect the correct combination:",
-      "options": ["(i), (iii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (iv) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (iii) and (iv) only",
       "explanation": "MS Word (i), Chrome (iii), and Photoshop (iv) are all application software. (ii) is wrong because Windows OS is SYSTEM software, not application software. Option 2 includes (ii). Option 3 excludes (iii). Option 4 includes (ii)."
     },
@@ -271,7 +436,12 @@
       "id": "34",
       "subject": "A",
       "questionText": "Choose the correct antonym of 'MUNDANE':",
-      "options": ["Extraordinary", "Ordinary", "Routine", "Boring"],
+      "options": [
+        "Extraordinary",
+        "Ordinary",
+        "Routine",
+        "Boring"
+      ],
       "correctAnswer": "Extraordinary",
       "explanation": "'Mundane' means dull/ordinary/worldly. 'Extraordinary' (exceptional, beyond ordinary) is the antonym. 'Ordinary' is wrong — it's a synonym. 'Routine' is wrong — similar meaning. 'Boring' is wrong — similar meaning."
     },
@@ -279,7 +449,12 @@
       "id": "35",
       "subject": "C",
       "questionText": "Consider the following statements about power projects in J&K:\n\n(i) The Baglihar Dam is on the Chenab river in Ramban district.\n(ii) The Salal Dam has an installed capacity of 690 MW.\n(iii) The Dulhasti project is in Kishtwar district.\n(iv) All power projects in J&K are thermal plants.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Baglihar on Chenab in Ramban (i correct). Salal = 690 MW (ii correct). Dulhasti in Kishtwar (iii correct). (iv) is wrong — virtually ALL major power projects in J&K are HYDROELECTRIC, not thermal. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
     },
@@ -287,7 +462,12 @@
       "id": "36",
       "subject": "D",
       "questionText": "Fill in the blank: If the angles of a triangle are in the ratio 2:3:4, the largest angle is __________ degrees.",
-      "options": ["80", "90", "60", "100"],
+      "options": [
+        "80",
+        "90",
+        "60",
+        "100"
+      ],
       "correctAnswer": "80",
       "explanation": "Sum = 180°. Parts = 2+3+4 = 9. Largest = 4/9 × 180 = 80°. '90°' is wrong — would need ratio sum giving 90. '60°' is wrong — that's the middle angle (3/9×180). '100°' is wrong — exceeds proportional share."
     },
@@ -295,7 +475,12 @@
       "id": "37",
       "subject": "B",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): India launched the 'Digital India' programme to bridge the digital divide.\nReason (R): Digital India aims to provide digital infrastructure, governance, and services digitally to all citizens, especially in rural areas.\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Digital India bridges the digital divide (A correct). R describes its components — infrastructure, governance, digital services for all (R correct and explains how it bridges the divide). Option 2 is wrong because R explains the mechanism. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
     },
@@ -303,15 +488,25 @@
       "id": "38",
       "subject": "A",
       "questionText": "Choose the correct meaning of the idiom 'To make ends meet':",
-      "options": ["To manage within a limited income", "To complete a project on time", "To reconcile two opposing views", "To tie a knot securely"],
+      "options": [
+        "To manage within a limited income",
+        "To complete a project on time",
+        "To reconcile two opposing views",
+        "To tie a knot securely"
+      ],
       "correctAnswer": "To manage within a limited income",
       "explanation": "'Make ends meet' means to have just enough money to cover basic expenses. 'Complete a project' is wrong — different meaning. 'Reconcile views' is wrong — unrelated. 'Tie a knot' is wrong — literal misinterpretation."
     },
     {
       "id": "39",
       "subject": "D",
-      "questionText": "The data shows the production (in tonnes) of crops in a region:\n\n| Crop | Production |\n|---|---|\n| Rice | 450 |\n| Wheat | 350 |\n| Maize | 200 |\n| Pulses | 150 |\n| Oilseeds | 100 |\n\nWhat percentage of total production is contributed by Rice and Wheat together?",
-      "options": ["64%", "60%", "55%", "70%"],
+      "questionText": "The data shows the production (in tonnes) of crops in a region:\n\nRice → 450\nWheat → 350\nMaize → 200\nPulses → 150\nOilseeds → 100\n\nWhat percentage of total production is contributed by Rice and Wheat together?",
+      "options": [
+        "64%",
+        "60%",
+        "55%",
+        "70%"
+      ],
       "correctAnswer": "64%",
       "explanation": "Total = 450+350+200+150+100 = 1250. Rice+Wheat = 800. Percentage = (800/1250)×100 = 64%. '60%' is wrong — would need 750. '55%' is wrong — would need 687.5. '70%' is wrong — would need 875."
     },
@@ -319,7 +514,12 @@
       "id": "40",
       "subject": "E",
       "questionText": "Fill in the blank: The full form of 'PDF' is __________.",
-      "options": ["Portable Document Format", "Public Data File", "Printed Document Form", "Personal Data Format"],
+      "options": [
+        "Portable Document Format",
+        "Public Data File",
+        "Printed Document Form",
+        "Personal Data Format"
+      ],
       "correctAnswer": "Portable Document Format",
       "explanation": "PDF = Portable Document Format, developed by Adobe for consistent document display. 'Public Data File' is wrong. 'Printed Document Form' is wrong. 'Personal Data Format' is wrong."
     },
@@ -327,7 +527,12 @@
       "id": "41",
       "subject": "B",
       "questionText": "The 'Project Tiger' was launched in India in which year?",
-      "options": ["1973", "1970", "1975", "1980"],
+      "options": [
+        "1973",
+        "1970",
+        "1975",
+        "1980"
+      ],
       "correctAnswer": "1973",
       "explanation": "Project Tiger was launched on 1 April 1973 to protect the Bengal Tiger and its habitats. '1970' is wrong — too early. '1975' is wrong — two years late. '1980' is wrong — Project Tiger was already well-established by then."
     },
@@ -335,7 +540,12 @@
       "id": "42",
       "subject": "A",
       "questionText": "Consider the following statements about tenses:\n\n(i) 'Had been working' is Past Perfect Continuous.\n(ii) 'Will have been' is Future Perfect.\n(iii) 'Is writing' is Present Continuous.\n(iv) 'Was written' is Past Continuous.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "'Had been working' = Past Perfect Continuous (i correct). 'Will have been' = Future Perfect (ii correct). 'Is writing' = Present Continuous (iii correct). (iv) is wrong — 'Was written' is Simple Past PASSIVE, not Past Continuous (Past Continuous would be 'was writing'). Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
     },
@@ -343,7 +553,12 @@
       "id": "43",
       "subject": "D",
       "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a number is divisible by both 3 and 4, it is also divisible by 12.\nReason (R): Since 3 and 4 are coprime (HCF = 1), a number divisible by both must be divisible by their product (3×4 = 12).\n\nChoose the correct option:",
-      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
       "explanation": "Divisible by 3 and 4 → divisible by 12 (A correct). 3 and 4 are coprime so divisibility by both implies divisibility by product (R correct and is the number theory proof). Option 2 is wrong because R is the mathematical proof. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
     },
@@ -351,7 +566,12 @@
       "id": "44",
       "subject": "C",
       "questionText": "Which of the following are correctly matched (Destination — District)?\n\n(i) Gulmarg — Baramulla\n(ii) Pahalgam — Anantnag\n(iii) Sonamarg — Ganderbal\n(iv) Patnitop — Srinagar\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "Gulmarg in Baramulla (i correct). Pahalgam in Anantnag (ii correct). Sonamarg in Ganderbal (iii correct). (iv) is wrong — Patnitop is in UDHAMPUR district (Jammu division), not Srinagar. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
     },
@@ -359,7 +579,12 @@
       "id": "45",
       "subject": "B",
       "questionText": "The 'Goods and Services Tax' (GST) in India was implemented from:",
-      "options": ["1 July 2017", "1 April 2017", "1 January 2018", "1 July 2016"],
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "1 January 2018",
+        "1 July 2016"
+      ],
       "correctAnswer": "1 July 2017",
       "explanation": "GST was rolled out on 1 July 2017 after the 101st Constitutional Amendment. '1 April 2017' is wrong — that was the planned FY start but GST came on 1 July. '1 January 2018' is wrong — six months late. '1 July 2016' is wrong — one year early."
     },
@@ -367,7 +592,12 @@
       "id": "46",
       "subject": "A",
       "questionText": "Choose the correct sentence:",
-      "options": ["Neither of the two brothers is willing to help.", "Neither of the two brothers are willing to help.", "Neither of the two brothers were willing to help.", "Neither of the two brothers have been willing to help."],
+      "options": [
+        "Neither of the two brothers is willing to help.",
+        "Neither of the two brothers are willing to help.",
+        "Neither of the two brothers were willing to help.",
+        "Neither of the two brothers have been willing to help."
+      ],
       "correctAnswer": "Neither of the two brothers is willing to help.",
       "explanation": "'Neither' is singular and takes singular verb 'is'. Option 2 is wrong — 'are' is plural. Option 3 is wrong — 'were' is plural. Option 4 is wrong — 'have been' is plural."
     },
@@ -375,7 +605,12 @@
       "id": "47",
       "subject": "D",
       "questionText": "The following data shows marks obtained in 5 subjects: English 72, Maths 85, Science 68, Social Studies 78, Hindi 67. What is the difference between the highest and lowest marks?",
-      "options": ["18", "15", "20", "13"],
+      "options": [
+        "18",
+        "15",
+        "20",
+        "13"
+      ],
       "correctAnswer": "18",
       "explanation": "Highest = 85 (Maths), Lowest = 67 (Hindi). Difference = 85–67 = 18. '15' is wrong — 85–70. '20' is wrong — 85–65. '13' is wrong — 85–72."
     },
@@ -383,7 +618,12 @@
       "id": "48",
       "subject": "E",
       "questionText": "Consider the following statements about the internet:\n\n(i) An IP address uniquely identifies a device on the internet.\n(ii) A domain name (e.g., google.com) is easier to remember than an IP address.\n(iii) DNS converts domain names to IP addresses.\n(iv) The internet and the World Wide Web are exactly the same thing.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
+        "(i) and (ii) only",
+        "(ii), (iii) and (iv) only"
+      ],
       "correctAnswer": "(i), (ii) and (iii) only",
       "explanation": "IP address identifies devices (i correct). Domain names are human-friendly (ii correct). DNS resolves domains to IPs (iii correct). (iv) is wrong — the Internet is the infrastructure (network of networks); the WWW is a service that runs ON the Internet. They are related but not the same. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
     },
@@ -391,7 +631,12 @@
       "id": "49",
       "subject": "B",
       "questionText": "Fill in the blank: The __________ is the apex court of India with original, appellate, and advisory jurisdictions.",
-      "options": ["Supreme Court", "High Court", "District Court", "Lok Adalat"],
+      "options": [
+        "Supreme Court",
+        "High Court",
+        "District Court",
+        "Lok Adalat"
+      ],
       "correctAnswer": "Supreme Court",
       "explanation": "The Supreme Court is India's apex court with all three jurisdictions. 'High Court' is wrong — it's below the SC. 'District Court' is wrong — lowest level. 'Lok Adalat' is wrong — alternative dispute resolution, not a regular court."
     },
@@ -399,7 +644,12 @@
       "id": "50",
       "subject": "A",
       "questionText": "Choose the correct analogy: Chapter : Book :: Scene : __________",
-      "options": ["Play", "Movie", "Stage", "Actor"],
+      "options": [
+        "Play",
+        "Movie",
+        "Stage",
+        "Actor"
+      ],
       "correctAnswer": "Play",
       "explanation": "A chapter is a division of a book; similarly, a scene is a division of a play. The analogy is part:whole. 'Movie' is wrong — while scenes exist in movies, the classic analogy pairs with 'play'. 'Stage' is wrong — that's where a play is performed. 'Actor' is wrong — that's who performs."
     }
