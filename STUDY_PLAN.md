@@ -362,9 +362,9 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 127 | Morning | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 128 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 129 | Late | FULL | Full syllabus — all subjects A-E | 100 | exam | Full-length mock | ⬜ |
+| 127 | Morning | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 128 | Afternoon | A — General English | All topics of General English (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 129 | Late | FULL | Full syllabus — all subjects A-E | 100 | exam | Full-length mock | ✅ |
 
 ### Day 44
 

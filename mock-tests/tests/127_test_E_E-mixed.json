@@ -1,0 +1,407 @@
+{
+  "subject": "E",
+  "topic": "All topics of Basic Concepts of Computers (mixed)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "The 'BIOS' in a computer stands for:",
+      "options": ["Basic Input Output System", "Binary Integrated Operating System", "Built-In Operating Software", "Base Internal Output System"],
+      "correctAnswer": "Basic Input Output System",
+      "explanation": "BIOS = Basic Input Output System — firmware that initializes hardware during startup. 'Binary Integrated Operating System' is wrong — incorrect expansion. 'Built-In Operating Software' is wrong — incorrect. 'Base Internal Output System' is wrong — incorrect."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Excel functions:\n\n(i) =MIN() returns the smallest value in a range.\n(ii) =LEN() returns the number of characters in a text string.\n(iii) =CONCATENATE() joins two or more text strings.\n(iv) =SUM() can only add values in a single row.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "MIN returns smallest value (i correct). LEN counts characters (ii correct). CONCATENATE joins strings (iii correct). (iv) is wrong because SUM can add values across rows, columns, and non-contiguous ranges. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer cannot function without an operating system.\nReason (R): The operating system acts as an intermediary between hardware and application software, managing resources and providing essential services.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A computer needs an OS to be usable (A correct). The OS manages hardware-software interaction (R correct and explains why it's essential). Option 2 is wrong because R explains the necessity. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the following networking terms with their meanings:\n\nColumn I:\n(a) IP Address\n(b) DNS\n(c) Firewall\n(d) Bandwidth\n\nColumn II:\n(i) Maximum data transfer rate\n(ii) Unique numerical address of a device\n(iii) Converts domain names to IP addresses\n(iv) Security system that monitors network traffic\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "IP Address = unique numerical identifier (ii). DNS = Domain Name System converts names to IPs (iii). Firewall = security monitoring (iv). Bandwidth = max data rate (i). Option 2 swaps IP and DNS. Option 3 swaps DNS and Firewall. Option 4 swaps IP and Bandwidth."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which of the following are types of computer software?\n\n(i) System Software\n(ii) Application Software\n(iii) Utility Software\n(iv) Hardware Software\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "System Software (OS, drivers) (i correct). Application Software (Word, games) (ii correct). Utility Software (antivirus, disk cleanup) (iii correct). (iv) is wrong — 'Hardware Software' is not a valid category; hardware and software are separate concepts. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "The shortcut key 'F5' in MS PowerPoint is used to:",
+      "options": ["Start the slideshow from the beginning", "Open a new file", "Save the current presentation", "Insert a new slide"],
+      "correctAnswer": "Start the slideshow from the beginning",
+      "explanation": "F5 starts the presentation slideshow from slide 1. 'Open new file' is wrong — that's Ctrl+N. 'Save' is wrong — that's Ctrl+S. 'Insert slide' is wrong — that's Ctrl+M or Insert menu."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer viruses and malware:\n\n(i) A worm can spread across networks without user interaction.\n(ii) Ransomware encrypts user files and demands payment for decryption.\n(iii) Spyware secretly monitors user activity and collects personal data.\n(iv) All malware can be completely prevented by using a strong password alone.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Worms self-propagate without user action (i correct). Ransomware encrypts for ransom (ii correct). Spyware monitors secretly (iii correct). (iv) is wrong because passwords alone cannot prevent all malware — you need antivirus, updates, safe browsing, and other measures. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "The term 'defragmentation' of a hard disk means:",
+      "options": ["Reorganizing fragmented data so files are stored contiguously for faster access", "Deleting unnecessary files from the disk", "Formatting the disk to remove all data", "Dividing the disk into multiple partitions"],
+      "correctAnswer": "Reorganizing fragmented data so files are stored contiguously for faster access",
+      "explanation": "Defragmentation rearranges scattered file fragments into contiguous blocks for efficiency. 'Deleting files' is wrong — that's disk cleanup. 'Formatting' is wrong — that erases everything. 'Partitioning' is wrong — that divides disk into logical sections."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): USB flash drives are popular portable storage devices.\nReason (R): They are small, lightweight, use solid-state memory with no moving parts, and can be easily connected to any computer via a USB port.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "USB drives are popular portable storage (A correct). Their small size, solid-state nature, and universal connectivity explain their popularity (R correct and explains A). Option 2 is wrong because R explains why they're popular. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Fill in the blank: In MS Word, the shortcut key to open a new document is __________.",
+      "options": ["Ctrl+N", "Ctrl+O", "Ctrl+W", "Ctrl+D"],
+      "correctAnswer": "Ctrl+N",
+      "explanation": "Ctrl+N creates a new blank document. 'Ctrl+O' is wrong — that opens an existing file. 'Ctrl+W' is wrong — that closes the current document. 'Ctrl+D' is wrong — that opens the Font dialog."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a valid cell reference in MS Excel?",
+      "options": ["1A", "A1", "B$2", "$C$3"],
+      "correctAnswer": "1A",
+      "explanation": "'1A' is invalid because cell references must start with a column letter followed by a row number. 'A1' is wrong (to choose) — it's a valid reference. 'B$2' is wrong — it's valid (mixed reference). '$C$3' is wrong — it's valid (absolute reference)."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Match the following computer memory types with their characteristics:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) Cache\n(d) Hard Disk\n\nColumn II:\n(i) Fastest but smallest capacity\n(ii) Volatile temporary working memory\n(iii) Non-volatile, stores permanent instructions\n(iv) Largest capacity, non-volatile secondary storage\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "RAM = volatile working memory (ii). ROM = non-volatile permanent instructions (iii). Cache = fastest/smallest (i). Hard Disk = largest non-volatile storage (iv). Option 2 swaps RAM and ROM. Option 3 swaps ROM and Cache. Option 4 swaps RAM and Hard Disk."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The 'Ctrl+F' shortcut in most applications is used to:",
+      "options": ["Find/search for text", "Format text", "Open a file", "Change font size"],
+      "correctAnswer": "Find/search for text",
+      "explanation": "Ctrl+F opens the Find/Search dialog. 'Format text' is wrong — formatting uses ribbon/menu options. 'Open a file' is wrong — that's Ctrl+O. 'Change font size' is wrong — that uses Ctrl+Shift+> or the toolbar."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Consider the following statements about email security:\n\n(i) Phishing emails often contain urgent requests and suspicious links.\n(ii) Legitimate banks will ask for passwords via email.\n(iii) Attachments from unknown senders should not be opened.\n(iv) Using different passwords for different accounts improves security.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Phishing uses urgency and suspicious links (i correct). Unknown attachments should be avoided (iii correct). Different passwords improve security (iv correct). (ii) is wrong because legitimate banks NEVER ask for passwords via email — that's a phishing tactic. Option 2 includes (ii). Option 3 excludes (iv). Option 4 includes (ii)."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cloud computing allows users to access data and applications from anywhere with an internet connection.\nReason (R): In cloud computing, data and applications are stored on remote servers maintained by service providers, not on the user's local device.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Cloud allows access from anywhere (A correct). Remote server storage enables this anywhere-access (R correct and explains how A is possible). Option 2 is wrong because R explains the mechanism. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "The term 'GUI' stands for 'Graphical User Interface'. Which of the following is NOT a GUI-based operating system?",
+      "options": ["MS-DOS", "Windows 11", "macOS", "Ubuntu Linux"],
+      "correctAnswer": "MS-DOS",
+      "explanation": "MS-DOS is a command-line interface (CLI) operating system, not GUI-based. 'Windows 11' is wrong — it IS GUI-based. 'macOS' is wrong — it IS GUI-based. 'Ubuntu Linux' is wrong — modern Ubuntu IS GUI-based."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Word:\n\n(i) 'Ctrl+B' makes selected text bold.\n(ii) 'Ctrl+I' makes selected text italic.\n(iii) 'Ctrl+U' makes selected text underlined.\n(iv) 'Ctrl+K' makes selected text strikethrough.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Ctrl+B = Bold (i correct). Ctrl+I = Italic (ii correct). Ctrl+U = Underline (iii correct). (iv) is wrong because Ctrl+K inserts a HYPERLINK, not strikethrough. Strikethrough requires the Font dialog. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Fill in the blank: The protocol used for secure data transmission over the web is __________.",
+      "options": ["HTTPS", "HTTP", "FTP", "SMTP"],
+      "correctAnswer": "HTTPS",
+      "explanation": "HTTPS (HyperText Transfer Protocol Secure) uses SSL/TLS encryption for secure web transmission. 'HTTP' is wrong — it's the unsecured version. 'FTP' is wrong — for file transfer, not web pages. 'SMTP' is wrong — for email sending."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Which of the following correctly describes 'two-factor authentication' (2FA)?",
+      "options": ["Using two different methods to verify identity (e.g., password + OTP)", "Having two different passwords for one account", "Logging in from two different devices simultaneously", "Creating two backup copies of data"],
+      "correctAnswer": "Using two different methods to verify identity (e.g., password + OTP)",
+      "explanation": "2FA uses two verification factors — something you know (password) + something you have (OTP/phone). 'Two passwords' is wrong — that's still single-factor (knowledge). 'Two devices' is wrong — not 2FA. 'Two backups' is wrong — unrelated to authentication."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Match the following MS Word features with their ribbon tabs:\n\nColumn I:\n(a) Insert Table\n(b) Page Margins\n(c) Spell Check\n(d) Font Color\n\nColumn II:\n(i) Home tab\n(ii) Insert tab\n(iii) Review tab\n(iv) Layout tab\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "Insert Table is in Insert tab (ii). Page Margins in Layout tab (iv). Spell Check in Review tab (iii). Font Color in Home tab (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The 'WAN' (Wide Area Network) covers:",
+      "options": ["Large geographic areas, often spanning cities, countries, or continents", "A single room or building", "Personal space around an individual (within 10 meters)", "A single metropolitan city only"],
+      "correctAnswer": "Large geographic areas, often spanning cities, countries, or continents",
+      "explanation": "WAN covers vast areas — the Internet itself is the largest WAN. 'Single room/building' is wrong — that's LAN. 'Personal space' is wrong — that's PAN. 'Single city' is wrong — that's MAN."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Regularly updating software is crucial for cybersecurity.\nReason (R): Software updates often include patches for newly discovered security vulnerabilities that hackers can exploit.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Updates are vital for security (A correct). They patch vulnerabilities that could be exploited (R correct and explains the security benefit). Option 2 is wrong because R explains why updates matter. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "The 'Recycle Bin' in Windows can be bypassed (file permanently deleted) by using:",
+      "options": ["Shift+Delete", "Ctrl+Delete", "Alt+Delete", "Delete key twice"],
+      "correctAnswer": "Shift+Delete",
+      "explanation": "Shift+Delete permanently deletes without sending to Recycle Bin. 'Ctrl+Delete' is wrong — deletes word to the right in text. 'Alt+Delete' is wrong — not a standard function. 'Delete twice' is wrong — still goes to Recycle Bin."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer output devices:\n\n(i) A laser printer produces higher quality output than an inkjet printer for text.\n(ii) A plotter is used for printing large-scale engineering drawings.\n(iii) Speakers convert digital audio signals to sound waves.\n(iv) A scanner is classified as an output device.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Laser printers excel at text quality (i correct). Plotters handle large drawings (ii correct). Speakers produce sound output (iii correct). (iv) is wrong because a scanner is an INPUT device (it captures/digitizes documents), not output. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "The '=AVERAGE(B2:B10)' formula in MS Excel will:",
+      "options": ["Calculate the arithmetic mean of values in cells B2 through B10", "Count the number of cells from B2 to B10", "Find the largest value between B2 and B10", "Sum all values and multiply by the count"],
+      "correctAnswer": "Calculate the arithmetic mean of values in cells B2 through B10",
+      "explanation": "AVERAGE calculates the mean (sum/count) of the specified range. 'Count cells' is wrong — that's COUNT. 'Find largest' is wrong — that's MAX. 'Sum and multiply' is wrong — AVERAGE divides, not multiplies."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Match the following cyber threats with prevention methods:\n\nColumn I:\n(a) Phishing\n(b) Virus\n(c) Data theft\n(d) Unauthorized access\n\nColumn II:\n(i) Strong passwords and 2FA\n(ii) Not clicking suspicious links/emails\n(iii) Antivirus software and regular scans\n(iv) Encryption of sensitive data\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "Phishing prevented by not clicking suspicious links (ii). Viruses prevented by antivirus (iii). Data theft prevented by encryption (iv). Unauthorized access prevented by strong passwords/2FA (i). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The term 'ISP' stands for:",
+      "options": ["Internet Service Provider", "Internal System Protocol", "Integrated Software Package", "Information Security Platform"],
+      "correctAnswer": "Internet Service Provider",
+      "explanation": "ISP = Internet Service Provider, a company that provides internet access. 'Internal System Protocol' is wrong. 'Integrated Software Package' is wrong. 'Information Security Platform' is wrong."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Consider the following statements about file management in Windows:\n\n(i) Files can be organized into folders (directories).\n(ii) The file extension indicates the type of file (e.g., .docx, .pdf, .jpg).\n(iii) Files can be copied, moved, renamed, or deleted.\n(iv) A folder can only contain files, not other folders.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Files organized in folders (i correct). Extensions indicate type (ii correct). Files can be copied/moved/renamed/deleted (iii correct). (iv) is wrong because folders CAN contain other folders (subfolders/subdirectories), creating a hierarchical structure. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An inkjet printer is widely used in homes and small offices.\nReason (R): Inkjet printers are relatively affordable, produce good quality colour prints, and are compact in size.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Inkjets are popular in homes/small offices (A correct). Affordability, colour quality, and compact size explain this popularity (R correct and explains A). Option 2 is wrong because R lists the reasons for A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Fill in the blank: The process of converting human-readable domain names (like google.com) to IP addresses is performed by __________.",
+      "options": ["DNS (Domain Name System)", "DHCP", "HTTP", "TCP"],
+      "correctAnswer": "DNS (Domain Name System)",
+      "explanation": "DNS resolves domain names to IP addresses. 'DHCP' is wrong — it assigns IP addresses dynamically. 'HTTP' is wrong — for web page transfer. 'TCP' is wrong — a transport protocol."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Which of the following are advantages of using spreadsheet software (like MS Excel)?\n\n(i) Automatic recalculation when data changes\n(ii) Creating charts and graphs from data\n(iii) Sorting and filtering large datasets\n(iv) Recording audio notes within cells\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Auto-recalculation (i correct). Charts/graphs (ii correct). Sort/filter (iii correct). (iv) is wrong because standard spreadsheet cells cannot record audio notes — that's not a spreadsheet feature. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "The 'Taskbar' in Windows is located at the:",
+      "options": ["Bottom of the screen by default", "Top of the screen only", "Right side of the screen only", "Inside the application window"],
+      "correctAnswer": "Bottom of the screen by default",
+      "explanation": "The Taskbar appears at the bottom by default in Windows. 'Top only' is wrong — it CAN be moved there but default is bottom. 'Right side only' is wrong — not default. 'Inside application' is wrong — it's part of the desktop, not individual apps."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Consider the following statements about internet search techniques:\n\n(i) Using quotation marks searches for an exact phrase (e.g., \"climate change\").\n(ii) The minus sign (-) excludes a word from results (e.g., apple -fruit).\n(iii) The site: operator limits results to a specific website.\n(iv) All search engines produce identical results for the same query.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii) only", "(i), (ii), (iii) and (iv)", "(i) and (iii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Quotes for exact phrase (i correct). Minus to exclude (ii correct). site: for specific website (iii correct). (iv) is wrong because different search engines use different algorithms and produce different results. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Match the following input devices with their primary functions:\n\nColumn I:\n(a) Scanner\n(b) Webcam\n(c) Microphone\n(d) Barcode Reader\n\nColumn II:\n(i) Captures video input\n(ii) Reads printed bar patterns\n(iii) Converts documents to digital format\n(iv) Converts sound to electrical signals\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Scanner digitizes documents (iii). Webcam captures video (i). Microphone converts sound (iv). Barcode Reader reads bar patterns (ii). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "The 'Page Break' feature in MS Word is used to:",
+      "options": ["Force text to continue on the next page", "Break the page into two columns", "Delete the current page", "Change the page orientation"],
+      "correctAnswer": "Force text to continue on the next page",
+      "explanation": "Page Break inserts a break that pushes following content to a new page. 'Two columns' is wrong — that's Columns feature. 'Delete page' is wrong — Page Break doesn't delete. 'Change orientation' is wrong — that's in Page Layout/Setup."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer monitor is classified as an output device.\nReason (R): A monitor displays processed information (text, images, video) to the user in visual form.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Monitor is an output device (A correct). It displays information visually (R correct and explains why it's classified as output). Option 2 is wrong because R explains the classification. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "The '=VLOOKUP()' function in Excel requires which of the following parameters?",
+      "options": ["Lookup value, table array, column index number, range lookup", "Cell address, font name, size, color", "Sheet name, row number, column letter, value", "File name, path, extension, format"],
+      "correctAnswer": "Lookup value, table array, column index number, range lookup",
+      "explanation": "VLOOKUP syntax: =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup]). 'Cell/font/size/color' is wrong — those are formatting, not lookup parameters. 'Sheet/row/column/value' is wrong — not VLOOKUP syntax. 'File/path/extension' is wrong — not related."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Which of the following are characteristics of optical storage media (CD/DVD/Blu-ray)?\n\n(i) Data is read and written using laser beams.\n(ii) They are non-volatile storage devices.\n(iii) They have faster read/write speeds than SSDs.\n(iv) They are portable and relatively inexpensive.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Optical media use lasers (i correct). They're non-volatile (ii correct). They're portable and cheap (iv correct). (iii) is wrong because optical media are MUCH SLOWER than SSDs for read/write. Option 2 includes (iii). Option 3 excludes (iv). Option 4 includes (iii)."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "The term 'boot sector virus' refers to a virus that:",
+      "options": ["Infects the master boot record of a storage device", "Only activates when you wear boots near the computer", "Attacks the power supply unit during startup", "Spreads only through Bluetooth connections"],
+      "correctAnswer": "Infects the master boot record of a storage device",
+      "explanation": "A boot sector virus infects the MBR/boot sector, activating before the OS loads. 'Wearing boots' is wrong — absurd literal interpretation. 'Attacks power supply' is wrong — unrelated to boot sectors. 'Bluetooth only' is wrong — not specific to Bluetooth."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Consider the following statements about the World Wide Web (WWW):\n\n(i) It was invented by Tim Berners-Lee in 1989.\n(ii) Web pages are written in HTML (HyperText Markup Language).\n(iii) The WWW and the Internet are the same thing.\n(iv) Hyperlinks allow navigation between web pages.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (iv) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Tim Berners-Lee invented WWW in 1989 (i correct). HTML is the language of web pages (ii correct). Hyperlinks enable navigation (iv correct). (iii) is wrong because the Internet is the infrastructure (physical network); WWW is a service that runs on the Internet — they're different. Option 2 includes (iii). Option 3 excludes (ii). Option 4 includes (iii)."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "The 'Header and Footer' in MS Word appears:",
+      "options": ["At the top and bottom of every page respectively", "Only on the first page", "In the middle of the document", "Only when the document is printed"],
+      "correctAnswer": "At the top and bottom of every page respectively",
+      "explanation": "Headers appear at the top, footers at the bottom of every page (unless set differently). 'Only first page' is wrong — by default they appear on all pages. 'Middle' is wrong — they're at margins. 'Only when printed' is wrong — visible in Print Layout view too."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The CPU is called the 'brain' of the computer.\nReason (R): The CPU performs all arithmetic calculations, logical operations, and controls the functioning of all other components through the Control Unit and ALU.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "CPU is called the brain (A correct). It performs calculations (ALU) and controls operations (CU) (R correct and explains why it's the 'brain'). Option 2 is wrong because R explains the analogy. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "Match the following email terms with their descriptions:\n\nColumn I:\n(a) Inbox\n(b) Spam\n(c) Draft\n(d) Sent Items\n\nColumn II:\n(i) Messages saved but not yet sent\n(ii) Unsolicited junk emails\n(iii) Copies of emails you have sent\n(iv) Folder where received emails arrive\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "Inbox receives emails (iv). Spam holds junk (ii). Draft stores unsent messages (i). Sent Items keeps sent copies (iii). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (d)."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "The 'Alt+Tab' keyboard shortcut in Windows is used to:",
+      "options": ["Switch between open applications/windows", "Close all open windows", "Open the Start menu", "Take a screenshot"],
+      "correctAnswer": "Switch between open applications/windows",
+      "explanation": "Alt+Tab cycles through open windows/applications. 'Close all windows' is wrong — no single shortcut does this. 'Start menu' is wrong — that's the Windows key. 'Screenshot' is wrong — that's Print Screen."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "The data shows file sizes:\n\n| File | Size |\n|---|---|\n| Document.docx | 256 KB |\n| Photo.jpg | 3 MB |\n| Video.mp4 | 1.5 GB |\n| Song.mp3 | 5 MB |\n\nHow many copies of the Document can fit in the space occupied by the Video file?",
+      "options": ["Approximately 6,000", "Approximately 1,500", "Approximately 600", "Approximately 60,000"],
+      "correctAnswer": "Approximately 6,000",
+      "explanation": "Video = 1.5 GB = 1,536 MB = 1,572,864 KB. Document = 256 KB. Copies = 1,572,864/256 ≈ 6,144 ≈ 6,000. 'Approximately 1,500' is wrong — uses wrong conversion. 'Approximately 600' is wrong — off by factor of 10. 'Approximately 60,000' is wrong — off by factor of 10 in other direction."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "Consider the following statements about safe internet practices:\n\n(i) Never share personal information (Aadhaar, bank details) on unsecured websites.\n(ii) Always check for 'https://' and a padlock icon before entering sensitive data.\n(iii) Public Wi-Fi networks are always safe for online banking.\n(iv) Regularly changing passwords improves account security.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv) only", "(i), (ii), (iii) and (iv)", "(i) and (ii) only", "(ii), (iii) and (iv) only"],
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Don't share PII on unsecured sites (i correct). Check https/padlock (ii correct). Change passwords regularly (iv correct). (iii) is wrong because public Wi-Fi is NOT safe for banking — it's vulnerable to eavesdropping and man-in-the-middle attacks. Option 2 includes (iii). Option 3 excludes (iv). Option 4 includes (iii)."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "The 'Conditional Formatting' feature in MS Excel is used to:",
+      "options": ["Apply formatting (colors, icons, bars) to cells based on their values", "Convert data into a pivot table", "Insert conditional formulas like IF", "Protect cells from editing"],
+      "correctAnswer": "Apply formatting (colors, icons, bars) to cells based on their values",
+      "explanation": "Conditional Formatting highlights cells based on conditions (e.g., red for negative values). 'Pivot table' is wrong — that's a separate feature. 'IF formula' is wrong — that's a function, not formatting. 'Protect cells' is wrong — that's cell protection."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "The data shows download speeds of different connection types:\n\n| Connection | Speed |\n|---|---|\n| 4G Mobile | 30 Mbps |\n| Fiber Optic | 100 Mbps |\n| DSL | 10 Mbps |\n| 5G Mobile | 300 Mbps |\n\nHow many times faster is 5G compared to DSL?",
+      "options": ["30 times", "10 times", "3 times", "100 times"],
+      "correctAnswer": "30 times",
+      "explanation": "5G/DSL = 300/10 = 30 times faster. '10 times' is wrong — 300/30=10 (that's 5G vs 4G). '3 times' is wrong — 30/10=3 (that's 4G vs DSL). '100 times' is wrong — no such ratio in the data."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "Fill in the blank: The full form of 'RAM' is __________.",
+      "options": ["Random Access Memory", "Read Access Memory", "Rapid Action Memory", "Recently Added Memory"],
+      "correctAnswer": "Random Access Memory",
+      "explanation": "RAM = Random Access Memory — data can be accessed randomly (any location equally fast). 'Read Access Memory' is wrong. 'Rapid Action Memory' is wrong. 'Recently Added Memory' is wrong."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "Which of the following best describes 'open-source software'?",
+      "options": ["Software whose source code is freely available for viewing, modifying, and distributing", "Software that is always free of cost", "Software that only runs on Linux", "Software that has no copyright protection"],
+      "correctAnswer": "Software whose source code is freely available for viewing, modifying, and distributing",
+      "explanation": "Open-source means source code is publicly accessible for use/modification/distribution (e.g., Linux, Firefox). 'Always free' is wrong — some have commercial versions. 'Only on Linux' is wrong — open-source exists on all platforms. 'No copyright' is wrong — open-source licenses still have copyright (like GPL)."
+    }
+  ]
+}
