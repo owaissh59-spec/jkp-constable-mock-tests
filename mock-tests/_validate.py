@@ -98,6 +98,15 @@ def main():
         # Constable syllabus.
         if q.get("subject") == "A" and q["questionText"].lower().startswith("read the following passage"):
             errs.append(f"q{q['id']}: comprehension passage in section A (not in Constable syllabus)")
+        # Markdown tables are NOT supported by the rendering engine.
+        if "|---" in q["questionText"] or "|--" in q["questionText"]:
+            errs.append(f"q{q['id']}: markdown table syntax in questionText (use arrow format instead)")
+        if "|---" in q.get("explanation", "") or "|--" in q.get("explanation", ""):
+            errs.append(f"q{q['id']}: markdown table syntax in explanation (use arrow format instead)")
+        # Self-contradicting explanations indicate unresolved answer errors.
+        expl_lower = q.get("explanation", "").lower()
+        if "let me recalculate" in expl_lower or "the answer should be" in expl_lower:
+            errs.append(f"q{q['id']}: explanation contains self-contradiction (unresolved error)")
 
     print("  types:", dict(types))
     print("  sections:", dict(sorted(subj.items())))

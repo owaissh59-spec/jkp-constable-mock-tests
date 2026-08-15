@@ -273,6 +273,33 @@ The correct answer must NOT be easily guessable. Apply ALL of the following to E
 
 **EXPLANATION RULE (mandatory for every question):** The `explanation` must (1) state clearly why the correct option is correct, and (2) give a specific reason why EACH of the other three options is wrong. A one-line explanation that only justifies the correct answer is NOT acceptable.
 
+**NO MARKDOWN TABLES (CRITICAL — NEVER VIOLATE):**
+The rendering engine (ReactMarkdown) does **not** support markdown table syntax inside `questionText` or `explanation` fields. **NEVER** use pipe-based table formatting (`| Col1 | Col2 |`, `|---|---|`, etc.). Instead, present tabular/structured data using **plain-text arrow format** with `\n` line breaks:
+
+✅ CORRECT (arrow format):
+```
+"questionText": "The following data shows production:\n\nState P → 45\nState Q → 60\nState R → 30\n\nWhich state has the highest production?"
+```
+
+❌ WRONG (markdown table — will NOT render):
+```
+"questionText": "...\n\n| State | Production |\n|-------|------------|\n| P | 45 |\n| Q | 60 |\n| R | 30 |\n\nWhich state has..."
+```
+
+For multi-column data, use: `Label → Value1, Value2, ...` on each line. This applies to ALL question types including Data Interpretation, Matching context tables, and any structured data in explanations.
+
+**ANSWER CORRECTNESS (CRITICAL — VERIFY BEFORE OUTPUTTING):**
+For EVERY question, you MUST verify correctness of `correctAnswer` before outputting:
+- **Math questions (Section D):** Solve the problem fully using BODMAS/appropriate method. Ensure the numerical result matches `correctAnswer` exactly. Do NOT approximate to a "closest option" — redesign the question numbers if they don't produce a clean answer.
+- **Statement-based questions:** Verify EACH individual statement independently. If all statements turn out correct but no "All of the above" option exists, redesign one statement to be incorrect so the answer matches available options.
+- **Assertion-Reason:** Verify both A and R independently, then check whether R actually explains A.
+- **Match-the-following:** Verify each pair is factually correct.
+- **Factual questions (B, C, E):** Double-check facts. Do not rely on memory — if unsure, simplify the question to something verifiable.
+- **Symbol substitution / coded operations (D):** After substituting symbols, apply BODMAS strictly. Verify the final result matches the stated answer. If it doesn't, fix the expression or the answer.
+- **Coding-decoding (D):** Apply the coding rule letter-by-letter and verify the encoded/decoded word matches what's stated in the question. If it doesn't match, fix the coded word in the question.
+
+The `explanation` field must NEVER contain phrases like "Wait", "Let me recalculate", "Actually all are correct", or "The answer should be..." — these indicate an unresolved contradiction. If you catch yourself writing such phrases, STOP and fix the question/answer before proceeding.
+
 ---
 
 ## SECTION 6: SELF-CHECK BEFORE OUTPUTTING
@@ -294,8 +321,12 @@ Before finalizing, verify:
 14. Are all distractors close/plausible, with no giveaway from option length?
 15. Has NO question stem been repeated from the relevant `mock-tests/history/<X>.json` shard (exact or near-duplicate/reworded)?
 16. For General English (A): no comprehension passage, cloze, para-jumble or narration items (not in the Constable syllabus).
+17. **NO MARKDOWN TABLES:** Does ANY `questionText` or `explanation` contain pipe characters (`|`) followed by dashes (`---`)? If yes, convert to arrow format (`→`) immediately.
+18. **ANSWER CORRECTNESS VERIFIED:** For every math/reasoning question, have you computed the answer from scratch and confirmed it matches `correctAnswer`? For every statement-based question, have you verified each statement individually? For every coding-decoding question, have you applied the rule letter-by-letter?
+19. **NO SELF-CONTRADICTING EXPLANATIONS:** Does any `explanation` contain hedging phrases like "Wait", "Let me recalculate", "Actually all are correct", "Hmm", or "The answer should be"? If yes, the question has an unresolved error — fix it before proceeding.
+20. **CLEAN NUMBERS:** For every math question, does the correct calculation produce a value that EXACTLY matches one of the four options? If the calculation gives 5.33 but the closest option is 5, redesign the question with different numbers that yield a clean answer.
 
-You may run `python3 mock-tests/_validate.py <file.json>` to mechanically check items 1–3, 9 and the answer-key balance before recording.
+You may run `python3 mock-tests/_validate.py <file.json>` to mechanically check items 1–3, 9, 17, 19 and the answer-key balance before recording.
 
 ---
 
