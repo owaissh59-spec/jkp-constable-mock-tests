@@ -1,0 +1,657 @@
+{
+  "subject": "Full Test",
+  "topic": "Cumulative revision across all covered subjects",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct article: We saw ______ elephant at the zoo yesterday.",
+      "options": [
+        "an",
+        "a",
+        "the",
+        "no article"
+      ],
+      "correctAnswer": "an",
+      "explanation": "'Elephant' begins with a vowel sound /e/, so 'an elephant' is correct. 'A' is used before consonant sounds, 'the' would refer to a specific known elephant already mentioned, and dropping the article is ungrammatical before a singular countable noun, so 'an' is right."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Consider the following statements about India's national symbols:\n\n(i) The peacock is India's national bird.\n(ii) The Bengal Tiger is India's national animal.\n(iii) The lotus is India's national flower.\n(iv) The rose is India's national flower.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The peacock is the national bird, the Bengal Tiger is the national animal, and the lotus is the national flower, so (i), (ii) and (iii) are true. Statement (iv) is false because the rose is not India's national flower (the lotus is), so any option including (iv) is wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Simplify: 45 ÷ 9 + 6 × 2 − 3",
+      "options": [
+        "14",
+        "12",
+        "16",
+        "18"
+      ],
+      "correctAnswer": "14",
+      "explanation": "By BODMAS, division and multiplication come first: 45 ÷ 9 = 5 and 6 × 2 = 12, so 5 + 12 − 3 = 14. Option 12 forgets the addition of 5, 16 does not subtract the 3, and 18 wrongly multiplies before dividing, so only 14 fits the correct BODMAS order."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the following:\n\nColumn I:\n(a) MS Word\n(b) MS Excel\n(c) MS PowerPoint\n(d) Windows\n\nColumn II:\n(i) Operating system\n(ii) Spreadsheet\n(iii) Word processor\n(iv) Presentation\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "MS Word is a word processor, MS Excel is a spreadsheet, MS PowerPoint is a presentation tool, and Windows is an operating system, giving (a)-(iii), (b)-(ii), (c)-(iv), (d)-(i). The other options swap Word with Excel or misplace Windows, which are wrong software classifications."
+    },
+    {
+      "id": "5",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: The book is written ______ Munshi Premchand.",
+      "options": [
+        "by",
+        "with",
+        "from",
+        "of"
+      ],
+      "correctAnswer": "by",
+      "explanation": "In the passive voice, the doer of an action is introduced by 'by', so 'written by Munshi Premchand' is correct. 'With' shows an instrument, 'from' shows origin, and 'of' shows possession or material, none of which fits the doer of the writing here, so 'by' is right."
+    },
+    {
+      "id": "6",
+      "subject": "B",
+      "questionText": "Which of the following are Fundamental Duties of Indian citizens?\n\n(i) To respect the National Flag\n(ii) To pay income tax on time\n(iii) To protect the natural environment\n(iv) To safeguard public property\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Respecting the National Flag, protecting the environment and safeguarding public property are Fundamental Duties under Article 51A, so (i), (iii) and (iv) are correct. Paying income tax is a legal obligation but not listed among the Fundamental Duties, so any option including (ii) is wrong."
+    },
+    {
+      "id": "7",
+      "subject": "C",
+      "questionText": "The Wular Lake in Jammu & Kashmir is located in which district?",
+      "options": [
+        "Bandipora",
+        "Ganderbal",
+        "Srinagar",
+        "Baramulla"
+      ],
+      "correctAnswer": "Bandipora",
+      "explanation": "The Wular Lake, one of India's largest freshwater lakes, lies in the Bandipora district of the Kashmir Valley. Ganderbal hosts Manasbal, Srinagar hosts the Dal Lake, and Baramulla is a separate district, so only Bandipora is the correct district for Wular."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average of the numbers 10, 20 and 30 is 20.\nReason (R): The average of a set of numbers is the sum divided by their count.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: (10 + 20 + 30) ÷ 3 = 60/3 = 20, so the average is 20, and the general rule is that the average equals sum divided by count. Applying the rule directly gives the assertion's value, so (R) correctly explains (A). Other options fail because both are true and (R) explains (A)."
+    },
+    {
+      "id": "9",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct verb form: When I saw him, he __________ a novel.",
+      "options": [
+        "was reading",
+        "reads",
+        "has read",
+        "will read"
+      ],
+      "correctAnswer": "was reading",
+      "explanation": "'When I saw him' is a past action, and reading was in progress at that moment, so the past continuous 'was reading' is correct. 'Reads' is present, 'has read' is present perfect, and 'will read' is future, none of which shows an ongoing past action, so 'was reading' is right."
+    },
+    {
+      "id": "10",
+      "subject": "B",
+      "questionText": "The 'Sarva Shiksha Abhiyan' was launched primarily to:",
+      "options": [
+        "Provide universal elementary education",
+        "Provide healthcare",
+        "Build rural roads",
+        "Increase food grain production"
+      ],
+      "correctAnswer": "Provide universal elementary education",
+      "explanation": "Sarva Shiksha Abhiyan (SSA) was launched to achieve universalisation of elementary education for children aged 6–14. Healthcare, rural roads and food production are addressed by different schemes (like NHM, PMGSY and NFSA), so none of them describes SSA; universal elementary education is correct."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "Consider the following statements about a right-angled triangle:\n\n(i) One of its angles is exactly 90°.\n(ii) The Pythagoras theorem holds for it.\n(iii) The side opposite the right angle is the hypotenuse.\n(iv) The sum of all its angles is 90°.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A right-angled triangle has a 90° angle, Pythagoras' theorem holds for it, and the side opposite the right angle is the hypotenuse, so (i), (ii) and (iii) are true. Statement (iv) is false because the interior angles of any triangle sum to 180°, not 90°, so any option including (iv) is wrong."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Which of the following are output devices?\n\n(i) Monitor\n(ii) Printer\n(iii) Speaker\n(iv) Keyboard\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Monitors display visual output, printers produce printed output, and speakers produce audio output, so (i), (ii) and (iii) are output devices. A keyboard is an input device for entering data, so any option that includes a keyboard as an output device is wrong."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Choose the word most similar in meaning to 'JOVIAL':",
+      "options": [
+        "Cheerful",
+        "Sad",
+        "Angry",
+        "Silent"
+      ],
+      "correctAnswer": "Cheerful",
+      "explanation": "'Jovial' means friendly and cheerful, so 'cheerful' is the closest synonym. 'Sad', 'angry' and 'silent' all describe moods that contrast with jovial's warm and happy feel, so none of them is a synonym and 'cheerful' correctly matches jovial."
+    },
+    {
+      "id": "14",
+      "subject": "B",
+      "questionText": "Match the following famous personalities with their fields:\n\nColumn I:\n(a) Sachin Tendulkar\n(b) Kalpana Chawla\n(c) M.S. Dhoni\n(d) Sania Mirza\n\nColumn II:\n(i) Tennis\n(ii) Cricket (captain)\n(iii) Cricket (batting legend)\n(iv) Astronaut\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "Sachin Tendulkar is a cricket batting legend, Kalpana Chawla was an astronaut, M.S. Dhoni is famed as a cricket captain, and Sania Mirza is a tennis player, giving (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i). The other options swap cricket batting with captaincy or misplace tennis, which are incorrect."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "The next term in the series: 1, 3, 6, 10, 15, __________",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "21"
+      ],
+      "correctAnswer": "21",
+      "explanation": "The differences are 2, 3, 4, 5, next 6, so 15 + 6 = 21 (these are triangular numbers T_n = n(n+1)/2). Option 18 adds only 3, 20 adds 5, and 22 adds 7, none of which continues the pattern of arithmetic increments, so 21 is correct."
+    },
+    {
+      "id": "16",
+      "subject": "C",
+      "questionText": "Consider the following statements about the Amarnath cave shrine:\n\n(i) The shrine is dedicated to Lord Shiva.\n(ii) The Amarnath Yatra is held annually.\n(iii) Pahalgam and Baltal are common approach routes to the cave.\n(iv) The Amarnath cave is located in the Jammu region.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The cave enshrines Lord Shiva, the yatra is annual, and Pahalgam and Baltal are the standard approach routes, so (i), (ii) and (iii) are true. Statement (iv) is false because the Amarnath cave is in the Anantnag district of the Kashmir Valley, not in the Jammu region, so any option with (iv) is wrong."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Choose the word opposite in meaning to 'SIMPLE':",
+      "options": [
+        "Easy",
+        "Plain",
+        "Clear",
+        "Complex"
+      ],
+      "correctAnswer": "Complex",
+      "explanation": "'Simple' means easy to understand or plain, so its antonym is 'complex', meaning complicated. 'Easy', 'plain' and 'clear' are all close in meaning to simple rather than opposite, so none of them is the antonym and 'complex' is the correct opposite of simple."
+    },
+    {
+      "id": "18",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Election Commission of India is a constitutional body.\nReason (R): The Election Commission of India is established under Article 324 of the Indian Constitution.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: the Election Commission is a constitutional body, and it is established under Article 324. Its establishment by the Constitution is precisely what makes it a constitutional body, so (R) correctly explains (A). Other options fail because both statements are true and (R) does explain (A)."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Which of the following are multiples of 5?\n\n(i) 25\n(ii) 46\n(iii) 60\n(iv) 85\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A number is a multiple of 5 if it ends in 0 or 5: 25, 60 and 85 all satisfy this, so (i), (iii) and (iv) are correct. 46 ends in 6 and is not divisible by 5, so any option including 46 is wrong."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Which of the following is an example of secondary storage?",
+      "options": [
+        "RAM",
+        "Cache memory",
+        "Registers",
+        "Hard disk"
+      ],
+      "correctAnswer": "Hard disk",
+      "explanation": "A hard disk stores data permanently and is an example of secondary storage. RAM, cache and registers are all forms of primary memory (volatile and used for immediate processing), so none of them is secondary storage; the hard disk is correct."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Choose the word most similar in meaning to 'INITIATE':",
+      "options": [
+        "Finish",
+        "Begin",
+        "Stop",
+        "Continue"
+      ],
+      "correctAnswer": "Begin",
+      "explanation": "'Initiate' means to start or begin something, so 'begin' is the closest synonym. 'Finish' and 'stop' mean the opposite (to end), and 'continue' means to proceed with an ongoing action, so none of them is a synonym and 'begin' correctly matches initiate."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Supreme Court sits in New Delhi.\n(ii) High Courts function at the state level.\n(iii) District Courts handle civil and criminal cases at the district level.\n(iv) The Attorney General is a judge of the Supreme Court.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Supreme Court sits in New Delhi, High Courts operate at state level, and District Courts handle district-level cases, so (i), (ii) and (iii) are true. Statement (iv) is false because the Attorney General is the government's chief legal advisor, not a Supreme Court judge, so any option including (iv) is wrong."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The perimeter of a rectangle is 50 cm and its length is 15 cm. Its breadth is:",
+      "options": [
+        "8 cm",
+        "10 cm",
+        "12 cm",
+        "14 cm"
+      ],
+      "correctAnswer": "10 cm",
+      "explanation": "Perimeter = 2(l + b), so 50 = 2(15 + b), giving 15 + b = 25 and b = 10 cm. Option 8 cm gives a perimeter of 46, 12 cm gives 54, and 14 cm gives 58, none of which equals 50 cm, so only 10 cm is the correct breadth."
+    },
+    {
+      "id": "24",
+      "subject": "A",
+      "questionText": "Match the following one-word substitutions with their meanings:\n\nColumn I:\n(a) Insomnia\n(b) Optimist\n(c) Vegetarian\n(d) Pilgrimage\n\nColumn II:\n(i) One who takes a positive view of things\n(ii) Journey to a holy place\n(iii) Inability to sleep\n(iv) One who does not eat meat\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "'Insomnia' is inability to sleep, an 'optimist' takes a positive view, a 'vegetarian' does not eat meat, and 'pilgrimage' is a journey to a holy place, giving (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii). The other options swap optimist with vegetarian or misplace pilgrimage, which do not match the standard definitions."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "The Nobel Peace Prize awarded to Kailash Satyarthi in 2014 was for his work in:",
+      "options": [
+        "Nuclear disarmament",
+        "Children's rights",
+        "Climate change",
+        "Women's rights"
+      ],
+      "correctAnswer": "Children's rights",
+      "explanation": "Kailash Satyarthi shared the 2014 Nobel Peace Prize with Malala Yousafzai for his fight against child labour and for children's rights. Nuclear disarmament, climate change and women's rights are worthy causes but were not his specific Nobel citation, so children's rights is correct."
+    },
+    {
+      "id": "26",
+      "subject": "C",
+      "questionText": "Which of the following are famous saffron-growing areas of Kashmir?\n\n(i) Pampore\n(ii) Kishtwar\n(iii) Sonamarg\n(iv) Pulwama\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Pampore (Pulwama district) and Kishtwar are the two main saffron-growing regions in J&K, so options mentioning Pampore, Kishtwar and Pulwama together are correct, giving (i), (ii) and (iv). Sonamarg is a tourist meadow known for scenery, not saffron cultivation, so any option including Sonamarg is wrong."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "The following table shows the temperature (°C) of four cities on a day:\n\nA — 30\nB — 35\nC — 25\nD — 40\n\nWhich city recorded the highest temperature?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": "D",
+      "explanation": "City D at 40°C recorded the highest temperature, ahead of B at 35°C, A at 30°C and C at 25°C. B is the second highest, not the top, while A and C are lower, so D is the correct city with the maximum temperature."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A computer virus is a type of malicious software.\nReason (R): Antivirus software helps detect and remove viruses.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: a virus is malicious software, and antivirus programs detect and remove viruses. However, the existence of antivirus software is a response to viruses, not the reason viruses are malicious (that is by definition), so (R) does not correctly explain (A). Other options fail because both statements are true."
+    },
+    {
+      "id": "29",
+      "subject": "A",
+      "questionText": "Choose the correctly spelled word:",
+      "options": [
+        "Priviledge",
+        "Priveledge",
+        "Privilege",
+        "Privildge"
+      ],
+      "correctAnswer": "Privilege",
+      "explanation": "'Privilege' is spelled with two 'i's and one 'e' between the 'l' and 'g', matching the standard English form. 'Priviledge', 'Priveledge' and 'Privildge' all insert or omit letters incorrectly, so all three are misspellings and only 'Privilege' is right."
+    },
+    {
+      "id": "30",
+      "subject": "B",
+      "questionText": "The following table shows India's coal production (in million tonnes):\n\n2019 — 730\n2020 — 715\n2021 — 780\n2022 — 900\n\nIn which year was coal production the highest?",
+      "options": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correctAnswer": "2022",
+      "explanation": "In 2022 production reached 900 million tonnes, the highest of the four years, ahead of 780 in 2021, 730 in 2019 and 715 in 2020. 2021 is the second highest, not the peak, so 2022 is the correct year for the maximum coal production."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The mean of 5, 5, 5 is 5.\n(ii) The median of 3, 6, 9 is 6.\n(iii) The mode of 2, 3, 3, 4 is 3.\n(iv) The mean of a set of numbers can never equal the median.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Mean of 5, 5, 5 is 5; median of 3, 6, 9 is 6 (middle value); mode of 2, 3, 3, 4 is 3 (most frequent), so (i), (ii) and (iii) are true. Statement (iv) is false because the mean and median often coincide (e.g. in symmetric data), so any option including (iv) is wrong."
+    },
+    {
+      "id": "32",
+      "subject": "A",
+      "questionText": "A person who cannot see is called:",
+      "options": [
+        "Deaf",
+        "Dumb",
+        "Blind",
+        "Mute"
+      ],
+      "correctAnswer": "Blind",
+      "explanation": "'Blind' means unable to see. 'Deaf' means unable to hear, and 'dumb' or 'mute' mean unable to speak, so none of them refers to inability to see; 'blind' is the correct one-word substitution."
+    },
+    {
+      "id": "33",
+      "subject": "B",
+      "questionText": "The 'Champaran Satyagraha' led by Mahatma Gandhi in 1917 was against the exploitation of:",
+      "options": [
+        "Textile workers",
+        "Indigo farmers",
+        "Salt makers",
+        "Coal miners"
+      ],
+      "correctAnswer": "Indigo farmers",
+      "explanation": "The Champaran Satyagraha in Bihar was launched to defend indigo farmers who were being forced to grow indigo under the tinkathia system. Textile workers were the focus of the Ahmedabad Mill Strike, salt-making came up in the Salt Satyagraha, and coal miners were not part of Champaran, so indigo farmers is correct."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Consider the following statements about network devices:\n\n(i) A router forwards data packets between networks.\n(ii) A switch connects devices within a LAN.\n(iii) A hub broadcasts data to all connected devices.\n(iv) A monitor is a network device.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Routers forward packets between networks, switches connect devices within a LAN, and hubs broadcast to all connected devices, so (i), (ii) and (iii) are true. Statement (iv) is false because a monitor is an output display, not a network device, so any option including (iv) is wrong."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Match the following:\n\nColumn I:\n(a) Area of a triangle\n(b) Volume of a sphere\n(c) Volume of a cylinder\n(d) Perimeter of a square\n\nColumn II:\n(i) (4/3)πr³\n(ii) ½ × base × height\n(iii) 4 × side\n(iv) πr²h\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "The area of a triangle is ½ × base × height, the volume of a sphere is (4/3)πr³, the volume of a cylinder is πr²h, and the perimeter of a square is 4 × side, giving (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii). The other options swap sphere with cylinder or misplace triangle, which are dimensionally wrong."
+    },
+    {
+      "id": "36",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Ladakh is a Union Territory of India.\nReason (R): Ladakh has its own state legislative assembly.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "The assertion is true: Ladakh is a Union Territory since 2019. However the reason is false because Ladakh is a UT without a legislative assembly (it has Autonomous Hill Development Councils instead), so R is wrong. Hence (A) is correct but (R) is not; the first two options fail because (R) is false, and the last fails because (A) is true."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: He is not fit ______ this job.",
+      "options": [
+        "at",
+        "on",
+        "for",
+        "with"
+      ],
+      "correctAnswer": "for",
+      "explanation": "The collocation 'fit for' is used to say someone is suited to a job or role, so 'fit for this job' is correct. 'At', 'on' and 'with' do not combine idiomatically with 'fit' in this sense, so they are wrong and 'for' is the right preposition."
+    },
+    {
+      "id": "38",
+      "subject": "B",
+      "questionText": "Consider the following statements about India's Fundamental Rights:\n\n(i) They are enshrined in Part III of the Constitution.\n(ii) They are enforceable by the courts.\n(iii) They include the Right to Constitutional Remedies.\n(iv) They apply only to Indian citizens, not to any non-citizens at all.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Fundamental Rights are in Part III, are enforceable by courts, and include the Right to Constitutional Remedies (Article 32), so (i), (ii) and (iii) are true. Statement (iv) is false because some Fundamental Rights (like Article 21) apply to all persons including non-citizens, so any option including (iv) is wrong."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "The value of 20% of 500 + 10% of 300 is:",
+      "options": [
+        "100",
+        "110",
+        "120",
+        "130"
+      ],
+      "correctAnswer": "130",
+      "explanation": "20% of 500 = 100 and 10% of 300 = 30, so their sum = 100 + 30 = 130. Option 100 only counts one part, 110 and 120 fall short of the correct total, and only 130 correctly adds twenty percent of 500 with ten percent of 300."
+    },
+    {
+      "id": "40",
+      "subject": "A",
+      "questionText": "Choose the correct passive form of: 'The postman delivered the letters this morning.'",
+      "options": [
+        "The letters are delivered by the postman.",
+        "The letters were delivered by the postman.",
+        "The letters have been delivered by the postman.",
+        "The letters will be delivered by the postman."
+      ],
+      "correctAnswer": "The letters were delivered by the postman.",
+      "explanation": "The active is in simple past, so the passive uses 'were' + past participle: 'The letters were delivered by the postman.' 'Are delivered' is present, 'have been delivered' is present perfect, and 'will be delivered' is future, none of which keeps the simple past tense, so the second option is correct."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Rajya Sabha is often called the House of States.\nReason (R): The members of the Rajya Sabha are elected by the elected members of the State Legislative Assemblies.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: the Rajya Sabha is called the House of States, and its members are elected by the State Legislative Assemblies. Being elected by state legislatures is precisely why it is called the House of States, so (R) correctly explains (A). Other options fail because both statements are true and (R) explains (A)."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Which of the following are common web browsers?\n\n(i) Mozilla Firefox\n(ii) Google Chrome\n(iii) Notepad\n(iv) Safari\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Mozilla Firefox, Google Chrome and Safari are all widely used web browsers, so (i), (ii) and (iv) are correct. Notepad is a plain-text editor, not a web browser, so any option including Notepad as a browser is wrong."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "The compound interest on ₹2,000 at 10% per annum for 2 years is:",
+      "options": [
+        "₹400",
+        "₹410",
+        "₹420",
+        "₹450"
+      ],
+      "correctAnswer": "₹420",
+      "explanation": "Amount = 2000 × (1.10)² = 2000 × 1.21 = ₹2,420, so CI = 2420 − 2000 = ₹420. Option ₹400 is the simple interest, and ₹410 and ₹450 do not match the compounded amount, so only ₹420 correctly gives 10% compound interest for 2 years on ₹2,000."
+    },
+    {
+      "id": "44",
+      "subject": "A",
+      "questionText": "Choose the word opposite in meaning to 'STRONG':",
+      "options": [
+        "Powerful",
+        "Sturdy",
+        "Weak",
+        "Firm"
+      ],
+      "correctAnswer": "Weak",
+      "explanation": "'Strong' means having great power or force, so its antonym is 'weak', meaning lacking strength. 'Powerful', 'sturdy' and 'firm' are all close in meaning to strong rather than opposite, so none of them is the antonym and 'weak' is the correct opposite of strong."
+    },
+    {
+      "id": "45",
+      "subject": "B",
+      "questionText": "Match the following states with their capitals:\n\nColumn I:\n(a) Rajasthan\n(b) Bihar\n(c) Punjab\n(d) Karnataka\n\nColumn II:\n(i) Bengaluru\n(ii) Chandigarh\n(iii) Patna\n(iv) Jaipur\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "Rajasthan's capital is Jaipur, Bihar's is Patna, Punjab's is Chandigarh (shared with Haryana), and Karnataka's is Bengaluru, giving (a)-(iv), (b)-(iii), (c)-(ii), (d)-(i). The other options swap Jaipur with Patna or misplace Chandigarh, which do not match each state's actual capital."
+    },
+    {
+      "id": "46",
+      "subject": "C",
+      "questionText": "Consider the following statements about the Kashmir Valley's climate and geography:\n\n(i) The valley is drained mainly by the Jhelum.\n(ii) It experiences cold winters with snowfall.\n(iii) It lies between the Pir Panjal and the Great Himalayan range.\n(iv) It has a hot desert climate throughout the year.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The valley is drained by the Jhelum, has cold snowy winters, and lies between the Pir Panjal and Great Himalayan ranges, so (i), (ii) and (iii) are true. Statement (iv) is false because the valley has a temperate climate, not a hot desert one, so any option including (iv) is wrong."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "A man buys an article for ₹300 and sells it for ₹360. His profit percent is:",
+      "options": [
+        "15%",
+        "18%",
+        "20%",
+        "22%"
+      ],
+      "correctAnswer": "20%",
+      "explanation": "Profit = 360 − 300 = ₹60, and profit percent = (60 ÷ 300) × 100 = 20%. Option 15% needs profit ₹45, 18% needs ₹54, and 22% needs ₹66, none of which equals ₹60, so only 20% matches the profit on ₹300."
+    },
+    {
+      "id": "48",
+      "subject": "A",
+      "questionText": "Choose the word most similar in meaning to 'ENDLESS':",
+      "options": [
+        "Brief",
+        "Short",
+        "Infinite",
+        "Bounded"
+      ],
+      "correctAnswer": "Infinite",
+      "explanation": "'Endless' means without end or limit, so 'infinite' is the closest synonym. 'Brief' and 'short' mean the opposite (limited in duration), and 'bounded' means with limits, so none of them is a synonym and 'infinite' correctly matches endless."
+    },
+    {
+      "id": "49",
+      "subject": "B",
+      "questionText": "Fill in the blank: The __________ Amendment of the Indian Constitution added the words 'socialist', 'secular' and 'integrity' to the Preamble.",
+      "options": [
+        "42nd",
+        "44th",
+        "52nd",
+        "61st"
+      ],
+      "correctAnswer": "42nd",
+      "explanation": "The 42nd Amendment (1976) added 'socialist', 'secular' and 'integrity' to the Preamble. The 44th Amendment (1978) removed the Right to Property as a Fundamental Right, the 52nd introduced the anti-defection law, and the 61st lowered the voting age to 18, so only the 42nd matches the Preamble changes."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "The keyboard shortcut Ctrl + N is commonly used to:",
+      "options": [
+        "Close a document",
+        "Open a new document",
+        "Print a document",
+        "Save a document"
+      ],
+      "correctAnswer": "Open a new document",
+      "explanation": "Ctrl + N opens a new document or window in most applications. Closing typically uses Alt + F4 (or Ctrl + W), printing uses Ctrl + P, and saving uses Ctrl + S, so those perform different tasks and Ctrl + N correctly opens a new document."
+    }
+  ]
+}

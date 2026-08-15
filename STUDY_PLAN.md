@@ -402,17 +402,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 142 | Morning | A — General English | All topics of General English (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 143 | Afternoon | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 144 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 142 | Morning | A — General English | All topics of General English (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 143 | Afternoon | D — Numerical and Reasoning Ability | All topics of Numerical & Reasoning Ability (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 144 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 49
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 145 | Morning | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 50 | advanced | Subject full (multi-topic) | ⬜ |
-| 146 | Afternoon | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 60 | advanced | Subject full (multi-topic) | ⬜ |
-| 147 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ⬜ |
+| 145 | Morning | E — Basic Concepts of Computers | All topics of Basic Concepts of Computers (mixed) | 50 | advanced | Subject full (multi-topic) | ✅ |
+| 146 | Afternoon | B — General Knowledge & Current Affairs (India) | All topics of GK & Current Affairs India (mixed) | 60 | advanced | Subject full (multi-topic) | ✅ |
+| 147 | Late | FULL | Cumulative revision across all covered subjects | 50 | advanced | Revision (cumulative) | ✅ |
 
 ### Day 50
 

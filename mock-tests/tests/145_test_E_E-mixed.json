@@ -1,0 +1,657 @@
+{
+  "subject": "E",
+  "topic": "All topics of Basic Concepts of Computers (mixed)",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "The brain of the computer is the:",
+      "options": [
+        "Hard disk",
+        "RAM",
+        "Monitor",
+        "CPU"
+      ],
+      "correctAnswer": "CPU",
+      "explanation": "The CPU (Central Processing Unit) executes program instructions and is popularly called the brain of the computer. The hard disk is secondary storage, RAM is temporary memory, and the monitor is an output device, so none of them is the brain; the CPU is correct."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about primary and secondary memory:\n\n(i) RAM is primary memory and is volatile.\n(ii) ROM is primary memory and is non-volatile.\n(iii) A hard disk is secondary memory.\n(iv) RAM retains data after the computer is switched off.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "RAM is volatile primary memory, ROM is non-volatile primary memory, and hard disks are secondary storage, so (i), (ii) and (iii) are true. Statement (iv) is false because RAM is volatile and loses its contents when power is switched off, so any option including (iv) is wrong."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "MS Excel is used mainly for:",
+      "options": [
+        "Creating slides",
+        "Writing letters",
+        "Editing photographs",
+        "Working with spreadsheets and calculations"
+      ],
+      "correctAnswer": "Working with spreadsheets and calculations",
+      "explanation": "MS Excel is a spreadsheet program used for tables, formulas, calculations and charts. Creating slides is done in PowerPoint, writing letters in Word, and photo editing in tools like Photoshop, so none of them describes Excel; spreadsheets and calculations is correct."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the following abbreviations with their expansions:\n\nColumn I:\n(a) LAN\n(b) WAN\n(c) MAN\n(d) PAN\n\nColumn II:\n(i) Wide Area Network\n(ii) Metropolitan Area Network\n(iii) Local Area Network\n(iv) Personal Area Network\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "explanation": "LAN is Local Area Network, WAN is Wide Area Network, MAN is Metropolitan Area Network, and PAN is Personal Area Network, giving (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv). The other options swap LAN with WAN or misplace MAN with PAN, which are technically wrong network scope terms."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which key is used to delete the character to the right of the cursor?",
+      "options": [
+        "Backspace",
+        "Enter",
+        "Delete",
+        "Shift"
+      ],
+      "correctAnswer": "Delete",
+      "explanation": "The Delete key removes the character to the right of the cursor. Backspace removes the character to the left, Enter creates a new line, and Shift is a modifier used with other keys, so none of them removes rightward characters; Delete is correct."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are examples of application software?\n\n(i) MS PowerPoint\n(ii) MS Word\n(iii) Linux\n(iv) VLC Media Player\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "MS PowerPoint, MS Word and VLC Media Player are all end-user applications, so (i), (ii) and (iv) are correct. Linux is an operating system (system software), not application software, so any option including Linux as application software is wrong."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "The extension of a Microsoft Word document is usually:",
+      "options": [
+        ".txt",
+        ".xlsx",
+        ".pptx",
+        ".docx"
+      ],
+      "correctAnswer": ".docx",
+      "explanation": ".docx is the default extension for a Microsoft Word document from Office 2007 onwards. .xlsx is for Excel, .pptx is for PowerPoint, and .txt is a plain-text file, so none of them is a Word document extension; .docx is correct."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cache memory is faster than main memory (RAM).\nReason (R): Cache memory is placed between the CPU and the main memory to speed up access to frequently used data.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: cache memory is faster than RAM, and it is placed between the CPU and main memory to speed up access. Being placed close to the CPU with faster technology is exactly what makes cache faster than main memory, so (R) correctly explains (A). Other options fail because both statements are true and (R) does explain (A)."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "A pixel is the smallest unit of:",
+      "options": [
+        "A processor",
+        "Computer memory",
+        "A network cable",
+        "A digital image"
+      ],
+      "correctAnswer": "A digital image",
+      "explanation": "A pixel is the smallest individual element that makes up a digital image on a screen. Memory is measured in bits and bytes, network cables have physical connectors, and processors are built from transistors, so none of them uses 'pixel' as a unit; a digital image is correct."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An OS manages hardware and software resources.\n(ii) Windows, macOS and Linux are examples of operating systems.\n(iii) Android is an OS for mobile devices.\n(iv) A word processor is an example of an operating system.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "An OS manages resources, Windows/macOS/Linux are operating systems, and Android is a mobile OS, so (i), (ii) and (iii) are true. Statement (iv) is false because a word processor is application software, not an operating system, so any option including (iv) is wrong."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Which of the following is a search engine?",
+      "options": [
+        "Facebook",
+        "Google",
+        "Gmail",
+        "WhatsApp"
+      ],
+      "correctAnswer": "Google",
+      "explanation": "Google is a widely used web search engine. Facebook is a social networking site, Gmail is an email service, and WhatsApp is a messaging app, so none of them is primarily a general web search engine; Google is correct."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "The following table shows storage sizes (in GB) of four laptops:\n\nA — 256\nB — 512\nC — 1024\nD — 128\n\nWhich laptop has the largest storage?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": "C",
+      "explanation": "Laptop C at 1024 GB is the largest, ahead of B at 512 GB, A at 256 GB and D at 128 GB. B is the second largest, not the biggest, while A and D are smaller, so C has the maximum storage."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "The two main types of software are system software and:",
+      "options": [
+        "Application software",
+        "Firmware",
+        "Freeware",
+        "Shareware"
+      ],
+      "correctAnswer": "Application software",
+      "explanation": "The two main categories of computer software are system software (OS, utilities) and application software (end-user programs). Firmware, freeware and shareware are subtypes or licensing categories, not the second main type, so 'application software' is the correct broad category."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Match the following types of memory with their key features:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) Cache\n(d) Hard disk\n\nColumn II:\n(i) Non-volatile primary memory\n(ii) Volatile primary memory\n(iii) Secondary storage\n(iv) Very fast small memory near CPU\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "RAM is volatile primary memory, ROM is non-volatile primary memory, cache is a very fast small memory near the CPU, and a hard disk is secondary storage, giving (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii). The other options swap RAM with ROM or misplace cache, which are technically incorrect."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Which of the following is a mobile operating system?",
+      "options": [
+        "Android",
+        "MS Excel",
+        "Notepad",
+        "WinRAR"
+      ],
+      "correctAnswer": "Android",
+      "explanation": "Android is Google's mobile operating system used on many smartphones and tablets. MS Excel is a spreadsheet app, Notepad is a text editor, and WinRAR is a compression tool, so none of them is a mobile operating system; Android is correct."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Fill in the blank: A __________ is a small text file stored by a website in a user's browser to remember information.",
+      "options": [
+        "Cookie",
+        "Server",
+        "Router",
+        "Cache"
+      ],
+      "correctAnswer": "Cookie",
+      "explanation": "A cookie is a small text file that websites store on the user's browser to remember settings, logins or preferences. A server hosts websites, a router forwards network packets, and a cache stores frequently accessed data, so none of them is that small tracking file; cookie is correct."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a web browser?",
+      "options": [
+        "Chrome",
+        "Firefox",
+        "Edge",
+        "Excel"
+      ],
+      "correctAnswer": "Excel",
+      "explanation": "Chrome, Firefox and Edge are all web browsers used to access the internet. Excel is a spreadsheet application in the Microsoft Office suite, not a browser, so Excel is the correct 'NOT a browser' choice among the four."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Consider the following statements about email:\n\n(i) 'CC' stands for Carbon Copy.\n(ii) 'BCC' stands for Blind Carbon Copy.\n(iii) An email address must include the '@' symbol.\n(iv) An email cannot contain any attachments.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "CC = Carbon Copy, BCC = Blind Carbon Copy, and email addresses use '@', so (i), (ii) and (iii) are true. Statement (iv) is false because emails routinely carry attachments like documents and images, so any option including (iv) is wrong."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): SSDs are generally faster than traditional HDDs.\nReason (R): SSDs use flash memory with no moving parts.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: SSDs are faster than HDDs, and they use flash memory with no moving parts. Not having mechanical moving parts is exactly what makes SSDs faster than the spinning-disk HDDs, so (R) correctly explains (A). Other options fail because both statements are true and (R) does explain (A)."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "The device that converts digital signals to analog signals for transmission over telephone lines and vice versa is called:",
+      "options": [
+        "Router",
+        "Modem",
+        "Switch",
+        "Hub"
+      ],
+      "correctAnswer": "Modem",
+      "explanation": "A modem (modulator-demodulator) converts between analog and digital signals for transmission over phone lines. A router forwards packets, a switch links devices in a LAN, and a hub broadcasts packets, so none of them does the analog-digital conversion; modem is correct."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The main circuit board of a computer that connects all internal components is the:",
+      "options": [
+        "Motherboard",
+        "Sound card",
+        "Graphics card",
+        "Hard disk"
+      ],
+      "correctAnswer": "Motherboard",
+      "explanation": "The motherboard is the primary printed circuit board that hosts the CPU, memory and connectors for other components. Sound and graphics cards are expansion cards for specific functions, and a hard disk is a storage device, so none of them is the main board; motherboard is correct."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer generations:\n\n(i) First-generation computers used vacuum tubes.\n(ii) Second-generation used transistors.\n(iii) Third-generation used integrated circuits.\n(iv) Fifth-generation is entirely mechanical.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "First-generation used vacuum tubes, second-generation used transistors, and third-generation used ICs, so (i), (ii) and (iii) are true. Statement (iv) is false because the fifth generation is based on advanced ICs and AI, not mechanical parts, so any option including (iv) is wrong."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "In binary, the decimal number 8 is written as:",
+      "options": [
+        "1000",
+        "1001",
+        "1010",
+        "1100"
+      ],
+      "correctAnswer": "1000",
+      "explanation": "Decimal 8 in binary is 1000 (place values 8, 4, 2, 1 → 1×8 + 0×4 + 0×2 + 0×1 = 8). Option 1001 = 9, 1010 = 10, and 1100 = 12, so none of them equals 8; only 1000 is the correct binary form of decimal 8."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Match the following devices with their functions:\n\nColumn I:\n(a) Printer\n(b) Scanner\n(c) Speaker\n(d) Microphone\n\nColumn II:\n(i) Captures sound\n(ii) Digitises documents\n(iii) Produces printed output\n(iv) Produces audio output\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "A printer produces printed output, a scanner digitises documents, a speaker produces audio output, and a microphone captures sound, giving (a)-(iii), (b)-(ii), (c)-(iv), (d)-(i). The other options swap speaker with microphone or misplace scanner, which contradict their standard functions."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "A collection of related data organised for easy retrieval is called a:",
+      "options": [
+        "Database",
+        "Spreadsheet",
+        "Slide show",
+        "Document"
+      ],
+      "correctAnswer": "Database",
+      "explanation": "A database is a structured collection of related data organised for easy retrieval and management. A spreadsheet organises data in cells, a slide show presents information, and a document contains text, so none of them fits the general definition; a database is correct."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Which of the following are examples of anti-virus software?\n\n(i) Norton\n(ii) McAfee\n(iii) Photoshop\n(iv) Quick Heal\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Norton, McAfee and Quick Heal are all well-known antivirus programs, so (i), (ii) and (iv) are correct. Photoshop is an image-editing application, not antivirus software, so any option including Photoshop is wrong."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "The physical parts of a computer that can be seen and touched are known as:",
+      "options": [
+        "Software",
+        "Firmware",
+        "Hardware",
+        "Malware"
+      ],
+      "correctAnswer": "Hardware",
+      "explanation": "Hardware refers to the tangible components of a computer such as the CPU, keyboard and monitor. Software is a set of programs (intangible), firmware is embedded software on chips, and malware is malicious software, so hardware is the correct term for physical parts."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 1 kilobyte equals 1024 bytes.\nReason (R): Computer memory sizes are measured in powers of 2.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both statements are true: 1 KB = 1024 bytes, and memory sizes are measured in powers of 2. Since 1024 is 2¹⁰, using powers of 2 is precisely why 1 KB equals 1024 bytes rather than 1000, so (R) correctly explains (A). Other options fail because both statements are true and (R) does explain (A)."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "A network topology in which all devices are connected to a central device (hub or switch) is called:",
+      "options": [
+        "Bus topology",
+        "Ring topology",
+        "Mesh topology",
+        "Star topology"
+      ],
+      "correctAnswer": "Star topology",
+      "explanation": "In a star topology all devices connect to a central hub or switch. A bus topology uses a single cable with drops, a ring topology forms a closed loop, and a mesh topology has multiple interconnections between devices, so none of them centralises around one hub; star topology is correct."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) A LAN typically covers a small area like a single building.\n(ii) A WAN can span large geographical areas.\n(iii) The internet is the biggest example of a WAN.\n(iv) Wi-Fi is a type of wired network.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A LAN covers a small area, a WAN can span large distances, and the internet is a global WAN, so (i), (ii) and (iii) are true. Statement (iv) is false because Wi-Fi is a wireless technology, not a wired one, so any option including (iv) is wrong."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "The following table shows the internet speeds (in Mbps) of four connections:\n\nA — 25\nB — 100\nC — 50\nD — 200\n\nWhich connection has the fastest speed?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": "D",
+      "explanation": "Connection D at 200 Mbps has the highest speed, ahead of B at 100 Mbps, C at 50 Mbps and A at 25 Mbps. B is the second fastest, not the top, while A and C are lower, so D has the maximum speed."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "The keyboard key that moves the cursor several spaces at once is:",
+      "options": [
+        "Tab",
+        "Enter",
+        "Shift",
+        "Backspace"
+      ],
+      "correctAnswer": "Tab",
+      "explanation": "The Tab key moves the cursor by several spaces (usually to the next tab stop). Enter creates a new line, Shift is a modifier, and Backspace deletes the character to the left, so none of them advances by several spaces; Tab is correct."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Which of the following are examples of high-level programming languages?\n\n(i) Java\n(ii) Python\n(iii) Machine code (binary)\n(iv) C\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Java, Python and C are high-level languages that use human-readable syntax and require compilation or interpretation, so (i), (ii) and (iv) are correct. Machine code (binary) is a low-level language directly executed by the CPU, not high-level, so any option including it as high-level is wrong."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "The smallest unit of digital information is:",
+      "options": [
+        "Byte",
+        "Bit",
+        "Nibble",
+        "Word"
+      ],
+      "correctAnswer": "Bit",
+      "explanation": "A bit (binary digit) with value 0 or 1 is the smallest unit of digital information. A byte is 8 bits, a nibble is 4 bits, and a word is typically 16, 32 or 64 bits, all larger than a bit, so the bit is correct."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "Consider the following statements about file management:\n\n(i) Files can be organised into folders (directories).\n(ii) A file has a name and, usually, an extension.\n(iii) Deleted files in Windows may go to the Recycle Bin.\n(iv) A file's extension has no meaning in identifying its type.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Files can be organised into folders, they usually have a name and extension, and deleted files can be sent to the Recycle Bin, so (i), (ii) and (iii) are true. Statement (iv) is false because the extension typically indicates the file type (e.g. .docx, .jpg), so any option including (iv) is wrong."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Match the following file extensions with their file types:\n\nColumn I:\n(a) .mp3\n(b) .jpg\n(c) .mp4\n(d) .html\n\nColumn II:\n(i) Web page\n(ii) Image file\n(iii) Audio file\n(iv) Video file\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": ".mp3 is an audio file, .jpg is an image file, .mp4 is a video file, and .html is a web page, giving (a)-(iii), (b)-(ii), (c)-(iv), (d)-(i). The other options swap audio with video or misplace image with web page, which are wrong file type pairings."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "The person credited with inventing the World Wide Web is:",
+      "options": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Tim Berners-Lee",
+        "Charles Babbage"
+      ],
+      "correctAnswer": "Tim Berners-Lee",
+      "explanation": "Tim Berners-Lee invented the World Wide Web in 1989–91 at CERN. Bill Gates co-founded Microsoft, Steve Jobs co-founded Apple, and Charles Babbage designed early mechanical computers, so none of them invented the WWW; Tim Berners-Lee is correct."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A firewall can be either hardware or software.\nReason (R): A firewall controls the traffic between a private network and an untrusted network like the internet.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: firewalls can be hardware or software, and they control traffic between private and untrusted networks. However, the function of controlling traffic does not by itself explain why firewalls come in both hardware and software forms (that owes to different deployment needs), so (R) does not correctly explain (A)."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "The shortcut key used to select all text in most applications is:",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + A",
+        "Ctrl + Z",
+        "Ctrl + N"
+      ],
+      "correctAnswer": "Ctrl + A",
+      "explanation": "Ctrl + A selects all text or items in most applications. Ctrl + S saves the current document, Ctrl + Z undoes the last action, and Ctrl + N opens a new document, so those do different tasks and Ctrl + A is the correct select-all shortcut."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Which of the following is an example of open-source software?",
+      "options": [
+        "Windows 11",
+        "MS Office",
+        "Linux",
+        "Adobe Photoshop"
+      ],
+      "correctAnswer": "Linux",
+      "explanation": "Linux is a well-known open-source operating system whose source code is publicly available. Windows 11, MS Office and Adobe Photoshop are proprietary commercial products with closed source code, so none of them is open-source; Linux is correct."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "The process of starting up a computer and loading the operating system into memory is called:",
+      "options": [
+        "Booting",
+        "Formatting",
+        "Compiling",
+        "Executing"
+      ],
+      "correctAnswer": "Booting",
+      "explanation": "Booting loads the operating system into main memory and prepares the computer for use. Formatting prepares a disk for storage, compiling translates code, and executing runs programs, so none of them describes the start-up process; booting is correct."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Consider the following statements about the internet:\n\n(i) The internet is a network of networks.\n(ii) A URL uniquely identifies a resource on the web.\n(iii) The 'www' in a URL stands for World Wide Web.\n(iv) The internet has a single central server that controls everything.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The internet is a network of networks, URLs uniquely identify web resources, and 'www' stands for World Wide Web, so (i), (ii) and (iii) are true. Statement (iv) is false because the internet is decentralised with millions of servers, not a single one, so any option including (iv) is wrong."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "Which of the following are cloud storage services?\n\n(i) Google Drive\n(ii) Dropbox\n(iii) OneDrive\n(iv) Notepad\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Google Drive, Dropbox and OneDrive all store files on remote servers accessed over the internet, so they are cloud storage services and (i), (ii) and (iii) are correct. Notepad is a local text editor, not a cloud storage service, so any option including Notepad is wrong."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "The device that acts as an interface between digital computers and analog telephone lines is a:",
+      "options": [
+        "Hub",
+        "Bridge",
+        "Modem",
+        "Switch"
+      ],
+      "correctAnswer": "Modem",
+      "explanation": "A modem converts digital data into analog signals for telephone lines and vice versa. A hub broadcasts data within a LAN, a bridge connects two LAN segments, and a switch forwards data by MAC address within a LAN, so none of them handles analog-digital conversion; modem is correct."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Fill in the blank: __________ is a widely used protocol for transferring web pages between a browser and a server.",
+      "options": [
+        "HTTP",
+        "SMTP",
+        "FTP",
+        "IMAP"
+      ],
+      "correctAnswer": "HTTP",
+      "explanation": "HTTP (HyperText Transfer Protocol) is used to transfer web pages between browsers and servers. SMTP is used for sending email, FTP for transferring files, and IMAP for retrieving email, so none of them is the primary web-page protocol; HTTP is correct."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "The following table shows the number of computers in four offices:\n\nOffice A — 20\nOffice B — 45\nOffice C — 30\nOffice D — 25\n\nWhich office has the fewest computers?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Office A with 20 computers has the fewest, below D at 25, C at 30 and B at 45. D is the second lowest, not the least, while B and C are higher, so A has the minimum number of computers."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "The person credited as the 'father of the computer' for designing the Analytical Engine is:",
+      "options": [
+        "Alan Turing",
+        "Charles Babbage",
+        "John von Neumann",
+        "Ada Lovelace"
+      ],
+      "correctAnswer": "Charles Babbage",
+      "explanation": "Charles Babbage is called the 'father of the computer' for designing the Analytical Engine in the 19th century. Alan Turing is a pioneer of theoretical computing, John von Neumann proposed the stored-program architecture, and Ada Lovelace wrote the first algorithm; none of them designed the Analytical Engine itself."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A byte contains 4 bits.\nReason (R): A bit is a binary digit that can be 0 or 1.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "The reason is true: a bit is a binary digit that can be 0 or 1. However the assertion is false because a byte contains 8 bits, not 4 (4 bits form a nibble). Hence (A) is wrong while (R) is correct; the first two options fail because (A) is false, and the third fails because (R) is true."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "In Windows, the shortcut Alt + F4 is commonly used to:",
+      "options": [
+        "Save a file",
+        "Open a file",
+        "Close the active window",
+        "Refresh the page"
+      ],
+      "correctAnswer": "Close the active window",
+      "explanation": "Alt + F4 closes the active window or application in Windows. Saving uses Ctrl + S, opening uses Ctrl + O, and refreshing typically uses F5, so those perform different tasks; only 'close the active window' correctly describes Alt + F4."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS PowerPoint:\n\n(i) It is used for creating slide presentations.\n(ii) A presentation is a collection of slides.\n(iii) Slides can contain text, images and multimedia.\n(iv) MS PowerPoint is primarily used for editing spreadsheets.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "MS PowerPoint creates slide presentations, a presentation is a collection of slides, and slides can hold text, images and multimedia, so (i), (ii) and (iii) are true. Statement (iv) is false because spreadsheet editing is done in Excel, not PowerPoint, so any option with (iv) is wrong."
+    }
+  ]
+}
