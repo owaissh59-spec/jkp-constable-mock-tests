@@ -1,0 +1,327 @@
+{
+  "subject": "D",
+  "topic": "Rapid mixed revision & weak-area drill — Numerical & Reasoning",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "A can complete a work in 10 days and B can complete the same work in 15 days. If they work together for 4 days, what fraction of the work is left?",
+      "options": ["1/3", "2/3", "1/6", "5/6"],
+      "correctAnswer": "1/3",
+      "explanation": "A's rate = 1/10/day, B's rate = 1/15/day. Combined = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6/day. Work done in 4 days = 4 × 1/6 = 4/6 = 2/3. Work left = 1 – 2/3 = 1/3. '2/3' is wrong — that is the work done, not left. '1/6' is wrong — that is the daily combined rate. '5/6' is wrong — this overstates the remaining work."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about percentages:\n\n(i) 33.33% of 900 = 300.\n(ii) If a price increases from ₹200 to ₹250, the percentage increase is 25%.\n(iii) 12.5% = 1/8.\n(iv) If 40% of students fail, and 480 pass, then total students = 960.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 33.33% × 900 = (1/3) × 900 = 300. (ii) is correct — increase = 50, %increase = 50/200 × 100 = 25%. (iii) is correct — 12.5/100 = 1/8. (iv) is wrong — if 40% fail, 60% pass. 60% × total = 480 → total = 480/0.60 = 800, not 960."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Find the next term in the letter series: A, D, G, J, M, ?",
+      "options": ["P", "O", "N", "Q"],
+      "correctAnswer": "P",
+      "explanation": "Pattern: each letter is +3 positions. A(1), D(4), G(7), J(10), M(13), next = 13+3 = 16 = P. 'O' is wrong — O is position 15, implying +2. 'N' is wrong — N is position 14, implying +1. 'Q' is wrong — Q is position 17, implying +4."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average of first 100 natural numbers is 50.5.\nReason (R): Average of first n natural numbers = (n + 1)/2.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — average of 1 to 100 = (100+1)/2 = 50.5. (R) is correct — sum = n(n+1)/2, average = sum/n = (n+1)/2. (R) directly gives the formula used to get 50.5. Option 2 is wrong because R provides the exact formula. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Match the following with their values:\n\nColumn I:\n(a) 20% of 350\n(b) √(529)\n(c) 4³ – 3³\n(d) LCM of 9 and 15\n\nColumn II:\n(i) 45\n(ii) 23\n(iii) 70\n(iv) 37\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "(a)-(iii): 20% of 350 = 70. (b)-(ii): √529 = 23. (c)-(iv): 4³ – 3³ = 64 – 27 = 37. (d)-(i): LCM of 9 and 15 = 45. The other options incorrectly assign values."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "A train 200 m long crosses a bridge 300 m long in 25 seconds. What is the speed of the train?",
+      "options": ["72 km/h", "60 km/h", "80 km/h", "54 km/h"],
+      "correctAnswer": "72 km/h",
+      "explanation": "Total distance = train + bridge = 200 + 300 = 500 m. Speed = 500/25 = 20 m/s = 20 × 18/5 = 72 km/h. '60 km/h' is wrong — 60 km/h = 16.67 m/s, taking 30 sec. '80 km/h' is wrong — 80 km/h = 22.22 m/s, taking 22.5 sec. '54 km/h' is wrong — 54 km/h = 15 m/s, taking 33.3 sec."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "In a certain code, if STAR is written as TUBS, then MOON will be written as:",
+      "options": ["NPPO", "NPPN", "MOOO", "NPOP"],
+      "correctAnswer": "NPPO",
+      "explanation": "Pattern: each letter +1: S→T, T→U, A→B, R→S. Applying to MOON: M→N, O→P, O→P, N→O = NPPO. 'NPPN' is wrong — the last letter N should become O, not stay as N. 'MOOO' is wrong — this barely shifts any letters. 'NPOP' is wrong — the third letter O should become P, not remain O."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following are properties of a parallelogram?\n\n(i) Opposite sides are equal and parallel.\n(ii) Diagonals bisect each other.\n(iii) All angles are 90°.\n(iv) Opposite angles are equal.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — opposite sides of a parallelogram are equal and parallel. (ii) is correct — diagonals of a parallelogram bisect each other. (iv) is correct — opposite angles are equal. (iii) is wrong — all angles being 90° is a property of a rectangle (a special parallelogram), not all parallelograms."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "A mixture contains milk and water in the ratio 4:1. If 5 litres of water is added, the ratio becomes 4:3. How much milk is in the mixture?",
+      "options": ["10 litres", "8 litres", "12 litres", "15 litres"],
+      "correctAnswer": "10 litres",
+      "explanation": "Let milk = 4x, water = x. After adding 5 litres water: 4x/(x+5) = 4/3. Cross-multiply: 12x = 4x + 20. 8x = 20. x = 2.5. Milk = 4×2.5 = 10 litres. '8 litres' is wrong — this would require x=2, giving ratio 8/7 after addition, not 4/3. '12 litres' is wrong — x=3, after addition: 12/8 = 3/2 ≠ 4/3. '15 litres' is wrong — x=3.75, after addition: 15/8.75 ≠ 4/3."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The exterior angle of a regular hexagon is 60°.\nReason (R): The sum of exterior angles of any convex polygon is always 360°, so each exterior angle of a regular n-gon = 360°/n.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — exterior angle of regular hexagon = 360°/6 = 60°. (R) is correct — sum of exterior angles = 360° for any convex polygon; for regular polygons, each = 360°/n. (R) directly explains (A) with n=6. Option 2 is wrong because R gives the formula. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "If the selling price of 8 articles equals the cost price of 10 articles, what is the profit percentage?",
+      "options": ["25%", "20%", "30%", "15%"],
+      "correctAnswer": "25%",
+      "explanation": "Let CP of 1 article = ₹1. CP of 10 = ₹10 = SP of 8. SP of 1 = 10/8 = ₹1.25. Profit = 0.25. Profit% = 0.25/1 × 100 = 25%. '20%' is wrong — SP would need to be 1.20. '30%' is wrong — SP would need to be 1.30. '15%' is wrong — SP would need to be 1.15."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Consider the following statements about the number 2025:\n\n(i) It is a perfect square (45² = 2025).\n(ii) The sum of its digits is 9.\n(iii) It is divisible by 9.\n(iv) It is a prime number.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 45² = 2025. (ii) is correct — 2+0+2+5 = 9. (iii) is correct — digit sum 9 is divisible by 9, so 2025 is divisible by 9 (2025/9 = 225). (iv) is wrong — 2025 = 45² = 5² × 9² = 5² × 3⁴; it has many factors and is not prime."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "A man invested ₹10,000 at 10% per annum compound interest for 2 years. What is the amount he will receive?",
+      "options": ["₹12,100", "₹12,000", "₹11,000", "₹12,500"],
+      "correctAnswer": "₹12,100",
+      "explanation": "A = P(1+R/100)^n = 10000(1.10)² = 10000 × 1.21 = ₹12,100. '₹12,000' is wrong — this is simple interest amount (10000+2000). '₹11,000' is wrong — this is amount after 1 year only. '₹12,500' is wrong — this would require rate > 10%."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "In a row of children, Mohan is 8th from the left and Sohan is 12th from the right. If they interchange their positions, Mohan becomes 15th from the left. What is the total number of children in the row?",
+      "options": ["26", "25", "24", "27"],
+      "correctAnswer": "26",
+      "explanation": "After interchange, Mohan takes Sohan's position (15th from left). Sohan was 12th from right. Sohan's position from left = total – 12 + 1 = total – 11. This equals 15 (Mohan's new position). So total – 11 = 15 → total = 26. '25' is wrong — total–11=14≠15. '24' is wrong — total–11=13≠15. '27' is wrong — total–11=16≠15."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Fill in the blank: The value of (0.5)³ + (0.3)³ + (0.2)³ is __________.",
+      "options": ["0.160", "0.036", "0.216", "0.152"],
+      "correctAnswer": "0.160",
+      "explanation": "(0.5)³ = 0.125. (0.3)³ = 0.027. (0.2)³ = 0.008. Sum = 0.125 + 0.027 + 0.008 = 0.160. '0.036' is wrong — this is only (0.3)³ + (0.2)³ + something. '0.216' is wrong — this equals (0.6)³. '0.152' is wrong — this miscalculates one of the cubes."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If two angles of a triangle are 50° and 60°, the third angle is 70°.\nReason (R): The sum of all three angles of a triangle is always 180°.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — third angle = 180° – 50° – 60° = 70°. (R) is correct — the angle sum property states all triangle angles sum to 180°. (R) explains (A) because this property is what allows us to calculate the third angle. Option 2 is wrong because R is the rule used. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "A discount of 15% on the marked price of an article gives a selling price of ₹680. What is the marked price?",
+      "options": ["₹800", "₹750", "₹850", "₹720"],
+      "correctAnswer": "₹800",
+      "explanation": "SP = MP × (1 – discount%/100). 680 = MP × 0.85. MP = 680/0.85 = ₹800. '₹750' is wrong — 750 × 0.85 = 637.50 ≠ 680. '₹850' is wrong — 850 × 0.85 = 722.50 ≠ 680. '₹720' is wrong — 720 × 0.85 = 612 ≠ 680."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Match the following with their correct results:\n\nColumn I:\n(a) HCF of 18, 24, 36\n(b) LCM of 4, 6, 8\n(c) 15% of 600\n(d) √(784)\n\nColumn II:\n(i) 90\n(ii) 6\n(iii) 24\n(iv) 28\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "(a)-(ii): HCF of 18, 24, 36 = 6. (b)-(iii): LCM of 4, 6, 8 = 24. (c)-(i): 15% of 600 = 90. (d)-(iv): √784 = 28. The other options incorrectly assign values."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Two pipes can fill a tank in 12 minutes and 18 minutes respectively. A drain pipe can empty the tank in 36 minutes. If all three are opened, how long to fill the tank?",
+      "options": ["9 minutes", "12 minutes", "6 minutes", "15 minutes"],
+      "correctAnswer": "9 minutes",
+      "explanation": "Pipe A rate = 1/12, Pipe B rate = 1/18, Drain rate = –1/36. Net rate = 1/12 + 1/18 – 1/36. LCM = 36: = 3/36 + 2/36 – 1/36 = 4/36 = 1/9. Time = 9 minutes. '12 minutes' is wrong — 1/12 is only A's rate alone. '6 minutes' is wrong — net rate would need to be 1/6. '15 minutes' is wrong — net rate would be 1/15."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Pointing to a photograph, Rajesh says: 'She is the daughter of my grandfather's only son.' How is the person in the photograph related to Rajesh?",
+      "options": ["Sister", "Daughter", "Mother", "Aunt"],
+      "correctAnswer": "Sister",
+      "explanation": "Grandfather's only son = Rajesh's father. Daughter of Rajesh's father = Rajesh's sister. 'Daughter' is wrong — it would be 'daughter of my son', not grandfather's son. 'Mother' is wrong — mother would be 'wife of grandfather's son'. 'Aunt' is wrong — aunt would be 'sister of grandfather's son', but he said 'only son' meaning no siblings."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "What is the value of sin²60° + cos²60°?",
+      "options": ["1", "3/4", "1/2", "√3/2"],
+      "correctAnswer": "1",
+      "explanation": "By the Pythagorean identity: sin²θ + cos²θ = 1 for any angle θ. Verification: sin²60° = (√3/2)² = 3/4. cos²60° = (1/2)² = 1/4. Sum = 3/4 + 1/4 = 1. '3/4' is wrong — this is only sin²60°. '1/2' is wrong — this is cos 60°, not the sum of squares. '√3/2' is wrong — this is sin 60°."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The diagonals of a rhombus bisect each other at right angles.\n(ii) A square is a special case of a rhombus.\n(iii) All sides of a rhombus are equal.\n(iv) The diagonals of a rhombus are always equal.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — rhombus diagonals bisect each other at 90°. (ii) is correct — a square has all sides equal + all angles 90°, making it a special rhombus. (iii) is correct — all four sides of a rhombus are equal by definition. (iv) is wrong — the diagonals of a rhombus are NOT equal (unless it's a square). A rhombus has unequal diagonals in general."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "A car covers the first half of a journey at 40 km/h and the second half at 60 km/h. What is the average speed for the entire journey?",
+      "options": ["48 km/h", "50 km/h", "45 km/h", "52 km/h"],
+      "correctAnswer": "48 km/h",
+      "explanation": "Average speed for equal distances = 2×S₁×S₂/(S₁+S₂) = 2×40×60/(40+60) = 4800/100 = 48 km/h. '50 km/h' is wrong — this is the arithmetic mean of 40 and 60, not the harmonic mean. '45 km/h' is wrong — this doesn't match the harmonic mean formula. '52 km/h' is wrong — overstates the average speed."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): √2 is an irrational number.\nReason (R): An irrational number cannot be expressed as a ratio of two integers (p/q where q ≠ 0).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — √2 is proven to be irrational (its decimal expansion is non-terminating and non-repeating). (R) is correct — this is the definition of an irrational number. (R) explains (A) because √2 cannot be expressed as p/q, which is exactly what makes it irrational. Option 2 is wrong because R defines the property A states. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "The following data shows marks obtained by students in a test:\n\nMarks range → Number of students:\n0–20 → 5\n20–40 → 12\n40–60 → 18\n60–80 → 10\n80–100 → 5\n\nHow many students scored 40 or above?",
+      "options": ["33", "35", "28", "30"],
+      "correctAnswer": "33",
+      "explanation": "Students scoring 40 or above = 40–60 (18) + 60–80 (10) + 80–100 (5) = 33. '35' is wrong — this adds an extra 2 students. '28' is wrong — this only counts 60–80 + 80–100 + some. '30' is wrong — this undercounts by 3."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "If 4x – 7 = 3x + 5, what is the value of x?",
+      "options": ["12", "2", "7", "5"],
+      "correctAnswer": "12",
+      "explanation": "4x – 7 = 3x + 5 → 4x – 3x = 5 + 7 → x = 12. '2' is wrong — 4(2)–7 = 1 ≠ 3(2)+5 = 11. '7' is wrong — 4(7)–7 = 21 ≠ 3(7)+5 = 26. '5' is wrong — 4(5)–7 = 13 ≠ 3(5)+5 = 20."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Match the following reasoning types with their descriptions:\n\nColumn I:\n(a) Blood relation\n(b) Direction sense\n(c) Statement-conclusion\n(d) Coding-decoding\n\nColumn II:\n(i) Determining compass direction after turns\n(ii) Substituting letters/numbers using a rule\n(iii) Inferring family relationships from given data\n(iv) Determining if a conclusion logically follows\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "(a)-(iii): Blood relation problems determine family relationships. (b)-(i): Direction sense problems involve compass directions after turns. (c)-(iv): Statement-conclusion tests whether conclusions logically follow from statements. (d)-(ii): Coding-decoding involves letter/number substitution using a rule. The other options misassign types."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "A person walks 4 km North, then turns right and walks 3 km. He then turns right and walks 4 km. How far is he from his starting point?",
+      "options": ["3 km", "4 km", "5 km", "7 km"],
+      "correctAnswer": "3 km",
+      "explanation": "Starting: walks 4 km North. Turns right (now facing East): walks 3 km East. Turns right (now facing South): walks 4 km South. Net: 4 km North – 4 km South = 0 (back to original N-S line). Net East = 3 km. Distance from start = 3 km. '4 km' is wrong — north-south displacement cancels out. '5 km' is wrong — this would be √(3²+4²) but the N-S displacement is 0. '7 km' is wrong — this adds all distances incorrectly."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Consider the following statements about simple interest:\n\n(i) SI is always calculated on the original principal.\n(ii) SI for 2 years at 10% on ₹5,000 is ₹1,000.\n(iii) Doubling the rate doubles the SI (keeping P and T constant).\n(iv) SI and CI are always equal regardless of time period.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — SI is always calculated on the original principal (unlike CI). (ii) is correct — SI = 5000×10×2/100 = ₹1,000. (iii) is correct — SI = PRT/100; doubling R doubles SI. (iv) is wrong — SI and CI are equal only for 1 year; for more than 1 year, CI > SI."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "What is the smallest number which when divided by 6, 8, and 12 leaves a remainder of 2 in each case?",
+      "options": ["26", "24", "50", "14"],
+      "correctAnswer": "26",
+      "explanation": "LCM of 6, 8, 12 = 24. The number is of the form 24k + 2. Smallest positive value: 24(1) + 2 = 26. Verify: 26÷6 = 4 rem 2 ✓, 26÷8 = 3 rem 2 ✓, 26÷12 = 2 rem 2 ✓. '24' is wrong — 24÷6=4 rem 0, not 2. '50' is wrong — 50÷6=8 rem 2 ✓, 50÷8=6 rem 2 ✓, but 26 is smaller. '14' is wrong — 14÷8=1 rem 6, not 2."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "The curved surface area of a cone with radius 5 cm and slant height 13 cm is: (Use π = 22/7)",
+      "options": ["204.29 cm²", "205.71 cm²", "200 cm²", "210 cm²"],
+      "correctAnswer": "204.29 cm²",
+      "explanation": "CSA of cone = πrl = (22/7) × 5 × 13 = (22 × 65)/7 = 1430/7 = 204.29 cm². '205.71' is wrong — doesn't match (22/7)×5×13. '200 cm²' is wrong — would require a different r or l. '210 cm²' is wrong — would require π×5×13.36."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Fill in the blank: If 7:x = 21:27, then x = __________.",
+      "options": ["9", "7", "11", "13"],
+      "correctAnswer": "9",
+      "explanation": "7/x = 21/27. Cross multiply: 7 × 27 = 21 × x. 189 = 21x. x = 189/21 = 9. '7' is wrong — 7/7 = 1 ≠ 21/27. '11' is wrong — 7/11 ≈ 0.636 ≠ 21/27 ≈ 0.778. '13' is wrong — 7/13 ≈ 0.538 ≠ 21/27."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Two circles with radii 5 cm and 3 cm, having their centres 8 cm apart, touch each other externally.\nReason (R): Two circles touch externally when the distance between their centres equals the sum of their radii.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — distance between centres (8) = sum of radii (5+3=8), so they touch externally. (R) is correct — this is the condition for external tangency. (R) explains (A) because it states the geometric rule that A satisfies. Option 2 is wrong because R is the rule used. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "A person facing North turns 90° clockwise, then 180° anticlockwise. Which direction is he now facing?",
+      "options": ["West", "East", "South", "North"],
+      "correctAnswer": "West",
+      "explanation": "Starting: North (0°). After 90° clockwise: East (90°). After 180° anticlockwise: 90°–180° = –90° = 270° = West. 'East' is wrong — that's the direction after only the first turn. 'South' is wrong — South is 180°, not 270°. 'North' is wrong — North would require 360° total rotation back."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "The data below shows monthly expenditure (in ₹) of a family:\n\nFood → 12,000\nRent → 8,000\nTransport → 4,000\nEducation → 6,000\nMiscellaneous → 5,000\n\nWhat percentage of total expenditure is spent on Food and Rent combined?",
+      "options": ["57.14%", "45.71%", "40%", "60%"],
+      "correctAnswer": "57.14%",
+      "explanation": "Total = 12000+8000+4000+6000+5000 = ₹35,000. Food+Rent = 12000+8000 = ₹20,000. Percentage = (20000/35000)×100 = 57.14%. '45.71%' is wrong — (16000/35000)×100 = 45.71, but Food+Rent=20000. '40%' is wrong — would require 14000/35000. '60%' is wrong — would require 21000/35000."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "If the sides of a triangle are 6 cm, 8 cm, and 10 cm, what type of triangle is it?",
+      "options": ["Right-angled triangle", "Acute-angled triangle", "Obtuse-angled triangle", "Equilateral triangle"],
+      "correctAnswer": "Right-angled triangle",
+      "explanation": "Check: 6² + 8² = 36 + 64 = 100 = 10². Since the square of the longest side equals the sum of squares of the other two, it is a right-angled triangle (Pythagorean triplet 6-8-10). 'Acute-angled' is wrong — in acute triangles, c² < a²+b². 'Obtuse-angled' is wrong — in obtuse triangles, c² > a²+b². 'Equilateral' is wrong — all sides would need to be equal."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Which of the following are correct?\n\n(i) The product of two consecutive even numbers is always divisible by 8.\n(ii) The sum of three consecutive integers is always divisible by 3.\n(iii) The square of any odd number is always odd.\n(iv) The product of any two odd numbers is always even.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — two consecutive even numbers: 2n × (2n+2) = 4n(n+1); since n(n+1) is always even, product is divisible by 8. (ii) is correct — three consecutive integers n+(n+1)+(n+2)=3n+3=3(n+1), always divisible by 3. (iii) is correct — odd × odd = odd, so odd² is odd (e.g., 3²=9, 5²=25). (iv) is wrong — odd × odd = odd, not even (e.g., 3×5=15, 7×9=63)."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "A ladder 10 m long is placed against a wall. If the foot of the ladder is 6 m from the wall, at what height does it touch the wall?",
+      "options": ["8 m", "4 m", "6 m", "10 m"],
+      "correctAnswer": "8 m",
+      "explanation": "Using Pythagoras: height² + 6² = 10². height² = 100 – 36 = 64. height = 8 m. '4 m' is wrong — 4²+6² = 52 ≠ 100. '6 m' is wrong — 6²+6² = 72 ≠ 100. '10 m' is wrong — the ladder itself is 10 m; the height must be less."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the radius of a circle is doubled, its area becomes four times the original.\nReason (R): Area of a circle = πr². When r becomes 2r, area = π(2r)² = 4πr².\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — doubling the radius quadruples the area. (R) is correct — it shows the mathematical proof: π(2r)² = 4πr². (R) explains (A) by demonstrating the calculation. Option 2 is wrong because R proves A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "What is the value of: 999 + 998 + 997 + ... + 990?",
+      "options": ["9,945", "9,990", "9,900", "10,000"],
+      "correctAnswer": "9,945",
+      "explanation": "This is an AP with a=990, d=1, last term=999. Number of terms = 999–990+1 = 10. Sum = n/2 × (first+last) = 10/2 × (990+999) = 5 × 1989 = 9,945. '9,990' is wrong — this would require different terms. '9,900' is wrong — 10 × 990 = 9900 (only if all terms were 990). '10,000' is wrong — 10 × 1000 = 10000 (only if all terms were 1000)."
+    }
+  ]
+}

@@ -487,17 +487,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 172 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ⬜ |
-| 173 | Afternoon | E — Basic Concepts of Computers | Sectional revision — Basic Concepts of Computers | 50 | advanced | Sectional revision | ⬜ |
-| 174 | Late | A — General English | Rapid mixed revision & weak-area drill — General English | 40 | advanced | Rapid revision | ⬜ |
+| 172 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ✅ |
+| 173 | Afternoon | E — Basic Concepts of Computers | Sectional revision — Basic Concepts of Computers | 50 | advanced | Sectional revision | ✅ |
+| 174 | Late | A — General English | Rapid mixed revision & weak-area drill — General English | 40 | advanced | Rapid revision | ✅ |
 
 ### Day 59
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 175 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ⬜ |
-| 176 | Afternoon | B — General Knowledge & Current Affairs (India) | Sectional revision — GK & Current Affairs India | 50 | advanced | Sectional revision | ⬜ |
-| 177 | Late | D — Numerical and Reasoning Ability | Rapid mixed revision & weak-area drill — Numerical & Reasoning | 40 | advanced | Rapid revision | ⬜ |
+| 175 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ✅ |
+| 176 | Afternoon | B — General Knowledge & Current Affairs (India) | Sectional revision — GK & Current Affairs India | 50 | advanced | Sectional revision | ✅ |
+| 177 | Late | D — Numerical and Reasoning Ability | Rapid mixed revision & weak-area drill — Numerical & Reasoning | 40 | advanced | Rapid revision | ✅ |
 
 ### Day 60
 
