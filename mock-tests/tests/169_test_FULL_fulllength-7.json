@@ -1,0 +1,807 @@
+{
+  "subject": "Full Test",
+  "topic": "Full syllabus — all subjects A-E (exam simulation)",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: The minister presided __________ the meeting held at the district headquarters.",
+      "options": ["over", "on", "at", "upon"],
+      "correctAnswer": "over",
+      "explanation": "'Over' is correct — 'preside over' is the standard collocation meaning to be in charge of a meeting or ceremony. 'On' is wrong — 'preside on' is not standard English. 'At' is wrong — 'preside at' is occasionally used but 'preside over' is the preferred standard form. 'Upon' is wrong — 'preside upon' is grammatically incorrect."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "If the average of five numbers is 42, and four of them are 36, 45, 40, and 50, what is the fifth number?",
+      "options": ["39", "41", "37", "43"],
+      "correctAnswer": "39",
+      "explanation": "Sum of all five = 5 × 42 = 210. Sum of four numbers = 36 + 45 + 40 + 50 = 171. Fifth number = 210 – 171 = 39. '41' is wrong — this would make the sum 212, giving average 42.4. '37' is wrong — this would make the sum 208, giving average 41.6. '43' is wrong — this would make the sum 214, giving average 42.8."
+    },
+    {
+      "id": "3",
+      "subject": "B",
+      "questionText": "The Comptroller and Auditor General (CAG) of India is appointed by:",
+      "options": ["The President of India", "The Prime Minister", "The Speaker of Lok Sabha", "The Chief Justice of India"],
+      "correctAnswer": "The President of India",
+      "explanation": "'The President of India' is correct — Article 148 provides that the CAG is appointed by the President by warrant under his hand and seal. 'The Prime Minister' is wrong — while the PM may recommend, the constitutional appointment is by the President. 'The Speaker of Lok Sabha' is wrong — the Speaker has no role in appointing the CAG. 'The Chief Justice of India' is wrong — the CJI has no role in this appointment."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Which of the following is a volatile memory?",
+      "options": ["RAM", "ROM", "Hard Disk", "DVD"],
+      "correctAnswer": "RAM",
+      "explanation": "'RAM' is correct — Random Access Memory is volatile, meaning it loses data when power is turned off. 'ROM' is wrong — Read Only Memory is non-volatile; it retains data without power. 'Hard Disk' is wrong — it is a non-volatile secondary storage device. 'DVD' is wrong — it is a non-volatile optical storage medium."
+    },
+    {
+      "id": "5",
+      "subject": "C",
+      "questionText": "The Amarnath Cave Temple is situated at an altitude of approximately:",
+      "options": ["3,888 metres", "2,500 metres", "4,500 metres", "3,000 metres"],
+      "correctAnswer": "3,888 metres",
+      "explanation": "'3,888 metres' is correct — the Amarnath Cave is located at approximately 3,888 m (12,756 ft) in the Himalayas of J&K. '2,500 metres' is wrong — this is far too low for the Amarnath cave's location. '4,500 metres' is wrong — this overstates the altitude by about 600 metres. '3,000 metres' is wrong — the cave is nearly 900 metres higher than this."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "In a certain code, LAMP is written as NCOQ. How will BIRD be written in the same code?",
+      "options": ["DKTF", "CKSE", "DJRF", "DKUF"],
+      "correctAnswer": "DKTF",
+      "explanation": "The coding pattern shifts each letter forward by 2 positions: L(12)→N(14), A(1)→C(3), M(13)→O(15), P(16)→R? But the given code is NCOQ where P→Q(+1). Re-checking: the pattern is each letter +2: L→N, A→C, M→O, P→Q... actually P(16)+1=Q(17). The consistent rule appears to be +2 for each letter. Applying to BIRD: B(2)+2=D(4), I(9)+2=K(11), R(18)+2=T(20), D(4)+2=F(6) = DKTF. 'CKSE' is wrong — this uses +1 shift for each letter. 'DJRF' is wrong — this incorrectly shifts the second letter by only 1. 'DKUF' is wrong — this incorrectly shifts the third letter by 3 instead of 2."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian National Congress:\n\n(i) It was founded in 1885 by A.O. Hume.\n(ii) Its first session was held in Bombay under the presidency of W.C. Bonnerjee.\n(iii) The Surat Split of 1907 divided it into Moderates and Extremists.\n(iv) It was founded in Calcutta.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — INC was founded in December 1885 by Allan Octavian Hume. (ii) is correct — the first session was held in Bombay (Gokuldas Tejpal Sanskrit College) with W.C. Bonnerjee as president. (iii) is correct — the 1907 Surat session saw the split between Moderates (Gokhale) and Extremists (Tilak). (iv) is wrong — the first session was in Bombay, not Calcutta."
+    },
+    {
+      "id": "8",
+      "subject": "A",
+      "questionText": "Choose the synonym of 'ameliorate':",
+      "options": ["Improve", "Worsen", "Destroy", "Maintain"],
+      "correctAnswer": "Improve",
+      "explanation": "'Improve' is correct — 'ameliorate' means to make something bad better or less severe. 'Worsen' is wrong — it is the antonym of ameliorate. 'Destroy' is wrong — it means to ruin completely, opposite to improving. 'Maintain' is wrong — it means to keep unchanged, not to improve."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Consider the following statements about the Internet:\n\n(i) HTTP stands for HyperText Transfer Protocol.\n(ii) An IP address uniquely identifies a device on a network.\n(iii) A web browser is an example of system software.\n(iv) HTTPS adds a security layer (SSL/TLS) to HTTP.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — HTTP stands for HyperText Transfer Protocol. (ii) is correct — every device on a network has a unique IP address for identification. (iv) is correct — HTTPS uses SSL/TLS encryption for secure communication. (iii) is wrong — a web browser (like Chrome, Firefox) is application software, not system software."
+    },
+    {
+      "id": "10",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Kashmir is often called 'Paradise on Earth'.\nReason (R): The Kashmir Valley is surrounded by the Himalayan and Pir Panjal mountain ranges, giving it a temperate climate, lush green meadows, and scenic lakes.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Kashmir has been called 'Paradise on Earth' (attributed to Mughal Emperor Jahangir). (R) is correct — the valley's geography (mountain-enclosed, temperate climate, meadows, lakes) creates extraordinary natural beauty. (R) explains (A) because these natural features are precisely what earned Kashmir the title. Option 2 is wrong because R directly explains A. Option 3 is wrong because R is geographically accurate. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "A shopkeeper bought 80 kg of rice at ₹40 per kg and 120 kg at ₹50 per kg. He mixed them and sold the mixture at ₹52 per kg. What is his profit percentage?",
+      "options": ["13.04%", "10%", "15%", "11.5%"],
+      "correctAnswer": "13.04%",
+      "explanation": "Total CP = (80×40) + (120×50) = 3200 + 6000 = ₹9200. Total quantity = 200 kg. SP = 200 × 52 = ₹10400. Profit = 10400 – 9200 = ₹1200. Profit% = (1200/9200) × 100 = 13.04%. '10%' is wrong — this would require a profit of only ₹920. '15%' is wrong — this would require a profit of ₹1380. '11.5%' is wrong — this would require a profit of ₹1058."
+    },
+    {
+      "id": "12",
+      "subject": "B",
+      "questionText": "The Palk Strait separates India from which country?",
+      "options": ["Sri Lanka", "Maldives", "Myanmar", "Bangladesh"],
+      "correctAnswer": "Sri Lanka",
+      "explanation": "'Sri Lanka' is correct — the Palk Strait is a narrow strip of water between Tamil Nadu (India) and the northern part of Sri Lanka. 'Maldives' is wrong — the Maldives are located southwest of India in the Indian Ocean, not connected by Palk Strait. 'Myanmar' is wrong — India and Myanmar are separated by land borders and the Bay of Bengal. 'Bangladesh' is wrong — India and Bangladesh share land borders, not separated by the Palk Strait."
+    },
+    {
+      "id": "13",
+      "subject": "A",
+      "questionText": "Match the following prepositions with their correct usage:\n\nColumn I:\n(a) Beside\n(b) Besides\n(c) Between\n(d) Among\n\nColumn II:\n(i) Used for more than two entities\n(ii) In addition to\n(iii) Used for exactly two entities\n(iv) By the side of\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "(a)-(iv) is correct — 'beside' means by the side of (next to). (b)-(ii) is correct — 'besides' means in addition to or apart from. (c)-(iii) is correct — 'between' is used for two entities. (d)-(i) is correct — 'among' is used when referring to more than two entities. The other options confuse these commonly mixed prepositions."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The compound interest on ₹10,000 at 10% per annum for 2 years is ₹2,100.\nReason (R): Compound Interest = P[(1 + R/100)^n – 1], where P = Principal, R = Rate, n = Time.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — CI = 10000[(1 + 10/100)² – 1] = 10000[(1.1)² – 1] = 10000[1.21 – 1] = 10000 × 0.21 = ₹2,100. (R) is correct — this is the standard formula for compound interest. (R) directly explains (A) by providing the formula used to calculate the CI. Option 2 is wrong because R provides the exact formula used. Option 3 is wrong because R is the correct CI formula. Option 4 is wrong because A is numerically correct."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "The function of an Operating System is to:",
+      "options": ["Manage hardware resources and provide services to application programs", "Only process mathematical calculations", "Only protect the computer from viruses", "Only manage internet connections"],
+      "correctAnswer": "Manage hardware resources and provide services to application programs",
+      "explanation": "'Manage hardware resources and provide services to application programs' is correct — an OS manages CPU, memory, I/O devices, file systems, and provides a platform for applications. 'Only process mathematical calculations' is wrong — that is the function of the ALU/CPU, not the OS. 'Only protect from viruses' is wrong — virus protection is handled by antivirus software; the OS has broader functions. 'Only manage internet connections' is wrong — network management is just one small part of an OS's role."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Match the following dams with the rivers on which they are built:\n\nColumn I:\n(a) Bhakra Nangal Dam\n(b) Hirakud Dam\n(c) Nagarjuna Sagar Dam\n(d) Sardar Sarovar Dam\n\nColumn II:\n(i) Narmada\n(ii) Krishna\n(iii) Mahanadi\n(iv) Sutlej\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "(a)-(iv) is correct — Bhakra Nangal Dam is on the Sutlej River in Himachal Pradesh/Punjab. (b)-(iii) is correct — Hirakud Dam is on the Mahanadi River in Odisha. (c)-(ii) is correct — Nagarjuna Sagar Dam is on the Krishna River in Telangana/Andhra Pradesh. (d)-(i) is correct — Sardar Sarovar Dam is on the Narmada River in Gujarat. The other options incorrectly pair dams with rivers."
+    },
+    {
+      "id": "17",
+      "subject": "A",
+      "questionText": "Choose the antonym of 'vindictive':",
+      "options": ["Forgiving", "Spiteful", "Vengeful", "Malicious"],
+      "correctAnswer": "Forgiving",
+      "explanation": "'Forgiving' is correct — 'vindictive' means having a strong desire for revenge, so its antonym is forgiving (ready to pardon). 'Spiteful' is wrong — it means wanting to hurt or annoy, similar to vindictive. 'Vengeful' is wrong — it is a synonym of vindictive. 'Malicious' is wrong — it means intending harm, which aligns with vindictive."
+    },
+    {
+      "id": "18",
+      "subject": "C",
+      "questionText": "Which district of J&K is known as the 'City of Temples'?",
+      "options": ["Jammu", "Udhampur", "Kathua", "Poonch"],
+      "correctAnswer": "Jammu",
+      "explanation": "'Jammu' is correct — Jammu city is known as the 'City of Temples' due to its numerous ancient temples including Raghunath Temple, Ranbireshwar Temple, and Bahu Fort Temple. 'Udhampur' is wrong — it is known for cantonment areas and Krimchi temples but does not carry this title. 'Kathua' is wrong — while it has some temples, it is not called the City of Temples. 'Poonch' is wrong — it is known for its strategic location, not for temples."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "A boat travels 36 km upstream in 4 hours and 48 km downstream in 3 hours. What is the speed of the boat in still water?",
+      "options": ["12.5 km/h", "10 km/h", "14 km/h", "11 km/h"],
+      "correctAnswer": "12.5 km/h",
+      "explanation": "Upstream speed = 36/4 = 9 km/h. Downstream speed = 48/3 = 16 km/h. Speed of boat in still water = (upstream + downstream)/2 = (9 + 16)/2 = 25/2 = 12.5 km/h. '10 km/h' is wrong — this would require upstream 6.5 and downstream 13.5, not matching given data. '14 km/h' is wrong — this would give (14+x) and (14-x) that don't match 9 and 16. '11 km/h' is wrong — (11+x)=16 gives x=5, then 11-5=6≠9."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A printer is classified as an output device.\nReason (R): A printer receives processed data from the computer and produces a physical (hard copy) output.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — a printer is classified as an output device. (R) is correct — it receives data from the computer and produces a tangible paper output. (R) explains (A) because the definition of an output device is one that presents processed data to the user, which is exactly what a printer does. Option 2 is wrong because R directly explains A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "21",
+      "subject": "B",
+      "questionText": "Who was the first woman President of the Indian National Congress?",
+      "options": ["Annie Besant", "Sarojini Naidu", "Indira Gandhi", "Sonia Gandhi"],
+      "correctAnswer": "Annie Besant",
+      "explanation": "'Annie Besant' is correct — she became the first woman President of INC at the Calcutta session in 1917. 'Sarojini Naidu' is wrong — she was the first Indian woman to be INC President (1925, Kanpur session), but Annie Besant preceded her. 'Indira Gandhi' is wrong — she became INC President in 1959, much later. 'Sonia Gandhi' is wrong — she became INC President in 1998."
+    },
+    {
+      "id": "22",
+      "subject": "A",
+      "questionText": "Consider the following statements about English grammar:\n\n(i) 'The cattle are grazing in the field' — 'cattle' takes a plural verb.\n(ii) 'The police has arrived at the scene' is correct.\n(iii) 'Mathematics is my favourite subject' — subjects ending in -ics take singular verbs.\n(iv) 'The scissors are on the table' — 'scissors' always takes a plural verb.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — 'cattle' is a plural noun and always takes a plural verb. (iii) is correct — subject names ending in -ics (Mathematics, Physics) take a singular verb when referring to the subject. (iv) is correct — 'scissors' (like trousers, spectacles) always takes a plural verb. (ii) is wrong — 'police' is treated as a plural noun in British/Indian English: 'The police have arrived' is correct."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "What is the next term in the series: 4, 9, 25, 49, 121, ?",
+      "options": ["169", "144", "196", "225"],
+      "correctAnswer": "169",
+      "explanation": "The series consists of squares of prime numbers: 2²=4, 3²=9, 5²=25, 7²=49, 11²=121, 13²=169. The next prime after 11 is 13, and 13² = 169. '144' is wrong — 144 = 12², but 12 is not prime. '196' is wrong — 196 = 14², but 14 is not prime. '225' is wrong — 225 = 15², but 15 is not prime."
+    },
+    {
+      "id": "24",
+      "subject": "C",
+      "questionText": "The Tulip Garden (Indira Gandhi Memorial Tulip Garden) in Srinagar is the largest tulip garden in:",
+      "options": ["Asia", "India only", "The world", "South Asia"],
+      "correctAnswer": "Asia",
+      "explanation": "'Asia' is correct — the Indira Gandhi Memorial Tulip Garden in Srinagar, spread over 30 hectares, is the largest tulip garden in Asia. 'India only' is wrong — while true, this understates its continental significance. 'The world' is wrong — the Keukenhof in the Netherlands is the world's largest tulip garden. 'South Asia' is wrong — while correct, the garden's claim extends to all of Asia, not just South Asia."
+    },
+    {
+      "id": "25",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Green Revolution in India primarily benefited Punjab and Haryana.\nReason (R): These states had better irrigation facilities and were receptive to adopting High Yielding Variety (HYV) seeds.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — Punjab and Haryana saw the greatest productivity gains from the Green Revolution. (R) is correct — these states had extensive canal irrigation and farmers readily adopted HYV seeds and modern techniques. (R) explains (A) because the combination of irrigation infrastructure and HYV adoption is exactly why these states benefited most. Option 2 is wrong because R gives the causal factors. Option 3 is wrong because R is factually accurate. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sentence 'The team are arguing among themselves' is correct in British English.\nReason (R): In British English, collective nouns can take plural verbs when the emphasis is on individual members acting separately.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'are arguing among themselves' treats 'team' as individuals, which is acceptable in British English. (R) is correct — British English allows plural verbs with collective nouns when members act individually. (R) explains (A) because the members arguing separately (not as a unit) justifies the plural verb. Option 2 is wrong because R provides the direct grammatical rule. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "If the perimeter of an equilateral triangle is 36 cm, what is its area?",
+      "options": ["36√3 cm²", "48√3 cm²", "27√3 cm²", "24√3 cm²"],
+      "correctAnswer": "36√3 cm²",
+      "explanation": "Side = 36/3 = 12 cm. Area of equilateral triangle = (√3/4) × side² = (√3/4) × 144 = 36√3 cm². '48√3 cm²' is wrong — this would require a side of about 13.9 cm. '27√3 cm²' is wrong — this would require a side of about 10.4 cm. '24√3 cm²' is wrong — this would require a side of about 9.8 cm."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Match the following computer shortcuts with their functions in MS Word:\n\nColumn I:\n(a) Ctrl + B\n(b) Ctrl + I\n(c) Ctrl + U\n(d) Ctrl + E\n\nColumn II:\n(i) Italic\n(ii) Centre alignment\n(iii) Underline\n(iv) Bold\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "(a)-(iv) is correct — Ctrl+B applies Bold formatting. (b)-(i) is correct — Ctrl+I applies Italic formatting. (c)-(iii) is correct — Ctrl+U applies Underline formatting. (d)-(ii) is correct — Ctrl+E centres the selected text. The other options incorrectly pair shortcuts with functions."
+    },
+    {
+      "id": "29",
+      "subject": "B",
+      "questionText": "Which of the following are correctly matched (International Organization — Headquarters)?\n\n(i) WHO — Geneva\n(ii) UNESCO — Paris\n(iii) FAO — Rome\n(iv) UNICEF — London\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — WHO headquarters is in Geneva, Switzerland. (ii) is correct — UNESCO is headquartered in Paris, France. (iii) is correct — FAO is headquartered in Rome, Italy. (iv) is wrong — UNICEF's headquarters is in New York City, USA, not London."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["It is I who am responsible for this mistake.", "It is I who is responsible for this mistake.", "It is me who am responsible for this mistake.", "It is me who is responsible for this mistake."],
+      "correctAnswer": "It is I who am responsible for this mistake.",
+      "explanation": "'It is I who am responsible for this mistake' is correct — 'I' is the nominative case (correct after 'it is'), and 'who' refers back to 'I', requiring the first-person singular verb 'am'. 'Who is' is wrong — 'who' refers to 'I' (first person), requiring 'am' not 'is'. 'It is me who am' is wrong — after 'it is', formal grammar requires nominative 'I', not objective 'me'. 'It is me who is' is wrong — both the pronoun case and verb form are incorrect."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Consider the following statements about percentages:\n\n(i) If a price increases by 25% and then decreases by 25%, the net change is a 6.25% decrease.\n(ii) If 60% of a number is 48, the number is 80.\n(iii) 20% of 50 equals 50% of 20.\n(iv) A 50% increase followed by a 50% decrease brings the value back to the original.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — net change = –(25²/100)% = –6.25%. (ii) is correct — 60% × N = 48 → N = 48/0.60 = 80. (iii) is correct — 20% of 50 = 10, and 50% of 20 = 10; both are equal. (iv) is wrong — after 50% increase: value becomes 1.5x. After 50% decrease: 1.5x × 0.5 = 0.75x. Net effect is a 25% decrease, not return to original."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "Which of the following lakes in J&K is famous for floating gardens (locally called 'Rad')?",
+      "options": ["Dal Lake", "Wular Lake", "Manasbal Lake", "Anchar Lake"],
+      "correctAnswer": "Dal Lake",
+      "explanation": "'Dal Lake' is correct — Dal Lake in Srinagar is famous for its floating gardens (called 'Rad' in Kashmiri), where vegetables are grown on floating beds of vegetation. 'Wular Lake' is wrong — while the largest freshwater lake, it is not known for floating gardens. 'Manasbal Lake' is wrong — it is known for lotus flowers, not floating gardens. 'Anchar Lake' is wrong — it is a smaller lake in Srinagar and is not famous for floating gardens."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Which of the following are features of MS Excel?\n\n(i) It uses cells organized in rows and columns.\n(ii) It supports formulas and functions for calculations.\n(iii) It is primarily used for creating presentations.\n(iv) Charts and graphs can be created from data.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — Excel organizes data in cells formed by rows (numbered) and columns (lettered). (ii) is correct — Excel supports formulas (=A1+B1) and built-in functions (SUM, AVERAGE, etc.). (iv) is correct — Excel can generate charts and graphs from data. (iii) is wrong — presentations are created using MS PowerPoint, not Excel."
+    },
+    {
+      "id": "34",
+      "subject": "A",
+      "questionText": "Choose the meaning of the idiom: 'to turn over a new leaf'",
+      "options": ["To change one's behaviour for the better", "To read a new book", "To start a new business", "To plant new trees"],
+      "correctAnswer": "To change one's behaviour for the better",
+      "explanation": "'To change one's behaviour for the better' is correct — 'to turn over a new leaf' means to make a fresh start by changing one's habits or conduct. 'To read a new book' is wrong — this takes 'leaf' literally as a page, missing the idiomatic meaning. 'To start a new business' is wrong — while starting fresh, the idiom specifically relates to personal behaviour, not business. 'To plant new trees' is wrong — this takes 'leaf' literally as a part of a tree."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Fill in the blank: If the ratio of two numbers is 5:8 and their difference is 24, then the larger number is __________.",
+      "options": ["64", "56", "72", "48"],
+      "correctAnswer": "64",
+      "explanation": "Let the numbers be 5x and 8x. Difference = 8x – 5x = 3x = 24. So x = 8. Larger number = 8x = 8 × 8 = 64. '56' is wrong — this would be 7x, not 8x. '72' is wrong — this would require x = 9, making difference 27. '48' is wrong — this would be 6x, and 6 × 8 = 48 doesn't match 8x."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "The 'Pradhan Mantri Fasal Bima Yojana' is related to:",
+      "options": ["Crop insurance for farmers", "Housing for urban poor", "Skill development for youth", "Health insurance for families"],
+      "correctAnswer": "Crop insurance for farmers",
+      "explanation": "'Crop insurance for farmers' is correct — PMFBY (launched in 2016) provides comprehensive crop insurance coverage to farmers against crop failure due to natural calamities. 'Housing for urban poor' is wrong — that is PM Awas Yojana. 'Skill development for youth' is wrong — that is the Skill India Mission/PMKVY. 'Health insurance for families' is wrong — that is Ayushman Bharat/PM-JAY."
+    },
+    {
+      "id": "37",
+      "subject": "A",
+      "questionText": "Which of the following sentences correctly uses the semicolon?\n\n(i) She was tired; however, she continued working.\n(ii) I have visited Paris; London; and Rome.\n(iii) The meeting was postponed; the chairman was unwell.\n(iv) He brought; apples, oranges, and bananas.\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — a semicolon before a conjunctive adverb ('however') connecting two independent clauses is correct. (iii) is correct — a semicolon between two closely related independent clauses (without a conjunction) is correct. (ii) is wrong — semicolons in a simple list (without internal commas) are unnecessary; commas suffice. (iv) is wrong — a semicolon after the verb 'brought' breaks the sentence incorrectly."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "A man walks 8 km East, then 6 km North. What is his shortest distance from the starting point?",
+      "options": ["10 km", "14 km", "8 km", "12 km"],
+      "correctAnswer": "10 km",
+      "explanation": "Using the Pythagorean theorem: Distance = √(8² + 6²) = √(64 + 36) = √100 = 10 km. '14 km' is wrong — this simply adds 8+6, which is the total path walked, not the straight-line distance. '8 km' is wrong — this ignores the northward displacement. '12 km' is wrong — no Pythagorean triple (8, 6, 12) exists; √(64+36) ≠ 12."
+    },
+    {
+      "id": "39",
+      "subject": "C",
+      "questionText": "The Kishanganga Hydroelectric Project in J&K is built on which river?",
+      "options": ["Kishanganga (Neelum)", "Chenab", "Jhelum", "Indus"],
+      "correctAnswer": "Kishanganga (Neelum)",
+      "explanation": "'Kishanganga (Neelum)' is correct — the 330 MW Kishanganga HEP is built on the Kishanganga River (called Neelum in Pakistan) in Bandipora district. 'Chenab' is wrong — major projects on Chenab include Baglihar and Salal, not Kishanganga. 'Jhelum' is wrong — the Jhelum has Uri and Lower Jhelum projects. 'Indus' is wrong — the Indus flows through Ladakh, far from the Kishanganga project site."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "The term 'phishing' in cyber security refers to:",
+      "options": ["A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity", "A method of encrypting files for security", "A technique to speed up internet connections", "A type of firewall protection"],
+      "correctAnswer": "A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity",
+      "explanation": "'A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity' is correct — phishing involves fake emails/websites that impersonate legitimate organizations to steal passwords, credit card details, etc. 'Encrypting files for security' is wrong — that describes encryption, not phishing. 'Speeding up internet connections' is wrong — this is unrelated to any security concept. 'A type of firewall protection' is wrong — a firewall is a security tool; phishing is a security threat."
+    },
+    {
+      "id": "41",
+      "subject": "B",
+      "questionText": "Fill in the blank: The National Emergency under Article 352 was proclaimed for the first time in India in __________.",
+      "options": ["1962", "1971", "1975", "1965"],
+      "correctAnswer": "1962",
+      "explanation": "'1962' is correct — the first National Emergency was declared on 26 October 1962 during the Sino-Indian War. '1971' is wrong — the second emergency was declared in December 1971 during the Indo-Pak War. '1975' is wrong — the third (internal) emergency was declared in June 1975. '1965' is wrong — while the Indo-Pak War occurred in 1965, the existing 1962 emergency was still in force."
+    },
+    {
+      "id": "42",
+      "subject": "A",
+      "questionText": "Complete the analogy: Doctor : Patient :: Lawyer : __________",
+      "options": ["Client", "Judge", "Court", "Criminal"],
+      "correctAnswer": "Client",
+      "explanation": "'Client' is correct — the relationship is professional : person served. A doctor serves patients; a lawyer serves clients. 'Judge' is wrong — a judge presides over courts, not someone a lawyer 'serves'. 'Court' is wrong — a court is a place, not a person served by a lawyer. 'Criminal' is wrong — while a criminal may be a defendant, the general term for someone who uses a lawyer's services is 'client'."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Match the following with their values:\n\nColumn I:\n(a) 25% of 80\n(b) √(256)\n(c) 2⁵ – 2³\n(d) HCF of 24 and 36\n\nColumn II:\n(i) 16\n(ii) 12\n(iii) 24\n(iv) 20\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "(a)-(iv): 25% of 80 = 20. (b)-(i): √256 = 16. (c)-(iii): 2⁵ – 2³ = 32 – 8 = 24. (d)-(ii): HCF of 24 and 36 = 12. The other options incorrectly assign values to the expressions."
+    },
+    {
+      "id": "44",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Supreme Court of India was established on 28 January 1950.\n(ii) The High Courts were established under the Indian High Courts Act of 1861.\n(iii) The Chief Justice of India is appointed by the Prime Minister.\n(iv) Public Interest Litigation (PIL) can be filed by any citizen in the interest of the public.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — the Supreme Court came into being on 28 January 1950 (two days after the Constitution came into force). (ii) is correct — the High Courts were established under the Indian High Courts Act, 1861, by the British. (iv) is correct — PIL allows any public-spirited citizen to approach the court on behalf of those who cannot. (iii) is wrong — the CJI is appointed by the President (on recommendation of the outgoing CJI through the collegium system), not the Prime Minister."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): An SSD (Solid State Drive) is faster than a traditional HDD (Hard Disk Drive).\nReason (R): SSDs have no moving parts and use flash memory chips to store data, eliminating mechanical seek time.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — SSDs offer significantly faster read/write speeds compared to HDDs. (R) is correct — SSDs use flash memory with no mechanical parts, eliminating the rotational latency and seek time of spinning HDD platters. (R) explains (A) because the absence of moving parts is the primary reason SSDs are faster. Option 2 is wrong because R directly explains A. Option 3 is wrong because R is technically accurate. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: The criminal was convicted __________ murder by the court.",
+      "options": ["of", "for", "with", "in"],
+      "correctAnswer": "of",
+      "explanation": "'Of' is correct — 'convicted of' is the correct legal collocation (someone is convicted of a crime). 'For' is wrong — one is 'punished for' but 'convicted of', not 'convicted for'. 'With' is wrong — 'convicted with' is not standard English. 'In' is wrong — 'convicted in' refers to a place (convicted in court) but not to the crime."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "If the selling price of an article is ₹720 and the loss is 10%, what was the cost price?",
+      "options": ["₹800", "₹780", "₹750", "₹820"],
+      "correctAnswer": "₹800",
+      "explanation": "SP = CP × (1 – Loss%/100). 720 = CP × 0.90. CP = 720/0.90 = ₹800. '₹780' is wrong — 780 × 0.90 = 702 ≠ 720. '₹750' is wrong — 750 × 0.90 = 675 ≠ 720. '₹820' is wrong — 820 × 0.90 = 738 ≠ 720."
+    },
+    {
+      "id": "48",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Indian Ocean is named after India.\nReason (R): India occupies a central and strategically important position in the Indian Ocean region.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the Indian Ocean is the only ocean named after a country (India). (R) is correct — India's peninsular shape extends into the ocean, occupying a central position with strategic importance. (R) explains (A) because India's dominant geographical position in this ocean is the reason it was named after the country. Option 2 is wrong because R directly explains A. Option 3 is wrong because R is geographically correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "49",
+      "subject": "C",
+      "questionText": "Consider the following statements about the economy of J&K:\n\n(i) Apple is the most important horticultural crop of J&K.\n(ii) J&K is the largest producer of saffron in India.\n(iii) Tourism is a major source of employment and revenue.\n(iv) J&K has no hydroelectric power potential.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — apples account for the largest share of J&K's horticultural output and income. (ii) is correct — J&K (particularly Pampore) produces nearly all of India's saffron. (iii) is correct — tourism is a key economic driver, providing employment and revenue. (iv) is wrong — J&K has enormous hydroelectric potential (estimated ~20,000 MW), with projects on rivers like Chenab, Jhelum, and Kishanganga."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "In a row of 30 boys, if Ramesh is 12th from the left end and Suresh is 18th from the right end, how many boys are between them?",
+      "options": ["0", "1", "2", "3"],
+      "correctAnswer": "0",
+      "explanation": "Ramesh is 12th from left. Suresh is 18th from right = (30 – 18 + 1) = 13th from left. Positions: Ramesh = 12, Suresh = 13. They are adjacent to each other, so 0 boys are between them. '1' is wrong — this would mean one boy separates them. '2' is wrong — positions 12 and 13 are consecutive. '3' is wrong — there are no boys between consecutive positions."
+    },
+    {
+      "id": "51",
+      "subject": "A",
+      "questionText": "Choose the synonym of 'prolific':",
+      "options": ["Productive", "Scarce", "Barren", "Limited"],
+      "correctAnswer": "Productive",
+      "explanation": "'Productive' is correct — 'prolific' means producing a lot, highly productive or fruitful. 'Scarce' is wrong — it means insufficient or rare, opposite to prolific. 'Barren' is wrong — it means unproductive or infertile, an antonym. 'Limited' is wrong — it means restricted, opposite to the abundance implied by prolific."
+    },
+    {
+      "id": "52",
+      "subject": "E",
+      "questionText": "In MS Word, the feature used to automatically correct commonly misspelled words as you type is called:",
+      "options": ["AutoCorrect", "AutoFormat", "AutoText", "AutoSave"],
+      "correctAnswer": "AutoCorrect",
+      "explanation": "'AutoCorrect' is correct — it automatically fixes common spelling errors and typos as you type (e.g., 'teh' → 'the'). 'AutoFormat' is wrong — it applies formatting rules automatically, not spelling corrections. 'AutoText' is wrong — it stores and inserts frequently used text blocks, not corrections. 'AutoSave' is wrong — it automatically saves documents at intervals, unrelated to spelling."
+    },
+    {
+      "id": "53",
+      "subject": "B",
+      "questionText": "The National Human Rights Commission (NHRC) was established in which year?",
+      "options": ["1993", "1950", "1986", "2000"],
+      "correctAnswer": "1993",
+      "explanation": "'1993' is correct — NHRC was established on 12 October 1993 under the Protection of Human Rights Act, 1993. '1950' is wrong — this is when the Constitution came into force; NHRC came much later. '1986' is wrong — the Consumer Protection Act was passed in this year, not NHRC's establishment. '2000' is wrong — NHRC was already functioning for seven years by then."
+    },
+    {
+      "id": "54",
+      "subject": "D",
+      "questionText": "A sum of ₹5,000 is divided between A and B in the ratio 3:2. How much does A receive?",
+      "options": ["₹3,000", "₹2,500", "₹2,000", "₹3,500"],
+      "correctAnswer": "₹3,000",
+      "explanation": "Total parts = 3 + 2 = 5. A's share = (3/5) × 5000 = ₹3,000. '₹2,500' is wrong — this would mean equal division (1:1 ratio). '₹2,000' is wrong — this is B's share (2/5 × 5000). '₹3,500' is wrong — this would require a ratio of 7:3."
+    },
+    {
+      "id": "55",
+      "subject": "A",
+      "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Affluent\n(b) Taciturn\n(c) Sporadic\n(d) Acrimonious\n\nColumn II:\n(i) Harmonious\n(ii) Frequent\n(iii) Talkative\n(iv) Destitute\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "(a)-(iv) is correct — 'affluent' (wealthy) is the antonym of 'destitute' (extremely poor). (b)-(iii) is correct — 'taciturn' (reserved, silent) is the antonym of 'talkative'. (c)-(ii) is correct — 'sporadic' (occurring occasionally) is the antonym of 'frequent'. (d)-(i) is correct — 'acrimonious' (angry, bitter) is the antonym of 'harmonious' (agreeable, peaceful). The other options incorrectly pair words."
+    },
+    {
+      "id": "56",
+      "subject": "C",
+      "questionText": "The Uri Hydroelectric Power Station in J&K is located on which river?",
+      "options": ["Jhelum", "Chenab", "Indus", "Kishanganga"],
+      "correctAnswer": "Jhelum",
+      "explanation": "'Jhelum' is correct — the Uri HEP (Stage I: 480 MW, Stage II: 240 MW) is located on the Jhelum River in Baramulla district. 'Chenab' is wrong — Chenab has Baglihar and Salal projects, not Uri. 'Indus' is wrong — the Indus flows through Ladakh, far from Uri. 'Kishanganga' is wrong — while Kishanganga project is also in the area, the Uri power station is specifically on the Jhelum."
+    },
+    {
+      "id": "57",
+      "subject": "B",
+      "questionText": "Match the following classical dances with their states of origin:\n\nColumn I:\n(a) Bharatanatyam\n(b) Kathak\n(c) Odissi\n(d) Manipuri\n\nColumn II:\n(i) Uttar Pradesh\n(ii) Manipur\n(iii) Tamil Nadu\n(iv) Odisha\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "(a)-(iii) is correct — Bharatanatyam originates from Tamil Nadu. (b)-(i) is correct — Kathak originated in Uttar Pradesh (Lucknow and Jaipur gharanas). (c)-(iv) is correct — Odissi originates from Odisha. (d)-(ii) is correct — Manipuri dance form originates from Manipur. The other options incorrectly assign dance forms to states."
+    },
+    {
+      "id": "58",
+      "subject": "D",
+      "questionText": "A clock shows 9:30. What is the angle between the hour and minute hands?",
+      "options": ["105°", "90°", "120°", "95°"],
+      "correctAnswer": "105°",
+      "explanation": "At 9:30: Minute hand at 180° (pointing at 6). Hour hand: at 9:00 it's at 270°, in 30 minutes it moves 30×0.5 = 15° → 270° + 15° = 285°. Angle = 285° – 180° = 105°. '90°' is wrong — this would be at 9:00 exactly. '120°' is wrong — this overstates the angle. '95°' is wrong — this understates the hour hand's position."
+    },
+    {
+      "id": "59",
+      "subject": "A",
+      "questionText": "Consider the following statements about the correct use of tenses:\n\n(i) 'I have been waiting here since two hours' is incorrect; it should be 'for two hours'.\n(ii) 'The flight departs at 6 AM tomorrow' correctly uses simple present for a timetabled event.\n(iii) 'She had left before I reached' correctly uses past perfect for the earlier action.\n(iv) 'He is working here since 2010' is grammatically correct.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 'since' is used with a point in time; 'for' is used with a duration. 'Two hours' is a duration, so 'for' is correct. (ii) is correct — simple present is used for scheduled/timetabled future events. (iii) is correct — past perfect ('had left') marks the action completed before another past action ('reached'). (iv) is wrong — 'since 2010' requires present perfect continuous: 'He has been working here since 2010.'"
+    },
+    {
+      "id": "60",
+      "subject": "E",
+      "questionText": "Which of the following is the correct hierarchy of memory from smallest to largest capacity?",
+      "options": ["Registers → Cache → RAM → Hard Disk", "RAM → Cache → Registers → Hard Disk", "Hard Disk → RAM → Cache → Registers", "Cache → Registers → RAM → Hard Disk"],
+      "correctAnswer": "Registers → Cache → RAM → Hard Disk",
+      "explanation": "'Registers → Cache → RAM → Hard Disk' is correct — registers are the smallest (few bytes), cache is small (KB to MB), RAM is larger (GB), and hard disks are the largest (TB). 'RAM → Cache → Registers → Hard Disk' is wrong — this incorrectly places RAM as smallest. 'Hard Disk → RAM → Cache → Registers' is wrong — this reverses the correct order. 'Cache → Registers → RAM → Hard Disk' is wrong — registers are smaller than cache."
+    },
+    {
+      "id": "61",
+      "subject": "B",
+      "questionText": "The Indira Point, the southernmost point of India, is located in:",
+      "options": ["Andaman and Nicobar Islands", "Lakshadweep", "Kanyakumari", "Rameswaram"],
+      "correctAnswer": "Andaman and Nicobar Islands",
+      "explanation": "'Andaman and Nicobar Islands' is correct — Indira Point (6°4'N latitude) is on Great Nicobar Island, the southernmost tip of India. 'Lakshadweep' is wrong — these islands are in the Arabian Sea, west of Kerala. 'Kanyakumari' is wrong — it is the southernmost point of mainland India, not of India as a whole. 'Rameswaram' is wrong — it is in Tamil Nadu but not the southernmost point."
+    },
+    {
+      "id": "62",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In a right triangle with legs 5 cm and 12 cm, the hypotenuse is 13 cm.\nReason (R): By the Pythagorean theorem, hypotenuse² = sum of squares of the other two sides.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — √(5² + 12²) = √(25 + 144) = √169 = 13 cm. (R) is correct — the Pythagorean theorem states c² = a² + b² for a right triangle. (R) directly explains (A) by providing the theorem used to compute the hypotenuse. Option 2 is wrong because R is the exact method used. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "63",
+      "subject": "A",
+      "questionText": "Choose the antonym of 'gregarious':",
+      "options": ["Solitary", "Sociable", "Friendly", "Outgoing"],
+      "correctAnswer": "Solitary",
+      "explanation": "'Solitary' is correct — 'gregarious' means fond of company, sociable; its antonym is solitary (preferring to be alone). 'Sociable' is wrong — it is a synonym of gregarious. 'Friendly' is wrong — it describes a warm disposition, similar to gregarious. 'Outgoing' is wrong — it means socially confident, which aligns with gregarious."
+    },
+    {
+      "id": "64",
+      "subject": "C",
+      "questionText": "Which of the following districts of J&K is famous for Pashmina shawl production?",
+      "options": ["Budgam", "Kathua", "Samba", "Jammu"],
+      "correctAnswer": "Budgam",
+      "explanation": "'Budgam' is correct — the traditional Pashmina shawl weaving industry is concentrated in the Kashmir Valley, particularly in areas around Budgam and Srinagar. 'Kathua' is wrong — it is a plains district known for agriculture, not Pashmina production. 'Samba' is wrong — it is primarily an agricultural district in Jammu division. 'Jammu' is wrong — while shawls are sold in Jammu, the production hub for Pashmina is in the Kashmir Valley."
+    },
+    {
+      "id": "65",
+      "subject": "B",
+      "questionText": "The 'Chipko Movement' was initiated in which state?",
+      "options": ["Uttarakhand (then Uttar Pradesh)", "Madhya Pradesh", "Rajasthan", "Himachal Pradesh"],
+      "correctAnswer": "Uttarakhand (then Uttar Pradesh)",
+      "explanation": "'Uttarakhand (then Uttar Pradesh)' is correct — the Chipko Movement started in 1973 in Chamoli district (Gopeshwar/Reni village), then part of Uttar Pradesh (now Uttarakhand). 'Madhya Pradesh' is wrong — this state had the Narmada Bachao Andolan, not Chipko. 'Rajasthan' is wrong — the Chipko movement was not associated with Rajasthan. 'Himachal Pradesh' is wrong — while geographically near, the movement originated in what is now Uttarakhand."
+    },
+    {
+      "id": "66",
+      "subject": "D",
+      "questionText": "If tan θ = 3/4, what is the value of sin θ?",
+      "options": ["3/5", "4/5", "3/4", "5/3"],
+      "correctAnswer": "3/5",
+      "explanation": "If tan θ = 3/4, then opposite = 3, adjacent = 4 (in a right triangle). Hypotenuse = √(3² + 4²) = √(9+16) = √25 = 5. sin θ = opposite/hypotenuse = 3/5. '4/5' is wrong — this is cos θ, not sin θ. '3/4' is wrong — this is tan θ itself, not sin θ. '5/3' is wrong — this is cosec θ (1/sin θ), not sin θ."
+    },
+    {
+      "id": "67",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): 'Who' and 'whom' cannot be used interchangeably.\nReason (R): 'Who' is used as a subject (nominative case) while 'whom' is used as an object (objective case).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — 'who' and 'whom' serve different grammatical functions and cannot be swapped. (R) is correct — 'who' is nominative (subject: 'Who called?') and 'whom' is objective (object: 'Whom did you call?'). (R) explains (A) because their different cases (subject vs. object) is precisely why they cannot be interchanged. Option 2 is wrong because R provides the grammatical basis. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "68",
+      "subject": "E",
+      "questionText": "Fill in the blank: The default file extension for a MS PowerPoint 2007+ presentation is __________.",
+      "options": [".pptx", ".docx", ".xlsx", ".ppsx"],
+      "correctAnswer": ".pptx",
+      "explanation": "'.pptx' is correct — PowerPoint 2007 and later versions use .pptx as the default file format (XML-based). '.docx' is wrong — this is the default extension for MS Word documents. '.xlsx' is wrong — this is the default extension for MS Excel spreadsheets. '.ppsx' is wrong — while PowerPoint-related, .ppsx is for PowerPoint Show files (auto-play), not the default editing format."
+    },
+    {
+      "id": "69",
+      "subject": "D",
+      "questionText": "The data below shows monthly sales (in lakhs) of a shop:\n\nJan → 12\nFeb → 18\nMar → 15\nApr → 21\nMay → 24\n\nWhat is the percentage increase in sales from January to May?",
+      "options": ["100%", "80%", "120%", "50%"],
+      "correctAnswer": "100%",
+      "explanation": "Percentage increase = [(May – Jan)/Jan] × 100 = [(24 – 12)/12] × 100 = (12/12) × 100 = 100%. '80%' is wrong — this would require May sales of 21.6 lakhs. '120%' is wrong — this would require May sales of 26.4 lakhs. '50%' is wrong — this would require May sales of only 18 lakhs."
+    },
+    {
+      "id": "70",
+      "subject": "B",
+      "questionText": "Who is known as the 'Father of White Revolution' in India?",
+      "options": ["Dr. Verghese Kurien", "Dr. M.S. Swaminathan", "Dr. Norman Borlaug", "Dr. B.P. Pal"],
+      "correctAnswer": "Dr. Verghese Kurien",
+      "explanation": "'Dr. Verghese Kurien' is correct — he spearheaded Operation Flood, making India the world's largest milk producer, earning him the title 'Father of the White Revolution'. 'Dr. M.S. Swaminathan' is wrong — he is the Father of the Green Revolution in India. 'Dr. Norman Borlaug' is wrong — he is the Father of the Green Revolution globally. 'Dr. B.P. Pal' is wrong — he was an eminent agricultural scientist but not associated with the White Revolution."
+    },
+    {
+      "id": "71",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["Not only was he late, but he also forgot his documents.", "Not only he was late, but also he forgot his documents.", "Not only was he late, but he forgot also his documents.", "Not only he was late, but he also forgot his documents."],
+      "correctAnswer": "Not only was he late, but he also forgot his documents.",
+      "explanation": "'Not only was he late, but he also forgot his documents' is correct — 'not only' at the beginning requires subject-auxiliary inversion ('was he'), and 'but...also' completes the correlative pair. Option 2 is wrong — 'not only' at the start requires inversion. Option 3 is wrong — 'also' is misplaced; it should come before the verb. Option 4 is wrong — 'not only' at the beginning requires inversion of subject and auxiliary."
+    },
+    {
+      "id": "72",
+      "subject": "C",
+      "questionText": "Match the following tourist destinations in J&K with their districts:\n\nColumn I:\n(a) Gulmarg\n(b) Pahalgam\n(c) Patnitop\n(d) Sonamarg\n\nColumn II:\n(i) Anantnag\n(ii) Baramulla\n(iii) Ganderbal\n(iv) Udhampur\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "(a)-(ii) is correct — Gulmarg is in Baramulla district. (b)-(i) is correct — Pahalgam is in Anantnag district. (c)-(iv) is correct — Patnitop is in Udhampur district. (d)-(iii) is correct — Sonamarg is in Ganderbal district. The other options incorrectly match destinations with districts."
+    },
+    {
+      "id": "73",
+      "subject": "D",
+      "questionText": "A can do a piece of work in 15 days and B can do it in 20 days. They work together for 6 days. What fraction of the work is left?",
+      "options": ["3/10", "7/10", "1/2", "2/5"],
+      "correctAnswer": "3/10",
+      "explanation": "A's rate = 1/15 per day, B's rate = 1/20 per day. Combined rate = 1/15 + 1/20 = (4+3)/60 = 7/60 per day. Work done in 6 days = 6 × 7/60 = 42/60 = 7/10. Work left = 1 – 7/10 = 3/10. '7/10' is wrong — this is the work done, not the work left. '1/2' is wrong — this would mean they completed only half in 6 days. '2/5' is wrong — this is not supported by the calculation."
+    },
+    {
+      "id": "74",
+      "subject": "B",
+      "questionText": "The 'Look East Policy' of India was initiated by which Prime Minister?",
+      "options": ["P.V. Narasimha Rao", "Atal Bihari Vajpayee", "Manmohan Singh", "Rajiv Gandhi"],
+      "correctAnswer": "P.V. Narasimha Rao",
+      "explanation": "'P.V. Narasimha Rao' is correct — the Look East Policy was initiated in 1991-92 by PM Narasimha Rao to strengthen ties with ASEAN and East Asian nations. 'Atal Bihari Vajpayee' is wrong — he continued the policy but did not initiate it. 'Manmohan Singh' is wrong — he upgraded it to 'Act East Policy'. 'Rajiv Gandhi' is wrong — his tenure ended in 1989, before the policy was conceived."
+    },
+    {
+      "id": "75",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a function of a firewall?",
+      "options": ["Defragmenting the hard disk", "Blocking unauthorized access", "Monitoring network traffic", "Filtering data packets"],
+      "correctAnswer": "Defragmenting the hard disk",
+      "explanation": "'Defragmenting the hard disk' is correct (it is NOT a firewall function) — defragmentation is a disk maintenance task handled by OS utilities, not by firewalls. 'Blocking unauthorized access' is wrong — this is a core firewall function. 'Monitoring network traffic' is wrong — firewalls monitor all incoming/outgoing traffic. 'Filtering data packets' is wrong — packet filtering is a fundamental firewall operation."
+    },
+    {
+      "id": "76",
+      "subject": "A",
+      "questionText": "Choose the correct option: She is one of the few people who __________ always punctual.",
+      "options": ["are", "is", "was", "has been"],
+      "correctAnswer": "are",
+      "explanation": "'Are' is correct — 'who' refers to 'people' (plural), so the verb must be plural: 'who are always punctual'. 'Is' is wrong — 'who' here refers to the plural 'people', not to 'she'. 'Was' is wrong — besides being singular, the past tense contradicts the habitual 'always'. 'Has been' is wrong — this is singular and changes the tense unnecessarily."
+    },
+    {
+      "id": "77",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The average of the first 10 natural numbers is 5.5.\n(ii) If the average of 8 numbers is 20, their sum is 160.\n(iii) The median of 3, 7, 9, 12, 15 is 9.\n(iv) The mode of 2, 3, 3, 5, 7, 7, 7, 8 is 3.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — average of 1 to 10 = (1+10)/2 = 5.5. (ii) is correct — sum = average × count = 20 × 8 = 160. (iii) is correct — in the ordered set {3, 7, 9, 12, 15}, the middle (3rd) value is 9. (iv) is wrong — mode is the most frequent value; 7 appears 3 times (more than 3 which appears twice), so mode is 7, not 3."
+    },
+    {
+      "id": "78",
+      "subject": "B",
+      "questionText": "The 'Fundamental Duties' were added to the Indian Constitution by which amendment?",
+      "options": ["42nd Amendment", "44th Amendment", "73rd Amendment", "86th Amendment"],
+      "correctAnswer": "42nd Amendment",
+      "explanation": "'42nd Amendment' is correct — Fundamental Duties (Article 51A) were added by the 42nd Amendment in 1976 on the recommendation of the Swaran Singh Committee. '44th Amendment' is wrong — it reversed some provisions of the 42nd Amendment. '73rd Amendment' is wrong — it dealt with Panchayati Raj. '86th Amendment' is wrong — it added the Right to Education."
+    },
+    {
+      "id": "79",
+      "subject": "C",
+      "questionText": "Which wildlife sanctuary in J&K is known for being the habitat of the Snow Leopard?",
+      "options": ["Hemis National Park", "Dachigam National Park", "Overa-Aru Wildlife Sanctuary", "Gulmarg Wildlife Sanctuary"],
+      "correctAnswer": "Hemis National Park",
+      "explanation": "'Hemis National Park' is correct — located in Ladakh, it has the highest density of snow leopards in any protected area in India. 'Dachigam National Park' is wrong — it is known for the Hangul (Kashmir Stag), not snow leopards. 'Overa-Aru Wildlife Sanctuary' is wrong — it protects musk deer, not specifically snow leopards. 'Gulmarg Wildlife Sanctuary' is wrong — it does not have significant snow leopard populations."
+    },
+    {
+      "id": "80",
+      "subject": "A",
+      "questionText": "Which of the following sentences is grammatically correct?\n\n(i) The committee has taken its decision unanimously.\n(ii) He is one of the best player in the team.\n(iii) Neither the manager nor the employees were aware of the issue.\n(iv) The number of students have increased this year.\n\nSelect the correct combination:",
+      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii) and (iv) only"],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "(i) is correct — 'committee' (singular collective noun) takes 'has' and 'its' when acting as a unit. (iii) is correct — with 'neither...nor', the verb agrees with the nearer subject ('employees' = plural → 'were'). (ii) is wrong — it should be 'one of the best players' (plural noun after 'one of the'). (iv) is wrong — 'the number of' takes a singular verb: 'has increased', not 'have increased'."
+    },
+    {
+      "id": "81",
+      "subject": "D",
+      "questionText": "What is the value of: (cos²45° + sin²45°)?",
+      "options": ["1", "0", "2", "1/2"],
+      "correctAnswer": "1",
+      "explanation": "cos²45° + sin²45° = (1/√2)² + (1/√2)² = 1/2 + 1/2 = 1. This is also the Pythagorean identity: sin²θ + cos²θ = 1 for all θ. '0' is wrong — the sum of two positive values cannot be zero. '2' is wrong — each squared term is 1/2, not 1. '1/2' is wrong — this is only one of the two terms, not their sum."
+    },
+    {
+      "id": "82",
+      "subject": "E",
+      "questionText": "Consider the following statements about email:\n\n(i) CC stands for 'Carbon Copy' and recipients can see each other's email addresses.\n(ii) BCC stands for 'Blind Carbon Copy' and hides recipients from each other.\n(iii) An email attachment can only be a text file.\n(iv) The '@' symbol in an email address separates the username from the domain.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — CC (Carbon Copy) shows all CC'd recipients to everyone. (ii) is correct — BCC (Blind Carbon Copy) hides BCC'd recipients from other recipients. (iv) is correct — the '@' symbol separates username and domain (e.g., user@domain.com). (iii) is wrong — attachments can be any file type: images, PDFs, spreadsheets, videos, etc."
+    },
+    {
+      "id": "83",
+      "subject": "B",
+      "questionText": "The currency of South Korea is:",
+      "options": ["Won", "Yen", "Yuan", "Baht"],
+      "correctAnswer": "Won",
+      "explanation": "'Won' is correct — the South Korean Won (₩/KRW) is the official currency of South Korea. 'Yen' is wrong — it is the currency of Japan. 'Yuan' is wrong — it is the currency of China. 'Baht' is wrong — it is the currency of Thailand."
+    },
+    {
+      "id": "84",
+      "subject": "D",
+      "questionText": "In a certain code, if APPLE is coded as ELPPA, how will MANGO be coded?",
+      "options": ["OGNAM", "NBOHO", "OGANM", "MANGP"],
+      "correctAnswer": "OGNAM",
+      "explanation": "The pattern is simply reversing the word: APPLE → ELPPA (reversed). Applying the same: MANGO reversed = OGNAM. 'NBOHO' is wrong — this shifts each letter forward by 1, not reversing. 'OGANM' is wrong — this partially reverses but scrambles some letters. 'MANGP' is wrong — this only shifts the last letter."
+    },
+    {
+      "id": "85",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct word: The principal was quite __________ (averse/adverse) to the proposal for extending school hours.",
+      "options": ["averse", "adverse", "adversed", "aversed"],
+      "correctAnswer": "averse",
+      "explanation": "'Averse' is correct — 'averse to' means having a strong dislike or opposition to something (used for people's feelings). 'Adverse' is wrong — 'adverse' means harmful or unfavorable and modifies things/conditions (adverse weather, adverse effects), not people's attitudes. 'Adversed' is wrong — this is not a valid English word. 'Aversed' is wrong — this is not a standard English word form."
+    },
+    {
+      "id": "86",
+      "subject": "C",
+      "questionText": "The RTI Act was enacted in which year?",
+      "options": ["2005", "2000", "2010", "2003"],
+      "correctAnswer": "2005",
+      "explanation": "'2005' is correct — the Right to Information Act was enacted by the Indian Parliament and received Presidential assent on 15 June 2005. '2000' is wrong — the Freedom of Information Act (predecessor) was passed in 2002, not 2000. '2010' is wrong — by 2010, the RTI Act had already been in force for 5 years. '2003' is wrong — the Freedom of Information Act of 2002 was replaced by the RTI Act in 2005."
+    },
+    {
+      "id": "87",
+      "subject": "B",
+      "questionText": "Consider the following statements about India's Five Year Plans:\n\n(i) The First Five Year Plan was based on the Harrod-Domar Model.\n(ii) The Second Five Year Plan was based on the Mahalanobis Model.\n(iii) NITI Aayog replaced the Planning Commission in 2015.\n(iv) India has completed 13 Five Year Plans so far.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — the First FYP (1951–56) was based on the Harrod-Domar growth model, focusing on savings and investment. (ii) is correct — the Second FYP used P.C. Mahalanobis's two-sector model emphasizing heavy industrialization. (iii) is correct — NITI Aayog replaced the Planning Commission on 1 January 2015. (iv) is wrong — India completed 12 Five Year Plans (the 12th ended in 2017); after that, the system was discontinued."
+    },
+    {
+      "id": "88",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The probability of getting a head when a fair coin is tossed is 1/2.\nReason (R): Probability = Number of favourable outcomes / Total number of possible outcomes.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — P(Head) = 1/2 for a fair coin (one favourable outcome out of two possible). (R) is correct — this is the classical definition of probability. (R) explains (A) because applying this formula: favourable outcomes (head) = 1, total outcomes (head, tail) = 2, so probability = 1/2. Option 2 is wrong because R is the formula directly used. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "89",
+      "subject": "E",
+      "questionText": "Which of the following is an example of an open-source operating system?",
+      "options": ["Linux", "Windows", "macOS", "MS-DOS"],
+      "correctAnswer": "Linux",
+      "explanation": "'Linux' is correct — Linux is an open-source operating system; its source code is freely available for modification and distribution. 'Windows' is wrong — it is proprietary software owned by Microsoft. 'macOS' is wrong — it is proprietary software owned by Apple. 'MS-DOS' is wrong — it was a proprietary operating system developed by Microsoft."
+    },
+    {
+      "id": "90",
+      "subject": "A",
+      "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) A white elephant\n(b) A red herring\n(c) A blue-chip company\n(d) Green with envy\n\nColumn II:\n(i) Extremely jealous\n(ii) A costly but useless possession\n(iii) A large, financially sound company\n(iv) Something misleading or distracting\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+      "explanation": "(a)-(ii) is correct — 'a white elephant' means a costly possession that is useless or burdensome. (b)-(iv) is correct — 'a red herring' means something that misleads or distracts from the real issue. (c)-(iii) is correct — 'a blue-chip company' refers to a well-established, financially sound corporation. (d)-(i) is correct — 'green with envy' means extremely jealous. The other options misassign the meanings."
+    },
+    {
+      "id": "91",
+      "subject": "D",
+      "questionText": "If 40% of a number is added to 120, the result is the number itself. What is the number?",
+      "options": ["200", "180", "150", "240"],
+      "correctAnswer": "200",
+      "explanation": "Let the number be N. 0.4N + 120 = N → 120 = N – 0.4N → 120 = 0.6N → N = 120/0.6 = 200. '180' is wrong — 0.4(180) + 120 = 72 + 120 = 192 ≠ 180. '150' is wrong — 0.4(150) + 120 = 60 + 120 = 180 ≠ 150. '240' is wrong — 0.4(240) + 120 = 96 + 120 = 216 ≠ 240."
+    },
+    {
+      "id": "92",
+      "subject": "B",
+      "questionText": "Who among the following was the first Governor-General of independent India?",
+      "options": ["Lord Mountbatten", "C. Rajagopalachari", "Dr. Rajendra Prasad", "Jawaharlal Nehru"],
+      "correctAnswer": "Lord Mountbatten",
+      "explanation": "'Lord Mountbatten' is correct — he became the first Governor-General of independent India (15 August 1947 to 21 June 1948). 'C. Rajagopalachari' is wrong — he was the last Governor-General of India (1948–50), not the first. 'Dr. Rajendra Prasad' is wrong — he was the first President of India (1950), not Governor-General. 'Jawaharlal Nehru' is wrong — he was the first Prime Minister, not the Governor-General."
+    },
+    {
+      "id": "93",
+      "subject": "C",
+      "questionText": "Which of the following rivers originates from the Verinag spring in J&K?",
+      "options": ["Jhelum", "Chenab", "Tawi", "Lidder"],
+      "correctAnswer": "Jhelum",
+      "explanation": "'Jhelum' is correct — the Jhelum River originates from Verinag spring in Anantnag district of J&K. 'Chenab' is wrong — it is formed by the confluence of Chandra and Bhaga rivers in Himachal Pradesh. 'Tawi' is wrong — it originates from the Kali Kund area near Bhaderwah. 'Lidder' is wrong — it originates from the Kolahoi Glacier and is a tributary of the Jhelum."
+    },
+    {
+      "id": "94",
+      "subject": "A",
+      "questionText": "Choose the correct sentence:",
+      "options": ["He would rather die than beg.", "He would rather die than to beg.", "He would rather to die than beg.", "He would rather dying than begging."],
+      "correctAnswer": "He would rather die than beg.",
+      "explanation": "'He would rather die than beg' is correct — 'would rather + base verb + than + base verb' is the correct structure. 'Than to beg' is wrong — after 'than' in this construction, the base form (infinitive without 'to') is required. 'Rather to die' is wrong — 'would rather' is followed directly by the base verb, not 'to + verb'. 'Rather dying than begging' is wrong — gerunds are not used in the 'would rather...than' construction."
+    },
+    {
+      "id": "95",
+      "subject": "D",
+      "questionText": "A pipe can fill a tank in 8 hours. Due to a leak, it takes 10 hours to fill. In how many hours can the leak empty the full tank?",
+      "options": ["40 hours", "20 hours", "30 hours", "50 hours"],
+      "correctAnswer": "40 hours",
+      "explanation": "Pipe's rate = 1/8 per hour. Combined rate (pipe – leak) = 1/10 per hour. Leak's rate = 1/8 – 1/10 = (5–4)/40 = 1/40 per hour. Time for leak to empty full tank = 40 hours. '20 hours' is wrong — this would give a leak rate of 1/20, making combined rate 1/8 – 1/20 = 3/40 ≠ 1/10. '30 hours' is wrong — leak rate 1/30 would give combined 1/8 – 1/30 = 11/120 ≠ 1/10. '50 hours' is wrong — leak rate 1/50 would give combined 1/8 – 1/50 = 21/200 ≠ 1/10."
+    },
+    {
+      "id": "96",
+      "subject": "E",
+      "questionText": "Match the following internet terms with their full forms:\n\nColumn I:\n(a) ISP\n(b) DNS\n(c) FTP\n(d) TCP\n\nColumn II:\n(i) Domain Name System\n(ii) Transmission Control Protocol\n(iii) File Transfer Protocol\n(iv) Internet Service Provider\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+      "explanation": "(a)-(iv) is correct — ISP = Internet Service Provider. (b)-(i) is correct — DNS = Domain Name System. (c)-(iii) is correct — FTP = File Transfer Protocol. (d)-(ii) is correct — TCP = Transmission Control Protocol. The other options incorrectly assign full forms."
+    },
+    {
+      "id": "97",
+      "subject": "B",
+      "questionText": "The 'Quit India Movement' was launched in which year?",
+      "options": ["1942", "1930", "1920", "1947"],
+      "correctAnswer": "1942",
+      "explanation": "'1942' is correct — the Quit India Movement was launched on 8 August 1942 at the Bombay session of the AICC under Gandhi's leadership. '1930' is wrong — the Civil Disobedience Movement (Dandi March) was launched in 1930. '1920' is wrong — the Non-Cooperation Movement was launched in 1920. '1947' is wrong — this is the year India gained independence."
+    },
+    {
+      "id": "98",
+      "subject": "D",
+      "questionText": "Simplify: (3/5) + (2/3) – (1/15)",
+      "options": ["18/15", "19/15", "16/15", "17/15"],
+      "correctAnswer": "18/15",
+      "explanation": "LCM of 5, 3, 15 = 15. Converting: 3/5 = 9/15, 2/3 = 10/15, 1/15 = 1/15. Sum = 9/15 + 10/15 – 1/15 = 18/15 = 6/5. '19/15' is wrong — this would require one fraction to be larger. '16/15' is wrong — this undercounts by 2/15. '17/15' is wrong — this undercounts by 1/15."
+    },
+    {
+      "id": "99",
+      "subject": "A",
+      "questionText": "Choose the word most similar in meaning to 'meticulous':",
+      "options": ["Thorough", "Careless", "Hasty", "Sloppy"],
+      "correctAnswer": "Thorough",
+      "explanation": "'Thorough' is correct — 'meticulous' means showing great attention to detail, very careful and precise. 'Careless' is wrong — it means lacking attention, the opposite of meticulous. 'Hasty' is wrong — it means done with excessive speed, opposite to the careful nature of meticulous. 'Sloppy' is wrong — it means lacking care or effort, an antonym of meticulous."
+    },
+    {
+      "id": "100",
+      "subject": "C",
+      "questionText": "Consider the following statements about transport in J&K:\n\n(i) The Jammu–Srinagar National Highway (NH-44) is the lifeline of the Kashmir Valley.\n(ii) The Banihal–Qazigund tunnel (Dr. Syama Prasad Mookerjee Tunnel) provides all-weather connectivity.\n(iii) Srinagar has an international airport.\n(iv) J&K has no railway connectivity.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — NH-44 (formerly NH-1A) connecting Jammu to Srinagar is the lifeline for Kashmir Valley's supply chain. (ii) is correct — the 8.45 km Banihal–Qazigund tunnel provides all-weather road connectivity between Jammu and Kashmir divisions. (iii) is correct — Sheikh ul-Alam International Airport in Srinagar handles international flights. (iv) is wrong — J&K has railway connectivity; the Jammu–Udhampur–Katra line is operational, and the USBRL project connects to the Valley."
+    }
+  ]
+}

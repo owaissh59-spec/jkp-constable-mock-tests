@@ -1,0 +1,407 @@
+{
+  "subject": "D",
+  "topic": "Sectional revision — Numerical & Reasoning Ability",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "A train 150 metres long passes a pole in 15 seconds. What is the speed of the train in km/h?",
+      "options": ["36 km/h", "40 km/h", "30 km/h", "45 km/h"],
+      "correctAnswer": "36 km/h",
+      "explanation": "Speed = Distance/Time = 150/15 = 10 m/s. Converting to km/h: 10 × 18/5 = 36 km/h. '40 km/h' is wrong — this would require the train to pass the pole in 13.5 seconds. '30 km/h' is wrong — this equals 8.33 m/s, giving a time of 18 seconds. '45 km/h' is wrong — this equals 12.5 m/s, giving a time of 12 seconds."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about the number 1296:\n\n(i) It is a perfect square (36² = 1296).\n(ii) It is a perfect fourth power (6⁴ = 1296).\n(iii) It is divisible by 7.\n(iv) The sum of its digits is 18.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — 36² = 1296. (ii) is correct — 6⁴ = 6×6×6×6 = 1296. (iv) is correct — 1+2+9+6 = 18. (iii) is wrong — 1296 ÷ 7 = 185.14..., so 1296 is not divisible by 7 (7 × 185 = 1295, remainder 1)."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "If the simple interest on a sum of money at 12% per annum for 3 years is ₹5,400, what is the principal?",
+      "options": ["₹15,000", "₹18,000", "₹12,000", "₹16,000"],
+      "correctAnswer": "₹15,000",
+      "explanation": "SI = P × R × T / 100. 5400 = P × 12 × 3 / 100 = 36P/100. P = 5400 × 100/36 = ₹15,000. '₹18,000' is wrong — SI would be 18000×12×3/100 = ₹6,480. '₹12,000' is wrong — SI would be 12000×12×3/100 = ₹4,320. '₹16,000' is wrong — SI would be 16000×12×3/100 = ₹5,760."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of the angles of a quadrilateral is 360°.\nReason (R): A quadrilateral can be divided into two triangles, and the sum of angles of each triangle is 180°.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — the sum of interior angles of any quadrilateral is 360°. (R) is correct — a diagonal divides a quadrilateral into two triangles, each with angle sum 180°. (R) explains (A) because 2 × 180° = 360° directly proves the angle sum of a quadrilateral. Option 2 is wrong because R provides the exact geometric proof. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "In a code language, if MOBILE is coded as NPCJMF, what will LAPTOP be coded as?",
+      "options": ["MBQUPQ", "LCRUPR", "MBQUPO", "LAPTPQ"],
+      "correctAnswer": "MBQUPQ",
+      "explanation": "Pattern: each letter shifted +1. M→N, O→P, B→C, I→J, L→M, E→F. Applying to LAPTOP: L→M, A→B, P→Q, T→U, O→P, P→Q = MBQUPQ. 'LCRUPR' is wrong — this shifts some letters by +2. 'MBQUPO' is wrong — the last letter P should become Q, not O. 'LAPTPQ' is wrong — this barely shifts any letters."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following mathematical concepts with their formulas:\n\nColumn I:\n(a) Area of a circle\n(b) Circumference of a circle\n(c) Volume of a sphere\n(d) Surface area of a sphere\n\nColumn II:\n(i) 4πr²\n(ii) πr²\n(iii) 2πr\n(iv) (4/3)πr³\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a)-(ii): Area of a circle = πr². (b)-(iii): Circumference of a circle = 2πr. (c)-(iv): Volume of a sphere = (4/3)πr³. (d)-(i): Surface area of a sphere = 4πr². The other options incorrectly assign formulas to concepts."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "A man rows upstream at 6 km/h and downstream at 10 km/h. What is the speed of the current?",
+      "options": ["2 km/h", "3 km/h", "4 km/h", "8 km/h"],
+      "correctAnswer": "2 km/h",
+      "explanation": "Speed of current = (Downstream speed – Upstream speed)/2 = (10 – 6)/2 = 4/2 = 2 km/h. '3 km/h' is wrong — this would give upstream 5 and downstream 11 if boat speed were 8. '4 km/h' is wrong — this is the full difference, not half. '8 km/h' is wrong — this is the speed of the boat in still water, not the current."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following number series follows the rule 'multiply by 2 and add 1'?\n\n(i) 1, 3, 7, 15, 31\n(ii) 2, 5, 11, 23, 47\n(iii) 3, 7, 15, 31, 63\n(iv) 4, 10, 22, 46, 94\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i): 1×2+1=3, 3×2+1=7, 7×2+1=15, 15×2+1=31 ✓. (ii): 2×2+1=5, 5×2+1=11, 11×2+1=23, 23×2+1=47 ✓. (iii): 3×2+1=7, 7×2+1=15, 15×2+1=31, 31×2+1=63 ✓. (iv): 4×2+1=9≠10, so (iv) does not follow the rule (it follows ×2+2 instead). Hence (i), (ii) and (iii) are correct."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "If A:B = 3:4 and B:C = 5:6, then A:B:C is:",
+      "options": ["15:20:24", "3:4:6", "9:12:16", "15:20:18"],
+      "correctAnswer": "15:20:24",
+      "explanation": "A:B = 3:4 and B:C = 5:6. To find A:B:C, make B common. B is 4 in first ratio and 5 in second. LCM of 4 and 5 = 20. A:B = 3×5:4×5 = 15:20. B:C = 5×4:6×4 = 20:24. So A:B:C = 15:20:24. '3:4:6' is wrong — this assumes B:C = 4:6, ignoring the given 5:6. '9:12:16' is wrong — this would require different initial ratios. '15:20:18' is wrong — C should be 24 (6×4), not 18."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements about triangles:\n\n(i) The sum of any two sides of a triangle is always greater than the third side.\n(ii) An equilateral triangle has all angles equal to 60°.\n(iii) The longest side of a right triangle is called the hypotenuse.\n(iv) A triangle can have two obtuse angles.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — the triangle inequality theorem states the sum of two sides must exceed the third. (ii) is correct — each angle in an equilateral triangle is 180°/3 = 60°. (iii) is correct — the hypotenuse is the side opposite the right angle, and it is always the longest side. (iv) is wrong — a triangle cannot have two obtuse angles (>90° each) since their sum would exceed 180°."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "A circular field has a radius of 14 metres. What is the cost of fencing it at ₹25 per metre? (Use π = 22/7)",
+      "options": ["₹2,200", "₹2,400", "₹1,540", "₹2,800"],
+      "correctAnswer": "₹2,200",
+      "explanation": "Circumference = 2πr = 2 × 22/7 × 14 = 2 × 22 × 2 = 88 metres. Cost = 88 × 25 = ₹2,200. '₹2,400' is wrong — this would require a circumference of 96 metres. '₹1,540' is wrong — this would use the area formula instead of circumference. '₹2,800' is wrong — this would require a circumference of 112 metres."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If the speed of a car is doubled, the time taken to cover the same distance is halved.\nReason (R): Speed and time are inversely proportional when distance is constant.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — if speed doubles (S→2S), time = D/2S = (1/2)(D/S), i.e., halved. (R) is correct — from D = S×T, when D is constant, S ∝ 1/T. (R) explains (A) because the inverse proportionality directly implies doubling speed halves time. Option 2 is wrong because R gives the exact mathematical basis. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "What is the compound interest on ₹8,000 at 5% per annum for 2 years, compounded annually?",
+      "options": ["₹820", "₹800", "₹840", "₹810"],
+      "correctAnswer": "₹820",
+      "explanation": "A = P(1 + R/100)^n = 8000(1.05)² = 8000 × 1.1025 = ₹8,820. CI = 8820 – 8000 = ₹820. '₹800' is wrong — this is the simple interest (8000×5×2/100), not compound interest. '₹840' is wrong — this would require a slightly higher rate. '₹810' is wrong — this is between SI and the correct CI value."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "In a family of 6 persons, F is the father of C. B is the wife of F. D is the daughter of B. E is the brother of C. A is the mother of F. How is A related to D?",
+      "options": ["Grandmother", "Mother", "Aunt", "Sister"],
+      "correctAnswer": "Grandmother",
+      "explanation": "F is father of C. B is wife of F (so B is mother of C). D is daughter of B (so D is also child of F). E is brother of C. A is mother of F. Since D is F's daughter, and A is F's mother, A is D's grandmother. 'Mother' is wrong — B is D's mother, not A. 'Aunt' is wrong — A is F's mother, not F's sister. 'Sister' is wrong — A is of a different generation than D."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "Fill in the blank: The value of √(0.0049) is __________.",
+      "options": ["0.07", "0.7", "0.007", "7"],
+      "correctAnswer": "0.07",
+      "explanation": "√(0.0049) = √(49/10000) = 7/100 = 0.07. '0.7' is wrong — (0.7)² = 0.49, not 0.0049. '0.007' is wrong — (0.007)² = 0.000049, not 0.0049. '7' is wrong — 7² = 49, not 0.0049."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "A shopkeeper gives two successive discounts of 10% and 20% on an article marked at ₹500. What is the selling price?",
+      "options": ["₹360", "₹350", "₹375", "₹340"],
+      "correctAnswer": "₹360",
+      "explanation": "After 10% discount: 500 × 0.90 = ₹450. After 20% discount on ₹450: 450 × 0.80 = ₹360. '₹350' is wrong — this would be a single 30% discount (500×0.70). '₹375' is wrong — this would be discounts of 10% and 15%. '₹340' is wrong — this would require combined discount higher than 28%."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "Match the following reasoning types with their examples:\n\nColumn I:\n(a) Analogy\n(b) Series completion\n(c) Coding-decoding\n(d) Blood relation\n\nColumn II:\n(i) If WATER = XBUFS, then FIRE = ?\n(ii) A is brother of B, B is sister of C, then A is ___ of C\n(iii) 2, 6, 18, 54, ?\n(iv) Book is to Read as Knife is to ?\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "(a)-(iv): Analogy involves finding relationships (Book:Read :: Knife:Cut). (b)-(iii): Series completion involves finding patterns (×3 series). (c)-(i): Coding-decoding involves letter substitution (shifting letters). (d)-(ii): Blood relation involves family relationships. The other options misassign reasoning types."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "The average age of a class of 30 students is 14 years. When the age of the teacher is included, the average increases by 1 year. What is the age of the teacher?",
+      "options": ["45 years", "44 years", "46 years", "42 years"],
+      "correctAnswer": "45 years",
+      "explanation": "Total age of students = 30 × 14 = 420. New average (including teacher) = 15. Total with teacher = 31 × 15 = 465. Teacher's age = 465 – 420 = 45 years. '44 years' is wrong — total would be 464, average = 464/31 ≈ 14.97 ≠ 15. '46 years' is wrong — total would be 466, average = 466/31 ≈ 15.03 ≠ 15. '42 years' is wrong — total would be 462, average = 462/31 ≈ 14.9 ≠ 15."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "Consider the following statements about simple and compound interest:\n\n(i) Simple interest for 2 years at 10% on ₹1000 is ₹200.\n(ii) Compound interest for 2 years at 10% on ₹1000 is ₹210.\n(iii) The difference between CI and SI for 2 years is always P×(R/100)².\n(iv) SI and CI are equal for the first year on the same principal at the same rate.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii), (iii) and (iv)",
+      "explanation": "(i) is correct — SI = 1000×10×2/100 = ₹200. (ii) is correct — CI = 1000[(1.1)²–1] = 1000×0.21 = ₹210. (iii) is correct — difference for 2 years = P×(R/100)² (here: 1000×0.01 = ₹10, and 210–200=10 ✓). (iv) is correct — for the first year, both SI and CI equal P×R/100 since compounding hasn't occurred yet."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "A man faces South. He turns 45° anticlockwise, then 90° clockwise, then 180° anticlockwise. Which direction is he facing now?",
+      "options": ["North-East", "North-West", "South-West", "South-East"],
+      "correctAnswer": "North-East",
+      "explanation": "Starting: South (180°). After 45° anticlockwise: 180°–45° = 135° = South-East. After 90° clockwise: 135°+90° = 225° = South-West. After 180° anticlockwise: 225°–180° = 45° = North-East. 'North-West' is wrong — NW is 315°, not 45°. 'South-West' is wrong — that is the direction after only the second turn. 'South-East' is wrong — that is the direction after only the first turn."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The LCM of 12 and 18 is 36.\nReason (R): LCM is the smallest number that is exactly divisible by both given numbers.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — LCM(12,18): 12=2²×3, 18=2×3², LCM=2²×3²=36. (R) is correct — LCM is defined as the least common multiple, the smallest number divisible by both. (R) explains (A) because 36 is the smallest number divisible by both 12 and 18 (36÷12=3, 36÷18=2). Option 2 is wrong because R gives the definition that proves A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "The following data shows the number of cars sold by a dealer in 5 months:\n\nJan → 40\nFeb → 55\nMar → 35\nApr → 60\nMay → 50\n\nIn which month was the percentage change (increase or decrease) from the previous month the highest?",
+      "options": ["February", "March", "April", "May"],
+      "correctAnswer": "April",
+      "explanation": "Jan→Feb: (55–40)/40 × 100 = 37.5% increase. Feb→Mar: (55–35)/55 × 100 = 36.4% decrease. Mar→Apr: (60–35)/35 × 100 = 71.4% increase. Apr→May: (60–50)/60 × 100 = 16.7% decrease. The highest percentage change is March→April at 71.4%. 'February' is wrong — 37.5% is less than 71.4%. 'March' is wrong — 36.4% is less than 71.4%. 'May' is wrong — 16.7% is the smallest change."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "If 3x + 7 = 22, then the value of 5x – 3 is:",
+      "options": ["22", "25", "17", "20"],
+      "correctAnswer": "22",
+      "explanation": "3x + 7 = 22 → 3x = 15 → x = 5. Now 5x – 3 = 5(5) – 3 = 25 – 3 = 22. '25' is wrong — this is 5x without subtracting 3. '17' is wrong — this would require x = 4. '20' is wrong — this would require 5x – 3 = 20, giving x = 4.6."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Which of the following are Pythagorean triplets?\n\n(i) 3, 4, 5\n(ii) 5, 12, 13\n(iii) 8, 15, 17\n(iv) 7, 10, 12\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — 3²+4²=9+16=25=5². (ii) is correct — 5²+12²=25+144=169=13². (iii) is correct — 8²+15²=64+225=289=17². (iv) is wrong — 7²+10²=49+100=149≠144=12². So (7,10,12) is not a Pythagorean triplet."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "A person travels 40 km at 8 km/h and the next 60 km at 12 km/h. What is the average speed for the entire journey?",
+      "options": ["10 km/h", "9.5 km/h", "10.5 km/h", "11 km/h"],
+      "correctAnswer": "10 km/h",
+      "explanation": "Time for first part = 40/8 = 5 hours. Time for second part = 60/12 = 5 hours. Total distance = 100 km. Total time = 10 hours. Average speed = 100/10 = 10 km/h. '9.5 km/h' is wrong — this would require total time of 10.53 hours. '10.5 km/h' is wrong — this would require total time of 9.52 hours. '11 km/h' is wrong — this would require total time of 9.09 hours."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "In a certain code language, if '+' means '÷', '–' means '×', '×' means '–', and '÷' means '+', then what is the value of: 36 + 6 – 4 × 8 ÷ 2?",
+      "options": ["18", "20", "16", "22"],
+      "correctAnswer": "18",
+      "explanation": "Substituting: 36 ÷ 6 × 4 – 8 + 2. Applying BODMAS: 36 ÷ 6 = 6; 6 × 4 = 24; 24 – 8 = 16; 16 + 2 = 18. '20' is wrong — this results from incorrect order of operations. '16' is wrong — this omits the final addition of 2. '22' is wrong — this results from an arithmetic error."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "Match the following with their correct values:\n\nColumn I:\n(a) sin 60°\n(b) cos 45°\n(c) tan 30°\n(d) sin 90°\n\nColumn II:\n(i) 1\n(ii) 1/√3\n(iii) √3/2\n(iv) 1/√2\n\nChoose the correct match:",
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "explanation": "(a)-(iii): sin 60° = √3/2. (b)-(iv): cos 45° = 1/√2. (c)-(ii): tan 30° = 1/√3. (d)-(i): sin 90° = 1. The other options incorrectly pair trigonometric values."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "A tank is filled by two pipes A and B. A can fill it in 10 hours, B in 15 hours. If both are opened simultaneously, how long will it take to fill the tank?",
+      "options": ["6 hours", "8 hours", "5 hours", "7.5 hours"],
+      "correctAnswer": "6 hours",
+      "explanation": "A's rate = 1/10 per hour. B's rate = 1/15 per hour. Combined rate = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6 per hour. Time to fill = 6 hours. '8 hours' is wrong — combined rate 1/8 would require different individual rates. '5 hours' is wrong — this would require combined rate 1/5. '7.5 hours' is wrong — this would require combined rate 2/15."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) If a number is divisible by 6, it must be divisible by both 2 and 3.\n(ii) If a number is divisible by both 4 and 6, it must be divisible by 24.\n(iii) The HCF of two co-prime numbers is always 1.\n(iv) Every prime number greater than 2 is odd.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — 6 = 2×3, so divisibility by 6 implies divisibility by both 2 and 3. (iii) is correct — co-prime numbers have no common factor other than 1, so HCF = 1. (iv) is correct — 2 is the only even prime; all other primes are odd. (ii) is wrong — a number divisible by 4 and 6 need not be divisible by 24; e.g., 12 is divisible by both 4 and 6 but not by 24. The LCM of 4 and 6 is 12, not 24."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average of first 50 natural numbers is 25.5.\nReason (R): The average of first n natural numbers is (n+1)/2.\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — average of 1 to 50 = (50+1)/2 = 51/2 = 25.5. (R) is correct — sum of first n natural numbers = n(n+1)/2, so average = n(n+1)/2 ÷ n = (n+1)/2. (R) directly explains (A) by providing the formula. Option 2 is wrong because R is the formula used. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Two trains running in the same direction at 60 km/h and 40 km/h respectively. The faster train is 150 m long and passes a man sitting in the slower train in how many seconds?",
+      "options": ["27 seconds", "18 seconds", "36 seconds", "9 seconds"],
+      "correctAnswer": "27 seconds",
+      "explanation": "Relative speed = 60 – 40 = 20 km/h = 20 × 5/18 = 50/9 m/s. Time = Length of faster train / Relative speed = 150 ÷ (50/9) = 150 × 9/50 = 27 seconds. '18 seconds' is wrong — this would require relative speed of 8.33 m/s. '36 seconds' is wrong — this would require relative speed of 4.17 m/s. '9 seconds' is wrong — this would require relative speed of 16.67 m/s."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "The data below shows production of wheat (in lakh tonnes) by three states over two years:\n\nPunjab → 2022: 180, 2023: 195\nHaryana → 2022: 120, 2023: 135\nUP → 2022: 340, 2023: 360\n\nWhich state showed the highest percentage increase in wheat production from 2022 to 2023?",
+      "options": ["Haryana", "Punjab", "UP", "All showed equal increase"],
+      "correctAnswer": "Haryana",
+      "explanation": "Punjab: (195–180)/180 × 100 = 8.33%. Haryana: (135–120)/120 × 100 = 12.5%. UP: (360–340)/340 × 100 = 5.88%. Haryana has the highest percentage increase at 12.5%. 'Punjab' is wrong — 8.33% < 12.5%. 'UP' is wrong — 5.88% is the lowest percentage increase. 'All showed equal increase' is wrong — the percentages are clearly different."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "If the perimeter of a rectangle is 56 cm and its length is 18 cm, what is its area?",
+      "options": ["180 cm²", "200 cm²", "162 cm²", "196 cm²"],
+      "correctAnswer": "180 cm²",
+      "explanation": "Perimeter = 2(l + b). 56 = 2(18 + b) → 28 = 18 + b → b = 10 cm. Area = l × b = 18 × 10 = 180 cm². '200 cm²' is wrong — this would require b to be about 11.1 cm. '162 cm²' is wrong — this would require b = 9 cm, giving perimeter 54. '196 cm²' is wrong — this would require b to be about 10.9 cm."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "In a row of 25 students, Mohan is 14th from the right end. What is his position from the left end?",
+      "options": ["12th", "13th", "11th", "14th"],
+      "correctAnswer": "12th",
+      "explanation": "Position from left = Total – Position from right + 1 = 25 – 14 + 1 = 12th. '13th' is wrong — this would be correct if total was 26. '11th' is wrong — this would mean total – 14 = 11, i.e., total = 25 but 25–14=11 (forgetting +1). '14th' is wrong — being 14th from both ends would require 27 students."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "What is the value of: (125)^(2/3)?",
+      "options": ["25", "5", "75", "15"],
+      "correctAnswer": "25",
+      "explanation": "(125)^(2/3) = (5³)^(2/3) = 5^(3×2/3) = 5² = 25. '5' is wrong — this is (125)^(1/3), not (125)^(2/3). '75' is wrong — no standard power of 125 yields 75. '15' is wrong — this is 5×3, not a correct exponential result."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Match the following with their correct answers:\n\nColumn I:\n(a) Average of 10, 20, 30, 40, 50\n(b) Mode of 3, 5, 5, 7, 8, 5, 9\n(c) Median of 4, 8, 2, 6, 10\n(d) Range of 15, 22, 8, 30, 12\n\nColumn II:\n(i) 22\n(ii) 5\n(iii) 6\n(iv) 30\n\nChoose the correct match:",
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "(a)-(iv): Average = (10+20+30+40+50)/5 = 150/5 = 30. (b)-(ii): Mode = 5 (appears 3 times, most frequent). (c)-(iii): Ordered: 2,4,6,8,10; median = 6 (middle value). (d)-(i): Range = 30–8 = 22. The other options incorrectly pair statistical measures with values."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "A number when divided by 5 gives remainder 3, and when divided by 7 gives remainder 4. What is the smallest such number?",
+      "options": ["18", "23", "13", "28"],
+      "correctAnswer": "18",
+      "explanation": "Testing: 18 ÷ 5 = 3 remainder 3 ✓. 18 ÷ 7 = 2 remainder 4 ✓. So 18 satisfies both conditions. '23' is wrong — 23÷5 = 4 remainder 3 ✓, but 23÷7 = 3 remainder 2 ✗. '13' is wrong — 13÷5 = 2 remainder 3 ✓, but 13÷7 = 1 remainder 6 ✗. '28' is wrong — 28÷5 = 5 remainder 3 ✓, 28÷7 = 4 remainder 0 ✗."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Consider the following statements about the series 1, 1, 2, 3, 5, 8, 13, 21:\n\n(i) Each term is the sum of the two preceding terms.\n(ii) This is called the Fibonacci series.\n(iii) The next term in this series is 34.\n(iv) The series is an arithmetic progression.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — each term = sum of previous two (e.g., 5=3+2, 8=5+3). (ii) is correct — this is the famous Fibonacci sequence. (iii) is correct — next term = 13+21 = 34. (iv) is wrong — an AP has constant differences; here differences are 0,1,1,2,3,5,8 (not constant), so it's not an AP."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Fill in the blank: If 45% of a number equals 270, then 60% of the same number is __________.",
+      "options": ["360", "400", "300", "324"],
+      "correctAnswer": "360",
+      "explanation": "45% of N = 270 → N = 270/0.45 = 600. 60% of 600 = 0.60 × 600 = 360. '400' is wrong — this would be 66.67% of 600. '300' is wrong — this would be 50% of 600. '324' is wrong — this would be 54% of 600."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If two dice are thrown, the probability of getting a sum of 7 is 1/6.\nReason (R): There are 6 favourable outcomes out of 36 total outcomes: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1).\n\nChoose the correct option:",
+      "options": ["Both (A) and (R) are correct and (R) is the correct explanation of (A)", "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)", "(A) is correct but (R) is not correct", "(A) is not correct but (R) is correct"],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct — P(sum=7) = 6/36 = 1/6. (R) is correct — it correctly lists all 6 combinations that give sum 7 out of 36 possible outcomes. (R) explains (A) by enumerating the favourable outcomes and total outcomes. Option 2 is wrong because R directly proves A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+    },
+    {
+      "id": "41",
+      "subject": "D",
+      "questionText": "A cone has a base radius of 7 cm and height 24 cm. What is its slant height?",
+      "options": ["25 cm", "28 cm", "23 cm", "26 cm"],
+      "correctAnswer": "25 cm",
+      "explanation": "Slant height l = √(r² + h²) = √(7² + 24²) = √(49 + 576) = √625 = 25 cm. '28 cm' is wrong — 28² = 784 ≠ 625. '23 cm' is wrong — 23² = 529 ≠ 625. '26 cm' is wrong — 26² = 676 ≠ 625."
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "In a certain code, if DANGER is written as FCPIGT, then PLANT will be written as:",
+      "options": ["RNCPV", "RNBOV", "QMBOU", "RNCPU"],
+      "correctAnswer": "RNCPV",
+      "explanation": "Pattern: each letter +2. D→F, A→C, N→P, G→I, E→G, R→T. Applying to PLANT: P→R, L→N, A→C, N→P, T→V = RNCPV. 'RNBOV' is wrong — the third letter A should become C, not B. 'QMBOU' is wrong — this shifts by +1, not +2. 'RNCPU' is wrong — the last letter T should become V, not U."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "The data below shows the percentage distribution of students in different subjects:\n\nMaths → 30%\nScience → 25%\nEnglish → 20%\nHindi → 15%\nSocial Studies → 10%\n\nIf the total number of students is 800, how many students are in Science and English combined?",
+      "options": ["360", "200", "400", "320"],
+      "correctAnswer": "360",
+      "explanation": "Science + English = 25% + 20% = 45%. Number of students = 45% of 800 = 0.45 × 800 = 360. '200' is wrong — this is 25% of 800 (Science alone). '400' is wrong — this would be 50% of 800. '320' is wrong — this would be 40% of 800."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "If the hour hand of a clock rotates through 90°, how much time has elapsed?",
+      "options": ["3 hours", "6 hours", "1 hour", "2 hours"],
+      "correctAnswer": "3 hours",
+      "explanation": "The hour hand completes 360° in 12 hours. So 90° = (90/360) × 12 = 3 hours. '6 hours' is wrong — 6 hours corresponds to 180°. '1 hour' is wrong — 1 hour corresponds to only 30°. '2 hours' is wrong — 2 hours corresponds to 60°."
+    },
+    {
+      "id": "45",
+      "subject": "D",
+      "questionText": "Match the following operations with their properties:\n\nColumn I:\n(a) a + b = b + a\n(b) a × (b + c) = ab + ac\n(c) a + 0 = a\n(d) a × 1 = a\n\nColumn II:\n(i) Multiplicative identity\n(ii) Commutative property of addition\n(iii) Distributive property\n(iv) Additive identity\n\nChoose the correct match:",
+      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "explanation": "(a)-(ii): a+b=b+a is the commutative property of addition. (b)-(iii): a×(b+c)=ab+ac is the distributive property. (c)-(iv): a+0=a shows 0 as the additive identity. (d)-(i): a×1=a shows 1 as the multiplicative identity. The other options incorrectly match operations with properties."
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "A trader mixes 20 kg of sugar at ₹40/kg with 30 kg of sugar at ₹50/kg. At what rate per kg should he sell the mixture to gain 20% profit?",
+      "options": ["₹55.20/kg", "₹54/kg", "₹56/kg", "₹52.80/kg"],
+      "correctAnswer": "₹55.20/kg",
+      "explanation": "Total CP = (20×40) + (30×50) = 800 + 1500 = ₹2300. Total quantity = 50 kg. CP per kg = 2300/50 = ₹46. For 20% profit: SP per kg = 46 × 1.20 = ₹55.20. '₹54/kg' is wrong — this gives profit of (54–46)/46 × 100 = 17.4%. '₹56/kg' is wrong — this gives profit of 21.7%. '₹52.80/kg' is wrong — this gives profit of only 14.8%."
+    },
+    {
+      "id": "47",
+      "subject": "D",
+      "questionText": "Which of the following statements about circles are correct?\n\n(i) The diameter is twice the radius.\n(ii) A chord that passes through the centre is called the diameter.\n(iii) The longest chord of a circle is its radius.\n(iv) All radii of a circle are equal in length.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — diameter = 2 × radius. (ii) is correct — a chord passing through the centre is by definition the diameter. (iv) is correct — all radii from centre to circumference are equal. (iii) is wrong — the longest chord is the diameter (not the radius); the radius is half the diameter."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "Pointing to a woman, Ramesh says, 'She is the daughter of the only son of my grandmother.' How is the woman related to Ramesh?",
+      "options": ["Sister", "Daughter", "Mother", "Aunt"],
+      "correctAnswer": "Sister",
+      "explanation": "The only son of Ramesh's grandmother is Ramesh's father. The daughter of Ramesh's father is Ramesh's sister. 'Daughter' is wrong — Ramesh's daughter would be 'the daughter of my son', not described this way. 'Mother' is wrong — Ramesh's mother would be 'the wife of the only son', not the daughter. 'Aunt' is wrong — an aunt would be the sister of his parent, but the 'only son' means no siblings."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "What is the value of: 999 × 99 + 999?",
+      "options": ["99,900", "99,999", "100,000", "98,901"],
+      "correctAnswer": "99,900",
+      "explanation": "999 × 99 + 999 = 999(99 + 1) = 999 × 100 = 99,900. Wait: 999×99 + 999 = 999(99+1) = 999×100 = 99,900. But let me verify: 999×99 = 98,901. 98,901 + 999 = 99,900. Correct. '99,999' is wrong — this would be 999×100 + 999 = 99,900 + 999. '100,000' is wrong — this is 1000×100. '98,901' is wrong — this is only 999×99 without adding 999."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "A square and a rectangle have the same perimeter of 40 cm. If the rectangle has a length of 12 cm, which has a greater area?",
+      "options": ["The square has a greater area", "The rectangle has a greater area", "Both have equal areas", "Cannot be determined"],
+      "correctAnswer": "The square has a greater area",
+      "explanation": "Square: side = 40/4 = 10 cm. Area = 100 cm². Rectangle: perimeter = 40, length = 12, so breadth = (40–24)/2 = 8 cm. Area = 12×8 = 96 cm². Square area (100) > Rectangle area (96). 'The rectangle has a greater area' is wrong — 96 < 100. 'Both have equal areas' is wrong — 100 ≠ 96. 'Cannot be determined' is wrong — we have sufficient information to calculate both areas."
+    }
+  ]
+}
