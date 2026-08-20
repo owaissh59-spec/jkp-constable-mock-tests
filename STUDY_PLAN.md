@@ -503,17 +503,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 178 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ⬜ |
-| 179 | Afternoon | C — General Knowledge — J&K | Sectional revision — GK J&K | 50 | advanced | Sectional revision | ⬜ |
-| 180 | Late | E — Basic Concepts of Computers | Rapid mixed revision & weak-area drill — Computers | 40 | advanced | Rapid revision | ⬜ |
+| 178 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ✅ |
+| 179 | Afternoon | C — General Knowledge — J&K | Sectional revision — GK J&K | 50 | advanced | Sectional revision | ✅ |
+| 180 | Late | E — Basic Concepts of Computers | Rapid mixed revision & weak-area drill — Computers | 40 | advanced | Rapid revision | ✅ |
 
 ### Day 61
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 181 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ⬜ |
-| 182 | Afternoon | A — General English | Sectional revision — General English | 50 | advanced | Sectional revision | ⬜ |
-| 183 | Late | B — General Knowledge & Current Affairs (India) | Rapid mixed revision & weak-area drill — GK India | 40 | advanced | Rapid revision | ⬜ |
+| 181 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ✅ |
+| 182 | Afternoon | A — General English | Sectional revision — General English | 50 | advanced | Sectional revision | ✅ |
+| 183 | Late | B — General Knowledge & Current Affairs (India) | Rapid mixed revision & weak-area drill — GK India | 40 | advanced | Rapid revision | ✅ |
 
 ### Day 62
 

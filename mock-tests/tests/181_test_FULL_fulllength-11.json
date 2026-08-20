@@ -1,0 +1,1307 @@
+{
+  "subject": "Full Test",
+  "topic": "Full syllabus — all subjects A-E (exam simulation)",
+  "total_questions": 100,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "A",
+      "questionText": "Choose the correct option: The teacher, along with her students, __________ visiting the museum today.",
+      "options": [
+        "is",
+        "are",
+        "have been",
+        "were"
+      ],
+      "correctAnswer": "is",
+      "explanation": "The subject is the singular 'teacher'; the phrase 'along with her students' does not change the number of the verb, so 'is' is correct. 'Are' and 'were' are plural and wrongly agree with 'students'; 'have been' is plural present-perfect and also fails to agree with the singular subject."
+    },
+    {
+      "id": "2",
+      "subject": "B",
+      "questionText": "Who was the first woman to become the Prime Minister of India?",
+      "options": [
+        "Sarojini Naidu",
+        "Sucheta Kripalani",
+        "Indira Gandhi",
+        "Pratibha Patil"
+      ],
+      "correctAnswer": "Indira Gandhi",
+      "explanation": "Indira Gandhi became India's first woman Prime Minister in 1966. Sarojini Naidu was the first woman Governor of an Indian state; Sucheta Kripalani was the first woman Chief Minister; and Pratibha Patil was the first woman President, so none of them was the first woman PM."
+    },
+    {
+      "id": "3",
+      "subject": "C",
+      "questionText": "Consider the following statements about the geography of Jammu and Kashmir:\n\n(i) The Kashmir Valley lies between the Pir Panjal and the Greater Himalayan ranges.\n(ii) The Jhelum is the main river of the Kashmir Valley.\n(iii) Ladakh receives very heavy monsoon rainfall.\n(iv) The Jammu region includes the Shivalik foothills.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Valley lies between the Pir Panjal and the Greater Himalayas (i), the Jhelum is its main river (ii), and the Jammu region has the Shivalik foothills (iv). Statement (iii) is false because Ladakh is a cold desert in the rain shadow with very little rainfall, so any option containing (iii) is eliminated."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "The average of 11 results is 50. If the average of the first six is 49 and that of the last six is 52, what is the sixth result?",
+      "options": [
+        "50",
+        "48",
+        "60",
+        "56"
+      ],
+      "correctAnswer": "56",
+      "explanation": "Sum of all 11 = 550. First six sum = 294, last six sum = 312; their total 606 counts the sixth result twice, so sixth = 606 − 550 = 56. '50' ignores the double-count; '48' and '60' come from arithmetic errors in the sums, so 56 is correct."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Which of the following converts a high-level program into machine code line by line at run time?",
+      "options": [
+        "Interpreter",
+        "Compiler",
+        "Assembler",
+        "Linker"
+      ],
+      "correctAnswer": "Interpreter",
+      "explanation": "An interpreter translates and executes a program one statement at a time during run time. A compiler translates the whole program at once beforehand; an assembler converts assembly language to machine code; and a linker combines object files, so only the interpreter works line by line at run time."
+    },
+    {
+      "id": "6",
+      "subject": "A",
+      "questionText": "Choose the word that is most nearly SIMILAR in meaning to 'CANDID':",
+      "options": [
+        "Secretive",
+        "Hesitant",
+        "Frank",
+        "Rude"
+      ],
+      "correctAnswer": "Frank",
+      "explanation": "'Candid' means open and honest, so 'frank' is its closest synonym. 'Secretive' is the opposite; 'hesitant' means unwilling or unsure, and 'rude' means impolite, which is a different quality, so 'frank' is the correct synonym."
+    },
+    {
+      "id": "7",
+      "subject": "B",
+      "questionText": "The 'Tapti' and 'Narmada' rivers are unusual among major peninsular rivers because they:",
+      "options": [
+        "Flow eastward into the Bay of Bengal",
+        "Flow westward into the Arabian Sea",
+        "Are entirely rain-fed and seasonal",
+        "Do not form any estuary"
+      ],
+      "correctAnswer": "Flow westward into the Arabian Sea",
+      "explanation": "The Narmada and Tapti flow westward through rift valleys into the Arabian Sea, unlike most peninsular rivers that flow east. They are not east-flowing, they are perennial enough to form estuaries, and both do form estuaries, so westward flow is the correct distinguishing feature."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "The least common multiple (LCM) of 4, 6 and 8 is:",
+      "options": [
+        "12",
+        "48",
+        "16",
+        "24"
+      ],
+      "correctAnswer": "24",
+      "explanation": "The LCM of 4, 6 and 8 is the smallest number divisible by all three; 24 is divisible by 4, 6 and 8. '12' is not divisible by 8; '16' is not divisible by 6; and '48' is a common multiple but not the least, so 24 is the correct LCM."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Which of the following are examples of secondary storage media?\n\n(i) Blu-ray disc\n(ii) Magnetic tape\n(iii) Register\n(iv) Memory card\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Blu-ray discs, magnetic tape and memory cards are all secondary (auxiliary) storage media. A register is a tiny high-speed storage location inside the CPU, part of primary storage, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)'."
+    },
+    {
+      "id": "10",
+      "subject": "A",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): In the sentence 'He is taller than I', the pronoun 'I' is correct.\nReason (R): After 'than' in a comparison, the pronoun takes the same case as if the verb were repeated (than I am).\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "'He is taller than I (am)' is correct (A) precisely because 'than' introduces an implied clause where the pronoun keeps the subjective case (R), so R correctly explains A. The options denying either statement are wrong since both are true, and the 'not the correct explanation' option fails because the implied verb is exactly why 'I' is used."
+    },
+    {
+      "id": "11",
+      "subject": "B",
+      "questionText": "Match the following famous Indian places with the states they are located in:\n\nColumn I:\n(a) Konark Sun Temple\n(b) Hawa Mahal\n(c) Charminar\n(d) Gateway of India\n\nColumn II:\n(i) Rajasthan\n(ii) Odisha\n(iii) Maharashtra\n(iv) Telangana\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "The Konark Sun Temple is in Odisha, Hawa Mahal in Rajasthan (Jaipur), Charminar in Telangana (Hyderabad), and the Gateway of India in Maharashtra (Mumbai). The other options swap pairs, such as placing Konark in Rajasthan or the Gateway in Odisha, which are geographically wrong."
+    },
+    {
+      "id": "12",
+      "subject": "C",
+      "questionText": "The 'Ranjit Sagar Dam', a project shared by neighbouring states and drawing water relevant to the region, is built on which river bordering J&K?",
+      "options": [
+        "Jhelum",
+        "Ravi",
+        "Tawi",
+        "Sind"
+      ],
+      "correctAnswer": "Ravi",
+      "explanation": "The Ranjit Sagar Dam is built on the Ravi river, which flows along the borders of Punjab, Himachal Pradesh and Jammu & Kashmir. The Jhelum and Sind are Kashmir Valley rivers, and the Tawi flows through Jammu city, so none of them hosts the Ranjit Sagar Dam."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "A car covers a distance of 200 km in 4 hours. If it increases its speed by 10 km/h, how long will it take to cover the same distance?",
+      "options": [
+        "3 hours 30 minutes",
+        "3 hours",
+        "3 hours 45 minutes",
+        "3 hours 20 minutes"
+      ],
+      "correctAnswer": "3 hours 20 minutes",
+      "explanation": "Original speed = 200/4 = 50 km/h; new speed = 60 km/h; time = 200/60 = 10/3 hours = 3 hours 20 minutes. '3 hours 30 minutes' would need 57.1 km/h; '3 hours' needs about 66.7 km/h; '3 hours 45 minutes' needs about 53.3 km/h, so only 3 hours 20 minutes is correct."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "In MS Word, which alignment stretches the text so that both the left and right margins are even?",
+      "options": [
+        "Justify",
+        "Left align",
+        "Right align",
+        "Centre align"
+      ],
+      "correctAnswer": "Justify",
+      "explanation": "Justify alignment spaces out words so that text lines up evenly on both margins. Left align keeps only the left edge even, right align keeps only the right edge even, and centre align centres each line, so none of them evens both margins except Justify."
+    },
+    {
+      "id": "15",
+      "subject": "A",
+      "questionText": "Choose the correct option to complete the sentence: If I __________ known about the meeting, I would have attended it.",
+      "options": [
+        "have",
+        "would have",
+        "had",
+        "has"
+      ],
+      "correctAnswer": "had",
+      "explanation": "A third-conditional sentence uses 'had + past participle' in the if-clause, so 'If I had known' is correct. 'Have' and 'has' are present-tense and wrong for a past unreal condition; 'would have' belongs in the main clause, not the if-clause, so 'had' is the right choice."
+    },
+    {
+      "id": "16",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Fundamental Duties in the Indian Constitution:\n\n(i) They were added by the 42nd Constitutional Amendment.\n(ii) They are listed in Article 51A.\n(iii) They were inspired by the Constitution of the USSR.\n(iv) They are enforceable by the courts like Fundamental Rights.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Fundamental Duties were added by the 42nd Amendment (i), are in Article 51A (ii), and were inspired by the erstwhile USSR's constitution (iii). Statement (iv) is false because Fundamental Duties are not directly enforceable by the courts, so any option containing (iv) is eliminated."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "The number 3, 9, 27, 81, ? follows a pattern. What is the next term?",
+      "options": [
+        "162",
+        "108",
+        "324",
+        "243"
+      ],
+      "correctAnswer": "243",
+      "explanation": "Each term is multiplied by 3: 81 × 3 = 243. '162' comes from doubling 81; '108' from adding 27; and '324' from multiplying by 4, none of which follows the ×3 geometric pattern, so 243 is the correct next term."
+    },
+    {
+      "id": "18",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct preposition: The manager was accused __________ misusing company funds. __________",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "about"
+      ],
+      "correctAnswer": "of",
+      "explanation": "The fixed collocation is 'accused of' when naming the offence, so 'accused of misusing' is correct. 'Accused for', 'accused with' and 'accused about' are not standard English combinations for stating what someone is charged with, so 'of' is the right preposition."
+    },
+    {
+      "id": "19",
+      "subject": "B",
+      "questionText": "Which international organisation has its headquarters in Geneva, Switzerland?",
+      "options": [
+        "United Nations General Assembly",
+        "International Monetary Fund (IMF)",
+        "World Health Organization (WHO)",
+        "World Bank"
+      ],
+      "correctAnswer": "World Health Organization (WHO)",
+      "explanation": "The WHO is headquartered in Geneva. The UN General Assembly meets at UN headquarters in New York, and both the IMF and the World Bank are based in Washington, D.C., so none of those is in Geneva, making the WHO the correct answer."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "A shopkeeper buys a watch for ₹1,200 and sells it for ₹1,500. What is his profit percentage?",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "correctAnswer": "25%",
+      "explanation": "Profit = 1,500 − 1,200 = 300; profit % = 300/1,200 × 100 = 25%. '20%' would come from dividing 300 by 1,500 (selling price); '30%' and '15%' result from wrong divisors or arithmetic, so 25% is the correct profit on cost."
+    },
+    {
+      "id": "21",
+      "subject": "A",
+      "questionText": "Choose the correct meaning of the idiom 'to burn the midnight oil':",
+      "options": [
+        "To waste money carelessly",
+        "To start a big quarrel",
+        "To destroy important papers",
+        "To work or study late into the night"
+      ],
+      "correctAnswer": "To work or study late into the night",
+      "explanation": "'To burn the midnight oil' means to work or study late into the night. Wasting money, starting a quarrel and destroying papers are unrelated literal or invented meanings that do not capture the idiom's sense of late, diligent effort."
+    },
+    {
+      "id": "22",
+      "subject": "B",
+      "questionText": "The 'Green Revolution' in India, which greatly increased food-grain production, is most closely associated with which scientist?",
+      "options": [
+        "M. S. Swaminathan",
+        "Verghese Kurien",
+        "Homi Bhabha",
+        "Vikram Sarabhai"
+      ],
+      "correctAnswer": "M. S. Swaminathan",
+      "explanation": "M. S. Swaminathan is called the father of the Indian Green Revolution for introducing high-yield wheat and rice varieties. Verghese Kurien led the White Revolution (milk); Homi Bhabha pioneered nuclear science; and Vikram Sarabhai founded the space programme, so they are linked to other movements."
+    },
+    {
+      "id": "23",
+      "subject": "C",
+      "questionText": "The 'Bhaderwah' and 'Kishtwar' regions of J&K are administratively part of which division?",
+      "options": [
+        "Kashmir division",
+        "Ladakh region",
+        "Jammu division",
+        "Pir Panjal Union Territory"
+      ],
+      "correctAnswer": "Jammu division",
+      "explanation": "Bhaderwah (Doda district) and Kishtwar both lie in the Jammu division of the Union Territory of J&K. They are not in the Kashmir division or in Ladakh, and there is no separate 'Pir Panjal Union Territory', so the Jammu division is the correct answer."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "In a certain code language, 'DELHI' is written as 'EDMKJ'? Verify by decoding: if each letter is shifted +1 for odd positions and −1 for even positions, how is 'INDIA' written?",
+      "options": [
+        "HODJB",
+        "JMEHB",
+        "JOEJB",
+        "HMEHZ"
+      ],
+      "correctAnswer": "JMEHB",
+      "explanation": "Positions 1,3,5 shift +1 and positions 2,4 shift −1: I→J, N→M, D→E, I→H, A→B, giving JMEHB. 'HODJB' shifts the first letter wrongly; 'JOEJB' shifts position 2 up instead of down; 'HMEHZ' misapplies the last shift, so JMEHB is correct."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Data on a CD-ROM cannot normally be changed by the user.\nReason (R): CD-ROM is a read-only optical storage medium.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A user cannot normally change CD-ROM data (A) precisely because a CD-ROM is a read-only medium (R), so R correctly explains A. The options denying either statement are wrong since both are true, and the 'not the correct explanation' option fails because being read-only is exactly why the data is unchangeable."
+    },
+    {
+      "id": "26",
+      "subject": "A",
+      "questionText": "Choose the word most nearly SIMILAR in meaning to 'BRIEF':",
+      "options": [
+        "Lengthy",
+        "Detailed",
+        "Constant",
+        "Concise"
+      ],
+      "correctAnswer": "Concise",
+      "explanation": "'Brief' means short and to the point, so 'concise' is its closest synonym. 'Lengthy' and 'detailed' suggest the opposite (long or elaborate), and 'constant' means unchanging, which is unrelated to length, so 'concise' is the correct similar word."
+    },
+    {
+      "id": "27",
+      "subject": "B",
+      "questionText": "Which of the following are landlocked states of India (having no sea coast)?\n\n(i) Chhattisgarh\n(ii) Kerala\n(iii) Jharkhand\n(iv) Madhya Pradesh\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Chhattisgarh, Jharkhand and Madhya Pradesh are landlocked states with no coastline. Kerala lies along the Arabian Sea coast, so it is not landlocked, and any combination containing (ii) is wrong, leaving '(i), (iii) and (iv)' as the correct set."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "The area of a circle is 154 sq cm. What is its radius? (Take π = 22/7)",
+      "options": [
+        "14 cm",
+        "3.5 cm",
+        "7 cm",
+        "49 cm"
+      ],
+      "correctAnswer": "7 cm",
+      "explanation": "Area = πr², so r² = 154 × 7 / 22 = 49 and r = 7 cm. '14 cm' would give an area four times larger; '3.5 cm' gives a much smaller area; and '49 cm' confuses r² with r, so 7 cm is the correct radius."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which of the following is a spreadsheet function used to find the largest value in a range?",
+      "options": [
+        "SUM",
+        "MAX",
+        "COUNT",
+        "LEN"
+      ],
+      "correctAnswer": "MAX",
+      "explanation": "The MAX function returns the largest number in a range. SUM adds the values, COUNT counts numeric cells, and LEN returns the length of a text string, so none of those finds the maximum value except MAX."
+    },
+    {
+      "id": "30",
+      "subject": "A",
+      "questionText": "Identify the type of the underlined clause: 'She succeeded BECAUSE SHE WORKED HARD.'",
+      "options": [
+        "Noun clause",
+        "Adjective clause",
+        "Main clause",
+        "Adverb clause"
+      ],
+      "correctAnswer": "Adverb clause",
+      "explanation": "'Because she worked hard' explains why she succeeded, modifying the verb, so it is an adverb clause of reason. It is not a noun clause (it is not a subject or object), not an adjective clause (it does not modify a noun), and not the main clause, so 'adverb clause' is correct."
+    },
+    {
+      "id": "31",
+      "subject": "B",
+      "questionText": "The 'ASEAN' group, an association of Southeast Asian nations, has its Secretariat in which city?",
+      "options": [
+        "Jakarta",
+        "Bangkok",
+        "Manila",
+        "Singapore"
+      ],
+      "correctAnswer": "Jakarta",
+      "explanation": "The ASEAN Secretariat is located in Jakarta, Indonesia. Bangkok is where the ASEAN Declaration was signed in 1967, and Manila and Singapore are member capitals, but the Secretariat itself is in Jakarta, so it is the correct answer."
+    },
+    {
+      "id": "32",
+      "subject": "C",
+      "questionText": "Match the following J&K tourist spots with their special features:\n\nColumn I:\n(a) Gulmarg\n(b) Sonamarg\n(c) Pahalgam\n(d) Yusmarg\n\nColumn II:\n(i) Meadow of Gold, gateway to Amarnath (Baltal)\n(ii) Gondola cable car and skiing\n(iii) Meadow near the Lidder, base for Amarnath (traditional route)\n(iv) Quiet meadow in Budgam district\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "Gulmarg has the gondola and skiing, Sonamarg (Meadow of Gold) is the Baltal gateway to Amarnath, Pahalgam is the Lidder-side base for the traditional Amarnath route, and Yusmarg is a quiet Budgam meadow. The other options swap pairs, such as giving Gulmarg the 'Meadow of Gold' tag, which is wrong."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of the angles of a triangle is always 180 degrees.\nReason (R): A straight line forms an angle of 180 degrees, and the angles of a triangle can be rearranged along a straight line.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The angle sum of a triangle is 180° (A), and this follows from the fact that the three angles can be placed along a straight line, which measures 180° (R), so R correctly explains A. The options denying either statement are wrong since both are true, and the 'not the correct explanation' option fails because the straight-line property is the standard proof."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "In computing, the term 'byte' most commonly refers to a group of how many bits?",
+      "options": [
+        "4 bits",
+        "8 bits",
+        "16 bits",
+        "2 bits"
+      ],
+      "correctAnswer": "8 bits",
+      "explanation": "A byte is standardly a group of 8 bits, enough to represent one character. A group of 4 bits is a nibble, 16 bits usually make a 'word' on many systems, and 2 bits has no special name, so 8 bits is the correct size of a byte."
+    },
+    {
+      "id": "35",
+      "subject": "A",
+      "questionText": "Consider the following statements about the use of prepositions:\n\n(i) We say 'good at' a subject or skill.\n(ii) We say 'married to' a person.\n(iii) We say 'interested in' something.\n(iv) We say 'afraid from' danger.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The correct collocations are 'good at', 'married to' and 'interested in', so (i), (ii) and (iii) are right. Statement (iv) is wrong because the correct form is 'afraid of', not 'afraid from', so any option containing (iv) is eliminated."
+    },
+    {
+      "id": "36",
+      "subject": "B",
+      "questionText": "The book 'The Discovery of India' was written by:",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Rabindranath Tagore",
+        "Sardar Patel"
+      ],
+      "correctAnswer": "Jawaharlal Nehru",
+      "explanation": "'The Discovery of India' was written by Jawaharlal Nehru during his imprisonment. Gandhi wrote 'The Story of My Experiments with Truth', Tagore wrote 'Gitanjali', and Sardar Patel did not author this book, so Nehru is the correct writer."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Consider the following statements about the number 100:\n\n(i) It is a perfect square.\n(ii) It is divisible by 4.\n(iii) It is a prime number.\n(iv) The sum of its digits is 1.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "100 = 10² so (i) is true, 100 ÷ 4 = 25 so (ii) is true, and 1 + 0 + 0 = 1 so (iv) is true. Statement (iii) is false because 100 is composite, not prime, so any option containing (iii) is eliminated, leaving '(i), (ii) and (iv)'."
+    },
+    {
+      "id": "38",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct word: The two brothers share a strong family __________ and always support each other. __________",
+      "options": [
+        "bound",
+        "bond",
+        "band",
+        "bend"
+      ],
+      "correctAnswer": "bond",
+      "explanation": "A 'bond' is a close connection or tie, which fits 'family bond'. 'Bound' is the past tense of 'bind' or an adjective, 'band' is a group or strip, and 'bend' means to curve, so none of those conveys the sense of a family tie except 'bond'."
+    },
+    {
+      "id": "39",
+      "subject": "B",
+      "questionText": "Which day is observed as 'National Science Day' in India?",
+      "options": [
+        "5 September",
+        "14 November",
+        "2 October",
+        "28 February"
+      ],
+      "correctAnswer": "28 February",
+      "explanation": "National Science Day is observed on 28 February to mark the discovery of the Raman Effect by C. V. Raman. 5 September is Teachers' Day, 14 November is Children's Day, and 2 October is Gandhi Jayanti, so none of those is National Science Day."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "The following data shows the runs scored by a batsman in five matches:\n\nMatch 1 → 45\nMatch 2 → 60\nMatch 3 → 0\nMatch 4 → 75\nMatch 5 → 20\n\nWhat is the batsman's average score per match?",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "38"
+      ],
+      "correctAnswer": "40",
+      "explanation": "Total runs = 45 + 60 + 0 + 75 + 20 = 200; average = 200/5 = 40. '45' and '38' come from addition errors, and '50' would require a total of 250, so 40 is the correct average when the duck (0) is included in the count of five matches."
+    },
+    {
+      "id": "41",
+      "subject": "A",
+      "questionText": "Choose the word most nearly OPPOSITE in meaning to 'ABUNDANT':",
+      "options": [
+        "Plentiful",
+        "Ample",
+        "Scarce",
+        "Generous"
+      ],
+      "correctAnswer": "Scarce",
+      "explanation": "'Abundant' means present in large quantity, so its antonym is 'scarce' (in short supply). 'Plentiful' and 'ample' are synonyms of abundant, and 'generous' relates to giving freely, so 'scarce' is the correct opposite."
+    },
+    {
+      "id": "42",
+      "subject": "B",
+      "questionText": "The 'Jallianwala Bagh' massacre took place in which city?",
+      "options": [
+        "Lahore",
+        "Amritsar",
+        "Jalandhar",
+        "Ludhiana"
+      ],
+      "correctAnswer": "Amritsar",
+      "explanation": "The Jallianwala Bagh massacre of 1919 occurred in Amritsar, Punjab, where General Dyer's troops fired on a peaceful gathering. Lahore, Jalandhar and Ludhiana are other Punjab-region cities but were not the site of this massacre, so Amritsar is correct."
+    },
+    {
+      "id": "43",
+      "subject": "C",
+      "questionText": "Which of the following are important rivers of the Jammu and Kashmir Union Territory?\n\n(i) Jhelum\n(ii) Chenab\n(iii) Kaveri\n(iv) Tawi\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Jhelum, Chenab and Tawi are important rivers of J&K. The Kaveri (Cauvery) is a major river of South India (Karnataka and Tamil Nadu), not of J&K, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)'."
+    },
+    {
+      "id": "44",
+      "subject": "D",
+      "questionText": "A man walks 5 km north, then turns right and walks 12 km. How far is he from the starting point?",
+      "options": [
+        "13 km",
+        "17 km",
+        "7 km",
+        "15 km"
+      ],
+      "correctAnswer": "13 km",
+      "explanation": "The two legs (5 km north and 12 km east) are perpendicular, so the distance = √(5² + 12²) = √169 = 13 km. '17 km' simply adds the legs; '7 km' subtracts them; and '15 km' is not a Pythagorean result, so 13 km is the correct straight-line distance."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Match the following shortcut keys with their functions:\n\nColumn I:\n(a) Ctrl + C\n(b) Ctrl + V\n(c) Ctrl + X\n(d) Ctrl + Y\n\nColumn II:\n(i) Paste\n(ii) Copy\n(iii) Redo\n(iv) Cut\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "Ctrl+C copies, Ctrl+V pastes, Ctrl+X cuts, and Ctrl+Y redoes an action. The other options swap pairs, such as making Ctrl+C paste or Ctrl+Y cut, which are incorrect standard Windows shortcuts, so the first mapping is right."
+    },
+    {
+      "id": "46",
+      "subject": "A",
+      "questionText": "Choose the correct question tag: Let us go for a walk, __________?",
+      "options": [
+        "will we",
+        "shall we",
+        "don't we",
+        "shan't we"
+      ],
+      "correctAnswer": "shall we",
+      "explanation": "A sentence beginning with 'Let us' takes the tag 'shall we'. 'Will we' and 'shan't we' are not the standard tags for a suggestion with 'let us', and 'don't we' uses the wrong auxiliary, so 'shall we' is the correct question tag."
+    },
+    {
+      "id": "47",
+      "subject": "B",
+      "questionText": "The currency of Japan is the Yen. What is the currency of South Korea?",
+      "options": [
+        "Ringgit",
+        "Baht",
+        "Yuan",
+        "Won"
+      ],
+      "correctAnswer": "Won",
+      "explanation": "South Korea's currency is the Won. The Ringgit is used in Malaysia, the Baht in Thailand, and the Yuan in China, so none of those belongs to South Korea, making the Won the correct answer."
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "A number, when divided by 7, leaves a remainder of 3. What is the remainder when twice that number is divided by 7?",
+      "options": [
+        "6",
+        "3",
+        "1",
+        "5"
+      ],
+      "correctAnswer": "6",
+      "explanation": "The number is 7k + 3, so twice it is 14k + 6; dividing by 7 leaves remainder 6. '3' wrongly keeps the original remainder; '1' and '5' come from mis-handling the doubling, so 6 is the correct remainder when the number is doubled."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "The physical components of a computer that can be seen and touched are collectively known as:",
+      "options": [
+        "Software",
+        "Freeware",
+        "Hardware",
+        "Firmware"
+      ],
+      "correctAnswer": "Hardware",
+      "explanation": "Hardware refers to the tangible physical parts of a computer, such as the monitor, keyboard and CPU. Software is a set of programs and instructions; freeware is software offered free of cost; and firmware is embedded control software, none of which is the tangible physical equipment, so 'hardware' is correct."
+    },
+    {
+      "id": "50",
+      "subject": "A",
+      "questionText": "Choose the option with the correct subject-verb agreement: One of the students __________ absent today.",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have"
+      ],
+      "correctAnswer": "is",
+      "explanation": "The subject is 'one', which is singular, so the singular verb 'is' is correct even though 'students' is plural. 'Are' and 'were' are plural and wrongly agree with 'students'; 'have' is also plural and does not fit the singular subject 'one', so 'is' is right."
+    },
+    {
+      "id": "51",
+      "subject": "B",
+      "questionText": "The 'Sahitya Akademi Award' is given in India for excellence in which field?",
+      "options": [
+        "Cinema",
+        "Science",
+        "Sports",
+        "Literature"
+      ],
+      "correctAnswer": "Literature",
+      "explanation": "The Sahitya Akademi Award honours outstanding literary works in Indian languages. Cinema is recognised by the National Film Awards, science by awards like the Bhatnagar Prize, and sports by honours like the Khel Ratna, so literature is the field for the Sahitya Akademi Award."
+    },
+    {
+      "id": "52",
+      "subject": "C",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Tourism is a major source of income for Jammu and Kashmir.\nReason (R): The region attracts visitors with its lakes, gardens, hill stations and pilgrimage sites.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Tourism is a major income source for J&K (A) precisely because its lakes, gardens, hill stations and shrines draw large numbers of visitors (R), so R correctly explains A. The options denying either statement are wrong since both are true, and the 'not the correct explanation' option fails because these attractions are exactly what generate the tourism income."
+    },
+    {
+      "id": "53",
+      "subject": "D",
+      "questionText": "What is the value of 3/4 of 60% of 200?",
+      "options": [
+        "90",
+        "120",
+        "80",
+        "100"
+      ],
+      "correctAnswer": "90",
+      "explanation": "First take 60% of 200 = 120, then 3/4 of 120 = 90, so the answer is 90. '120' stops at the 60% step without applying the fraction; '80' and '100' come from applying the fraction or the percentage in the wrong order or to the wrong base, so only 90 is the correct combined value."
+    },
+    {
+      "id": "54",
+      "subject": "E",
+      "questionText": "Which of the following is used to uniquely identify each device on a local network at the hardware level?",
+      "options": [
+        "URL",
+        "Hyperlink",
+        "MAC address",
+        "File path"
+      ],
+      "correctAnswer": "MAC address",
+      "explanation": "A MAC address is a unique hardware identifier assigned to a network interface. A URL is a web resource address, a hyperlink is a clickable reference, and a file path locates a file on storage, so none of them identifies hardware on a network except the MAC address."
+    },
+    {
+      "id": "55",
+      "subject": "A",
+      "questionText": "Consider the following statements about degrees of comparison:\n\n(i) 'Better' is the comparative form of 'good'.\n(ii) 'Worst' is the superlative form of 'bad'.\n(iii) 'More tall' is the correct comparative form of 'tall'.\n(iv) 'Happiest' is the superlative form of 'happy'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Better' is the comparative of 'good' (i), 'worst' is the superlative of 'bad' (ii), and 'happiest' is the superlative of 'happy' (iv). Statement (iii) is false because the comparative of 'tall' is 'taller', not 'more tall', so any option containing (iii) is eliminated, leaving '(i), (ii) and (iv)'."
+    },
+    {
+      "id": "56",
+      "subject": "B",
+      "questionText": "Which Indian river is known as the 'Dakshin Ganga' (Ganga of the South)?",
+      "options": [
+        "Krishna",
+        "Kaveri",
+        "Mahanadi",
+        "Godavari"
+      ],
+      "correctAnswer": "Godavari",
+      "explanation": "The Godavari, the longest peninsular river, is called the 'Dakshin Ganga'. The Krishna, Kaveri and Mahanadi are also major southern rivers, but the epithet 'Ganga of the South' specifically belongs to the Godavari, so it is the correct answer."
+    },
+    {
+      "id": "57",
+      "subject": "D",
+      "questionText": "Match the following shapes with their number of sides:\n\nColumn I:\n(a) Pentagon\n(b) Hexagon\n(c) Octagon\n(d) Triangle\n\nColumn II:\n(i) 8\n(ii) 5\n(iii) 3\n(iv) 6\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "A pentagon has 5 sides, a hexagon 6, an octagon 8, and a triangle 3, giving (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii). The other options swap counts, such as giving the hexagon 5 sides or the octagon 6, which are wrong, so the first mapping is correct."
+    },
+    {
+      "id": "58",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct article: She is __________ university student who tops her class every year. __________",
+      "options": [
+        "an",
+        "the",
+        "a",
+        "no article"
+      ],
+      "correctAnswer": "a",
+      "explanation": "'University' begins with a consonant 'y' sound (/ju:/), so it takes 'a', not 'an'. 'An' is used before vowel sounds; 'the' would make it specific rather than general; and omitting the article is wrong before a singular countable noun, so 'a' is correct."
+    },
+    {
+      "id": "59",
+      "subject": "B",
+      "questionText": "The 'Ranthambore National Park', famous for tigers, is located in which state?",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "correctAnswer": "Rajasthan",
+      "explanation": "Ranthambore National Park, a well-known tiger reserve, is in Rajasthan. Madhya Pradesh has Kanha and Bandhavgarh, Gujarat has Gir (lions), and Maharashtra has Tadoba, so none of them hosts Ranthambore, which lies in Rajasthan."
+    },
+    {
+      "id": "60",
+      "subject": "D",
+      "questionText": "If 8 men can complete a task in 12 days, how many days will 6 men take to complete the same task?",
+      "options": [
+        "9",
+        "18",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "16",
+      "explanation": "Total work = 8 × 12 = 96 man-days; with 6 men, days = 96 ÷ 6 = 16. '9' comes from a direct (wrong) proportion; '18' and '14' do not satisfy the man-days equation, so 16 days is correct for the smaller team."
+    },
+    {
+      "id": "61",
+      "subject": "A",
+      "questionText": "Choose the correct analogy: 'Doctor' is to 'Patient' as 'Lawyer' is to __________.",
+      "options": [
+        "Client",
+        "Judge",
+        "Court",
+        "Witness"
+      ],
+      "correctAnswer": "Client",
+      "explanation": "A doctor serves a patient, so a lawyer serves a client (professional-to-served-person relation). A judge presides over a case, a court is a place, and a witness gives testimony, so none of them mirrors the 'served person' role that a client does for a lawyer."
+    },
+    {
+      "id": "62",
+      "subject": "B",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The Rajya Sabha is a permanent House that is never fully dissolved.\nReason (R): One-third of its members retire every two years, so it is subject to periodic partial change.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The Rajya Sabha is a permanent House (A) precisely because only one-third of its members retire every two years, so it is never dissolved all at once (R), which correctly explains A. The options denying either statement are wrong since both are true, and the staggered retirement is exactly why the House is permanent."
+    },
+    {
+      "id": "63",
+      "subject": "C",
+      "questionText": "Which of the following are famous handicrafts of the Kashmir region?\n\n(i) Pashmina shawls\n(ii) Papier-mâché\n(iii) Bidriware\n(iv) Walnut wood carving\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Pashmina shawls, papier-mâché and walnut wood carving are celebrated Kashmiri handicrafts. Bidriware is a metal inlay craft of Bidar in Karnataka, not Kashmir, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)'."
+    },
+    {
+      "id": "64",
+      "subject": "D",
+      "questionText": "The simple interest on ₹5,000 at 8% per annum for 2 years is:",
+      "options": [
+        "₹400",
+        "₹800",
+        "₹1,000",
+        "₹640"
+      ],
+      "correctAnswer": "₹800",
+      "explanation": "SI = P × R × T ÷ 100 = 5,000 × 8 × 2 ÷ 100 = 800. '₹400' is the interest for one year; '₹1,000' uses 10% instead of 8%; and '₹640' misapplies the rate, so ₹800 is the correct interest for two years."
+    },
+    {
+      "id": "65",
+      "subject": "E",
+      "questionText": "Which of the following are examples of instant-messaging or communication applications?\n\n(i) WhatsApp\n(ii) MS Excel\n(iii) Telegram\n(iv) Skype\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "WhatsApp, Telegram and Skype are communication/messaging applications. MS Excel is a spreadsheet program, not a messaging app, so any combination containing (ii) is wrong, leaving '(i), (iii) and (iv)' as the correct set."
+    },
+    {
+      "id": "66",
+      "subject": "A",
+      "questionText": "Choose the correct meaning of the word 'INEVITABLE':",
+      "options": [
+        "Unavoidable",
+        "Unbelievable",
+        "Unimportant",
+        "Uncomfortable"
+      ],
+      "correctAnswer": "Unavoidable",
+      "explanation": "'Inevitable' means certain to happen and impossible to avoid, i.e., 'unavoidable'. 'Unbelievable' means hard to believe, 'unimportant' means not significant, and 'uncomfortable' means causing discomfort, so none of these matches the meaning of inevitable except 'unavoidable'."
+    },
+    {
+      "id": "67",
+      "subject": "B",
+      "questionText": "The 'Hirakud Dam', one of the longest dams in the world, is built on which river?",
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Mahanadi",
+        "Narmada"
+      ],
+      "correctAnswer": "Mahanadi",
+      "explanation": "The Hirakud Dam in Odisha is built across the Mahanadi river. The Godavari and Krishna are separate peninsular rivers with their own dams, and the Narmada hosts the Sardar Sarovar Dam, so none of them carries the Hirakud Dam, which is on the Mahanadi."
+    },
+    {
+      "id": "68",
+      "subject": "D",
+      "questionText": "A rectangle has a length of 15 cm and a breadth of 8 cm. What is the length of its diagonal?",
+      "options": [
+        "23 cm",
+        "17 cm",
+        "12 cm",
+        "19 cm"
+      ],
+      "correctAnswer": "17 cm",
+      "explanation": "Diagonal = √(15² + 8²) = √(225 + 64) = √289 = 17 cm. '23 cm' adds the sides; '12 cm' is unrelated; and '19 cm' is not a Pythagorean result of these sides, so 17 cm is the correct diagonal length."
+    },
+    {
+      "id": "69",
+      "subject": "E",
+      "questionText": "In an operating system, the small picture that represents a file, folder or program is called a(n):",
+      "options": [
+        "Cursor",
+        "Menu",
+        "Window",
+        "Icon"
+      ],
+      "correctAnswer": "Icon",
+      "explanation": "An icon is a small graphical symbol representing a file, folder or program. A cursor marks the pointer or insertion point, a menu lists commands, and a window is a framed area on screen, so none of them is the small representative picture except an icon."
+    },
+    {
+      "id": "70",
+      "subject": "A",
+      "questionText": "Choose the correct preposition: The old temple stands __________ the top of the hill.",
+      "options": [
+        "at",
+        "in",
+        "into",
+        "by"
+      ],
+      "correctAnswer": "at",
+      "explanation": "'At the top of' is the fixed prepositional phrase for a specific point, so 'at' is correct. 'In' suggests being inside something, 'into' shows movement, and 'by' means beside, none of which fits the idea of a location at the summit, so 'at' is right."
+    },
+    {
+      "id": "71",
+      "subject": "B",
+      "questionText": "Consider the following statements about the Indian National Movement:\n\n(i) The Indian National Congress was founded in 1885.\n(ii) The Non-Cooperation Movement was launched by Mahatma Gandhi.\n(iii) The Simon Commission arrived in India in 1928.\n(iv) The Dandi March was carried out in 1935.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The INC was founded in 1885 (i), Gandhi led the Non-Cooperation Movement (ii), and the Simon Commission came in 1928 (iii). Statement (iv) is false because the Dandi March took place in 1930, not 1935, so any option containing (iv) is eliminated."
+    },
+    {
+      "id": "72",
+      "subject": "C",
+      "questionText": "The 'Sinthan Top', a scenic high mountain pass, connects the Kashmir Valley (Anantnag) with which district of the Jammu region?",
+      "options": [
+        "Rajouri",
+        "Kishtwar",
+        "Poonch",
+        "Samba"
+      ],
+      "correctAnswer": "Kishtwar",
+      "explanation": "Sinthan Top links the Anantnag area of the Kashmir Valley with the Kishtwar district of the Jammu region. Rajouri and Poonch are connected via the Pir Panjal/Mughal Road, and Samba lies in the plains, so Kishtwar is the district joined to the Valley by Sinthan Top."
+    },
+    {
+      "id": "73",
+      "subject": "D",
+      "questionText": "The following data shows monthly expenses of a family (in ₹):\n\nFood → 8000\nRent → 10000\nTransport → 3000\nOthers → 4000\n\nWhat percentage of the total expense is spent on rent?",
+      "options": [
+        "35%",
+        "45%",
+        "32%",
+        "40%"
+      ],
+      "correctAnswer": "40%",
+      "explanation": "Total = 8000 + 10000 + 3000 + 4000 = 25,000; rent share = 10,000/25,000 × 100 = 40%. '35%' and '32%' come from a wrong total, and '45%' overstates the rent, so 40% is the correct percentage spent on rent."
+    },
+    {
+      "id": "74",
+      "subject": "E",
+      "questionText": "Which term refers to unwanted or unsolicited bulk e-mail?",
+      "options": [
+        "Spam",
+        "Cookie",
+        "Cache",
+        "Bug"
+      ],
+      "correctAnswer": "Spam",
+      "explanation": "Spam is unwanted bulk e-mail, often advertising or fraudulent. A cookie is a small data file stored by websites, a cache is temporary storage for faster access, and a bug is a software error, so none of them means junk e-mail except spam."
+    },
+    {
+      "id": "75",
+      "subject": "A",
+      "questionText": "Choose the correct homophone to complete the sentence: The council will __________ the new policy after the debate.",
+      "options": [
+        "adapt",
+        "adept",
+        "adopt",
+        "adhoc"
+      ],
+      "correctAnswer": "adopt",
+      "explanation": "'Adopt' means to formally accept or approve, which fits accepting a policy. 'Adapt' means to adjust or modify, 'adept' means skilful, and 'adhoc' means for a specific purpose, so none of those conveys formally accepting a policy except 'adopt'."
+    },
+    {
+      "id": "76",
+      "subject": "B",
+      "questionText": "Match the following sports with the number of players in a team (on the field):\n\nColumn I:\n(a) Cricket\n(b) Football\n(c) Hockey\n(d) Basketball\n\nColumn II:\n(i) 11\n(ii) 5\n(iii) 11\n(iv) 11\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+      "explanation": "Cricket, football and hockey each field 11 players, while basketball fields 5. Since (i), (iii) and (iv) are all 11 and (ii) is 5, only the mapping that assigns the '5' to basketball, i.e., (a)-(i), (b)-(iii), (c)-(iv), (d)-(ii), is consistent; the others wrongly give basketball 11 or cricket 5."
+    },
+    {
+      "id": "77",
+      "subject": "D",
+      "questionText": "A person spends 75% of his income and saves the rest. If he saves ₹4,500 per month, what is his monthly income?",
+      "options": [
+        "₹16,000",
+        "₹22,500",
+        "₹20,000",
+        "₹18,000"
+      ],
+      "correctAnswer": "₹18,000",
+      "explanation": "Savings = 25% of income = 4,500, so income = 4,500 × 100/25 = 18,000. '₹22,500' wrongly treats 4,500 as 20%; '₹16,000' and '₹20,000' do not give 4,500 as 25%, so ₹18,000 is the correct income."
+    },
+    {
+      "id": "78",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct form of the verb: By next year, she __________ in this office for a decade. __________",
+      "options": [
+        "will have worked",
+        "will work",
+        "has worked",
+        "worked"
+      ],
+      "correctAnswer": "will have worked",
+      "explanation": "An action to be completed by a future point uses the future perfect, so 'will have worked' is correct. 'Will work' is simple future, 'has worked' is present perfect, and 'worked' is simple past, none of which expresses completion by a future time like the future perfect."
+    },
+    {
+      "id": "79",
+      "subject": "B",
+      "questionText": "The 'Nobel Prize' was first awarded in which year?",
+      "options": [
+        "1895",
+        "1918",
+        "1901",
+        "1945"
+      ],
+      "correctAnswer": "1901",
+      "explanation": "The first Nobel Prizes were awarded in 1901, five years after Alfred Nobel's death in 1896. 1895 is when Nobel signed his will; 1918 and 1945 are unrelated later years, so 1901 is the correct year of the first Nobel Prize."
+    },
+    {
+      "id": "80",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The product of any number and zero is zero.\nReason (R): Zero added to itself any number of times still gives zero.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Multiplying any number by zero gives zero (A), and since multiplication is repeated addition, adding zero repeatedly also yields zero (R), which correctly explains A. The options denying either statement are wrong since both are true, and the repeated-addition idea is exactly why the product with zero is zero."
+    },
+    {
+      "id": "81",
+      "subject": "A",
+      "questionText": "Choose the correct meaning of the idiom 'to hit the nail on the head':",
+      "options": [
+        "To injure oneself while working",
+        "To describe exactly the real point or cause",
+        "To finish a task in great haste",
+        "To start an unnecessary argument"
+      ],
+      "correctAnswer": "To describe exactly the real point or cause",
+      "explanation": "'To hit the nail on the head' means to state exactly the right point or identify the true cause. Injuring oneself, rushing a task and starting an argument are unrelated literal or invented meanings that miss the idiom's sense of precise accuracy, so the first option is correct."
+    },
+    {
+      "id": "82",
+      "subject": "B",
+      "questionText": "Which is the largest planet in our solar system?",
+      "options": [
+        "Saturn",
+        "Neptune",
+        "Earth",
+        "Jupiter"
+      ],
+      "correctAnswer": "Jupiter",
+      "explanation": "Jupiter is the largest planet in the solar system by both diameter and mass. Saturn is the second largest, Neptune is much smaller, and Earth is smaller still, so Jupiter is the correct answer for the biggest planet."
+    },
+    {
+      "id": "83",
+      "subject": "C",
+      "questionText": "The famous 'Shalimar Bagh' Mughal garden in Srinagar was built by which Mughal emperor?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Jahangir",
+        "Aurangzeb"
+      ],
+      "correctAnswer": "Jahangir",
+      "explanation": "Shalimar Bagh was built by Emperor Jahangir in 1619 for his wife Nur Jahan. Akbar annexed Kashmir but did not build this garden; Shah Jahan and Aurangzeb ruled later, so among the given emperors Jahangir is credited with the Shalimar Bagh."
+    },
+    {
+      "id": "84",
+      "subject": "D",
+      "questionText": "Consider the following statements about multiples:\n\n(i) Every multiple of 10 ends in 0.\n(ii) Every multiple of 5 ends in 0 or 5.\n(iii) Every multiple of 2 is an even number.\n(iv) Every multiple of 3 is also a multiple of 9.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Multiples of 10 end in 0 (i), multiples of 5 end in 0 or 5 (ii), and multiples of 2 are even (iii). Statement (iv) is false because 3, 6 and 12 are multiples of 3 but not of 9, so any option containing (iv) is eliminated, leaving '(i), (ii) and (iii)'."
+    },
+    {
+      "id": "85",
+      "subject": "E",
+      "questionText": "What is the primary function of the 'Recycle Bin' in Windows?",
+      "options": [
+        "To permanently erase files instantly",
+        "To compress large files",
+        "To scan for viruses",
+        "To temporarily hold deleted files for possible recovery"
+      ],
+      "correctAnswer": "To temporarily hold deleted files for possible recovery",
+      "explanation": "The Recycle Bin temporarily stores deleted files so they can be restored if needed. It does not erase files instantly (that would defeat recovery), does not compress files, and does not scan for viruses, so its primary role is temporary storage of deleted items."
+    },
+    {
+      "id": "86",
+      "subject": "A",
+      "questionText": "Choose the option nearest in meaning to the idiom 'once in a blue moon':",
+      "options": [
+        "Very often",
+        "Suddenly",
+        "Very rarely",
+        "Almost never at all"
+      ],
+      "correctAnswer": "Very rarely",
+      "explanation": "'Once in a blue moon' means something that happens very rarely. 'Very often' is the opposite; 'suddenly' refers to speed, not frequency; and 'almost never at all' overstates it to near-impossibility, whereas the idiom means rare but occasional, so 'very rarely' is best."
+    },
+    {
+      "id": "87",
+      "subject": "B",
+      "questionText": "The 'Right to Education' was made a Fundamental Right by inserting which Article into the Constitution?",
+      "options": [
+        "Article 19A",
+        "Article 21A",
+        "Article 15A",
+        "Article 44"
+      ],
+      "correctAnswer": "Article 21A",
+      "explanation": "The 86th Amendment inserted Article 21A, making free and compulsory education for children aged 6–14 a Fundamental Right. Article 19A does not exist in this sense, Article 15A is not the education provision, and Article 44 is a Directive Principle on a uniform civil code, so 21A is correct."
+    },
+    {
+      "id": "88",
+      "subject": "D",
+      "questionText": "Which of the following are prime numbers?\n\n(i) 29\n(ii) 39\n(iii) 41\n(iv) 51\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii) and (iv) only",
+        "(i), (iii) and (iv)",
+        "(i) and (iii) only"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "29 and 41 are prime, so (i) and (iii) are correct. 39 = 3 × 13 and 51 = 3 × 17 are composite, so (ii) and (iv) are not prime, and every option including them is eliminated, leaving '(i) and (iii) only'."
+    },
+    {
+      "id": "89",
+      "subject": "E",
+      "questionText": "Which of these is the correct expansion of 'USB'?",
+      "options": [
+        "United System Board",
+        "Universal System Backup",
+        "Universal Serial Bus",
+        "Unified Serial Buffer"
+      ],
+      "correctAnswer": "Universal Serial Bus",
+      "explanation": "USB stands for Universal Serial Bus, a common standard for connecting peripherals. 'United System Board', 'Universal System Backup' and 'Unified Serial Buffer' are not the correct expansions, so Universal Serial Bus is the right answer."
+    },
+    {
+      "id": "90",
+      "subject": "A",
+      "questionText": "Choose the correct pronoun: The prize was shared between Rahul and __________.",
+      "options": [
+        "I",
+        "me",
+        "myself",
+        "mine"
+      ],
+      "correctAnswer": "me",
+      "explanation": "After the preposition 'between', the objective case is required, so 'between Rahul and me' is correct. 'I' is subjective, 'myself' is reflexive and needs a matching subject, and 'mine' is possessive, none of which fits the object of the preposition, so 'me' is right."
+    },
+    {
+      "id": "91",
+      "subject": "B",
+      "questionText": "The 'ISRO' (Indian Space Research Organisation) has its headquarters in which city?",
+      "options": [
+        "Hyderabad",
+        "Thiruvananthapuram",
+        "Sriharikota",
+        "Bengaluru"
+      ],
+      "correctAnswer": "Bengaluru",
+      "explanation": "ISRO's headquarters is in Bengaluru. Thiruvananthapuram hosts the VSSC, Sriharikota is the launch site (SDSC-SHAR), and Hyderabad has the NRSC, but the main headquarters is in Bengaluru, so it is the correct answer."
+    },
+    {
+      "id": "92",
+      "subject": "C",
+      "questionText": "The 'Doda', 'Ramban' and 'Kishtwar' districts were carved mainly out of which erstwhile larger district?",
+      "options": [
+        "Udhampur (undivided)",
+        "Anantnag (undivided)",
+        "Doda (undivided)",
+        "Baramulla (undivided)"
+      ],
+      "correctAnswer": "Doda (undivided)",
+      "explanation": "The present Doda, Ramban and Kishtwar districts were formed from the old undivided Doda district when J&K was reorganised into more districts in 2007. Undivided Udhampur gave rise to Reasi; Anantnag and Baramulla are Valley districts, so the undivided Doda is the correct parent district."
+    },
+    {
+      "id": "93",
+      "subject": "D",
+      "questionText": "Which of the following numbers is the odd one out: 5, 7, 9, 11?",
+      "options": [
+        "5",
+        "9",
+        "7",
+        "11"
+      ],
+      "correctAnswer": "9",
+      "explanation": "5, 7 and 11 are all prime numbers, while 9 = 3 × 3 is composite, making 9 the odd one out. '5', '7' and '11' cannot be the odd one out because they share the property of being prime, so 9 is the correct answer."
+    },
+    {
+      "id": "94",
+      "subject": "E",
+      "questionText": "Which function key is commonly used to refresh a web page or the desktop in Windows?",
+      "options": [
+        "F1",
+        "F2",
+        "Esc",
+        "F5"
+      ],
+      "correctAnswer": "F5",
+      "explanation": "The F5 key refreshes a web page or the desktop view in Windows. F1 usually opens Help, F2 renames a selected file, and Esc cancels an action, so none of them performs a refresh except F5, which is the correct key."
+    },
+    {
+      "id": "95",
+      "subject": "A",
+      "questionText": "Choose the sentence that uses the apostrophe correctly for possession:",
+      "options": [
+        "The childrens' toys were scattered on the floor.",
+        "The childrens toys were scattered on the floor.",
+        "The children's toys were scattered on the floor.",
+        "The children's toy's were scattered on the floor."
+      ],
+      "correctAnswer": "The children's toys were scattered on the floor.",
+      "explanation": "'Children' is already plural, so the possessive is 'children's'. 'Childrens'' wrongly adds an s before the apostrophe; 'childrens' omits the apostrophe; and 'toy's' wrongly makes the plural 'toys' possessive, so only the first sentence is correct."
+    },
+    {
+      "id": "96",
+      "subject": "B",
+      "questionText": "The coloured part of the human eye that controls the size of the pupil is the:",
+      "options": [
+        "Retina",
+        "Iris",
+        "Cornea",
+        "Lens"
+      ],
+      "correctAnswer": "Iris",
+      "explanation": "The iris is the coloured muscular ring that adjusts the size of the pupil to control the light entering the eye. The retina is the light-sensitive layer at the back, the cornea is the transparent front cover, and the lens focuses light, so none of them controls the pupil's size except the iris."
+    },
+    {
+      "id": "97",
+      "subject": "D",
+      "questionText": "The value of 2/5 + 3/10 − 1/2 is:",
+      "options": [
+        "3/10",
+        "2/5",
+        "1/10",
+        "1/5"
+      ],
+      "correctAnswer": "1/5",
+      "explanation": "Using a common denominator of 10: 4/10 + 3/10 − 5/10 = 2/10 = 1/5. '3/10' and '2/5' come from omitting or mishandling the subtraction, and '1/10' from a wrong sum, so 1/5 is the correct value."
+    },
+    {
+      "id": "98",
+      "subject": "A",
+      "questionText": "Fill in the blank with the correct conjunction: __________ he was tired, he continued to work on the project. __________",
+      "options": [
+        "Because",
+        "Unless",
+        "Although",
+        "So"
+      ],
+      "correctAnswer": "Although",
+      "explanation": "The sentence shows contrast (being tired versus continuing to work), so 'although' is correct. 'Because' shows cause, 'unless' shows a negative condition, and 'so' shows result, none of which expresses the contrast that 'although' provides, so it is the right conjunction."
+    },
+    {
+      "id": "99",
+      "subject": "B",
+      "questionText": "Which Indian city is known as the 'Pink City'?",
+      "options": [
+        "Jodhpur",
+        "Jaipur",
+        "Udaipur",
+        "Jaisalmer"
+      ],
+      "correctAnswer": "Jaipur",
+      "explanation": "Jaipur is called the 'Pink City' because of the pink-coloured buildings in its old walled area. Jodhpur is the 'Blue City', Udaipur is the 'City of Lakes', and Jaisalmer is the 'Golden City', so Jaipur is the correct answer for the Pink City."
+    },
+    {
+      "id": "100",
+      "subject": "D",
+      "questionText": "A train travelling at 90 km/h crosses a platform 200 m long in 20 seconds. What is the length of the train?",
+      "options": [
+        "250 m",
+        "200 m",
+        "350 m",
+        "300 m"
+      ],
+      "correctAnswer": "300 m",
+      "explanation": "Speed = 90 km/h = 25 m/s; distance in 20 s = 25 × 20 = 500 m = train length + platform (200 m), so train = 500 − 200 = 300 m. '250 m' and '350 m' come from wrong subtraction, and '200 m' equals only the platform, so 300 m is correct."
+    }
+  ]
+}

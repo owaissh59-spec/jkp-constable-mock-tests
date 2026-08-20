@@ -1,0 +1,527 @@
+{
+  "subject": "E",
+  "topic": "Rapid mixed revision & weak-area drill — Computers",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which of the following best describes the term 'firmware'?",
+      "options": [
+        "Software permanently stored on a hardware device's ROM",
+        "A program that removes viruses",
+        "A high-speed volatile memory",
+        "A type of network cable"
+      ],
+      "correctAnswer": "Software permanently stored on a hardware device's ROM",
+      "explanation": "Firmware is low-level software written into a device's ROM/flash, such as the BIOS, that controls the hardware. It is not antivirus software, not volatile memory (it persists without power), and certainly not a cable, so the first option is the only accurate description of firmware."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "In MS Excel, the formula =SUMIF(A1:A10,\">50\") does which of the following?",
+      "options": [
+        "Counts the values greater than 50",
+        "Adds all values in the range",
+        "Adds only the values greater than 50 in the range",
+        "Returns the average of values greater than 50"
+      ],
+      "correctAnswer": "Adds only the values greater than 50 in the range",
+      "explanation": "SUMIF adds only those cells that satisfy the criterion, here values greater than 50. Counting would need COUNTIF; adding all values would need plain SUM; and averaging conditionally would need AVERAGEIF, so only the first option describes what SUMIF does."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cache memory speeds up processing.\nReason (R): Cache stores frequently used data and instructions close to the CPU for faster access.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Cache speeds up processing (A) precisely because it keeps frequently used data and instructions physically close to the CPU, cutting access time (R), so R correctly explains A. The options denying either statement are wrong since both are true, and the 'not the correct explanation' option fails because proximity of hot data is exactly why cache is fast."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Which of the following is NOT an example of an operating system?",
+      "options": [
+        "Windows",
+        "Oracle",
+        "macOS",
+        "Ubuntu"
+      ],
+      "correctAnswer": "Oracle",
+      "explanation": "Oracle is primarily a relational database management system, not an operating system. Windows, macOS and Ubuntu (a Linux distribution) are all operating systems that manage hardware and run applications, so Oracle is the odd one out."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "The process of starting or restarting a computer and loading the operating system into memory is called:",
+      "options": [
+        "Formatting",
+        "Debugging",
+        "Compiling",
+        "Booting"
+      ],
+      "correctAnswer": "Booting",
+      "explanation": "Booting is the start-up process that loads the operating system into RAM. Formatting prepares a disk by erasing and structuring it; debugging is finding and fixing program errors; compiling converts source code to machine code, so none of those describes the start-up process named booting."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Consider the following statements about input and output devices:\n\n(i) A keyboard is an input device.\n(ii) A monitor is an output device.\n(iii) A touchscreen can act as both an input and an output device.\n(iv) A mouse is an output device.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A keyboard inputs data (i), a monitor outputs it (ii), and a touchscreen both displays output and accepts touch input (iii). Statement (iv) is false because a mouse is an input device, not an output device, so any option containing (iv) is eliminated, leaving '(i), (ii) and (iii)'."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "In networking, what does the abbreviation 'IP' stand for in 'IP address'?",
+      "options": [
+        "Internal Processor",
+        "Information Provider",
+        "Internet Protocol",
+        "Internet Provider"
+      ],
+      "correctAnswer": "Internet Protocol",
+      "explanation": "An IP address is an Internet Protocol address that uniquely identifies a device on a network. 'Internal Processor', 'Information Provider' and 'Internet Provider' are not the expansion of IP in this context, so Internet Protocol is the correct answer."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Which key combination is commonly used to permanently delete a file in Windows without sending it to the Recycle Bin?",
+      "options": [
+        "Ctrl + Delete",
+        "Shift + Delete",
+        "Alt + Delete",
+        "Ctrl + Shift + N"
+      ],
+      "correctAnswer": "Shift + Delete",
+      "explanation": "Shift + Delete removes a file permanently, bypassing the Recycle Bin. Ctrl + Delete and Alt + Delete are not the standard permanent-delete shortcuts, and Ctrl + Shift + N creates a new folder, so only Shift + Delete performs the described action."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Which of the following are examples of output devices?\n\n(i) Plotter\n(ii) Projector\n(iii) Microphone\n(iv) Headphones\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A plotter, a projector and headphones all output information from the computer to the user. A microphone is an input device that captures sound, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)' as the correct set of output devices."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "In MS Word, the feature that automatically produces personalised letters or labels by combining a document with a data source is called:",
+      "options": [
+        "Mail Merge",
+        "Track Changes",
+        "Find and Replace",
+        "Hyperlink"
+      ],
+      "correctAnswer": "Mail Merge",
+      "explanation": "Mail Merge combines a main document with a data source (like a list of names) to generate many personalised copies. Track Changes records edits, Find and Replace edits text, and Hyperlink adds clickable links, so none of them performs the merging described."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Which unit is the smallest and represents a single binary digit (0 or 1)?",
+      "options": [
+        "Byte",
+        "Nibble",
+        "Bit",
+        "Word"
+      ],
+      "correctAnswer": "Bit",
+      "explanation": "A bit is a single binary digit, the smallest unit of data. A nibble is four bits, a byte is eight bits, and a word is a group of bytes handled together, so all of these are larger than a bit, which is the smallest unit."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "A 'phishing' attack is best described as:",
+      "options": [
+        "Physically stealing a computer",
+        "Tricking users into revealing sensitive information via fake messages",
+        "Overheating a processor deliberately",
+        "Speeding up internet connectivity"
+      ],
+      "correctAnswer": "Tricking users into revealing sensitive information via fake messages",
+      "explanation": "Phishing uses deceptive e-mails, messages or websites to trick people into revealing passwords or bank details. It is not physical theft, has nothing to do with overheating hardware, and does not improve connectivity, so the first option correctly defines phishing."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A compiler translates an entire program before execution.\nReason (R): A compiler converts the whole high-level source code into machine code in one go, generating an object file.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A compiler translates the whole program before execution (A) precisely because it converts the entire source into machine code at once, producing an object file (R), so R correctly explains A. The options denying either statement are wrong since both are true, and the 'not the correct explanation' option fails because whole-program translation is exactly what makes a compiler differ from an interpreter."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "In a spreadsheet, the intersection of a row and a column is called a:",
+      "options": [
+        "Range",
+        "Sheet",
+        "Field",
+        "Cell"
+      ],
+      "correctAnswer": "Cell",
+      "explanation": "A cell is the single box formed where a row and a column intersect. A range is a group of cells, a sheet is the whole worksheet grid, and a field usually refers to a column in a database context, so 'cell' is the correct term for a single intersection."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "Which of the following are valid types of computer network based on their geographical span?\n\n(i) LAN\n(ii) MAN\n(iii) WAN\n(iv) RAM\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "LAN, MAN and WAN are networks classified by span (local, metropolitan and wide area). RAM is a type of memory, not a network, so any option containing (iv) is wrong, leaving '(i), (ii) and (iii)' as the valid network types."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Fill in the blank: In an e-mail, a file such as a document or image sent along with the message is called an __________. __________",
+      "options": [
+        "attribute",
+        "extension",
+        "attachment",
+        "increment"
+      ],
+      "correctAnswer": "attachment",
+      "explanation": "A file sent with an e-mail is called an attachment. An 'attribute' is a property of data, an 'extension' is the suffix of a filename indicating its type, and 'increment' means a small increase, so none of these describes a file added to an e-mail except 'attachment'."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Which of the following storage devices uses flash memory and has no moving parts?",
+      "options": [
+        "Hard Disk Drive (HDD)",
+        "Solid State Drive (SSD)",
+        "Magnetic tape",
+        "Floppy disk"
+      ],
+      "correctAnswer": "Solid State Drive (SSD)",
+      "explanation": "An SSD stores data in flash memory chips with no moving parts, making it fast and shock-resistant. An HDD uses spinning platters, magnetic tape uses a moving reel, and a floppy uses a spinning magnetic disk, so all of them have moving parts unlike the SSD."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "The 'World Wide Web' was invented by which computer scientist?",
+      "options": [
+        "Charles Babbage",
+        "Bill Gates",
+        "Vint Cerf",
+        "Tim Berners-Lee"
+      ],
+      "correctAnswer": "Tim Berners-Lee",
+      "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while at CERN. Charles Babbage designed early mechanical computers; Bill Gates co-founded Microsoft; and Vint Cerf is a co-designer of TCP/IP (the internet's protocols), not the Web, so Berners-Lee is the correct answer."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "In MS PowerPoint, which view displays all the slides as small thumbnails to help rearrange them?",
+      "options": [
+        "Slide Sorter view",
+        "Normal view",
+        "Reading view",
+        "Notes Page view"
+      ],
+      "correctAnswer": "Slide Sorter view",
+      "explanation": "Slide Sorter view shows all slides as thumbnails so they can be reordered easily. Normal view is the main editing view for one slide, Reading view plays the show in a window, and Notes Page view shows a slide with its speaker notes, so Slide Sorter is the correct answer."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer software:\n\n(i) System software manages the hardware and provides a platform for applications.\n(ii) A device driver is system software that controls a specific hardware device.\n(iii) A word processor is an example of system software.\n(iv) Utility programs such as disk cleaners are a category of software.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "System software manages hardware (i), a device driver is system software for a device (ii), and utilities like disk cleaners are a software category (iv). Statement (iii) is false because a word processor is application software, not system software, so any option containing (iii) is eliminated."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The binary number 1010 is equal to which decimal number?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "6"
+      ],
+      "correctAnswer": "10",
+      "explanation": "1010 in binary = 1×8 + 0×4 + 1×2 + 0×1 = 8 + 2 = 10. '8' counts only the leftmost bit; '12' would need an extra set bit; and '6' comes from mis-weighting the digits, so 10 is the correct decimal value."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Which company originally developed the Android mobile operating system that Google later acquired and popularised?",
+      "options": [
+        "Apple Inc.",
+        "Nokia",
+        "Microsoft",
+        "Android Inc."
+      ],
+      "correctAnswer": "Android Inc.",
+      "explanation": "Android was originally created by Android Inc., a start-up that Google acquired in 2005 before turning it into the leading mobile OS. Apple develops iOS, Nokia used Symbian, and Microsoft made Windows Phone, so none of them originally developed Android, making 'Android Inc.' the correct answer."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "In MS Excel, which symbol must every formula begin with?",
+      "options": [
+        "= (equals sign)",
+        "+ (plus sign)",
+        "@ (at sign)",
+        "# (hash sign)"
+      ],
+      "correctAnswer": "= (equals sign)",
+      "explanation": "A formula in Excel must start with an equals sign, telling the program to calculate rather than store text. The plus sign works in some legacy cases but is not the standard; the at sign is used in structured references, and the hash sign marks errors/spill ranges, so '=' is the correct starting symbol."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Regularly updating antivirus software improves protection.\nReason (R): Updates add new virus definitions so newer threats can be recognised and blocked.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Updating antivirus improves protection (A) precisely because updates supply new virus definitions that let the software detect the latest threats (R), so R correctly explains A. The options denying either statement are wrong since both are true, and the 'not the correct explanation' option fails because updated definitions are exactly what extend protection to new malware."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Which of the following file formats is used mainly for compressed archive files?",
+      "options": [
+        ".txt",
+        ".bmp",
+        ".zip",
+        ".exe"
+      ],
+      "correctAnswer": ".zip",
+      "explanation": "The .zip format stores one or more files in a compressed archive. A .txt file is plain text, a .bmp file is an uncompressed bitmap image, and a .exe file is an executable program, so only .zip is a compressed archive format."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Match the following computer terms with their descriptions:\n\nColumn I:\n(a) URL\n(b) HTTP\n(c) HTML\n(d) DNS\n\nColumn II:\n(i) Language used to create web pages\n(ii) Address of a web resource\n(iii) Translates domain names into IP addresses\n(iv) Protocol for transferring web pages\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "A URL is the address of a web resource, HTTP is the protocol for transferring web pages, HTML is the language for building pages, and DNS translates domain names into IP addresses. The other options swap pairs, such as making URL a language or DNS an address, which are incorrect."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Which type of software is provided free for a trial period, after which the user must pay to continue using it?",
+      "options": [
+        "Freeware",
+        "Firmware",
+        "Malware",
+        "Shareware"
+      ],
+      "correctAnswer": "Shareware",
+      "explanation": "Shareware is distributed free for a trial, then requires payment for continued full use. Freeware remains completely free, firmware is embedded device software, and malware is malicious software, so shareware is the correct answer for trial-then-pay software."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "The main circuit board of a computer, into which the CPU, memory and other components are connected, is called the:",
+      "options": [
+        "Motherboard",
+        "Hard disk",
+        "Power supply",
+        "Expansion card"
+      ],
+      "correctAnswer": "Motherboard",
+      "explanation": "The motherboard is the main board that holds and interconnects the CPU, memory and other components. A hard disk stores data, a power supply provides electricity, and an expansion card adds a specific capability, so none of them is the central board named the motherboard."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "In MS Word, the shortcut key Ctrl + A is used to:",
+      "options": [
+        "Align text to the centre",
+        "Open a new document",
+        "Select the entire document",
+        "Apply bold formatting"
+      ],
+      "correctAnswer": "Select the entire document",
+      "explanation": "Ctrl + A selects all the content in the document. Centre alignment is Ctrl + E, opening a new document is Ctrl + N, and bold is Ctrl + B, so none of those matches Ctrl + A, which performs a Select All."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Which of the following are good practices for safe internet banking?\n\n(i) Logging out after completing a transaction.\n(ii) Using the bank's official website or app.\n(iii) Sharing the OTP with a caller who claims to be a bank official.\n(iv) Avoiding banking on public/unsecured Wi-Fi.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Logging out (i), using official channels (ii) and avoiding public Wi-Fi (iv) are safe banking practices. Sharing an OTP with any caller (iii) is dangerous and a common fraud tactic, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)'."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "What does 'GUI' stand for in computing?",
+      "options": [
+        "General Utility Interface",
+        "Global Unified Internet",
+        "Guided User Input",
+        "Graphical User Interface"
+      ],
+      "correctAnswer": "Graphical User Interface",
+      "explanation": "GUI stands for Graphical User Interface, which lets users interact through icons, windows and menus rather than text commands. 'General Utility Interface', 'Global Unified Internet' and 'Guided User Input' are not the correct expansion, so the first option is right."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "In MS Excel, if cell A1 contains 10 and A2 contains 20, what will =AVERAGE(A1:A2)*2 return?",
+      "options": [
+        "15",
+        "45",
+        "30",
+        "60"
+      ],
+      "correctAnswer": "30",
+      "explanation": "AVERAGE(A1:A2) = (10 + 20)/2 = 15, and 15 × 2 = 30. '15' ignores the multiplication by 2; '45' and '60' come from wrongly summing before averaging or multiplying the sum, so 30 is the correct result."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "A 'worm' differs from a typical virus mainly because it:",
+      "options": [
+        "Only affects printers",
+        "Can spread across networks without attaching to a host file",
+        "Cannot replicate itself",
+        "Is a piece of hardware"
+      ],
+      "correctAnswer": "Can spread across networks without attaching to a host file",
+      "explanation": "A worm is self-replicating malware that spreads over networks on its own, without needing to attach to a host file as a virus does. It is not limited to printers, it certainly can replicate, and it is software not hardware, so the first option correctly distinguishes a worm."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Which generation of computers is associated with the use of microprocessors (VLSI technology)?",
+      "options": [
+        "First generation",
+        "Second generation",
+        "Third generation",
+        "Fourth generation"
+      ],
+      "correctAnswer": "Fourth generation",
+      "explanation": "Fourth-generation computers used microprocessors built with VLSI (Very Large Scale Integration). The first generation used vacuum tubes, the second used transistors, and the third used integrated circuits, so the microprocessor era belongs to the fourth generation."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "The default file extension for a workbook created in modern versions of MS Excel is:",
+      "options": [
+        ".docx",
+        ".pptx",
+        ".xlsx",
+        ".accdb"
+      ],
+      "correctAnswer": ".xlsx",
+      "explanation": "Modern Excel workbooks are saved with the .xlsx extension. The .docx extension belongs to Word documents, .pptx to PowerPoint presentations, and .accdb to Access databases, so .xlsx is the correct extension for an Excel workbook."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Consider the following statements about e-mail:\n\n(i) CC stands for Carbon Copy.\n(ii) BCC keeps the listed recipients hidden from one another.\n(iii) An e-mail can carry file attachments.\n(iv) SMTP is the protocol used to receive incoming e-mail.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "CC means Carbon Copy (i), BCC hides recipients from each other (ii), and e-mails can include attachments (iii). Statement (iv) is false because SMTP is used to send outgoing mail while POP3/IMAP retrieve incoming mail, so any option containing (iv) is eliminated, leaving '(i), (ii) and (iii)'."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Which of the following is a volatile memory that loses its contents when the computer is turned off?",
+      "options": [
+        "ROM",
+        "Hard disk",
+        "DVD",
+        "RAM"
+      ],
+      "correctAnswer": "RAM",
+      "explanation": "RAM is volatile and loses its stored data when power is removed. ROM is non-volatile firmware memory, and a hard disk and a DVD are non-volatile secondary storage that keep data without power, so RAM is the only volatile option listed."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "In an e-mail address such as user@example.com, the part after the '@' symbol represents the:",
+      "options": [
+        "Password of the account",
+        "Subject of the message",
+        "Domain name of the mail server",
+        "Size of the mailbox"
+      ],
+      "correctAnswer": "Domain name of the mail server",
+      "explanation": "In an e-mail address, the text after the '@' is the domain name identifying the mail server or organisation. It is not the password, not the subject line, and not the mailbox size, so the domain name is the correct meaning of that part of the address."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Which of the following best defines 'cloud storage'?",
+      "options": [
+        "Storing data only on the local hard disk",
+        "Storing data on remote servers accessed over the internet",
+        "A method of cooling the CPU",
+        "A type of computer virus"
+      ],
+      "correctAnswer": "Storing data on remote servers accessed over the internet",
+      "explanation": "Cloud storage keeps data on remote servers that users reach over the internet, as with Google Drive or OneDrive. It is not local-disk storage, has nothing to do with CPU cooling, and is not a virus, so the first option correctly defines cloud storage."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "The technique of converting data into a coded form so that only authorised parties can read it is called:",
+      "options": [
+        "Compression",
+        "Formatting",
+        "Defragmentation",
+        "Encryption"
+      ],
+      "correctAnswer": "Encryption",
+      "explanation": "Encryption encodes data so that only those with the correct key can read it, protecting confidentiality. Compression reduces file size, formatting prepares storage media, and defragmentation reorganises files on a disk, so none of them provides the coded protection described except encryption."
+    }
+  ]
+}
