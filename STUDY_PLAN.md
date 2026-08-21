@@ -519,17 +519,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 184 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ⬜ |
-| 185 | Afternoon | D — Numerical and Reasoning Ability | Sectional revision — Numerical & Reasoning Ability | 50 | advanced | Sectional revision | ⬜ |
-| 186 | Late | C — General Knowledge — J&K | Rapid mixed revision & weak-area drill — GK J&K | 40 | advanced | Rapid revision | ⬜ |
+| 184 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ✅ |
+| 185 | Afternoon | D — Numerical and Reasoning Ability | Sectional revision — Numerical & Reasoning Ability | 50 | advanced | Sectional revision | ✅ |
+| 186 | Late | C — General Knowledge — J&K | Rapid mixed revision & weak-area drill — GK J&K | 40 | advanced | Rapid revision | ✅ |
 
 ### Day 63
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 187 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ⬜ |
-| 188 | Afternoon | E — Basic Concepts of Computers | Sectional revision — Basic Concepts of Computers | 50 | advanced | Sectional revision | ⬜ |
-| 189 | Late | A — General English | Rapid mixed revision & weak-area drill — General English | 40 | advanced | Rapid revision | ⬜ |
+| 187 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ✅ |
+| 188 | Afternoon | E — Basic Concepts of Computers | Sectional revision — Basic Concepts of Computers | 50 | advanced | Sectional revision | ✅ |
+| 189 | Late | A — General English | Rapid mixed revision & weak-area drill — General English | 40 | advanced | Rapid revision | ✅ |
 
 ### Day 64
 

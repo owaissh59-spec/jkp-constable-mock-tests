@@ -1,0 +1,657 @@
+{
+  "subject": "E",
+  "topic": "Sectional revision — Basic Concepts of Computers",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which component is responsible for performing arithmetic and logical operations in a CPU?",
+      "options": [
+        "Control Unit",
+        "Arithmetic Logic Unit",
+        "Register",
+        "Cache"
+      ],
+      "correctAnswer": "Arithmetic Logic Unit",
+      "explanation": "The Arithmetic Logic Unit (ALU) carries out arithmetic and logical operations within the CPU. The Control Unit directs and coordinates operations, registers are small fast storage locations, and cache is high-speed memory, but none of these performs the actual arithmetic and logic, so the ALU is correct."
+    },
+    {
+      "subject": "E",
+      "questionText": "Which of the following is a non-volatile memory that typically stores the computer's startup (BIOS) instructions?",
+      "options": [
+        "RAM",
+        "Cache",
+        "ROM",
+        "Register"
+      ],
+      "correctAnswer": "ROM",
+      "explanation": "ROM (Read-Only Memory) is non-volatile and commonly holds the firmware/BIOS needed to start the computer. RAM is volatile and loses data when powered off, while cache and registers are fast working memories that do not store startup instructions, so ROM is correct.",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Cache memory speeds up processing.\nReason (R): Cache memory stores frequently used data closer to the CPU for faster access.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Cache memory does speed up processing, so (A) is correct, and it does so by holding frequently used data close to the CPU for quick access, so (R) is correct. Because this proximity and quick access is exactly why processing is faster, (R) correctly explains (A)."
+    },
+    {
+      "subject": "E",
+      "questionText": "Consider the following statements about email:\n\n(i) An email can be sent to multiple recipients at once.\n(ii) Files can be sent along with an email as attachments.\n(iii) The subject line briefly summarises the email's content.\n(iv) Email requires the sender and recipient to be online at the same time.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "An email can go to many recipients (i), can carry attachments (ii), and its subject line summarises the content (iii). Statement (iv) is wrong because email is asynchronous—the recipient need not be online when the message is sent—so any option containing (iv) is incorrect.",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "In MS Excel, which of the following is a relative cell reference?",
+      "options": [
+        "$A$1",
+        "A1",
+        "$A1",
+        "A$1"
+      ],
+      "correctAnswer": "A1",
+      "explanation": "A relative reference like A1 changes automatically when the formula is copied to another cell. $A$1 is an absolute reference that stays fixed, while $A1 and A$1 are mixed references that lock only the column or only the row, so A1 is the relative reference."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which number system is used internally by computers to represent all data?",
+      "options": [
+        "Decimal",
+        "Octal",
+        "Binary",
+        "Hexadecimal"
+      ],
+      "correctAnswer": "Binary",
+      "explanation": "Computers use the binary system (0s and 1s) internally because electronic circuits have two stable states. Decimal is used by humans, while octal and hexadecimal are compact ways of writing binary but are not the internal representation, so binary is correct."
+    },
+    {
+      "subject": "E",
+      "questionText": "Which of the following are optical storage media?\n\n(i) CD\n(ii) DVD\n(iii) Blu-ray Disc\n(iv) Hard Disk Drive\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "CDs, DVDs and Blu-ray Discs all store data using laser/optical technology (i, ii, iii). A hard disk drive (iv) is a magnetic storage device, not optical, so any option containing (iv) is incorrect, leaving (i), (ii) and (iii).",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "What is the function of an operating system's 'file management' feature?",
+      "options": [
+        "To design graphics",
+        "To organise, store and retrieve files",
+        "To connect to the internet",
+        "To perform calculations"
+      ],
+      "correctAnswer": "To organise, store and retrieve files",
+      "explanation": "File management organises files and folders and handles their storage and retrieval on disk. Designing graphics is done by image software, connecting to the internet is a networking task, and performing calculations is done by applications, so organising and retrieving files is the correct function."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Antivirus software should be updated regularly.\nReason (R): New viruses and malware are created frequently.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Antivirus software should indeed be updated regularly, so (A) is correct, and new malware appears frequently, so (R) is correct. Because updates add detection for the newly created threats, keeping the software current, (R) correctly explains why regular updating is needed, so (R) explains (A)."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Which of the following file formats is primarily used for images?",
+      "options": [
+        ".docx",
+        ".mp3",
+        ".png",
+        ".exe"
+      ],
+      "correctAnswer": ".png",
+      "explanation": ".png (Portable Network Graphics) is an image file format. .docx is a Word document, .mp3 is an audio format, and .exe is an executable program, so none of those stores an image, making .png correct."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Fill in the blank: The small picture or symbol on a computer screen that represents a program or file is called an __________.",
+      "options": [
+        "cursor",
+        "menu",
+        "window",
+        "icon"
+      ],
+      "correctAnswer": "icon",
+      "explanation": "An icon is a small graphical symbol representing a program, file or function. A cursor marks the position of input, a menu lists options, and a window is a framed area on screen, so 'icon' is the correct term for the small representative symbol."
+    },
+    {
+      "subject": "E",
+      "questionText": "In Windows, which function key is commonly used to rename a selected file or folder?",
+      "options": [
+        "F5",
+        "F2",
+        "F1",
+        "F12"
+      ],
+      "correctAnswer": "F2",
+      "explanation": "Pressing F2 lets you rename a selected file or folder in Windows. F5 refreshes the view, F1 opens Help, and F12 is often 'Save As' in applications, so F2 is the correct key for renaming.",
+      "id": "12"
+    },
+    {
+      "subject": "E",
+      "questionText": "Consider the following statements about printers:\n\n(i) A laser printer uses toner to print.\n(ii) An inkjet printer works by spraying tiny droplets of ink.\n(iii) A dot-matrix printer is an impact printer.\n(iv) All printers are input devices.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A laser printer uses toner (i), an inkjet sprays ink droplets (ii), and a dot-matrix printer strikes the paper, making it an impact printer (iii). Statement (iv) is wrong because printers are output devices, not input devices, so any option containing (iv) is incorrect.",
+      "id": "13"
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "What does the acronym 'USB' stand for?",
+      "options": [
+        "Unified System Bus",
+        "Universal System Board",
+        "United Serial Bus",
+        "Universal Serial Bus"
+      ],
+      "correctAnswer": "Universal Serial Bus",
+      "explanation": "USB stands for Universal Serial Bus, a standard for connecting peripherals to a computer. 'Unified System Bus', 'Universal System Board' and 'United Serial Bus' are not the correct expansions, so Universal Serial Bus is correct."
+    },
+    {
+      "subject": "E",
+      "questionText": "In MS Word, which feature is used to check a document for spelling and grammar errors?",
+      "options": [
+        "Mail Merge",
+        "Spelling and Grammar check",
+        "Thesaurus",
+        "Word Count"
+      ],
+      "correctAnswer": "Spelling and Grammar check",
+      "explanation": "The Spelling and Grammar check reviews a document and flags spelling and grammatical mistakes. Mail Merge creates personalised letters, the Thesaurus suggests synonyms, and Word Count totals the words, so the Spelling and Grammar check is the correct feature.",
+      "id": "15"
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Which type of software is freely available and allows users to view and modify its source code?",
+      "options": [
+        "Freeware",
+        "Shareware",
+        "Open-source software",
+        "Proprietary software"
+      ],
+      "correctAnswer": "Open-source software",
+      "explanation": "Open-source software provides access to its source code, allowing users to study and modify it. Freeware is free to use but does not necessarily share source code, shareware is trial software, and proprietary software keeps its code closed, so open-source software is correct."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Fill in the blank: A __________ is a program that appears legitimate but performs malicious actions once installed.",
+      "options": [
+        "firewall",
+        "compiler",
+        "cookie",
+        "Trojan horse"
+      ],
+      "correctAnswer": "Trojan horse",
+      "explanation": "A Trojan horse disguises itself as useful software but carries out harmful actions when run. A firewall protects a network, a compiler translates code, and a cookie stores small bits of web data, none of which is a disguised malicious program, so 'Trojan horse' is correct."
+    },
+    {
+      "subject": "E",
+      "questionText": "Which electronic technology was the main feature of second-generation computers?",
+      "options": [
+        "Transistors",
+        "Vacuum tubes",
+        "Integrated circuits",
+        "Microprocessors"
+      ],
+      "correctAnswer": "Transistors",
+      "explanation": "Second-generation computers used transistors, which were smaller and more reliable than vacuum tubes. Vacuum tubes defined the first generation, integrated circuits the third, and microprocessors the fourth, so transistors belong to the second generation.",
+      "id": "18"
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "In MS Excel, which function would you use to find the highest value in a range of cells?",
+      "options": [
+        "SUM",
+        "MAX",
+        "COUNT",
+        "AVERAGE"
+      ],
+      "correctAnswer": "MAX",
+      "explanation": "The MAX function returns the largest value in a range. SUM adds the values, COUNT counts how many numbers are present, and AVERAGE gives the mean, so none of those finds the highest value, making MAX correct."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A byte can represent 256 different values.\nReason (R): A byte consists of 8 bits, and 2 raised to the power 8 equals 256.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "A byte can represent 256 values, so (A) is correct, and a byte has 8 bits with 2⁸ = 256 possible combinations, so (R) is correct. Because the 8-bit structure giving 256 combinations is exactly why a byte represents 256 values, (R) correctly explains (A)."
+    },
+    {
+      "subject": "E",
+      "questionText": "Which protocol is commonly used to retrieve or download email messages from a mail server to a client device?",
+      "options": [
+        "SMTP",
+        "HTTP",
+        "POP3",
+        "FTP"
+      ],
+      "correctAnswer": "POP3",
+      "explanation": "POP3 (Post Office Protocol version 3) downloads incoming email from a server to a client. SMTP sends outgoing mail, HTTP loads web pages, and FTP transfers files, so POP3 is the correct protocol for retrieving email.",
+      "id": "21"
+    },
+    {
+      "subject": "E",
+      "questionText": "Which of the following are units of computer storage capacity?\n\n(i) Gigabyte\n(ii) Hertz\n(iii) Terabyte\n(iv) Petabyte\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Gigabyte, terabyte and petabyte are all units used to measure storage capacity (i, iii, iv). Hertz (ii) measures frequency, such as processor clock speed, not storage, so any option containing (ii) is incorrect, leaving (i), (iii) and (iv).",
+      "id": "22"
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "What is the primary purpose of a computer's 'clipboard'?",
+      "options": [
+        "To temporarily hold cut or copied data",
+        "To permanently store files",
+        "To scan for viruses",
+        "To connect to the internet"
+      ],
+      "correctAnswer": "To temporarily hold cut or copied data",
+      "explanation": "The clipboard temporarily holds data that has been cut or copied so it can be pasted elsewhere. It does not store files permanently, scan for viruses, or connect to the internet, so temporarily holding cut or copied data is its primary purpose."
+    },
+    {
+      "subject": "E",
+      "questionText": "Match the abbreviations in Column I with their full forms in Column II:\n\nColumn I:\n(a) CPU\n(b) RAM\n(c) ROM\n(d) GPU\n\nColumn II:\n(i) Random Access Memory\n(ii) Central Processing Unit\n(iii) Graphics Processing Unit\n(iv) Read-Only Memory\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "CPU is Central Processing Unit (ii), RAM is Random Access Memory (i), ROM is Read-Only Memory (iv), and GPU is Graphics Processing Unit (iii). The other options swap CPU with RAM or interchange ROM and GPU, giving wrong expansions, so only the first mapping is correct.",
+      "id": "24"
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Which of the following best describes 'phishing'?",
+      "options": [
+        "A hardware failure",
+        "A method of data backup",
+        "A fraudulent attempt to obtain sensitive information",
+        "A type of printer"
+      ],
+      "correctAnswer": "A fraudulent attempt to obtain sensitive information",
+      "explanation": "Phishing is a scam in which attackers pose as trustworthy entities to trick users into revealing sensitive data like passwords. It is not a hardware failure, a backup method, or a printer, so the fraudulent attempt to obtain sensitive information is the correct description."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Which of the following converts a high-level programming language into machine code all at once before execution?",
+      "options": [
+        "Interpreter",
+        "Assembler",
+        "Loader",
+        "Compiler"
+      ],
+      "correctAnswer": "Compiler",
+      "explanation": "A compiler translates the entire high-level program into machine code in one go before it runs. An interpreter translates line by line during execution, an assembler works on assembly language, and a loader loads programs into memory, so the compiler is correct."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Consider the following statements about the World Wide Web and the Internet:\n\n(i) The Internet is a global network of connected computers.\n(ii) The World Wide Web is a system of interlinked documents accessed via the Internet.\n(iii) A web browser is used to view web pages.\n(iv) The Internet and the World Wide Web are exactly the same thing.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The Internet is a global network (i), the Web is a system of linked documents on the Internet (ii), and a browser views web pages (iii). Statement (iv) is wrong because the Internet is the underlying network while the Web is one service on it, so they are not the same, and any option with (iv) is incorrect."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "In MS PowerPoint, what is a single page of a presentation called?",
+      "options": [
+        "Sheet",
+        "Slide",
+        "Page",
+        "Frame"
+      ],
+      "correctAnswer": "Slide",
+      "explanation": "In PowerPoint, each individual page of a presentation is called a slide. 'Sheet' is used in Excel, 'page' is used in Word, and 'frame' relates to animation or web design, so 'slide' is the correct term in PowerPoint."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which device is used to connect a computer to the internet by converting digital signals to analog and back?",
+      "options": [
+        "Switch",
+        "Repeater",
+        "Modem",
+        "Hub"
+      ],
+      "correctAnswer": "Modem",
+      "explanation": "A modem (modulator-demodulator) converts a computer's digital signals into analog form for transmission and back again, enabling internet access. A switch and hub connect devices within a network, and a repeater boosts signals, so the modem is the correct device."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Data on a CD-ROM cannot normally be changed by the user.\nReason (R): CD-ROM stands for Compact Disc Read-Only Memory.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Data on a standard CD-ROM cannot normally be changed, so (A) is correct, and CD-ROM does stand for Compact Disc Read-Only Memory, so (R) is correct. Because 'Read-Only' means data can only be read and not rewritten, (R) correctly explains why the data cannot be changed."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "Which of the following is an example of an operating system for mobile devices?",
+      "options": [
+        "MS Word",
+        "Oracle",
+        "Photoshop",
+        "Android"
+      ],
+      "correctAnswer": "Android",
+      "explanation": "Android is a widely used operating system for smartphones and tablets. MS Word is a word processor, Oracle is a database system, and Photoshop is image-editing software, none of which is a mobile operating system, so Android is correct."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Fill in the blank: In email, sending a copy of a message to a recipient whose address is hidden from other recipients is done using the __________ field.",
+      "options": [
+        "BCC",
+        "To",
+        "CC",
+        "Subject"
+      ],
+      "correctAnswer": "BCC",
+      "explanation": "The BCC (Blind Carbon Copy) field sends a hidden copy so other recipients cannot see that address. The 'To' field is for main recipients, 'CC' sends visible copies, and 'Subject' holds the message title, so BCC is the correct field for a hidden copy."
+    },
+    {
+      "subject": "E",
+      "questionText": "Which of the following are network topologies?\n\n(i) Star\n(ii) Kernel\n(iii) Bus\n(iv) Ring\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Star, bus and ring are common network topologies describing how devices are arranged (i, iii, iv). 'Kernel' (ii) is the core part of an operating system, not a network topology, so any option containing (ii) is incorrect, leaving (i), (iii) and (iv).",
+      "id": "33"
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "What is the decimal equivalent of the binary number 1010?",
+      "options": [
+        "8",
+        "12",
+        "10",
+        "6"
+      ],
+      "correctAnswer": "10",
+      "explanation": "The binary 1010 equals (1×8) + (0×4) + (1×2) + (0×1) = 8 + 2 = 10 in decimal. 8 ignores the 2s place, 12 adds an incorrect value, and 6 miscounts the place values, so 10 is the correct decimal equivalent."
+    },
+    {
+      "subject": "E",
+      "questionText": "Which of the following is a unique hardware identifier permanently assigned to a network interface card?",
+      "options": [
+        "IP address",
+        "URL",
+        "Domain name",
+        "MAC address"
+      ],
+      "correctAnswer": "MAC address",
+      "explanation": "A MAC (Media Access Control) address is a unique hardware identifier built into a network interface card. An IP address can change and is assigned logically, a URL is a web address, and a domain name is a readable site label, so the MAC address is the correct hardware identifier.",
+      "id": "35"
+    },
+    {
+      "subject": "E",
+      "questionText": "In a spreadsheet, a group of selected adjacent cells is called a:",
+      "options": [
+        "Range",
+        "Sheet",
+        "Field",
+        "Record"
+      ],
+      "correctAnswer": "Range",
+      "explanation": "A group of selected adjacent cells in a spreadsheet is called a range, for example A1:A10. A sheet is an entire worksheet, a field is a database column, and a record is a database row, so 'range' is the correct term for a group of cells.",
+      "id": "36"
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Taking regular backups of important data is a good practice.\nReason (R): Backups help recover data in case of hardware failure or accidental deletion.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Regular backups are a good practice, so (A) is correct, and they allow data recovery after hardware failure or accidental deletion, so (R) is correct. Because this recovery ability is precisely why backups are recommended, (R) correctly explains (A)."
+    },
+    {
+      "subject": "E",
+      "questionText": "Which of the following best describes 'cache memory'?",
+      "options": [
+        "A permanent magnetic storage disk",
+        "A high-speed memory placed between the CPU and main memory",
+        "A type of printer",
+        "A network connecting cable"
+      ],
+      "correctAnswer": "A high-speed memory placed between the CPU and main memory",
+      "explanation": "Cache memory is a small, very fast memory located between the CPU and main memory to speed up access to frequently used data. It is not a magnetic storage disk, a printer, or a cable, so the high-speed intermediate memory description is correct.",
+      "id": "38"
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "In MS Word, which feature automatically corrects common spelling mistakes as you type?",
+      "options": [
+        "AutoSum",
+        "AutoFill",
+        "AutoCorrect",
+        "AutoFit"
+      ],
+      "correctAnswer": "AutoCorrect",
+      "explanation": "AutoCorrect automatically fixes common typing and spelling errors as you type in Word. AutoSum and AutoFill are Excel features, and AutoFit adjusts column or row size, so AutoCorrect is the correct word-processing feature."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Which of the following are examples of web browsers?\n\n(i) Opera\n(ii) Safari\n(iii) Brave\n(iv) Gmail\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Opera, Safari and Brave are all web browsers used to access websites (i, ii, iii). Gmail (iv) is an email service accessed through a browser, not a browser itself, so any option containing (iv) is incorrect, leaving (i), (ii) and (iii)."
+    },
+    {
+      "subject": "E",
+      "questionText": "What does the acronym 'CPU' stand for in computing?",
+      "options": [
+        "Central Processing Unit",
+        "Central Program Unit",
+        "Computer Personal Unit",
+        "Central Processor Utility"
+      ],
+      "correctAnswer": "Central Processing Unit",
+      "explanation": "CPU stands for Central Processing Unit, the main component that executes instructions. 'Central Program Unit', 'Computer Personal Unit' and 'Central Processor Utility' are not the correct expansions, so Central Processing Unit is correct.",
+      "id": "41"
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Which of the following storage devices has no moving parts and uses flash memory?",
+      "options": [
+        "Hard Disk Drive",
+        "Solid State Drive",
+        "Floppy Disk",
+        "Magnetic Tape"
+      ],
+      "correctAnswer": "Solid State Drive",
+      "explanation": "A Solid State Drive (SSD) stores data in flash memory and has no moving parts, making it faster and more durable. A hard disk drive uses spinning platters, a floppy disk uses a rotating magnetic disk, and magnetic tape moves across heads, so the SSD is correct."
+    },
+    {
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Excel:\n\n(i) The AutoSum feature quickly adds a column of numbers.\n(ii) A cell reference such as B3 identifies column B, row 3.\n(iii) Excel files traditionally use the .xlsx extension.\n(iv) Excel cannot sort data in a column.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "AutoSum quickly totals numbers (i), a reference like B3 means column B row 3 (ii), and Excel files use the .xlsx extension (iii). Statement (iv) is wrong because Excel can sort data in ascending or descending order, so any option containing (iv) is incorrect.",
+      "id": "43"
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Which of the following is NOT a valid email service provider?",
+      "options": [
+        "Gmail",
+        "Outlook",
+        "Yahoo Mail",
+        "Photoshop"
+      ],
+      "correctAnswer": "Photoshop",
+      "explanation": "Gmail, Outlook and Yahoo Mail are all email services. Photoshop is an image-editing application, not an email service, so it is the correct answer to the 'NOT a valid email service provider' question."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "Fill in the blank: A collection of related data organised for easy access and management is called a __________.",
+      "options": [
+        "database",
+        "spreadsheet",
+        "browser",
+        "protocol"
+      ],
+      "correctAnswer": "database",
+      "explanation": "A database is an organised collection of related data that allows easy storage, access and management. A spreadsheet arranges data in grids for calculations, a browser accesses websites, and a protocol is a set of communication rules, so 'database' is correct."
+    },
+    {
+      "subject": "E",
+      "questionText": "Match the ports/connectors in Column I with their typical use in Column II:\n\nColumn I:\n(a) HDMI\n(b) USB\n(c) Ethernet (RJ45)\n(d) VGA\n\nColumn II:\n(i) Wired network connection\n(ii) Digital audio and video output\n(iii) Analog video display\n(iv) Connecting peripheral devices\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+      "explanation": "HDMI carries digital audio and video (ii), USB connects peripherals (iv), Ethernet (RJ45) provides a wired network connection (i), and VGA outputs analog video (iii). The other options swap HDMI with USB or interchange the network and video roles, which are incorrect pairings.",
+      "id": "46"
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "Which of the following is the fastest type of memory in a computer?",
+      "options": [
+        "Hard disk",
+        "RAM",
+        "Register",
+        "Optical disc"
+      ],
+      "correctAnswer": "Register",
+      "explanation": "Registers, located inside the CPU, are the fastest memory as they hold data being processed immediately. RAM is fast but slower than registers, while hard disks and optical discs are far slower secondary storage, so a register is the fastest memory."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer security threats:\n\n(i) A worm can spread across networks without user action.\n(ii) Spyware secretly gathers information about a user.\n(iii) A firewall is a type of computer virus.\n(iv) Ransomware demands payment to restore access to data.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A worm spreads without user action (i), spyware secretly collects data (ii), and ransomware demands payment to unlock data (iv). Statement (iii) is wrong because a firewall is a protective security barrier, not a virus, so any option containing (iii) is incorrect."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "Which part of a URL such as 'https://www.example.com' indicates the protocol being used?",
+      "options": [
+        "https",
+        "www",
+        "example",
+        "com"
+      ],
+      "correctAnswer": "https",
+      "explanation": "In the URL, 'https' before the colon indicates the protocol (secure HTTP) used to access the resource. 'www' is a subdomain, 'example' is the domain name, and 'com' is the top-level domain, so 'https' identifies the protocol."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "What is the main advantage of using a search engine's quotation marks around a phrase (e.g., \"solar system\")?",
+      "options": [
+        "It excludes the phrase from results",
+        "It searches for the exact phrase",
+        "It translates the phrase",
+        "It sorts results alphabetically"
+      ],
+      "correctAnswer": "It searches for the exact phrase",
+      "explanation": "Putting a phrase in quotation marks tells the search engine to find that exact phrase in the given word order. It does not exclude the phrase, translate it, or sort results alphabetically, so searching for the exact phrase is the correct advantage."
+    }
+  ]
+}

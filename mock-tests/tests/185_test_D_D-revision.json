@@ -1,0 +1,657 @@
+{
+  "subject": "D",
+  "topic": "Sectional revision — Numerical & Reasoning Ability",
+  "total_questions": 50,
+  "questions": [
+    {
+      "subject": "D",
+      "questionText": "A student scored 465 marks out of a maximum of 600 marks. What percentage of marks did the student obtain?",
+      "options": [
+        "75%",
+        "80%",
+        "72.5%",
+        "77.5%"
+      ],
+      "correctAnswer": "77.5%",
+      "explanation": "Percentage of marks = (marks obtained / maximum marks) × 100 = (465/600) × 100 = 77.5%. A score of 75% would be 450 marks, 80% would be 480 marks, and 72.5% would be 435 marks; since the student scored 465, none of these matches, so 77.5% is the correct percentage.",
+      "id": "1"
+    },
+    {
+      "subject": "D",
+      "questionText": "By selling an article for ₹575, a shopkeeper gains 15%. What was the cost price of the article?",
+      "options": [
+        "₹490",
+        "₹500",
+        "₹520",
+        "₹460"
+      ],
+      "correctAnswer": "₹500",
+      "explanation": "When there is a gain, cost price = selling price × 100/(100 + gain%) = 575 × 100/115 = ₹500. If the cost were ₹490 or ₹520, selling at ₹575 would not give exactly a 15% profit, and ₹460 would imply a much larger gain, so the cost price is ₹500.",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of the interior angles of any triangle is 180°.\nReason (R): A triangle is a closed figure bounded by three straight sides.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "The interior angles of a triangle sum to 180°, so (A) is correct, and a triangle is indeed a three-sided closed figure, so (R) is correct. However, merely having three sides does not by itself explain the 180° sum (which follows from the parallel-line angle property), so (R) is not the correct explanation of (A)."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Consider the following statements about numbers:\n\n(i) Every number divisible by 6 is also divisible by 3.\n(ii) Every number divisible by 4 is also divisible by 8.\n(iii) Zero is divisible by every non-zero integer.\n(iv) The number 1 is a prime number.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "Any multiple of 6 is a multiple of 3, so (i) is true; and 0 divided by any non-zero integer is 0 with no remainder, so (iii) is true. (ii) is false because 12 is divisible by 4 but not by 8. (iv) is false because 1 has only one factor and is not prime, so only (i) and (iii) are correct."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "Match the perfect squares in Column I with their square roots in Column II:\n\nColumn I:\n(a) 144\n(b) 169\n(c) 196\n(d) 225\n\nColumn II:\n(i) 13\n(ii) 12\n(iii) 15\n(iv) 14\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "√144 = 12 (ii), √169 = 13 (i), √196 = 14 (iv) and √225 = 15 (iii). The other options swap 12 with 13, or interchange 14 and 15, giving incorrect square roots, so only the first mapping is fully correct."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "A car covers a distance of 240 km in 3 hours 45 minutes. What is its average speed in km/h?",
+      "options": [
+        "60 km/h",
+        "64 km/h",
+        "72 km/h",
+        "56 km/h"
+      ],
+      "correctAnswer": "64 km/h",
+      "explanation": "3 hours 45 minutes = 3.75 hours. Average speed = 240 / 3.75 = 64 km/h. 60 km/h would need 4 hours, 72 km/h would need about 3.33 hours and 56 km/h would need about 4.29 hours, none of which is 3.75 hours, so 64 km/h is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "Which of the following are prime numbers?\n\n(i) 83\n(ii) 87\n(iii) 89\n(iv) 97\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "83, 89 and 97 have no factors other than 1 and themselves, so they are prime (i, iii, iv). 87 = 3 × 29 is composite, so (ii) is not prime. Hence the correct set of primes is (i), (iii) and (iv).",
+      "id": "7"
+    },
+    {
+      "subject": "D",
+      "questionText": "A cricketer's mean score over 6 innings is 42 runs. After a 7th innings his average rises to 44 runs. How many runs did he score in the 7th innings?",
+      "options": [
+        "50",
+        "58",
+        "60",
+        "56"
+      ],
+      "correctAnswer": "56",
+      "explanation": "Total after 6 innings = 6 × 42 = 252; total after 7 innings = 7 × 44 = 308. Runs in the 7th innings = 308 − 252 = 56. 50, 58 and 60 do not equal the difference between these totals, so 56 is correct.",
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The decimal 0.5 is greater than the decimal 0.05.\nReason (R): In decimals, a number with more digits after the decimal point is always greater.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "0.5 (five-tenths) is indeed greater than 0.05 (five-hundredths), so (A) is correct. (R) is false because having more digits after the decimal point does not make a number larger; for example 0.5 has fewer digits than 0.05 yet is greater. So (A) is true but (R) is false."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Fill in the blank with the next number in the series: 2, 6, 12, 20, __________",
+      "options": [
+        "30",
+        "28",
+        "32",
+        "26"
+      ],
+      "correctAnswer": "30",
+      "explanation": "The differences between terms increase as 4, 6, 8, so the next difference is 10, giving 20 + 10 = 30 (the terms follow n² + n). 28 would need a difference of 8, 26 a difference of 6, and 32 a difference of 12, none of which continues the pattern, so 30 is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "During a sale, a jacket marked at ₹2,000 is offered with successive reductions of 25% and 20%. What is its final selling price?",
+      "options": [
+        "₹1,100",
+        "₹1,200",
+        "₹1,300",
+        "₹1,150"
+      ],
+      "correctAnswer": "₹1,200",
+      "explanation": "After a 25% reduction, price = 2000 × 0.75 = ₹1,500; after a further 20%, price = 1500 × 0.80 = ₹1,200. Simply adding the reductions to 45% (₹1,100) is wrong because the second cut applies to the already reduced price. ₹1,300 and ₹1,150 do not match, so ₹1,200 is correct.",
+      "id": "11"
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "If '#' means 'add', '@' means 'subtract', '&' means 'multiply' and '$' means 'divide', find the value of: 12 # 8 & 2 @ 6 $ 3.",
+      "options": [
+        "24",
+        "22",
+        "26",
+        "28"
+      ],
+      "correctAnswer": "26",
+      "explanation": "Substituting gives 12 + 8 × 2 − 6 ÷ 3. By BODMAS, 8 × 2 = 16 and 6 ÷ 3 = 2, so 12 + 16 − 2 = 26. Doing the operations left to right without BODMAS gives 24, 22 or 28, so 26 is the correct value."
+    },
+    {
+      "subject": "D",
+      "questionText": "Read the following data on the number of books issued by a library over four days:\n\nMonday → 120\nTuesday → 150\nWednesday → 90\nThursday → 160\n\nWhat is the average number of books issued per day?",
+      "options": [
+        "125",
+        "135",
+        "120",
+        "130"
+      ],
+      "correctAnswer": "130",
+      "explanation": "Average = total books issued / number of days = (120 + 150 + 90 + 160)/4 = 520/4 = 130 books per day. The values 125, 135 and 120 do not equal 520 divided by 4, so they are incorrect, leaving 130 as the correct daily average.",
+      "id": "13"
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "In a code, 'MANGO' is written as 'OCPIQ'. Using the same rule, how is 'APPLE' written?",
+      "options": [
+        "CRRNG",
+        "CRRNF",
+        "BRRNG",
+        "CQRNG"
+      ],
+      "correctAnswer": "CRRNG",
+      "explanation": "Each letter is shifted two places forward: M→O, A→C, N→P, G→I, O→Q. Applying this to APPLE: A→C, P→R, P→R, L→N, E→G, giving CRRNG. CRRNF mis-shifts E, BRRNG mis-shifts A, and CQRNG mis-shifts the first P, so CRRNG is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "Two numbers are in the ratio 5:9, and they differ by 28. What is the larger of the two numbers?",
+      "options": [
+        "35",
+        "63",
+        "56",
+        "49"
+      ],
+      "correctAnswer": "63",
+      "explanation": "The difference in ratio parts is 9 − 5 = 4, which corresponds to 28, so one part = 28/4 = 7. The larger number = 9 × 7 = 63. The smaller number would be 35, so 35 is not the larger; 56 and 49 do not fit a 5:9 ratio differing by 28, so 63 is correct.",
+      "id": "15"
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Consider the following statements about a set of data: 12, 15, 15, 18, 20.\n\n(i) The range of the data is 8.\n(ii) The mode of the data is 15.\n(iii) The median of the data is 18.\n(iv) The mean of the data is 16.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Range = 20 − 12 = 8 (i correct); mode = 15, the most frequent value (ii correct); mean = (12+15+15+18+20)/5 = 80/5 = 16 (iv correct). Statement (iii) is wrong because the median (middle value) is 15, not 18, so any option containing (iii) is incorrect."
+    },
+    {
+      "subject": "D",
+      "questionText": "Starting from home, Priya cycles 9 km due north and then 12 km due east to reach her school. What is the straight-line distance between her home and school?",
+      "options": [
+        "21 km",
+        "17 km",
+        "13 km",
+        "15 km"
+      ],
+      "correctAnswer": "15 km",
+      "explanation": "The north and east paths meet at a right angle, so the direct distance is the hypotenuse: √(9² + 12²) = √(81 + 144) = √225 = 15 km. 21 km merely adds the two legs, while 17 km and 13 km do not satisfy the Pythagorean relation, so 15 km is correct.",
+      "id": "17"
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Which number should replace the question mark in the series: 5, 11, 23, 47, ?",
+      "options": [
+        "95",
+        "94",
+        "96",
+        "92"
+      ],
+      "correctAnswer": "95",
+      "explanation": "Each term is obtained by doubling the previous term and adding 1: 5×2+1=11, 11×2+1=23, 23×2+1=47, so 47×2+1 = 95. 94 doubles without adding 1, and 96 or 92 add the wrong constant, so 95 is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "A drum is one-third full of oil. After 25 litres of oil are poured in, it becomes five-sixths full. What is the total capacity of the drum?",
+      "options": [
+        "60 litres",
+        "50 litres",
+        "45 litres",
+        "40 litres"
+      ],
+      "correctAnswer": "50 litres",
+      "explanation": "The oil added fills the fraction 5/6 − 1/3 = 5/6 − 2/6 = 3/6 = 1/2 of the drum, and this equals 25 litres, so the full capacity = 25 × 2 = 50 litres. 60, 45 and 40 litres do not make 25 litres equal to half the drum, so 50 litres is correct.",
+      "id": "19"
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The product of any two consecutive integers is always even.\nReason (R): Among any two consecutive integers, one is always even.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The product of two consecutive integers is always even, so (A) is correct, and among any two consecutive integers exactly one is even, so (R) is correct. Because a product that includes an even factor is always even, (R) directly explains why (A) holds."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "A sum doubles itself in 8 years at simple interest. In how many years will it become four times itself at the same rate?",
+      "options": [
+        "16 years",
+        "32 years",
+        "24 years",
+        "20 years"
+      ],
+      "correctAnswer": "24 years",
+      "explanation": "Doubling in 8 years means the interest earned in 8 years equals the principal (100% growth), so the rate gives 12.5% per year. To become four times, the interest must be three times the principal (300%), needing 300/12.5 = 24 years. 16 years gives only three times, so 24 years is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "At a family gathering, Sameer introduced a lady, saying, 'She is the wife of the only brother of my mother.' How is the lady related to Sameer?",
+      "options": [
+        "Mother",
+        "Sister",
+        "Grandmother",
+        "Aunt"
+      ],
+      "correctAnswer": "Aunt",
+      "explanation": "The only brother of Sameer's mother is his maternal uncle, so the uncle's wife is Sameer's aunt (by marriage). She is not his mother, since she is his uncle's wife, and she belongs to the parents' generation, so she is neither his sister nor grandmother, making 'aunt' correct.",
+      "id": "22"
+    },
+    {
+      "subject": "D",
+      "questionText": "For a certain sum, the difference between the compound interest and the simple interest for 2 years at 10% per annum is ₹50. What is the sum (principal)?",
+      "options": [
+        "₹5,000",
+        "₹4,500",
+        "₹5,500",
+        "₹6,000"
+      ],
+      "correctAnswer": "₹5,000",
+      "explanation": "For 2 years the difference between CI and SI equals P × (R/100)² = P × (0.1)² = 0.01P. Setting 0.01P = 50 gives P = ₹5,000. ₹4,500, ₹5,500 and ₹6,000 would give differences of ₹45, ₹55 and ₹60 respectively, not ₹50, so ₹5,000 is correct.",
+      "id": "23"
+    },
+    {
+      "subject": "D",
+      "questionText": "Which of the following fractions are greater than 1/2?\n\n(i) 3/5\n(ii) 2/5\n(iii) 5/8\n(iv) 3/8\n\nSelect the correct combination:",
+      "options": [
+        "(ii) and (iv) only",
+        "(i) and (iii) only",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i) and (iii) only",
+      "explanation": "As decimals, 3/5 = 0.6 and 5/8 = 0.625 are both greater than 0.5, so (i) and (iii) qualify. 2/5 = 0.4 and 3/8 = 0.375 are less than 0.5, so (ii) and (iv) do not. Hence only (i) and (iii) are greater than 1/2.",
+      "id": "24"
+    },
+    {
+      "subject": "D",
+      "questionText": "The exterior angle of a triangle is 110°, and one of its interior opposite angles is 45°. What is the measure of the other interior opposite angle?",
+      "options": [
+        "55°",
+        "70°",
+        "65°",
+        "60°"
+      ],
+      "correctAnswer": "65°",
+      "explanation": "An exterior angle equals the sum of the two interior opposite angles, so 110° = 45° + x, giving x = 65°. 55° would make the sum only 100°, 70° would make it 115°, and 60° would make it 105°, none of which equals 110°, so 65° is correct.",
+      "id": "25"
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "In a certain code, if TABLE is written as GZYOV, which coding rule is being used?",
+      "options": [
+        "Each letter is shifted three places forward",
+        "Each letter is shifted two places backward",
+        "Each letter is replaced by the next vowel",
+        "Each letter is replaced by its opposite letter in the alphabet"
+      ],
+      "correctAnswer": "Each letter is replaced by its opposite letter in the alphabet",
+      "explanation": "T↔G, A↔Z, B↔Y, L↔O, E↔V are all opposite-letter pairs (A-Z, B-Y, ... where each letter maps to the 27th minus its position). Shifting forward or backward by a fixed number would not produce GZYOV, and replacing with vowels is unrelated, so the opposite-letter rule is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "A trader sold two watches for ₹960 each. On one he earned a profit of 20%, and on the other he suffered a loss of 20%. What was his overall gain or loss?",
+      "options": [
+        "Loss of ₹80",
+        "No profit no loss",
+        "Gain of ₹80",
+        "Loss of ₹40"
+      ],
+      "correctAnswer": "Loss of ₹80",
+      "explanation": "CP of the profitable watch = 960/1.2 = ₹800; CP of the loss-making watch = 960/0.8 = ₹1,200. Total CP = ₹2,000 and total SP = ₹1,920, giving a loss of ₹80. Selling two items at equal profit and loss percentages always yields a net loss, so the 'no profit no loss' and gain options are wrong.",
+      "id": "27"
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Consider the following statements about a right-angled triangle with legs 9 cm and 12 cm:\n\n(i) The hypotenuse is 15 cm.\n(ii) The area is 54 sq cm.\n(iii) The perimeter is 36 cm.\n(iv) The triangle is isosceles.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Hypotenuse = √(9² + 12²) = √225 = 15 cm (i); area = 1/2 × 9 × 12 = 54 sq cm (ii); perimeter = 9 + 12 + 15 = 36 cm (iii). Statement (iv) is wrong because the legs 9 and 12 are unequal, so the triangle is scalene, not isosceles, and any option with (iv) is incorrect."
+    },
+    {
+      "subject": "D",
+      "questionText": "A goods train 250 m long passes a signal post in 20 seconds. What is the speed of the train in km/h?",
+      "options": [
+        "50 km/h",
+        "54 km/h",
+        "45 km/h",
+        "40 km/h"
+      ],
+      "correctAnswer": "45 km/h",
+      "explanation": "To pass a post, the train covers its own length: speed = 250/20 = 12.5 m/s. Converting, 12.5 × 18/5 = 45 km/h. 50 km/h needs about 13.9 m/s, 54 km/h needs 15 m/s and 40 km/h needs about 11.1 m/s, none of which is 12.5 m/s, so 45 km/h is correct.",
+      "id": "29"
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Fill in the blank: If A is the sister of B, B is the son of C, and C is the mother of D, then A is the __________ of D.",
+      "options": [
+        "aunt",
+        "cousin",
+        "mother",
+        "sister"
+      ],
+      "correctAnswer": "sister",
+      "explanation": "C is the mother of B, D and A (since A is B's sister and B is C's son, A and B share the mother C). Therefore A and D are both children of C, making A the sister of D. She is not an aunt or cousin, which need a different generation, nor the mother, so 'sister' is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "The value of a property appreciates by 20% in the first year and by 25% in the second year. If it is now worth ₹90,000, what was its value two years ago?",
+      "options": [
+        "₹60,000",
+        "₹55,000",
+        "₹64,000",
+        "₹50,000"
+      ],
+      "correctAnswer": "₹60,000",
+      "explanation": "Let the original value be V. After two years: V × 1.20 × 1.25 = 1.5V = 90,000, so V = 90,000/1.5 = ₹60,000. ₹55,000 and ₹50,000 give lower final values, and ₹64,000 gives ₹96,000, so ₹60,000 is correct.",
+      "id": "31"
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Match the fractions in Column I with their decimal equivalents in Column II:\n\nColumn I:\n(a) 3/8\n(b) 5/8\n(c) 7/8\n(d) 1/8\n\nColumn II:\n(i) 0.625\n(ii) 0.375\n(iii) 0.125\n(iv) 0.875\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "3/8 = 0.375 (ii), 5/8 = 0.625 (i), 7/8 = 0.875 (iv) and 1/8 = 0.125 (iii). The other options swap 0.375 with 0.625, or interchange 0.125 and 0.875, giving wrong decimal equivalents, so only the first mapping is correct."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "The simple interest on a sum of money for 3 years at 6% per annum is ₹1,080. What is the principal?",
+      "options": [
+        "₹5,400",
+        "₹7,200",
+        "₹6,000",
+        "₹5,000"
+      ],
+      "correctAnswer": "₹6,000",
+      "explanation": "Using SI = (P × R × T)/100: 1080 = (P × 6 × 3)/100, so P = 1080 × 100 / 18 = ₹6,000. ₹5,400 would give ₹972 interest, ₹7,200 gives ₹1,296 and ₹5,000 gives ₹900, none of which equals ₹1,080, so ₹6,000 is correct."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "If in a certain month the 3rd day is a Monday, what day of the week will the 24th of the same month be?",
+      "options": [
+        "Tuesday",
+        "Sunday",
+        "Wednesday",
+        "Monday"
+      ],
+      "correctAnswer": "Monday",
+      "explanation": "From the 3rd to the 24th is 21 days, and 21 is exactly divisible by 7, so the 24th falls on the same weekday as the 3rd, which is Monday. Tuesday, Sunday and Wednesday would require the gap not to be a multiple of 7, so Monday is correct."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Read the following data on the marks obtained by four students in a test out of 50:\n\nAmit → 38\nBina → 45\nChetan → 29\nDivya → 48\n\nBy what percentage are Divya's marks greater than Chetan's marks?",
+      "options": [
+        "About 65.5%",
+        "About 50%",
+        "About 40%",
+        "About 72%"
+      ],
+      "correctAnswer": "About 65.5%",
+      "explanation": "Difference = 48 − 29 = 19, and as a percentage of Chetan's 29 it is (19/29) × 100 ≈ 65.5%. Taking the difference over Divya's marks gives about 40%, a flat 50% would need Divya at 43.5, and 72% overstates the rise, so about 65.5% is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "When a certain number is divided by 9, it leaves a remainder of 5. What is the remainder when three times that number is divided by 9?",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "1"
+      ],
+      "correctAnswer": "6",
+      "explanation": "If the number is 9k + 5, then three times it is 27k + 15 = 9(3k + 1) + 6, leaving a remainder of 6. A remainder of 5 ignores the tripling, while 3 and 1 come from wrong calculations, so 6 is the correct remainder.",
+      "id": "36"
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A number is divisible by 4 if the number formed by its last two digits is divisible by 4.\nReason (R): 100 is divisible by 4.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The divisibility rule for 4 (based on the last two digits) is correct, so (A) is true, and 100 is divisible by 4, so (R) is true. Because every hundreds part is a multiple of 100 (which is divisible by 4), only the last two digits matter, so (R) correctly explains (A)."
+    },
+    {
+      "subject": "D",
+      "questionText": "The HCF of two numbers is 8 and their LCM is 96. If one of the numbers is 24, what is the other number?",
+      "options": [
+        "24",
+        "16",
+        "32",
+        "48"
+      ],
+      "correctAnswer": "32",
+      "explanation": "For two numbers, product = HCF × LCM = 8 × 96 = 768. So the other number = 768 / 24 = 32. 24 would repeat the given number, while 16 and 48 do not give a product of 768 with 24, so 32 is correct.",
+      "id": "38"
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "A shopkeeper marks his goods 50% above cost and then gives a discount of 20%. What is his profit percentage?",
+      "options": [
+        "30%",
+        "25%",
+        "15%",
+        "20%"
+      ],
+      "correctAnswer": "20%",
+      "explanation": "Let cost = 100, marked price = 150. After 20% discount, selling price = 150 × 0.80 = 120, so profit = 20%. Subtracting 50% and 20% to get 30% ignores that the discount is on the marked price, and 25% or 15% do not follow, so 20% is correct."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Which of the following are correct with respect to the number 360?\n\n(i) It is divisible by 9.\n(ii) It is a perfect square.\n(iii) It is divisible by 8.\n(iv) It is divisible by 15.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "360's digit sum is 9, so it is divisible by 9 (i); 360/8 = 45, so it is divisible by 8 (iii); 360/15 = 24, so it is divisible by 15 (iv). Statement (ii) is wrong because √360 ≈ 18.97 is not an integer, so 360 is not a perfect square, and any option with (ii) is incorrect."
+    },
+    {
+      "subject": "D",
+      "questionText": "The present age of a mother is four times that of her daughter. Ten years from now, the mother will be twice as old as her daughter. What is the daughter's present age?",
+      "options": [
+        "8 years",
+        "5 years",
+        "10 years",
+        "6 years"
+      ],
+      "correctAnswer": "5 years",
+      "explanation": "Let the daughter's age be d, so the mother's age is 4d. Ten years later: 4d + 10 = 2(d + 10), i.e. 4d + 10 = 2d + 20, giving 2d = 10 and d = 5. The mother is 20 now. 8, 10 and 6 years do not satisfy the 'twice as old after 10 years' condition, so 5 years is correct.",
+      "id": "41"
+    },
+    {
+      "id": "42",
+      "subject": "D",
+      "questionText": "The value of a machine depreciates by 10% every year. If its present value is ₹40,000, what will be its value after 2 years?",
+      "options": [
+        "₹32,000",
+        "₹34,000",
+        "₹32,400",
+        "₹36,000"
+      ],
+      "correctAnswer": "₹32,400",
+      "explanation": "Value after 2 years = 40,000 × (0.90)² = 40,000 × 0.81 = ₹32,400. ₹32,000 wrongly deducts a flat 20%, ₹36,000 is only one year's depreciation, and ₹34,000 does not match, so ₹32,400 is correct."
+    },
+    {
+      "id": "43",
+      "subject": "D",
+      "questionText": "Consider the following statements based on a coding rule where each letter is replaced by the letter immediately after it (A→B, B→C, ...):\n\n(i) The word 'CAT' becomes 'DBU'.\n(ii) The word 'DOG' becomes 'EPH'.\n(iii) The word 'ICE' becomes 'JDF'.\n(iv) The word 'SUN' becomes 'TVM'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Shifting each letter forward by one: CAT→DBU (i), DOG→EPH (ii) and ICE→JDF (iii) are all correct. Statement (iv) is wrong because SUN should become TVO (N→O), not TVM, so any option containing (iv) is incorrect."
+    },
+    {
+      "subject": "D",
+      "questionText": "A square park has a side of 45 metres. Find the cost of putting a fence all around it at ₹40 per metre.",
+      "options": [
+        "₹7,200",
+        "₹8,000",
+        "₹6,400",
+        "₹7,000"
+      ],
+      "correctAnswer": "₹7,200",
+      "explanation": "Perimeter of the square = 4 × 45 = 180 m. Cost of fencing = 180 × 40 = ₹7,200. ₹8,000 would need 200 m, ₹6,400 would need 160 m and ₹7,000 would need 175 m, none of which equals 180 m, so ₹7,200 is correct.",
+      "id": "44"
+    },
+    {
+      "subject": "D",
+      "questionText": "If 8 taps of equal capacity can fill a reservoir in 27 hours, how long will 12 such taps take to fill the same reservoir?",
+      "options": [
+        "24 hours",
+        "18 hours",
+        "12 hours",
+        "20 hours"
+      ],
+      "correctAnswer": "18 hours",
+      "explanation": "This is inverse proportion: total work = 8 × 27 = 216 tap-hours. With 12 taps, time = 216 / 12 = 18 hours. 24 hours and 20 hours are more than the original despite adding taps, and 12 hours does not equal 216/12, so 18 hours is correct.",
+      "id": "45"
+    },
+    {
+      "id": "46",
+      "subject": "D",
+      "questionText": "Which number replaces the question mark? 7, 10, 16, 28, ?",
+      "options": [
+        "46",
+        "48",
+        "52",
+        "56"
+      ],
+      "correctAnswer": "52",
+      "explanation": "The differences double each time: +3, +6, +12, so the next difference is +24, giving 28 + 24 = 52. 46 uses a difference of 18, 48 a difference of 20 and 56 a difference of 28, none of which follows the doubling pattern, so 52 is correct."
+    },
+    {
+      "subject": "D",
+      "questionText": "Fill in the blank: The greatest number that divides 60, 90 and 150 exactly (without leaving a remainder) is __________.",
+      "options": [
+        "15",
+        "10",
+        "45",
+        "30"
+      ],
+      "correctAnswer": "30",
+      "explanation": "The greatest such number is the HCF. Since 60 = 2²×3×5, 90 = 2×3²×5 and 150 = 2×3×5², the common factors give HCF = 2 × 3 × 5 = 30. 15 and 10 also divide all three but are smaller than 30, and 45 does not divide 60 or 150, so 30 is the greatest.",
+      "id": "47"
+    },
+    {
+      "id": "48",
+      "subject": "D",
+      "questionText": "A bag contains coins of ₹1, ₹2 and ₹5 in the ratio 3:2:1. If the total value of the coins is ₹120, how many ₹5 coins are there?",
+      "options": [
+        "10",
+        "12",
+        "24",
+        "8"
+      ],
+      "correctAnswer": "10",
+      "explanation": "Let the numbers of ₹1, ₹2 and ₹5 coins be 3x, 2x and x. Total value = 3x(1) + 2x(2) + x(5) = 3x + 4x + 5x = 12x = 120, so x = 10. The number of ₹5 coins equals x, which is 10. The value 12 comes from misreading the equation 12x = 120, while 24 and 8 do not satisfy the total of ₹120, so 10 is correct."
+    },
+    {
+      "id": "49",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average of the first ten natural numbers is 5.5.\nReason (R): The average of consecutive numbers equals the average of the first and last numbers.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "The first ten natural numbers 1 to 10 have average (1+10)/2 = 5.5, so (A) is correct, and for evenly spaced numbers the average equals the mean of the first and last terms, so (R) is correct. Since this property directly gives 5.5, (R) correctly explains (A)."
+    },
+    {
+      "id": "50",
+      "subject": "D",
+      "questionText": "Read the following data on daily wages (in ₹) of five workers:\n\nWorker 1 → 300\nWorker 2 → 350\nWorker 3 → 400\nWorker 4 → 450\nWorker 5 → 500\n\nWhat is the median daily wage?",
+      "options": [
+        "380",
+        "400",
+        "420",
+        "350"
+      ],
+      "correctAnswer": "400",
+      "explanation": "When the five wages are arranged in ascending order (300, 350, 400, 450, 500), the middle (third) value is the median, which is 400. The mean would be 400 too here, but 380 and 420 are neither the middle value nor the mean, and 350 is the second value, so 400 is the correct median."
+    }
+  ]
+}
