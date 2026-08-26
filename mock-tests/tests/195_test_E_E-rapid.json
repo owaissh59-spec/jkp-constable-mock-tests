@@ -1,0 +1,527 @@
+{
+  "subject": "E",
+  "topic": "Rapid mixed revision & weak-area drill — Computers",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "What does 'DNS' stand for in the context of the internet?",
+      "options": [
+        "Domain Name System",
+        "Digital Network Service",
+        "Domain Network Standard",
+        "Data Naming System"
+      ],
+      "correctAnswer": "Domain Name System",
+      "explanation": "DNS stands for Domain Name System, which translates human-readable domain names into IP addresses. 'Digital Network Service' is not the correct expansion. 'Domain Network Standard' wrongly changes the last two words, and 'Data Naming System' replaces 'Domain', so those options are incorrect."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "A computer network that spans a large geographical area, such as a country or the world, is called a ______.",
+      "options": [
+        "LAN",
+        "WAN",
+        "PAN",
+        "MAN"
+      ],
+      "correctAnswer": "WAN",
+      "explanation": "A WAN (Wide Area Network) covers large areas, and the internet is the biggest example. A LAN (Local Area Network) covers a small area like an office. A PAN (Personal Area Network) is around a single person, and a MAN (Metropolitan Area Network) covers a city, so those options are incorrect for a country-wide network."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer hardware:\n\n(i) The motherboard is the main circuit board of a computer.\n(ii) The GPU is mainly responsible for graphics processing.\n(iii) An SSD has no moving mechanical parts.\n(iv) The power supply unit (SMPS) is used to store user data.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The motherboard is the main circuit board, the GPU handles graphics, and an SSD has no moving parts, so (i), (ii) and (iii) are correct. Statement (iv) is false because the power supply unit converts and supplies power, it does not store data; hence any option containing (iv) is incorrect."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Which device is used to read the special magnetic-ink characters printed at the bottom of bank cheques?",
+      "options": [
+        "Barcode reader",
+        "OMR",
+        "OCR",
+        "MICR"
+      ],
+      "correctAnswer": "MICR",
+      "explanation": "MICR (Magnetic Ink Character Recognition) reads the magnetic-ink numbers on cheques. OMR (Optical Mark Recognition) reads marks like filled bubbles. OCR (Optical Character Recognition) reads printed text from images. A barcode reader scans product barcodes, so those devices are not used for cheque magnetic ink and are incorrect."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Secondary storage is used to store data permanently.\nReason (R): Secondary storage devices are non-volatile in nature.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both are true and R explains A: secondary storage can hold data permanently precisely because it is non-volatile and retains data without power. Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are examples of system software?\n\n(i) Operating system\n(ii) Device driver\n(iii) MS Paint\n(iv) Assembler\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "An operating system, a device driver and an assembler are all system software, so (i), (ii) and (iv) are correct. MS Paint (iii) is an application program used by end users, not system software; hence any option containing (iii) — the second, third and fourth — is incorrect."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "The mobile operating system 'iOS' is developed by which company?",
+      "options": [
+        "Google",
+        "Apple",
+        "Microsoft",
+        "Samsung"
+      ],
+      "correctAnswer": "Apple",
+      "explanation": "iOS is the mobile operating system developed by Apple for its iPhones and iPads. Google develops Android, Microsoft developed Windows and the discontinued Windows Phone, and Samsung mainly uses Android (and its own Tizen), so those companies are not the developers of iOS and are incorrect."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "Match the following file formats with the type of content they usually store:\n\nColumn I:\n(a) JPEG\n(b) MP3\n(c) MP4\n(d) PDF\n\nColumn II:\n(i) Audio\n(ii) Image\n(iii) Document\n(iv) Video\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "JPEG stores images, MP3 stores audio, MP4 stores video, and PDF stores documents — matching the first option. The second wrongly swaps JPEG and MP3. The third wrongly swaps MP4 and PDF. The fourth wrongly labels JPEG as video, so those options are incorrect."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "The temporary area of memory that holds data which has been cut or copied by the user is called the ______.",
+      "options": [
+        "Spooler",
+        "Recycle Bin",
+        "Register",
+        "Clipboard"
+      ],
+      "correctAnswer": "Clipboard",
+      "explanation": "The Clipboard temporarily stores cut or copied data until it is pasted. The Recycle Bin holds deleted files, a register is a tiny storage inside the CPU, and a spooler queues print jobs, so those options do not hold cut or copied content and are incorrect."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Which keyboard shortcut is generally used to find a word or phrase within a document or web page?",
+      "options": [
+        "Ctrl + F",
+        "Ctrl + P",
+        "Ctrl + H",
+        "Ctrl + G"
+      ],
+      "correctAnswer": "Ctrl + F",
+      "explanation": "Ctrl + F opens the 'Find' box to search for text. Ctrl + P opens the print dialog. Ctrl + H usually opens 'Find and Replace' rather than simple find. Ctrl + G is often 'Go To', not a text search, so those shortcuts are incorrect for finding a word."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "Consider the following statements about software:\n\n(i) An assembler converts assembly language into machine code.\n(ii) An interpreter translates a program line by line.\n(iii) Linux is proprietary software owned by Microsoft.\n(iv) A device driver helps the operating system communicate with hardware.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "An assembler converts assembly code to machine code, an interpreter works line by line, and a device driver links the OS with hardware, so (i), (ii) and (iv) are correct. Statement (iii) is false because Linux is open-source software, not proprietary software owned by Microsoft; hence options with (iii) are wrong."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "Fill in the blank: A group of eight bits is together known as one __________. __________",
+      "options": [
+        "word",
+        "nibble",
+        "byte",
+        "kilobit"
+      ],
+      "correctAnswer": "byte",
+      "explanation": "A group of eight bits forms one byte, the basic unit for representing a character. A nibble is only four bits, a word is a larger unit whose size depends on the processor, and a kilobit is 1024 bits, so those units do not equal eight bits and are incorrect."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "In the Windows operating system, which key combination is used to close the currently active application window?",
+      "options": [
+        "Alt + Tab",
+        "Ctrl + F4",
+        "Shift + F4",
+        "Alt + F4"
+      ],
+      "correctAnswer": "Alt + F4",
+      "explanation": "Alt + F4 closes the currently active application window in Windows. Ctrl + F4 usually closes a document or tab within an application, not the whole app. Shift + F4 has no such standard function, and Alt + Tab switches between open windows rather than closing them, so those options are incorrect."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Which of the following are secondary storage devices?\n\n(i) Hard Disk Drive\n(ii) DVD\n(iii) RAM\n(iv) USB flash drive\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A hard disk drive, a DVD and a USB flash drive are all secondary storage that retain data without power, so (i), (ii) and (iv) are correct. RAM (iii) is volatile primary memory, not secondary storage; hence any option containing (iii) — the second, third and fourth — is incorrect."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "In a network, which device connects different networks together and directs data packets between them?",
+      "options": [
+        "Switch",
+        "Router",
+        "Hub",
+        "Repeater"
+      ],
+      "correctAnswer": "Router",
+      "explanation": "A router connects different networks and routes data packets between them based on their destination addresses. A switch forwards data within a single local network. A hub simply broadcasts to all ports, and a repeater only boosts signals, so those devices do not route between networks and are incorrect."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): RAM is described as a volatile memory.\nReason (R): A computer represents all data using the binary digits 0 and 1.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: RAM is volatile, and computers use binary digits. However, the use of binary does not explain why RAM loses its contents when power is off (that is due to its design), so R does not explain A (second option). The other options wrongly deny a true statement or claim a false causal link."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "What is the decimal equivalent of the binary number 1101?",
+      "options": [
+        "12",
+        "11",
+        "13",
+        "9"
+      ],
+      "correctAnswer": "13",
+      "explanation": "Reading the binary number by place value: 1×8 + 1×4 + 0×2 + 1×1 = 8 + 4 + 0 + 1 = 13. '11' comes from misreading a bit, '12' ignores the last 1, and '9' adds only 8 + 1, so those values do not match the correct conversion of 1101 and are incorrect."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "The process of reducing the size of a file so that it occupies less storage space is called ______.",
+      "options": [
+        "formatting",
+        "encryption",
+        "fragmentation",
+        "compression"
+      ],
+      "correctAnswer": "compression",
+      "explanation": "Compression reduces a file's size so it takes up less space and transfers faster. Encryption codes data for security without necessarily shrinking it, fragmentation is the scattering of file parts on a disk, and formatting prepares a disk by erasing it, so those options are incorrect."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer networking:\n\n(i) A LAN typically covers a small area such as an office building.\n(ii) The internet is an example of a wide area network.\n(iii) A switch operates within a local network.\n(iv) HTTP is the protocol used to send email messages.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A LAN covers a small area, the internet is a WAN, and a switch works within a local network, so (i), (ii) and (iii) are correct. Statement (iv) is false because email is sent using SMTP, while HTTP is used to transfer web pages; hence any option containing (iv) is incorrect."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Match the following memory units with their approximate sizes:\n\nColumn I:\n(a) Kilobyte\n(b) Megabyte\n(c) Gigabyte\n(d) Terabyte\n\nColumn II:\n(i) About 1024 bytes\n(ii) About 1024 kilobytes\n(iii) About 1024 megabytes\n(iv) About 1024 gigabytes\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "explanation": "A kilobyte is about 1024 bytes, a megabyte about 1024 kilobytes, a gigabyte about 1024 megabytes, and a terabyte about 1024 gigabytes — matching the first option. The second wrongly swaps kilobyte and megabyte, the third wrongly swaps gigabyte and terabyte, and the fourth reverses the whole order, so those options are incorrect."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The full form of 'VPN' as used in computer networks is ______.",
+      "options": [
+        "Virtual Public Network",
+        "Verified Private Network",
+        "Virtual Private Network",
+        "Visual Private Network"
+      ],
+      "correctAnswer": "Virtual Private Network",
+      "explanation": "VPN stands for Virtual Private Network, which creates a secure connection over a public network. 'Verified Private Network' wrongly changes the first word, 'Virtual Public Network' wrongly makes it public, and 'Visual Private Network' replaces 'Virtual', so those expansions are incorrect."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Which type of memory is the fastest and is located closest to the CPU to speed up processing?",
+      "options": [
+        "ROM",
+        "Main RAM",
+        "Hard disk",
+        "Cache memory"
+      ],
+      "correctAnswer": "Cache memory",
+      "explanation": "Cache memory is the fastest memory, placed close to the CPU to store frequently used data. Main RAM is slower than cache. A hard disk is far slower secondary storage, and ROM is used mainly for startup instructions, not high-speed processing, so those options are incorrect."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "Which of the following are input devices?\n\n(i) Light pen\n(ii) Touchpad\n(iii) Plotter\n(iv) Microphone\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A light pen, a touchpad and a microphone all send input into the computer, so (i), (ii) and (iv) are correct. A plotter (iii) produces printed output on paper and is an output device; hence any option containing (iii) — the second, third and fourth — is incorrect."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "In MS Word, which feature suggests alternative words that have a similar meaning to a selected word?",
+      "options": [
+        "Mail Merge",
+        "Thesaurus",
+        "Word Count",
+        "Track Changes"
+      ],
+      "correctAnswer": "Thesaurus",
+      "explanation": "The Thesaurus feature suggests synonyms and related words for a selected word. Mail Merge combines a document with a data source, Word Count reports the number of words, and Track Changes records edits, so those features do not suggest similar words and are incorrect."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS PowerPoint:\n\n(i) A single page of a presentation is called a slide.\n(ii) The Slide Show view displays the presentation on the full screen.\n(iii) Transitions control how one slide changes to the next.\n(iv) A PowerPoint presentation cannot contain images.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A page is called a slide, Slide Show view runs full screen, and transitions control slide changes, so (i), (ii) and (iii) are correct. Statement (iv) is false because presentations can freely contain images, videos and other media; hence any option containing (iv) is incorrect."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "The default file extension of a Microsoft PowerPoint presentation (from the 2007 version onward) is ______.",
+      "options": [
+        ".pdf",
+        ".docx",
+        ".xlsx",
+        ".pptx"
+      ],
+      "correctAnswer": ".pptx",
+      "explanation": "PowerPoint presentations use the .pptx extension from the 2007 version onward. The .docx extension is for Word documents, .xlsx is for Excel workbooks, and .pdf is a portable document format used across programs, so those extensions are incorrect for PowerPoint."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): One byte is made up of eight bits.\nReason (R): A single bit can store decimal digits from 0 to 9.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "A is correct: one byte consists of eight bits. R is false because a single bit can store only two values, 0 or 1, not the decimal digits 0 to 9. So the third option is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "A named location on a storage device used to organise and group related files is called a ______.",
+      "options": [
+        "folder",
+        "file",
+        "byte",
+        "cluster"
+      ],
+      "correctAnswer": "folder",
+      "explanation": "A folder (or directory) is a named container used to organise related files. A file is a single collection of data, not a container. A byte is a unit of data storage, and a cluster is a low-level unit of disk allocation, so those terms do not describe a container for files and are incorrect."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Fill in the blank: Unwanted or unsolicited bulk email sent to many recipients is commonly known as __________. __________",
+      "options": [
+        "phishing",
+        "spam",
+        "cache",
+        "cookie"
+      ],
+      "correctAnswer": "spam",
+      "explanation": "Spam refers to unsolicited bulk email sent indiscriminately to many recipients. Phishing is a targeted fraud to steal information, a cache stores temporary data for speed, and a cookie remembers website information, so those terms do not mean unwanted bulk email and are incorrect."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Match the following devices with their functions:\n\nColumn I:\n(a) Scanner\n(b) Barcode reader\n(c) Projector\n(d) Microphone\n\nColumn II:\n(i) Reads product codes\n(ii) Digitises documents or images\n(iii) Displays output on a large screen or wall\n(iv) Inputs sound into the computer\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "explanation": "A scanner digitises documents, a barcode reader reads product codes, a projector displays output on a large surface, and a microphone inputs sound — matching the first option. The second wrongly swaps scanner and barcode reader. The third wrongly swaps projector and microphone. The fourth wrongly labels the scanner as a projector, so those options are incorrect."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "In a web address such as 'https://example.com', the part 'https' indicates the ______ being used.",
+      "options": [
+        "file name",
+        "domain name",
+        "directory",
+        "protocol"
+      ],
+      "correctAnswer": "protocol",
+      "explanation": "'https' indicates the protocol (a secure version of HTTP) used to communicate with the website. The domain name is 'example.com', the directory would be a path after the domain, and the file name would be a specific page or resource, so those parts are not indicated by 'https' and are incorrect."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Consider the following statements about internet security:\n\n(i) Phishing tries to trick users into revealing sensitive information.\n(ii) A strong password should be short and easy to guess.\n(iii) Two-factor authentication adds an extra layer of security.\n(iv) A firewall can filter incoming and outgoing network traffic.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Phishing steals information by deception, two-factor authentication improves security, and firewalls filter traffic, so (i), (iii) and (iv) are correct. Statement (ii) is false because a strong password should be long and hard to guess, not short and easy; hence any option containing (ii) is incorrect."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "Wi-Fi technology is primarily used to provide which of the following?",
+      "options": [
+        "Wired broadband cabling",
+        "Wireless network connectivity",
+        "Electrical power supply",
+        "Permanent data storage"
+      ],
+      "correctAnswer": "Wireless network connectivity",
+      "explanation": "Wi-Fi provides wireless network connectivity, allowing devices to access a network or the internet without cables. It is not a wired cabling technology, it does not supply electrical power, and it does not store data permanently, so those options are incorrect."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Which of the following are protocols used for handling email?\n\n(i) SMTP\n(ii) POP3\n(iii) IMAP\n(iv) HTTP\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "SMTP sends email, while POP3 and IMAP are used to retrieve email, so (i), (ii) and (iii) are correct. HTTP (iv) is used to transfer web pages, not to handle email; hence any option containing (iv) — the second, third and fourth — is incorrect."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "The use of Artificial Intelligence and very advanced processing is generally associated with which generation of computers?",
+      "options": [
+        "First generation",
+        "Third generation",
+        "Second generation",
+        "Fifth generation"
+      ],
+      "correctAnswer": "Fifth generation",
+      "explanation": "The fifth generation of computers is associated with Artificial Intelligence and highly advanced processing, and it is still developing. The third generation used integrated circuits, the second used transistors, and the first used vacuum tubes, so those earlier generations are incorrect for AI-based computing."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A printer is an input device.\nReason (R): An input device is one that sends data into the computer.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "A is false because a printer is an output device that produces printed results, not an input device. R is true, as an input device does send data into the computer. So the fourth option is right. The first and second wrongly treat A as correct, and the third wrongly calls R incorrect."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "What is the decimal equivalent of the binary number 10010?",
+      "options": [
+        "18",
+        "20",
+        "16",
+        "14"
+      ],
+      "correctAnswer": "18",
+      "explanation": "Reading 10010 by place value: 1×16 + 0×8 + 0×4 + 1×2 + 0×1 = 16 + 2 = 18. '20' would require different bits, '16' ignores the 2 from the fourth position, and '14' does not match the set bits, so those values are incorrect for the binary number 10010."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "The rectangular area on the screen in which a running program or document is displayed is called a ______.",
+      "options": [
+        "icon",
+        "window",
+        "cursor",
+        "menu"
+      ],
+      "correctAnswer": "window",
+      "explanation": "A window is the framed rectangular area where a program or document is shown, and users can move or resize it. An icon is a small picture representing a program or file, a cursor is the pointer, and a menu is a list of commands, so those terms do not describe the display area and are incorrect."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "Consider the following statements about number systems used in computers:\n\n(i) The binary system uses only the digits 0 and 1.\n(ii) The octal system has a base of 8.\n(iii) The hexadecimal system has a base of 16.\n(iv) The decimal system has a base of 2.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Binary uses 0 and 1, octal has base 8, and hexadecimal has base 16, so (i), (ii) and (iii) are correct. Statement (iv) is false because the decimal system has a base of 10, not 2; the base-2 system is binary, so any option containing (iv) is incorrect."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Match the following units with what they measure:\n\nColumn I:\n(a) DPI\n(b) Hertz (Hz)\n(c) Byte\n(d) Mbps\n\nColumn II:\n(i) Amount of data storage\n(ii) Printer or screen resolution\n(iii) Processor or clock frequency\n(iv) Data transfer speed\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "explanation": "DPI measures resolution, Hertz measures frequency, a byte measures data storage, and Mbps measures data transfer speed — matching the first option. The second wrongly swaps DPI and Hertz. The third wrongly swaps storage and transfer speed. The fourth wrongly labels DPI as storage, so those options are incorrect."
+    }
+  ]
+}

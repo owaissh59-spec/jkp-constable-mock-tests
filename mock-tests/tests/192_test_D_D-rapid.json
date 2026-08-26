@@ -1,0 +1,527 @@
+{
+  "subject": "D",
+  "topic": "Rapid mixed revision & weak-area drill — Numerical & Reasoning",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "If 35% of a number is 133, what is the number?",
+      "options": [
+        "380",
+        "360",
+        "400",
+        "390"
+      ],
+      "correctAnswer": "380",
+      "explanation": "If 35% of the number is 133, the number = 133 ÷ 0.35 = 380. '360' would give 126 as 35%. '400' would give 140. '390' would give 136.5 as 35%, none of which equals 133, so those options are incorrect."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about numbers:\n\n(i) The sum of the first n natural numbers is n(n+1)/2.\n(ii) The sum of the first n odd numbers is n².\n(iii) The product of two even numbers is always even.\n(iv) Zero is counted among the natural numbers.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The formulas n(n+1)/2 and n² for sums, and the fact that a product of even numbers is even, make (i), (ii) and (iii) correct. Statement (iv) is false because natural numbers conventionally begin at 1, so zero is not a natural number; hence any option containing (iv) — the second, third and fourth — is incorrect."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "By selling an article for ₹1,140, a trader incurs a loss of 5%. At what price must he sell it to gain 15%?",
+      "options": [
+        "₹1,400",
+        "₹1,360",
+        "₹1,380",
+        "₹1,320"
+      ],
+      "correctAnswer": "₹1,380",
+      "explanation": "A 5% loss means SP = 95% of CP, so CP = 1140 ÷ 0.95 = ₹1,200. For a 15% gain, SP = 1200 × 1.15 = ₹1,380. '₹1,360' and '₹1,320' correspond to smaller gains, and '₹1,400' would require about a 16.7% gain, so those options are incorrect."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The sum of any two odd numbers is always an even number.\nReason (R): Every odd number can be written in the form 2k + 1, where k is an integer.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "Both are true and R explains A: adding (2k+1) + (2m+1) = 2(k+m+1), which is even, so the form 2k+1 directly proves the sum of two odds is even. Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "The average of the first seven positive multiples of 6 is:",
+      "options": [
+        "30",
+        "28",
+        "21",
+        "24"
+      ],
+      "correctAnswer": "24",
+      "explanation": "The first seven multiples of 6 are 6, 12, 18, 24, 30, 36 and 42; their average is the middle term, 24 (or (6+42)/2 = 24). '28' and '21' are not the middle value. '30' is the fifth term, not the average, so those options are incorrect."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Match the following expressions with their values:\n\nColumn I:\n(a) 15% of 200\n(b) one-fourth of 160\n(c) 0.2 × 250\n(d) three-fifths of 100\n\nColumn II:\n(i) 40\n(ii) 30\n(iii) 60\n(iv) 50\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "explanation": "15% of 200 = 30, one-fourth of 160 = 40, 0.2 × 250 = 50, and three-fifths of 100 = 60 — matching the first option. The second wrongly swaps the first two values. The third wrongly swaps 50 and 60. The fourth wrongly assigns 60 to 15% of 200, so those options are incorrect."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "At what rate percent per annum of simple interest will a sum of ₹6,250 amount to ₹7,650 in 4 years?",
+      "options": [
+        "6%",
+        "5.6%",
+        "5%",
+        "6.4%"
+      ],
+      "correctAnswer": "5.6%",
+      "explanation": "Simple interest = 7,650 − 6,250 = ₹1,400. Rate = (1400 × 100) ÷ (6250 × 4) = 140000 ÷ 25000 = 5.6%. '6%' would give ₹1,500 interest, '5%' would give ₹1,250, and '6.4%' would give ₹1,600, none matching ₹1,400, so those options are wrong."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Which of the following are prime numbers?\n\n(i) 51\n(ii) 53\n(iii) 57\n(iv) 59\n\nSelect the correct combination:",
+      "options": [
+        "(ii) and (iii) only",
+        "(i) and (iii) only",
+        "(ii) and (iv) only",
+        "(i) and (iv) only"
+      ],
+      "correctAnswer": "(ii) and (iv) only",
+      "explanation": "53 and 59 have no factors other than 1 and themselves, so they are prime — (ii) and (iv). 51 = 3 × 17 and 57 = 3 × 19 are composite, so (i) and (iii) are not prime. Therefore only (ii) and (iv) are correct, and the other combinations that include 51 or 57 are wrong."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "If A : B = 3 : 4 and B : C = 6 : 7, then what is the ratio A : C?",
+      "options": [
+        "6 : 7",
+        "3 : 7",
+        "9 : 7",
+        "9 : 14"
+      ],
+      "correctAnswer": "9 : 14",
+      "explanation": "Make B common: A : B = 3 : 4 = 9 : 12 and B : C = 6 : 7 = 12 : 14, so A : C = 9 : 14. '3 : 7' ignores the scaling of B. '9 : 7' keeps A scaled but not C. '6 : 7' is simply B : C, not A : C, so those options are incorrect."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Fill in the blank in the series: 3, 4, 7, 11, 18, __________",
+      "options": [
+        "29",
+        "30",
+        "27",
+        "31"
+      ],
+      "correctAnswer": "29",
+      "explanation": "From the third term onward, each term is the sum of the two preceding terms (3+4=7, 4+7=11, 7+11=18, 11+18=29), so the next term is 29. '30' and '27' break this addition rule, and '31' adds an extra 2, so those options are incorrect."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "12 men can complete a piece of work in 15 days. After they work for 6 days, 4 men leave. In how many more days will the remaining men complete the work?",
+      "options": [
+        "12 days",
+        "13.5 days",
+        "14 days",
+        "15 days"
+      ],
+      "correctAnswer": "13.5 days",
+      "explanation": "Total work = 12 × 15 = 180 man-days. In 6 days, 12 men do 72 man-days, leaving 108. With 8 men remaining, time = 108 ÷ 8 = 13.5 days. '12 days' assumes all 12 stayed. '14 days' and '15 days' do not match the remaining 108 man-days for 8 men, so those options are wrong."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "Consider the following statements about two-digit numbers:\n\n(i) The smallest two-digit prime number is 11.\n(ii) The largest two-digit number is 99.\n(iii) There are 90 two-digit numbers in total.\n(iv) 10 is a two-digit prime number.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "11 is the smallest two-digit prime, 99 is the largest two-digit number, and there are 99 − 10 + 1 = 90 two-digit numbers, so (i), (ii) and (iii) are correct. Statement (iv) is false because 10 = 2 × 5 is composite, not prime; hence any option containing (iv) is incorrect."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "A train 180 metres long passes a man running at 6 km/h in the opposite direction in 9 seconds. What is the speed of the train?",
+      "options": [
+        "54 km/h",
+        "60 km/h",
+        "72 km/h",
+        "66 km/h"
+      ],
+      "correctAnswer": "66 km/h",
+      "explanation": "Relative speed = 180 ÷ 9 = 20 m/s = 72 km/h. Since the man moves opposite, his 6 km/h adds to the train's speed, so train speed = 72 − 6 = 66 km/h. '72 km/h' ignores the man's speed. '60 km/h' subtracts too much. '54 km/h' is far too low, so those options are wrong."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The number 1 is a prime number.\nReason (R): A prime number has exactly two distinct positive factors.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "R is correct: a prime has exactly two distinct factors. A is false because 1 has only one factor (itself), so it is not prime — indeed R is the very rule that disqualifies 1. Hence the fourth option. The first and second wrongly treat A as correct, and the third wrongly calls R incorrect."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "In a village, 60% of the people are adults and the rest are children. If the number of children is 1,200, what is the total population of the village?",
+      "options": [
+        "3,000",
+        "2,800",
+        "3,200",
+        "2,500"
+      ],
+      "correctAnswer": "3,000",
+      "explanation": "If 60% are adults, then 40% are children. Since 40% equals 1,200, the total = 1,200 ÷ 0.40 = 3,000. '2,800' and '3,200' do not give exactly 1,200 as 40%. '2,500' would make 40% equal 1,000, not 1,200, so those options are incorrect."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Match the following with their correct values:\n\nColumn I:\n(a) Square root of 196\n(b) Cube root of 216\n(c) Square root of 169\n(d) Cube root of 343\n\nColumn II:\n(i) 6\n(ii) 13\n(iii) 7\n(iv) 14\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "√196 = 14, ∛216 = 6, √169 = 13, and ∛343 = 7 — matching the first option. The second wrongly swaps 14 and 6. The third wrongly swaps 13 and 7. The fourth wrongly gives √196 as 13, so those options are incorrect."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "In an examination, a student who scores 30% fails by 40 marks, while another who scores 45% gets 20 marks more than the passing mark. What are the maximum marks?",
+      "options": [
+        "500",
+        "450",
+        "400",
+        "360"
+      ],
+      "correctAnswer": "400",
+      "explanation": "Let maximum marks be M and pass mark p. Then 0.30M = p − 40 and 0.45M = p + 20. Subtracting: 0.15M = 60, so M = 400. '450', '500' and '360' do not satisfy both conditions simultaneously, so those options are incorrect."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Which of the following numbers are divisible by 8?\n\n(i) 144\n(ii) 232\n(iii) 316\n(iv) 456\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "144 ÷ 8 = 18, 232 ÷ 8 = 29 and 456 ÷ 8 = 57 are exact, so (i), (ii) and (iv) are divisible by 8. 316 ÷ 8 = 39.5 is not exact, so (iii) is not divisible by 8; hence any option containing (iii) — the second, third and fourth — is incorrect."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "The area of a circle is 154 square cm. What is its circumference? (Take π = 22/7.)",
+      "options": [
+        "44 cm",
+        "48 cm",
+        "40 cm",
+        "22 cm"
+      ],
+      "correctAnswer": "44 cm",
+      "explanation": "Area = πr² = 154, so r² = 154 × 7 ÷ 22 = 49 and r = 7 cm. Circumference = 2πr = 2 × 22/7 × 7 = 44 cm. '48 cm' and '40 cm' correspond to wrong radii, and '22 cm' is half the correct circumference, so those options are incorrect."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "The number of students in four sections of a class is:\n\nSection A → 45\nSection B → 60\nSection C → 35\nSection D → 40\n\nWhat percentage of the total number of students is in Section B?",
+      "options": [
+        "30%",
+        "33.33%",
+        "40%",
+        "25%"
+      ],
+      "correctAnswer": "33.33%",
+      "explanation": "The total is 45 + 60 + 35 + 40 = 180, and Section B has 60, so the percentage = (60 ÷ 180) × 100 = 33.33%. '30%' would need 54 students, '40%' would need 72, and '25%' would need 45, none of which matches 60, so those options are wrong."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Simplify using the correct order of operations: 12 + 6 ÷ 2 × 3 − 4.",
+      "options": [
+        "13",
+        "23",
+        "17",
+        "29"
+      ],
+      "correctAnswer": "17",
+      "explanation": "By BODMAS, division and multiplication come first from left to right: 6 ÷ 2 = 3, then 3 × 3 = 9. So 12 + 9 − 4 = 17. '23' comes from doing addition too early. '13' mishandles the multiplication. '29' adds everything without order, so those options are incorrect."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Consider the following statements about divisibility rules:\n\n(i) A number is divisible by 4 if the number formed by its last two digits is divisible by 4.\n(ii) A number is divisible by 5 if it ends in 0 or 5.\n(iii) A number is divisible by 6 if it is divisible by both 2 and 3.\n(iv) A number is divisible by 8 if the sum of its digits is divisible by 8.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The rules for 4, 5 and 6 in (i), (ii) and (iii) are all correct. Statement (iv) is false because divisibility by 8 depends on the last three digits, not the digit sum (the digit-sum rule applies to 9 and 3); hence any option containing (iv) is incorrect."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "The present ages of A and B are in the ratio 4 : 5. Eight years from now, the ratio of their ages will be 6 : 7. What is A's present age?",
+      "options": [
+        "16 years",
+        "20 years",
+        "12 years",
+        "24 years"
+      ],
+      "correctAnswer": "16 years",
+      "explanation": "Let the ages be 4x and 5x. After 8 years: (4x+8)/(5x+8) = 6/7, so 28x + 56 = 30x + 48, giving 2x = 8 and x = 4. A's present age = 4x = 16 years. '20 years' is B's age, and '12' and '24 years' do not satisfy the future ratio, so those options are wrong."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The product of a non-zero number and its reciprocal is always 1.\nReason (R): Division by zero is not defined in mathematics.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "Both statements are true: a number times its reciprocal equals 1, and division by zero is undefined. However, the undefined nature of division by zero does not explain why a number times its reciprocal is 1, so R does not explain A (second option). The other options wrongly deny a true statement or claim a false causal link."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "What is the unit digit of 7 raised to the power 73?",
+      "options": [
+        "9",
+        "7",
+        "3",
+        "1"
+      ],
+      "correctAnswer": "7",
+      "explanation": "The unit digits of powers of 7 repeat in a cycle of four: 7, 9, 3, 1. Dividing 73 by 4 leaves remainder 1, so the unit digit matches the first in the cycle, which is 7. '9', '3' and '1' correspond to remainders 2, 3 and 0 respectively, so those options are wrong."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Match the following series with their next term:\n\nColumn I:\n(a) 2, 4, 8, 16, ...\n(b) 1, 4, 9, 16, ...\n(c) 3, 6, 9, 12, ...\n(d) 1, 1, 2, 3, 5, ...\n\nColumn II:\n(i) 15\n(ii) 8\n(iii) 32\n(iv) 25\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "explanation": "The doubling series gives 32, the squares give 25, the multiples of 3 give 15, and the Fibonacci series gives 8 — matching the first option. The second wrongly swaps 25 and 15. The third wrongly gives the doubling series as 8. The fourth wrongly swaps 8 and 15, so those options are incorrect."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "A and B start a business investing ₹5,000 and ₹7,000 respectively. If the total annual profit is ₹4,800, shared in the ratio of their investments, what is B's share?",
+      "options": [
+        "₹3,200",
+        "₹2,000",
+        "₹2,400",
+        "₹2,800"
+      ],
+      "correctAnswer": "₹2,800",
+      "explanation": "The investment ratio is 5,000 : 7,000 = 5 : 7, a total of 12 parts. B's share = 4,800 × 7/12 = ₹2,800. '₹2,000' is A's share (5 parts). '₹2,400' is half the profit, ignoring the ratio. '₹3,200' is too high for 7 parts, so those options are wrong."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Which of the following are perfect squares?\n\n(i) 121\n(ii) 150\n(iii) 169\n(iv) 196\n\nSelect the correct combination:",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "121 = 11², 169 = 13² and 196 = 14² are perfect squares, so (i), (iii) and (iv) are correct. 150 lies between 12² (144) and 13² (169) and is not a perfect square; hence any option containing (ii) — the second, third and fourth — is incorrect."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "A person's salary is first increased by 20% and then the new salary is decreased by 20%. What is the net change in the salary?",
+      "options": [
+        "No change",
+        "4% decrease",
+        "4% increase",
+        "2% decrease"
+      ],
+      "correctAnswer": "4% decrease",
+      "explanation": "Applying successive factors: 1.20 × 0.80 = 0.96, which is a 4% decrease from the original. 'No change' wrongly assumes the two percentages cancel. '4% increase' has the wrong direction. '2% decrease' miscalculates the combined effect, so those options are incorrect."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "Fill in the blank: In a code where each letter is replaced by its position number in the alphabet (A = 1, B = 2, ...), the letter 'J' is represented by __________. __________",
+      "options": [
+        "11",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "10",
+      "explanation": "Counting from A = 1, the letter J is the tenth letter, so it is represented by 10. '9' corresponds to I, '11' corresponds to K, and '12' corresponds to L, so those options represent different letters and are incorrect."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "Consider the following statements about averages:\n\n(i) The average of the first five natural numbers is 3.\n(ii) The average of the first n even numbers is n.\n(iii) The average of 10, 20, 30, 40 and 50 is 30.\n(iv) Adding a value equal to the current mean leaves the mean unchanged.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The average of 1-5 is 3, the average of 10 to 50 is 30, and adding a value equal to the mean does not change it, so (i), (iii) and (iv) are correct. Statement (ii) is false because the average of the first n even numbers is (n + 1), not n; hence any option containing (ii) is incorrect."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "In what ratio must rice costing ₹30 per kg be mixed with rice costing ₹45 per kg so that the mixture costs ₹35 per kg?",
+      "options": [
+        "2 : 1",
+        "1 : 2",
+        "3 : 2",
+        "2 : 3"
+      ],
+      "correctAnswer": "2 : 1",
+      "explanation": "By the rule of alligation, the ratio is (45 − 35) : (35 − 30) = 10 : 5 = 2 : 1. So two parts of the cheaper rice mix with one part of the costlier rice. '1 : 2' reverses the ratio, while '3 : 2' and '2 : 3' do not match the alligation result, so those options are wrong."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Zero is an even number.\nReason (R): Zero cannot be divided by 2.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "A is correct: zero is even because it is an integer multiple of 2 (0 = 2 × 0). R is false because zero can be divided by 2, giving 0 with no remainder. So the third option is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "If cos θ = 5/13 and θ is an acute angle, what is the value of sin θ?",
+      "options": [
+        "5/12",
+        "12/13",
+        "13/12",
+        "12/5"
+      ],
+      "correctAnswer": "12/13",
+      "explanation": "Using sin²θ + cos²θ = 1, sin²θ = 1 − 25/169 = 144/169, so sin θ = 12/13 (positive, as θ is acute). '5/12' is tan of the complementary angle, not sin θ. '13/12' and '12/5' exceed 1 and cannot be a sine value, so those options are incorrect."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "Match the following with their correct results:\n\nColumn I:\n(a) LCM of 4 and 6\n(b) HCF of 12 and 18\n(c) LCM of 3 and 5\n(d) HCF of 20 and 30\n\nColumn II:\n(i) 6\n(ii) 15\n(iii) 10\n(iv) 12\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+      "explanation": "LCM of 4 and 6 is 12, HCF of 12 and 18 is 6, LCM of 3 and 5 is 15, and HCF of 20 and 30 is 10 — matching the first option. The second wrongly swaps 12 and 6. The third wrongly swaps 15 and 10. The fourth wrongly assigns 15 to the LCM of 4 and 6, so those options are incorrect."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "Consider the following statements:\n\n(i) The square of every even number is even.\n(ii) The square of every odd number is odd.\n(iii) The cube of a negative number is negative.\n(iv) Every prime number is odd.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Squares of even numbers are even, squares of odd numbers are odd, and cubes of negatives are negative, so (i), (ii) and (iii) are correct. Statement (iv) is false because 2 is a prime number and is even; hence any option containing (iv) — the second, third and fourth — is incorrect."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "A boat covers 30 km downstream in 3 hours and returns the same distance upstream in 5 hours. What is the speed of the boat in still water?",
+      "options": [
+        "8 km/h",
+        "7 km/h",
+        "9 km/h",
+        "6 km/h"
+      ],
+      "correctAnswer": "8 km/h",
+      "explanation": "Downstream speed = 30 ÷ 3 = 10 km/h and upstream speed = 30 ÷ 5 = 6 km/h. Speed in still water = (10 + 6) ÷ 2 = 8 km/h. '7 km/h' and '6 km/h' are too low, and '9 km/h' is too high for the average of 10 and 6, so those options are wrong."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Which of the following numbers are multiples of both 3 and 4?\n\n(i) 24\n(ii) 30\n(iii) 36\n(iv) 60\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A number that is a multiple of both 3 and 4 must be a multiple of 12. 24, 36 and 60 are all multiples of 12, so (i), (iii) and (iv) are correct. 30 is a multiple of 3 but not of 4, so (ii) is wrong; hence any option containing (ii) is incorrect."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Consider the following statements about a code in which each letter is replaced by the letter immediately following it in the alphabet:\n\n(i) 'CAT' becomes 'DBU'.\n(ii) 'DOG' becomes 'EPH'.\n(iii) 'ICE' becomes 'JDF'.\n(iv) 'SUN' becomes 'TVP'.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Shifting each letter forward by one gives CAT → DBU, DOG → EPH and ICE → JDF, so (i), (ii) and (iii) are correct. For (iv), SUN should become TVO (S→T, U→V, N→O), not TVP, so (iv) is wrong; hence any option containing (iv) is incorrect."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "A shopkeeper's daily sales (in thousands of rupees) over five days were:\n\nMonday → 12\nTuesday → 18\nWednesday → 15\nThursday → 21\nFriday → 24\n\nWhat was the average daily sales (in thousands of rupees) over these five days?",
+      "options": [
+        "20",
+        "17",
+        "19",
+        "18"
+      ],
+      "correctAnswer": "18",
+      "explanation": "The total sales = 12 + 18 + 15 + 21 + 24 = 90 thousand, and the average = 90 ÷ 5 = 18 thousand. '17' would need a total of 85, '19' a total of 95, and '20' a total of 100, none of which matches 90, so those options are incorrect."
+    }
+  ]
+}
