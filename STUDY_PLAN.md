@@ -551,17 +551,17 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 196 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ⬜ |
-| 197 | Afternoon | A — General English | Sectional revision — General English | 50 | advanced | Sectional revision | ⬜ |
-| 198 | Late | B — General Knowledge & Current Affairs (India) | Rapid mixed revision & weak-area drill — GK India | 40 | advanced | Rapid revision | ⬜ |
+| 196 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ✅ |
+| 197 | Afternoon | A — General English | Sectional revision — General English | 50 | advanced | Sectional revision | ✅ |
+| 198 | Late | B — General Knowledge & Current Affairs (India) | Rapid mixed revision & weak-area drill — GK India | 40 | advanced | Rapid revision | ✅ |
 
 ### Day 67
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 199 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ⬜ |
-| 200 | Afternoon | D — Numerical and Reasoning Ability | Sectional revision — Numerical & Reasoning Ability | 50 | advanced | Sectional revision | ⬜ |
-| 201 | Late | C — General Knowledge — J&K | Rapid mixed revision & weak-area drill — GK J&K | 40 | advanced | Rapid revision | ⬜ |
+| 199 | Morning | FULL | Full syllabus — all subjects A-E (exam simulation) | 100 | exam | Full-length mock | ✅ |
+| 200 | Afternoon | D — Numerical and Reasoning Ability | Sectional revision — Numerical & Reasoning Ability | 50 | advanced | Sectional revision | ✅ |
+| 201 | Late | C — General Knowledge — J&K | Rapid mixed revision & weak-area drill — GK J&K | 40 | advanced | Rapid revision | ✅ |
 
 ### Day 68
 
