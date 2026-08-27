@@ -1,0 +1,527 @@
+{
+  "subject": "D",
+  "topic": "Rapid mixed revision & weak-area drill — Numerical & Reasoning",
+  "total_questions": 40,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "D",
+      "questionText": "The sum of the digits of a two-digit number is 12. If the digits are interchanged, the number increases by 18. What is the original number?",
+      "options": [
+        "57",
+        "48",
+        "39",
+        "75"
+      ],
+      "correctAnswer": "57",
+      "explanation": "Let the tens digit be a and the units digit b, so a + b = 12 and (10b + a) - (10a + b) = 18, which simplifies to 9(b - a) = 18, giving b - a = 2. Solving with a + b = 12 gives a = 5 and b = 7, so the number is 57 and reversing it gives 75, which is 18 more. '48' is wrong because reversing gives 84, an increase of 36. '39' is wrong because its digits total 12 but reversing gives 93, an increase of 54. '75' is wrong because it is the REVERSED number, and reversing it would decrease the value."
+    },
+    {
+      "id": "2",
+      "subject": "D",
+      "questionText": "Consider the following statements about tests of divisibility:\n\n(i) A number is divisible by 9 if the sum of its digits is divisible by 9.\n(ii) A number is divisible by 5 if its last digit is 0 or 5.\n(iii) A number is divisible by 8 if the number formed by its last three digits is divisible by 8.\n(iv) A number is divisible by 7 if the sum of its digits is divisible by 7.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — the digit-sum test works for 9 as well as for 3. Statement (ii) is correct — only 0 and 5 in the units place give divisibility by 5. Statement (iii) is correct — since 1000 is divisible by 8, only the last three digits matter. Statement (iv) is FALSE because there is no digit-sum test for 7; 25 has a digit sum of 7 but is not divisible by 7, while 21 is divisible by 7 though its digit sum is 3. Every option containing (iv) is therefore wrong."
+    },
+    {
+      "id": "3",
+      "subject": "D",
+      "questionText": "What is the difference between the simple interest on ₹8,000 for 3 years at 6% per annum and the simple interest on the same sum for the same period at 8% per annum?",
+      "options": [
+        "₹560",
+        "₹360",
+        "₹480",
+        "₹420"
+      ],
+      "correctAnswer": "₹480",
+      "explanation": "At 6% the interest is 8000 x 6 x 3 / 100 = ₹1,440 and at 8% it is 8000 x 8 x 3 / 100 = ₹1,920, so the difference is ₹480. The same result follows directly from 8000 x 2 x 3 / 100, using the 2 percentage-point gap. '₹360' is wrong because it corresponds to a gap of 1.5 percentage points. '₹560' is wrong because it uses a period of 3.5 years. '₹420' is wrong because it applies the 2-point gap to a principal of ₹7,000 rather than ₹8,000."
+    },
+    {
+      "id": "4",
+      "subject": "D",
+      "questionText": "Match the fractions in Column I with their percentage equivalents in Column II:\n\nColumn I:\n(a) 3/8\n(b) 5/16\n(c) 7/20\n(d) 9/25\n\nColumn II:\n(i) 31.25%\n(ii) 36%\n(iii) 37.5%\n(iv) 35%\n\nChoose the correct match:",
+      "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "Converting each fraction: 3/8 = 0.375 = 37.5%; 5/16 = 0.3125 = 31.25%; 7/20 = 0.35 = 35%; 9/25 = 0.36 = 36%. The option pairing 3/8 with 31.25% is wrong because 31.25% is exactly 5/16. The option pairing 7/20 with 36% and 9/25 with 35% is wrong because it interchanges the two, and multiplying 7/20 by 5 shows plainly that it is 35/100. The option pairing 3/8 with 36% is wrong because 36% would be 9/25, a smaller fraction than three-eighths."
+    },
+    {
+      "id": "5",
+      "subject": "D",
+      "questionText": "The average of five consecutive even numbers is 36. What is the largest of these numbers?",
+      "options": [
+        "40",
+        "42",
+        "38",
+        "44"
+      ],
+      "correctAnswer": "40",
+      "explanation": "For an odd count of equally spaced numbers, the average is the middle term, so the middle number is 36 and the five numbers are 32, 34, 36, 38 and 40, the largest being 40. '42' is wrong because it would make the middle term 38 and the average 38, not 36. '38' is wrong because 38 is the fourth term, not the largest. '44' is wrong because it corresponds to a middle term of 40, giving an average of 40 instead of the stated 36."
+    },
+    {
+      "id": "6",
+      "subject": "D",
+      "questionText": "Which of the following are correct statements about powers of numbers?\n\n(i) 2 raised to the power 10 equals 1024\n(ii) 3 raised to the power 4 equals 81\n(iii) 5 raised to the power 3 equals 625\n(iv) 6 raised to the power 2 equals 36\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "2^10 is 1024, a value familiar from storage units; 3^4 is 3 x 3 x 3 x 3 = 81; 6² is 36. Statement (iii) is FALSE because 5³ = 5 x 5 x 5 = 125, whereas 625 is 5 raised to the power FOUR. Hence every option containing (iii) must be rejected, and the option omitting 2^10 discards a correct and very commonly used power of two."
+    },
+    {
+      "id": "7",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): If a number is divisible by 12, it must be divisible by both 3 and 4.\nReason (R): 3 and 4 are co-prime numbers whose product is 12.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct because a multiple of 12 contains the factors 3 and 4. (R) is correct because the HCF of 3 and 4 is 1 and their product is 12. (R) explains (A) exactly: when a number is written as the product of two co-prime factors, divisibility by the number is equivalent to divisibility by each factor. The second option is wrong because the co-primality is the very reason the test works. The third option is wrong because the arithmetic in (R) is correct. The fourth option is wrong because (A) is a valid divisibility rule."
+    },
+    {
+      "id": "8",
+      "subject": "D",
+      "questionText": "Read the following data and answer the question that follows.\n\nA family with a monthly income of ₹40,000 spent as under:\n\nRent → ₹10,000\nFood → ₹12,000\nEducation → ₹6,000\nOther items → ₹4,000\n\nWhat percentage of the income was saved?",
+      "options": [
+        "18%",
+        "25%",
+        "20%",
+        "15%"
+      ],
+      "correctAnswer": "20%",
+      "explanation": "Total expenditure is 10,000 + 12,000 + 6,000 + 4,000 = ₹32,000, so the saving is 40,000 - 32,000 = ₹8,000, which is (8000/40000) x 100 = 20%. '25%' is wrong because it corresponds to a saving of ₹10,000, the amount spent on rent. '18%' is wrong because it corresponds to ₹7,200, which appears nowhere in the data. '15%' is wrong because it corresponds to ₹6,000, the education expenditure rather than the residue."
+    },
+    {
+      "id": "9",
+      "subject": "D",
+      "questionText": "A man covers the first half of a journey at 30 km/h and the second half at 60 km/h. What is his average speed for the whole journey?",
+      "options": [
+        "50 km/h",
+        "45 km/h",
+        "36 km/h",
+        "40 km/h"
+      ],
+      "correctAnswer": "40 km/h",
+      "explanation": "For equal distances the average speed is the harmonic mean: 2 x 30 x 60 / (30 + 60) = 3600/90 = 40 km/h. '45 km/h' is wrong because it is the simple arithmetic mean of the two speeds, which applies only when equal TIMES rather than equal distances are spent at each speed. '36 km/h' is wrong because it results from an incorrect weighting that gives the slower speed too much influence. '50 km/h' is wrong because the average must always lie closer to the slower speed when the distances are equal."
+    },
+    {
+      "id": "10",
+      "subject": "D",
+      "questionText": "Consider the following statements and the conclusions drawn from them:\n\n(i) No policeman is a thief.\n(ii) All thieves are criminals.\n(iii) Conclusion: No policeman is a criminal.\n(iv) Conclusion: Some criminals are not policemen.\n\nWhich of the conclusions logically follows from the two statements?",
+      "options": [
+        "(iv) only",
+        "(iii) only",
+        "Both (iii) and (iv)",
+        "Neither (iii) nor (iv)"
+      ],
+      "correctAnswer": "(iv) only",
+      "explanation": "Conclusion (iv) follows because thieves form a group that is entirely inside 'criminals' and entirely outside 'policemen', so at least those criminals are not policemen. Conclusion (iii) does NOT follow, because the premises exclude policemen only from thieves; a policeman could still be a criminal of some other kind. '(iii) only' is wrong for that reason, 'Both (iii) and (iv)' is wrong because it accepts the over-extended conclusion, and 'Neither' is wrong because it rejects a conclusion that is genuinely valid."
+    },
+    {
+      "id": "11",
+      "subject": "D",
+      "questionText": "In a certain code language FLOWER is written as ULBDVI. How will GARDEN be written in the same code?",
+      "options": [
+        "TZIWMV",
+        "TZIWVM",
+        "TZWIVM",
+        "ZTIWVM"
+      ],
+      "correctAnswer": "TZIWVM",
+      "explanation": "Each letter is replaced by its opposite in the alphabet, so that A pairs with Z, B with Y and so on: F becomes U, L becomes O, O becomes L, W becomes D, E becomes V and R becomes I, giving ULBDVI as stated. Applying the same rule to GARDEN gives T, Z, I, W, V, M, that is TZIWVM. 'TZIWMV' is wrong because it transposes the last two letters. 'TZWIVM' is wrong because it transposes the third and fourth letters. 'ZTIWVM' is wrong because it transposes the first two letters, which would mean coding G as Z and A as T."
+    },
+    {
+      "id": "12",
+      "subject": "D",
+      "questionText": "In the letter series Z, X, V, T, the next letter is __________.",
+      "options": [
+        "Q",
+        "S",
+        "R",
+        "P"
+      ],
+      "correctAnswer": "R",
+      "explanation": "The letters move backwards two places at a time: Z is 26, X is 24, V is 22 and T is 20, so the next is 18, which is R. 'S' is wrong because S is 19 and would mean a single step back instead of two. 'Q' is wrong because Q is 17, three places behind T. 'P' is wrong because P is 16, four places behind T, which would be right only if the pattern were skipping three letters each time."
+    },
+    {
+      "id": "13",
+      "subject": "D",
+      "questionText": "The volume of a cube is 512 cubic centimetres. What is its total surface area?",
+      "options": [
+        "288 sq cm",
+        "256 sq cm",
+        "512 sq cm",
+        "384 sq cm"
+      ],
+      "correctAnswer": "384 sq cm",
+      "explanation": "Since the volume is a³ = 512, the edge a = 8 cm, and the total surface area is 6a² = 6 x 64 = 384 sq cm. '256 sq cm' is wrong because it is 4a², the LATERAL surface area, which omits the top and bottom faces. '512 sq cm' is wrong because it repeats the volume figure, confusing cubic units with square units. '288 sq cm' is wrong because it corresponds to 6 x 48, which would need an edge whose square is 48, not a whole-number edge."
+    },
+    {
+      "id": "14",
+      "subject": "D",
+      "questionText": "In a family, A is the father of B, B is the sister of C, C is the son of D, and D is the wife of A. Match the persons in Column I with their relationships in Column II:\n\nColumn I:\n(a) B\n(b) C\n(c) D\n(d) A\n\nColumn II:\n(i) Husband of D\n(ii) Mother of B\n(iii) Brother of B\n(iv) Daughter of D\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "explanation": "Since B is the SISTER of C, B is female, and as A's child with A's wife D, B is the daughter of D. C is the son of D and therefore the brother of B. D, being the wife of A and the parent of both children, is the mother of B, and A is the husband of D. The option making B the brother is wrong because 'sister of C' fixes B as female. The option making D the husband is wrong because D is expressly the wife of A. The option making B the mother is wrong because B belongs to the children's generation."
+    },
+    {
+      "id": "15",
+      "subject": "D",
+      "questionText": "A trader sold two articles for ₹1,000 each, gaining 25% on one and losing 25% on the other. What was the overall result of the two transactions?",
+      "options": [
+        "No profit and no loss",
+        "Loss of 6.25%",
+        "Gain of 6.25%",
+        "Loss of 12.5%"
+      ],
+      "correctAnswer": "Loss of 6.25%",
+      "explanation": "The cost prices are 1000/1.25 = ₹800 and 1000/0.75 = ₹1,333.33, a total of ₹2,133.33 against total receipts of ₹2,000, so the loss is ₹133.33 on ₹2,133.33, which is 6.25%. This matches the shortcut: when the same gain and loss percentage x applies at equal selling prices, the net result is always a loss of x²/100, that is 625/100 = 6.25%. 'No profit and no loss' is wrong because the equal percentages act on unequal cost prices. 'Gain of 6.25%' is wrong because the outcome is always a loss in this situation. 'Loss of 12.5%' is wrong because it doubles the correct figure."
+    },
+    {
+      "id": "16",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The average of the first five prime numbers is 5.6.\nReason (R): The first five prime numbers are 1, 2, 3, 5 and 7.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct because the first five primes are 2, 3, 5, 7 and 11, whose sum is 28, giving an average of 28/5 = 5.6. (R) is FALSE because 1 is NOT a prime number, having only one distinct positive factor, and the list in (R) also omits 11. The first two options are wrong because they require (R) to be true. The fourth option is wrong because the average stated in (A) is arithmetically correct once the proper list of primes is used."
+    },
+    {
+      "id": "17",
+      "subject": "D",
+      "questionText": "The population of a town fell by 10% in one year and then rose by 20% in the following year. If the present population is 21,600, what was it two years ago?",
+      "options": [
+        "19,800",
+        "22,000",
+        "20,000",
+        "18,000"
+      ],
+      "correctAnswer": "20,000",
+      "explanation": "If the earlier population was P, then P x 0.90 x 1.20 = 1.08P = 21,600, so P = 20,000. Checking forward: 20,000 falls to 18,000 and then rises to 21,600. '22,000' is wrong because 1.08 x 22,000 is 23,760. '19,800' is wrong because it is 90% of 22,000 and confuses an intermediate value with the starting one. '18,000' is wrong because 18,000 is the population after the FIRST year, not two years ago."
+    },
+    {
+      "id": "18",
+      "subject": "D",
+      "questionText": "Which of the following are pairs of co-prime numbers?\n\n(i) 8 and 15\n(ii) 14 and 21\n(iii) 25 and 36\n(iv) 9 and 28\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Co-prime numbers share no common factor except 1. The HCF of 8 and 15 is 1, of 25 and 36 is 1, and of 9 and 28 is 1, so all three pairs are co-prime even though none of the numbers is itself prime. The pair 14 and 21 is NOT co-prime because both are divisible by 7, giving an HCF of 7. Hence every option containing (ii) must be rejected."
+    },
+    {
+      "id": "19",
+      "subject": "D",
+      "questionText": "A car travels 288 km on 24 litres of diesel. How far will it travel on 35 litres, assuming the same efficiency?",
+      "options": [
+        "420 km",
+        "400 km",
+        "440 km",
+        "384 km"
+      ],
+      "correctAnswer": "420 km",
+      "explanation": "The efficiency is 288/24 = 12 km per litre, so on 35 litres the car covers 12 x 35 = 420 km. '400 km' is wrong because it corresponds to an efficiency of about 11.4 km per litre, which does not follow from the given figures. '440 km' is wrong because it would need an efficiency of about 12.6 km per litre. '384 km' is wrong because it corresponds to 32 litres at 12 km per litre, that is, it uses the wrong quantity of fuel."
+    },
+    {
+      "id": "20",
+      "subject": "D",
+      "questionText": "Consider the following statements about direction sense:\n\n(i) A person facing north who turns 90 degrees clockwise then faces east.\n(ii) A person facing south-west who turns 180 degrees then faces north-east.\n(iii) A person facing east who turns 270 degrees clockwise then faces north.\n(iv) The sun rises in the west.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — clockwise from north leads to east. Statement (ii) is correct — a half turn always gives the opposite direction, and the opposite of south-west is north-east. Statement (iii) is correct — from east, three successive clockwise quarter turns give south, then west, then north. Statement (iv) is FALSE because the sun rises in the EAST, which is the standard reference used in direction-sense questions; every option containing (iv) is therefore wrong."
+    },
+    {
+      "id": "21",
+      "subject": "D",
+      "questionText": "Simplify: (0.6 x 0.6 x 0.6 + 0.4 x 0.4 x 0.4) ÷ (0.6 x 0.6 − 0.6 x 0.4 + 0.4 x 0.4)",
+      "options": [
+        "0.5",
+        "0.2",
+        "1",
+        "2"
+      ],
+      "correctAnswer": "1",
+      "explanation": "The expression has the form (a³ + b³) ÷ (a² - ab + b²) with a = 0.6 and b = 0.4, and since a³ + b³ = (a + b)(a² - ab + b²), the quotient is simply a + b = 1. Checking directly: the numerator is 0.216 + 0.064 = 0.28 and the denominator is 0.36 - 0.24 + 0.16 = 0.28. '0.2' is wrong because it is a - b, which would arise from the difference-of-cubes identity. '0.5' is wrong because it is an unrelated rounding of the ratio. '2' is wrong because it doubles the correct sum a + b."
+    },
+    {
+      "id": "22",
+      "subject": "D",
+      "questionText": "Match each series in Column I with its next term in Column II:\n\nColumn I:\n(a) 5, 10, 20, 40\n(b) 2, 6, 12, 20\n(c) 1, 8, 27, 64\n(d) 100, 81, 64, 49\n\nColumn II:\n(i) 36\n(ii) 30\n(iii) 80\n(iv) 125\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "explanation": "Series (a) doubles each time, so 40 x 2 = 80. Series (b) is the products of consecutive integers 1x2, 2x3, 3x4, 4x5, so the next is 5x6 = 30. Series (c) is the cubes 1³, 2³, 3³, 4³, so the next is 5³ = 125. Series (d) is the descending squares 10², 9², 8², 7², so the next is 6² = 36. The option giving (a) the value 30 is wrong because 30 belongs to series (b). The option giving (c) the value 36 is wrong because 36 is a square, not a cube. The option giving (a) the value 125 confuses doubling with cubing."
+    },
+    {
+      "id": "23",
+      "subject": "D",
+      "questionText": "If 3 tan θ = 4 and θ is an acute angle, then the value of sin θ is:",
+      "options": [
+        "4/5",
+        "3/5",
+        "5/4",
+        "3/4"
+      ],
+      "correctAnswer": "4/5",
+      "explanation": "From 3 tan θ = 4 we get tan θ = 4/3, so the opposite side is 4 and the adjacent side 3, making the hypotenuse 5 by the Pythagorean triple. Hence sin θ = opposite/hypotenuse = 4/5. '3/5' is wrong because it is cos θ, adjacent over hypotenuse. '5/4' is wrong because it is cosec θ, the reciprocal of the sine. '3/4' is wrong because it is cot θ, the reciprocal of the given tangent."
+    },
+    {
+      "id": "24",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The HCF of two numbers is always a factor of their LCM.\nReason (R): The product of the HCF and the LCM of two numbers equals the product of the two numbers.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct, and the reason is that the HCF divides each of the two numbers while each number divides the LCM, so by transitivity the HCF divides the LCM. (R) is also correct as a standard identity for a pair of numbers. But (R) does not explain (A): the product identity relates four quantities and does not by itself establish the divisibility of the LCM by the HCF. The third and fourth options are wrong because both statements are individually true."
+    },
+    {
+      "id": "25",
+      "subject": "D",
+      "questionText": "Read the following data and answer the question that follows.\n\nThe marks obtained by four students in two successive tests were:\n\nP → 60 and 72\nQ → 45 and 54\nR → 80 and 88\nS → 50 and 65\n\nWhich student recorded the highest percentage improvement from the first test to the second?",
+      "options": [
+        "P",
+        "S",
+        "Q",
+        "R"
+      ],
+      "correctAnswer": "S",
+      "explanation": "The improvements are P: 12 on 60 = 20%; Q: 9 on 45 = 20%; R: 8 on 80 = 10%; S: 15 on 50 = 30%. S therefore shows the highest percentage improvement. 'P' is wrong because 20% is below S's 30%. 'Q' is wrong for the same reason, and it also has the lowest absolute gain among the improvers. 'R' is wrong because although R has the highest marks in both tests, the percentage improvement of 10% is the smallest of the four."
+    },
+    {
+      "id": "26",
+      "subject": "D",
+      "questionText": "Consider the following statements about mensuration:\n\n(i) If the radius of a circle is doubled, its area becomes four times.\n(ii) If the edge of a cube is doubled, its volume becomes eight times.\n(iii) The perimeter of a semicircle of radius r is πr.\n(iv) The area of an equilateral triangle of side a is (√3/4) times a squared.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct because area varies as the square of the radius. Statement (ii) is correct because volume varies as the cube of the edge. Statement (iv) is correct as the standard formula for an equilateral triangle. Statement (iii) is FALSE because the perimeter of a semicircle must include the diameter as well as the curved part, giving πr + 2r; πr alone is only the arc length. Every option containing (iii) is therefore wrong."
+    },
+    {
+      "id": "27",
+      "subject": "D",
+      "questionText": "An amount of ₹6,300 is divided among A, B and C in the ratio 2 : 3 : 4. How much does A receive?",
+      "options": [
+        "₹1,800",
+        "₹2,100",
+        "₹2,800",
+        "₹1,400"
+      ],
+      "correctAnswer": "₹1,400",
+      "explanation": "The total number of parts is 2 + 3 + 4 = 9, so one part is 6300/9 = ₹700 and A's share of two parts is ₹1,400. '₹2,100' is wrong because that is B's share of three parts. '₹2,800' is wrong because that is C's share of four parts. '₹1,800' is wrong because it corresponds to dividing ₹6,300 by 3.5, which does not follow from the 2 : 3 : 4 division at all."
+    },
+    {
+      "id": "28",
+      "subject": "D",
+      "questionText": "Which of the following are always true of a triangle?\n\n(i) The sum of any two sides is greater than the third side.\n(ii) An exterior angle equals the sum of the two interior opposite angles.\n(iii) A triangle can have two right angles.\n(iv) The side opposite the greatest angle is the longest side.\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is the triangle inequality. Statement (ii) is the exterior angle theorem. Statement (iv) follows because greater angles subtend longer sides. Statement (iii) is FALSE because two right angles would already account for 180 degrees, leaving nothing for the third angle, so no triangle could close. Hence every option containing (iii) must be rejected."
+    },
+    {
+      "id": "29",
+      "subject": "D",
+      "questionText": "A shopkeeper allows two successive discounts of 20% and 10% on an article marked at ₹2,000. What is the selling price?",
+      "options": [
+        "₹1,400",
+        "₹1,440",
+        "₹1,500",
+        "₹1,360"
+      ],
+      "correctAnswer": "₹1,440",
+      "explanation": "The first discount gives 2000 x 0.80 = ₹1,600 and the second acts on that figure: 1600 x 0.90 = ₹1,440. '₹1,400' is wrong because it treats the two discounts as a single 30% reduction, which would ignore that the second discount applies to the already reduced price. '₹1,500' is wrong because it corresponds to a single discount of 25%. '₹1,360' is wrong because it comes from applying 20% and then 15%, a rate not stated in the question."
+    },
+    {
+      "id": "30",
+      "subject": "D",
+      "questionText": "If P means '+', Q means '−', R means 'x' and S means '÷', match the expressions in Column I with their values in Column II:\n\nColumn I:\n(a) 18 S 3 P 4\n(b) 12 R 2 Q 5\n(c) 20 Q 4 R 2\n(d) 15 P 5 S 5\n\nColumn II:\n(i) 10\n(ii) 12\n(iii) 19\n(iv) 16\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+      "explanation": "Substituting the symbols and applying BODMAS: (a) 18 ÷ 3 + 4 = 6 + 4 = 10; (b) 12 x 2 - 5 = 24 - 5 = 19; (c) 20 - 4 x 2 = 20 - 8 = 12; (d) 15 + 5 ÷ 5 = 15 + 1 = 16. The option giving (a) the value 19 is wrong because 19 belongs to expression (b). The option giving (c) the value 19 is wrong because it performs the subtraction before the multiplication. The option giving (a) the value 16 is wrong because 16 arises only in expression (d)."
+    },
+    {
+      "id": "31",
+      "subject": "D",
+      "questionText": "At what time between 3 o'clock and 4 o'clock will the two hands of a clock coincide?",
+      "options": [
+        "18 and 2/11 minutes past 3",
+        "15 minutes past 3",
+        "17 and 5/11 minutes past 3",
+        "16 and 4/11 minutes past 3"
+      ],
+      "correctAnswer": "16 and 4/11 minutes past 3",
+      "explanation": "At 3 o'clock the hour hand is 15 minute-spaces ahead of the minute hand, and the minute hand gains 55 minute-spaces every 60 minutes. To close a gap of 15 spaces it needs 15 x 60/55 = 180/11 = 16 and 4/11 minutes. '15 minutes past 3' is wrong because by then the hour hand has itself moved on by about 1.25 spaces. '17 and 5/11 minutes past 3' is wrong because that is the coinciding time in the hour after 4 o'clock pattern, using a gap of 20 spaces. '18 and 2/11 minutes past 3' is wrong because it uses a gap of about 16.7 spaces, which does not match 3 o'clock."
+    },
+    {
+      "id": "32",
+      "subject": "D",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The diagonals of a rectangle intersect each other at right angles.\nReason (R): The diagonals of a rectangle are equal in length and bisect each other.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is FALSE because the diagonals of a rectangle are perpendicular only in the special case of a square; in a general rectangle they cross at an angle determined by the ratio of the sides. (R) is TRUE because equal diagonals that bisect each other are exactly the defining property of a rectangle. The first two options are wrong because they require (A) to be correct, and the third is wrong because it rejects a correct statement of the rectangle's diagonal properties."
+    },
+    {
+      "id": "33",
+      "subject": "D",
+      "questionText": "Find the missing term in the series: 7, 26, 63, 124, ?",
+      "options": [
+        "215",
+        "216",
+        "205",
+        "225"
+      ],
+      "correctAnswer": "215",
+      "explanation": "Each term is one less than a perfect cube: 2³ - 1 = 7, 3³ - 1 = 26, 4³ - 1 = 63, 5³ - 1 = 124, so the next is 6³ - 1 = 216 - 1 = 215. '216' is wrong because it is the cube itself and forgets the subtraction of 1 that holds at every earlier step. '205' is wrong because it fits no consistent rule with the earlier terms. '225' is wrong because it is 15 squared and would require a shift from cubes to squares, which the pattern does not support."
+    },
+    {
+      "id": "34",
+      "subject": "D",
+      "questionText": "Consider the following statements about profit, loss and discount:\n\n(i) If the cost price is ₹400 and the selling price ₹500, the profit is 25%.\n(ii) A discount is always calculated on the marked price.\n(iii) If an article is sold at a loss of 10%, the selling price is 90% of the cost price.\n(iv) Profit percentage is always calculated on the selling price.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct because the profit of ₹100 on a cost of ₹400 is 25%. Statement (ii) is correct because discount is by definition a reduction from the marked or list price. Statement (iii) is correct because a 10% loss leaves 90% of the cost price. Statement (iv) is FALSE because profit and loss percentages are conventionally computed on the COST price unless the question says otherwise; every option containing (iv) is therefore wrong."
+    },
+    {
+      "id": "35",
+      "subject": "D",
+      "questionText": "How many numbers between 1 and 100 are divisible by both 3 and 4?",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "6"
+      ],
+      "correctAnswer": "8",
+      "explanation": "A number divisible by both 3 and 4 must be divisible by their LCM, 12. The multiples of 12 below 100 are 12, 24, 36, 48, 60, 72, 84 and 96, which is 8 numbers. '7' is wrong because it omits one multiple, usually 96, the largest below 100. '9' is wrong because it wrongly includes 108, which lies beyond 100. '6' is wrong because it corresponds to counting multiples only up to 72, stopping two terms short."
+    },
+    {
+      "id": "36",
+      "subject": "D",
+      "questionText": "If two numbers are in the ratio 5 : 7 and their sum is 96, then the smaller number is __________.",
+      "options": [
+        "36",
+        "42",
+        "56",
+        "40"
+      ],
+      "correctAnswer": "40",
+      "explanation": "The total number of parts is 5 + 7 = 12, so one part is 96/12 = 8 and the smaller number is 5 x 8 = 40, the larger being 56. '42' is wrong because it corresponds to a part value of 8.4, which would make the sum 100.8. '56' is wrong because 56 is the LARGER of the two numbers. '36' is wrong because it corresponds to a part value of 7.2, giving a sum of 86.4 rather than 96."
+    },
+    {
+      "id": "37",
+      "subject": "D",
+      "questionText": "In a mixture of 60 litres, milk and water are in the ratio 2 : 1. How much water must be added so that the ratio becomes 1 : 1?",
+      "options": [
+        "20 litres",
+        "10 litres",
+        "30 litres",
+        "15 litres"
+      ],
+      "correctAnswer": "20 litres",
+      "explanation": "In 60 litres with a 2 : 1 ratio there are 40 litres of milk and 20 litres of water. For a 1 : 1 ratio the water must equal the milk, that is 40 litres, so 20 litres must be added. '10 litres' is wrong because it would give 40 : 30, a ratio of 4 : 3. '30 litres' is wrong because it would give 40 : 50, leaving more water than milk. '15 litres' is wrong because it would give 40 : 35, a ratio of 8 : 7 rather than 1 : 1."
+    },
+    {
+      "id": "38",
+      "subject": "D",
+      "questionText": "Which of the following are irrational numbers?\n\n(i) The square root of 2\n(ii) π\n(iii) The square root of 16\n(iv) The square root of 3\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The square roots of 2 and 3 cannot be expressed as ratios of integers and have non-terminating, non-recurring decimals, and π is likewise irrational. The square root of 16 is exactly 4, a whole number and therefore RATIONAL, since the square root of a perfect square is always rational. Hence every option containing (iii) must be rejected."
+    },
+    {
+      "id": "39",
+      "subject": "D",
+      "questionText": "Six persons A, B, C, D, E and F are sitting in a row facing north. C is at the extreme right end, B is at the extreme left end, A is second to the left of C, D is immediately to the right of B, and E sits between A and C. Who is sitting third to the right of B?",
+      "options": [
+        "E",
+        "F",
+        "A",
+        "D"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Numbering the seats 1 to 6 from the left: B is at 1 and C at 6; A second to the left of C is at 4; D immediately right of B is at 2; E between A and C is at 5; so F takes seat 3. The order is B, D, F, A, E, C. Third to the right of B (seat 1) is seat 4, which is A. 'F' is wrong because F is only second to the right of B. 'E' is wrong because E is fourth to the right of B. 'D' is wrong because D is immediately, that is first, to the right of B."
+    },
+    {
+      "id": "40",
+      "subject": "D",
+      "questionText": "Consider the following statements about HCF and LCM:\n\n(i) The LCM of 12 and 18 is 36.\n(ii) The HCF of 12 and 18 is 6.\n(iii) The LCM of two co-prime numbers equals their product.\n(iv) The HCF of two numbers is always greater than each of the numbers.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct because 12 = 2² x 3 and 18 = 2 x 3², so the LCM is 2² x 3² = 36. Statement (ii) is correct because the common factors give 2 x 3 = 6. Statement (iii) is correct because co-prime numbers share no factor, so nothing cancels. Statement (iv) is FALSE because the HCF is a FACTOR of both numbers and can never exceed either of them; it is at most equal to the smaller. Every option containing (iv) is therefore wrong."
+    }
+  ]
+}

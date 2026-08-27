@@ -1,7 +1,7 @@
 {
   "subject": "E",
   "subject_name": "Basic Concepts of Computers",
-  "count": 1622,
+  "count": 1702,
   "questions": [
     {
       "test": 5,
@@ -8112,6 +8112,406 @@
       "test": 199,
       "stem": "match the following abbreviations with their full forms: column i: (a) ram",
       "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 202,
+      "stem": "which of the following is a pointing device that works through a",
+      "key": "Touchpad"
+    },
+    {
+      "test": 202,
+      "stem": "match the ms word keyboard shortcuts in column i with their effects",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 202,
+      "stem": "consider the following statements about operating systems: (i) an operating system acts",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 202,
+      "stem": "in ms excel, which feature displays only the rows meeting a condition",
+      "key": "Filter"
+    },
+    {
+      "test": 202,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 202,
+      "stem": "which of the following secondary storage media uses a laser beam to",
+      "key": "DVD"
+    },
+    {
+      "test": 202,
+      "stem": "which of the following are input devices? (i) optical mark reader (ii)",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 202,
+      "stem": "in an e-mail message, the addresses typed into the 'bcc' field are:",
+      "key": "Hidden from every other recipient of the mail"
+    },
+    {
+      "test": 202,
+      "stem": "match the categories of software in column i with their descriptions in",
+      "key": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 202,
+      "stem": "a named collection of related records held together in secondary storage is",
+      "key": "file"
+    },
+    {
+      "test": 202,
+      "stem": "while using a search engine, enclosing a group of words in double",
+      "key": "Return pages containing that exact phrase"
+    },
+    {
+      "test": 202,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 202,
+      "stem": "consider the following statements about ms word: (i) mail merge produces a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 202,
+      "stem": "in the web address https://www.jkpolice.gov.in/notice.pdf, the part 'gov' indicates the:",
+      "key": "Type of organisation owning the site"
+    },
+    {
+      "test": 202,
+      "stem": "in computer terminology, one nibble is equal to:",
+      "key": "4 bits"
+    },
+    {
+      "test": 203,
+      "stem": "which generation of computers is characterised by very large scale integration (vlsi)",
+      "key": "Fourth generation"
+    },
+    {
+      "test": 203,
+      "stem": "consider the following statements about input and output devices: (i) a magnetic",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 203,
+      "stem": "the bus that carries the location of the memory cell the cpu",
+      "key": "Address bus"
+    },
+    {
+      "test": 203,
+      "stem": "match the file extensions in column i with the type of file",
+      "key": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 203,
+      "stem": "on a magnetic disk, the smallest unit that can be individually addressed",
+      "key": "Sector"
+    },
+    {
+      "test": 203,
+      "stem": "which of the following are examples of system software? (i) device driver",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 203,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 203,
+      "stem": "in ms excel, the formula =sum(a1:a5)/count(a1:a5) produces the same result as which",
+      "key": "=AVERAGE(A1:A5)"
+    },
+    {
+      "test": 203,
+      "stem": "which kind of malicious program copies itself across a network without needing",
+      "key": "Worm"
+    },
+    {
+      "test": 203,
+      "stem": "consider the following statements about e-mail protocols: (i) smtp is used to",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 203,
+      "stem": "in ms word, which view is designed for reorganising a long report",
+      "key": "Outline view"
+    },
+    {
+      "test": 203,
+      "stem": "the reserved area of the hard disk that an operating system uses",
+      "key": "virtual"
+    },
+    {
+      "test": 203,
+      "stem": "which system program translates a program written in assembly language into machine",
+      "key": "Assembler"
+    },
+    {
+      "test": 203,
+      "stem": "match the security threats in column i with their descriptions in column",
+      "key": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+    },
+    {
+      "test": 203,
+      "stem": "in ms excel, what value does the formula =len(\"constable\") return?",
+      "key": "9"
+    },
+    {
+      "test": 203,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 203,
+      "stem": "which keyboard shortcut inserts the current date into the active cell in",
+      "key": "Ctrl + ;"
+    },
+    {
+      "test": 203,
+      "stem": "which of the following are optical storage media? (i) blu-ray disc (ii)",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 203,
+      "stem": "in networking, the device that forwards data packets between different networks by",
+      "key": "Router"
+    },
+    {
+      "test": 203,
+      "stem": "consider the following statements about operating system concepts: (i) multiprogramming allows more",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 203,
+      "stem": "the binary equivalent of the decimal number 45 is:",
+      "key": "101101"
+    },
+    {
+      "test": 203,
+      "stem": "match the devices and utilities in column i with their functions in",
+      "key": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    },
+    {
+      "test": 203,
+      "stem": "in ms word, which ribbon tab contains the command used to insert",
+      "key": "References"
+    },
+    {
+      "test": 203,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct and (R) is the correct explanation of (A)"
+    },
+    {
+      "test": 203,
+      "stem": "the unauthorised practice of secretly capturing and reading data while it travels",
+      "key": "Packet sniffing"
+    },
+    {
+      "test": 203,
+      "stem": "consider the following statements about ms excel: (i) a relative reference changes",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 203,
+      "stem": "one petabyte is equal to:",
+      "key": "1024 terabytes"
+    },
+    {
+      "test": 203,
+      "stem": "which of the following are functions performed by an operating system? (i)",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 203,
+      "stem": "which one of the following is not a web browser?",
+      "key": "Bing"
+    },
+    {
+      "test": 203,
+      "stem": "match the dominant technology in column i with the computer generation in",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 203,
+      "stem": "in the e-mail address officer@jkpolice.org, the portion written after the '@' symbol",
+      "key": "Domain of the mail server"
+    },
+    {
+      "test": 203,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 203,
+      "stem": "in windows, which key combination deletes a selected file permanently without moving",
+      "key": "Shift + Delete"
+    },
+    {
+      "test": 203,
+      "stem": "consider the following statements about search engines: (i) a web crawler visits",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 203,
+      "stem": "the mail merge facility of ms word essentially combines which two components?",
+      "key": "A main document and a data source"
+    },
+    {
+      "test": 203,
+      "stem": "software that may be used free of charge for a limited evaluation",
+      "key": "shareware"
+    },
+    {
+      "test": 203,
+      "stem": "which printer produces high-quality output at speed by using a laser beam",
+      "key": "Laser printer"
+    },
+    {
+      "test": 203,
+      "stem": "which of the following are impact printers? (i) dot matrix printer (ii)",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 203,
+      "stem": "how many distinct symbols are used in the hexadecimal number system?",
+      "key": "16"
+    },
+    {
+      "test": 203,
+      "stem": "match the internet abbreviations in column i with their meanings in column",
+      "key": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+    },
+    {
+      "test": 203,
+      "stem": "which file extension indicates a compressed archive file?",
+      "key": ".zip"
+    },
+    {
+      "test": 203,
+      "stem": "consider the following statements about malicious software: (i) a boot sector virus",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 203,
+      "stem": "in ms excel, which error value is displayed when a formula attempts",
+      "key": "#DIV/0!"
+    },
+    {
+      "test": 203,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is not correct but (R) is correct"
+    },
+    {
+      "test": 203,
+      "stem": "in which network topology is every node connected to one central device,",
+      "key": "Star topology"
+    },
+    {
+      "test": 203,
+      "stem": "which of the following are safe computing practices? (i) keeping the operating",
+      "key": "(i), (iii) and (iv)"
+    },
+    {
+      "test": 203,
+      "stem": "what is the purpose of the 'track changes' feature in ms word?",
+      "key": "To record the insertions and deletions made by reviewers"
+    },
+    {
+      "test": 203,
+      "stem": "consider the following statements about computer hardware: (i) the motherboard carries the",
+      "key": "(i), (ii) and (iii)"
+    },
+    {
+      "test": 203,
+      "stem": "which of the following is an open-source operating system?",
+      "key": "Ubuntu Linux"
+    },
+    {
+      "test": 203,
+      "stem": "consider the following statements about internet usage: (i) uploading means transferring a",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 205,
+      "stem": "in computing, the term 'throughput' refers to:",
+      "key": "The amount of work completed in a given period of time"
+    },
+    {
+      "test": 205,
+      "stem": "match the ms excel functions in column i with what they do",
+      "key": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+    },
+    {
+      "test": 205,
+      "stem": "consider the following statements about secondary storage: (i) a solid state drive",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 205,
+      "stem": "in windows, what is the purpose of the recycle bin?",
+      "key": "It holds deleted files temporarily so that they can be restored"
+    },
+    {
+      "test": 205,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)"
+    },
+    {
+      "test": 205,
+      "stem": "which port is most commonly used today to connect a display so",
+      "key": "HDMI"
+    },
+    {
+      "test": 205,
+      "stem": "which of the following are examples of application software? (i) photo-editing program",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 205,
+      "stem": "two-factor authentication strengthens security because it requires:",
+      "key": "Something the user knows together with something the user has"
+    },
+    {
+      "test": 205,
+      "stem": "match the ms word shortcuts in column i with their functions in",
+      "key": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+    },
+    {
+      "test": 205,
+      "stem": "the set of rules that governs how data is exchanged between devices",
+      "key": "protocol"
+    },
+    {
+      "test": 205,
+      "stem": "which of the following best describes cloud storage?",
+      "key": "Storing data on remote servers reached over the internet"
+    },
+    {
+      "test": 205,
+      "stem": "given below are two statements, one labeled as assertion (a) and the",
+      "key": "(A) is correct but (R) is not correct"
+    },
+    {
+      "test": 205,
+      "stem": "consider the following statements about ms office applications: (i) in ms excel,",
+      "key": "(i), (ii) and (iv)"
+    },
+    {
+      "test": 205,
+      "stem": "in e-mail usage, adding a separate file such as a photograph or",
+      "key": "Attaching"
+    },
+    {
+      "test": 205,
+      "stem": "in computing, the word 'bit' is a contraction of:",
+      "key": "Binary digit"
     }
   ]
 }

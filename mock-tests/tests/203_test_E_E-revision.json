@@ -1,0 +1,657 @@
+{
+  "subject": "E",
+  "topic": "Sectional revision — Basic Concepts of Computers",
+  "total_questions": 50,
+  "questions": [
+    {
+      "id": "1",
+      "subject": "E",
+      "questionText": "Which generation of computers is characterised by Very Large Scale Integration (VLSI) and the arrival of the microprocessor?",
+      "options": [
+        "Third generation",
+        "Fourth generation",
+        "Second generation",
+        "Fifth generation"
+      ],
+      "correctAnswer": "Fourth generation",
+      "explanation": "The fourth generation (roughly 1971 onwards) packed thousands of circuits onto a single chip through VLSI, producing the microprocessor and hence the personal computer. 'Third generation' is wrong because it was based on Small and Medium Scale Integrated circuits, not VLSI. 'Second generation' is wrong because it used discrete transistors with magnetic core memory. 'Fifth generation' is wrong because it is associated with ULSI, parallel processing and artificial-intelligence-oriented machines that came after the microprocessor was already established."
+    },
+    {
+      "id": "2",
+      "subject": "E",
+      "questionText": "Consider the following statements about input and output devices:\n\n(i) A Magnetic Ink Character Recognition reader is used by banks to process cheques.\n(ii) A touch screen acts both as an input and as an output device.\n(iii) A Digital Light Processing projector is classified as an input device.\n(iv) A joystick is a pointing device.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — MICR readers scan the magnetic ink code line printed at the foot of cheques. Statement (ii) is correct — a touch screen displays output and simultaneously accepts touch input, so it is a dual-purpose device. Statement (iv) is correct — a joystick moves an on-screen pointer or object and is therefore a pointing device. Statement (iii) is FALSE because a projector only reproduces images sent by the computer and is purely an OUTPUT device, so every option containing (iii) is wrong."
+    },
+    {
+      "id": "3",
+      "subject": "E",
+      "questionText": "The bus that carries the location of the memory cell the CPU wishes to read from or write to is the:",
+      "options": [
+        "Expansion bus",
+        "Data bus",
+        "Control bus",
+        "Address bus"
+      ],
+      "correctAnswer": "Address bus",
+      "explanation": "The address bus is unidirectional and carries the binary address of the memory or I/O location being accessed, so its width determines how much memory can be addressed. 'Data bus' is wrong because it carries the actual contents being transferred and is bidirectional. 'Control bus' is wrong because it carries timing and command signals such as read, write and interrupt acknowledgement. 'Expansion bus' is wrong because it is the general channel connecting add-on cards to the motherboard rather than the specific path for memory addresses."
+    },
+    {
+      "id": "4",
+      "subject": "E",
+      "questionText": "Match the file extensions in Column I with the type of file in Column II:\n\nColumn I:\n(a) .xlsx\n(b) .pptx\n(c) .accdb\n(d) .docx\n\nColumn II:\n(i) Word-processing document\n(ii) Presentation file\n(iii) Database file\n(iv) Spreadsheet workbook\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "The Office 2007-onwards extensions are .xlsx for Excel workbooks, .pptx for PowerPoint presentations, .accdb for Access databases and .docx for Word documents. The option pairing .xlsx with a word-processing document and .docx with a workbook is wrong because it interchanges the two most common Office formats. The option pairing .pptx with a database is wrong because .accdb is the Access format. The option pairing .xlsx with a database and .accdb with a workbook is wrong because .accdb belongs to Access alone."
+    },
+    {
+      "id": "5",
+      "subject": "E",
+      "questionText": "On a magnetic disk, the smallest unit that can be individually addressed for reading or writing is the:",
+      "options": [
+        "Track",
+        "Sector",
+        "Cylinder",
+        "Platter"
+      ],
+      "correctAnswer": "Sector",
+      "explanation": "A track is divided into sectors, and a sector (traditionally 512 bytes) is the smallest addressable storage unit on the disk surface. 'Track' is wrong because a track is a whole concentric circle containing many sectors. 'Cylinder' is wrong because a cylinder is the set of tracks at the same radius across all platters, a still larger grouping. 'Platter' is wrong because a platter is an entire magnetic disc within the drive and holds thousands of tracks on each of its two surfaces."
+    },
+    {
+      "id": "6",
+      "subject": "E",
+      "questionText": "Which of the following are examples of system software?\n\n(i) Device driver\n(ii) Linker\n(iii) Spreadsheet package\n(iv) Operating system\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Device drivers, linkers and operating systems all exist to manage or support the hardware and the running of other programs, which is the definition of system software. A spreadsheet package is APPLICATION software because it is written to perform a task for the end user rather than to manage the machine. Hence every option containing (iii) must be rejected, and the option omitting the operating system leaves out the most fundamental piece of system software of all."
+    },
+    {
+      "id": "7",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A program run through an interpreter generally executes more slowly than the same program compiled beforehand.\nReason (R): An interpreter translates and executes the source code statement by statement on every run, whereas a compiler translates the whole program once into an object file.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct because interpreted execution repeats the translation work on every run. (R) is correct because that statement-by-statement translation is exactly how an interpreter operates, while a compiler produces reusable machine code once. (R) therefore explains (A) directly. The second option is wrong because the causal link between repeated translation and slower speed is genuine. The third option is wrong because the description of interpreters and compilers is accurate. The fourth option is wrong because the slowness of interpretation is well established."
+    },
+    {
+      "id": "8",
+      "subject": "E",
+      "questionText": "In MS Excel, the formula =SUM(A1:A5)/COUNT(A1:A5) produces the same result as which single function?",
+      "options": [
+        "=SUMPRODUCT(A1:A5)",
+        "=MEDIAN(A1:A5)",
+        "=MODE(A1:A5)",
+        "=AVERAGE(A1:A5)"
+      ],
+      "correctAnswer": "=AVERAGE(A1:A5)",
+      "explanation": "Dividing the total of the numeric entries by how many numeric entries there are is precisely the arithmetic mean, which AVERAGE computes. '=MEDIAN(A1:A5)' is wrong because the median is the middle value after sorting and can differ sharply from the mean. '=MODE(A1:A5)' is wrong because the mode is the most frequently occurring value and may not exist at all. '=SUMPRODUCT(A1:A5)' is wrong because with a single array it merely returns the sum, performing no division by the count."
+    },
+    {
+      "id": "9",
+      "subject": "E",
+      "questionText": "Which kind of malicious program copies itself across a network without needing to attach to a host file?",
+      "options": [
+        "Worm",
+        "Virus",
+        "Trojan horse",
+        "Spyware"
+      ],
+      "correctAnswer": "Worm",
+      "explanation": "A worm is a standalone program that self-replicates and spreads through network connections, often consuming bandwidth and system resources. 'Virus' is wrong because a virus must attach itself to a host file or boot record and needs that host to be executed before it can spread. 'Trojan horse' is wrong because a Trojan does not replicate at all; it masquerades as a useful program to gain entry. 'Spyware' is wrong because spyware secretly gathers information about the user and transmits it, without the self-propagating behaviour that defines a worm."
+    },
+    {
+      "id": "10",
+      "subject": "E",
+      "questionText": "Consider the following statements about e-mail protocols:\n\n(i) SMTP is used to send outgoing messages from a client to a mail server.\n(ii) POP3 normally downloads messages to the client and may delete them from the server.\n(iii) IMAP keeps messages on the server and synchronises them across several devices.\n(iv) HTTP is the standard protocol for transferring mail between two mail servers.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — SMTP is the sending protocol. Statement (ii) is correct — POP3 pulls mail down to one device and by default removes the server copy. Statement (iii) is correct — IMAP leaves mail on the server so several devices see the same mailbox state. Statement (iv) is FALSE because server-to-server mail relay also uses SMTP; HTTP or HTTPS merely carries webmail pages to a browser. Every option containing (iv) is therefore wrong."
+    },
+    {
+      "id": "11",
+      "subject": "E",
+      "questionText": "In MS Word, which view is designed for reorganising a long report by promoting and demoting its headings?",
+      "options": [
+        "Web Layout view",
+        "Draft view",
+        "Outline view",
+        "Read Mode"
+      ],
+      "correctAnswer": "Outline view",
+      "explanation": "Outline view displays the document as a collapsible hierarchy of headings with promote, demote and move controls, making structural reordering easy. 'Draft view' is wrong because it shows continuous text for fast typing and hides page elements but offers no heading hierarchy tools. 'Web Layout view' is wrong because it previews the document as it would appear as a web page. 'Read Mode' is wrong because it is a distraction-free reading display in which editing and restructuring commands are largely unavailable."
+    },
+    {
+      "id": "12",
+      "subject": "E",
+      "questionText": "The reserved area of the hard disk that an operating system uses as an extension of the main memory when RAM runs short is called __________ memory.",
+      "options": [
+        "buffer",
+        "cache",
+        "flash",
+        "virtual"
+      ],
+      "correctAnswer": "virtual",
+      "explanation": "Virtual memory uses a paging file or swap area on disk so that programs larger than the installed RAM can still run, at the cost of slower access. 'cache' is wrong because cache is very fast SRAM placed between the CPU and RAM, not disk space. 'flash' is wrong because flash is a non-volatile chip technology used in pen drives and SSDs, described by its physical nature rather than by this role. 'buffer' is wrong because a buffer is a small temporary holding area that smooths the speed mismatch between a device and the processor."
+    },
+    {
+      "id": "13",
+      "subject": "E",
+      "questionText": "Which system program translates a program written in assembly language into machine code?",
+      "options": [
+        "Assembler",
+        "Compiler",
+        "Interpreter",
+        "Loader"
+      ],
+      "correctAnswer": "Assembler",
+      "explanation": "An assembler converts the mnemonic instructions of assembly language, a low-level language, into the binary machine instructions of the processor. 'Compiler' is wrong because a compiler translates HIGH-level languages such as C into machine or object code. 'Interpreter' is wrong because an interpreter also handles high-level code and does so statement by statement at run time. 'Loader' is wrong because a loader does no translation at all; it merely places an already translated program into memory and prepares it for execution."
+    },
+    {
+      "id": "14",
+      "subject": "E",
+      "questionText": "Match the security threats in Column I with their descriptions in Column II:\n\nColumn I:\n(a) Phishing\n(b) Ransomware\n(c) Keylogger\n(d) Adware\n\nColumn II:\n(i) Records every keystroke in order to capture passwords\n(ii) Encrypts the victim's files and demands payment for the key\n(iii) Displays unwanted advertisements on the infected system\n(iv) Fraudulent messages imitating a trusted organisation to steal credentials\n\nChoose the correct match:",
+      "options": [
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+      "explanation": "Phishing deceives users with messages that appear to come from a bank or agency; ransomware locks data by encryption and demands a ransom; a keylogger silently records keystrokes; adware floods the machine with advertisements. The option pairing phishing with keystroke recording is wrong because phishing relies on deception rather than on installed monitoring. The option pairing adware with encryption for ransom is wrong because adware seeks advertising revenue, not extortion. The option pairing phishing with encryption reverses two entirely different attack methods."
+    },
+    {
+      "id": "15",
+      "subject": "E",
+      "questionText": "In MS Excel, what value does the formula =LEN(\"Constable\") return?",
+      "options": [
+        "8",
+        "10",
+        "9",
+        "1"
+      ],
+      "correctAnswer": "9",
+      "explanation": "LEN counts the characters in a text string, and 'Constable' has nine letters, so the result is 9. '10' is wrong because it counts the enclosing quotation marks, which are only delimiters and are not part of the string. '8' is wrong because it omits one letter, a common miscount of the double consonant sequence. '1' is wrong because LEN does not count arguments or words; a function that returned 1 here would be counting the single item supplied, which is not what LEN does."
+    },
+    {
+      "id": "16",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): Formatting a disk erases the data already stored on it.\nReason (R): Formatting increases the physical storage capacity of the disk.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is correct but (R) is not correct",
+      "explanation": "(A) is correct because formatting rebuilds the file system and makes the earlier contents inaccessible, effectively erasing them. (R) is FALSE because the physical capacity of a disk is fixed by its hardware; formatting can only organise that space, and file-system overhead actually leaves slightly less usable space. The first option is wrong because a false reason cannot explain a true assertion. The second option is wrong for the same reason. The fourth option is wrong because the erasing effect of formatting is genuine."
+    },
+    {
+      "id": "17",
+      "subject": "E",
+      "questionText": "Which keyboard shortcut inserts the current date into the active cell in MS Excel?",
+      "options": [
+        "Ctrl + T",
+        "Ctrl + Shift + ;",
+        "Ctrl + D",
+        "Ctrl + ;"
+      ],
+      "correctAnswer": "Ctrl + ;",
+      "explanation": "Ctrl + semicolon enters today's date as a static value in the active cell. 'Ctrl + Shift + ;' is wrong because that combination inserts the current TIME, not the date. 'Ctrl + D' is wrong because it fills the active cell with the contents of the cell directly above it. 'Ctrl + T' is wrong because it converts the selected range into an Excel Table with filter headers, which has nothing to do with entering a date."
+    },
+    {
+      "id": "18",
+      "subject": "E",
+      "questionText": "Which of the following are optical storage media?\n\n(i) Blu-ray disc\n(ii) CD-ROM\n(iii) Pen drive\n(iv) DVD-RW\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Blu-ray discs, CD-ROMs and DVD-RWs are all read and written by a laser beam focused on a reflective disc surface, which is the defining feature of optical storage. A pen drive is a SOLID-STATE device using NAND flash memory chips and a USB controller, with no optical component at all. Hence every option containing (iii) must be rejected, and the option omitting the DVD-RW leaves out a genuine rewritable optical medium."
+    },
+    {
+      "id": "19",
+      "subject": "E",
+      "questionText": "In networking, the device that forwards data packets between different networks by examining their IP addresses is a:",
+      "options": [
+        "Hub",
+        "Router",
+        "Repeater",
+        "Bridge"
+      ],
+      "correctAnswer": "Router",
+      "explanation": "A router works at the network layer, reads the destination IP address of each packet and chooses the best path between networks. 'Hub' is wrong because a hub simply broadcasts incoming signals to every connected port without examining any address. 'Repeater' is wrong because a repeater only regenerates a weakened signal to extend cable distance. 'Bridge' is wrong because a bridge connects two segments of the SAME network and forwards frames using MAC addresses, not IP addresses."
+    },
+    {
+      "id": "20",
+      "subject": "E",
+      "questionText": "Consider the following statements about operating system concepts:\n\n(i) Multiprogramming allows more than one program to reside in main memory at the same time.\n(ii) Time sharing allots each user a small slice of processor time in rotation.\n(iii) A deadlock arises when two processes each hold a resource the other is waiting for.\n(iv) A batch operating system allows the user to interact directly with a job while it runs.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — multiprogramming keeps several jobs in memory so the CPU is never idle. Statement (ii) is correct — time sharing rotates short CPU bursts among users to create the illusion of simultaneous service. Statement (iii) is correct — that circular wait is the classic deadlock condition. Statement (iv) is FALSE because a batch system groups jobs and runs them without user interaction; interactive control is the hallmark of time-sharing systems, so every option containing (iv) fails."
+    },
+    {
+      "id": "21",
+      "subject": "E",
+      "questionText": "The binary equivalent of the decimal number 45 is:",
+      "options": [
+        "111001",
+        "110101",
+        "101011",
+        "101101"
+      ],
+      "correctAnswer": "101101",
+      "explanation": "Dividing 45 repeatedly by 2 gives remainders 1, 0, 1, 1, 0, 1 read upwards, i.e. 101101; checking, 32 + 8 + 4 + 1 = 45. '110101' is wrong because it evaluates to 32 + 16 + 4 + 1 = 53. '101011' is wrong because it evaluates to 32 + 8 + 2 + 1 = 43. '111001' is wrong because it evaluates to 32 + 16 + 8 + 1 = 57; only 101101 has place values summing to exactly 45."
+    },
+    {
+      "id": "22",
+      "subject": "E",
+      "questionText": "Match the devices and utilities in Column I with their functions in Column II:\n\nColumn I:\n(a) Scanner\n(b) Plotter\n(c) OCR software\n(d) Speaker\n\nColumn II:\n(i) Converts a scanned image of text into editable characters\n(ii) Produces audio output\n(iii) Draws large line diagrams and maps on paper\n(iv) Captures a printed page and converts it into a digital image\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "explanation": "A scanner digitises a printed page as an image; a plotter draws large-format line drawings; OCR software interprets the image of text and turns it into editable characters; a speaker gives audio output. The option pairing the scanner with OCR conversion is wrong because a scanner alone produces only a picture, not editable text. The option pairing the plotter with OCR is wrong because a plotter is an output device and performs no recognition. The option pairing the scanner with plotting and the plotter with scanning reverses input and output roles."
+    },
+    {
+      "id": "23",
+      "subject": "E",
+      "questionText": "In MS Word, which ribbon tab contains the command used to insert an automatic Table of Contents?",
+      "options": [
+        "Insert",
+        "References",
+        "Home",
+        "Review"
+      ],
+      "correctAnswer": "References",
+      "explanation": "The References tab groups the scholarly apparatus of a document — Table of Contents, footnotes, citations, captions and index — so the Table of Contents command sits there. 'Insert' is wrong because that tab handles objects such as tables, pictures, shapes, headers and page numbers. 'Home' is wrong because it holds the basic font, paragraph and style controls. 'Review' is wrong because it carries proofing, comments, Track Changes and document comparison tools."
+    },
+    {
+      "id": "24",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): A strong password should mix uppercase and lowercase letters, digits and special characters.\nReason (R): Such a mixture sharply increases the number of possible combinations an attacker must try before hitting the right one.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "explanation": "(A) is correct because complexity requirements are standard security advice. (R) is correct because widening the character set multiplies the size of the search space, making brute-force and dictionary attacks far costlier. (R) is therefore the reason behind (A). The second option is wrong because the connection between search space and password strength is exactly the justification for the rule. The third option is wrong because the combinatorial argument is sound. The fourth option is wrong because the advice in (A) is universally recommended."
+    },
+    {
+      "id": "25",
+      "subject": "E",
+      "questionText": "The unauthorised practice of secretly capturing and reading data while it travels across a network is known as:",
+      "options": [
+        "Spamming",
+        "Spoofing",
+        "Packet sniffing",
+        "Caching"
+      ],
+      "correctAnswer": "Packet sniffing",
+      "explanation": "Packet sniffing uses software or hardware to intercept and examine the packets passing over a network, which is why sensitive traffic should be encrypted. 'Spoofing' is wrong because spoofing means faking an identity such as a source IP address or sender name, not eavesdropping. 'Spamming' is wrong because spam is unsolicited bulk messaging. 'Caching' is wrong because caching is a legitimate performance technique in which recently used data is kept close at hand for faster reuse."
+    },
+    {
+      "id": "26",
+      "subject": "E",
+      "questionText": "Consider the following statements about MS Excel:\n\n(i) A relative reference changes automatically when the formula is copied to another cell.\n(ii) The formula =IF(A1>50,\"Pass\",\"Fail\") returns 'Pass' when A1 holds 60.\n(iii) A pie chart is the most suitable chart for showing how a value has changed over twenty years.\n(iv) VLOOKUP searches for the lookup value in the leftmost column of the table array.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — relative references adjust to the new position. Statement (ii) is correct because 60 satisfies the condition A1>50 and the TRUE argument is returned. Statement (iv) is correct — VLOOKUP requires the lookup column to be the first column of the specified range. Statement (iii) is FALSE because a pie chart shows the composition of a whole at one point in time; a trend over many years calls for a line chart. Every option containing (iii) is therefore wrong."
+    },
+    {
+      "id": "27",
+      "subject": "E",
+      "questionText": "One petabyte is equal to:",
+      "options": [
+        "1024 terabytes",
+        "1024 gigabytes",
+        "1024 megabytes",
+        "1000 exabytes"
+      ],
+      "correctAnswer": "1024 terabytes",
+      "explanation": "The binary storage ladder rises in steps of 1024: kilobyte, megabyte, gigabyte, terabyte, petabyte, exabyte. Hence a petabyte is 1024 terabytes. '1024 gigabytes' is wrong because that quantity equals one terabyte, one step lower. '1024 megabytes' is wrong because that equals one gigabyte, two steps lower. '1000 exabytes' is wrong because the exabyte is LARGER than the petabyte, so a petabyte cannot contain a thousand of them; instead 1024 petabytes make one exabyte."
+    },
+    {
+      "id": "28",
+      "subject": "E",
+      "questionText": "Which of the following are functions performed by an operating system?\n\n(i) Process scheduling\n(ii) Memory allocation\n(iii) Device management\n(iv) Designing the business logic of an application program\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Scheduling processes for the CPU, allocating and protecting memory, and controlling peripheral devices through drivers are all core services of an operating system, along with file management and security. Designing the business logic of an application is the work of a programmer or analyst using a programming language; the operating system merely runs the finished program. Consequently every option containing (iv) must be rejected."
+    },
+    {
+      "id": "29",
+      "subject": "E",
+      "questionText": "Which one of the following is NOT a web browser?",
+      "options": [
+        "Safari",
+        "Firefox",
+        "Bing",
+        "Opera"
+      ],
+      "correctAnswer": "Bing",
+      "explanation": "Bing is a SEARCH ENGINE operated by Microsoft; it is a website that indexes the web and must itself be opened inside a browser. 'Firefox' is wrong as an answer because Mozilla Firefox is a full web browser. 'Safari' is wrong because Safari is Apple's browser, standard on macOS and iOS. 'Opera' is wrong because Opera is a long-established browser known for its data-saving and built-in VPN features. Only Bing lacks the rendering engine that defines a browser."
+    },
+    {
+      "id": "30",
+      "subject": "E",
+      "questionText": "Match the dominant technology in Column I with the computer generation in Column II:\n\nColumn I:\n(a) Vacuum tubes\n(b) Transistors\n(c) Integrated circuits\n(d) Microprocessors\n\nColumn II:\n(i) Second generation\n(ii) Fourth generation\n(iii) First generation\n(iv) Third generation\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+      ],
+      "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "explanation": "First-generation machines such as ENIAC used vacuum tubes; the second generation replaced them with transistors; the third generation introduced integrated circuits; the fourth generation brought the microprocessor. The option pairing vacuum tubes with the second generation is wrong because tubes belong to the earliest machines. The option pairing integrated circuits with the fourth generation and microprocessors with the third reverses the correct order. The option starting vacuum tubes at the fourth generation inverts the whole sequence of technological development."
+    },
+    {
+      "id": "31",
+      "subject": "E",
+      "questionText": "In the e-mail address officer@jkpolice.org, the portion written after the '@' symbol identifies the:",
+      "options": [
+        "Domain of the mail server",
+        "Name of the individual mailbox",
+        "Protocol used for delivery",
+        "Password of the account"
+      ],
+      "correctAnswer": "Domain of the mail server",
+      "explanation": "An e-mail address has the form mailbox@domain, so everything after the @ names the domain whose mail server accepts the message. 'Name of the individual mailbox' is wrong because that is the local part before the @, here 'officer'. 'Protocol used for delivery' is wrong because the protocol (SMTP, IMAP or POP3) is configured in the mail client and never appears in the address. 'Password of the account' is wrong because a password is a secret credential and is never embedded in a public address."
+    },
+    {
+      "id": "32",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): The contents of a CD-ROM cannot be altered by the user.\nReason (R): A standard CD-ROM has a storage capacity of about 700 MB.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "explanation": "(A) is correct because a CD-ROM is read-only. (R) is also correct because the usual capacity of a CD is about 700 MB. However (R) does not explain (A): the data cannot be changed because the pits and lands are physically pressed into the disc during manufacture, a permanent mechanical impression unrelated to capacity. The first option is wrong because capacity and writability are independent properties. The third and fourth options are wrong because both statements are individually true."
+    },
+    {
+      "id": "33",
+      "subject": "E",
+      "questionText": "In Windows, which key combination deletes a selected file permanently without moving it to the Recycle Bin?",
+      "options": [
+        "Ctrl + Delete",
+        "Shift + Delete",
+        "Alt + Delete",
+        "Ctrl + Shift + Delete"
+      ],
+      "correctAnswer": "Shift + Delete",
+      "explanation": "Holding Shift while pressing Delete bypasses the Recycle Bin and removes the file directly, after a confirmation prompt. 'Ctrl + Delete' is wrong because in text editing it deletes the next word and in File Explorer it does not force permanent deletion. 'Alt + Delete' is wrong because Alt is a menu-access modifier and this combination has no delete function. 'Ctrl + Shift + Delete' is wrong because in browsers it opens the dialogue for clearing browsing data, not for deleting a selected file."
+    },
+    {
+      "id": "34",
+      "subject": "E",
+      "questionText": "Consider the following statements about search engines:\n\n(i) A web crawler visits pages automatically and gathers data for the search engine's index.\n(ii) The operator site: limits the results to a specified domain.\n(iii) A search engine works by permanently storing a complete copy of every website on its own servers for users to browse.\n(iv) Placing a minus sign immediately before a word excludes pages containing that word.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — crawlers or spiders fetch pages and feed the indexer. Statement (ii) is correct — site:nic.in confines results to that domain. Statement (iv) is correct — the minus operator is the standard exclusion device. Statement (iii) is FALSE because a search engine stores an INDEX of keywords and links, together with limited cached copies, not a permanent complete mirror of the whole web. Every option containing (iii) is therefore wrong."
+    },
+    {
+      "id": "35",
+      "subject": "E",
+      "questionText": "The Mail Merge facility of MS Word essentially combines which two components?",
+      "options": [
+        "A bookmark and a hyperlink",
+        "A header and a footer",
+        "A template and a macro",
+        "A main document and a data source"
+      ],
+      "correctAnswer": "A main document and a data source",
+      "explanation": "Mail Merge takes a main document containing the common text and merge fields, and a data source such as an Excel sheet or Outlook contact list, to generate one personalised copy per record. 'A header and a footer' is wrong because those are page-layout areas repeated on each page. 'A template and a macro' is wrong because a macro automates keystrokes and is unrelated to merging records. 'A bookmark and a hyperlink' is wrong because they are navigation aids within or between documents."
+    },
+    {
+      "id": "36",
+      "subject": "E",
+      "questionText": "Software that may be used free of charge for a limited evaluation period, after which a licence must be purchased, is called __________.",
+      "options": [
+        "shareware",
+        "freeware",
+        "firmware",
+        "middleware"
+      ],
+      "correctAnswer": "shareware",
+      "explanation": "Shareware is distributed on a try-before-you-buy basis, with the trial expiring or features being locked until payment is made. 'freeware' is wrong because freeware remains free indefinitely, though its source code is not released. 'firmware' is wrong because firmware is the control program stored in a ROM or flash chip inside a device, and its distribution model is not the point of the definition. 'middleware' is wrong because middleware is software that connects an application to a database or to another application."
+    },
+    {
+      "id": "37",
+      "subject": "E",
+      "questionText": "Which printer produces high-quality output at speed by using a laser beam and dry toner powder fused to the paper?",
+      "options": [
+        "Dot matrix printer",
+        "Laser printer",
+        "Inkjet printer",
+        "Thermal printer"
+      ],
+      "correctAnswer": "Laser printer",
+      "explanation": "A laser printer writes an electrostatic image on a drum with a laser, attracts toner to that image and fuses it onto the paper with heat, giving fast, sharp, page-at-a-time output. 'Dot matrix printer' is wrong because it strikes an inked ribbon with pins, producing noisy, low-resolution output. 'Inkjet printer' is wrong because it sprays liquid ink droplets and is generally slower for bulk work. 'Thermal printer' is wrong because it uses heat-sensitive paper or ribbon and is used mainly for receipts and labels."
+    },
+    {
+      "id": "38",
+      "subject": "E",
+      "questionText": "Which of the following are impact printers?\n\n(i) Dot matrix printer\n(ii) Daisy wheel printer\n(iii) Line printer\n(iv) Inkjet printer\n\nSelect the correct combination:",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Impact printers form characters by physically striking an inked ribbon against the paper, which is how dot matrix, daisy wheel and line printers all work, and it is why they can print carbon copies. An inkjet printer is NON-impact: it sprays ink droplets without any mechanical contact with the page. Therefore every option containing (iv) must be rejected, and the option omitting the dot matrix printer excludes the best-known impact printer of all."
+    },
+    {
+      "id": "39",
+      "subject": "E",
+      "questionText": "How many distinct symbols are used in the hexadecimal number system?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "16"
+      ],
+      "correctAnswer": "16",
+      "explanation": "Hexadecimal is base 16 and uses the digits 0 to 9 followed by the letters A to F to represent the values ten to fifteen. '8' is wrong because eight symbols (0 to 7) belong to the octal system. '10' is wrong because ten symbols belong to the familiar decimal system. '6' is wrong because it confuses the '16' of the base with the six letter symbols A to F, which are only the part of the set beyond the ten decimal digits."
+    },
+    {
+      "id": "40",
+      "subject": "E",
+      "questionText": "Match the internet abbreviations in Column I with their meanings in Column II:\n\nColumn I:\n(a) URL\n(b) ISP\n(c) HTML\n(d) DNS\n\nColumn II:\n(i) Translates domain names into numeric IP addresses\n(ii) Organisation that provides access to the internet\n(iii) Markup language used to build web pages\n(iv) Complete address of a resource on the web\n\nChoose the correct match:",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+      ],
+      "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+      "explanation": "A URL is the full address of a web resource; an ISP sells internet connectivity; HTML marks up the structure of web pages; DNS resolves names such as nic.in into IP addresses. The option pairing URL with name resolution and DNS with the web address is wrong because it interchanges the address itself with the service that translates it. The option pairing ISP with HTML is wrong because an ISP is an organisation, not a language. The option pairing URL with an access provider misplaces an address as a company."
+    },
+    {
+      "id": "41",
+      "subject": "E",
+      "questionText": "Which file extension indicates a compressed archive file?",
+      "options": [
+        ".exe",
+        ".zip",
+        ".bmp",
+        ".sys"
+      ],
+      "correctAnswer": ".zip",
+      "explanation": "The .zip extension marks an archive in which one or more files have been compressed into a single container to save space and simplify transfer. '.exe' is wrong because it marks an executable program that the operating system can run directly. '.bmp' is wrong because it is an uncompressed bitmap image format, which is in fact the opposite of a compressed file. '.sys' is wrong because it denotes a system or driver file used by the operating system."
+    },
+    {
+      "id": "42",
+      "subject": "E",
+      "questionText": "Consider the following statements about malicious software:\n\n(i) A boot sector virus infects the area of a disk that is read when the machine starts.\n(ii) A macro virus spreads through documents containing automated instruction sequences.\n(iii) A Trojan horse pretends to be a useful program while carrying out harmful actions.\n(iv) An infection can reach another computer only through an internet connection.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — boot sector viruses load before the operating system. Statement (ii) is correct — macro viruses hide in the macro code of documents and spreadsheets. Statement (iii) is correct — that deception is precisely what defines a Trojan. Statement (iv) is FALSE because infections also spread through pen drives, external disks, memory cards and shared local networks; the internet is only one of several routes, so every option containing (iv) fails."
+    },
+    {
+      "id": "43",
+      "subject": "E",
+      "questionText": "In MS Excel, which error value is displayed when a formula attempts to divide a number by zero?",
+      "options": [
+        "#NAME?",
+        "#VALUE!",
+        "#REF!",
+        "#DIV/0!"
+      ],
+      "correctAnswer": "#DIV/0!",
+      "explanation": "Excel returns #DIV/0! when the divisor in a formula evaluates to zero or to an empty cell. '#VALUE!' is wrong because it signals the wrong TYPE of argument, such as text where a number is expected. '#REF!' is wrong because it means the formula points to a cell that no longer exists, typically after a row or column has been deleted. '#NAME?' is wrong because it indicates that Excel cannot recognise a function name or a defined name, often due to a spelling mistake."
+    },
+    {
+      "id": "44",
+      "subject": "E",
+      "questionText": "Given below are two statements, one labeled as Assertion (A) and the other as Reason (R).\n\nAssertion (A): ROM is a volatile memory whose contents are lost when the computer is switched off.\nReason (R): ROM normally holds the start-up instructions required to boot the computer.\n\nChoose the correct option:",
+      "options": [
+        "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+        "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+        "(A) is correct but (R) is not correct",
+        "(A) is not correct but (R) is correct"
+      ],
+      "correctAnswer": "(A) is not correct but (R) is correct",
+      "explanation": "(A) is FALSE because ROM is NON-volatile — it retains its contents permanently without power, and it is RAM that is volatile. (R) is TRUE because the bootstrap loader and BIOS routines are stored in ROM precisely so that they survive power-off and are available at start-up. The first two options are wrong because both require (A) to be correct. The third option is wrong because it rejects (R), which is an accurate statement of what ROM contains."
+    },
+    {
+      "id": "45",
+      "subject": "E",
+      "questionText": "In which network topology is every node connected to one central device, so that the failure of that device brings down the entire network?",
+      "options": [
+        "Star topology",
+        "Ring topology",
+        "Mesh topology",
+        "Bus topology"
+      ],
+      "correctAnswer": "Star topology",
+      "explanation": "In a star, all nodes radiate from a central hub or switch, so the central device is a single point of failure even though an individual cable fault affects only one node. 'Ring topology' is wrong because there each node links to two neighbours and the data travels in a loop, with no central device. 'Mesh topology' is wrong because a mesh gives multiple redundant paths and is the most fault tolerant. 'Bus topology' is wrong because its nodes share a single backbone cable, whose break, not a central device, disrupts the network."
+    },
+    {
+      "id": "46",
+      "subject": "E",
+      "questionText": "Which of the following are safe computing practices?\n\n(i) Keeping the operating system updated with the latest security patches\n(ii) Using one identical password for every online account\n(iii) Taking regular backups of important data on separate media\n(iv) Checking for the padlock symbol and the https prefix before entering banking details\n\nSelect the correct combination:",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
+      ],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Patching closes known vulnerabilities, regular backups on separate media allow recovery after ransomware or hardware failure, and verifying https with the padlock confirms an encrypted, certificate-backed connection before credentials are typed. Reusing one password everywhere is UNSAFE, because a single breach at one site then exposes every other account through credential stuffing. Hence every option containing (ii) must be rejected."
+    },
+    {
+      "id": "47",
+      "subject": "E",
+      "questionText": "What is the purpose of the 'Track Changes' feature in MS Word?",
+      "options": [
+        "To save the document automatically at fixed intervals",
+        "To count the number of words in the document",
+        "To record the insertions and deletions made by reviewers",
+        "To compare the output of two different printers"
+      ],
+      "correctAnswer": "To record the insertions and deletions made by reviewers",
+      "explanation": "Track Changes marks every edit with the reviewer's name and colour so that the author can later accept or reject each change individually. 'To count the number of words' is wrong because that is the Word Count tool on the Review tab. 'To save the document automatically at fixed intervals' is wrong because that is AutoRecover or AutoSave in the Options dialogue. 'To compare the output of two different printers' is wrong because no such feature exists; Compare in Word contrasts two DOCUMENTS, not printers."
+    },
+    {
+      "id": "48",
+      "subject": "E",
+      "questionText": "Consider the following statements about computer hardware:\n\n(i) The motherboard carries the processor socket, memory slots and expansion slots.\n(ii) The SMPS converts alternating current from the mains into the direct current required by the components.\n(iii) The BIOS is held in ROM and carries out the power-on self test.\n(iv) A graphics card is a storage device meant for keeping image files.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
+      ],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — the motherboard is the main circuit board carrying all these sockets and slots. Statement (ii) is correct — the switched mode power supply rectifies mains AC into the low-voltage DC rails the components need. Statement (iii) is correct — the BIOS firmware in ROM runs the POST before handing control to the operating system. Statement (iv) is FALSE because a graphics card is a PROCESSING and output-generating device that renders images for the display; it does not store the user's image files."
+    },
+    {
+      "id": "49",
+      "subject": "E",
+      "questionText": "Which of the following is an open-source operating system?",
+      "options": [
+        "Ubuntu Linux",
+        "Windows 11",
+        "macOS",
+        "MS-DOS"
+      ],
+      "correctAnswer": "Ubuntu Linux",
+      "explanation": "Ubuntu is built on the Linux kernel and is distributed with its source code under free and open-source licences, so anyone may study, modify and redistribute it. 'Windows 11' is wrong because it is proprietary software licensed by Microsoft with closed source. 'macOS' is wrong because although parts of its Darwin foundation are open, the shipped operating system is proprietary to Apple. 'MS-DOS' is wrong because it was a closed commercial product of Microsoft, historic though it now is."
+    },
+    {
+      "id": "50",
+      "subject": "E",
+      "questionText": "Consider the following statements about internet usage:\n\n(i) Uploading means transferring a file from the local computer to a remote server.\n(ii) A cookie is a small text file that a website stores on the user's computer.\n(iii) A dynamic IP address is permanently allotted to a device and never changes.\n(iv) Bandwidth refers to the maximum quantity of data that can be transmitted in a given time.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
+      ],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — uploading sends data outward from the client, downloading brings it in. Statement (ii) is correct — cookies store small pieces of state such as login sessions and preferences. Statement (iv) is correct — bandwidth measures data-carrying capacity per unit time, usually in Mbps. Statement (iii) is FALSE because a dynamic address is leased temporarily by a DHCP server and can change; it is a STATIC address that stays fixed. Every option containing (iii) is therefore wrong."
+    }
+  ]
+}
