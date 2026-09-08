@@ -19,23 +19,23 @@
     {
       "id": "2",
       "subject": "B",
-      "questionText": "Consider the following statements about currencies:\n\n(i) The currency of Japan is the Yen.\n(ii) The currency of the United Kingdom is the Euro.\n(iii) The currency of Russia is the Rouble.\n(iv) The currency of China is the Yuan (Renminbi).\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about currencies:\n\n(i) The currency of Japan is the Yen.\n(ii) The currency of Russia is the Rouble.\n(iii) The currency of China is the Yuan (Renminbi).\n(iv) The currency of the United Kingdom is the Euro.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Statement (i) is correct — Japan's currency is the Yen. Statement (iii) is correct — Russia's currency is the Rouble. Statement (iv) is correct — China's currency is the Yuan (Renminbi). Statement (ii) is wrong — the UK's currency is the Pound Sterling (GBP), not the Euro. The UK never adopted the Euro."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — Japan's currency is the Yen. Statement (ii) is correct — Russia's currency is the Rouble. Statement (iii) is correct — China's currency is the Yuan (Renminbi). Statement (iv) is wrong — the UK's currency is the Pound Sterling (GBP), not the Euro. The UK never adopted the Euro."
     },
     {
       "id": "3",
       "subject": "B",
       "questionText": "The capital of Canada is:",
       "options": [
-        "Ottawa",
         "Toronto",
+        "Ottawa",
         "Vancouver",
         "Montreal"
       ],
@@ -60,22 +60,22 @@
       "subject": "B",
       "questionText": "Match the following countries with their capitals:\n\nColumn I:\n(a) Brazil\n(b) Egypt\n(c) South Korea\n(d) Turkey\n\nColumn II:\n(i) Ankara\n(ii) Cairo\n(iii) Seoul\n(iv) Brasilia\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
-      "explanation": "Brazil — Brasilia (iv). Egypt — Cairo (ii). South Korea — Seoul (iii). Turkey — Ankara (i). The second option wrongly assigns Cairo to South Korea. The third option wrongly assigns Cairo to Brazil. The fourth option wrongly assigns Ankara to South Korea and Seoul to Turkey."
+      "explanation": "Brazil — Brasilia (iv). Egypt — Cairo (ii). South Korea — Seoul (iii). Turkey — Ankara (i). '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' wrongly assigns Cairo to South Korea. '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' wrongly assigns Cairo to Brazil. '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' wrongly assigns Ankara to South Korea and Seoul to Turkey."
     },
     {
       "id": "6",
       "subject": "B",
       "questionText": "The currency of Saudi Arabia is:",
       "options": [
-        "Riyal",
         "Dinar",
         "Dirham",
+        "Riyal",
         "Dollar"
       ],
       "correctAnswer": "Riyal",
@@ -86,10 +86,10 @@
       "subject": "B",
       "questionText": "Which of the following countries have their capitals NOT named after the country itself?\n\n(i) India — New Delhi\n(ii) Mexico — Mexico City\n(iii) Japan — Tokyo\n(iv) Kuwait — Kuwait City\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iii) only",
         "(i), (ii) and (iii)",
         "(ii) and (iv) only",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i) and (iii) only"
       ],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "India's capital is New Delhi (not 'India City') — (i) is correct. Japan's capital is Tokyo (not 'Japan City') — (iii) is correct. Mexico's capital is Mexico City — named after the country (ii), so this does NOT qualify. Kuwait's capital is Kuwait City — named after the country (iv), so this does NOT qualify. Only (i) and (iii) have capitals not named after the country."
@@ -97,15 +97,15 @@
     {
       "id": "8",
       "subject": "B",
-      "questionText": "Consider the following statements about European capitals:\n\n(i) The capital of France is Paris.\n(ii) The capital of Germany is Berlin.\n(iii) The capital of Italy is Milan.\n(iv) The capital of Spain is Madrid.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about European capitals:\n\n(i) The capital of France is Paris.\n(ii) The capital of Italy is Milan.\n(iii) The capital of Germany is Berlin.\n(iv) The capital of Spain is Madrid.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — Paris is the capital of France. Statement (ii) is correct — Berlin is the capital of Germany. Statement (iv) is correct — Madrid is the capital of Spain. Statement (iii) is wrong — the capital of Italy is Rome, not Milan. Milan is the financial and fashion capital but not the political capital."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct — Paris is the capital of France. Statement (iii) is correct — Berlin is the capital of Germany. Statement (iv) is correct — Madrid is the capital of Spain. Statement (ii) is wrong — the capital of Italy is Rome, not Milan. Milan is the financial and fashion capital but not the political capital."
     },
     {
       "id": "9",
@@ -144,15 +144,15 @@
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
-      "explanation": "Thailand — Baht (iv). South Africa — Rand (ii). Israel — Shekel (iii). Sweden — Krona (i). The second option wrongly assigns Shekel to South Africa and Rand to Israel. The third option wrongly assigns Rand to Thailand. The fourth option wrongly assigns Krona to Israel and Shekel to Sweden."
+      "explanation": "Thailand — Baht (iv). South Africa — Rand (ii). Israel — Shekel (iii). Sweden — Krona (i). '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' wrongly assigns Shekel to South Africa and Rand to Israel. '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' wrongly assigns Rand to Thailand. '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' wrongly assigns Krona to Israel and Shekel to Sweden."
     },
     {
       "id": "12",
       "subject": "B",
       "questionText": "What is the capital of Myanmar (Burma)?",
       "options": [
-        "Naypyidaw",
         "Yangon",
+        "Naypyidaw",
         "Mandalay",
         "Bagan"
       ],
@@ -162,24 +162,24 @@
     {
       "id": "13",
       "subject": "B",
-      "questionText": "Consider the following statements about SAARC nations and their currencies:\n\n(i) Pakistan's currency is the Pakistani Rupee.\n(ii) Sri Lanka's currency is the Sri Lankan Rupee.\n(iii) Nepal's currency is the Nepalese Rupee.\n(iv) Afghanistan's currency is the Rupee.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about SAARC nations and their currencies:\n\n(i) Pakistan's currency is the Pakistani Rupee.\n(ii) Sri Lanka's currency is the Sri Lankan Rupee.\n(iii) Afghanistan's currency is the Rupee.\n(iv) Nepal's currency is the Nepalese Rupee.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Statements (i), (ii) and (iii) are correct — Pakistan, Sri Lanka, and Nepal all use their respective Rupees. Statement (iv) is wrong — Afghanistan's currency is the Afghani, not the Rupee."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statements (i), (ii) and (iv) are correct — Pakistan, Sri Lanka, and Nepal all use their respective Rupees. Statement (iii) is wrong — Afghanistan's currency is the Afghani, not the Rupee."
     },
     {
       "id": "14",
       "subject": "B",
       "questionText": "The capital of Kenya is:",
       "options": [
-        "Nairobi",
         "Mombasa",
         "Kampala",
+        "Nairobi",
         "Addis Ababa"
       ],
       "correctAnswer": "Nairobi",
@@ -190,10 +190,10 @@
       "subject": "B",
       "questionText": "Fill in the blank: The currency of the United Arab Emirates is the __________.",
       "options": [
-        "Dirham",
         "Riyal",
         "Dinar",
-        "Pound"
+        "Pound",
+        "Dirham"
       ],
       "correctAnswer": "Dirham",
       "explanation": "The UAE's currency is the Dirham (AED). 'Riyal' is wrong — it is the currency of Saudi Arabia and Qatar. 'Dinar' is wrong — it is used in Kuwait, Jordan, and Iraq. 'Pound' is wrong — it is used in the UK, Egypt, and Lebanon."
@@ -203,10 +203,10 @@
       "subject": "B",
       "questionText": "Which of the following pairs of country and capital are correctly matched?\n\n(i) Vietnam — Hanoi\n(ii) Indonesia — Jakarta\n(iii) Philippines — Manila\n(iv) Malaysia — Singapore\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Vietnam — Hanoi (i) is correct. Indonesia — Jakarta (ii) is correct. Philippines — Manila (iii) is correct. Malaysia — Singapore (iv) is wrong because the capital of Malaysia is Kuala Lumpur. Singapore is a separate independent country."
@@ -248,29 +248,29 @@
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
-      "explanation": "Iran — Rial (iv). Nigeria — Naira (iii). Argentina — Peso (i). Egypt — Pound (ii). The second option wrongly assigns Naira to Iran. The third option wrongly assigns Pound to Nigeria. The fourth option wrongly assigns Pound to Argentina and Peso to Egypt."
+      "explanation": "Iran — Rial (iv). Nigeria — Naira (iii). Argentina — Peso (i). Egypt — Pound (ii). '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' wrongly assigns Naira to Iran. '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' wrongly assigns Pound to Nigeria. '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' wrongly assigns Pound to Argentina and Peso to Egypt."
     },
     {
       "id": "20",
       "subject": "B",
-      "questionText": "Consider the following statements about Asian capitals:\n\n(i) The capital of Pakistan is Islamabad.\n(ii) The capital of Sri Lanka is Colombo.\n(iii) The capital of Nepal is Kathmandu.\n(iv) The capital of Bhutan is Thimphu.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Asian capitals:\n\n(i) The capital of Sri Lanka is Colombo.\n(ii) The capital of Pakistan is Islamabad.\n(iii) The capital of Nepal is Kathmandu.\n(iv) The capital of Bhutan is Thimphu.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Statement (i) is correct — Islamabad is Pakistan's capital. Statement (iii) is correct — Kathmandu is Nepal's capital. Statement (iv) is correct — Thimphu is Bhutan's capital. Statement (ii) is partially incorrect — while Colombo is the commercial capital, the official legislative capital of Sri Lanka is Sri Jayawardenepura Kotte."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct — Islamabad is Pakistan's capital. Statement (iii) is correct — Kathmandu is Nepal's capital. Statement (iv) is correct — Thimphu is Bhutan's capital. Statement (i) is partially incorrect — while Colombo is the commercial capital, the official legislative capital of Sri Lanka is Sri Jayawardenepura Kotte."
     },
     {
       "id": "21",
       "subject": "B",
       "questionText": "The currency of South Korea is:",
       "options": [
-        "Won",
         "Yen",
         "Yuan",
+        "Won",
         "Ringgit"
       ],
       "correctAnswer": "Won",
@@ -281,9 +281,9 @@
       "subject": "B",
       "questionText": "The following data shows the currencies of neighbouring countries of India:\n\nPakistan → Pakistani Rupee, PKR\nNepal → Nepalese Rupee, NPR\nBangladesh → Taka, BDT\nMyanmar → Kyat, MMK\nSri Lanka → Sri Lankan Rupee, LKR\n\nHow many of India's neighbours listed above use a form of 'Rupee' as their currency?",
       "options": [
-        "3",
         "2",
         "4",
+        "3",
         "5"
       ],
       "correctAnswer": "3",
@@ -294,10 +294,10 @@
       "subject": "B",
       "questionText": "What is the capital of Switzerland?",
       "options": [
-        "Bern",
         "Zurich",
         "Geneva",
-        "Basel"
+        "Basel",
+        "Bern"
       ],
       "correctAnswer": "Bern",
       "explanation": "Bern is the capital (federal city) of Switzerland. 'Zurich' is wrong — it is the largest city and financial centre but not the capital. 'Geneva' is wrong — it is an international hub (hosting UN offices) but not the capital. 'Basel' is wrong — it is a city on the borders with France and Germany, not the capital."
@@ -307,10 +307,10 @@
       "subject": "B",
       "questionText": "Consider the following statements about African nations:\n\n(i) The capital of South Africa includes Pretoria (executive), Cape Town (legislative) and Bloemfontein (judicial).\n(ii) The currency of South Africa is the Rand.\n(iii) The capital of Nigeria is Abuja.\n(iv) The currency of Kenya is the Shilling.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
-        "(ii), (iii) and (iv) only"
+        "(ii), (iii) and (iv) only",
+        "All of the above"
       ],
       "correctAnswer": "All of the above",
       "explanation": "All four statements are correct. (i) South Africa has three capitals for different branches of government. (ii) The Rand is South Africa's currency. (iii) Abuja has been Nigeria's capital since 1991. (iv) Kenya uses the Kenyan Shilling. The other options are wrong because they each exclude at least one correct statement."
@@ -331,23 +331,23 @@
     {
       "id": "26",
       "subject": "B",
-      "questionText": "Which of the following countries use the 'Dollar' as their currency?\n\n(i) United States\n(ii) Canada\n(iii) Australia\n(iv) United Kingdom\n\nSelect the correct combination:",
+      "questionText": "Which of the following countries use the 'Dollar' as their currency?\n\n(i) United States\n(ii) Canada\n(iii) United Kingdom\n(iv) Australia\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The US uses the US Dollar (i), Canada uses the Canadian Dollar (ii), and Australia uses the Australian Dollar (iii). The United Kingdom (iv) uses the Pound Sterling, not the Dollar."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The US uses the US Dollar (i), Canada uses the Canadian Dollar (ii), and Australia uses the Australian Dollar (iv). The United Kingdom (iii) uses the Pound Sterling, not the Dollar."
     },
     {
       "id": "27",
       "subject": "B",
       "questionText": "The following table shows selected countries and their details:\n\nJapan → Tokyo, Yen\nRussia → Moscow, Rouble\nBrazil → Brasilia, Real\nGermany → Berlin, Euro\nChina → Beijing, Yuan\n\nHow many of the countries listed above are in Asia?",
       "options": [
-        "3",
         "2",
+        "3",
         "4",
         "1"
       ],
@@ -359,9 +359,9 @@
       "subject": "B",
       "questionText": "The currency of Turkey is:",
       "options": [
-        "Lira",
         "Euro",
         "Dinar",
+        "Lira",
         "Pound"
       ],
       "correctAnswer": "Lira",
@@ -372,9 +372,9 @@
       "subject": "B",
       "questionText": "What is the capital of Vietnam?",
       "options": [
-        "Hanoi",
         "Ho Chi Minh City",
         "Da Nang",
+        "Hanoi",
         "Hue"
       ],
       "correctAnswer": "Hanoi",
@@ -385,10 +385,10 @@
       "subject": "B",
       "questionText": "The currency of Malaysia is:",
       "options": [
-        "Ringgit",
         "Rupiah",
         "Baht",
-        "Dong"
+        "Dong",
+        "Ringgit"
       ],
       "correctAnswer": "Ringgit",
       "explanation": "Malaysia's currency is the Ringgit (MYR). 'Rupiah' is wrong — it is the currency of Indonesia. 'Baht' is wrong — it is the currency of Thailand. 'Dong' is wrong — it is the currency of Vietnam."

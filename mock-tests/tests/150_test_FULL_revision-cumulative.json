@@ -34,8 +34,8 @@
       "subject": "D",
       "questionText": "A shopkeeper sells an article at a profit of 25%. If he had bought it for 20% less and sold it for ₹210 less, he would have gained 30%. Find the original cost price of the article.",
       "options": [
-        "₹1,000",
         "₹1,200",
+        "₹1,000",
         "₹1,400",
         "₹800"
       ],
@@ -45,23 +45,23 @@
     {
       "id": "4",
       "subject": "E",
-      "questionText": "Consider the following statements about computer viruses:\n\n(i) A Trojan Horse disguises itself as legitimate software.\n(ii) A worm replicates itself across networks without user intervention.\n(iii) Ransomware encrypts user data and demands payment for decryption.\n(iv) Spyware openly announces its presence on the infected system.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer viruses:\n\n(i) A Trojan Horse disguises itself as legitimate software.\n(ii) A worm replicates itself across networks without user intervention.\n(iii) Spyware openly announces its presence on the infected system.\n(iv) Ransomware encrypts user data and demands payment for decryption.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Trojans disguise as legitimate software (i-correct). Worms self-replicate across networks (ii-correct). Ransomware encrypts data for ransom (iii-correct). Statement (iv) is wrong — spyware operates SECRETLY to collect data without the user's knowledge; it does not announce its presence. Option '(i), (ii) and (iv)' wrongly includes (iv). Option '(i), (iii) and (iv)' wrongly includes (iv). Option '(ii), (iii) and (iv)' wrongly includes (iv)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Trojans disguise as legitimate software (i-correct). Worms self-replicate across networks (ii-correct). Ransomware encrypts data for ransom (iii-correct). Statement (iii) is wrong — spyware operates SECRETLY to collect data without the user's knowledge; it does not announce its presence. Option '(i), (ii) and (iii)' wrongly includes (iii). Option '(i), (iv) and (iii)' wrongly includes (iii). Option '(ii), (iv) and (iii)' wrongly includes (iii)."
     },
     {
       "id": "5",
       "subject": "A",
       "questionText": "Select the word most opposite in meaning to 'gregarious':",
       "options": [
-        "Reclusive",
         "Sociable",
+        "Reclusive",
         "Outgoing",
         "Affable"
       ],
@@ -73,9 +73,9 @@
       "subject": "C",
       "questionText": "The Salal Hydroelectric Project on the Chenab River is located in which district of J&K?",
       "options": [
-        "Reasi",
         "Ramban",
         "Doda",
+        "Reasi",
         "Kishtwar"
       ],
       "correctAnswer": "Reasi",
@@ -99,9 +99,9 @@
       "subject": "B",
       "questionText": "Match the following international organizations with their headquarters:\n\nColumn I:\n(a) ASEAN\n(b) SAARC\n(c) WHO\n(d) WTO\n\nColumn II:\n(i) Geneva\n(ii) Jakarta\n(iii) Kathmandu\n(iv) Geneva\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
@@ -112,9 +112,9 @@
       "subject": "E",
       "questionText": "In MS Excel, the function used to find the highest value in a range of cells is:",
       "options": [
-        "MAX()",
         "LARGE()",
         "HIGH()",
+        "MAX()",
         "TOP()"
       ],
       "correctAnswer": "MAX()",
@@ -123,25 +123,25 @@
     {
       "id": "10",
       "subject": "A",
-      "questionText": "Consider the following statements about the passive voice:\n\n(i) 'The letter was written by Ramesh' is in passive voice.\n(ii) In passive voice, the doer of the action becomes the subject.\n(iii) 'Let the door be opened' is the passive form of an imperative sentence.\n(iv) Only transitive verbs can be changed to passive voice.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the passive voice:\n\n(i) 'The letter was written by Ramesh' is in passive voice.\n(ii) 'Let the door be opened' is the passive form of an imperative sentence.\n(iii) Only transitive verbs can be changed to passive voice.\n(iv) In passive voice, the doer of the action becomes the subject.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "'The letter was written by Ramesh' is passive (i-correct). 'Let the door be opened' is correct passive of an imperative (iii-correct). Only transitive verbs form passive (iv-correct). Statement (ii) is wrong — in passive voice, the RECEIVER of the action becomes the subject, not the doer. Option '(i), (ii) and (iii)' wrongly includes (ii). Option '(ii), (iii) and (iv)' wrongly includes (ii). Option '(i), (ii) and (iv)' wrongly includes (ii)."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'The letter was written by Ramesh' is passive (i-correct). 'Let the door be opened' is correct passive of an imperative (iii-correct). Only transitive verbs form passive (iv-correct). Statement (iv) is wrong — in passive voice, the RECEIVER of the action becomes the subject, not the doer. Option '(i), (iv) and (ii)' wrongly includes (iv). Option '(iv), (ii) and (iii)' wrongly includes (iv). Option '(i), (iv) and (iii)' wrongly includes (iv)."
     },
     {
       "id": "11",
       "subject": "D",
       "questionText": "If ROAD is coded as URDG in a certain code, how is SWAN coded in the same code?",
       "options": [
-        "VZDQ",
         "UXCP",
         "VYCQ",
-        "WZDP"
+        "WZDP",
+        "VZDQ"
       ],
       "correctAnswer": "VZDQ",
       "explanation": "The pattern is: R+3=U, O+3=R (wait — O+3=R), A+3=D, D+3=G. Each letter is shifted by +3. S+3=V, W+3=Z, A+3=D, N+3=Q. So SWAN = VZDQ. 'UXCP' is wrong — it uses inconsistent shifts. 'VYCQ' is wrong — Y is not W+3 (W+2=Y). 'WZDP' is wrong — W is not S+3 (S+4=W)."
@@ -149,15 +149,15 @@
     {
       "id": "12",
       "subject": "B",
-      "questionText": "Consider the following statements about the Directive Principles of State Policy (DPSP):\n\n(i) They are enshrined in Part IV of the Indian Constitution.\n(ii) They are justiciable and enforceable by courts.\n(iii) They aim to establish social and economic democracy.\n(iv) The concept is borrowed from the Irish Constitution.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Directive Principles of State Policy (DPSP):\n\n(i) They are justiciable and enforceable by courts.\n(ii) They are enshrined in Part IV of the Indian Constitution.\n(iii) They aim to establish social and economic democracy.\n(iv) The concept is borrowed from the Irish Constitution.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "DPSP are in Part IV (i-correct), aim to establish social-economic democracy (iii-correct), and were borrowed from the Irish Constitution (iv-correct). Statement (ii) is wrong — DPSP are NON-justiciable (cannot be enforced by courts). Option '(i), (ii) and (iii)' wrongly includes (ii). Option '(ii), (iii) and (iv)' wrongly includes (ii). Option '(i), (ii) and (iv)' wrongly includes (ii)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "DPSP are in Part IV (i-correct), aim to establish social-economic democracy (iii-correct), and were borrowed from the Irish Constitution (iv-correct). Statement (i) is wrong — DPSP are NON-justiciable (cannot be enforced by courts). Option '(ii), (i) and (iii)' wrongly includes (i). Option '(i), (iii) and (iv)' wrongly includes (i). Option '(ii), (i) and (iv)' wrongly includes (i)."
     },
     {
       "id": "13",
@@ -203,8 +203,8 @@
       "subject": "B",
       "questionText": "Which of the following are Fundamental Rights guaranteed under the Indian Constitution?\n\n(i) Right to Equality\n(ii) Right to Property\n(iii) Right against Exploitation\n(iv) Right to Constitutional Remedies\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
@@ -214,23 +214,23 @@
     {
       "id": "17",
       "subject": "D",
-      "questionText": "Consider the following statements about logical reasoning:\n\n(i) All A are B and all B are C implies all A are C.\n(ii) Some A are B and some B are C necessarily implies some A are C.\n(iii) No A is B means no B is A (converse is true).\n(iv) All A are B does not necessarily mean all B are A.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about logical reasoning:\n\n(i) All A are B and all B are C implies all A are C.\n(ii) No A is B means no B is A (converse is true).\n(iii) Some A are B and some B are C necessarily implies some A are C.\n(iv) All A are B does not necessarily mean all B are A.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "All A→B and all B→C means all A→C — valid transitive (i-correct). No A is B is equivalent to No B is A — E-type conversion is valid (iii-correct). All A are B doesn't mean all B are A — correct (iv-correct). Statement (ii) is wrong — 'some A are B' and 'some B are C' does NOT necessarily imply 'some A are C' (the A's that are B may be different from the B's that are C). Option '(i), (ii) and (iii)' wrongly includes (ii). Option '(i), (ii) and (iv)' wrongly includes (ii). Option '(ii), (iii) and (iv)' wrongly includes (ii)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "All A→B and all B→C means all A→C — valid transitive (i-correct). No A is B is equivalent to No B is A — E-type conversion is valid (iii-correct). All A are B doesn't mean all B are A — correct (iv-correct). Statement (iii) is wrong — 'some A are B' and 'some B are C' does NOT necessarily imply 'some A are C' (the A's that are B may be different from the B's that are C). Option '(i), (iii) and (ii)' wrongly includes (iii). Option '(i), (iii) and (iv)' wrongly includes (iii). Option '(iii), (ii) and (iv)' wrongly includes (iii)."
     },
     {
       "id": "18",
       "subject": "A",
       "questionText": "Choose the correct tense: The students __________ their project report by the time the professor returns next week.",
       "options": [
-        "will have completed",
         "will be completing",
+        "will have completed",
         "have completed",
         "had completed"
       ],
@@ -240,15 +240,15 @@
     {
       "id": "19",
       "subject": "E",
-      "questionText": "Which of the following are input devices?\n\n(i) Scanner\n(ii) Projector\n(iii) Barcode Reader\n(iv) Light Pen\n\nSelect the correct combination:",
+      "questionText": "Which of the following are input devices?\n\n(i) Scanner\n(ii) Barcode Reader\n(iii) Light Pen\n(iv) Projector\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Scanner (i), Barcode Reader (iii), and Light Pen (iv) are all input devices — they send data/signals TO the computer. Projector (ii) is an OUTPUT device — it displays computer output on a screen. Option '(i), (ii) and (iii)' wrongly includes projector. Option '(ii), (iii) and (iv)' wrongly includes projector. Option 'All' wrongly includes projector."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Scanner (i), Barcode Reader (ii), and Light Pen (iii) are all input devices — they send data/signals TO the computer. Projector (iv) is an OUTPUT device — it displays computer output on a screen. Option '(i), (iv) and (ii)' wrongly includes projector. Option '(iv), (ii) and (iii)' wrongly includes projector. Option 'All' wrongly includes projector."
     },
     {
       "id": "20",
@@ -268,9 +268,9 @@
       "subject": "D",
       "questionText": "Match the following mathematical relationships:\n\nColumn I:\n(a) If A:B = 3:4 and B:C = 5:6\n(b) If X:Y = 2:3 and Y:Z = 4:5\n(c) If P:Q = 7:9\n(d) If M:N = 5:8\n\nColumn II:\n(i) M:N = 5:8 (direct ratio)\n(ii) A:C = 15:24 = 5:8\n(iii) X:Z = 8:15\n(iv) Q:P = 9:7 (inverse ratio)\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
@@ -281,9 +281,9 @@
       "subject": "A",
       "questionText": "Fill in the blank with the correct word: The witness was asked to __________ (corroborate/collaborate) the statement given by the accused.",
       "options": [
-        "corroborate",
         "collaborate",
         "corroborating",
+        "corroborate",
         "collaboration"
       ],
       "correctAnswer": "corroborate",
@@ -294,10 +294,10 @@
       "subject": "B",
       "questionText": "The 'Jallianwala Bagh Massacre' took place in which year?",
       "options": [
-        "1919",
         "1920",
         "1918",
-        "1921"
+        "1921",
+        "1919"
       ],
       "correctAnswer": "1919",
       "explanation": "The Jallianwala Bagh Massacre occurred on 13 April 1919 in Amritsar, under General Dyer's orders. '1920' is wrong — that was the year of the Non-Cooperation Movement launch. '1918' is wrong — that was the end of World War I. '1921' is wrong — that was the Moplah Rebellion year."
@@ -307,10 +307,10 @@
       "subject": "E",
       "questionText": "Match the following keyboard shortcuts in MS Word with their functions:\n\nColumn I:\n(a) Ctrl + B\n(b) Ctrl + U\n(c) Ctrl + I\n(d) Ctrl + Z\n\nColumn II:\n(i) Undo last action\n(ii) Bold text\n(iii) Italic text\n(iv) Underline text\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Ctrl+B = Bold (ii), Ctrl+U = Underline (iv), Ctrl+I = Italic (iii), Ctrl+Z = Undo (i). Option '(a)-(iii)...' wrongly assigns Italic to Ctrl+B. Option '(a)-(ii), (b)-(iii)...' wrongly assigns Italic to Ctrl+U. Option '(a)-(iv)...' wrongly assigns Underline to Ctrl+B."
@@ -320,10 +320,10 @@
       "subject": "D",
       "questionText": "In a family, A is the brother of B. C is the daughter of A. D is the sister of B. E is the son of D. How is E related to C?",
       "options": [
-        "Cousin",
         "Brother",
         "Uncle",
-        "Nephew"
+        "Nephew",
+        "Cousin"
       ],
       "correctAnswer": "Cousin",
       "explanation": "A and B are siblings (brothers). D is the sister of B, so A, B, and D are all siblings. C is A's daughter. E is D's son. Since A and D are siblings, C and E are cousins. 'Brother' is wrong — they have different parents. 'Uncle' is wrong — E is of the same generation as C. 'Nephew' is wrong — nephew would require a parent-sibling relationship."
@@ -331,15 +331,15 @@
     {
       "id": "26",
       "subject": "B",
-      "questionText": "Consider the following statements about the United Nations Security Council:\n\n(i) It has 15 members — 5 permanent and 10 non-permanent.\n(ii) Non-permanent members are elected for a term of 3 years.\n(iii) Each permanent member has veto power.\n(iv) India has been a non-permanent member multiple times.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the United Nations Security Council:\n\n(i) Non-permanent members are elected for a term of 3 years.\n(ii) It has 15 members — 5 permanent and 10 non-permanent.\n(iii) Each permanent member has veto power.\n(iv) India has been a non-permanent member multiple times.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "UNSC has 5 permanent + 10 non-permanent = 15 members (i-correct). Each P5 member has veto power (iii-correct). India has served multiple terms as non-permanent member (iv-correct). Statement (ii) is wrong — non-permanent members serve 2-year terms, not 3. Option '(i), (ii) and (iii)' wrongly includes (ii). Option '(i), (ii) and (iv)' wrongly includes (ii). Option '(ii), (iii) and (iv)' wrongly includes (ii)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "UNSC has 5 permanent + 10 non-permanent = 15 members (i-correct). Each P5 member has veto power (iii-correct). India has served multiple terms as non-permanent member (iv-correct). Statement (i) is wrong — non-permanent members serve 2-year terms, not 3. Option '(ii), (i) and (iii)' wrongly includes (i). Option '(ii), (i) and (iv)' wrongly includes (i). Option '(i), (iii) and (iv)' wrongly includes (i)."
     },
     {
       "id": "27",
@@ -359,8 +359,8 @@
       "subject": "D",
       "questionText": "The average of 8 numbers is 27. If one number is excluded, the average of the remaining 7 numbers becomes 25. What is the excluded number?",
       "options": [
-        "41",
         "39",
+        "41",
         "43",
         "37"
       ],
@@ -385,8 +385,8 @@
       "subject": "B",
       "questionText": "The famous book 'Discovery of India' was written by:",
       "options": [
-        "Jawaharlal Nehru",
         "Mahatma Gandhi",
+        "Jawaharlal Nehru",
         "Rabindranath Tagore",
         "B.R. Ambedkar"
       ],
@@ -398,8 +398,8 @@
       "subject": "A",
       "questionText": "Choose the correct sentence:",
       "options": [
-        "He insisted on my going to the doctor immediately.",
         "He insisted on me going to the doctor immediately.",
+        "He insisted on my going to the doctor immediately.",
         "He insisted for my going to the doctor immediately.",
         "He insisted upon me to go to the doctor immediately."
       ],
@@ -424,9 +424,9 @@
       "subject": "E",
       "questionText": "Fill in the blank: The full form of URL is Uniform Resource __________.",
       "options": [
-        "Locator",
         "Link",
         "Language",
+        "Locator",
         "Loader"
       ],
       "correctAnswer": "Locator",
@@ -437,9 +437,9 @@
       "subject": "B",
       "questionText": "Match the following national awards with their fields:\n\nColumn I:\n(a) Bharat Ratna\n(b) Param Vir Chakra\n(c) Dronacharya Award\n(d) Shanti Swarup Bhatnagar Prize\n\nColumn II:\n(i) Science and Technology\n(ii) Sports coaching\n(iii) Highest civilian honour\n(iv) Highest wartime military gallantry\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
@@ -450,9 +450,9 @@
       "subject": "A",
       "questionText": "Choose the correct meaning of the idiom 'to play devil's advocate':",
       "options": [
-        "To argue against a position one may not disagree with, for the sake of debate",
         "To worship evil forces for personal gain",
         "To betray a friend in times of need",
+        "To argue against a position one may not disagree with, for the sake of debate",
         "To act as a mediator between two fighting parties"
       ],
       "correctAnswer": "To argue against a position one may not disagree with, for the sake of debate",
@@ -476,10 +476,10 @@
       "subject": "B",
       "questionText": "Which of the following rivers does NOT originate in India?\n\n(i) Brahmaputra\n(ii) Ganga\n(iii) Indus\n(iv) Godavari\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iii) only",
         "(i) only",
         "(i), (ii) and (iii)",
-        "(iii) only"
+        "(iii) only",
+        "(i) and (iii) only"
       ],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "Brahmaputra originates in Tibet (China) as Tsangpo (i-correct). Indus also originates in Tibet near Lake Mansarovar (iii-correct). Ganga originates at Gangotri glacier in Uttarakhand, India (ii-wrong, it does originate in India). Godavari originates at Nasik, Maharashtra (iv-wrong). Option '(i) only' misses Indus. Option '(i), (ii) and (iii)' wrongly includes Ganga. Option '(iii) only' misses Brahmaputra."
@@ -487,25 +487,25 @@
     {
       "id": "38",
       "subject": "A",
-      "questionText": "Consider the following statements about prepositions:\n\n(i) 'Between' is used for two entities; 'among' for more than two.\n(ii) 'Beside' means 'next to'; 'besides' means 'in addition to'.\n(iii) 'Into' indicates movement; 'in' indicates position.\n(iv) 'Since' and 'for' can be used interchangeably with time expressions.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about prepositions:\n\n(i) 'Between' is used for two entities; 'among' for more than two.\n(ii) 'Beside' means 'next to'; 'besides' means 'in addition to'.\n(iii) 'Since' and 'for' can be used interchangeably with time expressions.\n(iv) 'Into' indicates movement; 'in' indicates position.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'Between' for two, 'among' for more than two (i-correct). 'Beside' = next to, 'besides' = in addition to (ii-correct). 'Into' = movement, 'in' = position (iii-correct). Statement (iv) is wrong — 'since' (point in time) and 'for' (duration) are NOT interchangeable. Option '(i), (ii) and (iv)' wrongly includes (iv). Option '(i), (iii) and (iv)' wrongly includes (iv). Option '(ii), (iii) and (iv)' wrongly includes (iv)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Between' for two, 'among' for more than two (i-correct). 'Beside' = next to, 'besides' = in addition to (ii-correct). 'Into' = movement, 'in' = position (iii-correct). Statement (iii) is wrong — 'since' (point in time) and 'for' (duration) are NOT interchangeable. Option '(i), (ii) and (iii)' wrongly includes (iii). Option '(i), (iv) and (iii)' wrongly includes (iii). Option '(ii), (iv) and (iii)' wrongly includes (iii)."
     },
     {
       "id": "39",
       "subject": "E",
       "questionText": "The protocol 'HTTPS' differs from 'HTTP' primarily because:",
       "options": [
-        "It encrypts data during transmission using SSL/TLS",
         "It loads web pages faster than HTTP",
         "It allows downloading files larger than 1 GB",
-        "It works only on mobile browsers"
+        "It works only on mobile browsers",
+        "It encrypts data during transmission using SSL/TLS"
       ],
       "correctAnswer": "It encrypts data during transmission using SSL/TLS",
       "explanation": "HTTPS (HyperText Transfer Protocol Secure) uses SSL/TLS encryption to secure data in transit. 'Loads pages faster' is wrong — HTTPS may actually be slightly slower due to encryption overhead. 'Allows larger downloads' is wrong — file size limits are unrelated to the protocol. 'Works only on mobile' is wrong — HTTPS works on all browsers."
@@ -528,8 +528,8 @@
       "subject": "C",
       "questionText": "The 'Duggar' or 'Dogri' language received the status of a Scheduled Language under which Constitutional amendment?",
       "options": [
-        "92nd Amendment (2003)",
         "71st Amendment (1992)",
+        "92nd Amendment (2003)",
         "86th Amendment (2002)",
         "100th Amendment (2015)"
       ],
@@ -541,8 +541,8 @@
       "subject": "B",
       "questionText": "The 'Green Revolution' in India was primarily associated with the production of:",
       "options": [
-        "Wheat and Rice",
         "Pulses and Oilseeds",
+        "Wheat and Rice",
         "Cotton and Jute",
         "Sugarcane and Tea"
       ],
@@ -567,8 +567,8 @@
       "subject": "D",
       "questionText": "If 15% of a number is 45, what is 40% of the same number?",
       "options": [
-        "120",
         "100",
+        "120",
         "135",
         "150"
       ],
@@ -580,9 +580,9 @@
       "subject": "B",
       "questionText": "Which of the following are correctly matched?\n\n(i) Arjuna Award — Outstanding sports performance\n(ii) Padma Vibhushan — Second highest civilian award\n(iii) Dadasaheb Phalke Award — Cinema\n(iv) Kalinga Prize — Literature\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -593,9 +593,9 @@
       "subject": "C",
       "questionText": "Which of the following passes connects the Kashmir Valley to the Ladakh region?",
       "options": [
-        "Zoji La",
         "Banihal Pass",
         "Peer Ki Gali",
+        "Zoji La",
         "Rohtang Pass"
       ],
       "correctAnswer": "Zoji La",
@@ -604,25 +604,25 @@
     {
       "id": "47",
       "subject": "E",
-      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware and software resources.\n(ii) Windows, Linux, and macOS are examples of operating systems.\n(iii) An operating system is a type of application software.\n(iv) The operating system provides a user interface to interact with the computer.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system is a type of application software.\n(ii) An operating system manages hardware and software resources.\n(iii) Windows, Linux, and macOS are examples of operating systems.\n(iv) The operating system provides a user interface to interact with the computer.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "OS manages hardware/software resources (i-correct). Windows, Linux, macOS are OS examples (ii-correct). OS provides user interface (iv-correct). Statement (iii) is wrong — an OS is SYSTEM software, not application software. Option '(i), (ii) and (iii)' wrongly includes (iii). Option '(i), (iii) and (iv)' wrongly includes (iii). Option '(ii), (iii) and (iv)' wrongly includes (iii)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "OS manages hardware/software resources (i-correct). Windows, Linux, macOS are OS examples (ii-correct). OS provides user interface (iv-correct). Statement (i) is wrong — an OS is SYSTEM software, not application software. Option '(ii), (iii) and (i)' wrongly includes (i). Option '(ii), (i) and (iv)' wrongly includes (i). Option '(iii), (i) and (iv)' wrongly includes (i)."
     },
     {
       "id": "48",
       "subject": "A",
       "questionText": "Select the synonym of 'perfunctory':",
       "options": [
-        "Cursory",
         "Thorough",
         "Diligent",
-        "Meticulous"
+        "Meticulous",
+        "Cursory"
       ],
       "correctAnswer": "Cursory",
       "explanation": "'Perfunctory' means done without care or interest (superficial); its synonym is 'cursory' (hasty, not detailed). 'Thorough' is wrong — it means complete and detailed (antonym). 'Diligent' is wrong — it means careful and hardworking (antonym). 'Meticulous' is wrong — it means extremely careful (antonym)."
@@ -632,26 +632,26 @@
       "subject": "D",
       "questionText": "The following data shows the production (in lakh tonnes) of wheat in a state over five years:\n\n2019 → 45\n2020 → 50\n2021 → 48\n2022 → 56\n2023 → 60\n\nWhat is the simple average annual growth rate of wheat production over this period?",
       "options": [
-        "Approximately 7.5%",
-        "Approximately 8.3%",
         "Approximately 10%",
-        "Approximately 6.2%"
+        "Approximately 6.2%",
+        "Approximately 7.5%",
+        "Approximately 8.3%"
       ],
-      "correctAnswer": "Approximately 7.5%",
-      "explanation": "Growth from 2019 to 2023 = 60−45 = 15 lakh tonnes over 4 years. Average annual growth = 15/4 = 3.75 lakh tonnes. As percentage of base year: (3.75/45)×100 ≈ 8.33%. Alternatively, total % growth = (15/45)×100 = 33.33% over 4 years = 33.33/4 ≈ 8.3%. Hmm, let me recalculate: simple average growth rate = [(50-45)/45 + (48-50)/50 + (56-48)/48 + (60-56)/56]/4 × 100 = [5/45 + (-2/50) + 8/48 + 4/56]/4 × 100 = [0.111 - 0.04 + 0.167 + 0.071]/4 × 100 = [0.309]/4 × 100 = 7.73% ≈ 7.5%. '8.3%' is the overall average method. '10%' is too high. '6.2%' is too low. The year-by-year method gives approximately 7.5%."
+      "correctAnswer": "Approximately 8.3%",
+      "explanation": "Production rose from 45 lakh tonnes in 2019 to 60 in 2023, an increase of 15 over four intervals. The simple average annual growth rate takes the total percentage growth and divides by the number of years: (15/45) × 100 = 33.33% over four years, giving 33.33 ÷ 4 ≈ 8.3% a year. 'Approximately 7.5%' is wrong — that divides by five years instead of the four intervals between five data points. 'Approximately 10%' is wrong and overstates the growth. 'Approximately 6.2%' is wrong and understates it."
     },
     {
       "id": "50",
       "subject": "C",
-      "questionText": "Consider the following statements about the economy of J&K:\n\n(i) Apple and other horticultural products are the backbone of Kashmir's economy.\n(ii) The services sector contributes the largest share to J&K's GDP.\n(iii) The industrial sector contributes more than agriculture to J&K's GDP.\n(iv) Tourism is a significant contributor to J&K's economy.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the economy of J&K:\n\n(i) Apple and other horticultural products are the backbone of Kashmir's economy.\n(ii) The industrial sector contributes more than agriculture to J&K's GDP.\n(iii) The services sector contributes the largest share to J&K's GDP.\n(iv) Tourism is a significant contributor to J&K's economy.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Horticulture (especially apple) is the backbone of Kashmir's economy (i-correct). Services sector has the largest GDP share in J&K (ii-correct). Tourism significantly contributes (iv-correct). Statement (iii) is wrong — agriculture still contributes more than the industrial sector to J&K's GDP; J&K's industrial base is relatively small. Option '(i), (ii) and (iii)' wrongly includes (iii). Option '(i), (iii) and (iv)' wrongly includes (iii). Option '(ii), (iii) and (iv)' wrongly includes (iii)."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Horticulture (especially apple) is the backbone of Kashmir's economy (i-correct). Services sector has the largest GDP share in J&K (ii-correct). Tourism significantly contributes (iv-correct). Statement (ii) is wrong — agriculture still contributes more than the industrial sector to J&K's GDP; J&K's industrial base is relatively small. Option '(i), (iii) and (ii)' wrongly includes (ii). Option '(i), (ii) and (iv)' wrongly includes (ii). Option '(iii), (ii) and (iv)' wrongly includes (ii)."
     }
   ]
 }

@@ -6,24 +6,24 @@
     {
       "id": "1",
       "subject": "A",
-      "questionText": "Spot the error in the following sentence: 'The committee have decided to postpone its annual meeting to next month.'",
+      "questionText": "Choose the correct verb form: The committee __________ decided to postpone its annual meeting to next month.",
       "options": [
-        "The committee have",
-        "decided to postpone",
-        "its annual meeting",
-        "to next month"
+        "has",
+        "have",
+        "are having",
+        "were having"
       ],
-      "correctAnswer": "The committee have",
-      "explanation": "'The committee have' mixes plural verb 'have' with singular possessive 'its' later in the sentence. For consistency, it should be either 'The committee has decided...its' (treating committee as singular) or 'The committee have decided...their' (treating as plural). The primary error is the verb-pronoun disagreement. 'Decided to postpone' is correct. 'Its annual meeting' would be correct with singular verb. 'To next month' is correct."
+      "correctAnswer": "has",
+      "explanation": "A collective noun such as 'committee' takes a singular verb when the body is regarded as acting as a single unit, and the later possessive 'its' confirms that singular reading, so 'has decided' is correct. 'Have' is wrong because it would require the plural sense, which would then also demand 'their annual meeting'. 'Are having' and 'were having' are wrong because the continuous forms cannot combine with 'decided' at all."
     },
     {
       "id": "2",
       "subject": "D",
       "questionText": "Find the simple interest on ₹6,000 at 8% per annum for 3 years.",
       "options": [
+        "₹1,440",
         "₹1,200",
         "₹1,320",
-        "₹1,440",
         "₹1,560"
       ],
       "correctAnswer": "₹1,440",
@@ -35,8 +35,8 @@
       "questionText": "The Rajiv Gandhi Khel Ratna Award (now Major Dhyan Chand Khel Ratna Award) is given for excellence in which field?",
       "options": [
         "Literature",
-        "Cinema",
         "Sports",
+        "Cinema",
         "Science"
       ],
       "correctAnswer": "Sports",
@@ -48,9 +48,9 @@
       "questionText": "Which of the following is NOT a search engine?",
       "options": [
         "Google",
+        "Microsoft Word",
         "Bing",
-        "Yahoo Search",
-        "Microsoft Word"
+        "Yahoo Search"
       ],
       "correctAnswer": "Microsoft Word",
       "explanation": "Microsoft Word is a word processing application software, not a search engine. Google, Bing, and Yahoo Search are all web search engines that help users find information on the internet."
@@ -71,15 +71,15 @@
     {
       "id": "6",
       "subject": "A",
-      "questionText": "Consider the following statements about grammatical errors:\n\n(i) 'He is more senior than me' is wrong — 'senior' takes 'to', not 'than'.\n(ii) 'Despite of the rain, we went out' is wrong — 'despite' never takes 'of'.\n(iii) 'One of my friend is a doctor' is wrong — 'one of' requires a plural noun.\n(iv) 'He said me to go' is correct English usage.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about grammatical errors:\n\n(i) 'He said me to go' is correct English usage.\n(ii) 'He is more senior than me' is wrong — 'senior' takes 'to', not 'than'.\n(iii) 'Despite of the rain, we went out' is wrong — 'despite' never takes 'of'.\n(iv) 'One of my friend is a doctor' is wrong — 'one of' requires a plural noun.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — 'senior to', not 'senior than'. (ii) is correct — 'despite' is a preposition on its own; 'in spite of' uses 'of', but 'despite of' is wrong. (iii) is correct — 'one of my friends' (plural). (iv) is wrong — 'He said me' is incorrect; it should be 'He told me to go' or 'He said to me to go'."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — 'senior to', not 'senior than'. (iii) is correct — 'despite' is a preposition on its own; 'in spite of' uses 'of', but 'despite of' is wrong. (iv) is correct — 'one of my friends' (plural). (i) is wrong — 'He said me' is incorrect; it should be 'He told me to go' or 'He said to me to go'."
     },
     {
       "id": "7",
@@ -87,8 +87,8 @@
       "questionText": "If x + y = 12 and xy = 35, what is the value of x² + y²?",
       "options": [
         "64",
-        "74",
         "84",
+        "74",
         "94"
       ],
       "correctAnswer": "74",
@@ -110,15 +110,15 @@
     {
       "id": "9",
       "subject": "E",
-      "questionText": "Consider the following statements about email:\n\n(i) SMTP is used for sending emails.\n(ii) POP3 and IMAP are used for receiving emails.\n(iii) BCC stands for Blind Carbon Copy.\n(iv) Email attachments cannot exceed 1 KB in size.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about email:\n\n(i) SMTP is used for sending emails.\n(ii) Email attachments cannot exceed 1 KB in size.\n(iii) POP3 and IMAP are used for receiving emails.\n(iv) BCC stands for Blind Carbon Copy.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — SMTP (Simple Mail Transfer Protocol) sends emails. (ii) is correct — POP3 and IMAP are protocols for retrieving emails. (iii) is correct — BCC = Blind Carbon Copy, hiding recipients. (iv) is wrong — email attachments can be many megabytes (typically up to 25 MB on Gmail); 1 KB is absurdly small."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — SMTP (Simple Mail Transfer Protocol) sends emails. (iii) is correct — POP3 and IMAP are protocols for retrieving emails. (iv) is correct — BCC = Blind Carbon Copy, hiding recipients. (ii) is wrong — email attachments can be many megabytes (typically up to 25 MB on Gmail); 1 KB is absurdly small."
     },
     {
       "id": "10",
@@ -126,8 +126,8 @@
       "questionText": "Under the Indus Waters Treaty, which rivers are allocated to Pakistan (western rivers)?",
       "options": [
         "Sutlej, Beas, and Ravi",
-        "Indus, Jhelum, and Chenab",
         "Ganga, Yamuna, and Brahmaputra",
+        "Indus, Jhelum, and Chenab",
         "Krishna, Godavari, and Narmada"
       ],
       "correctAnswer": "Indus, Jhelum, and Chenab",
@@ -139,9 +139,9 @@
       "questionText": "Fill in the blank with the correct option: 'Had I known about the meeting, I __________ attended it.'",
       "options": [
         "will have",
-        "would have",
         "should",
-        "could"
+        "could",
+        "would have"
       ],
       "correctAnswer": "would have",
       "explanation": "This is a third conditional (past unreal): 'Had I known...I would have attended.' 'Will have' is used for future perfect, not past unreal. 'Should' alone is incomplete. 'Could' alone is incomplete — it needs 'could have' and changes meaning to ability rather than willingness."
@@ -151,23 +151,23 @@
       "subject": "D",
       "questionText": "Match the following algebraic identities with their expansions:\n\nColumn I:\n(a) (a + b)²\n(b) (a − b)²\n(c) a² − b²\n(d) (a + b + c)²\n\nColumn II:\n(i) (a + b)(a − b)\n(ii) a² + 2ab + b²\n(iii) a² − 2ab + b²\n(iv) a² + b² + c² + 2ab + 2bc + 2ca\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
-      "explanation": "(a+b)² = a²+2ab+b² (ii). (a−b)² = a²−2ab+b² (iii). a²−b² = (a+b)(a−b) (i). (a+b+c)² = a²+b²+c²+2ab+2bc+2ca (iv). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (c)."
+      "explanation": "(a+b)² = a²+2ab+b² (ii). (a−b)² = a²−2ab+b² (iii). a²−b² = (a+b)(a−b) (i). (a+b+c)² = a²+b²+c²+2ab+2bc+2ca (iv). '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' swaps (a) and (b). '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)' swaps (b) and (c). '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)' swaps (a) and (c)."
     },
     {
       "id": "13",
       "subject": "B",
       "questionText": "Which of the following crops are classified as Rabi crops in India?\n\n(i) Wheat\n(ii) Mustard\n(iii) Rice\n(iv) Gram (Chickpea)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Wheat (i), Mustard (ii), and Gram (iv) are Rabi crops — sown in winter (October-December) and harvested in spring. Rice (iii) is primarily a Kharif crop — sown during the monsoon season (June-July)."
@@ -177,9 +177,9 @@
       "subject": "D",
       "questionText": "The compound interest on ₹10,000 at 10% per annum for 2 years is:",
       "options": [
+        "₹2,100",
         "₹2,000",
         "₹2,050",
-        "₹2,100",
         "₹2,200"
       ],
       "correctAnswer": "₹2,100",
@@ -227,37 +227,37 @@
     {
       "id": "18",
       "subject": "D",
-      "questionText": "Consider the following statements about logical reasoning:\n\n(i) If all A are B and all B are C, then all A are C (valid).\n(ii) If some A are B and all B are C, then some A are C (valid).\n(iii) If all A are B and some B are C, then some A are C (valid).\n(iv) The contrapositive of 'If P then Q' is 'If not Q then not P' (valid).\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about logical reasoning:\n\n(i) If all A are B and all B are C, then all A are C (valid).\n(ii) If some A are B and all B are C, then some A are C (valid).\n(iii) The contrapositive of 'If P then Q' is 'If not Q then not P' (valid).\n(iv) If all A are B and some B are C, then some A are C (valid).\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "All of the above",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — Barbara syllogism (transitivity). (ii) is correct — those A that are B must also be C. (iv) is correct — contrapositive is logically equivalent. (iii) is wrong — 'all A are B' and 'some B are C' does not guarantee those C-intersecting B members are the same as A members."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — Barbara syllogism (transitivity). (ii) is correct — those A that are B must also be C. (iii) is correct — contrapositive is logically equivalent. (iv) is wrong — 'all A are B' and 'some B are C' does not guarantee those C-intersecting B members are the same as A members."
     },
     {
       "id": "19",
       "subject": "C",
-      "questionText": "The RTI (Right to Information) Act was enacted in which year?",
+      "questionText": "The central RTI (Right to Information) Act, extended to J&K in 2019, was enacted in which year?",
       "options": [
         "2002",
-        "2003",
         "2005",
+        "2003",
         "2007"
       ],
       "correctAnswer": "2005",
-      "explanation": "The RTI Act was enacted by Parliament in 2005. It replaced the Freedom of Information Act 2002. 2003 and 2007 are incorrect years."
+      "explanation": "The central RTI Act was enacted in 2005 and was extended to the Union Territories of J&K and Ladakh on 31 October 2019, replacing the repealed J&K RTI Act, 2009. '2002' is wrong — that is the year of the Freedom of Information Act, which the RTI Act superseded. '2003' is wrong and corresponds to no transparency enactment. '2007' is wrong and postdates the Act by two years."
     },
     {
       "id": "20",
       "subject": "A",
       "questionText": "Match the following incorrect sentences with their error types:\n\nColumn I:\n(a) She is more taller than her sister.\n(b) He told to me a secret.\n(c) The furnitures are expensive.\n(d) I have been waiting since two hours.\n\nColumn II:\n(i) Wrong preposition with time word\n(ii) Double comparative\n(iii) Uncountable noun made plural\n(iv) Wrong preposition after verb\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
@@ -279,15 +279,15 @@
     {
       "id": "22",
       "subject": "B",
-      "questionText": "Consider the following statements about the Constitution of India:\n\n(i) It came into effect on 26 January 1950.\n(ii) Dr. B.R. Ambedkar was the Chairman of the Drafting Committee.\n(iii) The Preamble declares India a Sovereign Socialist Secular Democratic Republic.\n(iv) The Constitution was completed in exactly one year.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Constitution of India:\n\n(i) The Constitution was completed in exactly one year.\n(ii) It came into effect on 26 January 1950.\n(iii) Dr. B.R. Ambedkar was the Chairman of the Drafting Committee.\n(iv) The Preamble declares India a Sovereign Socialist Secular Democratic Republic.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — Constitution came into force on 26 Jan 1950 (Republic Day). (ii) is correct — Ambedkar chaired the Drafting Committee. (iii) is correct — Preamble declares these principles (Socialist and Secular added by 42nd Amendment, 1976). (iv) is wrong — the Constituent Assembly took nearly 3 years (Dec 1946 to Nov 1949) to complete the Constitution."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — Constitution came into force on 26 Jan 1950 (Republic Day). (iii) is correct — Ambedkar chaired the Drafting Committee. (iv) is correct — Preamble declares these principles (Socialist and Secular added by 42nd Amendment, 1976). (i) is wrong — the Constituent Assembly took nearly 3 years (Dec 1946 to Nov 1949) to complete the Constitution."
     },
     {
       "id": "23",
@@ -305,15 +305,15 @@
     {
       "id": "24",
       "subject": "A",
-      "questionText": "Spot the error: 'Neither the students nor the teacher were present at the meeting yesterday.'",
+      "questionText": "Choose the correct verb form: Neither the students nor the teacher __________ present at the meeting yesterday.",
       "options": [
-        "Neither the students",
-        "nor the teacher",
-        "were present at",
-        "the meeting yesterday"
+        "are",
+        "have been",
+        "were",
+        "was"
       ],
-      "correctAnswer": "were present at",
-      "explanation": "In 'neither...nor' constructions, the verb agrees with the nearest subject. 'The teacher' (singular) is nearest, so the verb should be 'was present', not 'were present'. 'Neither the students' is correct. 'Nor the teacher' is correct. 'The meeting yesterday' is correct."
+      "correctAnswer": "was",
+      "explanation": "With 'neither … nor' the verb agrees with the subject nearer to it, and the nearer subject here is the singular 'teacher', so 'was' is correct. 'Were' is wrong because it agrees with the more distant plural 'students', which is the standard trap in this construction. 'Are' is wrong because the sentence refers to yesterday and needs a past form. 'Have been' is wrong because the present perfect cannot take a stated past time."
     },
     {
       "id": "25",
@@ -322,8 +322,8 @@
       "options": [
         "15%",
         "18%",
-        "20%",
-        "25%"
+        "25%",
+        "20%"
       ],
       "correctAnswer": "20%",
       "explanation": "If sum doubles, SI = Principal. SI = P×R×T/100. P = P×R×5/100. So 100 = 5R → R = 20%. Option 15% would take 6.67 years. Option 18% would take 5.56 years. Option 25% would take 4 years."
@@ -335,8 +335,8 @@
       "options": [
         "West Bengal",
         "Kerala",
-        "Assam",
-        "Tamil Nadu"
+        "Tamil Nadu",
+        "Assam"
       ],
       "correctAnswer": "Assam",
       "explanation": "Assam is India's largest tea producer, accounting for over 50% of total production. West Bengal (Darjeeling) is second. Kerala produces but is not the largest. Tamil Nadu contributes less than Assam."
@@ -344,23 +344,23 @@
     {
       "id": "27",
       "subject": "E",
-      "questionText": "Which of the following are functions of an operating system?\n\n(i) Memory management\n(ii) File management\n(iii) Process management\n(iv) Writing application programs\n\nSelect the correct combination:",
+      "questionText": "Which of the following are functions of an operating system?\n\n(i) Memory management\n(ii) Writing application programs\n(iii) File management\n(iv) Process management\n\nSelect the correct combination:",
       "options": [
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Memory management (i), File management (ii), and Process management (iii) are core OS functions. Writing application programs (iv) is done by programmers/developers, not by the operating system."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Memory management (i), File management (iii), and Process management (iv) are core OS functions. Writing application programs (ii) is done by programmers/developers, not by the operating system."
     },
     {
       "id": "28",
       "subject": "C",
       "questionText": "The Baglihar Dam is located on which river in J&K?",
       "options": [
-        "Jhelum",
         "Chenab",
+        "Jhelum",
         "Indus",
         "Tawi"
       ],
@@ -398,8 +398,8 @@
       "subject": "B",
       "questionText": "Match the following awards with their fields:\n\nColumn I:\n(a) Bharat Ratna\n(b) Padma Shri\n(c) Arjuna Award\n(d) Sahitya Akademi Award\n\nColumn II:\n(i) Sports\n(ii) Literature\n(iii) Highest civilian honour\n(iv) Distinguished service in any field\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
@@ -412,8 +412,8 @@
       "questionText": "Convert the fraction 7/8 into a decimal:",
       "options": [
         "0.825",
-        "0.850",
         "0.875",
+        "0.850",
         "0.900"
       ],
       "correctAnswer": "0.875",
@@ -422,24 +422,24 @@
     {
       "id": "33",
       "subject": "A",
-      "questionText": "Change to passive voice: 'The police have arrested the suspect.'",
+      "questionText": "Choose the correct verb form: The police __________ the suspect an hour ago.",
       "options": [
-        "The suspect has been arrested by the police.",
-        "The suspect was arrested by the police.",
-        "The suspect is being arrested by the police.",
-        "The suspect had been arrested by the police."
+        "have arrested",
+        "has arrested",
+        "arrested",
+        "had arrested"
       ],
-      "correctAnswer": "The suspect has been arrested by the police.",
-      "explanation": "Active is present perfect ('have arrested'). Passive of present perfect: has/have been + V3. Since 'suspect' is singular: 'has been arrested'. Option 2 is simple past passive. Option 3 is present continuous passive. Option 4 is past perfect passive."
+      "correctAnswer": "arrested",
+      "explanation": "'An hour ago' is a definite past time, and a definite past time requires the simple past, so 'arrested' is correct. 'Have arrested' is wrong because the present perfect cannot be used with a stated past time such as 'an hour ago'. 'Has arrested' is wrong for the same reason and also because 'police' takes a plural verb. 'Had arrested' is wrong because the past perfect needs a second, later past event to be earlier than."
     },
     {
       "id": "34",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) Fundamental Rights are enshrined in Part III of the Constitution.\n(ii) Directive Principles of State Policy are in Part IV.\n(iii) The Right to Property is still a Fundamental Right.\n(iv) The Constitution originally had 395 Articles.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -464,9 +464,9 @@
       "questionText": "The following data shows marks of students in a test:\n\nA → 75\nB → 82\nC → 68\nD → 91\nE → 64\n\nWhat is the average marks of all students?",
       "options": [
         "74",
-        "76",
         "78",
-        "80"
+        "80",
+        "76"
       ],
       "correctAnswer": "76",
       "explanation": "Average = (75+82+68+91+64)/5 = 380/5 = 76. Option 74 sums incorrectly. Option 78 adds 10 extra. Option 80 uses wrong total."
@@ -478,8 +478,8 @@
       "options": [
         "6",
         "7",
-        "8",
-        "9"
+        "9",
+        "8"
       ],
       "correctAnswer": "8",
       "explanation": "The Tropic of Cancer (23.5°N) passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. 6 and 7 undercount. 9 overcounts."
@@ -489,10 +489,10 @@
       "subject": "A",
       "questionText": "Which of the following sentences contains no grammatical error?\n\n(i) Each of the students has submitted their assignment.\n(ii) The news are very disturbing today.\n(iii) He is one of those students who always come late.\n(iv) The committee has taken its decision.\n\nSelect the correct combination:",
       "options": [
-        "(iii) and (iv) only",
         "(i) and (iii) only",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(iii) and (iv) only"
       ],
       "correctAnswer": "(iii) and (iv) only",
       "explanation": "(iii) is correct — 'who' refers to plural 'students', so 'come' (plural) is right. (iv) is correct — 'committee' (singular) + 'has' + 'its' is consistent. (i) is wrong — 'Each' is singular requiring 'his/her', not 'their' in strict grammar. (ii) is wrong — 'news' is uncountable and takes 'is', not 'are'."
@@ -502,8 +502,8 @@
       "subject": "D",
       "questionText": "Fill in the blank: If the sum of a number and its reciprocal is 2, the number is __________.",
       "options": [
-        "0",
         "1",
+        "0",
         "2",
         "3"
       ],
@@ -513,15 +513,15 @@
     {
       "id": "40",
       "subject": "C",
-      "questionText": "Consider the following statements about J&K's economy:\n\n(i) Apple is the most important horticultural crop of J&K.\n(ii) The Chenab basin holds the largest hydroelectric potential in J&K.\n(iii) Saffron is grown primarily in the Karewa soils of Pampore.\n(iv) J&K has no restrictions on building hydroelectric projects on its rivers.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about J&K's economy:\n\n(i) J&K has no restrictions on building hydroelectric projects on its rivers.\n(ii) Apple is the most important horticultural crop of J&K.\n(iii) The Chenab basin holds the largest hydroelectric potential in J&K.\n(iv) Saffron is grown primarily in the Karewa soils of Pampore.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — apple is J&K's most valuable horticultural product. (ii) is correct — Chenab basin holds ~11,000 MW of ~20,000 MW total potential. (iii) is correct — Pampore's Karewa soils are ideal for saffron. (iv) is wrong — the Indus Waters Treaty restricts India's ability to build large storage dams on western rivers (Jhelum, Chenab)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — apple is J&K's most valuable horticultural product. (iii) is correct — Chenab basin holds ~11,000 MW of ~20,000 MW total potential. (iv) is correct — Pampore's Karewa soils are ideal for saffron. (i) is wrong — the Indus Waters Treaty restricts India's ability to build large storage dams on western rivers (Jhelum, Chenab)."
     },
     {
       "id": "41",
@@ -541,39 +541,39 @@
       "subject": "E",
       "questionText": "Match the following computer terms with their meanings:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) CPU\n(d) SSD\n\nColumn II:\n(i) Non-volatile memory with firmware\n(ii) Central processing unit of the computer\n(iii) Volatile temporary memory\n(iv) Solid-state storage device\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-      "explanation": "RAM is volatile temporary memory (iii). ROM is non-volatile memory storing firmware (i). CPU is the central processing unit (ii). SSD is a solid-state storage device (iv). Option 2 swaps RAM and ROM. Option 3 swaps ROM and SSD. Option 4 swaps RAM and SSD."
+      "explanation": "RAM is volatile temporary memory (iii). ROM is non-volatile memory storing firmware (i). CPU is the central processing unit (ii). SSD is a solid-state storage device (iv). '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' swaps RAM and ROM. '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' swaps ROM and SSD. '(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)' swaps RAM and SSD."
     },
     {
       "id": "43",
       "subject": "D",
-      "questionText": "Consider the following statements about decimal fractions:\n\n(i) 0.75 is equivalent to 3/4.\n(ii) 1/3 is a non-terminating recurring decimal (0.333...).\n(iii) 0.125 = 1/8.\n(iv) All fractions produce terminating decimals.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about decimal fractions:\n\n(i) 0.75 is equivalent to 3/4.\n(ii) All fractions produce terminating decimals.\n(iii) 1/3 is a non-terminating recurring decimal (0.333...).\n(iv) 0.125 = 1/8.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — 3÷4=0.75. (ii) is correct — 1÷3=0.333... (recurring). (iii) is correct — 1÷8=0.125. (iv) is wrong — fractions whose denominators (in lowest terms) have prime factors other than 2 and 5 produce non-terminating decimals (e.g., 1/3, 1/7)."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — 3÷4=0.75. (iii) is correct — 1÷3=0.333... (recurring). (iv) is correct — 1÷8=0.125. (ii) is wrong — fractions whose denominators (in lowest terms) have prime factors other than 2 and 5 produce non-terminating decimals (e.g., 1/3, 1/7)."
     },
     {
       "id": "44",
       "subject": "A",
-      "questionText": "Change to passive voice: 'Someone must inform the principal immediately.'",
+      "questionText": "Choose the correct article: Someone must inform __________ principal immediately.",
       "options": [
-        "The principal must be informed immediately.",
-        "The principal must informed immediately.",
-        "The principal is being informed immediately.",
-        "The principal was informed immediately."
+        "a",
+        "the",
+        "an",
+        "no article"
       ],
-      "correctAnswer": "The principal must be informed immediately.",
-      "explanation": "With modals, passive = modal + be + V3. 'Must inform' → 'must be informed'. Agent 'someone' is omitted (indefinite). Option 2 omits 'be'. Option 3 uses present continuous passive. Option 4 uses simple past passive."
+      "correctAnswer": "the",
+      "explanation": "A unique office within a known institution takes the definite article, so 'the principal' is correct. 'A' is wrong because it would imply one principal among several. 'An' is wrong on the same ground and also mismatches the consonant sound at the start of 'principal'. Omitting the article is wrong because a singular countable noun requires one, unlike the special case of titles after 'appoint' or 'elect'."
     },
     {
       "id": "45",
@@ -581,8 +581,8 @@
       "questionText": "Which of the following is the largest wheat-producing state in India?",
       "options": [
         "Punjab",
-        "Uttar Pradesh",
         "Haryana",
+        "Uttar Pradesh",
         "Madhya Pradesh"
       ],
       "correctAnswer": "Uttar Pradesh",
@@ -607,8 +607,8 @@
       "questionText": "1 Gigabyte (GB) is equal to:",
       "options": [
         "1000 MB",
-        "1024 MB",
         "1000 KB",
+        "1024 MB",
         "1024 KB"
       ],
       "correctAnswer": "1024 MB",
@@ -617,15 +617,15 @@
     {
       "id": "48",
       "subject": "A",
-      "questionText": "Spot the error: 'Being a holiday, we decided to go on a picnic with our friends.'",
+      "questionText": "Identify the type of the underlined clause: 'We decided to go on a picnic BECAUSE IT WAS A HOLIDAY.'",
       "options": [
-        "Being a holiday",
-        "we decided to go",
-        "on a picnic",
-        "with our friends"
+        "Noun clause",
+        "Adjective clause",
+        "Main clause",
+        "Adverb clause of reason"
       ],
-      "correctAnswer": "Being a holiday",
-      "explanation": "'Being a holiday' is a dangling participle — 'we' cannot 'be a holiday'. The correct form is 'It being a holiday' or 'As it was a holiday'. 'We decided to go' is correct. 'On a picnic' is correct. 'With our friends' is correct."
+      "correctAnswer": "Adverb clause of reason",
+      "explanation": "The clause explains why the decision was taken and is introduced by 'because', which makes it an adverb clause of reason. It is not a noun clause because it fills neither a subject nor an object slot. It is not an adjective clause because it modifies the verb 'decided' rather than any noun. It is not the main clause, which is 'We decided to go on a picnic'."
     },
     {
       "id": "49",
@@ -633,9 +633,9 @@
       "questionText": "The following data shows investment details of three persons:\n\nA → 5000, 10, 2\nB → 8000, 5, 3\nC → 6000, 8, 2\n\nWho earns the highest simple interest?",
       "options": [
         "A",
-        "B",
         "C",
-        "A and B earn equal"
+        "A and B earn equal",
+        "B"
       ],
       "correctAnswer": "B",
       "explanation": "SI for A = 5000×10×2/100 = ₹1,000. SI for B = 8000×5×3/100 = ₹1,200. SI for C = 6000×8×2/100 = ₹960. B earns the highest (₹1,200). A earns ₹1,000 (second). C earns ₹960 (third)."
@@ -646,9 +646,9 @@
       "questionText": "Fill in the blank: The southwest monsoon in India generally arrives on the Kerala coast around __________.",
       "options": [
         "1st May",
-        "1st June",
         "1st July",
-        "1st August"
+        "1st August",
+        "1st June"
       ],
       "correctAnswer": "1st June",
       "explanation": "The southwest monsoon typically hits the Kerala coast around June 1st (± 7 days). May 1st is too early — only pre-monsoon activity occurs. July 1st is when it reaches most of north India. August 1st is well into the monsoon season."

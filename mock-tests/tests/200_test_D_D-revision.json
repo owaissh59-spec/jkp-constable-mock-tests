@@ -8,8 +8,8 @@
       "subject": "D",
       "questionText": "If 60% of a number is 240, what is 25% of the same number?",
       "options": [
-        "120",
         "100",
+        "120",
         "90",
         "110"
       ],
@@ -21,8 +21,8 @@
       "subject": "D",
       "questionText": "An article bought for ₹750 is sold for ₹900. What is the profit percent?",
       "options": [
-        "15%",
         "20%",
+        "15%",
         "25%",
         "18%"
       ],
@@ -32,15 +32,15 @@
     {
       "id": "3",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) The HCF of two distinct prime numbers is 1.\n(ii) The LCM of 6 and 8 is 24.\n(iii) The square of 13 is 169.\n(iv) The cube of 4 is 16.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) The HCF of two distinct prime numbers is 1.\n(ii) The cube of 4 is 16.\n(iii) The LCM of 6 and 8 is 24.\n(iv) The square of 13 is 169.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Two distinct primes have HCF 1, the LCM of 6 and 8 is 24, and 13² = 169, so (i), (ii) and (iii) are correct. Statement (iv) is false because the cube of 4 is 64, not 16 (16 is 4 squared); hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Two distinct primes have HCF 1, the LCM of 6 and 8 is 24, and 13² = 169, so (i), (iii) and (iv) are correct. Statement (ii) is false because the cube of 4 is 64, not 16 (16 is 4 squared); hence any option containing (ii) is incorrect."
     },
     {
       "id": "4",
@@ -53,7 +53,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: the example 1 + 3 + 5 = 9 = 3² illustrates exactly the rule that the sum of the first n odd numbers is n². Hence the first option. The second is wrong because R does support A, and the third and fourth wrongly deny a true statement."
+      "explanation": "Both are true and R explains A: the example 1 + 3 + 5 = 9 = 3² illustrates exactly the rule that the sum of the first n odd numbers is n². Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does support A, and the third and fourth wrongly deny a true statement."
     },
     {
       "id": "5",
@@ -61,9 +61,9 @@
       "questionText": "The average of 8, 12, x and 20 is 14. What is the value of x?",
       "options": [
         "20",
+        "16",
         "18",
-        "14",
-        "16"
+        "14"
       ],
       "correctAnswer": "16",
       "explanation": "The sum of the four numbers is 4 × 14 = 56. The three known numbers add up to 8 + 12 + 20 = 40, so x = 56 − 40 = 16. '18', '14' and '20' would make the total differ from 56, so those options are incorrect."
@@ -87,12 +87,12 @@
       "questionText": "Match the following fractions with their percentage values:\n\nColumn I:\n(a) 1/2\n(b) 1/4\n(c) 3/4\n(d) 1/5\n\nColumn II:\n(i) 25%\n(ii) 50%\n(iii) 20%\n(iv) 75%\n\nChoose the correct match:",
       "options": [
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "1/2 = 50%, 1/4 = 25%, 3/4 = 75%, and 1/5 = 20% — matching the first option. The second swaps 1/2 and 1/4, the third swaps 75% and 20%, and the fourth wrongly makes 1/2 equal to 75%, so those options are incorrect."
+      "explanation": "1/2 = 50%, 1/4 = 25%, 3/4 = 75%, and 1/5 = 20% — matching '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)'. The second swaps 1/2 and 1/4, the third swaps 75% and 20%, and the fourth wrongly makes 1/2 equal to 75%, so those options are incorrect."
     },
     {
       "id": "8",
@@ -101,8 +101,8 @@
       "options": [
         "₹1,080",
         "₹800",
-        "₹900",
-        "₹1,000"
+        "₹1,000",
+        "₹900"
       ],
       "correctAnswer": "₹1,000",
       "explanation": "The total number of parts is 4 + 5 = 9, so one part = 1,800 ÷ 9 = ₹200. B's share is 5 parts = 5 × 200 = ₹1,000. '₹800' is A's share (4 parts), and '₹900' and '₹1,080' do not match 5 parts, so those options are incorrect."
@@ -110,15 +110,15 @@
     {
       "id": "9",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) All squares are rectangles.\n(ii) All rectangles are squares.\n(iii) A square has four equal sides.\n(iv) A rectangle has four right angles.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) All squares are rectangles.\n(ii) A square has four equal sides.\n(iii) A rectangle has four right angles.\n(iv) All rectangles are squares.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "All squares are rectangles, a square has four equal sides, and a rectangle has four right angles, so (i), (iii) and (iv) are correct. Statement (ii) is false because not all rectangles are squares (only those with equal sides are); hence any option containing (ii) is incorrect."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "All squares are rectangles, a square has four equal sides, and a rectangle has four right angles, so (i), (ii) and (iii) are correct. Statement (iv) is false because not all rectangles are squares (only those with equal sides are); hence any option containing (iv) is incorrect."
     },
     {
       "id": "10",
@@ -126,8 +126,8 @@
       "questionText": "A bus travels 360 km in 5 hours. At the same speed, what distance will it cover in 8 hours?",
       "options": [
         "560 km",
-        "576 km",
         "540 km",
+        "576 km",
         "600 km"
       ],
       "correctAnswer": "576 km",
@@ -140,8 +140,8 @@
       "options": [
         "225",
         "220",
-        "230",
-        "235"
+        "235",
+        "230"
       ],
       "correctAnswer": "230",
       "explanation": "Adding the yearly figures: 50 + 60 + 45 + 75 = 230 crore. '220' and '225' fall short of the correct sum, and '235' exceeds it, so those options do not equal the actual total of 230 and are incorrect."
@@ -164,10 +164,10 @@
       "subject": "D",
       "questionText": "A can complete a piece of work in 16 days and B can complete the same work in 24 days. Working together, in how many days will they finish it?",
       "options": [
-        "9.6 days",
         "10 days",
         "8 days",
-        "12 days"
+        "12 days",
+        "9.6 days"
       ],
       "correctAnswer": "9.6 days",
       "explanation": "In one day, A does 1/16 and B does 1/24, so together they do 1/16 + 1/24 = 3/48 + 2/48 = 5/48 of the work. The time taken is 48 ÷ 5 = 9.6 days. '10', '8' and '12 days' do not match the combined rate of 5/48, so those options are incorrect."
@@ -183,15 +183,15 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: the divisibility rule for 9 works precisely because 9 divides any number whose digit sum is a multiple of 9, which is what R states. Hence the first option. The second is wrong because R does explain A, and the third and fourth wrongly deny a true statement."
+      "explanation": "Both are true and R explains A: the divisibility rule for 9 works precisely because 9 divides any number whose digit sum is a multiple of 9, which is what R states. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A, and the third and fourth wrongly deny a true statement."
     },
     {
       "id": "15",
       "subject": "D",
       "questionText": "Find the simple interest on ₹8,500 for 3 years at 4% per annum.",
       "options": [
-        "₹1,000",
         "₹1,020",
+        "₹1,000",
         "₹1,050",
         "₹960"
       ],
@@ -201,36 +201,36 @@
     {
       "id": "16",
       "subject": "D",
-      "questionText": "Which of the following numbers are perfect cubes?\n\n(i) 27\n(ii) 64\n(iii) 100\n(iv) 125\n\nSelect the correct combination:",
+      "questionText": "Which of the following numbers are perfect cubes?\n\n(i) 100\n(ii) 27\n(iii) 64\n(iv) 125\n\nSelect the correct combination:",
       "options": [
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "27 = 3³, 64 = 4³ and 125 = 5³ are all perfect cubes, so (i), (ii) and (iv) are correct. 100 is a perfect square (10²) but not a perfect cube, so (iii) is wrong; hence any option containing (iii) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "27 = 3³, 64 = 4³ and 125 = 5³ are all perfect cubes, so (ii), (iii) and (iv) are correct. 100 is a perfect square (10²) but not a perfect cube, so (i) is wrong; hence any option containing (i) is incorrect."
     },
     {
       "id": "17",
       "subject": "D",
-      "questionText": "Consider the following statements about three-digit numbers:\n\n(i) The smallest three-digit number is 100.\n(ii) The largest three-digit number is 999.\n(iii) There are 900 three-digit numbers in all.\n(iv) 1000 is a three-digit number.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about three-digit numbers:\n\n(i) The smallest three-digit number is 100.\n(ii) 1000 is a three-digit number.\n(iii) The largest three-digit number is 999.\n(iv) There are 900 three-digit numbers in all.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The smallest three-digit number is 100, the largest is 999, and there are 999 − 100 + 1 = 900 of them, so (i), (ii) and (iii) are correct. Statement (iv) is false because 1000 is a four-digit number; hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The smallest three-digit number is 100, the largest is 999, and there are 999 − 100 + 1 = 900 of them, so (i), (iii) and (iv) are correct. Statement (ii) is false because 1000 is a four-digit number; hence any option containing (ii) is incorrect."
     },
     {
       "id": "18",
       "subject": "D",
       "questionText": "If each letter is given a value equal to its position in the alphabet (A = 1, B = 2, ...) and the word 'SUN' has a value of 54, what is the value of the word 'MAP'?",
       "options": [
-        "30",
         "28",
+        "30",
         "32",
         "34"
       ],
@@ -248,7 +248,7 @@
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "A triangle has 3 sides, a quadrilateral 4, a pentagon 5, and a heptagon 7 — matching the first option. The second swaps triangle and quadrilateral, the third swaps pentagon and heptagon, and the fourth wrongly gives the triangle 7 sides, so those options are incorrect."
+      "explanation": "A triangle has 3 sides, a quadrilateral 4, a pentagon 5, and a heptagon 7 — matching '(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)'. The second swaps triangle and quadrilateral, the third swaps pentagon and heptagon, and the fourth wrongly gives the triangle 7 sides, so those options are incorrect."
     },
     {
       "id": "20",
@@ -256,8 +256,8 @@
       "questionText": "Starting from a point, a boy walks 12 km towards the north, then turns right and walks 5 km. How far is he from the starting point?",
       "options": [
         "7 km",
-        "17 km",
         "13 km",
+        "17 km",
         "13.5 km"
       ],
       "correctAnswer": "13 km",
@@ -270,8 +270,8 @@
       "options": [
         "₹700",
         "₹540",
-        "₹650",
-        "₹600"
+        "₹600",
+        "₹650"
       ],
       "correctAnswer": "₹600",
       "explanation": "Selling at a 10% loss gives 0.90 of the cost, and a 5% gain gives 1.05 of the cost. The difference is 1.05 − 0.90 = 0.15 of the cost, which equals ₹90, so cost = 90 ÷ 0.15 = ₹600. '₹540', '₹650' and '₹700' do not satisfy this relation, so those options are incorrect."
@@ -279,15 +279,15 @@
     {
       "id": "22",
       "subject": "D",
-      "questionText": "Consider the following statements about divisibility:\n\n(i) A number divisible by 12 is divisible by both 3 and 4.\n(ii) A number divisible by 15 is divisible by both 3 and 5.\n(iii) A number divisible by 8 is always divisible by 4.\n(iv) A number divisible by 4 is always divisible by 8.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about divisibility:\n\n(i) A number divisible by 12 is divisible by both 3 and 4.\n(ii) A number divisible by 15 is divisible by both 3 and 5.\n(iii) A number divisible by 4 is always divisible by 8.\n(iv) A number divisible by 8 is always divisible by 4.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Divisibility by 12 implies by 3 and 4, by 15 implies by 3 and 5, and by 8 implies by 4, so (i), (ii) and (iii) are correct. Statement (iv) is false because a number divisible by 4 need not be divisible by 8 (for example 12); hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Divisibility by 12 implies by 3 and 4, by 15 implies by 3 and 5, and by 8 implies by 4, so (i), (ii) and (iv) are correct. Statement (iii) is false because a number divisible by 4 need not be divisible by 8 (for example 12); hence any option containing (iii) is incorrect."
     },
     {
       "id": "23",
@@ -295,8 +295,8 @@
       "questionText": "The present age of a mother is three times the present age of her daughter. If the daughter is 12 years old, what is the age of the mother?",
       "options": [
         "30 years",
-        "36 years",
         "40 years",
+        "36 years",
         "32 years"
       ],
       "correctAnswer": "36 years",
@@ -309,8 +309,8 @@
       "options": [
         "13",
         "23",
-        "21",
-        "19"
+        "19",
+        "21"
       ],
       "correctAnswer": "21",
       "explanation": "By BODMAS, division and multiplication are done left to right: 36 ÷ 6 = 6, then 6 × 3 = 18. So 18 + 8 − 5 = 21. '23' and '19' come from a wrong order of operations, and '13' mishandles the multiplication, so those options are incorrect."
@@ -326,7 +326,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: because a rhombus has all sides equal, its diagonals bisect each other at right angles, a property that follows from the equal sides. Hence the first option. The second is wrong because R does explain A, and the third and fourth wrongly deny a true statement."
+      "explanation": "Both are true and R explains A: because a rhombus has all sides equal, its diagonals bisect each other at right angles, a property that follows from the equal sides. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A, and the third and fourth wrongly deny a true statement."
     },
     {
       "id": "26",
@@ -344,41 +344,41 @@
     {
       "id": "27",
       "subject": "D",
-      "questionText": "Which of the following numbers are multiples of 6?\n\n(i) 54\n(ii) 68\n(iii) 72\n(iv) 96\n\nSelect the correct combination:",
+      "questionText": "Which of the following numbers are multiples of 6?\n\n(i) 54\n(ii) 72\n(iii) 96\n(iv) 68\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "A multiple of 6 must be divisible by both 2 and 3. 54, 72 and 96 are all divisible by 6, so (i), (iii) and (iv) are correct. 68 is even but its digit sum (14) is not divisible by 3, so it is not a multiple of 6; hence any option containing (ii) is incorrect."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A multiple of 6 must be divisible by both 2 and 3. 54, 72 and 96 are all divisible by 6, so (i), (ii) and (iii) are correct. 68 is even but its digit sum (14) is not divisible by 3, so it is not a multiple of 6; hence any option containing (iv) is incorrect."
     },
     {
       "id": "28",
       "subject": "D",
       "questionText": "Match the following series with their next term:\n\nColumn I:\n(a) 1, 4, 9, 16, ...\n(b) 2, 4, 8, 16, ...\n(c) 1, 2, 3, 5, 8, ...\n(d) 10, 20, 30, 40, ...\n\nColumn II:\n(i) 50\n(ii) 25\n(iii) 32\n(iv) 13\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-      "explanation": "The squares give 25, the doubling series gives 32, the Fibonacci series gives 13, and the multiples of 10 give 50 — matching the first option. The second swaps 25 and 32, the third swaps 13 and 50, and the fourth wrongly gives the doubling series as 13, so those options are incorrect."
+      "explanation": "The squares give 25, the doubling series gives 32, the Fibonacci series gives 13, and the multiples of 10 give 50 — matching '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)'. The second swaps 25 and 32, the third swaps 13 and 50, and the fourth wrongly gives the doubling series as 13, so those options are incorrect."
     },
     {
       "id": "29",
       "subject": "D",
-      "questionText": "Consider the following statements about the order of operations (BODMAS):\n\n(i) Brackets are solved first.\n(ii) Division is done before addition.\n(iii) Multiplication is done before subtraction.\n(iv) Addition is always done before multiplication.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the order of operations (BODMAS):\n\n(i) Addition is always done before multiplication.\n(ii) Brackets are solved first.\n(iii) Division is done before addition.\n(iv) Multiplication is done before subtraction.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Under BODMAS, brackets come first, and division and multiplication are done before addition and subtraction, so (i), (ii) and (iii) are correct. Statement (iv) is false because multiplication is done before addition, not after; hence any option containing (iv) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Under BODMAS, brackets come first, and division and multiplication are done before addition and subtraction, so (ii), (iii) and (iv) are correct. Statement (i) is false because multiplication is done before addition, not after; hence any option containing (i) is incorrect."
     },
     {
       "id": "30",
@@ -386,9 +386,9 @@
       "questionText": "A number, when increased by 30%, becomes 260. What is the original number?",
       "options": [
         "210",
+        "200",
         "230",
-        "180",
-        "200"
+        "180"
       ],
       "correctAnswer": "200",
       "explanation": "If the number is x, then 1.30x = 260, so x = 260 ÷ 1.30 = 200. '230' comes from wrongly subtracting 30 from 260, '180' and '210' do not give 260 after a 30% increase, so those options are incorrect."
@@ -398,8 +398,8 @@
       "subject": "D",
       "questionText": "The number of books issued from a library on the five working days of a week was:\n\nMonday → 40\nTuesday → 55\nWednesday → 60\nThursday → 45\nFriday → 50\n\nWhat was the average number of books issued per day?",
       "options": [
-        "50",
         "48",
+        "50",
         "52",
         "45"
       ],
@@ -439,8 +439,8 @@
       "options": [
         "₹8,000",
         "₹7,000",
-        "₹6,400",
-        "₹7,200"
+        "₹7,200",
+        "₹6,400"
       ],
       "correctAnswer": "₹7,200",
       "explanation": "Each worker earns 4,500 ÷ 5 = ₹900 per day, so 8 workers earn 8 × 900 = ₹7,200. '₹7,000', '₹6,400' and '₹8,000' do not match ₹900 per worker for 8 workers, so those options are incorrect."
@@ -448,15 +448,15 @@
     {
       "id": "35",
       "subject": "D",
-      "questionText": "Consider the following statements about averages:\n\n(i) The average of the first 10 natural numbers is 5.5.\n(ii) The average of 2, 4, 6 and 8 is 5.\n(iii) The average of two numbers is their sum divided by 2.\n(iv) The average of a set is always its largest value.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about averages:\n\n(i) The average of the first 10 natural numbers is 5.5.\n(ii) The average of a set is always its largest value.\n(iii) The average of 2, 4, 6 and 8 is 5.\n(iv) The average of two numbers is their sum divided by 2.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The average of 1 to 10 is 5.5, the average of 2, 4, 6, 8 is 5, and the average of two numbers is their sum over 2, so (i), (ii) and (iii) are correct. Statement (iv) is false because the average is not the largest value but a central value; hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The average of 1 to 10 is 5.5, the average of 2, 4, 6, 8 is 5, and the average of two numbers is their sum over 2, so (i), (iii) and (iv) are correct. Statement (ii) is false because the average is not the largest value but a central value; hence any option containing (ii) is incorrect."
     },
     {
       "id": "36",
@@ -469,7 +469,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is correct but (R) is not correct",
-      "explanation": "A is correct: a leap year has 366 days. R is false because February has 29 days in a leap year, not 30. So the third option is right. The first and second wrongly accept R, and the fourth wrongly rejects A."
+      "explanation": "A is correct: a leap year has 366 days. R is false because February has 29 days in a leap year, not 30. So '(A) is correct but (R) is not correct' is right. The first and second wrongly accept R, and the fourth wrongly rejects A."
     },
     {
       "id": "37",
@@ -477,9 +477,9 @@
       "questionText": "A person walking at 5 km/h reaches the office in 36 minutes. What is the distance to the office?",
       "options": [
         "2.5 km",
-        "3 km",
         "4 km",
-        "3.5 km"
+        "3.5 km",
+        "3 km"
       ],
       "correctAnswer": "3 km",
       "explanation": "36 minutes is 36/60 = 0.6 hours, so distance = speed × time = 5 × 0.6 = 3 km. '2.5 km' would take 30 minutes, '4 km' would take 48 minutes, and '3.5 km' would take 42 minutes, so those options are incorrect."
@@ -491,8 +491,8 @@
       "options": [
         "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "121 = 11 × 11, 143 = 11 × 13 and 253 = 11 × 23 are all divisible by 11, so (i), (ii) and (iv) are correct. 150 is not divisible by 11 (11 × 13 = 143 and 11 × 14 = 154), so (iii) is wrong; hence any option containing (iii) is incorrect."
@@ -502,10 +502,10 @@
       "subject": "D",
       "questionText": "Pointing to a photograph, a man said, 'His mother is the only daughter of my mother.' How is the man related to the boy in the photograph?",
       "options": [
+        "Maternal uncle",
         "Grandfather",
         "Father",
-        "Brother",
-        "Maternal uncle"
+        "Brother"
       ],
       "correctAnswer": "Maternal uncle",
       "explanation": "The only daughter of the man's mother is the man's sister. Since the boy's mother is the man's sister, the man is the boy's maternal uncle. 'Father' and 'brother' place the man in the wrong relationship, and 'grandfather' is a generation too far, so those options are incorrect."
@@ -521,7 +521,7 @@
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-      "explanation": "Area is measured in square metres, volume in cubic metres, length in metres, and speed in metres per second — matching the first option. The second swaps area and volume, the third swaps length and speed, and the fourth wrongly gives area the unit metre, so those options are incorrect."
+      "explanation": "Area is measured in square metres, volume in cubic metres, length in metres, and speed in metres per second — matching '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)'. The second swaps area and volume, the third swaps length and speed, and the fourth wrongly gives area the unit metre, so those options are incorrect."
     },
     {
       "id": "41",
@@ -542,8 +542,8 @@
       "questionText": "Consider the following statements about solid and plane figures:\n\n(i) A circle has no vertices.\n(ii) A cube has six faces.\n(iii) A triangle has three vertices.\n(iv) A cuboid has eight faces.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -555,9 +555,9 @@
       "questionText": "In what ratio should water (which is free) be mixed with milk costing ₹40 per litre so that the mixture costs ₹32 per litre?",
       "options": [
         "1 : 3",
+        "1 : 4",
         "1 : 5",
-        "2 : 5",
-        "1 : 4"
+        "2 : 5"
       ],
       "correctAnswer": "1 : 4",
       "explanation": "By alligation, the ratio of water to milk is (40 − 32) : (32 − 0) = 8 : 32 = 1 : 4. So one part water is mixed with four parts milk. '1 : 5', '2 : 5' and '1 : 3' do not match this alligation result, so those options are incorrect."
@@ -567,9 +567,9 @@
       "subject": "D",
       "questionText": "The runs scored by four batsmen in a match were:\n\nP → 45\nQ → 72\nR → 38\nS → 85\n\nWhat was the average number of runs scored by the four batsmen?",
       "options": [
-        "60",
         "58",
         "62",
+        "60",
         "55"
       ],
       "correctAnswer": "60",
@@ -578,15 +578,15 @@
     {
       "id": "45",
       "subject": "D",
-      "questionText": "Which of the following are even numbers?\n\n(i) 128\n(ii) 253\n(iii) 470\n(iv) 616\n\nSelect the correct combination:",
+      "questionText": "Which of the following are even numbers?\n\n(i) 253\n(ii) 128\n(iii) 470\n(iv) 616\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "An even number ends in 0, 2, 4, 6 or 8. 128, 470 and 616 all end in even digits, so (i), (iii) and (iv) are correct. 253 ends in 3, an odd digit, so it is odd; hence any option containing (ii) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "An even number ends in 0, 2, 4, 6 or 8. 128, 470 and 616 all end in even digits, so (ii), (iii) and (iv) are correct. 253 ends in 3, an odd digit, so it is odd; hence any option containing (i) is incorrect."
     },
     {
       "id": "46",
@@ -599,7 +599,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is not correct but (R) is correct",
-      "explanation": "A is false because 2 is a prime number (it has exactly two factors, 1 and 2). R is true, as 2 is indeed the only even prime number. So the fourth option is right. The first and second wrongly accept A, and the third wrongly rejects R."
+      "explanation": "A is false because 2 is a prime number (it has exactly two factors, 1 and 2). R is true, as 2 is indeed the only even prime number. So '(A) is not correct but (R) is correct' is right. The first and second wrongly accept A, and the third wrongly rejects R."
     },
     {
       "id": "47",
@@ -630,15 +630,15 @@
     {
       "id": "49",
       "subject": "D",
-      "questionText": "Consider the following statements about fractions and decimals:\n\n(i) 2/3 is greater than 1/2.\n(ii) 3/5 is equal to 0.6.\n(iii) 7/10 is equal to 0.7.\n(iv) 1/8 is equal to 0.2.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about fractions and decimals:\n\n(i) 2/3 is greater than 1/2.\n(ii) 1/8 is equal to 0.2.\n(iii) 3/5 is equal to 0.6.\n(iv) 7/10 is equal to 0.7.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "2/3 (about 0.67) is greater than 1/2, 3/5 equals 0.6, and 7/10 equals 0.7, so (i), (ii) and (iii) are correct. Statement (iv) is false because 1/8 equals 0.125, not 0.2; hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "2/3 (about 0.67) is greater than 1/2, 3/5 equals 0.6, and 7/10 equals 0.7, so (i), (iii) and (iv) are correct. Statement (ii) is false because 1/8 equals 0.125, not 0.2; hence any option containing (ii) is incorrect."
     },
     {
       "id": "50",
@@ -646,12 +646,12 @@
       "questionText": "Match the following arithmetic expressions with their values:\n\nColumn I:\n(a) 8 + 9\n(b) 9 × 3\n(c) 20 − 6\n(d) 36 ÷ 4\n\nColumn II:\n(i) 27\n(ii) 17\n(iii) 9\n(iv) 14\n\nChoose the correct match:",
       "options": [
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "8 + 9 = 17, 9 × 3 = 27, 20 − 6 = 14, and 36 ÷ 4 = 9 — matching the first option. The second swaps 17 and 27, the third swaps 14 and 9, and the fourth wrongly gives 8 + 9 as 14, so those options are incorrect."
+      "explanation": "8 + 9 = 17, 9 × 3 = 27, 20 − 6 = 14, and 36 ÷ 4 = 9 — matching '(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)'. The second swaps 17 and 27, the third swaps 14 and 9, and the fourth wrongly gives 8 + 9 as 14, so those options are incorrect."
     }
   ]
 }

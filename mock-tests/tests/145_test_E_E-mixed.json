@@ -8,10 +8,10 @@
       "subject": "E",
       "questionText": "The brain of the computer is the:",
       "options": [
+        "CPU",
         "Hard disk",
         "RAM",
-        "Monitor",
-        "CPU"
+        "Monitor"
       ],
       "correctAnswer": "CPU",
       "explanation": "The CPU (Central Processing Unit) executes program instructions and is popularly called the brain of the computer. The hard disk is secondary storage, RAM is temporary memory, and the monitor is an output device, so none of them is the brain; the CPU is correct."
@@ -21,8 +21,8 @@
       "subject": "E",
       "questionText": "Consider the following statements about primary and secondary memory:\n\n(i) RAM is primary memory and is volatile.\n(ii) ROM is primary memory and is non-volatile.\n(iii) A hard disk is secondary memory.\n(iv) RAM retains data after the computer is switched off.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
@@ -34,10 +34,10 @@
       "subject": "E",
       "questionText": "MS Excel is used mainly for:",
       "options": [
+        "Working with spreadsheets and calculations",
         "Creating slides",
         "Writing letters",
-        "Editing photographs",
-        "Working with spreadsheets and calculations"
+        "Editing photographs"
       ],
       "correctAnswer": "Working with spreadsheets and calculations",
       "explanation": "MS Excel is a spreadsheet program used for tables, formulas, calculations and charts. Creating slides is done in PowerPoint, writing letters in Word, and photo editing in tools like Photoshop, so none of them describes Excel; spreadsheets and calculations is correct."
@@ -48,9 +48,9 @@
       "questionText": "Match the following abbreviations with their expansions:\n\nColumn I:\n(a) LAN\n(b) WAN\n(c) MAN\n(d) PAN\n\nColumn II:\n(i) Wide Area Network\n(ii) Metropolitan Area Network\n(iii) Local Area Network\n(iv) Personal Area Network\n\nChoose the correct match:",
       "options": [
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
       "explanation": "LAN is Local Area Network, WAN is Wide Area Network, MAN is Metropolitan Area Network, and PAN is Personal Area Network, giving (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv). The other options swap LAN with WAN or misplace MAN with PAN, which are technically wrong network scope terms."
@@ -61,8 +61,8 @@
       "questionText": "Which key is used to delete the character to the right of the cursor?",
       "options": [
         "Backspace",
-        "Enter",
         "Delete",
+        "Enter",
         "Shift"
       ],
       "correctAnswer": "Delete",
@@ -71,15 +71,15 @@
     {
       "id": "6",
       "subject": "E",
-      "questionText": "Which of the following are examples of application software?\n\n(i) MS PowerPoint\n(ii) MS Word\n(iii) Linux\n(iv) VLC Media Player\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of application software?\n\n(i) Linux\n(ii) MS PowerPoint\n(iii) MS Word\n(iv) VLC Media Player\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "MS PowerPoint, MS Word and VLC Media Player are all end-user applications, so (i), (ii) and (iv) are correct. Linux is an operating system (system software), not application software, so any option including Linux as application software is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "MS PowerPoint, MS Word and VLC Media Player are all end-user applications, so (ii), (iii) and (iv) are correct. Linux is an operating system (system software), not application software, so any option including Linux as application software is wrong."
     },
     {
       "id": "7",
@@ -88,8 +88,8 @@
       "options": [
         ".txt",
         ".xlsx",
-        ".pptx",
-        ".docx"
+        ".docx",
+        ".pptx"
       ],
       "correctAnswer": ".docx",
       "explanation": ".docx is the default extension for a Microsoft Word document from Office 2007 onwards. .xlsx is for Excel, .pptx is for PowerPoint, and .txt is a plain-text file, so none of them is a Word document extension; .docx is correct."
@@ -114,8 +114,8 @@
       "options": [
         "A processor",
         "Computer memory",
-        "A network cable",
-        "A digital image"
+        "A digital image",
+        "A network cable"
       ],
       "correctAnswer": "A digital image",
       "explanation": "A pixel is the smallest individual element that makes up a digital image on a screen. Memory is measured in bits and bytes, network cables have physical connectors, and processors are built from transistors, so none of them uses 'pixel' as a unit; a digital image is correct."
@@ -123,15 +123,15 @@
     {
       "id": "10",
       "subject": "E",
-      "questionText": "Consider the following statements about operating systems:\n\n(i) An OS manages hardware and software resources.\n(ii) Windows, macOS and Linux are examples of operating systems.\n(iii) Android is an OS for mobile devices.\n(iv) A word processor is an example of an operating system.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An OS manages hardware and software resources.\n(ii) A word processor is an example of an operating system.\n(iii) Windows, macOS and Linux are examples of operating systems.\n(iv) Android is an OS for mobile devices.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "An OS manages resources, Windows/macOS/Linux are operating systems, and Android is a mobile OS, so (i), (ii) and (iii) are true. Statement (iv) is false because a word processor is application software, not an operating system, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "An OS manages resources, Windows/macOS/Linux are operating systems, and Android is a mobile OS, so (i), (iii) and (iv) are true. Statement (ii) is false because a word processor is application software, not an operating system, so any option including (ii) is wrong."
     },
     {
       "id": "11",
@@ -139,9 +139,9 @@
       "questionText": "Which of the following is a search engine?",
       "options": [
         "Facebook",
-        "Google",
         "Gmail",
-        "WhatsApp"
+        "WhatsApp",
+        "Google"
       ],
       "correctAnswer": "Google",
       "explanation": "Google is a widely used web search engine. Facebook is a social networking site, Gmail is an email service, and WhatsApp is a messaging app, so none of them is primarily a general web search engine; Google is correct."
@@ -153,8 +153,8 @@
       "options": [
         "A",
         "B",
-        "C",
-        "D"
+        "D",
+        "C"
       ],
       "correctAnswer": "C",
       "explanation": "Laptop C at 1024 GB is the largest, ahead of B at 512 GB, A at 256 GB and D at 128 GB. B is the second largest, not the biggest, while A and D are smaller, so C has the maximum storage."
@@ -164,10 +164,10 @@
       "subject": "E",
       "questionText": "The two main types of software are system software and:",
       "options": [
-        "Application software",
         "Firmware",
         "Freeware",
-        "Shareware"
+        "Shareware",
+        "Application software"
       ],
       "correctAnswer": "Application software",
       "explanation": "The two main categories of computer software are system software (OS, utilities) and application software (end-user programs). Firmware, freeware and shareware are subtypes or licensing categories, not the second main type, so 'application software' is the correct broad category."
@@ -177,8 +177,8 @@
       "subject": "E",
       "questionText": "Match the following types of memory with their key features:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) Cache\n(d) Hard disk\n\nColumn II:\n(i) Non-volatile primary memory\n(ii) Volatile primary memory\n(iii) Secondary storage\n(iv) Very fast small memory near CPU\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
       ],
@@ -217,9 +217,9 @@
       "questionText": "Which of the following is NOT a web browser?",
       "options": [
         "Chrome",
+        "Excel",
         "Firefox",
-        "Edge",
-        "Excel"
+        "Edge"
       ],
       "correctAnswer": "Excel",
       "explanation": "Chrome, Firefox and Edge are all web browsers used to access the internet. Excel is a spreadsheet application in the Microsoft Office suite, not a browser, so Excel is the correct 'NOT a browser' choice among the four."
@@ -227,15 +227,15 @@
     {
       "id": "18",
       "subject": "E",
-      "questionText": "Consider the following statements about email:\n\n(i) 'CC' stands for Carbon Copy.\n(ii) 'BCC' stands for Blind Carbon Copy.\n(iii) An email address must include the '@' symbol.\n(iv) An email cannot contain any attachments.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about email:\n\n(i) 'CC' stands for Carbon Copy.\n(ii) 'BCC' stands for Blind Carbon Copy.\n(iii) An email cannot contain any attachments.\n(iv) An email address must include the '@' symbol.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "CC = Carbon Copy, BCC = Blind Carbon Copy, and email addresses use '@', so (i), (ii) and (iii) are true. Statement (iv) is false because emails routinely carry attachments like documents and images, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "CC = Carbon Copy, BCC = Blind Carbon Copy, and email addresses use '@', so (i), (ii) and (iv) are true. Statement (iii) is false because emails routinely carry attachments like documents and images, so any option including (iii) is wrong."
     },
     {
       "id": "19",
@@ -268,9 +268,9 @@
       "subject": "E",
       "questionText": "The main circuit board of a computer that connects all internal components is the:",
       "options": [
-        "Motherboard",
         "Sound card",
         "Graphics card",
+        "Motherboard",
         "Hard disk"
       ],
       "correctAnswer": "Motherboard",
@@ -294,9 +294,9 @@
       "subject": "E",
       "questionText": "In binary, the decimal number 8 is written as:",
       "options": [
-        "1000",
         "1001",
         "1010",
+        "1000",
         "1100"
       ],
       "correctAnswer": "1000",
@@ -308,9 +308,9 @@
       "questionText": "Match the following devices with their functions:\n\nColumn I:\n(a) Printer\n(b) Scanner\n(c) Speaker\n(d) Microphone\n\nColumn II:\n(i) Captures sound\n(ii) Digitises documents\n(iii) Produces printed output\n(iv) Produces audio output\n\nChoose the correct match:",
       "options": [
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
-        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
       "explanation": "A printer produces printed output, a scanner digitises documents, a speaker produces audio output, and a microphone captures sound, giving (a)-(iii), (b)-(ii), (c)-(iv), (d)-(i). The other options swap speaker with microphone or misplace scanner, which contradict their standard functions."
@@ -320,10 +320,10 @@
       "subject": "E",
       "questionText": "A collection of related data organised for easy retrieval is called a:",
       "options": [
-        "Database",
         "Spreadsheet",
         "Slide show",
-        "Document"
+        "Document",
+        "Database"
       ],
       "correctAnswer": "Database",
       "explanation": "A database is a structured collection of related data organised for easy retrieval and management. A spreadsheet organises data in cells, a slide show presents information, and a document contains text, so none of them fits the general definition; a database is correct."
@@ -331,24 +331,24 @@
     {
       "id": "26",
       "subject": "E",
-      "questionText": "Which of the following are examples of anti-virus software?\n\n(i) Norton\n(ii) McAfee\n(iii) Photoshop\n(iv) Quick Heal\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of anti-virus software?\n\n(i) Photoshop\n(ii) Norton\n(iii) McAfee\n(iv) Quick Heal\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Norton, McAfee and Quick Heal are all well-known antivirus programs, so (i), (ii) and (iv) are correct. Photoshop is an image-editing application, not antivirus software, so any option including Photoshop is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Norton, McAfee and Quick Heal are all well-known antivirus programs, so (ii), (iii) and (iv) are correct. Photoshop is an image-editing application, not antivirus software, so any option including Photoshop is wrong."
     },
     {
       "id": "27",
       "subject": "E",
       "questionText": "The physical parts of a computer that can be seen and touched are known as:",
       "options": [
+        "Hardware",
         "Software",
         "Firmware",
-        "Hardware",
         "Malware"
       ],
       "correctAnswer": "Hardware",
@@ -373,9 +373,9 @@
       "questionText": "A network topology in which all devices are connected to a central device (hub or switch) is called:",
       "options": [
         "Bus topology",
+        "Star topology",
         "Ring topology",
-        "Mesh topology",
-        "Star topology"
+        "Mesh topology"
       ],
       "correctAnswer": "Star topology",
       "explanation": "In a star topology all devices connect to a central hub or switch. A bus topology uses a single cable with drops, a ring topology forms a closed loop, and a mesh topology has multiple interconnections between devices, so none of them centralises around one hub; star topology is correct."
@@ -383,15 +383,15 @@
     {
       "id": "30",
       "subject": "E",
-      "questionText": "Consider the following statements about computer networks:\n\n(i) A LAN typically covers a small area like a single building.\n(ii) A WAN can span large geographical areas.\n(iii) The internet is the biggest example of a WAN.\n(iv) Wi-Fi is a type of wired network.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) A LAN typically covers a small area like a single building.\n(ii) Wi-Fi is a type of wired network.\n(iii) A WAN can span large geographical areas.\n(iv) The internet is the biggest example of a WAN.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A LAN covers a small area, a WAN can span large distances, and the internet is a global WAN, so (i), (ii) and (iii) are true. Statement (iv) is false because Wi-Fi is a wireless technology, not a wired one, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A LAN covers a small area, a WAN can span large distances, and the internet is a global WAN, so (i), (iii) and (iv) are true. Statement (ii) is false because Wi-Fi is a wireless technology, not a wired one, so any option including (ii) is wrong."
     },
     {
       "id": "31",
@@ -399,9 +399,9 @@
       "questionText": "The following table shows the internet speeds (in Mbps) of four connections:\n\nA — 25\nB — 100\nC — 50\nD — 200\n\nWhich connection has the fastest speed?",
       "options": [
         "A",
+        "D",
         "B",
-        "C",
-        "D"
+        "C"
       ],
       "correctAnswer": "D",
       "explanation": "Connection D at 200 Mbps has the highest speed, ahead of B at 100 Mbps, C at 50 Mbps and A at 25 Mbps. B is the second fastest, not the top, while A and C are lower, so D has the maximum speed."
@@ -411,9 +411,9 @@
       "subject": "E",
       "questionText": "The keyboard key that moves the cursor several spaces at once is:",
       "options": [
-        "Tab",
         "Enter",
         "Shift",
+        "Tab",
         "Backspace"
       ],
       "correctAnswer": "Tab",
@@ -426,8 +426,8 @@
       "options": [
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Java, Python and C are high-level languages that use human-readable syntax and require compilation or interpretation, so (i), (ii) and (iv) are correct. Machine code (binary) is a low-level language directly executed by the CPU, not high-level, so any option including it as high-level is wrong."
@@ -438,8 +438,8 @@
       "questionText": "The smallest unit of digital information is:",
       "options": [
         "Byte",
-        "Bit",
         "Nibble",
+        "Bit",
         "Word"
       ],
       "correctAnswer": "Bit",
@@ -452,8 +452,8 @@
       "options": [
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Files can be organised into folders, they usually have a name and extension, and deleted files can be sent to the Recycle Bin, so (i), (ii) and (iii) are true. Statement (iv) is false because the extension typically indicates the file type (e.g. .docx, .jpg), so any option including (iv) is wrong."
@@ -478,8 +478,8 @@
       "options": [
         "Bill Gates",
         "Steve Jobs",
-        "Tim Berners-Lee",
-        "Charles Babbage"
+        "Charles Babbage",
+        "Tim Berners-Lee"
       ],
       "correctAnswer": "Tim Berners-Lee",
       "explanation": "Tim Berners-Lee invented the World Wide Web in 1989–91 at CERN. Bill Gates co-founded Microsoft, Steve Jobs co-founded Apple, and Charles Babbage designed early mechanical computers, so none of them invented the WWW; Tim Berners-Lee is correct."
@@ -502,8 +502,8 @@
       "subject": "E",
       "questionText": "The shortcut key used to select all text in most applications is:",
       "options": [
-        "Ctrl + S",
         "Ctrl + A",
+        "Ctrl + S",
         "Ctrl + Z",
         "Ctrl + N"
       ],
@@ -515,9 +515,9 @@
       "subject": "E",
       "questionText": "Which of the following is an example of open-source software?",
       "options": [
+        "Linux",
         "Windows 11",
         "MS Office",
-        "Linux",
         "Adobe Photoshop"
       ],
       "correctAnswer": "Linux",
@@ -528,8 +528,8 @@
       "subject": "E",
       "questionText": "The process of starting up a computer and loading the operating system into memory is called:",
       "options": [
-        "Booting",
         "Formatting",
+        "Booting",
         "Compiling",
         "Executing"
       ],
@@ -539,28 +539,28 @@
     {
       "id": "42",
       "subject": "E",
-      "questionText": "Consider the following statements about the internet:\n\n(i) The internet is a network of networks.\n(ii) A URL uniquely identifies a resource on the web.\n(iii) The 'www' in a URL stands for World Wide Web.\n(iv) The internet has a single central server that controls everything.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the internet:\n\n(i) The internet has a single central server that controls everything.\n(ii) The internet is a network of networks.\n(iii) A URL uniquely identifies a resource on the web.\n(iv) The 'www' in a URL stands for World Wide Web.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The internet is a network of networks, URLs uniquely identify web resources, and 'www' stands for World Wide Web, so (i), (ii) and (iii) are true. Statement (iv) is false because the internet is decentralised with millions of servers, not a single one, so any option including (iv) is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The internet is a network of networks, URLs uniquely identify web resources, and 'www' stands for World Wide Web, so (ii), (iii) and (iv) are true. Statement (i) is false because the internet is decentralised with millions of servers, not a single one, so any option including (i) is wrong."
     },
     {
       "id": "43",
       "subject": "E",
-      "questionText": "Which of the following are cloud storage services?\n\n(i) Google Drive\n(ii) Dropbox\n(iii) OneDrive\n(iv) Notepad\n\nSelect the correct combination:",
+      "questionText": "Which of the following are cloud storage services?\n\n(i) Google Drive\n(ii) Notepad\n(iii) Dropbox\n(iv) OneDrive\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Google Drive, Dropbox and OneDrive all store files on remote servers accessed over the internet, so they are cloud storage services and (i), (ii) and (iii) are correct. Notepad is a local text editor, not a cloud storage service, so any option including Notepad is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Google Drive, Dropbox and OneDrive all store files on remote servers accessed over the internet, so they are cloud storage services and (i), (iii) and (iv) are correct. Notepad is a local text editor, not a cloud storage service, so any option including Notepad is wrong."
     },
     {
       "id": "44",
@@ -580,9 +580,9 @@
       "subject": "E",
       "questionText": "Fill in the blank: __________ is a widely used protocol for transferring web pages between a browser and a server.",
       "options": [
-        "HTTP",
         "SMTP",
         "FTP",
+        "HTTP",
         "IMAP"
       ],
       "correctAnswer": "HTTP",
@@ -593,9 +593,9 @@
       "subject": "E",
       "questionText": "The following table shows the number of computers in four offices:\n\nOffice A — 20\nOffice B — 45\nOffice C — 30\nOffice D — 25\n\nWhich office has the fewest computers?",
       "options": [
-        "A",
         "B",
         "C",
+        "A",
         "D"
       ],
       "correctAnswer": "A",
@@ -607,9 +607,9 @@
       "questionText": "The person credited as the 'father of the computer' for designing the Analytical Engine is:",
       "options": [
         "Alan Turing",
-        "Charles Babbage",
         "John von Neumann",
-        "Ada Lovelace"
+        "Ada Lovelace",
+        "Charles Babbage"
       ],
       "correctAnswer": "Charles Babbage",
       "explanation": "Charles Babbage is called the 'father of the computer' for designing the Analytical Engine in the 19th century. Alan Turing is a pioneer of theoretical computing, John von Neumann proposed the stored-program architecture, and Ada Lovelace wrote the first algorithm; none of them designed the Analytical Engine itself."
@@ -634,8 +634,8 @@
       "options": [
         "Save a file",
         "Open a file",
-        "Close the active window",
-        "Refresh the page"
+        "Refresh the page",
+        "Close the active window"
       ],
       "correctAnswer": "Close the active window",
       "explanation": "Alt + F4 closes the active window or application in Windows. Saving uses Ctrl + S, opening uses Ctrl + O, and refreshing typically uses F5, so those perform different tasks; only 'close the active window' correctly describes Alt + F4."
@@ -643,15 +643,15 @@
     {
       "id": "50",
       "subject": "E",
-      "questionText": "Consider the following statements about MS PowerPoint:\n\n(i) It is used for creating slide presentations.\n(ii) A presentation is a collection of slides.\n(iii) Slides can contain text, images and multimedia.\n(iv) MS PowerPoint is primarily used for editing spreadsheets.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about MS PowerPoint:\n\n(i) It is used for creating slide presentations.\n(ii) A presentation is a collection of slides.\n(iii) MS PowerPoint is primarily used for editing spreadsheets.\n(iv) Slides can contain text, images and multimedia.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "MS PowerPoint creates slide presentations, a presentation is a collection of slides, and slides can hold text, images and multimedia, so (i), (ii) and (iii) are true. Statement (iv) is false because spreadsheet editing is done in Excel, not PowerPoint, so any option with (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "MS PowerPoint creates slide presentations, a presentation is a collection of slides, and slides can hold text, images and multimedia, so (i), (ii) and (iv) are true. Statement (iii) is false because spreadsheet editing is done in Excel, not PowerPoint, so any option with (iii) is wrong."
     }
   ]
 }

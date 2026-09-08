@@ -8,9 +8,9 @@
       "subject": "B",
       "questionText": "The total number of continents in the world is:",
       "options": [
+        "7",
         "5",
         "6",
-        "7",
         "8"
       ],
       "correctAnswer": "7",
@@ -21,9 +21,9 @@
       "subject": "B",
       "questionText": "Which is the largest continent in the world by both area and population?",
       "options": [
+        "Asia",
         "Africa",
         "North America",
-        "Asia",
         "Europe"
       ],
       "correctAnswer": "Asia",
@@ -32,23 +32,23 @@
     {
       "id": "3",
       "subject": "B",
-      "questionText": "Consider the following statements about the physical divisions of India:\n\n(i) The Himalayas form the northern mountain boundary of India.\n(ii) The Indo-Gangetic Plain is formed by alluvial deposits of rivers like the Ganga, Yamuna, and Brahmaputra.\n(iii) The Deccan Plateau is a triangular plateau bounded by the Western and Eastern Ghats.\n(iv) The Thar Desert is located in eastern India.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the physical divisions of India:\n\n(i) The Himalayas form the northern mountain boundary of India.\n(ii) The Indo-Gangetic Plain is formed by alluvial deposits of rivers like the Ganga, Yamuna, and Brahmaputra.\n(iii) The Thar Desert is located in eastern India.\n(iv) The Deccan Plateau is a triangular plateau bounded by the Western and Eastern Ghats.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — the Himalayas stretch across India's northern frontier. (ii) is correct — the Indo-Gangetic Plain is one of the world's largest alluvial plains. (iii) is correct — the Deccan Plateau is a triangular tableland. (iv) is wrong — the Thar Desert is in WESTERN India (Rajasthan), not eastern India."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — the Himalayas stretch across India's northern frontier. (ii) is correct — the Indo-Gangetic Plain is one of the world's largest alluvial plains. (iv) is correct — the Deccan Plateau is a triangular tableland. (iii) is wrong — the Thar Desert is in WESTERN India (Rajasthan), not eastern India."
     },
     {
       "id": "4",
       "subject": "B",
       "questionText": "India is divided into how many states and Union Territories (as of 2024)?",
       "options": [
-        "28 States and 8 UTs",
         "29 States and 7 UTs",
+        "28 States and 8 UTs",
         "28 States and 9 UTs",
         "30 States and 6 UTs"
       ],
@@ -73,23 +73,23 @@
       "subject": "B",
       "questionText": "Match the following physical features of India with their locations:\n\nColumn I:\n(a) Western Ghats\n(b) Eastern Ghats\n(c) Indo-Gangetic Plain\n(d) Deccan Plateau\n\nColumn II:\n(i) Between the two Ghats in peninsular India\n(ii) Along the western coast from Gujarat to Kerala\n(iii) Northern India from Punjab to Assam\n(iv) Along the eastern coast — discontinuous\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-      "explanation": "Western Ghats run along the western coast (ii). Eastern Ghats are along the eastern coast and are discontinuous (iv). Indo-Gangetic Plain stretches across northern India (iii). Deccan Plateau lies between the two Ghats (i). Option 2 swaps Western and Eastern Ghats. Option 3 swaps Eastern Ghats and Indo-Gangetic Plain. Option 4 swaps Western Ghats and Deccan Plateau."
+      "explanation": "Western Ghats run along the western coast (ii). Eastern Ghats are along the eastern coast and are discontinuous (iv). Indo-Gangetic Plain stretches across northern India (iii). Deccan Plateau lies between the two Ghats (i). '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' swaps Western and Eastern Ghats. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' swaps Eastern Ghats and Indo-Gangetic Plain. '(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)' swaps Western Ghats and Deccan Plateau."
     },
     {
       "id": "7",
       "subject": "B",
       "questionText": "Which of the following countries share a land border with India?\n\n(i) Pakistan\n(ii) China\n(iii) Bangladesh\n(iv) Sri Lanka\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "India shares land borders with Pakistan (west), China (north), and Bangladesh (east), plus Nepal, Bhutan, and Myanmar. Sri Lanka (iv) is separated from India by the Palk Strait — it does NOT share a land border, only a maritime boundary."
@@ -101,8 +101,8 @@
       "options": [
         "Atlantic Ocean",
         "Indian Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correctAnswer": "Pacific Ocean",
       "explanation": "The Pacific Ocean is the largest, covering about 165.25 million km² (about one-third of Earth's surface). The Atlantic is the second largest. The Indian Ocean is third. The Arctic Ocean is the smallest of the major oceans."
@@ -110,15 +110,15 @@
     {
       "id": "9",
       "subject": "B",
-      "questionText": "Consider the following statements about the political divisions of the world:\n\n(i) There are approximately 195 recognised sovereign countries in the world.\n(ii) The United Nations has 193 member states.\n(iii) Africa has the most number of countries among all continents.\n(iv) Europe has only 5 countries.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the political divisions of the world:\n\n(i) Europe has only 5 countries.\n(ii) There are approximately 195 recognised sovereign countries in the world.\n(iii) The United Nations has 193 member states.\n(iv) Africa has the most number of countries among all continents.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — 195 sovereign states (193 UN members + 2 observers: Vatican City and Palestine). (ii) is correct — 193 member states in the UN. (iii) is correct — Africa has 54 countries, the most of any continent. (iv) is wrong — Europe has approximately 44-50 countries (depending on definitions), not just 5."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — 195 sovereign states (193 UN members + 2 observers: Vatican City and Palestine). (iii) is correct — 193 member states in the UN. (iv) is correct — Africa has 54 countries, the most of any continent. (i) is wrong — Europe has approximately 44-50 countries (depending on definitions), not just 5."
     },
     {
       "id": "10",
@@ -126,8 +126,8 @@
       "questionText": "The standard meridian of India (82°30'E) passes through which city?",
       "options": [
         "Delhi",
-        "Mumbai",
         "Mirzapur (Allahabad)",
+        "Mumbai",
         "Chennai"
       ],
       "correctAnswer": "Mirzapur (Allahabad)",
@@ -164,26 +164,26 @@
       "subject": "B",
       "questionText": "Match the following Indian states with their capitals:\n\nColumn I:\n(a) Madhya Pradesh\n(b) Karnataka\n(c) Assam\n(d) Rajasthan\n\nColumn II:\n(i) Jaipur\n(ii) Dispur\n(iii) Bhopal\n(iv) Bengaluru\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-      "explanation": "Madhya Pradesh's capital is Bhopal (iii). Karnataka's capital is Bengaluru (iv). Assam's capital is Dispur (ii). Rajasthan's capital is Jaipur (i). Option 2 swaps MP and Karnataka. Option 3 swaps Karnataka and Assam. Option 4 swaps MP and Rajasthan."
+      "explanation": "Madhya Pradesh's capital is Bhopal (iii). Karnataka's capital is Bengaluru (iv). Assam's capital is Dispur (ii). Rajasthan's capital is Jaipur (i). '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' swaps MP and Karnataka. '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' swaps Karnataka and Assam. '(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)' swaps MP and Rajasthan."
     },
     {
       "id": "14",
       "subject": "B",
-      "questionText": "Consider the following statements about the physical features of the world:\n\n(i) Mount Everest (8,848.86 m) is the highest peak in the world.\n(ii) The Mariana Trench in the Pacific Ocean is the deepest point on Earth.\n(iii) The Sahara is the largest hot desert in the world.\n(iv) The Amazon River is the longest river in the world.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the physical features of the world:\n\n(i) Mount Everest (8,848.86 m) is the highest peak in the world.\n(ii) The Amazon River is the longest river in the world.\n(iii) The Mariana Trench in the Pacific Ocean is the deepest point on Earth.\n(iv) The Sahara is the largest hot desert in the world.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — Everest at 8,848.86 m is the highest. (ii) is correct — Mariana Trench (~11,034 m deep) is the deepest oceanic point. (iii) is correct — Sahara (~9.2 million km²) is the largest hot desert. (iv) is wrong — the NILE is generally considered the longest river (~6,650 km); the Amazon is the second longest but has the largest volume/drainage basin."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — Everest at 8,848.86 m is the highest. (iii) is correct — Mariana Trench (~11,034 m deep) is the deepest oceanic point. (iv) is correct — Sahara (~9.2 million km²) is the largest hot desert. (ii) is wrong — the NILE is generally considered the longest river (~6,650 km); the Amazon is the second longest but has the largest volume/drainage basin."
     },
     {
       "id": "15",
@@ -192,8 +192,8 @@
       "options": [
         "Gujarat",
         "Madhya Pradesh",
-        "Karnataka",
-        "West Bengal"
+        "West Bengal",
+        "Karnataka"
       ],
       "correctAnswer": "Karnataka",
       "explanation": "The Tropic of Cancer (23.5°N) passes through Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram. Karnataka is in peninsular India, south of the Tropic of Cancer."
@@ -201,15 +201,15 @@
     {
       "id": "16",
       "subject": "B",
-      "questionText": "Consider the following statements about India's island territories:\n\n(i) The Andaman and Nicobar Islands are located in the Bay of Bengal.\n(ii) Lakshadweep is a group of coral islands in the Arabian Sea.\n(iii) The southernmost point of India (Indira Point) is in the Nicobar Islands.\n(iv) Both island territories are part of the Deccan Plateau.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about India's island territories:\n\n(i) The Andaman and Nicobar Islands are located in the Bay of Bengal.\n(ii) Lakshadweep is a group of coral islands in the Arabian Sea.\n(iii) Both island territories are part of the Deccan Plateau.\n(iv) The southernmost point of India (Indira Point) is in the Nicobar Islands.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — Andaman & Nicobar are in the Bay of Bengal. (ii) is correct — Lakshadweep consists of coral atolls in the Arabian Sea. (iii) is correct — Indira Point (Great Nicobar) is India's southernmost point. (iv) is wrong — the island territories are NOT part of the Deccan Plateau; they are oceanic islands formed by tectonic activity (Andaman) and coral formation (Lakshadweep)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — Andaman & Nicobar are in the Bay of Bengal. (ii) is correct — Lakshadweep consists of coral atolls in the Arabian Sea. (iv) is correct — Indira Point (Great Nicobar) is India's southernmost point. (iii) is wrong — the island territories are NOT part of the Deccan Plateau; they are oceanic islands formed by tectonic activity (Andaman) and coral formation (Lakshadweep)."
     },
     {
       "id": "17",
@@ -227,15 +227,15 @@
     {
       "id": "18",
       "subject": "B",
-      "questionText": "Which of the following are landlocked countries (no coastline)?\n\n(i) Nepal\n(ii) Bhutan\n(iii) Bangladesh\n(iv) Afghanistan\n\nSelect the correct combination:",
+      "questionText": "Which of the following are landlocked countries (no coastline)?\n\n(i) Nepal\n(ii) Bhutan\n(iii) Afghanistan\n(iv) Bangladesh\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Nepal (i), Bhutan (ii), and Afghanistan (iv) are all landlocked — they have no coastline or direct access to the sea. Bangladesh (iii) is NOT landlocked — it has a coastline along the Bay of Bengal (about 580 km)."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Nepal (i), Bhutan (ii), and Afghanistan (iii) are all landlocked — they have no coastline or direct access to the sea. Bangladesh (iv) is NOT landlocked — it has a coastline along the Bay of Bengal (about 580 km)."
     },
     {
       "id": "19",
@@ -243,8 +243,8 @@
       "questionText": "Fill in the blank: India's total area is approximately __________ million sq km, making it the 7th largest country in the world.",
       "options": [
         "2.2",
-        "2.8",
         "3.3",
+        "2.8",
         "4.0"
       ],
       "correctAnswer": "3.3",
@@ -256,9 +256,9 @@
       "questionText": "The six major physical divisions of India are:",
       "options": [
         "Northern Mountains, Northern Plains, Peninsular Plateau, Coastal Plains, Islands, and Desert",
+        "All options describe the same six divisions",
         "Northern Mountains, Northern Plains, Peninsular Plateau, Coastal Plains, Islands, and Thar Desert",
-        "Himalayas, Indo-Gangetic Plain, Peninsular Plateau, Coastal Plains, Islands, and Indian Desert",
-        "All options describe the same six divisions"
+        "Himalayas, Indo-Gangetic Plain, Peninsular Plateau, Coastal Plains, Islands, and Indian Desert"
       ],
       "correctAnswer": "All options describe the same six divisions",
       "explanation": "India's six major physiographic divisions are: (1) The Northern Mountains (Himalayas), (2) The Northern Plains (Indo-Gangetic Plain), (3) The Peninsular Plateau (Deccan), (4) The Coastal Plains, (5) The Islands, and (6) The Indian Desert (Thar). All three options list the same six divisions using different names — they are all correct descriptions."
@@ -266,24 +266,24 @@
     {
       "id": "21",
       "subject": "B",
-      "questionText": "Consider the following statements about the political map of the world:\n\n(i) Russia is the largest country in the world by area.\n(ii) Vatican City is the smallest country in the world.\n(iii) China has the largest population in the world.\n(iv) Canada is the second largest country by area.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the political map of the world:\n\n(i) China has the largest population in the world.\n(ii) Russia is the largest country in the world by area.\n(iii) Vatican City is the smallest country in the world.\n(iv) Canada is the second largest country by area.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — Russia (17.1 million km²) is the largest. (ii) is correct — Vatican City (0.44 km²) is the smallest. (iv) is correct — Canada (10 million km²) is second largest. (iii) is wrong — as of recent years, India has surpassed China as the world's most populous country."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — Russia, at about 17.1 million km², is the largest country by area. (iii) is correct — Vatican City, at about 0.44 km², is the smallest. (iv) is correct — Canada, at about 10 million km², is second largest by area. (i) is wrong — India overtook China as the world's most populous country in 2023, so China no longer holds that position. Every option that includes (i), including 'All of the above', is therefore incorrect."
     },
     {
       "id": "22",
       "subject": "B",
       "questionText": "Match the following Indian geographical features with their descriptions:\n\nColumn I:\n(a) K2 (Godwin-Austen)\n(b) Kanchenjunga\n(c) Nanda Devi\n(d) Anamudi\n\nColumn II:\n(i) Highest peak in South India (Western Ghats, Kerala)\n(ii) Highest peak in India (PoK)\n(iii) Third highest peak in the world (Sikkim border)\n(iv) Highest peak entirely within India (Uttarakhand)\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
@@ -294,10 +294,10 @@
       "subject": "B",
       "questionText": "India extends from approximately __________ in the north to __________ in the south (latitude).",
       "options": [
-        "8°N to 37°N",
         "10°N to 40°N",
         "5°N to 35°N",
-        "15°N to 45°N"
+        "15°N to 45°N",
+        "8°N to 37°N"
       ],
       "correctAnswer": "8°N to 37°N",
       "explanation": "India extends from about 8°4'N (Kanyakumari, mainland; 6°45'N including Indira Point) to 37°6'N (northernmost point in Ladakh). 10°N to 40°N is slightly off. 5°N is too far south. 15°N misses all of South India."
@@ -305,28 +305,28 @@
     {
       "id": "24",
       "subject": "B",
-      "questionText": "Which of the following are Union Territories of India?\n\n(i) Delhi\n(ii) Chandigarh\n(iii) Goa\n(iv) Puducherry\n\nSelect the correct combination:",
+      "questionText": "Which of the following are Union Territories of India?\n\n(i) Delhi\n(ii) Goa\n(iii) Chandigarh\n(iv) Puducherry\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
-        "All of the above"
+        "(i), (ii) and (iv)",
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Delhi (NCT), Chandigarh, and Puducherry are Union Territories. Goa (iii) is NOT a UT — it has been a full state since 1987 (became India's 25th state). The other UTs include Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, J&K, and Ladakh."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Delhi (NCT), Chandigarh, and Puducherry are Union Territories. Goa (ii) is NOT a UT — it has been a full state since 1987 (became India's 25th state). The other UTs include Andaman & Nicobar, Lakshadweep, Dadra & Nagar Haveli and Daman & Diu, J&K, and Ladakh."
     },
     {
       "id": "25",
       "subject": "B",
-      "questionText": "Consider the following statements about India's neighbours:\n\n(i) India shares its longest land border with Bangladesh.\n(ii) Pakistan borders India to the west and northwest.\n(iii) Myanmar borders India to the east.\n(iv) India shares borders with a total of 9 countries.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about India's neighbours:\n\n(i) India shares its longest land border with Bangladesh.\n(ii) Pakistan borders India to the west and northwest.\n(iii) India shares borders with a total of 9 countries.\n(iv) Myanmar borders India to the east.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — India-Bangladesh border (~4,096 km) is India's longest. (ii) is correct — Pakistan is to the west/northwest. (iii) is correct — Myanmar borders India's northeast. (iv) is wrong — India shares land borders with 7 countries (Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar, Afghanistan), not 9."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — India-Bangladesh border (~4,096 km) is India's longest. (ii) is correct — Pakistan is to the west/northwest. (iv) is correct — Myanmar borders India's northeast. (iii) is wrong — India shares land borders with 7 countries (Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar, Afghanistan), not 9."
     },
     {
       "id": "26",
@@ -334,8 +334,8 @@
       "questionText": "The largest state of India by area is:",
       "options": [
         "Uttar Pradesh",
-        "Madhya Pradesh",
         "Rajasthan",
+        "Madhya Pradesh",
         "Maharashtra"
       ],
       "correctAnswer": "Rajasthan",
@@ -346,13 +346,13 @@
       "subject": "B",
       "questionText": "Match the following world regions with their primary political groupings:\n\nColumn I:\n(a) European Union\n(b) ASEAN\n(c) SAARC\n(d) African Union\n\nColumn II:\n(i) South Asian countries\n(ii) Southeast Asian countries\n(iii) European countries\n(iv) African countries\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
-      "explanation": "EU is a grouping of European countries (iii). ASEAN groups Southeast Asian nations (ii). SAARC groups South Asian countries (i). African Union encompasses African nations (iv). Option 2 swaps EU and ASEAN. Option 3 swaps ASEAN and SAARC. Option 4 swaps EU and AU."
+      "explanation": "EU is a grouping of European countries (iii). ASEAN groups Southeast Asian nations (ii). SAARC groups South Asian countries (i). African Union encompasses African nations (iv). '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' swaps EU and ASEAN. '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' swaps ASEAN and SAARC. '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' swaps EU and AU."
     },
     {
       "id": "28",
@@ -372,9 +372,9 @@
       "subject": "B",
       "questionText": "The following data shows the length of India's borders with neighbouring countries:\n\nBangladesh → 4,096\nChina → 3,488\nPakistan → 3,323\nNepal → 1,751\nMyanmar → 1,643\n\nWhich two countries together account for more than 50% of India's total land border shown above?",
       "options": [
-        "Bangladesh and China",
         "Bangladesh and Pakistan",
         "China and Pakistan",
+        "Bangladesh and China",
         "Pakistan and Nepal"
       ],
       "correctAnswer": "Bangladesh and China",
@@ -385,10 +385,10 @@
       "subject": "B",
       "questionText": "Consider the following statements about the Peninsular Plateau of India:\n\n(i) It is one of the oldest landmasses on Earth, part of the ancient Gondwanaland.\n(ii) It is composed mainly of igneous and metamorphic rocks.\n(iii) The plateau is generally higher in the west and slopes eastward.\n(iv) The Western Ghats are lower in elevation than the Eastern Ghats.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — the Deccan Plateau is part of the ancient Gondwana supercontinent. (ii) is correct — it's composed of basalt (igneous from Deccan Traps), granite, and gneiss (metamorphic). (iii) is correct — the plateau tilts from west (higher, near Western Ghats) to east (lower, towards Eastern Ghats). (iv) is wrong — the Western Ghats are HIGHER (average 900-1600m, peak 2,695m at Anamudi) than the Eastern Ghats (average 600m)."

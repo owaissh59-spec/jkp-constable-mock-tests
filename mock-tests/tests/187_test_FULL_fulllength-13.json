@@ -8,9 +8,9 @@
       "subject": "A",
       "questionText": "Choose the correct option to complete the sentence: The committee has still not arrived ______ a decision on the matter.",
       "options": [
+        "at",
         "on",
         "to",
-        "at",
         "in"
       ],
       "correctAnswer": "at",
@@ -21,8 +21,8 @@
       "subject": "A",
       "questionText": "Choose the correct article: There is ______ university in our town that is famous for law.",
       "options": [
-        "an",
         "a",
+        "an",
         "the",
         "no article"
       ],
@@ -34,9 +34,9 @@
       "subject": "A",
       "questionText": "Fill in the blank with the correct word: The two friends confided ______ each other and shared all their secrets.",
       "options": [
+        "in",
         "on",
         "to",
-        "in",
         "with"
       ],
       "correctAnswer": "in",
@@ -47,10 +47,10 @@
       "subject": "A",
       "questionText": "Choose the word most nearly SIMILAR in meaning to 'TENACIOUS'.",
       "options": [
+        "Persistent",
         "Fragile",
         "Careless",
-        "Generous",
-        "Persistent"
+        "Generous"
       ],
       "correctAnswer": "Persistent",
       "explanation": "'Tenacious' means holding firmly to a purpose, so 'persistent' is the closest synonym. 'Fragile' means easily broken, the opposite of a firm grip. 'Careless' means lacking attention, and 'generous' means giving freely, neither of which relates to determined persistence."
@@ -59,8 +59,8 @@
       "subject": "A",
       "questionText": "Select the antonym of the word 'GENEROUS'.",
       "options": [
-        "Kind",
         "Stingy",
+        "Kind",
         "Liberal",
         "Charitable"
       ],
@@ -74,8 +74,8 @@
       "questionText": "Consider the following sentences:\n\n(i) The scenery here are very beautiful.\n(ii) He gave me an important information.\n(iii) The furniture in the office is new.\n(iv) She bought two dozen bananas.\n\nWhich of the sentences given above are grammatically correct?",
       "options": [
         "(i) and (ii) only",
-        "(i), (iii) and (iv)",
         "(iii) and (iv) only",
+        "(i), (iii) and (iv)",
         "(ii) and (iii) only"
       ],
       "correctAnswer": "(iii) and (iv) only",
@@ -86,9 +86,9 @@
       "questionText": "Choose the correct verb form: Unless you ______ immediately, you will miss the train.",
       "options": [
         "will leave",
+        "leave",
         "left",
-        "had left",
-        "leave"
+        "had left"
       ],
       "correctAnswer": "leave",
       "explanation": "'Unless' introduces a conditional clause that takes the simple present, so 'leave' is correct while the main clause uses 'will miss'. 'Will leave' wrongly puts the future in the conditional clause, 'left' is simple past, and 'had left' is past perfect, neither of which fits this first-conditional sentence.",
@@ -113,8 +113,8 @@
       "questionText": "Identify the type of the underlined clause: I will help you because you are my friend.",
       "options": [
         "Noun clause",
-        "Adjective clause",
         "Adverb clause of reason",
+        "Adjective clause",
         "Main clause"
       ],
       "correctAnswer": "Adverb clause of reason",
@@ -123,15 +123,15 @@
     {
       "id": "10",
       "subject": "A",
-      "questionText": "Which of the following are correctly formed plural nouns?\n\n(i) Leaves\n(ii) Sheeps\n(iii) Geese\n(iv) Children\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correctly formed plural nouns?\n\n(i) Leaves\n(ii) Geese\n(iii) Sheeps\n(iv) Children\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "'Leaves' (plural of leaf), 'geese' (plural of goose) and 'children' (plural of child) are all correct (i, iii, iv). 'Sheeps' (ii) is wrong because 'sheep' has the same form in singular and plural, so any option containing (ii) is incorrect."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Leaves' (plural of leaf), 'geese' (plural of goose) and 'children' (plural of child) are all correct (i, iii, iv). 'Sheeps' (iii) is wrong because 'sheep' has the same form in singular and plural, so any option containing (iii) is incorrect."
     },
     {
       "id": "11",
@@ -166,8 +166,8 @@
       "options": [
         "To achieve a great feat",
         "To climb with great effort",
-        "To hide an important fact",
-        "To exaggerate a minor problem"
+        "To exaggerate a minor problem",
+        "To hide an important fact"
       ],
       "correctAnswer": "To exaggerate a minor problem",
       "explanation": "'To make a mountain out of a molehill' means to treat a trivial issue as if it were serious, i.e. to exaggerate. It does not mean achieving a feat, nor literally climbing, nor hiding a fact, so those options miss the idiom's meaning of overstating a small problem."
@@ -177,9 +177,9 @@
       "subject": "A",
       "questionText": "Choose the correct option: Hardly had the train left the station ______ the passenger reached the platform.",
       "options": [
-        "when",
         "than",
         "then",
+        "when",
         "that"
       ],
       "correctAnswer": "when",
@@ -191,8 +191,8 @@
       "questionText": "Fill in the blank with the correct word: The scientist's discovery had a profound ______ on modern medicine.",
       "options": [
         "affect",
-        "effect",
         "effort",
+        "effect",
         "aspect"
       ],
       "correctAnswer": "effect",
@@ -218,8 +218,8 @@
       "options": [
         "(i), (ii) and (iii)",
         "(ii) and (iv) only",
-        "(i), (iii) and (iv)",
-        "(i) and (iii) only"
+        "(i) and (iii) only",
+        "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "'Mathematics' takes a singular verb (i), and a measured distance like 'ten kilometres' is treated as a single unit taking 'is' (iii). (ii) is wrong because 'news' is uncountable and takes 'is', not 'are'. (iv) is wrong because 'scissors' is a plural-only noun taking 'are', so only (i) and (iii) are correct."
@@ -229,13 +229,13 @@
       "subject": "A",
       "questionText": "Choose the correctly punctuated sentence.",
       "options": [
-        "\"Where are you going?\" she asked.",
         "Where are you going, she asked.",
         "\"Where are you going,\" she asked?",
+        "\"Where are you going?\" she asked.",
         "Where are you going? she asked."
       ],
       "correctAnswer": "\"Where are you going?\" she asked.",
-      "explanation": "Direct speech must be enclosed in quotation marks with the question mark inside, so the second option is correct. The first omits quotation marks, the third wrongly uses a comma inside the quote and misplaces the question mark, and the fourth omits quotation marks entirely, so only the second is correctly punctuated."
+      "explanation": "Direct speech must be enclosed in quotation marks with the question mark inside, so 'Where are you going, she asked.' is correct. The first omits quotation marks, the third wrongly uses a comma inside the quote and misplaces the question mark, and the fourth omits quotation marks entirely, so only the second is correctly punctuated."
     },
     {
       "id": "19",
@@ -243,9 +243,9 @@
       "questionText": "Choose the correct passive form of: 'The gardener waters the plants every morning.'",
       "options": [
         "The plants were watered by the gardener every morning.",
-        "The plants are watered by the gardener every morning.",
         "The plants have been watered by the gardener every morning.",
-        "The plants are being watered by the gardener every morning."
+        "The plants are being watered by the gardener every morning.",
+        "The plants are watered by the gardener every morning."
       ],
       "correctAnswer": "The plants are watered by the gardener every morning.",
       "explanation": "The active sentence is in the simple present, so its passive is 'are watered'. 'Were watered' is simple past, 'have been watered' is present perfect, and 'are being watered' is present continuous, none of which matches the simple present habitual action, so 'are watered' is correct."
@@ -253,15 +253,15 @@
     {
       "id": "20",
       "subject": "A",
-      "questionText": "Which of the following words are adverbs?\n\n(i) Quickly\n(ii) Happiness\n(iii) Carefully\n(iv) Silently\n\nSelect the correct combination:",
+      "questionText": "Which of the following words are adverbs?\n\n(i) Happiness\n(ii) Quickly\n(iii) Carefully\n(iv) Silently\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "'Quickly', 'carefully' and 'silently' describe how an action is done, so they are adverbs (i, iii, iv). 'Happiness' (ii) is an abstract noun naming a feeling, not an adverb, so any option containing (ii) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Quickly', 'carefully' and 'silently' describe how an action is done, so they are adverbs (i, iii, iv). 'Happiness' (i) is an abstract noun naming a feeling, not an adverb, so any option containing (i) is incorrect."
     },
     {
       "id": "21",
@@ -281,10 +281,10 @@
       "subject": "A",
       "questionText": "Match the words in Column I with the parts of speech in Column II as used generally:\n\nColumn I:\n(a) Beautiful\n(b) Run\n(c) Quickly\n(d) Under\n\nColumn II:\n(i) Verb\n(ii) Preposition\n(iii) Adjective\n(iv) Adverb\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
       "explanation": "'Beautiful' describes a noun, so it is an adjective (iii); 'run' is an action, a verb (i); 'quickly' describes how, an adverb (iv); 'under' shows position, a preposition (ii). The other options wrongly label 'beautiful' as a verb or swap 'quickly' and 'under', which misidentifies the parts of speech."
@@ -294,9 +294,9 @@
       "questionText": "Select the antonym of the word 'ANCIENT'.",
       "options": [
         "Old",
-        "Modern",
         "Antique",
-        "Aged"
+        "Aged",
+        "Modern"
       ],
       "correctAnswer": "Modern",
       "explanation": "'Ancient' means belonging to the very distant past, so its antonym is 'modern' (of the present or recent times). 'Old', 'antique' and 'aged' are similar in meaning to ancient rather than opposite, so 'modern' is the correct antonym.",
@@ -309,8 +309,8 @@
       "options": [
         "(i) and (iii) only",
         "(i), (ii) and (iv)",
-        "(ii) and (iv) only",
-        "(ii), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(ii) and (iv) only"
       ],
       "correctAnswer": "(ii) and (iv) only",
       "explanation": "'One of the best singers' (ii) and 'look forward to meeting' (iv) are correct. (i) is wrong because 'returned back' is redundant; 'returned home' suffices. (iii) is wrong because 'the reason ... is because' is redundant; it should be 'the reason ... is that', so only (ii) and (iv) are correct."
@@ -319,10 +319,10 @@
       "subject": "A",
       "questionText": "Choose the correct question tag: She rarely comes late to office, ______?",
       "options": [
+        "does she",
         "doesn't she",
         "is she",
-        "isn't she",
-        "does she"
+        "isn't she"
       ],
       "correctAnswer": "does she",
       "explanation": "The adverb 'rarely' gives the sentence a negative sense, so the tag must be positive: 'does she'. 'Doesn't she' wrongly adds a second negative, and 'is she'/'isn't she' use the wrong auxiliary (the verb is 'comes', needing 'do'), so 'does she' is the correct tag.",
@@ -343,15 +343,15 @@
     },
     {
       "subject": "B",
-      "questionText": "Consider the following statements about Indian geography:\n\n(i) The Thar Desert lies mainly in Rajasthan.\n(ii) The Nilgiri Hills are a part of the Himalayan range.\n(iii) The Ganga originates from the Gangotri glacier.\n(iv) The Andaman and Nicobar Islands lie in the Bay of Bengal.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Indian geography:\n\n(i) The Thar Desert lies mainly in Rajasthan.\n(ii) The Ganga originates from the Gangotri glacier.\n(iii) The Nilgiri Hills are a part of the Himalayan range.\n(iv) The Andaman and Nicobar Islands lie in the Bay of Bengal.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "The Thar Desert is mainly in Rajasthan (i), the Ganga rises from the Gangotri glacier (iii), and the Andaman and Nicobar Islands lie in the Bay of Bengal (iv). Statement (ii) is wrong because the Nilgiri Hills belong to the Western Ghats, not the Himalayas, so any option containing (ii) is incorrect.",
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Thar Desert is mainly in Rajasthan (i), the Ganga rises from the Gangotri glacier (ii), and the Andaman and Nicobar Islands lie in the Bay of Bengal (iv). Statement (iii) is wrong because the Nilgiri Hills belong to the Western Ghats, not the Himalayas, so any option containing (iii) is incorrect.",
       "id": "27"
     },
     {
@@ -371,9 +371,9 @@
       "subject": "B",
       "questionText": "Who was the first Indian to hold the office of Governor-General of India?",
       "options": [
+        "C. Rajagopalachari",
         "Rajendra Prasad",
         "Sardar Vallabhbhai Patel",
-        "C. Rajagopalachari",
         "Jawaharlal Nehru"
       ],
       "correctAnswer": "C. Rajagopalachari",
@@ -385,10 +385,10 @@
       "subject": "B",
       "questionText": "Which schedule of the Indian Constitution contains the languages officially recognised by the country?",
       "options": [
+        "Eighth Schedule",
         "Seventh Schedule",
         "Ninth Schedule",
-        "Sixth Schedule",
-        "Eighth Schedule"
+        "Sixth Schedule"
       ],
       "correctAnswer": "Eighth Schedule",
       "explanation": "The Eighth Schedule lists the officially recognised (scheduled) languages of India. The Seventh Schedule contains the division of powers between the Union and states, the Ninth Schedule protects certain laws from judicial review, and the Sixth Schedule deals with tribal areas, so the Eighth Schedule is correct."
@@ -396,15 +396,15 @@
     {
       "id": "31",
       "subject": "B",
-      "questionText": "Consider the following statements about India's space programme:\n\n(i) ISRO's headquarters is located in Bengaluru.\n(ii) Chandrayaan-1 was India's first lunar mission.\n(iii) The Mangalyaan mission was sent to Jupiter.\n(iv) Aryabhata was India's first satellite.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about India's space programme:\n\n(i) ISRO's headquarters is located in Bengaluru.\n(ii) Chandrayaan-1 was India's first lunar mission.\n(iii) Aryabhata was India's first satellite.\n(iv) The Mangalyaan mission was sent to Jupiter.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "ISRO is headquartered in Bengaluru (i), Chandrayaan-1 was India's first lunar mission (ii), and Aryabhata was India's first satellite (iv). Statement (iii) is wrong because the Mangalyaan (Mars Orbiter Mission) was sent to Mars, not Jupiter, so any option with (iii) is incorrect."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "ISRO is headquartered in Bengaluru (i), Chandrayaan-1 was India's first lunar mission (ii), and Aryabhata was India's first satellite (iii). Statement (iv) is wrong because the Mangalyaan (Mars Orbiter Mission) was sent to Mars, not Jupiter, so any option with (iv) is incorrect."
     },
     {
       "id": "32",
@@ -422,24 +422,24 @@
     {
       "id": "33",
       "subject": "B",
-      "questionText": "Which of the following are classified as Fundamental Rights under the Indian Constitution?\n\n(i) Right to Equality\n(ii) Right to Property\n(iii) Right against Exploitation\n(iv) Right to Freedom of Religion\n\nSelect the correct combination:",
+      "questionText": "Which of the following are classified as Fundamental Rights under the Indian Constitution?\n\n(i) Right to Property\n(ii) Right to Equality\n(iii) Right against Exploitation\n(iv) Right to Freedom of Religion\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
         "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "The Right to Equality (i), the Right against Exploitation (iii) and the Right to Freedom of Religion (iv) are Fundamental Rights. The Right to Property (ii) was removed as a Fundamental Right by the 44th Amendment and is now only a legal right, so any option containing (ii) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The Right to Equality (ii), the Right against Exploitation (iii) and the Right to Freedom of Religion (iv) are Fundamental Rights. The Right to Property (i) was removed as a Fundamental Right by the 44th Amendment and is now only a legal right, so any option containing (i) is incorrect."
     },
     {
       "subject": "B",
       "questionText": "Which gas is released by green plants into the atmosphere during photosynthesis?",
       "options": [
         "Carbon dioxide",
+        "Oxygen",
         "Nitrogen",
-        "Hydrogen",
-        "Oxygen"
+        "Hydrogen"
       ],
       "correctAnswer": "Oxygen",
       "explanation": "During photosynthesis, plants take in carbon dioxide and release oxygen as a by-product. Carbon dioxide is absorbed, not released, nitrogen is not involved in this reaction, and hydrogen is not released as a gas, so oxygen is the correct answer.",
@@ -450,8 +450,8 @@
       "subject": "B",
       "questionText": "Fill in the blank: The ______ Sagar Dam, built on the Sutlej river, is one of the highest gravity dams in India.",
       "options": [
-        "Bhakra",
         "Hirakud",
+        "Bhakra",
         "Tehri",
         "Nagarjuna"
       ],
@@ -487,23 +487,23 @@
     {
       "id": "38",
       "subject": "B",
-      "questionText": "Consider the following statements about Indian classical dance forms:\n\n(i) Bharatanatyam originated in Tamil Nadu.\n(ii) Kathakali is a dance form of Kerala.\n(iii) Odissi belongs to the state of Odisha.\n(iv) Kuchipudi originated in Punjab.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Indian classical dance forms:\n\n(i) Bharatanatyam originated in Tamil Nadu.\n(ii) Kuchipudi originated in Punjab.\n(iii) Kathakali is a dance form of Kerala.\n(iv) Odissi belongs to the state of Odisha.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Bharatanatyam is from Tamil Nadu (i), Kathakali from Kerala (ii), and Odissi from Odisha (iii). Statement (iv) is wrong because Kuchipudi originated in Andhra Pradesh, not Punjab, so any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Bharatanatyam is from Tamil Nadu (i), Kathakali from Kerala (iii), and Odissi from Odisha (iv). Statement (ii) is wrong because Kuchipudi originated in Andhra Pradesh, not Punjab, so any option containing (ii) is incorrect."
     },
     {
       "subject": "B",
       "questionText": "The 'Rupiah' is the official currency of which country?",
       "options": [
-        "Indonesia",
         "Malaysia",
         "Thailand",
+        "Indonesia",
         "Philippines"
       ],
       "correctAnswer": "Indonesia",
@@ -528,8 +528,8 @@
       "questionText": "Which of the following is the southernmost point of mainland India?",
       "options": [
         "Indira Point",
-        "Kanyakumari",
         "Rameswaram",
+        "Kanyakumari",
         "Kochi"
       ],
       "correctAnswer": "Kanyakumari",
@@ -556,8 +556,8 @@
       "options": [
         "Education",
         "Rural employment",
-        "Housing",
-        "Health insurance"
+        "Health insurance",
+        "Housing"
       ],
       "correctAnswer": "Health insurance",
       "explanation": "Ayushman Bharat (PM-JAY) provides health insurance cover for hospitalisation to eligible families. Education is served by schemes like Samagra Shiksha, rural employment by MGNREGA, and housing by PM Awas Yojana, so Ayushman Bharat belongs to the health sector."
@@ -567,10 +567,10 @@
       "subject": "B",
       "questionText": "Who among the following was the first woman President of India?",
       "options": [
-        "Pratibha Patil",
         "Sarojini Naidu",
         "Sonia Gandhi",
-        "Sushma Swaraj"
+        "Sushma Swaraj",
+        "Pratibha Patil"
       ],
       "correctAnswer": "Pratibha Patil",
       "explanation": "Pratibha Patil became the first woman President of India in 2007. Sarojini Naidu was the first woman Governor of an Indian state, while Sonia Gandhi and Sushma Swaraj were prominent politicians but never Presidents, so Pratibha Patil is correct."
@@ -581,9 +581,9 @@
       "questionText": "Consider the following statements about famous Indian personalities and their fields:\n\n(i) Homi J. Bhabha is called the father of India's nuclear programme.\n(ii) M. S. Swaminathan is associated with the Green Revolution.\n(iii) Verghese Kurien led the White Revolution.\n(iv) Vikram Sarabhai is known as the father of the Indian textile industry.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Homi Bhabha is the father of India's nuclear programme (i), M. S. Swaminathan is linked to the Green Revolution (ii), and Verghese Kurien led the White Revolution in milk (iii). Statement (iv) is wrong because Vikram Sarabhai is regarded as the father of the Indian space programme, not the textile industry, so (iv) is excluded."
@@ -595,8 +595,8 @@
       "options": [
         "Geneva",
         "New York",
-        "Washington D.C.",
-        "London"
+        "London",
+        "Washington D.C."
       ],
       "correctAnswer": "Washington D.C.",
       "explanation": "The IMF is headquartered in Washington D.C., USA, close to the World Bank. Geneva hosts bodies like the WHO, New York hosts the UN headquarters, and London is home to other institutions, so Washington D.C. is the correct location of the IMF."
@@ -618,10 +618,10 @@
       "subject": "B",
       "questionText": "Which is the most abundant metal found in the Earth's crust?",
       "options": [
-        "Aluminium",
         "Iron",
         "Copper",
-        "Calcium"
+        "Calcium",
+        "Aluminium"
       ],
       "correctAnswer": "Aluminium",
       "explanation": "Aluminium is the most abundant metal in the Earth's crust, followed by iron. Copper and calcium are present in smaller proportions, and though iron is the second most abundant metal, it is less than aluminium, so aluminium is the correct answer.",
@@ -646,9 +646,9 @@
       "questionText": "The 'Jnanpith Award' in India is given for excellence in the field of:",
       "options": [
         "Science",
-        "Literature",
         "Sports",
-        "Cinema"
+        "Cinema",
+        "Literature"
       ],
       "correctAnswer": "Literature",
       "explanation": "The Jnanpith Award is India's highest literary honour, given for outstanding contribution to literature. Science awards include the Shanti Swarup Bhatnagar Prize, sports honours include the Khel Ratna, and cinema is recognised by the Dadasaheb Phalke Award, so literature is the field for the Jnanpith Award."
@@ -658,9 +658,9 @@
       "subject": "C",
       "questionText": "The Dogra dynasty that ruled Jammu and Kashmir until 1947 was founded by which ruler?",
       "options": [
+        "Gulab Singh",
         "Ranjit Singh",
         "Hari Singh",
-        "Gulab Singh",
         "Pratap Singh"
       ],
       "correctAnswer": "Gulab Singh",
@@ -671,10 +671,10 @@
       "subject": "C",
       "questionText": "The Betaab Valley, a popular tourist spot named after a Hindi film, is located near which town?",
       "options": [
+        "Pahalgam",
         "Gulmarg",
         "Sonamarg",
-        "Kokernag",
-        "Pahalgam"
+        "Kokernag"
       ],
       "correctAnswer": "Pahalgam",
       "explanation": "The Betaab Valley lies near Pahalgam in the Anantnag district and was named after the film shot there. Gulmarg and Sonamarg are separate destinations, and Kokernag is known for its springs and gardens, so Pahalgam is the town near the Betaab Valley."
@@ -682,15 +682,15 @@
     {
       "id": "53",
       "subject": "C",
-      "questionText": "Consider the following statements about Jammu and Kashmir:\n\n(i) Kokernag is famous for its freshwater springs.\n(ii) Verinag is regarded as the source of the Jhelum river.\n(iii) Yusmarg is located in the Budgam district.\n(iv) The Dal Lake is located in the Jammu region.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Jammu and Kashmir:\n\n(i) The Dal Lake is located in the Jammu region.\n(ii) Kokernag is famous for its freshwater springs.\n(iii) Verinag is regarded as the source of the Jhelum river.\n(iv) Yusmarg is located in the Budgam district.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Kokernag is famous for its springs (i), Verinag is the source of the Jhelum (ii), and Yusmarg is in Budgam (iii). Statement (iv) is wrong because the Dal Lake is in Srinagar in the Kashmir valley, not in the Jammu region, so any option with (iv) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Kokernag is famous for its springs (ii), Verinag is the source of the Jhelum (iii), and Yusmarg is in Budgam (iv). Statement (i) is wrong because the Dal Lake is in Srinagar in the Kashmir valley, not in the Jammu region, so any option with (i) is incorrect."
     },
     {
       "id": "54",
@@ -710,8 +710,8 @@
       "subject": "C",
       "questionText": "The famous Tulip Garden, one of the largest in Asia, is situated at the foothills of which range near Srinagar?",
       "options": [
-        "Pir Panjal",
         "Zabarwan",
+        "Pir Panjal",
         "Karakoram",
         "Zanskar"
       ],
@@ -721,15 +721,15 @@
     {
       "id": "56",
       "subject": "C",
-      "questionText": "Which of the following are districts of the Jammu division?\n\n(i) Rajouri\n(ii) Poonch\n(iii) Kupwara\n(iv) Kathua\n\nSelect the correct combination:",
+      "questionText": "Which of the following are districts of the Jammu division?\n\n(i) Rajouri\n(ii) Kupwara\n(iii) Poonch\n(iv) Kathua\n\nSelect the correct combination:",
       "options": [
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Rajouri, Poonch and Kathua all lie in the Jammu division (i, ii, iv). Kupwara (iii) is a district of the Kashmir valley in the far north, so any option containing (iii) is incorrect, leaving (i), (ii) and (iv)."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Rajouri, Poonch and Kathua all lie in the Jammu division (i, ii, iv). Kupwara (ii) is a district of the Kashmir valley in the far north, so any option containing (ii) is incorrect, leaving (i), (iii) and (iv)."
     },
     {
       "id": "57",
@@ -737,9 +737,9 @@
       "questionText": "Fill in the blank: The __________ river is the largest river of Jammu and Kashmir by water volume and is dammed at several hydroelectric projects.",
       "options": [
         "Jhelum",
+        "Chenab",
         "Tawi",
-        "Ravi",
-        "Chenab"
+        "Ravi"
       ],
       "correctAnswer": "Chenab",
       "explanation": "The Chenab carries the largest volume of water among the region's rivers and hosts major projects like Baglihar, Salal and Dulhasti. The Jhelum drains the valley but carries less volume, the Tawi is a smaller Jammu river, and the Ravi flows along the southern border, so the Chenab is correct."
@@ -749,8 +749,8 @@
       "subject": "C",
       "questionText": "The Achabal and Kokernag gardens, laid out during the Mughal era, are located in which district of the Kashmir valley?",
       "options": [
-        "Anantnag",
         "Srinagar",
+        "Anantnag",
         "Baramulla",
         "Ganderbal"
       ],
@@ -776,8 +776,8 @@
       "questionText": "The Gurez Valley, known for its scenic beauty and the Habba Khatoon peak, lies in which district?",
       "options": [
         "Kupwara",
-        "Baramulla",
         "Bandipora",
+        "Baramulla",
         "Ganderbal"
       ],
       "correctAnswer": "Bandipora",
@@ -789,9 +789,9 @@
       "questionText": "A shopkeeper buys 12 pens for ₹100 and sells them at ₹10 each. What is his profit percentage?",
       "options": [
         "15%",
+        "20%",
         "25%",
-        "18%",
-        "20%"
+        "18%"
       ],
       "correctAnswer": "20%",
       "explanation": "Cost price of 12 pens = ₹100; selling price = 12 × 10 = ₹120. Profit = ₹20 on ₹100, i.e. 20%. 15%, 25% and 18% do not equal the ratio of ₹20 profit to ₹100 cost, so 20% is correct."
@@ -801,8 +801,8 @@
       "subject": "D",
       "questionText": "In a code, 'LIGHT' is written as 'MJHIU'. Using the same rule, how is 'SOUND' written?",
       "options": [
-        "TPVOE",
         "TPVOF",
+        "TPVOE",
         "TQVOE",
         "TPWOE"
       ],
@@ -815,8 +815,8 @@
       "questionText": "The average weight of 8 persons increases by 2.5 kg when a new person replaces one weighing 65 kg. What is the weight of the new person?",
       "options": [
         "80 kg",
-        "85 kg",
         "90 kg",
+        "85 kg",
         "75 kg"
       ],
       "correctAnswer": "85 kg",
@@ -855,8 +855,8 @@
       "options": [
         "7 km",
         "6 km",
-        "4 km",
-        "5 km"
+        "5 km",
+        "4 km"
       ],
       "correctAnswer": "5 km",
       "explanation": "Their paths are perpendicular, so the distance between them is √(4² + 3²) = √(16 + 9) = √25 = 5 km. 7 km simply adds the distances, while 6 km and 4 km do not satisfy the Pythagorean relation, so 5 km is correct."
@@ -865,9 +865,9 @@
       "subject": "D",
       "questionText": "Find the missing number in the series: 2, 3, 5, 9, 17, ______",
       "options": [
-        "33",
         "31",
         "34",
+        "33",
         "35"
       ],
       "correctAnswer": "33",
@@ -879,8 +879,8 @@
       "questionText": "A swimmer covers 20 km downstream in 2 hours and the same 20 km upstream in 5 hours. What is the speed of the stream (current)?",
       "options": [
         "2 km/h",
-        "3 km/h",
         "5 km/h",
+        "3 km/h",
         "4 km/h"
       ],
       "correctAnswer": "3 km/h",
@@ -918,10 +918,10 @@
       "subject": "D",
       "questionText": "Match the shapes in Column I with their number of sides in Column II:\n\nColumn I:\n(a) Pentagon\n(b) Octagon\n(c) Hexagon\n(d) Heptagon\n\nColumn II:\n(i) 8\n(ii) 5\n(iii) 7\n(iv) 6\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "A pentagon has 5 sides (ii), an octagon 8 (i), a hexagon 6 (iv) and a heptagon 7 (iii). The other options swap the octagon's and hexagon's sides or interchange the heptagon and hexagon, giving wrong side counts, so only the first mapping is correct."
@@ -931,9 +931,9 @@
       "questionText": "Through how many degrees does the minute hand of a clock move in 20 minutes?",
       "options": [
         "90°",
-        "120°",
         "60°",
-        "180°"
+        "180°",
+        "120°"
       ],
       "correctAnswer": "120°",
       "explanation": "The minute hand completes 360° in 60 minutes, i.e. 6° per minute. In 20 minutes it moves 20 × 6 = 120°. 90° would be 15 minutes, 60° would be 10 minutes, and 180° would be 30 minutes, so 120° is correct for 20 minutes.",
@@ -945,8 +945,8 @@
       "options": [
         "6",
         "8",
-        "4",
-        "2"
+        "2",
+        "4"
       ],
       "correctAnswer": "4",
       "explanation": "The two numbers with a sum of 20 and a product of 96 are 12 and 8, since 12 + 8 = 20 and 12 × 8 = 96. Their positive difference is 12 − 8 = 4. The values 6, 8 and 2 are not the difference of these numbers, so 4 is correct.",
@@ -970,10 +970,10 @@
       "subject": "D",
       "questionText": "A certain sum becomes ₹4,410 in 2 years at 5% per annum compound interest. What was the original sum?",
       "options": [
-        "₹4,000",
         "₹4,200",
         "₹3,800",
-        "₹4,100"
+        "₹4,100",
+        "₹4,000"
       ],
       "correctAnswer": "₹4,000",
       "explanation": "Amount = P × (1.05)² = 1.1025P = 4,410, so P = 4,410/1.1025 = ₹4,000. ₹4,200 would grow to ₹4,630.50, ₹3,800 to ₹4,187.25 and ₹4,100 to ₹4,520.25, none of which is ₹4,410, so ₹4,000 is correct."
@@ -983,8 +983,8 @@
       "subject": "D",
       "questionText": "Which letter-cluster should replace the question mark? AB, DE, GH, JK, ?",
       "options": [
-        "LM",
         "MN",
+        "LM",
         "MO",
         "NO"
       ],
@@ -1009,9 +1009,9 @@
       "subject": "D",
       "questionText": "The length and breadth of a rectangle are in the ratio 3:2, and its perimeter is 50 cm. What is its area?",
       "options": [
+        "150 sq cm",
         "120 sq cm",
         "180 sq cm",
-        "150 sq cm",
         "100 sq cm"
       ],
       "correctAnswer": "150 sq cm",
@@ -1022,10 +1022,10 @@
       "subject": "D",
       "questionText": "In a certain group of people, all who play chess also play carrom, and some who play carrom also play cards. Which conclusion definitely follows?",
       "options": [
+        "All chess players play carrom",
         "All carrom players play chess",
         "All card players play chess",
-        "No chess player plays cards",
-        "All chess players play carrom"
+        "No chess player plays cards"
       ],
       "correctAnswer": "All chess players play carrom",
       "explanation": "The first premise directly states that everyone who plays chess also plays carrom, so 'all chess players play carrom' definitely follows. 'All carrom players play chess' reverses the statement, 'all card players play chess' is not supported, and 'no chess player plays cards' is not stated, so only the first conclusion follows."
@@ -1046,23 +1046,23 @@
     {
       "id": "81",
       "subject": "D",
-      "questionText": "Consider the following statements about the data set: 6, 9, 9, 12, 14.\n\n(i) The mean is 10.\n(ii) The mode is 9.\n(iii) The median is 9.\n(iv) The range is 6.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the data set: 6, 9, 9, 12, 14.\n\n(i) The range is 6.\n(ii) The mean is 10.\n(iii) The mode is 9.\n(iv) The median is 9.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Mean = (6+9+9+12+14)/5 = 50/5 = 10 (i); mode = 9 (ii); median (middle value) = 9 (iii). Statement (iv) is wrong because the range = 14 − 6 = 8, not 6, so any option containing (iv) is incorrect, leaving (i), (ii) and (iii)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Mean = (6+9+9+12+14)/5 = 50/5 = 10 (ii); mode = 9 (iii); median (middle value) = 9 (iv). Statement (i) is wrong because the range = 14 − 6 = 8, not 6, so any option containing (i) is incorrect, leaving (ii), (iii) and (iv)."
     },
     {
       "subject": "D",
       "questionText": "A person saves 30% of his monthly salary. If he spends ₹14,000 in a month, what is his monthly salary?",
       "options": [
         "₹18,000",
-        "₹22,000",
         "₹20,000",
+        "₹22,000",
         "₹24,000"
       ],
       "correctAnswer": "₹20,000",
@@ -1074,9 +1074,9 @@
       "questionText": "Fill in the blank in the number series: 100, 50, 25, 12.5, __________",
       "options": [
         "5",
+        "6.25",
         "10",
-        "6",
-        "6.25"
+        "6"
       ],
       "correctAnswer": "6.25",
       "explanation": "Each term is exactly half of the previous one: 100/2 = 50, 50/2 = 25, 25/2 = 12.5, so the next term is 12.5/2 = 6.25. The values 5, 10 and 6 are not exactly half of 12.5, so they do not fit the halving pattern, leaving 6.25 as the correct next term.",
@@ -1087,8 +1087,8 @@
       "subject": "D",
       "questionText": "A dishonest trader claims to sell goods at cost price but uses a weight of 900 grams instead of 1 kilogram. What is his profit percentage?",
       "options": [
-        "About 11.1%",
         "10%",
+        "About 11.1%",
         "About 9.1%",
         "12.5%"
       ],
@@ -1114,8 +1114,8 @@
       "questionText": "Which part of the computer is often referred to as the 'brain' of the computer?",
       "options": [
         "Hard disk",
-        "Monitor",
         "CPU",
+        "Monitor",
         "RAM"
       ],
       "correctAnswer": "CPU",
@@ -1124,24 +1124,24 @@
     {
       "id": "87",
       "subject": "E",
-      "questionText": "Consider the following statements about computer networks:\n\n(i) LAN stands for Local Area Network.\n(ii) A modem converts digital signals to analog and vice versa.\n(iii) The Internet is an example of a WAN.\n(iv) A router is used only to print documents.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) LAN stands for Local Area Network.\n(ii) A router is used only to print documents.\n(iii) A modem converts digital signals to analog and vice versa.\n(iv) The Internet is an example of a WAN.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "LAN means Local Area Network (i), a modem modulates and demodulates signals (ii), and the Internet is a Wide Area Network (iii). Statement (iv) is wrong because a router forwards data between networks, not for printing, so any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "LAN means Local Area Network (i), a modem modulates and demodulates signals (iii), and the Internet is a Wide Area Network (iv). Statement (ii) is wrong because a router forwards data between networks, not for printing, so any option containing (ii) is incorrect."
     },
     {
       "id": "88",
       "subject": "E",
       "questionText": "In MS Word, which shortcut key is commonly used to make selected text bold?",
       "options": [
-        "Ctrl + B",
         "Ctrl + I",
         "Ctrl + U",
+        "Ctrl + B",
         "Ctrl + D"
       ],
       "correctAnswer": "Ctrl + B",
@@ -1152,8 +1152,8 @@
       "questionText": "Which of the following are examples of utility software?\n\n(i) Antivirus program\n(ii) Disk defragmenter\n(iii) MS Excel\n(iv) File compression tool\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -1193,8 +1193,8 @@
       "options": [
         "The user's password",
         "The message subject",
-        "The attachment name",
-        "The domain or mail server"
+        "The domain or mail server",
+        "The attachment name"
       ],
       "correctAnswer": "The domain or mail server",
       "explanation": "In an email address like name@example.com, the part after the '@' (example.com) identifies the domain or mail server that handles the account. It is not a password, subject line or attachment name, so the domain/mail server is the correct meaning."
@@ -1203,9 +1203,9 @@
       "subject": "E",
       "questionText": "Match the file extensions in Column I with the type of file in Column II:\n\nColumn I:\n(a) .mp3\n(b) .jpg\n(c) .exe\n(d) .txt\n\nColumn II:\n(i) Image file\n(ii) Executable program\n(iii) Plain text file\n(iv) Audio file\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
@@ -1217,8 +1217,8 @@
       "questionText": "Fill in the blank: The physical components of a computer that can be seen and touched are collectively called __________.",
       "options": [
         "software",
-        "hardware",
         "firmware",
+        "hardware",
         "malware"
       ],
       "correctAnswer": "hardware",
@@ -1232,8 +1232,8 @@
       "options": [
         "Kilobyte",
         "Megabyte",
-        "Terabyte",
-        "Gigabyte"
+        "Gigabyte",
+        "Terabyte"
       ],
       "correctAnswer": "Terabyte",
       "explanation": "In increasing order the units are kilobyte, megabyte, gigabyte and terabyte, so a terabyte is the largest of the four listed. A gigabyte is 1024 megabytes and a terabyte is 1024 gigabytes, making the terabyte the biggest, so it is correct."
@@ -1256,10 +1256,10 @@
       "subject": "E",
       "questionText": "Consider the following statements about software and files:\n\n(i) A PDF file can be read using a PDF reader.\n(ii) An antivirus program helps detect and remove malware.\n(iii) 'Save As' allows a file to be saved with a new name or format.\n(iv) The Recycle Bin permanently deletes files immediately.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "A PDF reader opens PDF files (i), antivirus software detects and removes malware (ii), and 'Save As' saves a file under a new name or format (iii). Statement (iv) is wrong because the Recycle Bin temporarily holds deleted files and allows recovery, so any option with (iv) is incorrect."
@@ -1270,9 +1270,9 @@
       "questionText": "In MS Excel, what will the formula =AVERAGE(2, 4, 6, 8) return?",
       "options": [
         "20",
-        "5",
         "8",
-        "4"
+        "4",
+        "5"
       ],
       "correctAnswer": "5",
       "explanation": "The AVERAGE function adds the values and divides by their count: (2 + 4 + 6 + 8)/4 = 20/4 = 5. 20 is the sum, not the average, 8 is the largest value, and 4 is one of the numbers, so 5 is the correct result."
@@ -1284,8 +1284,8 @@
       "options": [
         "Printer",
         "Speaker",
-        "Scanner",
-        "Monitor"
+        "Monitor",
+        "Scanner"
       ],
       "correctAnswer": "Scanner",
       "explanation": "A scanner reads printed documents or images and converts them into digital form, so it is an input device. A printer and a monitor produce output, and a speaker outputs sound, so none of them reads printed material into the computer, making the scanner correct."

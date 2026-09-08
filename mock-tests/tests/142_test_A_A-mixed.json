@@ -21,8 +21,8 @@
       "subject": "A",
       "questionText": "Consider the following statements about nouns:\n\n(i) 'Boy' is a common noun.\n(ii) 'Delhi' is a proper noun.\n(iii) 'Team' is a collective noun.\n(iv) 'Honesty' is a material noun.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
@@ -34,10 +34,10 @@
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'ERADICATE':",
       "options": [
+        "Eliminate",
         "Plant",
         "Preserve",
-        "Ignore",
-        "Eliminate"
+        "Ignore"
       ],
       "correctAnswer": "Eliminate",
       "explanation": "'Eradicate' means to completely destroy or root out, so 'eliminate' is the closest synonym. 'Plant' means to establish (the opposite), 'preserve' means to keep, and 'ignore' means to disregard, so none of them is a synonym and 'eliminate' correctly matches eradicate."
@@ -48,9 +48,9 @@
       "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) At the eleventh hour\n(b) In hot water\n(c) On cloud nine\n(d) Beat around the bush\n\nColumn II:\n(i) Extremely happy\n(ii) In trouble\n(iii) Avoid the main topic\n(iv) At the last moment\n\nChoose the correct match:",
       "options": [
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
-        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
       "explanation": "'At the eleventh hour' means at the last moment, 'in hot water' means in trouble, 'on cloud nine' means extremely happy, and 'beat around the bush' means to avoid the main topic, giving (a)-(iv), (b)-(ii), (c)-(i), (d)-(iii). The other options swap 'trouble' with 'happy' or misplace 'last moment', which are incorrect."
@@ -60,8 +60,8 @@
       "subject": "A",
       "questionText": "Choose the correct preposition: She has been suffering ______ malaria for a week.",
       "options": [
-        "from",
         "of",
+        "from",
         "with",
         "at"
       ],
@@ -71,15 +71,15 @@
     {
       "id": "6",
       "subject": "A",
-      "questionText": "Which of the following are helping verbs (auxiliaries)?\n\n(i) is\n(ii) have\n(iii) run\n(iv) will\n\nSelect the correct combination:",
+      "questionText": "Which of the following are helping verbs (auxiliaries)?\n\n(i) run\n(ii) is\n(iii) have\n(iv) will\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'Is', 'have' and 'will' are all auxiliary (helping) verbs used to form tenses, aspects and modality, so (i), (ii) and (iv) are correct. 'Run' is a main verb showing action, not an auxiliary, so any option including 'run' as a helping verb is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Is', 'have' and 'will' are all auxiliary (helping) verbs used to form tenses, aspects and modality, so (ii), (iii) and (iv) are correct. 'Run' is a main verb showing action, not an auxiliary, so any option including 'run' as a helping verb is wrong."
     },
     {
       "id": "7",
@@ -88,8 +88,8 @@
       "options": [
         "Willing",
         "Optional",
-        "Free",
-        "Compulsory"
+        "Compulsory",
+        "Free"
       ],
       "correctAnswer": "Compulsory",
       "explanation": "'Voluntary' means done out of one's free will, so its antonym is 'compulsory', meaning required by rule. 'Willing', 'optional' and 'free' are close in meaning to voluntary rather than opposite, so none of them is the antonym and 'compulsory' is correct."
@@ -112,9 +112,9 @@
       "subject": "A",
       "questionText": "Fill in the blank with the correct verb form: The sun ______ in the east every day.",
       "options": [
-        "rises",
         "rise",
         "is rising",
+        "rises",
         "has risen"
       ],
       "correctAnswer": "rises",
@@ -125,9 +125,9 @@
       "subject": "A",
       "questionText": "Choose the correct word: The soldiers refused to lay down their ______.",
       "options": [
-        "arms",
         "alms",
         "aims",
+        "arms",
         "hymns"
       ],
       "correctAnswer": "arms",
@@ -140,8 +140,8 @@
       "options": [
         "who",
         "which",
-        "whose",
-        "whom"
+        "whom",
+        "whose"
       ],
       "correctAnswer": "whose",
       "explanation": "'Whose' is the possessive relative pronoun for a person, so 'the boy whose book was lost' correctly shows possession. 'Who' is used as a subject, 'which' is used for things, and 'whom' is used as an object, none of which fits a possessive role here, so 'whose' is right."
@@ -149,24 +149,24 @@
     {
       "id": "12",
       "subject": "A",
-      "questionText": "Consider the following statements about degrees of comparison:\n\n(i) 'Good' becomes 'better' in the comparative degree.\n(ii) 'Bad' becomes 'worse' in the comparative degree.\n(iii) 'Little' becomes 'less' in the comparative degree.\n(iv) 'Many' becomes 'much' in the comparative degree.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about degrees of comparison:\n\n(i) 'Good' becomes 'better' in the comparative degree.\n(ii) 'Many' becomes 'much' in the comparative degree.\n(iii) 'Bad' becomes 'worse' in the comparative degree.\n(iv) 'Little' becomes 'less' in the comparative degree.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'Good→better', 'bad→worse' and 'little→less' are all standard irregular comparatives, so (i), (ii) and (iii) are true. Statement (iv) is false because the comparative of 'many' is 'more', not 'much' ('much' is the positive form for uncountable nouns), so any option including (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'Good→better', 'bad→worse' and 'little→less' are all standard irregular comparatives, so (i), (iii) and (iv) are true. Statement (ii) is false because the comparative of 'many' is 'more', not 'much' ('much' is the positive form for uncountable nouns), so any option including (ii) is wrong."
     },
     {
       "id": "13",
       "subject": "A",
       "questionText": "A person who talks too much is called a:",
       "options": [
+        "Loquacious person",
         "Coward",
         "Miser",
-        "Loquacious person",
         "Pessimist"
       ],
       "correctAnswer": "Loquacious person",
@@ -177,10 +177,10 @@
       "subject": "A",
       "questionText": "Match the following collective nouns with their groups:\n\nColumn I:\n(a) A pack of\n(b) A swarm of\n(c) A flock of\n(d) A herd of\n\nColumn II:\n(i) Cattle\n(ii) Sheep\n(iii) Wolves\n(iv) Bees\n\nChoose the correct match:",
       "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "A pack of wolves, a swarm of bees, a flock of sheep, and a herd of cattle are the standard collective phrases, giving (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i). The other options swap wolves with cattle or misplace bees and sheep, which do not match the traditional collective terms."
@@ -190,8 +190,8 @@
       "subject": "A",
       "questionText": "Choose the correct verb form: While I ______ dinner, the phone rang.",
       "options": [
-        "cook",
         "was cooking",
+        "cook",
         "have cooked",
         "will cook"
       ],
@@ -203,8 +203,8 @@
       "subject": "A",
       "questionText": "Which of the following words are antonyms of 'BRAVE'?\n\n(i) Cowardly\n(ii) Fearless\n(iii) Timid\n(iv) Courageous\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iii) only",
         "(ii) and (iv) only",
+        "(i) and (iii) only",
         "(i) and (ii) only",
         "(iii) and (iv) only"
       ],
@@ -217,8 +217,8 @@
       "questionText": "Choose the word opposite in meaning to 'FRESH':",
       "options": [
         "New",
-        "Recent",
         "Stale",
+        "Recent",
         "Bright"
       ],
       "correctAnswer": "Stale",
@@ -268,9 +268,9 @@
       "subject": "A",
       "questionText": "Choose the correct preposition: The child sat ______ his mother during the ceremony.",
       "options": [
-        "beside",
         "besides",
         "between",
+        "beside",
         "among"
       ],
       "correctAnswer": "beside",
@@ -279,15 +279,15 @@
     {
       "id": "22",
       "subject": "A",
-      "questionText": "Consider the following statements about narration/reported speech:\n\n(i) In reported speech, present tense often changes to past tense.\n(ii) 'Said to' usually changes to 'told' when reporting.\n(iii) Reporting a question requires the reporting verb 'asked'.\n(iv) The pronoun 'I' in direct speech never changes in reported speech.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about narration/reported speech:\n\n(i) The pronoun 'I' in direct speech never changes in reported speech.\n(ii) In reported speech, present tense often changes to past tense.\n(iii) 'Said to' usually changes to 'told' when reporting.\n(iv) Reporting a question requires the reporting verb 'asked'.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "In reported speech present usually becomes past, 'said to' shifts to 'told', and questions use 'asked', so (i), (ii) and (iii) are true. Statement (iv) is false because 'I' typically changes according to the reporter (often to 'he' or 'she'), so any option including (iv) is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "In reported speech present usually becomes past, 'said to' shifts to 'told', and questions use 'asked', so (ii), (iii) and (iv) are true. Statement (i) is false because 'I' typically changes according to the reporter (often to 'he' or 'she'), so any option including (i) is wrong."
     },
     {
       "id": "23",
@@ -296,8 +296,8 @@
       "options": [
         "Logical",
         "Reasonable",
-        "Ridiculous",
-        "Sensible"
+        "Sensible",
+        "Ridiculous"
       ],
       "correctAnswer": "Ridiculous",
       "explanation": "'Absurd' means wildly unreasonable or foolish, so 'ridiculous' is the closest synonym. 'Logical', 'reasonable' and 'sensible' all mean the opposite (making sense), so none of them is a synonym and 'ridiculous' is correct."
@@ -309,8 +309,8 @@
       "options": [
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "'Quickly' is an adverb, 'happiness' is a noun, 'beautiful' is an adjective, and 'under' is a preposition, giving (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i). The other options swap adverb with noun or misplace preposition with adjective, which contradict standard parts of speech."
@@ -320,13 +320,13 @@
       "subject": "A",
       "questionText": "Choose the correct passive form of: 'The boy broke the glass.'",
       "options": [
+        "The glass was broken by the boy.",
         "The glass is broken by the boy.",
         "The glass has been broken by the boy.",
-        "The glass was broken by the boy.",
         "The glass will be broken by the boy."
       ],
       "correctAnswer": "The glass was broken by the boy.",
-      "explanation": "The active is in simple past, so the passive uses 'was/were' + past participle: 'The glass was broken by the boy.' 'Is broken' is present, 'has been broken' is present perfect, and 'will be broken' is future, none of which keeps the simple past tense, so the third option is correct."
+      "explanation": "The active is in simple past, so the passive uses 'was/were' + past participle: 'The glass was broken by the boy.' 'Is broken' is present, 'has been broken' is present perfect, and 'will be broken' is future, none of which keeps the simple past tense, so 'The glass was broken by the boy.' is correct."
     },
     {
       "id": "26",
@@ -346,9 +346,9 @@
       "subject": "A",
       "questionText": "The idiom 'to pull one's leg' means:",
       "options": [
+        "To tease someone",
         "To injure someone",
         "To help someone",
-        "To tease someone",
         "To praise someone"
       ],
       "correctAnswer": "To tease someone",
@@ -391,7 +391,7 @@
         "Neither the students has completed the work."
       ],
       "correctAnswer": "Neither of the students has completed the work.",
-      "explanation": "'Neither' is singular and takes a singular verb, so 'has completed' is correct. Options with 'have' break subject-verb agreement, 'have completing' is not grammatical, and the last option omits 'of' before 'the students', which is required after 'neither', so only the second option is correct."
+      "explanation": "'Neither' is singular and takes a singular verb, so 'has completed' is correct. Options with 'have' break subject-verb agreement, 'have completing' is not grammatical, and 'Neither the students has completed the work.' omits 'of' before 'the students', which is required after 'neither', so only 'Neither of the students has completed the work.' is correct."
     },
     {
       "id": "31",
@@ -399,8 +399,8 @@
       "questionText": "Choose the correct preposition: I congratulated him ______ his success.",
       "options": [
         "at",
-        "for",
         "on",
+        "for",
         "with"
       ],
       "correctAnswer": "on",
@@ -409,24 +409,24 @@
     {
       "id": "32",
       "subject": "A",
-      "questionText": "Consider the following statements about tenses:\n\n(i) The simple present is used for habitual actions.\n(ii) The present continuous is used for actions happening now.\n(iii) The present perfect connects a past action to the present.\n(iv) The simple past describes actions still going on now.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about tenses:\n\n(i) The simple present is used for habitual actions.\n(ii) The present continuous is used for actions happening now.\n(iii) The simple past describes actions still going on now.\n(iv) The present perfect connects a past action to the present.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Simple present for habits, present continuous for now, and present perfect linking past to present are all standard uses, so (i), (ii) and (iii) are true. Statement (iv) is false because the simple past describes completed past actions, not ones still going on now, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Simple present for habits, present continuous for now, and present perfect linking past to present are all standard uses, so (i), (ii) and (iv) are true. Statement (iii) is false because the simple past describes completed past actions, not ones still going on now, so any option including (iii) is wrong."
     },
     {
       "id": "33",
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'CONCEAL':",
       "options": [
-        "Hide",
         "Reveal",
         "Show",
+        "Hide",
         "Expose"
       ],
       "correctAnswer": "Hide",
@@ -452,8 +452,8 @@
       "options": [
         "drank",
         "have drunk",
-        "was drinking",
-        "am drinking"
+        "am drinking",
+        "was drinking"
       ],
       "correctAnswer": "was drinking",
       "explanation": "An action in progress in the past when another action interrupted it uses the past continuous, so 'was drinking' is correct. 'Drank' is simple past (finished action), 'have drunk' is present perfect, and 'am drinking' is present continuous, none of which shows the ongoing past action here."
@@ -461,15 +461,15 @@
     {
       "id": "36",
       "subject": "A",
-      "questionText": "Which of the following are irregular plural forms?\n\n(i) Feet\n(ii) Oxen\n(iii) Cats\n(iv) Mice\n\nSelect the correct combination:",
+      "questionText": "Which of the following are irregular plural forms?\n\n(i) Feet\n(ii) Oxen\n(iii) Mice\n(iv) Cats\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'Feet' (from foot), 'oxen' (from ox) and 'mice' (from mouse) are all irregular plurals, so (i), (ii) and (iv) are correct. 'Cats' is the regular plural of 'cat', formed by adding -s, so any option including 'cats' as irregular is wrong."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'Feet' (from foot), 'oxen' (from ox) and 'mice' (from mouse) are all irregular plurals, so (i), (ii) and (iii) are correct. 'Cats' is the regular plural of 'cat', formed by adding -s, so any option including 'cats' as irregular is wrong."
     },
     {
       "id": "37",
@@ -502,8 +502,8 @@
       "subject": "A",
       "questionText": "One who studies the history of the earth by examining rocks is a:",
       "options": [
-        "Botanist",
         "Geologist",
+        "Botanist",
         "Zoologist",
         "Astronomer"
       ],
@@ -515,13 +515,13 @@
       "subject": "A",
       "questionText": "Choose the correct passive form of: 'They will build a new bridge next year.'",
       "options": [
+        "A new bridge will be built next year.",
         "A new bridge is built next year.",
         "A new bridge was built next year.",
-        "A new bridge has been built next year.",
-        "A new bridge will be built next year."
+        "A new bridge has been built next year."
       ],
       "correctAnswer": "A new bridge will be built next year.",
-      "explanation": "The active is in simple future, so the passive uses 'will be' + past participle: 'A new bridge will be built next year.' 'Is built' is present, 'was built' is past, and 'has been built' is present perfect, none of which keeps the future tense, so only the fourth option is correct."
+      "explanation": "The active is in simple future, so the passive uses 'will be' + past participle: 'A new bridge will be built next year.' 'Is built' is present, 'was built' is past, and 'has been built' is present perfect, none of which keeps the future tense, so only 'A new bridge will be built next year.' is correct."
     },
     {
       "id": "41",
@@ -539,15 +539,15 @@
     {
       "id": "42",
       "subject": "A",
-      "questionText": "Consider the following statements about active and passive voice:\n\n(i) 'She wrote a letter' can be turned into passive as 'A letter was written by her'.\n(ii) The active voice usually places the doer first.\n(iii) Only transitive verbs can be changed into the passive voice.\n(iv) 'He sleeps peacefully' can be changed into the passive voice.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about active and passive voice:\n\n(i) 'He sleeps peacefully' can be changed into the passive voice.\n(ii) 'She wrote a letter' can be turned into passive as 'A letter was written by her'.\n(iii) The active voice usually places the doer first.\n(iv) Only transitive verbs can be changed into the passive voice.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The passive of 'She wrote a letter' is 'A letter was written by her', the active places the doer first, and only transitive verbs can become passive, so (i), (ii) and (iii) are true. Statement (iv) is false because 'sleeps' is intransitive with no object, so the sentence cannot be turned into the passive; hence any option with (iv) is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The passive of 'She wrote a letter' is 'A letter was written by her', the active places the doer first, and only transitive verbs can become passive, so (ii), (iii) and (iv) are true. Statement (i) is false because 'sleeps' is intransitive with no object, so the sentence cannot be turned into the passive; hence any option with (i) is wrong."
     },
     {
       "id": "43",
@@ -555,9 +555,9 @@
       "questionText": "Choose the word opposite in meaning to 'EXPENSIVE':",
       "options": [
         "Costly",
+        "Cheap",
         "Precious",
-        "Valuable",
-        "Cheap"
+        "Valuable"
       ],
       "correctAnswer": "Cheap",
       "explanation": "'Expensive' means costing a great deal, so its antonym is 'cheap', meaning low in price. 'Costly', 'precious' and 'valuable' are close in meaning to expensive rather than opposite, so none of them is the antonym and 'cheap' is the correct opposite of expensive."
@@ -569,8 +569,8 @@
       "options": [
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
-        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
-        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
       "explanation": "A grass-eater is a herbivore, a flesh-eater is a carnivore, a young cat is a kitten, and a young dog is a puppy, giving (a)-(iv), (b)-(i), (c)-(iii), (d)-(ii). The other options swap carnivore with herbivore or misplace kitten with puppy, which are incorrect matches."
@@ -582,8 +582,8 @@
       "options": [
         "at",
         "on",
-        "to",
-        "with"
+        "with",
+        "to"
       ],
       "correctAnswer": "with",
       "explanation": "The collocation 'agree with someone' is used to show agreement with a person, so 'agrees with me' is correct. 'Agree to' is used with a proposal (agree to a plan), 'agree on' is used for a decision, and 'agree at' is not standard, so 'with' is right when agreeing with a person."
@@ -591,25 +591,25 @@
     {
       "id": "46",
       "subject": "A",
-      "questionText": "Which of the following are prepositions?\n\n(i) on\n(ii) in\n(iii) quickly\n(iv) between\n\nSelect the correct combination:",
+      "questionText": "Which of the following are prepositions?\n\n(i) on\n(ii) quickly\n(iii) in\n(iv) between\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
         "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'On', 'in' and 'between' all show relationships of place, time or position, so they are prepositions and (i), (ii) and (iv) are correct. 'Quickly' is an adverb of manner, not a preposition, so any option that includes 'quickly' as a preposition is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'On', 'in' and 'between' all show relationships of place, time or position, so they are prepositions and (i), (iii) and (iv) are correct. 'Quickly' is an adverb of manner, not a preposition, so any option that includes 'quickly' as a preposition is wrong."
     },
     {
       "id": "47",
       "subject": "A",
       "questionText": "The idiom 'to hit two birds with one stone' means:",
       "options": [
-        "To achieve two things with one action",
         "To harm two people",
         "To fail twice",
-        "To repeat the same action"
+        "To repeat the same action",
+        "To achieve two things with one action"
       ],
       "correctAnswer": "To achieve two things with one action",
       "explanation": "'To hit two birds with one stone' means to accomplish two goals with a single effort. It is not literal (no harm), does not mean to fail, and does not describe repetition, so those meanings are wrong; only 'to achieve two things with one action' captures its figurative sense."
@@ -633,9 +633,9 @@
       "questionText": "Fill in the blank with the correct verb form: He __________ his breakfast every morning at 8 o'clock.",
       "options": [
         "is having",
-        "has",
         "have",
-        "had"
+        "had",
+        "has"
       ],
       "correctAnswer": "has",
       "explanation": "For a habitual daily action with a third-person singular subject, the simple present with 's' is used, so 'He has his breakfast' is correct. 'Is having' is continuous (a specific moment), 'have' lacks agreement with 'he', and 'had' is past, none of which is used for a general habit, so 'has' is right."
@@ -643,15 +643,15 @@
     {
       "id": "50",
       "subject": "A",
-      "questionText": "Consider the following statements about direct and indirect speech:\n\n(i) In indirect speech the reporting verb is followed by 'that' (optional).\n(ii) 'Now' in direct speech usually becomes 'then' in indirect speech.\n(iii) The tense of the reported clause often shifts backwards.\n(iv) 'Today' in direct speech always remains 'today' in indirect speech.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about direct and indirect speech:\n\n(i) In indirect speech the reporting verb is followed by 'that' (optional).\n(ii) 'Now' in direct speech usually becomes 'then' in indirect speech.\n(iii) 'Today' in direct speech always remains 'today' in indirect speech.\n(iv) The tense of the reported clause often shifts backwards.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "In indirect speech 'that' is often used, 'now' typically becomes 'then', and tenses usually shift backwards, so (i), (ii) and (iii) are true. Statement (iv) is false because 'today' generally becomes 'that day' in reported speech, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "In indirect speech 'that' is often used, 'now' typically becomes 'then', and tenses usually shift backwards, so (i), (ii) and (iv) are true. Statement (iii) is false because 'today' generally becomes 'that day' in reported speech, so any option including (iii) is wrong."
     }
   ]
 }

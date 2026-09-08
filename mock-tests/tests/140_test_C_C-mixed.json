@@ -34,10 +34,10 @@
       "subject": "C",
       "questionText": "Which is the largest district (by area) of the Kashmir Valley?",
       "options": [
+        "Kupwara",
         "Srinagar",
         "Anantnag",
-        "Baramulla",
-        "Kupwara"
+        "Baramulla"
       ],
       "correctAnswer": "Kupwara",
       "explanation": "Kupwara, in north Kashmir, is the largest valley district by area. Srinagar is largely urban and much smaller, Anantnag is in the south and smaller than Kupwara, and Baramulla, though large, is smaller than Kupwara, so Kupwara is the correct answer."
@@ -47,10 +47,10 @@
       "subject": "C",
       "questionText": "Match the following places with their notable features:\n\nColumn I:\n(a) Sonamarg\n(b) Pahalgam\n(c) Gulmarg\n(d) Patnitop\n\nColumn II:\n(i) Hill station in the Jammu region\n(ii) Meadow of Gold\n(iii) Ski destination with a Gondola\n(iv) Base for the Amarnath Yatra\n\nChoose the correct match:",
       "options": [
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Sonamarg means 'Meadow of Gold', Pahalgam is the base for the Amarnath Yatra, Gulmarg is a ski destination famous for the Gondola, and Patnitop is a hill station in the Jammu region, giving (a)-(ii), (b)-(iv), (c)-(iii), (d)-(i). The other options swap Sonamarg with Gulmarg or misplace Patnitop, which are geographically wrong."
@@ -61,9 +61,9 @@
       "questionText": "The Bhaderwah Valley, known as 'Chota Kashmir', is located in which region?",
       "options": [
         "Kashmir Valley",
+        "Jammu region",
         "Ladakh",
-        "Pir Panjal",
-        "Jammu region"
+        "Pir Panjal"
       ],
       "correctAnswer": "Jammu region",
       "explanation": "Bhaderwah lies in the Doda district of the Jammu region and is called 'Chota Kashmir' for its scenic beauty. The Kashmir Valley and Ladakh are separate physiographic units, and Pir Panjal is a mountain range rather than an administrative region, so the Jammu region is the correct answer."
@@ -71,23 +71,23 @@
     {
       "id": "6",
       "subject": "C",
-      "questionText": "Which of the following are important passes in the Jammu & Kashmir / Ladakh region?\n\n(i) Zoji La\n(ii) Banihal Pass\n(iii) Nathu La\n(iv) Khardung La\n\nSelect the correct combination:",
+      "questionText": "Which of the following are important passes in the Jammu & Kashmir / Ladakh region?\n\n(i) Nathu La\n(ii) Zoji La\n(iii) Banihal Pass\n(iv) Khardung La\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Zoji La, Banihal Pass and Khardung La all lie in the J&K/Ladakh region, so (i), (ii) and (iv) are correct. Nathu La is a pass in Sikkim connecting India with Tibet, not in J&K, so any option including Nathu La is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Zoji La, Banihal Pass and Khardung La all lie in the J&K/Ladakh region, so (ii), (iii) and (iv) are correct. Nathu La is a pass in Sikkim connecting India with Tibet, not in J&K, so any option including Nathu La is wrong."
     },
     {
       "id": "7",
       "subject": "C",
       "questionText": "The famous 'Char-e-Sharif' shrine in Kashmir is dedicated to:",
       "options": [
-        "Sheikh Noor-ud-din (Nund Rishi)",
         "Amarnath",
+        "Sheikh Noor-ud-din (Nund Rishi)",
         "Hazrat Bal",
         "Shah Hamdan"
       ],
@@ -114,8 +114,8 @@
       "options": [
         "Jhelum",
         "Ravi",
-        "Indus",
-        "Chenab"
+        "Chenab",
+        "Indus"
       ],
       "correctAnswer": "Chenab",
       "explanation": "The Salal project, one of India's earliest large hydro projects in J&K, is built on the Chenab river. The Jhelum has projects like Uri, the Indus has projects in Ladakh like Nimoo Bazgo, and the Ravi has Ranjit Sagar, so Salal on the Chenab is correct."
@@ -125,9 +125,9 @@
       "subject": "C",
       "questionText": "Fill in the blank: The Zoji La pass connects Sonamarg in the Kashmir Valley with __________ in Ladakh.",
       "options": [
-        "Kargil (Drass)",
         "Leh (Khardung)",
         "Nubra",
+        "Kargil (Drass)",
         "Zanskar"
       ],
       "correctAnswer": "Kargil (Drass)",
@@ -138,9 +138,9 @@
       "subject": "C",
       "questionText": "The Amarnath cave shrine is located in which district?",
       "options": [
-        "Anantnag",
         "Pulwama",
         "Kulgam",
+        "Anantnag",
         "Baramulla"
       ],
       "correctAnswer": "Anantnag",
@@ -166,8 +166,8 @@
       "options": [
         "Kashmiri",
         "Dogri",
-        "Ladakhi (Bhoti)",
-        "Urdu"
+        "Urdu",
+        "Ladakhi (Bhoti)"
       ],
       "correctAnswer": "Ladakhi (Bhoti)",
       "explanation": "Ladakhi, also called Bhoti, belongs to the Tibetic (Sino-Tibetan) family and is widely spoken in Ladakh. Kashmiri is an Indo-Aryan language of the valley, Dogri is Indo-Aryan of Jammu, and Urdu is the state's lingua franca, so none of them is Sino-Tibetan; Ladakhi is correct."
@@ -192,8 +192,8 @@
       "options": [
         "Zoji La",
         "Rohtang",
-        "Khardung La",
-        "Banihal"
+        "Banihal",
+        "Khardung La"
       ],
       "correctAnswer": "Khardung La",
       "explanation": "Khardung La in Ladakh (near Leh) is widely popularised as one of the world's highest motorable passes, at over 5,300 m. Zoji La and Banihal are lower passes on the Kashmir–Ladakh and Kashmir–Jammu routes, and Rohtang is in Himachal Pradesh, so Khardung La is the correct answer."
@@ -203,10 +203,10 @@
       "subject": "C",
       "questionText": "Fill in the blank: The Jhelum river is joined by the __________ Lake near Bandipora before continuing westward.",
       "options": [
+        "Wular",
         "Manasbal",
         "Nagin",
-        "Dal",
-        "Wular"
+        "Dal"
       ],
       "correctAnswer": "Wular",
       "explanation": "The Jhelum passes through the Wular Lake near Bandipora, which acts as a flood buffer for the river. Manasbal is a smaller lake in Ganderbal, and the Dal and Nagin lakes are in Srinagar and are not on the Jhelum's main course, so only the Wular fits."
@@ -216,9 +216,9 @@
       "subject": "C",
       "questionText": "The Dogri language is chiefly associated with which region of Jammu & Kashmir?",
       "options": [
+        "Jammu region",
         "Kashmir Valley",
         "Ladakh",
-        "Jammu region",
         "Pir Panjal"
       ],
       "correctAnswer": "Jammu region",
@@ -227,15 +227,15 @@
     {
       "id": "18",
       "subject": "C",
-      "questionText": "Consider the following statements about the Ladakh Union Territory:\n\n(i) Leh and Kargil are its two districts.\n(ii) It became a separate Union Territory in 2019.\n(iii) The Line of Actual Control passes through Ladakh.\n(iv) Ladakh has a legislative assembly of its own.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Ladakh Union Territory:\n\n(i) Leh and Kargil are its two districts.\n(ii) Ladakh has a legislative assembly of its own.\n(iii) It became a separate Union Territory in 2019.\n(iv) The Line of Actual Control passes through Ladakh.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Leh and Kargil are Ladakh's two districts, it became a UT in 2019, and the LAC passes through Ladakh, so (i), (ii) and (iii) are true. Statement (iv) is false because Ladakh is a UT without its own legislative assembly (it has Hill Councils instead), so any option including (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Leh and Kargil are Ladakh's two districts, it became a UT in 2019, and the LAC passes through Ladakh, so (i), (iii) and (iv) are true. Statement (ii) is false because Ladakh is a UT without its own legislative assembly (it has Hill Councils instead), so any option including (ii) is wrong."
     },
     {
       "id": "19",
@@ -255,9 +255,9 @@
       "subject": "C",
       "questionText": "The famous Pahalgam town is located on the banks of which river?",
       "options": [
+        "Lidder",
         "Jhelum",
         "Chenab",
-        "Lidder",
         "Tawi"
       ],
       "correctAnswer": "Lidder",
@@ -268,8 +268,8 @@
       "subject": "C",
       "questionText": "The 'Aharbal Waterfall' is located in which district of Kashmir?",
       "options": [
-        "Kulgam",
         "Anantnag",
+        "Kulgam",
         "Kupwara",
         "Baramulla"
       ],
@@ -282,8 +282,8 @@
       "questionText": "Which of the following are famous Sufi saints associated with Kashmir?\n\n(i) Sheikh Noor-ud-din (Nund Rishi)\n(ii) Sheikh Hamza Makhdoom\n(iii) Guru Nanak\n(iv) Mir Sayyid Ali Hamadani\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -295,9 +295,9 @@
       "questionText": "The historic 'Zaina Kadal' bridge is situated in which city?",
       "options": [
         "Jammu",
+        "Srinagar",
         "Baramulla",
-        "Leh",
-        "Srinagar"
+        "Leh"
       ],
       "correctAnswer": "Srinagar",
       "explanation": "Zaina Kadal is one of the seven old bridges over the Jhelum in Srinagar. Jammu, Leh and Baramulla have their own crossings but Zaina Kadal is specifically part of the Srinagar downtown bridge system, so Srinagar is correct."
@@ -309,8 +309,8 @@
       "options": [
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "Katra is in Reasi, Kishtwar town in Kishtwar district, Doda town in Doda district, and Rajouri town in Rajouri district, giving (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii). The other options swap Reasi with Doda or misplace Rajouri, which do not match the district-town relations."
@@ -346,10 +346,10 @@
       "subject": "C",
       "questionText": "The Kishtwar National Park is famous for which large mammal?",
       "options": [
-        "Snow leopard",
         "Elephant",
         "One-horned rhinoceros",
-        "Barasingha"
+        "Barasingha",
+        "Snow leopard"
       ],
       "correctAnswer": "Snow leopard",
       "explanation": "Kishtwar National Park, in the high-altitude terrain of the Jammu region, is a habitat for the snow leopard along with ibex and musk deer. Elephants are in the eastern and southern forests, one-horned rhinos are in Assam, and barasingha (swamp deer) is found in central India, so only the snow leopard is associated with Kishtwar."
@@ -372,10 +372,10 @@
       "subject": "C",
       "questionText": "The mainly Buddhist region within the Ladakh Union Territory is:",
       "options": [
-        "Leh",
         "Kargil",
         "Zanskar (part of Kargil)",
-        "Nubra (mixed)"
+        "Nubra (mixed)",
+        "Leh"
       ],
       "correctAnswer": "Leh",
       "explanation": "The Leh district of Ladakh is predominantly Buddhist and hosts many major monasteries such as Hemis and Thiksey. Kargil is largely Muslim, Zanskar (in Kargil district) has a significant Buddhist minority but is smaller, and Nubra has a mixed population, so overall Leh is the mainly Buddhist region."
@@ -399,9 +399,9 @@
       "questionText": "The Suru Valley is located primarily in which district of Ladakh?",
       "options": [
         "Leh",
-        "Kargil",
         "Both Leh and Kargil equally",
-        "Nubra"
+        "Nubra",
+        "Kargil"
       ],
       "correctAnswer": "Kargil",
       "explanation": "The Suru Valley lies mainly in the Kargil district, drained by the Suru river. Leh is a separate district to the east, 'both equally' is inaccurate as the valley is chiefly in Kargil, and Nubra is a distinct valley north of Leh, so Kargil is the correct district for Suru."
@@ -409,24 +409,24 @@
     {
       "id": "32",
       "subject": "C",
-      "questionText": "Consider the following statements about the economy of J&K and Ladakh:\n\n(i) Horticulture, especially apples, is an important sector in the Kashmir Valley.\n(ii) Tourism is a significant part of the economy in both J&K and Ladakh.\n(iii) Ladakh has extensive rice paddy cultivation on the same scale as coastal India.\n(iv) Handicrafts contribute to the economy, especially in Kashmir.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the economy of J&K and Ladakh:\n\n(i) Horticulture, especially apples, is an important sector in the Kashmir Valley.\n(ii) Tourism is a significant part of the economy in both J&K and Ladakh.\n(iii) Handicrafts contribute to the economy, especially in Kashmir.\n(iv) Ladakh has extensive rice paddy cultivation on the same scale as coastal India.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Apple horticulture in the valley, tourism in J&K and Ladakh, and handicrafts (especially in Kashmir) are all major economic activities, so (i), (ii) and (iv) are true. Statement (iii) is false because Ladakh's cold desert climate and limited water do not allow large-scale paddy cultivation like coastal India, so any option including (iii) is wrong."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Apple horticulture in the valley, tourism in J&K and Ladakh, and handicrafts (especially in Kashmir) are all major economic activities, so (i), (ii) and (iii) are true. Statement (iv) is false because Ladakh's cold desert climate and limited water do not allow large-scale paddy cultivation like coastal India, so any option including (iv) is wrong."
     },
     {
       "id": "33",
       "subject": "C",
       "questionText": "The 'Baba Reshi' shrine, an important Sufi shrine, is near which tourist destination?",
       "options": [
+        "Gulmarg",
         "Pahalgam",
         "Sonamarg",
-        "Gulmarg",
         "Patnitop"
       ],
       "correctAnswer": "Gulmarg",
@@ -435,15 +435,15 @@
     {
       "id": "34",
       "subject": "C",
-      "questionText": "Which of the following are principal industries of Jammu & Kashmir?\n\n(i) Handicrafts (shawls, carpets)\n(ii) Horticulture (apples, walnuts)\n(iii) Deep-sea fishing\n(iv) Tourism\n\nSelect the correct combination:",
+      "questionText": "Which of the following are principal industries of Jammu & Kashmir?\n\n(i) Deep-sea fishing\n(ii) Handicrafts (shawls, carpets)\n(iii) Horticulture (apples, walnuts)\n(iv) Tourism\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Handicrafts, horticulture and tourism are all key contributors to the J&K economy, so (i), (ii) and (iv) are correct. J&K is a landlocked region without a coast, so deep-sea fishing is not one of its industries and any option including it is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Handicrafts, horticulture and tourism are all key contributors to the J&K economy, so (ii), (iii) and (iv) are correct. J&K is a landlocked region without a coast, so deep-sea fishing is not one of its industries and any option including it is wrong."
     },
     {
       "id": "35",
@@ -463,8 +463,8 @@
       "subject": "C",
       "questionText": "The 'Kongdori' (base area of Gulmarg's Gondola) is located in which district?",
       "options": [
-        "Baramulla",
         "Srinagar",
+        "Baramulla",
         "Anantnag",
         "Kupwara"
       ],
@@ -504,8 +504,8 @@
       "options": [
         "Jawahar Tunnel (Banihal)",
         "Zoji La Tunnel",
-        "Chenani-Nashri (Patnitop) Tunnel",
-        "Pir Panjal Railway Tunnel"
+        "Pir Panjal Railway Tunnel",
+        "Chenani-Nashri (Patnitop) Tunnel"
       ],
       "correctAnswer": "Pir Panjal Railway Tunnel",
       "explanation": "The Jammu-Baramulla railway crosses the Pir Panjal range through the Pir Panjal Railway Tunnel (Banihal railway tunnel), the longest transportation tunnel in India when opened. The Jawahar and Chenani-Nashri tunnels are road tunnels, and the Zoji La tunnel is being built for Ladakh, so only the Pir Panjal Railway Tunnel fits this rail route."
@@ -516,8 +516,8 @@
       "questionText": "The Rajatarangini, a chronicle of Kashmir's kings, was written by:",
       "options": [
         "Kalidasa",
-        "Kalhana",
         "Ved Vyasa",
+        "Kalhana",
         "Panini"
       ],
       "correctAnswer": "Kalhana",
@@ -529,8 +529,8 @@
       "questionText": "The 'Tulip Festival' is an annual event held in which city of J&K?",
       "options": [
         "Jammu",
-        "Srinagar",
         "Baramulla",
+        "Srinagar",
         "Leh"
       ],
       "correctAnswer": "Srinagar",
@@ -539,15 +539,15 @@
     {
       "id": "42",
       "subject": "C",
-      "questionText": "Consider the following statements about the rivers of Jammu & Kashmir and Ladakh:\n\n(i) The Indus enters India in the Ladakh region.\n(ii) The Jhelum flows into the Chenab within India.\n(iii) The Chenab is a tributary of the Indus system.\n(iv) The Ravi flows through the Kashmir Valley.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the rivers of Jammu & Kashmir and Ladakh:\n\n(i) The Indus enters India in the Ladakh region.\n(ii) The Ravi flows through the Kashmir Valley.\n(iii) The Jhelum flows into the Chenab within India.\n(iv) The Chenab is a tributary of the Indus system.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Indus enters India through Ladakh, the Jhelum joins the Chenab (in Pakistan-administered territory after leaving India), and the Chenab belongs to the Indus system, so (i), (ii) and (iii) are true. Statement (iv) is false because the Ravi does not flow through the Kashmir Valley (it flows through the Jammu-Punjab border area), so any option including (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The Indus enters India through Ladakh, the Jhelum joins the Chenab (in Pakistan-administered territory after leaving India), and the Chenab belongs to the Indus system, so (i), (iii) and (iv) are true. Statement (ii) is false because the Ravi does not flow through the Kashmir Valley (it flows through the Jammu-Punjab border area), so any option including (ii) is wrong."
     },
     {
       "id": "43",
@@ -555,9 +555,9 @@
       "questionText": "Which of the following are famous crafts and products of Ladakh?\n\n(i) Pashmina (from Changthangi goats)\n(ii) Thangka paintings\n(iii) Silk-weaving on the scale of Varanasi\n(iv) Apricots and their oil\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Ladakh is famous for pashmina from Changthangi goats, Thangka paintings from its Buddhist tradition, and apricots along with apricot oil, so (i), (ii) and (iv) are correct. Silk-weaving on the scale of Varanasi is not a Ladakhi craft, so any option including it is wrong."
@@ -568,9 +568,9 @@
       "questionText": "The 'Pheran' is a traditional garment associated primarily with:",
       "options": [
         "Jammu region",
-        "Kashmir Valley",
         "Ladakh (highest use)",
-        "Punjab plains"
+        "Punjab plains",
+        "Kashmir Valley"
       ],
       "correctAnswer": "Kashmir Valley",
       "explanation": "The pheran is a long, loose woollen gown widely worn in the Kashmir Valley, especially in winter. The Jammu region uses different clothing patterns, Ladakh has its own gonchas, and the Punjab plains have their own dress, so the Kashmir Valley is the correct region for the pheran."
@@ -580,10 +580,10 @@
       "subject": "C",
       "questionText": "Fill in the blank: The confluence of the Indus and Zanskar rivers is at __________ in Ladakh.",
       "options": [
-        "Nimmu (Nimoo)",
         "Diskit",
         "Alchi",
-        "Chushul"
+        "Chushul",
+        "Nimmu (Nimoo)"
       ],
       "correctAnswer": "Nimmu (Nimoo)",
       "explanation": "The Indus and Zanskar rivers meet at Nimmu (Nimoo), a scenic point on the Leh-Srinagar highway. Diskit is a town in Nubra with a famous monastery, Alchi hosts an ancient temple complex, and Chushul is a village near the LAC, so none of them is the confluence; Nimmu is correct."
@@ -593,10 +593,10 @@
       "subject": "C",
       "questionText": "The following table shows saffron production (in metric tonnes) of Kashmir:\n\n2018 — 12\n2019 — 8\n2020 — 15\n2021 — 14\n\nIn which year was saffron production the lowest?",
       "options": [
+        "2019",
         "2021",
         "2020",
-        "2018",
-        "2019"
+        "2018"
       ],
       "correctAnswer": "2019",
       "explanation": "In 2019 production dropped to 8 metric tonnes, the lowest of the four years. 2018 produced 12, 2020 produced 15 and 2021 produced 14, all higher than 2019, so 2018 is the second-lowest but not the least, and 2019 is the correct year for the minimum output."
@@ -606,9 +606,9 @@
       "subject": "C",
       "questionText": "The 'Chattar Singh' ruler was associated with the Dogra dynasty, but the founder of the Dogra dynasty of Jammu & Kashmir was:",
       "options": [
+        "Maharaja Gulab Singh",
         "Maharaja Ranbir Singh",
         "Maharaja Pratap Singh",
-        "Maharaja Gulab Singh",
         "Maharaja Hari Singh"
       ],
       "correctAnswer": "Maharaja Gulab Singh",
@@ -632,8 +632,8 @@
       "subject": "C",
       "questionText": "The Instrument of Accession of Jammu & Kashmir to India was signed by:",
       "options": [
-        "Sheikh Abdullah",
         "Maharaja Hari Singh",
+        "Sheikh Abdullah",
         "Karan Singh",
         "Ghulam Mohammed Bakshi"
       ],
@@ -645,8 +645,8 @@
       "subject": "C",
       "questionText": "The Zabarwan mountain range lies near which city?",
       "options": [
-        "Srinagar",
         "Jammu",
+        "Srinagar",
         "Leh",
         "Anantnag"
       ],
@@ -659,8 +659,8 @@
       "questionText": "The 'Kishtwar Sapphire' mines are located in which region?",
       "options": [
         "Kashmir Valley",
-        "Ladakh",
         "Jammu region",
+        "Ladakh",
         "Pir Panjal foothills"
       ],
       "correctAnswer": "Jammu region",
@@ -672,8 +672,8 @@
       "questionText": "Consider the following statements about the Amarnath Yatra:\n\n(i) It is an annual Hindu pilgrimage to the Amarnath cave.\n(ii) The cave enshrines a naturally formed ice lingam of Shiva.\n(iii) Pilgrims can approach via Pahalgam or Baltal routes.\n(iv) The yatra is held mainly in the winter months (Dec–Feb).\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -685,8 +685,8 @@
       "questionText": "The 'Kashmiri Wazwan' refers to:",
       "options": [
         "A traditional carpet design",
-        "A multi-course Kashmiri feast",
         "A folk dance",
+        "A multi-course Kashmiri feast",
         "A type of shawl"
       ],
       "correctAnswer": "A multi-course Kashmiri feast",
@@ -699,8 +699,8 @@
       "options": [
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
-        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
-        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
       "explanation": "Zoji La connects Sonamarg with Drass, Banihal connects the Kashmir Valley with the Jammu region, Khardung La leads to the Nubra Valley from Leh, and Chang La leads towards Pangong from Leh, giving (a)-(iv), (b)-(i), (c)-(ii), (d)-(iii). The other options swap Khardung with Chang or misplace Banihal, which are geographically incorrect."
@@ -721,15 +721,15 @@
     {
       "id": "56",
       "subject": "C",
-      "questionText": "Which of the following are important lakes in the Ladakh region?\n\n(i) Pangong Tso\n(ii) Tso Moriri\n(iii) Wular\n(iv) Tso Kar\n\nSelect the correct combination:",
+      "questionText": "Which of the following are important lakes in the Ladakh region?\n\n(i) Wular\n(ii) Pangong Tso\n(iii) Tso Moriri\n(iv) Tso Kar\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Pangong Tso, Tso Moriri and Tso Kar are all high-altitude lakes in the Ladakh region, so (i), (ii) and (iv) are correct. The Wular Lake is in the Kashmir Valley (Bandipora), not in Ladakh, so any option including the Wular is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Pangong Tso, Tso Moriri and Tso Kar are all high-altitude lakes in the Ladakh region, so (ii), (iii) and (iv) are correct. The Wular Lake is in the Kashmir Valley (Bandipora), not in Ladakh, so any option including the Wular is wrong."
     },
     {
       "id": "57",
@@ -737,9 +737,9 @@
       "questionText": "The Chenani-Nashri Tunnel, one of the longest road tunnels in India, is located on the highway between:",
       "options": [
         "Srinagar and Leh",
-        "Jammu and Srinagar",
         "Leh and Manali",
-        "Jammu and Poonch"
+        "Jammu and Poonch",
+        "Jammu and Srinagar"
       ],
       "correctAnswer": "Jammu and Srinagar",
       "explanation": "The Chenani-Nashri (Patnitop) Tunnel bypasses a snow-prone stretch on the Jammu-Srinagar national highway. The Srinagar-Leh, Leh-Manali and Jammu-Poonch routes use different alignments and other tunnels/passes, so the Jammu-Srinagar highway is the correct location."
@@ -762,10 +762,10 @@
       "subject": "C",
       "questionText": "The 'Ladakh Autonomous Hill Development Council' has its headquarters at:",
       "options": [
-        "Kargil (for Kargil LAHDC) and Leh (for Leh LAHDC)",
         "Srinagar",
         "Jammu",
-        "Sonamarg"
+        "Sonamarg",
+        "Kargil (for Kargil LAHDC) and Leh (for Leh LAHDC)"
       ],
       "correctAnswer": "Kargil (for Kargil LAHDC) and Leh (for Leh LAHDC)",
       "explanation": "Ladakh has two Autonomous Hill Councils with headquarters at Leh (for the Leh LAHDC) and Kargil (for the Kargil LAHDC). Srinagar and Jammu are the summer/winter capitals of the erstwhile state (not of the LAHDCs), and Sonamarg is a tourist meadow, so only 'Kargil and Leh' is correct."
@@ -773,15 +773,15 @@
     {
       "id": "60",
       "subject": "C",
-      "questionText": "Consider the following statements about the reorganisation of Jammu & Kashmir in 2019:\n\n(i) The Jammu and Kashmir Reorganisation Act, 2019 was passed by Parliament.\n(ii) J&K was reorganised into two Union Territories.\n(iii) Ladakh became a Union Territory without a legislative assembly.\n(iv) After 2019, Jammu & Kashmir continued to enjoy the special status under Article 370.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the reorganisation of Jammu & Kashmir in 2019:\n\n(i) The Jammu and Kashmir Reorganisation Act, 2019 was passed by Parliament.\n(ii) After 2019, Jammu & Kashmir continued to enjoy the special status under Article 370.\n(iii) J&K was reorganised into two Union Territories.\n(iv) Ladakh became a Union Territory without a legislative assembly.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The J&K Reorganisation Act 2019 was passed by Parliament, J&K was split into two UTs (J&K and Ladakh), and Ladakh became a UT without a legislative assembly, so (i), (ii) and (iii) are true. Statement (iv) is false because Article 370 was abrogated in August 2019, so J&K no longer enjoys that special status; hence any option including (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The J&K Reorganisation Act 2019 was passed by Parliament, J&K was split into two UTs (J&K and Ladakh), and Ladakh became a UT without a legislative assembly, so (i), (iii) and (iv) are true. Statement (ii) is false because Article 370 was abrogated in August 2019, so J&K no longer enjoys that special status; hence any option including (ii) is wrong."
     }
   ]
 }

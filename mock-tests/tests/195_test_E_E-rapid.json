@@ -21,8 +21,8 @@
       "subject": "E",
       "questionText": "A computer network that spans a large geographical area, such as a country or the world, is called a ______.",
       "options": [
-        "LAN",
         "WAN",
+        "LAN",
         "PAN",
         "MAN"
       ],
@@ -32,15 +32,15 @@
     {
       "id": "3",
       "subject": "E",
-      "questionText": "Consider the following statements about computer hardware:\n\n(i) The motherboard is the main circuit board of a computer.\n(ii) The GPU is mainly responsible for graphics processing.\n(iii) An SSD has no moving mechanical parts.\n(iv) The power supply unit (SMPS) is used to store user data.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer hardware:\n\n(i) The motherboard is the main circuit board of a computer.\n(ii) The GPU is mainly responsible for graphics processing.\n(iii) The power supply unit (SMPS) is used to store user data.\n(iv) An SSD has no moving mechanical parts.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The motherboard is the main circuit board, the GPU handles graphics, and an SSD has no moving parts, so (i), (ii) and (iii) are correct. Statement (iv) is false because the power supply unit converts and supplies power, it does not store data; hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The motherboard is the main circuit board, the GPU handles graphics, and an SSD has no moving parts, so (i), (ii) and (iv) are correct. Statement (iii) is false because the power supply unit converts and supplies power, it does not store data; hence any option containing (iii) is incorrect."
     },
     {
       "id": "4",
@@ -48,9 +48,9 @@
       "questionText": "Which device is used to read the special magnetic-ink characters printed at the bottom of bank cheques?",
       "options": [
         "Barcode reader",
+        "MICR",
         "OMR",
-        "OCR",
-        "MICR"
+        "OCR"
       ],
       "correctAnswer": "MICR",
       "explanation": "MICR (Magnetic Ink Character Recognition) reads the magnetic-ink numbers on cheques. OMR (Optical Mark Recognition) reads marks like filled bubbles. OCR (Optical Character Recognition) reads printed text from images. A barcode reader scans product barcodes, so those devices are not used for cheque magnetic ink and are incorrect."
@@ -66,20 +66,20 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: secondary storage can hold data permanently precisely because it is non-volatile and retains data without power. Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+      "explanation": "Both are true and R explains A: secondary storage can hold data permanently precisely because it is non-volatile and retains data without power. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
     },
     {
       "id": "6",
       "subject": "E",
-      "questionText": "Which of the following are examples of system software?\n\n(i) Operating system\n(ii) Device driver\n(iii) MS Paint\n(iv) Assembler\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of system software?\n\n(i) Operating system\n(ii) Device driver\n(iii) Assembler\n(iv) MS Paint\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "An operating system, a device driver and an assembler are all system software, so (i), (ii) and (iv) are correct. MS Paint (iii) is an application program used by end users, not system software; hence any option containing (iii) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "An operating system, a device driver and an assembler are all system software, so (i), (ii) and (iii) are correct. MS Paint (iv) is an application program used by end users, not system software; hence any option containing (iv) — the second, third and fourth — is incorrect."
     },
     {
       "id": "7",
@@ -87,8 +87,8 @@
       "questionText": "The mobile operating system 'iOS' is developed by which company?",
       "options": [
         "Google",
-        "Apple",
         "Microsoft",
+        "Apple",
         "Samsung"
       ],
       "correctAnswer": "Apple",
@@ -105,7 +105,7 @@
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "JPEG stores images, MP3 stores audio, MP4 stores video, and PDF stores documents — matching the first option. The second wrongly swaps JPEG and MP3. The third wrongly swaps MP4 and PDF. The fourth wrongly labels JPEG as video, so those options are incorrect."
+      "explanation": "JPEG stores images, MP3 stores audio, MP4 stores video, and PDF stores documents — matching '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)'. The second wrongly swaps JPEG and MP3. The third wrongly swaps MP4 and PDF. The fourth wrongly labels JPEG as video, so those options are incorrect."
     },
     {
       "id": "9",
@@ -125,10 +125,10 @@
       "subject": "E",
       "questionText": "Which keyboard shortcut is generally used to find a word or phrase within a document or web page?",
       "options": [
-        "Ctrl + F",
         "Ctrl + P",
         "Ctrl + H",
-        "Ctrl + G"
+        "Ctrl + G",
+        "Ctrl + F"
       ],
       "correctAnswer": "Ctrl + F",
       "explanation": "Ctrl + F opens the 'Find' box to search for text. Ctrl + P opens the print dialog. Ctrl + H usually opens 'Find and Replace' rather than simple find. Ctrl + G is often 'Go To', not a text search, so those shortcuts are incorrect for finding a word."
@@ -136,24 +136,24 @@
     {
       "id": "11",
       "subject": "E",
-      "questionText": "Consider the following statements about software:\n\n(i) An assembler converts assembly language into machine code.\n(ii) An interpreter translates a program line by line.\n(iii) Linux is proprietary software owned by Microsoft.\n(iv) A device driver helps the operating system communicate with hardware.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about software:\n\n(i) Linux is proprietary software owned by Microsoft.\n(ii) An assembler converts assembly language into machine code.\n(iii) An interpreter translates a program line by line.\n(iv) A device driver helps the operating system communicate with hardware.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "An assembler converts assembly code to machine code, an interpreter works line by line, and a device driver links the OS with hardware, so (i), (ii) and (iv) are correct. Statement (iii) is false because Linux is open-source software, not proprietary software owned by Microsoft; hence options with (iii) are wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "An assembler converts assembly code to machine code, an interpreter works line by line, and a device driver links the OS with hardware, so (ii), (iii) and (iv) are correct. Statement (i) is false because Linux is open-source software, not proprietary software owned by Microsoft; hence options with (i) are wrong."
     },
     {
       "id": "12",
       "subject": "E",
       "questionText": "Fill in the blank: A group of eight bits is together known as one __________. __________",
       "options": [
+        "byte",
         "word",
         "nibble",
-        "byte",
         "kilobit"
       ],
       "correctAnswer": "byte",
@@ -165,9 +165,9 @@
       "questionText": "In the Windows operating system, which key combination is used to close the currently active application window?",
       "options": [
         "Alt + Tab",
+        "Alt + F4",
         "Ctrl + F4",
-        "Shift + F4",
-        "Alt + F4"
+        "Shift + F4"
       ],
       "correctAnswer": "Alt + F4",
       "explanation": "Alt + F4 closes the currently active application window in Windows. Ctrl + F4 usually closes a document or tab within an application, not the whole app. Shift + F4 has no such standard function, and Alt + Tab switches between open windows rather than closing them, so those options are incorrect."
@@ -175,15 +175,15 @@
     {
       "id": "14",
       "subject": "E",
-      "questionText": "Which of the following are secondary storage devices?\n\n(i) Hard Disk Drive\n(ii) DVD\n(iii) RAM\n(iv) USB flash drive\n\nSelect the correct combination:",
+      "questionText": "Which of the following are secondary storage devices?\n\n(i) Hard Disk Drive\n(ii) RAM\n(iii) DVD\n(iv) USB flash drive\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A hard disk drive, a DVD and a USB flash drive are all secondary storage that retain data without power, so (i), (ii) and (iv) are correct. RAM (iii) is volatile primary memory, not secondary storage; hence any option containing (iii) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A hard disk drive, a DVD and a USB flash drive are all secondary storage that retain data without power, so (i), (iii) and (iv) are correct. RAM (ii) is volatile primary memory, not secondary storage; hence any option containing (ii) — the second, third and fourth — is incorrect."
     },
     {
       "id": "15",
@@ -231,8 +231,8 @@
       "options": [
         "formatting",
         "encryption",
-        "fragmentation",
-        "compression"
+        "compression",
+        "fragmentation"
       ],
       "correctAnswer": "compression",
       "explanation": "Compression reduces a file's size so it takes up less space and transfers faster. Encryption codes data for security without necessarily shrinking it, fragmentation is the scattering of file parts on a disk, and formatting prepares a disk by erasing it, so those options are incorrect."
@@ -240,15 +240,15 @@
     {
       "id": "19",
       "subject": "E",
-      "questionText": "Consider the following statements about computer networking:\n\n(i) A LAN typically covers a small area such as an office building.\n(ii) The internet is an example of a wide area network.\n(iii) A switch operates within a local network.\n(iv) HTTP is the protocol used to send email messages.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer networking:\n\n(i) A LAN typically covers a small area such as an office building.\n(ii) The internet is an example of a wide area network.\n(iii) HTTP is the protocol used to send email messages.\n(iv) A switch operates within a local network.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A LAN covers a small area, the internet is a WAN, and a switch works within a local network, so (i), (ii) and (iii) are correct. Statement (iv) is false because email is sent using SMTP, while HTTP is used to transfer web pages; hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A LAN covers a small area, the internet is a WAN, and a switch works within a local network, so (i), (ii) and (iv) are correct. Statement (iii) is false because email is sent using SMTP, while HTTP is used to transfer web pages; hence any option containing (iii) is incorrect."
     },
     {
       "id": "20",
@@ -256,21 +256,21 @@
       "questionText": "Match the following memory units with their approximate sizes:\n\nColumn I:\n(a) Kilobyte\n(b) Megabyte\n(c) Gigabyte\n(d) Terabyte\n\nColumn II:\n(i) About 1024 bytes\n(ii) About 1024 kilobytes\n(iii) About 1024 megabytes\n(iv) About 1024 gigabytes\n\nChoose the correct match:",
       "options": [
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
-        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
-      "explanation": "A kilobyte is about 1024 bytes, a megabyte about 1024 kilobytes, a gigabyte about 1024 megabytes, and a terabyte about 1024 gigabytes — matching the first option. The second wrongly swaps kilobyte and megabyte, the third wrongly swaps gigabyte and terabyte, and the fourth reverses the whole order, so those options are incorrect."
+      "explanation": "A kilobyte is about 1024 bytes, a megabyte about 1024 kilobytes, a gigabyte about 1024 megabytes, and a terabyte about 1024 gigabytes — matching '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)'. The second wrongly swaps kilobyte and megabyte, the third wrongly swaps gigabyte and terabyte, and the fourth reverses the whole order, so those options are incorrect."
     },
     {
       "id": "21",
       "subject": "E",
       "questionText": "The full form of 'VPN' as used in computer networks is ______.",
       "options": [
+        "Virtual Private Network",
         "Virtual Public Network",
         "Verified Private Network",
-        "Virtual Private Network",
         "Visual Private Network"
       ],
       "correctAnswer": "Virtual Private Network",
@@ -281,10 +281,10 @@
       "subject": "E",
       "questionText": "Which type of memory is the fastest and is located closest to the CPU to speed up processing?",
       "options": [
+        "Cache memory",
         "ROM",
         "Main RAM",
-        "Hard disk",
-        "Cache memory"
+        "Hard disk"
       ],
       "correctAnswer": "Cache memory",
       "explanation": "Cache memory is the fastest memory, placed close to the CPU to store frequently used data. Main RAM is slower than cache. A hard disk is far slower secondary storage, and ROM is used mainly for startup instructions, not high-speed processing, so those options are incorrect."
@@ -292,15 +292,15 @@
     {
       "id": "23",
       "subject": "E",
-      "questionText": "Which of the following are input devices?\n\n(i) Light pen\n(ii) Touchpad\n(iii) Plotter\n(iv) Microphone\n\nSelect the correct combination:",
+      "questionText": "Which of the following are input devices?\n\n(i) Light pen\n(ii) Touchpad\n(iii) Microphone\n(iv) Plotter\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A light pen, a touchpad and a microphone all send input into the computer, so (i), (ii) and (iv) are correct. A plotter (iii) produces printed output on paper and is an output device; hence any option containing (iii) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A light pen, a touchpad and a microphone all send input into the computer, so (i), (ii) and (iii) are correct. A plotter (iv) produces printed output on paper and is an output device; hence any option containing (iv) — the second, third and fourth — is incorrect."
     },
     {
       "id": "24",
@@ -318,15 +318,15 @@
     {
       "id": "25",
       "subject": "E",
-      "questionText": "Consider the following statements about MS PowerPoint:\n\n(i) A single page of a presentation is called a slide.\n(ii) The Slide Show view displays the presentation on the full screen.\n(iii) Transitions control how one slide changes to the next.\n(iv) A PowerPoint presentation cannot contain images.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about MS PowerPoint:\n\n(i) A PowerPoint presentation cannot contain images.\n(ii) A single page of a presentation is called a slide.\n(iii) The Slide Show view displays the presentation on the full screen.\n(iv) Transitions control how one slide changes to the next.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A page is called a slide, Slide Show view runs full screen, and transitions control slide changes, so (i), (ii) and (iii) are correct. Statement (iv) is false because presentations can freely contain images, videos and other media; hence any option containing (iv) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "A page is called a slide, Slide Show view runs full screen, and transitions control slide changes, so (ii), (iii) and (iv) are correct. Statement (i) is false because presentations can freely contain images, videos and other media; hence any option containing (i) is incorrect."
     },
     {
       "id": "26",
@@ -335,8 +335,8 @@
       "options": [
         ".pdf",
         ".docx",
-        ".xlsx",
-        ".pptx"
+        ".pptx",
+        ".xlsx"
       ],
       "correctAnswer": ".pptx",
       "explanation": "PowerPoint presentations use the .pptx extension from the 2007 version onward. The .docx extension is for Word documents, .xlsx is for Excel workbooks, and .pdf is a portable document format used across programs, so those extensions are incorrect for PowerPoint."
@@ -352,16 +352,16 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is correct but (R) is not correct",
-      "explanation": "A is correct: one byte consists of eight bits. R is false because a single bit can store only two values, 0 or 1, not the decimal digits 0 to 9. So the third option is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
+      "explanation": "A is correct: one byte consists of eight bits. R is false because a single bit can store only two values, 0 or 1, not the decimal digits 0 to 9. So '(A) is correct but (R) is not correct' is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
     },
     {
       "id": "28",
       "subject": "E",
       "questionText": "A named location on a storage device used to organise and group related files is called a ______.",
       "options": [
-        "folder",
         "file",
         "byte",
+        "folder",
         "cluster"
       ],
       "correctAnswer": "folder",
@@ -373,9 +373,9 @@
       "questionText": "Fill in the blank: Unwanted or unsolicited bulk email sent to many recipients is commonly known as __________. __________",
       "options": [
         "phishing",
-        "spam",
         "cache",
-        "cookie"
+        "cookie",
+        "spam"
       ],
       "correctAnswer": "spam",
       "explanation": "Spam refers to unsolicited bulk email sent indiscriminately to many recipients. Phishing is a targeted fraud to steal information, a cache stores temporary data for speed, and a cookie remembers website information, so those terms do not mean unwanted bulk email and are incorrect."
@@ -387,21 +387,21 @@
       "options": [
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-      "explanation": "A scanner digitises documents, a barcode reader reads product codes, a projector displays output on a large surface, and a microphone inputs sound — matching the first option. The second wrongly swaps scanner and barcode reader. The third wrongly swaps projector and microphone. The fourth wrongly labels the scanner as a projector, so those options are incorrect."
+      "explanation": "A scanner digitises documents, a barcode reader reads product codes, a projector displays output on a large surface, and a microphone inputs sound — matching '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)'. The second wrongly swaps scanner and barcode reader. The third wrongly swaps projector and microphone. The fourth wrongly labels the scanner as a projector, so those options are incorrect."
     },
     {
       "id": "31",
       "subject": "E",
       "questionText": "In a web address such as 'https://example.com', the part 'https' indicates the ______ being used.",
       "options": [
+        "protocol",
         "file name",
         "domain name",
-        "directory",
-        "protocol"
+        "directory"
       ],
       "correctAnswer": "protocol",
       "explanation": "'https' indicates the protocol (a secure version of HTTP) used to communicate with the website. The domain name is 'example.com', the directory would be a path after the domain, and the file name would be a specific page or resource, so those parts are not indicated by 'https' and are incorrect."
@@ -435,15 +435,15 @@
     {
       "id": "34",
       "subject": "E",
-      "questionText": "Which of the following are protocols used for handling email?\n\n(i) SMTP\n(ii) POP3\n(iii) IMAP\n(iv) HTTP\n\nSelect the correct combination:",
+      "questionText": "Which of the following are protocols used for handling email?\n\n(i) SMTP\n(ii) POP3\n(iii) HTTP\n(iv) IMAP\n\nSelect the correct combination:",
       "options": [
         "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "SMTP sends email, while POP3 and IMAP are used to retrieve email, so (i), (ii) and (iii) are correct. HTTP (iv) is used to transfer web pages, not to handle email; hence any option containing (iv) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "SMTP sends email, while POP3 and IMAP are used to retrieve email, so (i), (ii) and (iv) are correct. HTTP (iii) is used to transfer web pages, not to handle email; hence any option containing (iii) — the second, third and fourth — is incorrect."
     },
     {
       "id": "35",
@@ -452,8 +452,8 @@
       "options": [
         "First generation",
         "Third generation",
-        "Second generation",
-        "Fifth generation"
+        "Fifth generation",
+        "Second generation"
       ],
       "correctAnswer": "Fifth generation",
       "explanation": "The fifth generation of computers is associated with Artificial Intelligence and highly advanced processing, and it is still developing. The third generation used integrated circuits, the second used transistors, and the first used vacuum tubes, so those earlier generations are incorrect for AI-based computing."
@@ -469,16 +469,16 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is not correct but (R) is correct",
-      "explanation": "A is false because a printer is an output device that produces printed results, not an input device. R is true, as an input device does send data into the computer. So the fourth option is right. The first and second wrongly treat A as correct, and the third wrongly calls R incorrect."
+      "explanation": "A is false because a printer is an output device that produces printed results, not an input device. R is true, as an input device does send data into the computer. So '(A) is not correct but (R) is correct' is right. The first and second wrongly treat A as correct, and the third wrongly calls R incorrect."
     },
     {
       "id": "37",
       "subject": "E",
       "questionText": "What is the decimal equivalent of the binary number 10010?",
       "options": [
-        "18",
         "20",
         "16",
+        "18",
         "14"
       ],
       "correctAnswer": "18",
@@ -490,9 +490,9 @@
       "questionText": "The rectangular area on the screen in which a running program or document is displayed is called a ______.",
       "options": [
         "icon",
-        "window",
         "cursor",
-        "menu"
+        "menu",
+        "window"
       ],
       "correctAnswer": "window",
       "explanation": "A window is the framed rectangular area where a program or document is shown, and users can move or resize it. An icon is a small picture representing a program or file, a cursor is the pointer, and a menu is a list of commands, so those terms do not describe the display area and are incorrect."
@@ -504,8 +504,8 @@
       "options": [
         "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Binary uses 0 and 1, octal has base 8, and hexadecimal has base 16, so (i), (ii) and (iii) are correct. Statement (iv) is false because the decimal system has a base of 10, not 2; the base-2 system is binary, so any option containing (iv) is incorrect."
@@ -521,7 +521,7 @@
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
-      "explanation": "DPI measures resolution, Hertz measures frequency, a byte measures data storage, and Mbps measures data transfer speed — matching the first option. The second wrongly swaps DPI and Hertz. The third wrongly swaps storage and transfer speed. The fourth wrongly labels DPI as storage, so those options are incorrect."
+      "explanation": "DPI measures resolution, Hertz measures frequency, a byte measures data storage, and Mbps measures data transfer speed — matching '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)'. The second wrongly swaps DPI and Hertz. The third wrongly swaps storage and transfer speed. The fourth wrongly labels DPI as storage, so those options are incorrect."
     }
   ]
 }

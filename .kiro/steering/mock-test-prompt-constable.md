@@ -33,8 +33,9 @@ This project is **plan-driven**. The 70-day study plan predefines EVERY mock tes
 1. **Read `mock-tests/config.json`** — it holds `test_counter` and `next_test` (the number of the next pending test). This file is tiny; always read it first.
 2. **Read the matching entry in `mock-tests/manifest.json`** for that test number to get its full spec: `subject`, `topics`, `total_questions`, `difficulty_profile`, `type`, `filename`. Do NOT read the whole `manifest.json` into memory if you can jump to the entry; it is a compact index by design.
 3. **Read ONLY the relevant subject history shard(s)** in `mock-tests/history/<X>.json` (X = subject letter A–E, or all five only for a Full Test) to avoid repeating questions. Never read the generated test files in `mock-tests/tests/` in bulk — they exist only as output artifacts.
-4. **Generate** the test exactly per the spec and the rules in the sections below.
-5. **Run the Post-Generation Workflow (Section 7).**
+4. **If the test includes section B or C questions, read `current_affairs_2026.md`** — it is small and is the source of truth for every fact that changes over time (Section 0B).
+5. **Generate** the test exactly per the spec and the rules in the sections below.
+6. **Run the Post-Generation Workflow (Section 7).**
 
 **Context-safety rules (do not violate):**
 - Only ever read: `config.json`, the single needed `manifest.json` entry, and the needed subject history shard(s). This keeps every session fast and within context even after hundreds of tests exist.
@@ -66,6 +67,98 @@ Keep arithmetic **application-oriented and computationally clean** — numbers s
 
 ### E. Basic Concepts of Computers (15 Q) — 10+2 level
 Computer terminology; Hardware and software (types, system vs application software, generations, classifications); Input and output devices; MS Word (ribbon, formatting, shortcuts, mail merge, views); MS Excel (cells/ranges, formulas and functions, references, charts, shortcuts); Storage (primary/secondary, units, magnetic/optical/solid-state, backup) and operating systems (functions, types, Windows basics, file management); Safety and security (viruses, worms, Trojans, phishing, malware, firewalls, antivirus, passwords, backups, safe practices); E-mail and internet usage (accounts, CC/BCC, attachments, protocols, browsing, downloading/uploading, e-banking basics); Search engines (how they work, popular engines, search operators/refinement).
+
+---
+
+## SECTION 0A: SCOPE PRIORITY — INDIA FIRST, J&K FIRST (MANDATORY)
+
+The section titles are scope instructions, not decoration:
+
+- **Section B is "General Knowledge and Current Affairs (INDIA)"** → the default frame is India.
+- **Section C is "General Knowledge with SPECIAL REFERENCE TO J&K"** → the default frame is Jammu & Kashmir / Ladakh.
+
+A question can be perfectly true and still be **off-syllabus** because it is scoped to the
+wrong place. That is a rule violation, not a stylistic preference.
+
+### The rule
+
+1. **Section C: every question must have a J&K/Ladakh anchor.** Not one question in section C
+   may be a generic all-India item. Where the syllabus names a national instrument
+   (**RTI Act**, Indus Water Treaty, centrally sponsored schemes, Constitution-related
+   points), test it **through its J&K application** — how it reached J&K, what it replaced,
+   which J&K body administers it, what it changed for J&K. Reciting the central Act with no
+   J&K dimension is a violation.
+2. **Section B: India is the default frame.** For every syllabus area that names India, the
+   question must be about India:
+   - "Famous Places in India" → Indian monuments and Indian World Heritage Sites, **not**
+     world monuments or the world World Heritage list.
+   - "Important rivers & lakes in India" → Indian rivers/lakes. **A question whose answer is
+     the Nile, Amazon or Lake Baikal does not belong in this slot.**
+   - "Climate & Crops in India", "Constitution of India", "Indian Foreign Trade",
+     "Agriculture/industrialisation", "Centrally Sponsored Schemes", "Firsts in India",
+     "Languages", "Important dates in Indian History" → India only.
+3. **These section B areas ARE legitimately world-scoped** — the syllabus says so, so world
+   content here is correct and must not be "fixed" to India:
+   - "First in world (Adventure, Sports, Discoveries)"
+   - "Capitals & Currencies"
+   - "United Nations Organizations" (organs, functions, veto, members, specialised agencies,
+     headquarters) · "SAARC, ASEAN"
+   - "Political & Physical divisions of world **& India**" — cover both, but keep an India tilt
+   - "World famous Awards" (alongside the separate "National Awards" item)
+   - "Everyday Science" · "Books & Authors — General"
+   - "The world of Sports" — international events are in scope, but **tilt hard toward India's
+     performance, Indian players, Indian venues and Indian trophies**
+4. **A world superlative used to frame an Indian answer is fine and encouraged.** "The
+   Sundarbans, the world's largest mangrove forest, lies in which Indian state?" is a good
+   section B question — the subject is Indian, the superlative is only context. What is
+   forbidden is a question whose *answer* is non-Indian in an India-scoped slot.
+5. **UNESCO is a worked example of the distinction.** The **list of World Heritage Sites**
+   belongs to "Famous Places in India" → keep it Indian (see `current_affairs_2026.md` §4).
+   **UNESCO the agency** (mandate, Paris headquarters, Kalinga Prize) belongs to the
+   "United Nations Organizations" item → world scope is correct there.
+
+---
+
+## SECTION 0B: FACTUAL CURRENCY — THE CORPUS HAS AN AS-OF DATE (MANDATORY)
+
+**AS-OF DATE: September 2026.** Every factual question must be true as of that date, not as
+of your training data. A question that was right in 2024 and is wrong now is worse than no
+question at all — it actively teaches the candidate a wrong answer.
+
+1. **Read `current_affairs_2026.md` before writing any section B or C question.** It is the
+   single source of truth for every fact that changes over time: J&K's Chief Minister and
+   Assembly status, the Indus Waters Treaty's abeyance, the USBRL/Chenab Bridge
+   inauguration, India's World Heritage and Ramsar counts, classical languages, the Census
+   position, latest sports results. **When that file and your memory disagree, the file wins.**
+2. **Prefer stable facts over volatile ones.** The 1960 signing of the Indus Waters Treaty
+   never rots; "how many Ramsar sites does India have" rots within months. When a stable
+   question tests the same knowledge, write the stable one.
+3. **If you must test a volatile fact, date it inside the stem** — "As of August 2026, India
+   has how many Ramsar sites?" — so the item is auditable instead of silently wrong.
+4. **Never write an undated relative claim.** No "currently", "at present", "the latest",
+   "most recent", "in recent years", "as of recent estimates", "the incumbent" without an
+   explicit year. These are flagged as `UNDATED` by the audit.
+5. **Never invent a current fact.** If `current_affairs_2026.md` is silent on a volatile
+   point and you are not certain, do not guess — choose a stable fact instead.
+6. **Volatile categories to handle with care:** officeholders of any kind; counts of
+   sites/reserves/schemes; "newest/latest/first to" claims; GDP shares, export and forex
+   figures, scheme outlays; election status; treaty status; sports champions.
+7. **Distinguish "changed" from "superseded".** Census 2011 is still India's latest
+   *published* census (Census 2027 enumeration is only in Feb 2027), so "as per Census 2011"
+   questions remain correct. Do not "modernise" a fact that has not actually changed.
+
+### Mechanical check
+
+`_validate.py` cannot see meaning, so it cannot catch either of these two defect classes.
+Run the scope/currency audit as well:
+
+```bash
+python3 mock-tests/_audit_scope.py mock-tests/tests/<file>.json
+```
+
+It reports `SCOPE-C` (section C item with no J&K anchor), `SCOPE-B` (world-scoped item in an
+India-scoped topic), `STALE` (asserts a fact known to be out of date) and `UNDATED`
+(undated time-relative claim). Fix every finding before recording the test.
 
 ---
 
@@ -243,11 +336,54 @@ The correct answer must NOT be easily guessable. Apply ALL of the following to E
 2. **Length balance:** All four options within ±15–20% character count of each other.
 3. **No giveaway:** The correct answer must NEVER be the uniquely longest, uniquely shortest, or uniquely most-detailed option.
 4. **Parallel structure:** All four options share the same grammatical form and formatting pattern.
-5. **Balanced answer key:** Across a test, spread the correct answer roughly evenly across the four option positions — do not favor any position.
+5. **Balanced answer key:** Across a test, spread the correct answer as evenly as possible across the four option positions — aim for 25% each, and never let one position exceed the others by more than about 3 items. This applies **within each question type as well**, not just to the paper as a whole: if every Matching answer sits at position 1, the candidate does not need to read the columns.
 6. **Matching options:** Same number of pairs, same formatting pattern; distractor pairings must be plausible.
 7. **Numerical options:** All values in the same order of magnitude; include distractors that result from common calculation mistakes (wrong formula, sign error, off-by-one).
 8. **General Knowledge / Current Affairs items:** Distractors must be real, plausible entities/events (other real people, places, dates, schemes) — never invented names.
 9. **General English items:** Distractors must be the genuinely confusable alternative (the other article, the other preposition of the same collocation, the near-synonym with the wrong connotation, the homophone) — never a word that no candidate would consider.
+
+### 4A. STRUCTURAL BIAS — the four tells that make a paper guessable
+
+A question can have flawless distractors and still be answerable without being read, if the
+*structure* of the answer is predictable across the paper. These four patterns were each
+measured in this corpus and each made large parts of it scoreable by pattern alone. Avoid
+all four.
+
+10. **Never make the last statement the false one by default.** In statement-based and
+    multiple-correct items, rotate **which** numbered item is the false one: across a test,
+    `(i)`, `(ii)`, `(iii)` and `(iv)` must each be the false item about a quarter of the
+    time. Writing the three true statements first and the false one last is the single most
+    exploitable habit in this format — it makes "pick the first three" a winning strategy,
+    and it teaches the candidate to stop reading at `(iii)`.
+    - Concretely: `"(i), (ii) and (iii)"` must **not** be the correct answer in more than
+      roughly a quarter of a test's statement items.
+    - Statement `(i)` must be the false one about as often as any other.
+11. **Vary the Assertion–Reason relationship.** All four A–R categories must appear at
+    roughly equal rates across a test:
+    - both correct and R explains A
+    - both correct but R does **not** explain A
+    - A correct, R incorrect
+    - A incorrect, R correct
+
+    Because the four A–R options are fixed and cannot be reordered, this is the **only** way
+    to balance the answer key for this type. Defaulting to "both correct, R explains A" makes
+    every A–R item in the paper answerable on sight. Three reliable ways to build the other
+    three categories:
+    - *R does not explain A* — state two true facts about the same subject where the reason
+      is a parallel or consequent fact rather than the cause (e.g. A: the mean of 10, 20, 30
+      is 20; R: the median is also 20).
+    - *R incorrect* — invert or misstate the governing rule while keeping A true (e.g. A: the
+      sum of the first 10 natural numbers is 55; R: the sum of the first n is n(n−1)/2).
+    - *A incorrect* — break the instance while keeping the rule intact (e.g. A: a 3-4-6
+      triangle is right-angled; R: correct statement of the Pythagorean theorem).
+12. **Explanations must name options by their TEXT, never by position.** Write
+    `'Chenab Bridge' is wrong because…`, never `the first option is wrong because…` or
+    `Option 3 is wrong because…`. Positional references leak the key, and they silently
+    become false the moment options are reordered.
+13. **Do not let "All of the above" be a tell.** If the paper offers it, it must sometimes be
+    the correct answer; if it is always wrong, candidates learn to eliminate it on sight.
+    Likewise the correct option must not be systematically the longest or the shortest
+    (see rules 2 and 3).
 
 ---
 
@@ -325,8 +461,13 @@ Before finalizing, verify:
 18. **ANSWER CORRECTNESS VERIFIED:** For every math/reasoning question, have you computed the answer from scratch and confirmed it matches `correctAnswer`? For every statement-based question, have you verified each statement individually? For every coding-decoding question, have you applied the rule letter-by-letter?
 19. **NO SELF-CONTRADICTING EXPLANATIONS:** Does any `explanation` contain hedging phrases like "Wait", "Let me recalculate", "Actually all are correct", "Hmm", or "The answer should be"? If yes, the question has an unresolved error — fix it before proceeding.
 20. **CLEAN NUMBERS:** For every math question, does the correct calculation produce a value that EXACTLY matches one of the four options? If the calculation gives 5.33 but the closest option is 5, redesign the question with different numbers that yield a clean answer.
+21. **SCOPE (Section 0A):** Does EVERY section C question have a J&K/Ladakh anchor? Is every section B question about India, except in the areas the syllabus explicitly scopes to the world (capitals & currencies, UN, SAARC/ASEAN, firsts in world, world awards, world physical/political divisions, everyday science, books & authors, world of sports)? Is there any question in an India-scoped slot whose ANSWER is non-Indian?
+22. **CURRENCY (Section 0B):** Have you checked `current_affairs_2026.md` for every volatile fact? Is each factual claim true **as of September 2026**? Does any question make a "currently/latest/most recent/in recent years" claim without an explicit year?
+23. **STRUCTURAL BIAS (Section 4A):** Is the correct answer spread across all four positions, **within each question type** as well as overall? Across statement items, is the false item rotated over `(i)`–`(iv)` rather than always being the last one? Do the four Assertion–Reason relationships each appear at roughly equal rates? Does any explanation refer to an option by position instead of by its text?
 
 You may run `python3 mock-tests/_validate.py <file.json>` to mechanically check items 1–3, 9, 17, 19 and the answer-key balance before recording.
+Run `python3 mock-tests/_audit_scope.py <file.json>` to check items 21–22 (scope drift and stale/undated facts) — `_validate.py` cannot see meaning and will not catch them.
+Run `python3 mock-tests/_debias.py --report` to check item 23 across the corpus (answer-position, statement-shape and Assertion–Reason balance).
 
 ---
 
@@ -350,3 +491,4 @@ python3 mock-tests/_record_test.py <N>
 - History shards: `mock-tests/history/A.json` … `mock-tests/history/E.json`
 - Study Plan (human-readable): #[[STUDY_PLAN.md]]
 - Syllabus: #[[syllabus_constable.md]]
+- **Volatile facts / current affairs (read before any B or C question): #[[current_affairs_2026.md]]**

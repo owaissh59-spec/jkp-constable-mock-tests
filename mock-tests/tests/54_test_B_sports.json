@@ -8,9 +8,9 @@
       "subject": "B",
       "questionText": "The FIFA World Cup (football) is held once every:",
       "options": [
+        "4 years",
         "5 years",
         "2 years",
-        "4 years",
         "3 years"
       ],
       "correctAnswer": "4 years",
@@ -19,24 +19,24 @@
     {
       "id": "2",
       "subject": "B",
-      "questionText": "Consider the following statements about the Olympic Games:\n\n(i) The modern Olympic Games were revived in 1896 in Athens, Greece.\n(ii) The Olympics are held every 4 years.\n(iii) The five Olympic rings represent the five inhabited continents.\n(iv) The Olympic Games have never been cancelled.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Olympic Games:\n\n(i) The Olympic Games have never been cancelled.\n(ii) The modern Olympic Games were revived in 1896 in Athens, Greece.\n(iii) The Olympics are held every 4 years.\n(iv) The five Olympic rings represent the five inhabited continents.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The modern Olympics began in Athens 1896 (i-correct); held every 4 years (ii-correct); five rings = five continents (iii-correct). Statement (iv) is wrong because the Olympics were cancelled in 1916 (WWI), 1940, and 1944 (WWII)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The modern Olympics began in Athens 1896 (i-correct); held every 4 years (ii-correct); five rings = five continents (iii-correct). Statement (i) is wrong because the Olympics were cancelled in 1916 (WWI), 1940, and 1944 (WWII)."
     },
     {
       "id": "3",
       "subject": "B",
       "questionText": "The term 'LBW' in cricket stands for:",
       "options": [
+        "Leg Before Wicket",
         "Left Before Wicket",
         "Last Batsman's Wicket",
-        "Leg Before Wicket",
         "Long Ball Wide"
       ],
       "correctAnswer": "Leg Before Wicket",
@@ -53,7 +53,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Cricket is India's most popular sport by viewership and following (A is correct). India's World Cup wins (1983, 2011) and legendary players contribute to its popularity (R is correct and explains A). Option 2 is wrong because R partly explains A's popularity; Option 3 is wrong because R is factually correct; Option 4 is wrong because A is correct."
+      "explanation": "Cricket is India's most popular sport by viewership and following (A is correct). India's World Cup wins (1983, 2011) and legendary players contribute to its popularity (R is correct and explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R partly explains A's popularity; '(A) is correct but (R) is not correct' is wrong because R is factually correct; '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "5",
@@ -61,9 +61,9 @@
       "questionText": "Which of the following trophies are associated with cricket?\n\n(i) Ranji Trophy\n(ii) Davis Cup\n(iii) Duleep Trophy\n(iv) Irani Cup\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "Ranji Trophy (domestic first-class), Duleep Trophy (zonal), and Irani Cup (Ranji champion vs Rest of India) are all cricket tournaments (i, iii, iv correct). Davis Cup (ii) is wrong — it is an international tennis competition."
@@ -74,8 +74,8 @@
       "questionText": "The sport of badminton originated in which country?",
       "options": [
         "Japan",
-        "China",
         "India",
+        "China",
         "England"
       ],
       "correctAnswer": "India",
@@ -86,13 +86,13 @@
       "subject": "B",
       "questionText": "Match the following sports with their associated terms:\n\nColumn I:\n(a) Cricket\n(b) Football\n(c) Tennis\n(d) Hockey\n\nColumn II:\n(i) Penalty corner\n(ii) Deuce\n(iii) Hat-trick (originally)\n(iv) Offside\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-      "explanation": "'Hat-trick' originated in cricket (a-iii — a bowler taking 3 wickets in 3 balls earned a hat); 'offside' is a key football rule (b-iv); 'deuce' is a tennis term for 40-40 (c-ii); 'penalty corner' is in hockey (d-i). Option 2 swaps cricket and football; Option 3 swaps football and tennis; Option 4 swaps tennis and hockey."
+      "explanation": "'Hat-trick' originated in cricket (a-iii — a bowler taking 3 wickets in 3 balls earned a hat); 'offside' is a key football rule (b-iv); 'deuce' is a tennis term for 40-40 (c-ii); 'penalty corner' is in hockey (d-i). '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' swaps cricket and football; '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' swaps football and tennis; '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' swaps tennis and hockey."
     },
     {
       "id": "8",
@@ -110,24 +110,24 @@
     {
       "id": "9",
       "subject": "B",
-      "questionText": "Consider the following statements about the Commonwealth Games:\n\n(i) They are held every 4 years.\n(ii) Only countries that were part of the British Empire participate.\n(iii) India first participated in the Commonwealth Games in 1934.\n(iv) The games were originally called the British Empire Games.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Commonwealth Games:\n\n(i) They are held every 4 years.\n(ii) India first participated in the Commonwealth Games in 1934.\n(iii) Only countries that were part of the British Empire participate.\n(iv) The games were originally called the British Empire Games.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Commonwealth Games are held every 4 years (i-correct); India first participated in 1934 (iii-correct); originally called British Empire Games, started 1930 (iv-correct). Statement (ii) is wrong — Commonwealth membership (not just former Empire status) determines participation, and some members were never colonies."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Commonwealth Games are held every 4 years (i-correct); India first participated in 1934 (iii-correct); originally called British Empire Games, started 1930 (iv-correct). Statement (iii) is wrong — Commonwealth membership (not just former Empire status) determines participation, and some members were never colonies."
     },
     {
       "id": "10",
       "subject": "B",
       "questionText": "The number of players in a standard football (soccer) team on the field is:",
       "options": [
-        "11",
         "9",
         "12",
+        "11",
         "10"
       ],
       "correctAnswer": "11",
@@ -144,7 +144,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
-      "explanation": "Hockey is widely recognized as India's national game (A is correct). India did win six consecutive Olympic golds 1928-1956 (R is correct). However, R does not explain A because there is no official government notification declaring hockey as the national game — the recognition is traditional/popular, not caused by the Olympic wins specifically. Option 1 is wrong because the gold medals didn't 'cause' the designation; Option 3 is wrong because R is factually correct; Option 4 is wrong because A is also correct."
+      "explanation": "Hockey is widely recognized as India's national game (A is correct). India did win six consecutive Olympic golds 1928-1956 (R is correct). However, R does not explain A because there is no official government notification declaring hockey as the national game — the recognition is traditional/popular, not caused by the Olympic wins specifically. 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is wrong because the gold medals didn't 'cause' the designation; '(A) is correct but (R) is not correct' is wrong because R is factually correct; '(A) is not correct but (R) is correct' is wrong because A is also correct."
     },
     {
       "id": "12",
@@ -152,9 +152,9 @@
       "questionText": "The Wimbledon Championships is associated with which sport?",
       "options": [
         "Cricket",
-        "Lawn Tennis",
         "Badminton",
-        "Golf"
+        "Golf",
+        "Lawn Tennis"
       ],
       "correctAnswer": "Lawn Tennis",
       "explanation": "Wimbledon is the oldest and most prestigious Grand Slam tennis tournament, held annually in London. Cricket is wrong — cricket has The Ashes, not Wimbledon; golf is wrong — golf has The Masters/The Open; badminton is wrong — badminton has the All England Open, not Wimbledon."
@@ -164,10 +164,10 @@
       "subject": "B",
       "questionText": "Which of the following are Grand Slam tennis tournaments?\n\n(i) Australian Open\n(ii) French Open (Roland Garros)\n(iii) US Open\n(iv) Indian Open\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "The four Grand Slams are: Australian Open, French Open, Wimbledon, and US Open (i, ii, iii correct). Indian Open (iv) is wrong — there is no Grand Slam called 'Indian Open'; the India Open is a badminton/golf tournament, not a tennis Grand Slam."
@@ -177,10 +177,10 @@
       "subject": "B",
       "questionText": "Fill in the blank: The __________ is the highest individual award for lifetime achievement in sports given by the Government of India.",
       "options": [
-        "Major Dhyan Chand Award",
         "Dronacharya Award",
         "Arjuna Award",
-        "Khel Ratna Award"
+        "Khel Ratna Award",
+        "Major Dhyan Chand Award"
       ],
       "correctAnswer": "Major Dhyan Chand Award",
       "explanation": "The Major Dhyan Chand Award (formerly Dhyan Chand Award) is given for lifetime achievement in sports. Arjuna Award is wrong — it is for consistent outstanding performance over 4 years, not lifetime; Dronacharya Award is wrong — it is for coaches; Khel Ratna is wrong — it is for outstanding performance in recent years, not lifetime achievement."
@@ -190,13 +190,13 @@
       "subject": "B",
       "questionText": "Match the following sports personalities with their sports:\n\nColumn I:\n(a) P.V. Sindhu\n(b) Mary Kom\n(c) Viswanathan Anand\n(d) Neeraj Chopra\n\nColumn II:\n(i) Javelin throw\n(ii) Chess\n(iii) Boxing\n(iv) Badminton\n\nChoose the correct match:",
       "options": [
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
-        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
-        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
-      "explanation": "P.V. Sindhu plays badminton (a-iv); Mary Kom is a boxer (b-iii); Viswanathan Anand is a chess grandmaster (c-ii); Neeraj Chopra is a javelin thrower (d-i). Option 2 swaps (a) and (b); Option 3 swaps (c) and (d); Option 4 swaps (b) and (c)."
+      "explanation": "P.V. Sindhu plays badminton (a-iv); Mary Kom is a boxer (b-iii); Viswanathan Anand is a chess grandmaster (c-ii); Neeraj Chopra is a javelin thrower (d-i). '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' swaps (a) and (b); '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' swaps (c) and (d); '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' swaps (b) and (c)."
     },
     {
       "id": "16",
@@ -216,8 +216,8 @@
       "subject": "B",
       "questionText": "Consider the following statements about the 2020 Tokyo Olympics (held in 2021):\n\n(i) India won its first-ever Olympic gold in athletics (javelin throw by Neeraj Chopra).\n(ii) It was the first Olympics held without spectators in most venues.\n(iii) India won a total of 7 medals at these Games.\n(iv) The Games were postponed by one year due to the COVID-19 pandemic.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv) only",
         "All of the above",
+        "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only",
         "(i), (ii) and (iii) only"
       ],
@@ -230,8 +230,8 @@
       "questionText": "The 'Ashes' is a famous cricket series played between:",
       "options": [
         "South Africa and Australia",
-        "India and Pakistan",
         "England and Australia",
+        "India and Pakistan",
         "India and England"
       ],
       "correctAnswer": "England and Australia",
@@ -248,7 +248,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "IPL is among the most-watched cricket leagues globally (A is correct). Its T20 format, entertainment value, and international stars drive its popularity (R is correct and explains A). Option 2 is wrong because R explains the reasons for A; Option 3 is wrong because R is accurate; Option 4 is wrong because A is correct."
+      "explanation": "IPL is among the most-watched cricket leagues globally (A is correct). Its T20 format, entertainment value, and international stars drive its popularity (R is correct and explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R explains the reasons for A; '(A) is correct but (R) is not correct' is wrong because R is accurate; '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "20",
@@ -256,9 +256,9 @@
       "questionText": "The total number of players in a standard volleyball team on the court is:",
       "options": [
         "8",
+        "6",
         "7",
-        "5",
-        "6"
+        "5"
       ],
       "correctAnswer": "6",
       "explanation": "A volleyball team has 6 players on the court at a time. 5 is wrong — that is basketball; 7 is wrong — that is kabaddi; 8 is wrong — exceeds volleyball's standard."
@@ -266,15 +266,15 @@
     {
       "id": "21",
       "subject": "B",
-      "questionText": "Consider the following statements about kabaddi:\n\n(i) It is a contact sport that originated in India.\n(ii) Each team has 7 players on the court.\n(iii) The raider must chant 'kabaddi' while in the opponent's half.\n(iv) A standard kabaddi match has 4 quarters of 10 minutes each.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about kabaddi:\n\n(i) It is a contact sport that originated in India.\n(ii) A standard kabaddi match has 4 quarters of 10 minutes each.\n(iii) Each team has 7 players on the court.\n(iv) The raider must chant 'kabaddi' while in the opponent's half.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Kabaddi is an Indian contact sport (i-correct); 7 players per side (ii-correct); raiders must continuously chant 'kabaddi' (iii-correct). Statement (iv) is wrong because a standard kabaddi match has 2 halves of 20 minutes each, not 4 quarters."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Kabaddi is an Indian contact sport (i-correct); 7 players per side (ii-correct); raiders must continuously chant 'kabaddi' (iii-correct). Statement (ii) is wrong because a standard kabaddi match has 2 halves of 20 minutes each, not 4 quarters."
     },
     {
       "id": "22",
@@ -283,8 +283,8 @@
       "options": [
         "6",
         "5",
-        "3",
-        "4"
+        "4",
+        "3"
       ],
       "correctAnswer": "4",
       "explanation": "Each polo team has 4 mounted players. 3 is wrong — too few for standard polo; 5 is wrong — exceeds team size; 6 is wrong — that is volleyball's team size."
@@ -296,11 +296,11 @@
       "options": [
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
-        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
-        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
-      "explanation": "Thomas Cup is for men's badminton (a-iv); Davis Cup is for men's tennis (b-iii); Ryder Cup is for golf (c-ii); Stanley Cup is for ice hockey (d-i). Option 2 swaps badminton and tennis; Option 3 swaps golf and ice hockey; Option 4 swaps tennis and golf."
+      "explanation": "Thomas Cup is for men's badminton (a-iv); Davis Cup is for men's tennis (b-iii); Ryder Cup is for golf (c-ii); Stanley Cup is for ice hockey (d-i). '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' swaps badminton and tennis; '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' swaps golf and ice hockey; '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' swaps tennis and golf."
     },
     {
       "id": "24",
@@ -321,9 +321,9 @@
       "questionText": "Fill in the blank: The standard duration of a one-day international (ODI) cricket match is __________ overs per side.",
       "options": [
         "20 overs",
-        "50 overs",
         "60 overs",
-        "40 overs"
+        "40 overs",
+        "50 overs"
       ],
       "correctAnswer": "50 overs",
       "explanation": "An ODI match consists of 50 overs per side. 20 overs is wrong — that is T20 format; 40 overs is wrong — no standard format uses this; 60 overs is wrong — exceeds the ODI limit."
@@ -334,9 +334,9 @@
       "questionText": "Which of the following Indian sportspersons have won Olympic gold medals?\n\n(i) Abhinav Bindra (Shooting, 2008)\n(ii) Neeraj Chopra (Javelin, 2020)\n(iii) Saina Nehwal (Badminton, 2012)\n(iv) The Indian Hockey Team (1980)\n\nSelect the correct combination:",
       "options": [
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Abhinav Bindra won gold in shooting 2008 Beijing (i-correct); Neeraj Chopra won gold in javelin 2020 Tokyo (ii-correct); Indian Hockey team won gold in 1980 Moscow (iv-correct). Saina Nehwal (iii) is wrong — she won a bronze medal in 2012 London, not gold."
@@ -346,8 +346,8 @@
       "subject": "B",
       "questionText": "The Summer Olympic Games 2024 were held in which city?",
       "options": [
-        "Tokyo, Japan",
         "Paris, France",
+        "Tokyo, Japan",
         "Los Angeles, USA",
         "London, UK"
       ],
@@ -357,23 +357,23 @@
     {
       "id": "28",
       "subject": "B",
-      "questionText": "Consider the following statements about the sport of wrestling:\n\n(i) It is one of the oldest sports, featured in the ancient Olympic Games.\n(ii) Freestyle and Greco-Roman are the two Olympic styles.\n(iii) In Greco-Roman wrestling, holds below the waist are allowed.\n(iv) India has won Olympic medals in wrestling.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the sport of wrestling:\n\n(i) It is one of the oldest sports, featured in the ancient Olympic Games.\n(ii) Freestyle and Greco-Roman are the two Olympic styles.\n(iii) India has won Olympic medals in wrestling.\n(iv) In Greco-Roman wrestling, holds below the waist are allowed.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Wrestling was in ancient Olympics (i-correct); freestyle and Greco-Roman are Olympic styles (ii-correct); India has won Olympic wrestling medals — Sushil Kumar, Sakshi Malik, Bajrang Punia, Ravi Dahiya (iv-correct). Statement (iii) is wrong because in Greco-Roman wrestling, holds below the waist are NOT allowed — that is the key distinction from freestyle."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Wrestling was in ancient Olympics (i-correct); freestyle and Greco-Roman are Olympic styles (ii-correct); India has won Olympic wrestling medals — Sushil Kumar, Sakshi Malik, Bajrang Punia, Ravi Dahiya (iv-correct). Statement (iv) is wrong because in Greco-Roman wrestling, holds below the waist are NOT allowed — that is the key distinction from freestyle."
     },
     {
       "id": "29",
       "subject": "B",
       "questionText": "The 'Super Over' in cricket is used to:",
       "options": [
-        "Decide the winner when a match ends in a tie",
         "Penalize a team for slow over-rate",
+        "Decide the winner when a match ends in a tie",
         "Determine the Man of the Match",
         "Award bonus runs to the batting team"
       ],
@@ -391,7 +391,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
-      "explanation": "India did host Asian Games in 1951 (first ever) and 1982 in New Delhi (A is correct). Delhi has sports infrastructure (R is correct). However, R does not explain A because India hosted in 1951 BEFORE major infrastructure existed — the 1951 hosting was due to India's initiative in founding the Asian Games, not existing infrastructure. Option 1 is wrong because R doesn't causally explain A; Option 3 is wrong because R is correct; Option 4 is wrong because A is correct."
+      "explanation": "India did host Asian Games in 1951 (first ever) and 1982 in New Delhi (A is correct). Delhi has sports infrastructure (R is correct). However, R does not explain A because India hosted in 1951 BEFORE major infrastructure existed — the 1951 hosting was due to India's initiative in founding the Asian Games, not existing infrastructure. 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is wrong because R doesn't causally explain A; '(A) is correct but (R) is not correct' is wrong because R is correct; '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "31",
@@ -399,9 +399,9 @@
       "questionText": "The term 'hat-trick' in football refers to:",
       "options": [
         "Three consecutive corner kicks",
+        "Scoring 3 goals by the same player in a single match",
         "Winning 3 matches consecutively",
-        "Scoring 2 goals in a match",
-        "Scoring 3 goals by the same player in a single match"
+        "Scoring 2 goals in a match"
       ],
       "correctAnswer": "Scoring 3 goals by the same player in a single match",
       "explanation": "A hat-trick in football is when one player scores three goals in a single match. 2 goals is wrong — that is called a 'brace'; winning 3 matches is wrong — that is a winning streak; corner kicks is wrong — no such term exists."
@@ -409,15 +409,15 @@
     {
       "id": "32",
       "subject": "B",
-      "questionText": "Consider the following statements about the Khelo India programme:\n\n(i) It is a Government of India initiative to promote sports at grassroots level.\n(ii) It provides annual scholarships to talented young athletes.\n(iii) It includes the Khelo India Youth Games and University Games.\n(iv) It is managed by the International Olympic Committee.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Khelo India programme:\n\n(i) It is managed by the International Olympic Committee.\n(ii) It is a Government of India initiative to promote sports at grassroots level.\n(iii) It provides annual scholarships to talented young athletes.\n(iv) It includes the Khelo India Youth Games and University Games.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Khelo India is a government programme for grassroots sports (i-correct); provides scholarships to athletes (ii-correct); includes Youth Games and University Games (iii-correct). Statement (iv) is wrong because Khelo India is managed by the Ministry of Youth Affairs and Sports, Government of India — not by the IOC."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Khelo India is a government programme for grassroots sports (i-correct); provides scholarships to athletes (ii-correct); includes Youth Games and University Games (iii-correct). Statement (i) is wrong because Khelo India is managed by the Ministry of Youth Affairs and Sports, Government of India — not by the IOC."
     },
     {
       "id": "33",
@@ -425,12 +425,12 @@
       "questionText": "Match the following countries with sports they are most famous for:\n\nColumn I:\n(a) Brazil\n(b) New Zealand\n(c) China\n(d) Canada\n\nColumn II:\n(i) Table Tennis\n(ii) Ice Hockey\n(iii) Rugby (All Blacks)\n(iv) Football (Soccer)\n\nChoose the correct match:",
       "options": [
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
-      "explanation": "Brazil is football-famous (a-iv); New Zealand's All Blacks are rugby legends (b-iii); China dominates table tennis (c-i); Canada is famous for ice hockey (d-ii). Option 2 swaps Brazil and NZ; Option 3 swaps China and Canada; Option 4 swaps NZ and China."
+      "explanation": "Brazil is football-famous (a-iv); New Zealand's All Blacks are rugby legends (b-iii); China dominates table tennis (c-i); Canada is famous for ice hockey (d-ii). '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' swaps Brazil and NZ; '(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)' swaps China and Canada; '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' swaps NZ and China."
     },
     {
       "id": "34",
@@ -451,8 +451,8 @@
       "questionText": "Which of the following sports use a shuttlecock?\n\n(i) Badminton\n(ii) Table Tennis\n(iii) Lawn Tennis\n(iv) Squash\n\nSelect the correct combination:",
       "options": [
         "(i) and (iv) only",
-        "(i) only",
         "(i) and (iii) only",
+        "(i) only",
         "(i) and (ii) only"
       ],
       "correctAnswer": "(i) only",
@@ -463,10 +463,10 @@
       "subject": "B",
       "questionText": "Consider the following statements:\n\n(i) The Olympic motto is 'Citius, Altius, Fortius' meaning 'Faster, Higher, Stronger'.\n(ii) 'Communiter' (Together) was added to the motto in 2021.\n(iii) The Olympic flame is lit in Athens, Greece before each Games.\n(iv) Pierre de Coubertin is the founder of the modern Olympic Games.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
-        "(i), (iii) and (iv) only"
+        "(i), (iii) and (iv) only",
+        "All of the above"
       ],
       "correctAnswer": "All of the above",
       "explanation": "The original motto is 'Citius, Altius, Fortius' (i-correct); 'Communiter' was added in 2021 making it 'Faster, Higher, Stronger — Together' (ii-correct); the flame is lit at Olympia, Greece (iii-correct — ancient Olympia, which is in Greece); Pierre de Coubertin founded the modern Olympics (iv-correct). All four are factually accurate."
@@ -477,9 +477,9 @@
       "questionText": "The following data shows India's medal tally at the 2020 Tokyo Olympics:\n\nGold → 1\nSilver → 2\nBronze → 4\n\nWhat was India's total medal count at the 2020 Tokyo Olympics?",
       "options": [
         "6",
-        "7",
         "5",
-        "8"
+        "8",
+        "7"
       ],
       "correctAnswer": "7",
       "explanation": "Total = 1 + 2 + 4 = 7 medals. 5 is wrong (underestimates); 6 is wrong (miscounts); 8 is wrong (overcounts)."
@@ -495,7 +495,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Sachin is widely known as 'God of Cricket' (A is correct). His record-breaking run tallies and 100 centuries explain why he earned this title (R is correct and explains A). Option 2 is wrong because R directly explains A; Option 3 is wrong because R is accurate; Option 4 is wrong because A is correct."
+      "explanation": "Sachin is widely known as 'God of Cricket' (A is correct). His record-breaking run tallies and 100 centuries explain why he earned this title (R is correct and explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains A; '(A) is correct but (R) is not correct' is wrong because R is accurate; '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "39",
@@ -503,9 +503,9 @@
       "questionText": "The sport of 'kho-kho' originated in:",
       "options": [
         "Pakistan",
-        "India",
         "Bangladesh",
-        "Sri Lanka"
+        "Sri Lanka",
+        "India"
       ],
       "correctAnswer": "India",
       "explanation": "Kho-kho is an ancient Indian sport with roots in Maharashtra, dating back to the Deccan region. Pakistan is wrong — no historical origin connection; Sri Lanka is wrong — it originated in India; Bangladesh is wrong — no historical connection to kho-kho's origins."
@@ -515,22 +515,22 @@
       "subject": "B",
       "questionText": "Match the following sports with the number of players per team on the field:\n\nColumn I:\n(a) Cricket\n(b) Basketball\n(c) Hockey\n(d) Kabaddi\n\nColumn II:\n(i) 7\n(ii) 11\n(iii) 5\n(iv) 11\n\nChoose the correct match:",
       "options": [
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-      "explanation": "Cricket has 11 players (a-ii); basketball has 5 (b-iii); hockey has 11 (c-iv); kabaddi has 7 (d-i). Option 2 wrongly assigns 5 to cricket; Option 3 assigns 7 to hockey; Option 4 reverses all assignments."
+      "explanation": "Cricket has 11 players (a-ii); basketball has 5 (b-iii); hockey has 11 (c-iv); kabaddi has 7 (d-i). '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' wrongly assigns 5 to cricket; '(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)' assigns 7 to hockey; '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' reverses all assignments."
     },
     {
       "id": "41",
       "subject": "B",
       "questionText": "The term 'ace' in tennis refers to:",
       "options": [
+        "A serve that the receiver fails to touch",
         "A point won after a long rally",
         "Winning a set 6-0",
-        "A serve that the receiver fails to touch",
         "A double fault by the opponent"
       ],
       "correctAnswer": "A serve that the receiver fails to touch",
@@ -542,9 +542,9 @@
       "questionText": "Consider the following statements about the World Cup cricket:\n\n(i) The first Cricket World Cup was held in 1975 in England.\n(ii) India won the Cricket World Cup in 1983 under Kapil Dev.\n(iii) Australia has won the most Cricket World Cup titles.\n(iv) The World Cup is held every 2 years.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "First World Cup in 1975, England (i-correct); India won in 1983 under Kapil Dev (ii-correct); Australia has won 6 titles, the most (iii-correct). Statement (iv) is wrong because the Cricket World Cup is held every 4 years, not 2."
@@ -568,8 +568,8 @@
       "questionText": "The following data shows venues of the last few Olympic Games:\n\n2008 → Beijing\n2012 → London\n2016 → Rio de Janeiro\n2020 → Tokyo\n2024 → Paris\n\nHow many years separate the Beijing Olympics from the Paris Olympics?",
       "options": [
         "14 years",
-        "18 years",
         "16 years",
+        "18 years",
         "12 years"
       ],
       "correctAnswer": "16 years",
@@ -578,15 +578,15 @@
     {
       "id": "45",
       "subject": "B",
-      "questionText": "Which of the following sports are included in the Summer Olympics?\n\n(i) Athletics\n(ii) Swimming\n(iii) Ice skating\n(iv) Wrestling\n\nSelect the correct combination:",
+      "questionText": "Which of the following sports are included in the Summer Olympics?\n\n(i) Ice skating\n(ii) Athletics\n(iii) Swimming\n(iv) Wrestling\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Athletics (i-correct), swimming (ii-correct), and wrestling (iv-correct) are all Summer Olympic sports. Ice skating (iii) is wrong because it is a Winter Olympic sport, not included in the Summer Games."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Athletics (i-correct), swimming (ii-correct), and wrestling (iv-correct) are all Summer Olympic sports. Ice skating (i) is wrong because it is a Winter Olympic sport, not included in the Summer Games."
     },
     {
       "id": "46",
@@ -604,15 +604,15 @@
     {
       "id": "47",
       "subject": "B",
-      "questionText": "Consider the following statements about Major Dhyan Chand:\n\n(i) He was one of the greatest hockey players in history.\n(ii) He scored over 400 goals in his international career.\n(iii) India's National Sports Day (29 August) is celebrated on his birthday.\n(iv) He played for the Indian football team.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Major Dhyan Chand:\n\n(i) He was one of the greatest hockey players in history.\n(ii) He played for the Indian football team.\n(iii) He scored over 400 goals in his international career.\n(iv) India's National Sports Day (29 August) is celebrated on his birthday.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Dhyan Chand was a legendary hockey player (i-correct); scored over 400 international goals (ii-correct); 29 August (his birthday) is National Sports Day (iii-correct). Statement (iv) is wrong because Dhyan Chand was a HOCKEY player, not a football player."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Dhyan Chand was a legendary hockey player (i-correct); scored over 400 international goals (ii-correct); 29 August (his birthday) is National Sports Day (iii-correct). Statement (ii) is wrong because Dhyan Chand was a HOCKEY player, not a football player."
     },
     {
       "id": "48",
@@ -634,11 +634,11 @@
       "options": [
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-      "explanation": "2024 Olympics in Paris (a-ii); 2024 T20 WC in USA and West Indies (b-iv); 2026 FIFA WC in USA/Canada/Mexico (c-i); 2028 Olympics in Los Angeles (d-iii). Option 2 swaps (c) and (d); Option 3 swaps (a) and (b); Option 4 swaps (b) and (c)."
+      "explanation": "2024 Olympics in Paris (a-ii); 2024 T20 WC in USA and West Indies (b-iv); 2026 FIFA WC in USA/Canada/Mexico (c-i); 2028 Olympics in Los Angeles (d-iii). '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' swaps (c) and (d); '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' swaps (a) and (b); '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' swaps (b) and (c)."
     },
     {
       "id": "50",
@@ -646,9 +646,9 @@
       "questionText": "The term 'marathon' in athletics refers to a foot race covering a distance of approximately:",
       "options": [
         "50 km",
-        "42.195 km",
         "35 km",
-        "21 km"
+        "21 km",
+        "42.195 km"
       ],
       "correctAnswer": "42.195 km",
       "explanation": "A marathon covers 42.195 km (26.2 miles). 21 km is wrong — that is a half-marathon; 35 km is wrong — no standard race at this distance; 50 km is wrong — that is a race walking event, not a standard marathon."

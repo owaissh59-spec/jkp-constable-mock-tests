@@ -15,7 +15,7 @@
       "id": "2",
       "subject": "A",
       "questionText": "Consider the following statements about articles:\n\n(i) 'A' is used before words beginning with a consonant sound.\n(ii) 'An' is used before words beginning with a vowel sound.\n(iii) 'The' is a definite article.\n(iv) 'A' is used before the word 'hour'.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "'A' precedes consonant sounds, 'an' precedes vowel sounds, and 'the' is the definite article, so (i), (ii) and (iii) are true. Statement (iv) is false because 'hour' has a silent 'h' and begins with a vowel sound, so it takes 'an hour', not 'a hour'; hence any option with (iv) is wrong."
     },
@@ -23,7 +23,7 @@
       "id": "3",
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'CANDID':",
-      "options": ["Rude", "Secretive", "Frank", "Dull"],
+      "options": ["Frank", "Rude", "Secretive", "Dull"],
       "correctAnswer": "Frank",
       "explanation": "'Candid' means open and honest in expression, so 'frank' is the closest synonym. 'Secretive' is its opposite, 'rude' adds a negative tone not implied by candid, and 'dull' relates to being uninteresting, so none of them matches and 'frank' is correct."
     },
@@ -31,7 +31,7 @@
       "id": "4",
       "subject": "A",
       "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) To hit the nail on the head\n(b) To turn a deaf ear\n(c) To add fuel to the fire\n(d) To make a mountain out of a molehill\n\nColumn II:\n(i) To ignore\n(ii) To exaggerate a small matter\n(iii) To say exactly the right thing\n(iv) To worsen a situation\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
       "explanation": "'Hit the nail on the head' means to say exactly the right thing, 'turn a deaf ear' means to ignore, 'add fuel to the fire' means to worsen a situation, and 'make a mountain out of a molehill' means to exaggerate a small matter, giving (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii). The other options swap 'ignore' with 'worsen' or misplace exaggeration, which are wrong."
     },
@@ -39,23 +39,23 @@
       "id": "5",
       "subject": "A",
       "questionText": "Choose the correct preposition: She has been absent ______ the class since Monday.",
-      "options": ["from", "of", "in", "at"],
+      "options": ["of", "from", "in", "at"],
       "correctAnswer": "from",
       "explanation": "The collocation 'absent from' is standard when someone is away from a place or event, so 'absent from the class' is correct. 'Of', 'in' and 'at' do not combine idiomatically with 'absent' in this sense, so they are wrong and 'from' is the right preposition."
     },
     {
       "id": "6",
       "subject": "A",
-      "questionText": "Which of the following are synonyms of the word 'HAPPY'?\n\n(i) Cheerful\n(ii) Glad\n(iii) Gloomy\n(iv) Delighted\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'Cheerful', 'glad' and 'delighted' all express happiness, so (i), (ii) and (iv) are synonyms. 'Gloomy' means sad or depressed, the opposite of happy, so it is not a synonym; hence any option that includes 'gloomy' is wrong."
+      "questionText": "Which of the following are synonyms of the word 'HAPPY'?\n\n(i) Gloomy\n(ii) Cheerful\n(iii) Glad\n(iv) Delighted\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Cheerful', 'glad' and 'delighted' all express happiness, so (ii), (iii) and (iv) are synonyms. 'Gloomy' means sad or depressed, the opposite of happy, so it is not a synonym; hence any option that includes 'gloomy' is wrong."
     },
     {
       "id": "7",
       "subject": "A",
       "questionText": "Choose the word opposite in meaning to 'GENEROUS':",
-      "options": ["Kind", "Liberal", "Stingy", "Noble"],
+      "options": ["Kind", "Stingy", "Liberal", "Noble"],
       "correctAnswer": "Stingy",
       "explanation": "'Generous' means willing to give freely, so its antonym is 'stingy', meaning ungenerous or miserly. 'Kind', 'liberal' and 'noble' are close in meaning to generous rather than opposite, so none of them is the antonym and 'stingy' is correct."
     },
@@ -71,7 +71,7 @@
       "id": "9",
       "subject": "A",
       "questionText": "Fill in the blank with the correct verb form: She ______ in this office for five years.",
-      "options": ["has worked", "is working", "worked", "will work"],
+      "options": ["is working", "worked", "has worked", "will work"],
       "correctAnswer": "has worked",
       "explanation": "The phrase 'for five years' up to the present calls for the present perfect 'has worked', showing an action continuing into now. 'Is working' is present continuous, 'worked' is simple past and cuts off the connection to the present, and 'will work' is future, so 'has worked' is correct."
     },
@@ -79,7 +79,7 @@
       "id": "10",
       "subject": "A",
       "questionText": "Choose the correct word to complete the sentence: He gave me a piece of sound ______.",
-      "options": ["advise", "advice", "advises", "adviced"],
+      "options": ["advise", "advises", "advice", "adviced"],
       "correctAnswer": "advice",
       "explanation": "'Advice' is the noun meaning guidance, which fits after 'a piece of'. 'Advise' is the verb form, 'advises' is a verb inflection, and 'adviced' is not a correct word, so only the noun 'advice' correctly completes the sentence."
     },
@@ -94,16 +94,16 @@
     {
       "id": "12",
       "subject": "A",
-      "questionText": "Consider the following statements about tenses:\n\n(i) The present perfect tense uses 'has/have' + past participle.\n(ii) 'I am writing' is in the present continuous tense.\n(iii) 'She will have gone' is in the future perfect tense.\n(iv) 'They was playing' is grammatically correct.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The present perfect uses has/have + past participle, 'I am writing' is present continuous, and 'She will have gone' is future perfect, so (i), (ii) and (iii) are true. Statement (iv) is false because the plural subject 'they' requires 'were', giving 'they were playing', so any option with (iv) is wrong."
+      "questionText": "Consider the following statements about tenses:\n\n(i) The present perfect tense uses 'has/have' + past participle.\n(ii) 'They was playing' is grammatically correct.\n(iii) 'I am writing' is in the present continuous tense.\n(iv) 'She will have gone' is in the future perfect tense.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The present perfect uses has/have + past participle, 'I am writing' is present continuous, and 'She will have gone' is future perfect, so (i), (iii) and (iv) are true. Statement (ii) is false because the plural subject 'they' requires 'were', giving 'they were playing', so any option with (ii) is wrong."
     },
     {
       "id": "13",
       "subject": "A",
       "questionText": "A person who speaks or knows many languages is called a:",
-      "options": ["Polyglot", "Linguist", "Bilingual", "Orator"],
+      "options": ["Linguist", "Bilingual", "Orator", "Polyglot"],
       "correctAnswer": "Polyglot",
       "explanation": "A 'polyglot' is one who knows and uses several languages. A 'linguist' studies the science of language, 'bilingual' refers to knowing only two languages, and an 'orator' is a skilled public speaker, so none of them means many languages; 'polyglot' is the correct one-word substitution."
     },
@@ -111,7 +111,7 @@
       "id": "14",
       "subject": "A",
       "questionText": "Match the following sentences with the correct prepositions:\n\nColumn I:\n(a) He is fond ______ music.\n(b) She is good ______ painting.\n(c) He is angry ______ me.\n(d) They are interested ______ sports.\n\nColumn II:\n(i) at\n(ii) with\n(iii) of\n(iv) in\n\nChoose the correct match:",
-      "options": ["(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"],
+      "options": ["(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
       "explanation": "The fixed collocations are 'fond of', 'good at', 'angry with' and 'interested in', giving (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv). The other options swap 'of' with 'at' or misplace 'with' and 'in', which break the standard prepositional combinations."
     },
@@ -119,17 +119,17 @@
       "id": "15",
       "subject": "A",
       "questionText": "Choose the correct verb form: Look! The children ______ in the garden.",
-      "options": ["play", "played", "are playing", "have played"],
+      "options": ["play", "played", "have played", "are playing"],
       "correctAnswer": "are playing",
       "explanation": "The word 'Look!' signals an action happening right now, so the present continuous 'are playing' is required. 'Play' is a simple present habitual form, 'played' is past, and 'have played' is present perfect showing completion, none of which suits an action in progress at this moment."
     },
     {
       "id": "16",
       "subject": "A",
-      "questionText": "Which of the following are correctly spelled words?\n\n(i) Definitely\n(ii) Recieve\n(iii) Separate\n(iv) Occurrence\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "'Definitely', 'separate' and 'occurrence' are all spelled correctly, so (i), (iii) and (iv) are right. 'Recieve' is a misspelling; the correct form is 'receive' following the 'i before e except after c' rule, so any option that includes 'recieve' is wrong."
+      "questionText": "Which of the following are correctly spelled words?\n\n(i) Definitely\n(ii) Separate\n(iii) Recieve\n(iv) Occurrence\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Definitely', 'separate' and 'occurrence' are all spelled correctly, so (i), (ii) and (iv) are right. 'Recieve' is a misspelling; the correct form is 'receive' following the 'i before e except after c' rule, so any option that includes 'recieve' is wrong."
     },
     {
       "id": "17",
@@ -151,7 +151,7 @@
       "id": "19",
       "subject": "A",
       "questionText": "Choose the correct word: The students left ______ books on the desk.",
-      "options": ["there", "they're", "their", "theirs"],
+      "options": ["their", "there", "they're", "theirs"],
       "correctAnswer": "their",
       "explanation": "'Their' is the possessive adjective showing the books belong to the students. 'There' refers to a place, 'they're' is a contraction of 'they are', and 'theirs' is a possessive pronoun that cannot precede a noun, so only 'their' correctly shows possession before 'books'."
     },
@@ -159,7 +159,7 @@
       "id": "20",
       "subject": "A",
       "questionText": "Consider the following statements about pronouns:\n\n(i) 'Who' is a relative pronoun.\n(ii) 'Myself' is a reflexive pronoun.\n(iii) 'This' and 'that' are demonstrative pronouns.\n(iv) 'Quickly' is a pronoun.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "'Who' is a relative pronoun, 'myself' is reflexive, and 'this' and 'that' are demonstrative pronouns, so (i), (ii) and (iii) are true. Statement (iv) is false because 'quickly' is an adverb that modifies verbs, not a pronoun, so any option with (iv) is wrong."
     },
@@ -167,23 +167,23 @@
       "id": "21",
       "subject": "A",
       "questionText": "Choose the correct preposition: The book is lying ______ the table.",
-      "options": ["on", "in", "at", "to"],
+      "options": ["in", "on", "at", "to"],
       "correctAnswer": "on",
       "explanation": "'On' is used for something resting on a surface, so 'on the table' is correct. 'In' would mean inside the table, 'at' refers to a point or location in general, and 'to' shows direction, none of which fits an object resting on the table's surface, so 'on' is right."
     },
     {
       "id": "22",
       "subject": "A",
-      "questionText": "Consider the following statements about clauses:\n\n(i) A clause has a subject and a predicate.\n(ii) A main clause can stand on its own.\n(iii) A subordinate clause can stand alone as a complete sentence.\n(iv) 'Because he was late' is a subordinate clause.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A clause has a subject and predicate, a main clause stands independently, and 'Because he was late' is a subordinate clause, so (i), (ii) and (iv) are true. Statement (iii) is false because a subordinate clause cannot stand alone and depends on a main clause, so any option with (iii) is wrong."
+      "questionText": "Consider the following statements about clauses:\n\n(i) A subordinate clause can stand alone as a complete sentence.\n(ii) A clause has a subject and a predicate.\n(iii) A main clause can stand on its own.\n(iv) 'Because he was late' is a subordinate clause.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "A clause has a subject and predicate, a main clause stands independently, and 'Because he was late' is a subordinate clause, so (ii), (iii) and (iv) are true. Statement (i) is false because a subordinate clause cannot stand alone and depends on a main clause, so any option with (i) is wrong."
     },
     {
       "id": "23",
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'ABUNDANT':",
-      "options": ["Scarce", "Rare", "Plentiful", "Meagre"],
+      "options": ["Scarce", "Plentiful", "Rare", "Meagre"],
       "correctAnswer": "Plentiful",
       "explanation": "'Abundant' means existing in large quantities, so 'plentiful' is the closest synonym. 'Scarce', 'rare' and 'meagre' all indicate a shortage, which is the opposite of abundant, so none of them is a synonym and 'plentiful' is correct."
     },
@@ -191,7 +191,7 @@
       "id": "24",
       "subject": "A",
       "questionText": "Match the following words with their meanings:\n\nColumn I:\n(a) Autobiography\n(b) Biography\n(c) Bibliophile\n(d) Manuscript\n\nColumn II:\n(i) A lover of books\n(ii) A handwritten document\n(iii) Life story written by oneself\n(iv) Life story written by another person\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "An autobiography is a life story written by oneself, a biography is written by another, a bibliophile is a lover of books, and a manuscript is a handwritten document, giving (a)-(iii), (b)-(iv), (c)-(i), (d)-(ii). The other options swap autobiography with biography or misplace 'lover of books', which are incorrect."
     },
@@ -199,17 +199,17 @@
       "id": "25",
       "subject": "A",
       "questionText": "Choose the correct passive form of: 'They are building a new bridge.'",
-      "options": ["A new bridge is being built.", "A new bridge was built.", "A new bridge has been built.", "A new bridge will be built."],
+      "options": ["A new bridge was built.", "A new bridge has been built.", "A new bridge is being built.", "A new bridge will be built."],
       "correctAnswer": "A new bridge is being built.",
       "explanation": "The active sentence is in the present continuous, so the passive is 'is being built'. 'Was built' is simple past, 'has been built' is present perfect, and 'will be built' is future, none of which keeps the present continuous sense, so 'A new bridge is being built.' is correct."
     },
     {
       "id": "26",
       "subject": "A",
-      "questionText": "Which of the following are conjunctions?\n\n(i) and\n(ii) but\n(iii) under\n(iv) because\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'And', 'but' and 'because' join words, phrases or clauses, so they are conjunctions and (i), (ii) and (iv) are correct. 'Under' is a preposition showing position, not a conjunction, so any option that includes 'under' is wrong."
+      "questionText": "Which of the following are conjunctions?\n\n(i) and\n(ii) under\n(iii) but\n(iv) because\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'And', 'but' and 'because' join words, phrases or clauses, so they are conjunctions and (i), (iii) and (iv) are correct. 'Under' is a preposition showing position, not a conjunction, so any option that includes 'under' is wrong."
     },
     {
       "id": "27",
@@ -231,7 +231,7 @@
       "id": "29",
       "subject": "A",
       "questionText": "Fill in the blank with the correct article: He is ______ M.A. in English.",
-      "options": ["an", "a", "the", "no article"],
+      "options": ["a", "the", "no article", "an"],
       "correctAnswer": "an",
       "explanation": "The letter 'M' is pronounced 'em', beginning with a vowel sound, so 'an M.A.' is correct. 'A' is used before consonant sounds, 'the' would make it specific rather than a qualification in general, and omitting the article is ungrammatical here, so 'an' is right."
     },
@@ -239,7 +239,7 @@
       "id": "30",
       "subject": "A",
       "questionText": "Choose the correctly punctuated sentence:",
-      "options": ["Where are you going.", "Where are you going?", "Where are you going!", "where are you going?"],
+      "options": ["Where are you going.", "Where are you going!", "where are you going?", "Where are you going?"],
       "correctAnswer": "Where are you going?",
       "explanation": "An interrogative sentence must end with a question mark and begin with a capital letter, so 'Where are you going?' is correct. Ending with a full stop or exclamation mark is wrong for a question, and starting with a lowercase 'where' violates capitalisation, so the other options are incorrect."
     },
@@ -247,17 +247,17 @@
       "id": "31",
       "subject": "A",
       "questionText": "Choose the correct preposition: He succeeded ______ passing the examination.",
-      "options": ["at", "on", "in", "for"],
+      "options": ["at", "on", "for", "in"],
       "correctAnswer": "in",
       "explanation": "The verb 'succeed' is followed by 'in' before a gerund, so 'succeeded in passing' is correct. 'At', 'on' and 'for' do not combine idiomatically with 'succeed' in this construction, so they are wrong and 'in' is the right preposition."
     },
     {
       "id": "32",
       "subject": "A",
-      "questionText": "Consider the following statements about punctuation:\n\n(i) A question mark ends an interrogative sentence.\n(ii) A comma indicates a short pause.\n(iii) Proper nouns begin with a capital letter.\n(iv) A full stop is used at the end of a direct question.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A question mark ends a question, a comma marks a short pause, and proper nouns are capitalised, so (i), (ii) and (iii) are true. Statement (iv) is false because a direct question ends with a question mark, not a full stop, so any option that includes (iv) is wrong."
+      "questionText": "Consider the following statements about punctuation:\n\n(i) A question mark ends an interrogative sentence.\n(ii) A comma indicates a short pause.\n(iii) A full stop is used at the end of a direct question.\n(iv) Proper nouns begin with a capital letter.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A question mark ends a question, a comma marks a short pause, and proper nouns are capitalised, so (i), (ii) and (iv) are true. Statement (iii) is false because a direct question ends with a question mark, not a full stop, so any option that includes (iii) is wrong."
     },
     {
       "id": "33",
@@ -271,7 +271,7 @@
       "id": "34",
       "subject": "A",
       "questionText": "Match the following words with their synonyms:\n\nColumn I:\n(a) Enormous\n(b) Tiny\n(c) Rapid\n(d) Ancient\n\nColumn II:\n(i) Fast\n(ii) Huge\n(iii) Old\n(iv) Small\n\nChoose the correct match:",
-      "options": ["(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "options": ["(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "'Enormous' means huge, 'tiny' means small, 'rapid' means fast and 'ancient' means old, giving (a)-(ii), (b)-(iv), (c)-(i), (d)-(iii). The other options swap 'huge' with 'small' or 'fast' with 'old', which do not match the correct synonyms."
     },
@@ -279,23 +279,23 @@
       "id": "35",
       "subject": "A",
       "questionText": "Choose the correct verb form: If it rains tomorrow, we ______ the match.",
-      "options": ["cancelled", "would cancel", "will cancel", "have cancelled"],
+      "options": ["will cancel", "cancelled", "would cancel", "have cancelled"],
       "correctAnswer": "will cancel",
       "explanation": "This is a first conditional (real future condition), so the main clause takes 'will + base verb': 'we will cancel'. 'Cancelled' and 'have cancelled' are past forms, and 'would cancel' belongs to the second conditional for hypothetical situations, so 'will cancel' is correct."
     },
     {
       "id": "36",
       "subject": "A",
-      "questionText": "Which of the following words are antonyms of 'VICTORY'?\n\n(i) Triumph\n(ii) Defeat\n(iii) Loss\n(iv) Failure\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(ii), (iii) and (iv)",
-      "explanation": "'Defeat', 'loss' and 'failure' are all opposite in meaning to victory, so (ii), (iii) and (iv) are antonyms. 'Triumph' is a synonym of victory, not an antonym, so any option that includes 'triumph' is wrong."
+      "questionText": "Which of the following words are antonyms of 'VICTORY'?\n\n(i) Defeat\n(ii) Loss\n(iii) Failure\n(iv) Triumph\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'Defeat', 'loss' and 'failure' are all opposite in meaning to victory, so (i), (ii) and (iii) are antonyms. 'Triumph' is a synonym of victory, not an antonym, so any option that includes 'triumph' is wrong."
     },
     {
       "id": "37",
       "subject": "A",
       "questionText": "Choose the correct pronoun: Between you and ______, this plan will surely fail.",
-      "options": ["me", "I", "myself", "mine"],
+      "options": ["I", "me", "myself", "mine"],
       "correctAnswer": "me",
       "explanation": "After the preposition 'between', the object pronoun 'me' is required, so 'between you and me' is correct. 'I' is a subject pronoun, 'myself' is reflexive and needs a matching subject, and 'mine' is possessive, so none of them fits after the preposition and 'me' is right."
     },
@@ -311,39 +311,39 @@
       "id": "39",
       "subject": "A",
       "questionText": "Choose the correct word: The heavy rain will have an ______ on the crops.",
-      "options": ["affect", "affects", "effect", "affected"],
+      "options": ["affect", "effect", "affects", "affected"],
       "correctAnswer": "effect",
       "explanation": "'Effect' is the noun meaning result or influence, which fits after 'an'. 'Affect' is normally a verb meaning to influence, 'affects' is a verb inflection, and 'affected' is a past form, none of which works as the noun needed here, so 'effect' is correct."
     },
     {
       "id": "40",
       "subject": "A",
-      "questionText": "Consider the following statements about synonyms and antonyms:\n\n(i) 'Big' and 'large' are synonyms.\n(ii) 'Hot' and 'cold' are antonyms.\n(iii) 'Begin' and 'commence' are synonyms.\n(iv) 'Fast' and 'quick' are antonyms.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'Big' and 'large' are synonyms, 'hot' and 'cold' are antonyms, and 'begin' and 'commence' are synonyms, so (i), (ii) and (iii) are true. Statement (iv) is false because 'fast' and 'quick' mean the same thing and are synonyms, not antonyms, so any option with (iv) is wrong."
+      "questionText": "Consider the following statements about synonyms and antonyms:\n\n(i) 'Fast' and 'quick' are antonyms.\n(ii) 'Big' and 'large' are synonyms.\n(iii) 'Hot' and 'cold' are antonyms.\n(iv) 'Begin' and 'commence' are synonyms.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Big' and 'large' are synonyms, 'hot' and 'cold' are antonyms, and 'begin' and 'commence' are synonyms, so (ii), (iii) and (iv) are true. Statement (i) is false because 'fast' and 'quick' mean the same thing and are synonyms, not antonyms, so any option with (i) is wrong."
     },
     {
       "id": "41",
       "subject": "A",
       "questionText": "The idiom 'a piece of cake' means:",
-      "options": ["Something very easy", "A tasty dessert", "A difficult task", "A small portion"],
+      "options": ["A tasty dessert", "A difficult task", "Something very easy", "A small portion"],
       "correctAnswer": "Something very easy",
       "explanation": "'A piece of cake' is an idiom meaning something very easy to do. It is not used literally for a dessert or a portion, and it is the opposite of a difficult task, so 'something very easy' is the correct figurative meaning of the idiom."
     },
     {
       "id": "42",
       "subject": "A",
-      "questionText": "Consider the following statements about the passive voice:\n\n(i) In the passive voice the object becomes the subject.\n(ii) 'The letter was written by him' is in the passive voice.\n(iii) Only transitive verbs can be changed into the passive voice.\n(iv) 'He runs fast' can be changed into the passive voice.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "In the passive the object becomes the subject, 'The letter was written by him' is passive, and only transitive verbs can become passive, so (i), (ii) and (iii) are true. Statement (iv) is false because 'runs' is intransitive and has no object to become the subject, so any option with (iv) is wrong."
+      "questionText": "Consider the following statements about the passive voice:\n\n(i) In the passive voice the object becomes the subject.\n(ii) 'He runs fast' can be changed into the passive voice.\n(iii) 'The letter was written by him' is in the passive voice.\n(iv) Only transitive verbs can be changed into the passive voice.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "In the passive the object becomes the subject, 'The letter was written by him' is passive, and only transitive verbs can become passive, so (i), (iii) and (iv) are true. Statement (ii) is false because 'runs' is intransitive and has no object to become the subject, so any option with (ii) is wrong."
     },
     {
       "id": "43",
       "subject": "A",
       "questionText": "Choose the word opposite in meaning to 'HUMBLE':",
-      "options": ["Modest", "Simple", "Arrogant", "Meek"],
+      "options": ["Modest", "Simple", "Meek", "Arrogant"],
       "correctAnswer": "Arrogant",
       "explanation": "'Humble' means modest and unassuming, so its antonym is 'arrogant', meaning proud and self-important. 'Modest', 'simple' and 'meek' are close in meaning to humble rather than opposite, so none of them is the antonym and 'arrogant' is correct."
     },
@@ -359,23 +359,23 @@
       "id": "45",
       "subject": "A",
       "questionText": "Choose the correct preposition: He has been living here ______ ten years.",
-      "options": ["for", "since", "from", "by"],
+      "options": ["since", "from", "by", "for"],
       "correctAnswer": "for",
       "explanation": "'For' is used with a period or duration, so 'for ten years' is correct. 'Since' is used with a specific point of time (since 2010), 'from' needs a matching 'to', and 'by' indicates a deadline, none of which fits a length of time, so 'for' is the right preposition."
     },
     {
       "id": "46",
       "subject": "A",
-      "questionText": "Which of the following are correct plural forms?\n\n(i) Children\n(ii) Mouses\n(iii) Feet\n(iv) Geese\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "'Children', 'feet' and 'geese' are correct irregular plurals, so (i), (iii) and (iv) are right. 'Mouses' is incorrect because the plural of 'mouse' (the animal) is 'mice', so any option that includes 'mouses' is wrong."
+      "questionText": "Which of the following are correct plural forms?\n\n(i) Children\n(ii) Feet\n(iii) Mouses\n(iv) Geese\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Children', 'feet' and 'geese' are correct irregular plurals, so (i), (ii) and (iv) are right. 'Mouses' is incorrect because the plural of 'mouse' (the animal) is 'mice', so any option that includes 'mouses' is wrong."
     },
     {
       "id": "47",
       "subject": "A",
       "questionText": "A place where money is coined is called a:",
-      "options": ["Bank", "Treasury", "Mint", "Vault"],
+      "options": ["Mint", "Bank", "Treasury", "Vault"],
       "correctAnswer": "Mint",
       "explanation": "A 'mint' is the place where coins are manufactured. A 'bank' handles deposits and loans, a 'treasury' manages government funds, and a 'vault' is a secure storage room, so none of them means a coining place; 'mint' is the correct one-word substitution."
     },
@@ -407,7 +407,7 @@
       "id": "51",
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'RAPID':",
-      "options": ["Slow", "Steady", "Swift", "Late"],
+      "options": ["Slow", "Swift", "Steady", "Late"],
       "correctAnswer": "Swift",
       "explanation": "'Rapid' means happening quickly, so 'swift' is the closest synonym. 'Slow' and 'late' suggest the opposite of speed, and 'steady' refers to being constant rather than fast, so none of them is a synonym and 'swift' is the correct match for rapid."
     },
@@ -415,7 +415,7 @@
       "id": "52",
       "subject": "A",
       "questionText": "Consider the following statements about idioms:\n\n(i) 'To kick the bucket' means to die.\n(ii) 'To break the ice' means to start a conversation.\n(iii) 'Once in a blue moon' means very rarely.\n(iv) 'To spill the beans' means to keep a secret.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "'Kick the bucket' means to die, 'break the ice' means to start a conversation, and 'once in a blue moon' means very rarely, so (i), (ii) and (iii) are true. Statement (iv) is false because 'spill the beans' means to reveal a secret, not keep it, so any option with (iv) is wrong."
     },
@@ -423,7 +423,7 @@
       "id": "53",
       "subject": "A",
       "questionText": "Choose the correct article: My father is ______ honest man.",
-      "options": ["an", "a", "the", "no article"],
+      "options": ["a", "the", "an", "no article"],
       "correctAnswer": "an",
       "explanation": "'Honest' begins with a silent 'h' and a vowel sound, so 'an honest man' is correct. 'A' is used before consonant sounds, 'the' would make it a specific man rather than describing him generally, and dropping the article is ungrammatical, so 'an' is right."
     },
@@ -431,7 +431,7 @@
       "id": "54",
       "subject": "A",
       "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Expand\n(b) Accept\n(c) Permit\n(d) Victory\n\nColumn II:\n(i) Reject\n(ii) Forbid\n(iii) Shrink\n(iv) Defeat\n\nChoose the correct match:",
-      "options": ["(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "options": ["(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
       "explanation": "The antonym of 'expand' is 'shrink', of 'accept' is 'reject', of 'permit' is 'forbid' and of 'victory' is 'defeat', giving (a)-(iii), (b)-(i), (c)-(ii), (d)-(iv). The other options swap 'reject' with 'shrink' or 'forbid' with 'reject', which do not match the correct opposites."
     },
@@ -446,16 +446,16 @@
     {
       "id": "56",
       "subject": "A",
-      "questionText": "Which of the following are adverbs?\n\n(i) Slowly\n(ii) Happily\n(iii) Beautiful\n(iv) Carefully\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'Slowly', 'happily' and 'carefully' modify verbs and are adverbs, so (i), (ii) and (iv) are correct. 'Beautiful' is an adjective that describes a noun, not an adverb, so any option that includes 'beautiful' is wrong."
+      "questionText": "Which of the following are adverbs?\n\n(i) Beautiful\n(ii) Slowly\n(iii) Happily\n(iv) Carefully\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Slowly', 'happily' and 'carefully' modify verbs and are adverbs, so (ii), (iii) and (iv) are correct. 'Beautiful' is an adjective that describes a noun, not an adverb, so any option that includes 'beautiful' is wrong."
     },
     {
       "id": "57",
       "subject": "A",
       "questionText": "The idiom 'to let the cat out of the bag' means:",
-      "options": ["To reveal a secret", "To buy a pet", "To create confusion", "To escape from danger"],
+      "options": ["To buy a pet", "To create confusion", "To escape from danger", "To reveal a secret"],
       "correctAnswer": "To reveal a secret",
       "explanation": "'To let the cat out of the bag' means to reveal a secret, often accidentally. It is not used literally about buying a pet, nor does it mean to create confusion or escape danger, so 'to reveal a secret' is the correct figurative meaning of the idiom."
     },
@@ -471,17 +471,17 @@
       "id": "59",
       "subject": "A",
       "questionText": "Choose the correct verb form: By next year, she ______ her degree.",
-      "options": ["completes", "completed", "will have completed", "has completed"],
+      "options": ["completes", "completed", "has completed", "will have completed"],
       "correctAnswer": "will have completed",
       "explanation": "The phrase 'by next year' points to an action finished before a future time, which needs the future perfect 'will have completed'. 'Completes' is present, 'completed' is past, and 'has completed' is present perfect, none of which expresses completion by a future point, so the future perfect is correct."
     },
     {
       "id": "60",
       "subject": "A",
-      "questionText": "Consider the following statements about prepositions:\n\n(i) 'In' is used for enclosed spaces.\n(ii) 'On' is used for surfaces.\n(iii) 'At' is used for specific points or times.\n(iv) 'Between' is used for more than two things.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'In' is used for enclosed spaces, 'on' for surfaces, and 'at' for specific points or times, so (i), (ii) and (iii) are true. Statement (iv) is false because 'between' is used for two things, while 'among' is used for more than two, so any option with (iv) is wrong."
+      "questionText": "Consider the following statements about prepositions:\n\n(i) 'In' is used for enclosed spaces.\n(ii) 'Between' is used for more than two things.\n(iii) 'On' is used for surfaces.\n(iv) 'At' is used for specific points or times.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'In' is used for enclosed spaces, 'on' for surfaces, and 'at' for specific points or times, so (i), (iii) and (iv) are true. Statement (ii) is false because 'between' is used for two things, while 'among' is used for more than two, so any option with (ii) is wrong."
     }
   ]
 }

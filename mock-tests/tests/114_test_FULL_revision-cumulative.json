@@ -21,8 +21,8 @@
       "subject": "D",
       "questionText": "If the compound interest on a certain sum for 2 years at 10% per annum is ₹4,200, what is the sum?",
       "options": [
-        "₹20,000",
         "₹21,000",
+        "₹20,000",
         "₹18,000",
         "₹25,000"
       ],
@@ -32,15 +32,15 @@
     {
       "id": "3",
       "subject": "B",
-      "questionText": "Consider the following statements about India's foreign policy:\n\n(i) India follows a policy of non-alignment and strategic autonomy.\n(ii) India is a founding member of the Non-Aligned Movement (NAM).\n(iii) India's 'Act East Policy' replaced the earlier 'Look East Policy'.\n(iv) India is a permanent member of the UN Security Council.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about India's foreign policy:\n\n(i) India is a permanent member of the UN Security Council.\n(ii) India follows a policy of non-alignment and strategic autonomy.\n(iii) India is a founding member of the Non-Aligned Movement (NAM).\n(iv) India's 'Act East Policy' replaced the earlier 'Look East Policy'.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "India follows non-alignment/strategic autonomy (i correct). India co-founded NAM with Nehru, Tito, Nasser (ii correct). Act East replaced Look East in 2014 (iii correct). Statement (iv) is incorrect — India is NOT a permanent UNSC member; it aspires for permanent membership but currently holds only non-permanent seats periodically."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "India follows non-alignment/strategic autonomy (i correct). India co-founded NAM with Nehru, Tito, Nasser (ii correct). Act East replaced Look East in 2014 (iii correct). Statement (i) is incorrect — India is NOT a permanent UNSC member; it aspires for permanent membership but currently holds only non-permanent seats periodically."
     },
     {
       "id": "4",
@@ -60,8 +60,8 @@
       "subject": "C",
       "questionText": "The total estimated hydroelectric power potential of J&K is approximately 20,000 MW. If about 3,500 MW has been harnessed, what percentage remains untapped?",
       "options": [
-        "82.5%",
         "17.5%",
+        "82.5%",
         "75%",
         "90%"
       ],
@@ -73,9 +73,9 @@
       "subject": "A",
       "questionText": "Match the following words with their antonyms:\n\nColumn I:\n(a) Ephemeral\n(b) Ubiquitous\n(c) Truculent\n(d) Altruistic\n\nColumn II:\n(i) Selfish\n(ii) Rare\n(iii) Permanent\n(iv) Peaceful/gentle\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
@@ -86,22 +86,22 @@
       "subject": "D",
       "questionText": "Consider the following statements about coding:\n\nIf in a certain code, STREAM is written as QVPCYK (each letter shifted -2), then FLOWER is coded as:",
       "options": [
-        "DJMUCF",
         "DJMUCR",
         "DNQYGT",
+        "DJMUCP",
         "HJQYGT"
       ],
-      "correctAnswer": "DJMUCF",
-      "explanation": "Each letter shifted -2: F-2=D, L-2=J, O-2=M, W-2=U, E-2=C, R-2=P... wait let me verify with STREAM: S-2=Q✓, T-2=R✓, R-2=P✓, E-2=C✓, A-2=Y? No, A-2 wraps to Y in reverse alphabet. Actually A(1)-2=Y(25)? That's -2 in circular. Let me recheck: S(19)-2=Q(17)✓, T(20)-2=R(18)✓, R(18)-2=P(16)✓, E(5)-2=C(3)✓, A(1)-2=Y(25)✓, M(13)-2=K(11)✓. So STREAM→QVPCYK checks out with -2. For FLOWER: F(6)-2=D(4), L(12)-2=J(10), O(15)-2=M(13), W(23)-2=U(21), E(5)-2=C(3), R(18)-2=P(16) = DJMUCP. Hmm that gives DJMUCP not matching options exactly. Given exam answer DJMUCF: E-2=C, R-2=P... but option says F at end. Let me accept the closest available answer DJMUCF given exam conventions."
+      "correctAnswer": "DJMUCP",
+      "explanation": "The rule is a shift of −2 on each letter, as STREAM → QVPCYK confirms: S→Q, T→R… reading the code letter by letter against the word. Applying −2 to FLOWER: F→D, L→J, O→M, W→U, E→C, R→P, giving DJMUCP. 'DJMUCR' is wrong — it leaves the final R unshifted. 'DNQYGT' is wrong — it applies +2 instead of −2. 'HJQYGT' is wrong — it mixes +2 on some letters with −2 on others."
     },
     {
       "id": "8",
       "subject": "B",
       "questionText": "The Goods and Services Tax (GST) in India is a:",
       "options": [
-        "Comprehensive indirect tax on manufacture, sale, and consumption of goods and services",
         "Direct tax on individual income",
         "Tax only on imported goods",
+        "Comprehensive indirect tax on manufacture, sale, and consumption of goods and services",
         "Tax levied exclusively by state governments"
       ],
       "correctAnswer": "Comprehensive indirect tax on manufacture, sale, and consumption of goods and services",
@@ -123,25 +123,25 @@
     {
       "id": "10",
       "subject": "E",
-      "questionText": "Which of the following correctly describes 'two-factor authentication' (2FA)?\n\n(i) It requires two different types of identification to access an account.\n(ii) Common factors: something you know (password) + something you have (OTP on phone).\n(iii) It makes accounts significantly harder to hack even if the password is stolen.\n(iv) 2FA means using the same password twice.\n\nSelect the correct combination:",
+      "questionText": "Which of the following correctly describes 'two-factor authentication' (2FA)?\n\n(i) It requires two different types of identification to access an account.\n(ii) 2FA means using the same password twice.\n(iii) Common factors: something you know (password) + something you have (OTP on phone).\n(iv) It makes accounts significantly harder to hack even if the password is stolen.\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
-        "(i), (iii) and (iv) only",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "2FA requires two different identification factors (i correct). Common combo: password + OTP (ii correct). Even with stolen password, hacker needs second factor (iii correct). Statement (iv) is INCORRECT — 2FA is NOT using the same password twice; it requires two DIFFERENT types of verification (knowledge + possession/biometric)."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "2FA requires two different identification factors (i correct). Common combo: password + OTP (ii correct). Even with stolen password, hacker needs second factor (iii correct). Statement (ii) is INCORRECT — 2FA is NOT using the same password twice; it requires two DIFFERENT types of verification (knowledge + possession/biometric)."
     },
     {
       "id": "11",
       "subject": "D",
       "questionText": "A train 250 metres long crosses a bridge 150 metres long in 20 seconds. The speed of the train is:",
       "options": [
-        "72 km/h",
         "60 km/h",
         "54 km/h",
-        "80 km/h"
+        "80 km/h",
+        "72 km/h"
       ],
       "correctAnswer": "72 km/h",
       "explanation": "Total distance = train length + bridge length = 250+150 = 400 m. Speed = 400/20 = 20 m/s. Converting: 20 × 18/5 = 72 km/h. Option 60 km/h = 16.67 m/s. Option 54 km/h = 15 m/s. Option 80 km/h = 22.2 m/s."
@@ -164,10 +164,10 @@
       "subject": "A",
       "questionText": "Choose the word most nearly SIMILAR in meaning to 'PERSPICACIOUS':",
       "options": [
-        "Having keen mental perception and understanding",
         "Excessively sweating",
         "Extremely persistent",
-        "Clearly visible"
+        "Clearly visible",
+        "Having keen mental perception and understanding"
       ],
       "correctAnswer": "Having keen mental perception and understanding",
       "explanation": "'Perspicacious' means having a ready insight, keenly discerning. 'Keen mental perception' captures this. 'Excessively sweating' confuses with 'perspiration'. 'Extremely persistent' confuses with 'persevering'. 'Clearly visible' confuses with 'perspicuous' (which means clearly expressed)."
@@ -175,23 +175,23 @@
     {
       "id": "14",
       "subject": "C",
-      "questionText": "Consider the following statements about the Mughal Gardens of Kashmir:\n\n(i) Shalimar Bagh was built by Emperor Jahangir.\n(ii) Nishat Bagh was created by Asaf Khan (brother of Nur Jahan).\n(iii) Chashme Shahi was built during Shah Jahan's reign.\n(iv) All three are located on the western shore of Dal Lake.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Mughal Gardens of Kashmir:\n\n(i) Shalimar Bagh was built by Emperor Jahangir.\n(ii) Nishat Bagh was created by Asaf Khan (brother of Nur Jahan).\n(iii) All three are located on the western shore of Dal Lake.\n(iv) Chashme Shahi was built during Shah Jahan's reign.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Shalimar Bagh by Jahangir in 1619 (i correct). Nishat Bagh by Asaf Khan (ii correct). Chashme Shahi during Shah Jahan's era (iii correct). Statement (iv) is incorrect — the gardens are on the EASTERN shore of Dal Lake, along the foothills of the Zabarwan range, NOT the western shore."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Shalimar Bagh by Jahangir in 1619 (i correct). Nishat Bagh by Asaf Khan (ii correct). Chashme Shahi during Shah Jahan's era (iii correct). Statement (iii) is incorrect — the gardens are on the EASTERN shore of Dal Lake, along the foothills of the Zabarwan range, NOT the western shore."
     },
     {
       "id": "15",
       "subject": "D",
       "questionText": "Match the following:\n\nColumn I:\n(a) Father's sister's son\n(b) Mother's brother's daughter\n(c) Sister's husband\n(d) Wife's mother\n\nColumn II:\n(i) Brother-in-law\n(ii) Mother-in-law\n(iii) Paternal cousin\n(iv) Maternal cousin\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
@@ -201,37 +201,37 @@
     {
       "id": "16",
       "subject": "B",
-      "questionText": "Which of the following are Fundamental Rights guaranteed under the Indian Constitution?\n\n(i) Right to Equality (Articles 14-18)\n(ii) Right to Freedom (Articles 19-22)\n(iii) Right to Property (Article 31)\n(iv) Right against Exploitation (Articles 23-24)\n\nSelect the correct combination:",
+      "questionText": "Which of the following are Fundamental Rights guaranteed under the Indian Constitution?\n\n(i) Right to Equality (Articles 14-18)\n(ii) Right to Freedom (Articles 19-22)\n(iii) Right against Exploitation (Articles 23-24)\n(iv) Right to Property (Article 31)\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "Right to Equality (Art 14-18) is a FR (i correct). Right to Freedom (Art 19-22) is a FR (ii correct). Right against Exploitation (Art 23-24) is a FR (iv correct). Right to Property (iii) was REMOVED as a Fundamental Right by the 44th Amendment (1978) — it's now only a legal right under Article 300A, not a Fundamental Right."
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Right to Equality (Art 14-18) is a FR (i correct). Right to Freedom (Art 19-22) is a FR (ii correct). Right against Exploitation (Art 23-24) is a FR (iv correct). Right to Property (iv) was REMOVED as a Fundamental Right by the 44th Amendment (1978) — it's now only a legal right under Article 300A, not a Fundamental Right."
     },
     {
       "id": "17",
       "subject": "A",
-      "questionText": "Consider the following statements about English grammar:\n\n(i) 'Who' is subjective; 'whom' is objective — used after prepositions or as verb objects.\n(ii) 'Fewer' is for countable nouns; 'less' is for uncountable nouns.\n(iii) A gerund (-ing form as noun) can be subject, object, or complement.\n(iv) 'Lay' is intransitive (no object); 'Lie' is transitive (takes object).\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about English grammar:\n\n(i) 'Lay' is intransitive (no object); 'Lie' is transitive (takes object).\n(ii) 'Who' is subjective; 'whom' is objective — used after prepositions or as verb objects.\n(iii) 'Fewer' is for countable nouns; 'less' is for uncountable nouns.\n(iv) A gerund (-ing form as noun) can be subject, object, or complement.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Who(subjective)/Whom(objective) (i correct). Fewer(countable)/Less(uncountable) (ii correct). Gerund as subject/object/complement (iii correct). Statement (iv) is REVERSED — 'LAY' is TRANSITIVE (takes object: 'lay the book'); 'LIE' is INTRANSITIVE (no object: 'I lie down'). The statement gets them backwards."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Who(subjective)/Whom(objective) (i correct). Fewer(countable)/Less(uncountable) (ii correct). Gerund as subject/object/complement (iii correct). Statement (i) is REVERSED — 'LAY' is TRANSITIVE (takes object: 'lay the book'); 'LIE' is INTRANSITIVE (no object: 'I lie down'). The statement gets them backwards."
     },
     {
       "id": "18",
       "subject": "E",
       "questionText": "Match the following storage types with their characteristics:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) SSD\n(d) HDD\n\nColumn II:\n(i) Non-volatile, magnetic platters, mechanical read/write head\n(ii) Volatile, fast, used for active programs\n(iii) Non-volatile, flash memory chips, no moving parts\n(iv) Non-volatile, stores firmware/BIOS, read-mostly\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
@@ -253,24 +253,24 @@
     {
       "id": "20",
       "subject": "B",
-      "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) It is the longest written constitution in the world.\n(ii) It was adopted on 26 November 1949.\n(iii) The Preamble declares India a Sovereign Socialist Secular Democratic Republic.\n(iv) 'Socialist' and 'Secular' were part of the original Preamble in 1950.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) It is the longest written constitution in the world.\n(ii) 'Socialist' and 'Secular' were part of the original Preamble in 1950.\n(iii) It was adopted on 26 November 1949.\n(iv) The Preamble declares India a Sovereign Socialist Secular Democratic Republic.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "It's the world's longest written constitution (i correct). Adopted 26 November 1949 (ii correct). Preamble currently says 'Sovereign Socialist Secular Democratic Republic' (iii correct). Statement (iv) is incorrect — 'Socialist' and 'Secular' were NOT in the original 1950 Preamble; they were added by the 42nd Amendment (1976). Originally it was just 'Sovereign Democratic Republic'."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "It's the world's longest written constitution (i correct). Adopted 26 November 1949 (ii correct). Preamble currently says 'Sovereign Socialist Secular Democratic Republic' (iii correct). Statement (ii) is incorrect — 'Socialist' and 'Secular' were NOT in the original 1950 Preamble; they were added by the 42nd Amendment (1976). Originally it was just 'Sovereign Democratic Republic'."
     },
     {
       "id": "21",
       "subject": "A",
       "questionText": "Fill in the blank: The teacher insisted that every student __________ the examination hall by 9 AM.",
       "options": [
-        "reach",
         "reaches",
         "reached",
+        "reach",
         "reaching"
       ],
       "correctAnswer": "reach",
@@ -282,9 +282,9 @@
       "questionText": "The following data shows the sales and costs of a business over 4 months:\n\nJan → 50,000, 40,000, 10,000\nFeb → 60,000, 45,000, 15,000\nMar → 55,000, 50,000, 5,000\nApr → 70,000, 52,000, 18,000\n\nIn which month was the profit margin (profit as % of sales) the highest?",
       "options": [
         "February",
-        "April",
         "January",
-        "March"
+        "March",
+        "April"
       ],
       "correctAnswer": "April",
       "explanation": "Profit margin = Profit/Sales × 100. Jan: 10000/50000 = 20%. Feb: 15000/60000 = 25%. Mar: 5000/55000 = 9.1%. Apr: 18000/70000 = 25.7%. April has the highest profit margin at 25.7%. February is second at 25%. January is third at 20%. March is lowest at 9.1%."
@@ -305,25 +305,25 @@
     {
       "id": "24",
       "subject": "E",
-      "questionText": "Consider the following statements about MS Excel:\n\n(i) =SUM(A1:A10) adds all values in cells A1 through A10.\n(ii) $A$1 is an absolute cell reference that doesn't change when copied.\n(iii) Ctrl+; inserts the current date in the active cell.\n(iv) A workbook can contain only one worksheet.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about MS Excel:\n\n(i) =SUM(A1:A10) adds all values in cells A1 through A10.\n(ii) $A$1 is an absolute cell reference that doesn't change when copied.\n(iii) A workbook can contain only one worksheet.\n(iv) Ctrl+; inserts the current date in the active cell.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "SUM adds all values in the range (i correct). $A$1 locks both column and row (absolute) (ii correct). Ctrl+; inserts current date (iii correct). Statement (iv) is incorrect — a workbook can contain MULTIPLE worksheets (tabs). Excel allows many sheets in one workbook."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "SUM adds all values in the range (i correct). $A$1 locks both column and row (absolute) (ii correct). Ctrl+; inserts current date (iii correct). Statement (iii) is incorrect — a workbook can contain MULTIPLE worksheets (tabs). Excel allows many sheets in one workbook."
     },
     {
       "id": "25",
       "subject": "A",
       "questionText": "Consider the following statements about idioms:\n\n(i) 'To turn over a new leaf' means to start behaving better.\n(ii) 'To beat around the bush' means to avoid the main point.\n(iii) 'Once in a blue moon' means very rarely.\n(iv) 'To hit the sack' means to physically punch a bag.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "'Turn over a new leaf' = reform/start fresh (i correct). 'Beat around the bush' = avoid the main topic (ii correct). 'Once in a blue moon' = very rarely/seldom (iii correct). Statement (iv) is incorrect — 'hit the sack' means to GO TO BED/sleep, NOT to punch a bag."
@@ -346,8 +346,8 @@
       "subject": "B",
       "questionText": "Match the following Indian defence forces with their mottos:\n\nColumn I:\n(a) Indian Army\n(b) Indian Navy\n(c) Indian Air Force\n(d) Indian Coast Guard\n\nColumn II:\n(i) 'Touch the Sky with Glory' (Nabha Sparsham Deeptam)\n(ii) 'Service Before Self'\n(iii) 'Vayam Rakshaamah' (We Protect)\n(iv) 'Sham No Varunah' (May the Lord of Water be auspicious)\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
@@ -372,8 +372,8 @@
       "subject": "D",
       "questionText": "If 6 workers can complete a task in 18 days, how many workers are needed to complete the same task in 9 days?",
       "options": [
-        "12",
         "9",
+        "12",
         "15",
         "8"
       ],
@@ -385,8 +385,8 @@
       "subject": "B",
       "questionText": "Consider the following statements about India's nuclear policy:\n\n(i) India maintains a 'No First Use' (NFU) nuclear doctrine.\n(ii) India has NOT signed the Nuclear Non-Proliferation Treaty (NPT).\n(iii) India conducted its first nuclear test in 1974 (Pokhran-I).\n(iv) India's nuclear weapons are controlled by the Nuclear Command Authority.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only"
       ],
@@ -396,41 +396,41 @@
     {
       "id": "31",
       "subject": "E",
-      "questionText": "Consider the following statements about computer security:\n\n(i) A strong password should have minimum 8 characters with mixed types.\n(ii) Two-factor authentication adds an extra layer beyond just passwords.\n(iii) Antivirus software can detect and remove all malware without updates.\n(iv) HTTPS indicates encrypted communication between browser and server.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer security:\n\n(i) A strong password should have minimum 8 characters with mixed types.\n(ii) Antivirus software can detect and remove all malware without updates.\n(iii) Two-factor authentication adds an extra layer beyond just passwords.\n(iv) HTTPS indicates encrypted communication between browser and server.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Strong passwords: 8+ chars, mixed case/numbers/symbols (i correct). 2FA adds security layer (ii correct). HTTPS = encrypted via SSL/TLS (iv correct). Statement (iii) is incorrect — antivirus CANNOT detect all malware without regular updates. New malware requires updated signatures/definitions to be detected."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Strong passwords: 8+ chars, mixed case/numbers/symbols (i correct). 2FA adds security layer (ii correct). HTTPS = encrypted via SSL/TLS (iv correct). Statement (ii) is incorrect — antivirus CANNOT detect all malware without regular updates. New malware requires updated signatures/definitions to be detected."
     },
     {
       "id": "32",
       "subject": "A",
-      "questionText": "Choose the correct transformation: 'The police arrested the thief.' (Change to passive voice)",
+      "questionText": "Choose the correct article: __________ police have arrested the thief in connection with the theft.",
       "options": [
-        "The thief was arrested by the police.",
-        "The thief is arrested by the police.",
-        "The thief has been arrested by the police.",
-        "The thief were arrested by the police."
+        "A",
+        "An",
+        "The",
+        "No article"
       ],
-      "correctAnswer": "The thief was arrested by the police.",
-      "explanation": "Active Simple Past → Passive Simple Past: 'was + past participle'. 'Was arrested' correctly preserves past tense. 'Is arrested' is present (wrong tense). 'Has been arrested' is present perfect (wrong tense). 'Were arrested' doesn't agree with singular 'thief'."
+      "correctAnswer": "The",
+      "explanation": "'Police' always takes the definite article when it denotes the force as a body, and it is treated as plural, which the verb 'have' confirms, so 'The police have arrested' is correct. 'A' and 'An' are wrong because a collective body of this kind cannot take an indefinite article. Omitting the article is wrong because 'police' in this sense is never used bare as the subject of a sentence."
     },
     {
       "id": "33",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) The angles of a triangle always sum to 180°.\n(ii) In an equilateral triangle, each angle is 60°.\n(iii) The exterior angle of a triangle equals the sum of the two non-adjacent interior angles.\n(iv) A triangle can have two obtuse angles.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) The angles of a triangle always sum to 180°.\n(ii) In an equilateral triangle, each angle is 60°.\n(iii) A triangle can have two obtuse angles.\n(iv) The exterior angle of a triangle equals the sum of the two non-adjacent interior angles.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Angle sum = 180° (i correct). Equilateral: 180°/3 = 60° each (ii correct). Exterior angle theorem (iii correct). Statement (iv) is incorrect — a triangle CANNOT have two obtuse angles (each >90°, so 90+90=180 with nothing left for the third angle). Maximum one obtuse angle is possible."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Angle sum = 180° (i correct). Equilateral: 180°/3 = 60° each (ii correct). Exterior angle theorem (iii correct). Statement (iii) is incorrect — a triangle CANNOT have two obtuse angles (each >90°, so 90+90=180 with nothing left for the third angle). Maximum one obtuse angle is possible."
     },
     {
       "id": "34",
@@ -450,10 +450,10 @@
       "subject": "A",
       "questionText": "Match the following prepositions with their correct usage:\n\nColumn I:\n(a) Accused ___\n(b) Congratulated ___\n(c) Insisted ___\n(d) Addicted ___\n\nColumn II:\n(i) on\n(ii) of\n(iii) to\n(iv) on\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "Accused OF a crime (a-ii). Congratulated ON success (b-iv, same as (i) since both are 'on'). Insisted ON doing (c-i). Addicted TO something (d-iii). Option B swaps accused with congratulated. Option C mismatches congratulated with insisted. Option D incorrectly pairs accused with addicted."
@@ -463,10 +463,10 @@
       "subject": "C",
       "questionText": "Match the following J&K rivers with their primary regions:\n\nColumn I:\n(a) Jhelum\n(b) Chenab\n(c) Tawi\n(d) Indus\n\nColumn II:\n(i) Ladakh\n(ii) Kashmir Valley\n(iii) Jammu city\n(iv) Jammu division (Doda/Kishtwar)\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Jhelum flows through the Kashmir Valley (a-ii). Chenab flows through Doda/Kishtwar in Jammu division (b-iv). Tawi flows through Jammu city (c-iii). Indus flows through Ladakh (d-i). Option B swaps Jhelum with Chenab. Option C mismatches Chenab with Tawi. Option D incorrectly pairs Jhelum with Ladakh."
@@ -476,10 +476,10 @@
       "subject": "D",
       "questionText": "Consider the following statements about simplification:\n\n(i) BODMAS stands for Brackets, Orders, Division, Multiplication, Addition, Subtraction.\n(ii) In BODMAS, Division and Multiplication have equal priority (left to right).\n(iii) In BODMAS, Addition and Subtraction have equal priority (left to right).\n(iv) Multiplication always comes before Division in BODMAS.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "BODMAS = Brackets, Orders (powers/roots), Division, Multiplication, Addition, Subtraction (i correct). D and M have equal precedence — performed left to right (ii correct). A and S have equal precedence — performed left to right (iii correct). Statement (iv) is incorrect — Multiplication does NOT always come before Division; they have EQUAL priority and are done left to right."
@@ -487,15 +487,15 @@
     {
       "id": "38",
       "subject": "B",
-      "questionText": "Consider the following statements about Indian agriculture:\n\n(i) India is the world's largest producer of milk (White Revolution).\n(ii) The Green Revolution primarily benefited wheat and rice production.\n(iii) PM-KISAN provides ₹6,000 per year to eligible farmer families.\n(iv) India has no irrigation facilities — all farming is rain-fed.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Indian agriculture:\n\n(i) India has no irrigation facilities — all farming is rain-fed.\n(ii) India is the world's largest producer of milk (White Revolution).\n(iii) The Green Revolution primarily benefited wheat and rice production.\n(iv) PM-KISAN provides ₹6,000 per year to eligible farmer families.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "India = world's largest milk producer (i correct). Green Revolution boosted wheat/rice (ii correct). PM-KISAN = ₹6000/year in 3 instalments (iii correct). Statement (iv) is incorrect — India has extensive irrigation (canals, tubewells, etc.) covering about 48% of farmland. It's NOT entirely rain-fed."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "India = world's largest milk producer (i correct). Green Revolution boosted wheat/rice (ii correct). PM-KISAN = ₹6000/year in 3 instalments (iii correct). Statement (i) is incorrect — India has extensive irrigation (canals, tubewells, etc.) covering about 48% of farmland. It's NOT entirely rain-fed."
     },
     {
       "id": "39",
@@ -528,8 +528,8 @@
       "subject": "D",
       "questionText": "If a man walks at 4 km/h, he misses the bus by 10 minutes. If he walks at 5 km/h, he reaches 5 minutes early. The distance to the bus stop is:",
       "options": [
-        "5 km",
         "10 km",
+        "5 km",
         "4 km",
         "8 km"
       ],
@@ -541,8 +541,8 @@
       "subject": "B",
       "questionText": "Match the following government schemes with their launch years:\n\nColumn I:\n(a) Make in India\n(b) Swachh Bharat Mission\n(c) GST implementation\n(d) Ayushman Bharat\n\nColumn II:\n(i) 2018\n(ii) 2014\n(iii) 2017\n(iv) 2014\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
       ],
@@ -554,9 +554,9 @@
       "subject": "A",
       "questionText": "Choose the correct sentence:",
       "options": [
-        "She is one of those leaders who inspire others.",
         "She is one of those leaders who inspires others.",
         "She is one of those leader who inspire others.",
+        "She is one of those leaders who inspire others.",
         "She is one of those leaders who inspiring others."
       ],
       "correctAnswer": "She is one of those leaders who inspire others.",
@@ -567,9 +567,9 @@
       "subject": "D",
       "questionText": "The following data shows the marks of students:\n\nA → 45\nB → 72\nC → 63\nD → 81\nE → 54\n\nWhat is the mean (average) of the marks?",
       "options": [
-        "63",
         "72",
         "60",
+        "63",
         "65"
       ],
       "correctAnswer": "63",
@@ -578,25 +578,25 @@
     {
       "id": "45",
       "subject": "E",
-      "questionText": "Which of the following are TRUE about cloud computing?\n\n(i) Data is stored on remote servers accessed via the internet.\n(ii) Google Drive, Dropbox, OneDrive are cloud storage services.\n(iii) Cloud computing eliminates the need for internet connectivity.\n(iv) SaaS delivers software applications over the internet.\n\nSelect the correct combination:",
+      "questionText": "Which of the following are TRUE about cloud computing?\n\n(i) Data is stored on remote servers accessed via the internet.\n(ii) Cloud computing eliminates the need for internet connectivity.\n(iii) Google Drive, Dropbox, OneDrive are cloud storage services.\n(iv) SaaS delivers software applications over the internet.\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "Cloud stores data on remote servers via internet (i correct). Google Drive/Dropbox/OneDrive are cloud services (ii correct). SaaS = Software as a Service delivered online (iv correct). Statement (iii) is INCORRECT — cloud computing REQUIRES internet; without connectivity, cloud resources are inaccessible."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Cloud stores data on remote servers via internet (i correct). Google Drive/Dropbox/OneDrive are cloud services (ii correct). SaaS = Software as a Service delivered online (iv correct). Statement (ii) is INCORRECT — cloud computing REQUIRES internet; without connectivity, cloud resources are inaccessible."
     },
     {
       "id": "46",
       "subject": "A",
       "questionText": "Choose the word most nearly OPPOSITE in meaning to 'EBULLIENT':",
       "options": [
-        "Despondent",
         "Enthusiastic",
         "Cheerful",
-        "Energetic"
+        "Energetic",
+        "Despondent"
       ],
       "correctAnswer": "Despondent",
       "explanation": "'Ebullient' means full of cheerful energy and enthusiasm. 'Despondent' means in low spirits, depressed — the direct antonym. 'Enthusiastic' is a synonym. 'Cheerful' is similar. 'Energetic' is also similar."
@@ -604,15 +604,15 @@
     {
       "id": "47",
       "subject": "B",
-      "questionText": "Consider the following statements about the Reserve Bank of India:\n\n(i) It is India's central bank established in 1935.\n(ii) It issues all currency notes (₹2 and above).\n(iii) It manages monetary policy and controls inflation.\n(iv) It was always a government-owned institution since inception.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Reserve Bank of India:\n\n(i) It is India's central bank established in 1935.\n(ii) It issues all currency notes (₹2 and above).\n(iii) It was always a government-owned institution since inception.\n(iv) It manages monetary policy and controls inflation.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "RBI established 1 April 1935 (i correct). Issues notes of ₹2 and above (₹1 by GoI) (ii correct). Manages monetary policy/inflation via interest rates (iii correct). Statement (iv) is incorrect — RBI was initially a PRIVATE shareholders' institution; it was NATIONALIZED (made government-owned) only on 1 January 1949, 14 years after establishment."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "RBI established 1 April 1935 (i correct). Issues notes of ₹2 and above (₹1 by GoI) (ii correct). Manages monetary policy/inflation via interest rates (iii correct). Statement (iii) is incorrect — RBI was initially a PRIVATE shareholders' institution; it was NATIONALIZED (made government-owned) only on 1 January 1949, 14 years after establishment."
     },
     {
       "id": "48",
@@ -632,10 +632,10 @@
       "subject": "C",
       "questionText": "Consider the following statements about J&K's reorganization:\n\n(i) J&K was bifurcated into J&K UT (with legislature) and Ladakh UT (without legislature).\n(ii) This was done through the J&K Reorganisation Act, 2019.\n(iii) It came into effect on 31 October 2019.\n(iv) Article 370 was simultaneously revoked on 5 August 2019.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
-        "(ii), (iii) and (iv) only"
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "J&K UT (with legislature) + Ladakh UT (without) (i correct). Done via Reorganisation Act (ii correct). Effective 31 October 2019 (iii correct). Article 370 was effectively abrogated on 5 August 2019 (iv correct — the Presidential Order and Parliamentary resolution were on this date). All four are historically accurate."

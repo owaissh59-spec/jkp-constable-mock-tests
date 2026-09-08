@@ -14,16 +14,16 @@
     {
       "id": "2",
       "subject": "E",
-      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware and software resources of a computer.\n(ii) Windows, Linux, and macOS are examples of operating systems.\n(iii) An operating system is a type of application software.\n(iv) It provides an interface between the user and the computer hardware.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — the OS manages all hardware and software resources. (ii) is correct — these are all popular operating systems. (iv) is correct — the OS provides a user interface (GUI or CLI). (iii) is wrong — an operating system is system software, not application software."
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware and software resources of a computer.\n(ii) Windows, Linux, and macOS are examples of operating systems.\n(iii) It provides an interface between the user and the computer hardware.\n(iv) An operating system is a type of application software.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — the OS manages all hardware and software resources. (ii) is correct — these are all popular operating systems. (iii) is correct — the OS provides a user interface (GUI or CLI). (iv) is wrong — an operating system is system software, not application software."
     },
     {
       "id": "3",
       "subject": "E",
       "questionText": "The primary difference between RAM and ROM is:",
-      "options": ["RAM is volatile (loses data when power is off) while ROM is non-volatile (retains data)", "RAM is permanent and ROM is temporary", "RAM is slower than ROM", "ROM can be written to freely while RAM cannot"],
+      "options": ["RAM is permanent and ROM is temporary", "RAM is volatile (loses data when power is off) while ROM is non-volatile (retains data)", "RAM is slower than ROM", "ROM can be written to freely while RAM cannot"],
       "correctAnswer": "RAM is volatile (loses data when power is off) while ROM is non-volatile (retains data)",
       "explanation": "RAM loses its content when power is switched off (volatile), while ROM retains data permanently (non-volatile). 'RAM is permanent, ROM is temporary' is wrong — it reverses the truth. 'RAM is slower than ROM' is wrong — RAM is actually faster than ROM. 'ROM can be written freely' is wrong — ROM is read-only; RAM is the one that can be written to freely."
     },
@@ -39,39 +39,39 @@
       "id": "5",
       "subject": "E",
       "questionText": "Match the following storage devices with their types:\n\nColumn I:\n(a) Hard Disk Drive\n(b) CD/DVD\n(c) Pen Drive (USB Flash Drive)\n(d) Floppy Disk\n\nColumn II:\n(i) Optical storage\n(ii) Magnetic storage (obsolete)\n(iii) Magnetic storage\n(iv) Flash (solid-state) storage\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"],
+      "options": ["(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
-      "explanation": "HDD uses magnetic storage (iii). CD/DVD uses optical (laser-based) storage (i). Pen drive uses flash/solid-state memory (iv). Floppy disk uses magnetic storage but is obsolete (ii). The second option wrongly assigns optical to HDD. The third option wrongly assigns flash to CD/DVD. The fourth option wrongly assigns flash to HDD."
+      "explanation": "HDD uses magnetic storage (iii). CD/DVD uses optical (laser-based) storage (i). Pen drive uses flash/solid-state memory (iv). Floppy disk uses magnetic storage but is obsolete (ii). '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' wrongly assigns optical to HDD. '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' wrongly assigns flash to CD/DVD. '(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)' wrongly assigns flash to HDD."
     },
     {
       "id": "6",
       "subject": "E",
       "questionText": "The function of an operating system that manages the allocation and deallocation of memory to processes is called:",
-      "options": ["Memory management", "File management", "Device management", "Network management"],
+      "options": ["File management", "Device management", "Memory management", "Network management"],
       "correctAnswer": "Memory management",
       "explanation": "Memory management handles allocation/deallocation of RAM to running programs. 'File management' is wrong — that handles creation, deletion, and organisation of files. 'Device management' is wrong — that manages hardware peripherals. 'Network management' is wrong — that handles network connections and data transmission."
     },
     {
       "id": "7",
       "subject": "E",
-      "questionText": "Which of the following are functions of an operating system?\n\n(i) Process management\n(ii) Memory management\n(iii) File management\n(iv) Playing video games\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — the OS manages running processes. (ii) is correct — it allocates/deallocates memory. (iii) is correct — it manages file systems. (iv) is wrong — playing games is done by application software, not the operating system itself."
+      "questionText": "Which of the following are functions of an operating system?\n\n(i) Playing video games\n(ii) Process management\n(iii) Memory management\n(iv) File management\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — the OS manages running processes. (iii) is correct — it allocates/deallocates memory. (iv) is correct — it manages file systems. (i) is wrong — playing games is done by application software, not the operating system itself."
     },
     {
       "id": "8",
       "subject": "E",
-      "questionText": "Consider the following statements about storage capacity units:\n\n(i) 1 Kilobyte (KB) = 1024 Bytes.\n(ii) 1 Megabyte (MB) = 1024 Kilobytes.\n(iii) 1 Gigabyte (GB) = 1024 Megabytes.\n(iv) 1 Terabyte (TB) = 512 Gigabytes.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about storage capacity units:\n\n(i) 1 Kilobyte (KB) = 1024 Bytes.\n(ii) 1 Terabyte (TB) = 512 Gigabytes.\n(iii) 1 Megabyte (MB) = 1024 Kilobytes.\n(iv) 1 Gigabyte (GB) = 1024 Megabytes.\n\nWhich of the statements given above are correct?",
       "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — 1 KB = 1024 Bytes. (ii) is correct — 1 MB = 1024 KB. (iii) is correct — 1 GB = 1024 MB. (iv) is wrong — 1 TB = 1024 GB, not 512 GB."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — 1 KB = 1024 Bytes. (iii) is correct — 1 MB = 1024 KB. (iv) is correct — 1 GB = 1024 MB. (ii) is wrong — 1 TB = 1024 GB, not 512 GB."
     },
     {
       "id": "9",
       "subject": "E",
       "questionText": "The Windows operating system was developed by:",
-      "options": ["Microsoft", "Apple", "Google", "IBM"],
+      "options": ["Apple", "Google", "IBM", "Microsoft"],
       "correctAnswer": "Microsoft",
       "explanation": "Microsoft developed the Windows operating system. 'Apple' is wrong — Apple developed macOS and iOS. 'Google' is wrong — Google developed Android and Chrome OS. 'IBM' is wrong — IBM developed mainframe operating systems but not Windows."
     },
@@ -87,7 +87,7 @@
       "id": "11",
       "subject": "E",
       "questionText": "Which of the following is a mobile operating system?",
-      "options": ["Android", "Windows 10", "Ubuntu", "macOS"],
+      "options": ["Windows 10", "Ubuntu", "macOS", "Android"],
       "correctAnswer": "Android",
       "explanation": "Android is a mobile operating system developed by Google for smartphones and tablets. 'Windows 10' is wrong — it is primarily a desktop/laptop OS (though Windows Mobile existed separately). 'Ubuntu' is wrong — it is a Linux-based desktop OS. 'macOS' is wrong — it is Apple's desktop operating system (iOS is their mobile OS)."
     },
@@ -97,13 +97,13 @@
       "questionText": "Match the following operating systems with their developers:\n\nColumn I:\n(a) Windows\n(b) macOS\n(c) Android\n(d) Linux\n\nColumn II:\n(i) Google (with Open Handset Alliance)\n(ii) Apple Inc.\n(iii) Linus Torvalds (open-source community)\n(iv) Microsoft\n\nChoose the correct match:",
       "options": ["(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
-      "explanation": "Windows by Microsoft (iv). macOS by Apple (ii). Android by Google/OHA (i). Linux by Linus Torvalds/community (iii). The second option wrongly assigns Apple to Windows. The third option wrongly assigns Google to macOS. The fourth option wrongly assigns Linus Torvalds to Android."
+      "explanation": "Windows by Microsoft (iv). macOS by Apple (ii). Android by Google/OHA (i). Linux by Linus Torvalds/community (iii). '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' wrongly assigns Apple to Windows. '(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)' wrongly assigns Google to macOS. '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' wrongly assigns Linus Torvalds to Android."
     },
     {
       "id": "13",
       "subject": "E",
       "questionText": "Consider the following statements about USB flash drives (pen drives):\n\n(i) They use flash memory for storage.\n(ii) They are portable and can be plugged into USB ports.\n(iii) They are volatile — data is lost when removed from the computer.\n(iv) Common capacities range from 4 GB to 256 GB or more.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — pen drives use flash memory chips. (ii) is correct — they are small, portable, and connect via USB. (iv) is correct — modern pen drives range from 4 GB to over 256 GB. (iii) is wrong — flash memory is non-volatile; data is retained even after removal from the computer."
     },
@@ -111,7 +111,7 @@
       "id": "14",
       "subject": "E",
       "questionText": "The 'File Explorer' (or 'Windows Explorer') in the Windows operating system is used for:",
-      "options": ["Navigating, viewing, and managing files and folders on the computer", "Browsing the internet", "Writing documents and letters", "Editing photographs"],
+      "options": ["Browsing the internet", "Navigating, viewing, and managing files and folders on the computer", "Writing documents and letters", "Editing photographs"],
       "correctAnswer": "Navigating, viewing, and managing files and folders on the computer",
       "explanation": "File Explorer is the file management tool in Windows for browsing, copying, moving, and organising files. 'Browsing internet' is wrong — that is done by web browsers like Edge or Chrome. 'Writing documents' is wrong — that is MS Word's function. 'Editing photographs' is wrong — that requires image editing software."
     },
@@ -119,7 +119,7 @@
       "id": "15",
       "subject": "E",
       "questionText": "Fill in the blank: The storage capacity of a standard single-layer DVD is approximately __________.",
-      "options": ["4.7 GB", "700 MB", "25 GB", "1.44 MB"],
+      "options": ["700 MB", "4.7 GB", "25 GB", "1.44 MB"],
       "correctAnswer": "4.7 GB",
       "explanation": "A single-layer DVD holds approximately 4.7 GB of data. '700 MB' is wrong — that is the capacity of a CD. '25 GB' is wrong — that is the capacity of a single-layer Blu-ray disc. '1.44 MB' is wrong — that was the capacity of a 3.5-inch floppy disk."
     },
@@ -127,7 +127,7 @@
       "id": "16",
       "subject": "E",
       "questionText": "Which of the following statements are correct about the BIOS?\n\n(i) BIOS stands for Basic Input/Output System.\n(ii) It is stored in ROM on the motherboard.\n(iii) It performs the POST (Power-On Self-Test) when the computer starts.\n(iv) BIOS is a type of application software like MS Word.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — BIOS = Basic Input/Output System. (ii) is correct — it is stored in ROM/flash memory on the motherboard. (iii) is correct — it runs POST to check hardware at startup. (iv) is wrong — BIOS is firmware (low-level system software), not application software."
     },
@@ -143,23 +143,23 @@
       "id": "18",
       "subject": "E",
       "questionText": "The term 'booting' in computers refers to:",
-      "options": ["The process of starting the computer and loading the operating system into memory", "Shutting down the computer permanently", "Connecting to the internet", "Installing new application software"],
+      "options": ["Shutting down the computer permanently", "Connecting to the internet", "The process of starting the computer and loading the operating system into memory", "Installing new application software"],
       "correctAnswer": "The process of starting the computer and loading the operating system into memory",
       "explanation": "Booting is the startup process where the BIOS loads the OS from storage into RAM. 'Shutting down' is wrong — that is the opposite of booting. 'Connecting to internet' is wrong — that is networking, not booting. 'Installing software' is wrong — installation is a separate process after the OS is already running."
     },
     {
       "id": "19",
       "subject": "E",
-      "questionText": "Consider the following statements about optical storage devices:\n\n(i) CDs, DVDs, and Blu-ray discs are optical storage media.\n(ii) They use laser technology to read and write data.\n(iii) Optical discs are magnetic storage devices.\n(iv) Blu-ray has higher storage capacity than DVD.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — CDs, DVDs, and Blu-ray are all optical media. (ii) is correct — they use laser beams to read/write data. (iv) is correct — Blu-ray (25-50 GB) has far more capacity than DVD (4.7-8.5 GB). (iii) is wrong — optical discs use laser light, not magnetism; HDDs and floppy disks are magnetic."
+      "questionText": "Consider the following statements about optical storage devices:\n\n(i) Optical discs are magnetic storage devices.\n(ii) CDs, DVDs, and Blu-ray discs are optical storage media.\n(iii) They use laser technology to read and write data.\n(iv) Blu-ray has higher storage capacity than DVD.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — CDs, DVDs, and Blu-ray are all optical media. (iii) is correct — they use laser beams to read/write data. (iv) is correct — Blu-ray (25-50 GB) has far more capacity than DVD (4.7-8.5 GB). (i) is wrong — optical discs use laser light, not magnetism; HDDs and floppy disks are magnetic."
     },
     {
       "id": "20",
       "subject": "E",
       "questionText": "The 'Recycle Bin' in Windows operating system:",
-      "options": ["Temporarily stores deleted files until they are permanently removed or restored", "Permanently deletes files immediately", "Stores files downloaded from the internet", "Is used to install new programs"],
+      "options": ["Permanently deletes files immediately", "Stores files downloaded from the internet", "Is used to install new programs", "Temporarily stores deleted files until they are permanently removed or restored"],
       "correctAnswer": "Temporarily stores deleted files until they are permanently removed or restored",
       "explanation": "The Recycle Bin holds deleted files temporarily, allowing recovery if needed. 'Permanently deletes immediately' is wrong — that would be Shift+Delete, not normal deletion. 'Stores downloads' is wrong — the Downloads folder does that. 'Install programs' is wrong — installation is done through setup files or the Store."
     },
@@ -167,9 +167,9 @@
       "id": "21",
       "subject": "E",
       "questionText": "Match the following storage media with their approximate capacities:\n\nColumn I:\n(a) Floppy Disk (3.5 inch)\n(b) CD\n(c) Single-layer DVD\n(d) Single-layer Blu-ray\n\nColumn II:\n(i) 4.7 GB\n(ii) 25 GB\n(iii) 1.44 MB\n(iv) 700 MB\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-      "explanation": "Floppy = 1.44 MB (iii). CD = 700 MB (iv). DVD = 4.7 GB (i). Blu-ray = 25 GB (ii). The second option wrongly assigns 700 MB to floppy. The third option wrongly assigns 4.7 GB to CD. The fourth option wrongly assigns 25 GB to DVD."
+      "explanation": "Floppy = 1.44 MB (iii). CD = 700 MB (iv). DVD = 4.7 GB (i). Blu-ray = 25 GB (ii). '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' wrongly assigns 700 MB to floppy. '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' wrongly assigns 4.7 GB to CD. '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' wrongly assigns 25 GB to DVD."
     },
     {
       "id": "22",
@@ -182,10 +182,10 @@
     {
       "id": "23",
       "subject": "E",
-      "questionText": "Consider the following statements about cloud storage:\n\n(i) Cloud storage allows users to save data on remote servers accessed via the internet.\n(ii) Google Drive, Dropbox, and OneDrive are examples of cloud storage services.\n(iii) Cloud storage requires no internet connection to access files.\n(iv) Data in cloud storage can be accessed from multiple devices.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — cloud storage uses remote servers. (ii) is correct — these are popular cloud services. (iv) is correct — data can be accessed from any device with internet. (iii) is wrong — cloud storage requires an internet connection to upload, download, or sync files (offline access of cached files is limited)."
+      "questionText": "Consider the following statements about cloud storage:\n\n(i) Cloud storage allows users to save data on remote servers accessed via the internet.\n(ii) Cloud storage requires no internet connection to access files.\n(iii) Google Drive, Dropbox, and OneDrive are examples of cloud storage services.\n(iv) Data in cloud storage can be accessed from multiple devices.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — cloud storage uses remote servers. (iii) is correct — these are popular cloud services. (iv) is correct — data can be accessed from any device with internet. (ii) is wrong — cloud storage requires an internet connection to upload, download, or sync files (offline access of cached files is limited)."
     },
     {
       "id": "24",
@@ -199,7 +199,7 @@
       "id": "25",
       "subject": "E",
       "questionText": "The 'Task Manager' in Windows can be used to:",
-      "options": ["View running processes and end unresponsive programs", "Create new documents", "Browse the internet", "Install printer drivers"],
+      "options": ["Create new documents", "View running processes and end unresponsive programs", "Browse the internet", "Install printer drivers"],
       "correctAnswer": "View running processes and end unresponsive programs",
       "explanation": "Task Manager shows running processes, memory usage, and allows ending unresponsive applications. 'Create documents' is wrong — that requires a word processor. 'Browse internet' is wrong — that requires a web browser. 'Install printer drivers' is wrong — that is done through Device Manager or Settings."
     },
@@ -207,23 +207,23 @@
       "id": "26",
       "subject": "E",
       "questionText": "Fill in the blank: A __________ is a small portable storage device that connects to the computer's USB port and uses flash memory.",
-      "options": ["Pen drive", "Hard disk", "Floppy disk", "Blu-ray disc"],
+      "options": ["Hard disk", "Pen drive", "Floppy disk", "Blu-ray disc"],
       "correctAnswer": "Pen drive",
       "explanation": "A pen drive (USB flash drive) is small, portable, connects via USB, and uses flash memory. 'Hard disk' is wrong — HDDs are larger internal/external magnetic storage. 'Floppy disk' is wrong — floppies are obsolete magnetic disks. 'Blu-ray disc' is wrong — it is an optical disc, not USB-based flash."
     },
     {
       "id": "27",
       "subject": "E",
-      "questionText": "Which of the following are types of operating systems based on the number of tasks they can handle?\n\n(i) Single-tasking OS\n(ii) Multi-tasking OS\n(iii) Batch processing OS\n(iv) Magnetic OS\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — single-tasking OS runs one task at a time (e.g., MS-DOS). (ii) is correct — multi-tasking OS runs multiple tasks simultaneously. (iii) is correct — batch processing OS executes jobs in batches without user interaction. (iv) is wrong — 'Magnetic OS' does not exist; it is not a category of operating systems."
+      "questionText": "Which of the following are types of operating systems based on the number of tasks they can handle?\n\n(i) Single-tasking OS\n(ii) Multi-tasking OS\n(iii) Magnetic OS\n(iv) Batch processing OS\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — single-tasking OS runs one task at a time (e.g., MS-DOS). (ii) is correct — multi-tasking OS runs multiple tasks simultaneously. (iv) is correct — batch processing OS executes jobs in batches without user interaction. (iii) is wrong — 'Magnetic OS' does not exist; it is not a category of operating systems."
     },
     {
       "id": "28",
       "subject": "E",
       "questionText": "Consider the following statements about file systems:\n\n(i) NTFS is the default file system used by modern Windows operating systems.\n(ii) FAT32 is an older file system with a maximum file size limit of 4 GB.\n(iii) A file system organises how data is stored and retrieved on a disk.\n(iv) File systems are a type of application software.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — Windows uses NTFS (New Technology File System). (ii) is correct — FAT32 has a 4 GB file size limit. (iii) is correct — file systems manage data storage and retrieval organisation. (iv) is wrong — file systems are part of the operating system (system software), not application software."
     },
@@ -231,15 +231,15 @@
       "id": "29",
       "subject": "E",
       "questionText": "Match the following Windows keyboard shortcuts with their functions:\n\nColumn I:\n(a) Ctrl + Alt + Delete\n(b) Windows + E\n(c) Windows + L\n(d) Alt + F4\n\nColumn II:\n(i) Opens File Explorer\n(ii) Locks the computer screen\n(iii) Opens security options / Task Manager\n(iv) Closes the active window or application\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "options": ["(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-      "explanation": "Ctrl+Alt+Del opens security options/Task Manager (iii). Win+E opens File Explorer (i). Win+L locks the screen (ii). Alt+F4 closes active window (iv). The second option wrongly assigns File Explorer to Ctrl+Alt+Del. The third option wrongly assigns lock to Win+E. The fourth option wrongly assigns close to Win+L."
+      "explanation": "Ctrl+Alt+Del opens security options/Task Manager (iii). Win+E opens File Explorer (i). Win+L locks the screen (ii). Alt+F4 closes active window (iv). '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)' wrongly assigns File Explorer to Ctrl+Alt+Del. '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' wrongly assigns lock to Win+E. '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' wrongly assigns close to Win+L."
     },
     {
       "id": "30",
       "subject": "E",
       "questionText": "The term 'partitioning' a hard disk means:",
-      "options": ["Dividing a physical hard disk into separate logical sections (drives)", "Breaking the hard disk into pieces physically", "Connecting two hard disks together", "Formatting the hard disk to remove all data"],
+      "options": ["Breaking the hard disk into pieces physically", "Connecting two hard disks together", "Formatting the hard disk to remove all data", "Dividing a physical hard disk into separate logical sections (drives)"],
       "correctAnswer": "Dividing a physical hard disk into separate logical sections (drives)",
       "explanation": "Partitioning creates logical divisions (like C:, D: drives) on a single physical disk. 'Breaking physically' is wrong — partitioning is a logical/software operation. 'Connecting two disks' is wrong — that relates to RAID or spanning, not partitioning. 'Formatting' is wrong — formatting prepares a partition for use but is not the same as creating partitions."
     },
@@ -254,10 +254,10 @@
     {
       "id": "32",
       "subject": "E",
-      "questionText": "Which of the following operations is performed by the operating system during the boot process?\n\n(i) POST (Power-On Self-Test)\n(ii) Loading the OS kernel into RAM\n(iii) Initializing device drivers\n(iv) Creating spreadsheets\n\nSelect the correct combination:",
+      "questionText": "Which of the following operations is performed by the operating system during the boot process?\n\n(i) Creating spreadsheets\n(ii) POST (Power-On Self-Test)\n(iii) Loading the OS kernel into RAM\n(iv) Initializing device drivers\n\nSelect the correct combination:",
       "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — POST checks hardware functionality at startup. (ii) is correct — the OS kernel is loaded from disk into RAM. (iii) is correct — device drivers are initialized to allow hardware communication. (iv) is wrong — creating spreadsheets is done by application software (Excel) after the OS is fully loaded."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — POST checks hardware functionality at startup. (iii) is correct — the OS kernel is loaded from disk into RAM. (iv) is correct — device drivers are initialized to allow hardware communication. (i) is wrong — creating spreadsheets is done by application software (Excel) after the OS is fully loaded."
     },
     {
       "id": "33",
@@ -270,16 +270,16 @@
     {
       "id": "34",
       "subject": "E",
-      "questionText": "Consider the following statements about backup storage:\n\n(i) Backup means creating a copy of important data to protect against loss.\n(ii) External hard drives and cloud storage are commonly used for backups.\n(iii) Backups are unnecessary because data on a computer never gets corrupted.\n(iv) Regular backups help recover data after hardware failure or accidental deletion.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — backup = copy of data for protection. (ii) is correct — external drives and cloud are popular backup media. (iv) is correct — backups enable recovery from failures. (iii) is wrong — data can and does get corrupted, lost, or accidentally deleted, making backups essential."
+      "questionText": "Consider the following statements about backup storage:\n\n(i) Backup means creating a copy of important data to protect against loss.\n(ii) Backups are unnecessary because data on a computer never gets corrupted.\n(iii) External hard drives and cloud storage are commonly used for backups.\n(iv) Regular backups help recover data after hardware failure or accidental deletion.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — backup = copy of data for protection. (iii) is correct — external drives and cloud are popular backup media. (iv) is correct — backups enable recovery from failures. (ii) is wrong — data can and does get corrupted, lost, or accidentally deleted, making backups essential."
     },
     {
       "id": "35",
       "subject": "E",
       "questionText": "A 'device driver' in an operating system is:",
-      "options": ["A software program that allows the OS to communicate with a specific hardware device", "A physical tool used to open a computer case", "A person who delivers computer hardware", "A type of storage device"],
+      "options": ["A physical tool used to open a computer case", "A software program that allows the OS to communicate with a specific hardware device", "A person who delivers computer hardware", "A type of storage device"],
       "correctAnswer": "A software program that allows the OS to communicate with a specific hardware device",
       "explanation": "A device driver is software that translates OS commands into device-specific instructions. 'Physical tool' is wrong — a driver in computing is software, not a physical tool. 'Person who delivers hardware' is wrong — that's a delivery person, not a device driver. 'Storage device' is wrong — drivers are programs, not hardware."
     },
@@ -287,15 +287,15 @@
       "id": "36",
       "subject": "E",
       "questionText": "Match the following terms with their descriptions:\n\nColumn I:\n(a) GUI\n(b) CLI\n(c) Multitasking\n(d) Virtual Memory\n\nColumn II:\n(i) Running multiple programs simultaneously\n(ii) Using hard disk space as an extension of RAM\n(iii) Interface using icons, windows, and a mouse\n(iv) Interface using typed text commands\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "options": ["(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-      "explanation": "GUI = Graphical User Interface with icons/windows (iii). CLI = Command Line Interface with typed commands (iv). Multitasking = running multiple programs at once (i). Virtual Memory = using disk space as extended RAM (ii). The second option wrongly swaps GUI and CLI. The third option wrongly assigns virtual memory to multitasking. The fourth option wrongly assigns multitasking to CLI."
+      "explanation": "GUI = Graphical User Interface with icons/windows (iii). CLI = Command Line Interface with typed commands (iv). Multitasking = running multiple programs at once (i). Virtual Memory = using disk space as extended RAM (ii). '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' wrongly swaps GUI and CLI. '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' wrongly assigns virtual memory to multitasking. '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' wrongly assigns multitasking to CLI."
     },
     {
       "id": "37",
       "subject": "E",
       "questionText": "The primary purpose of formatting a storage device is:",
-      "options": ["Preparing it with a file system so the OS can store and retrieve data on it", "Increasing its physical storage capacity", "Connecting it to the internet", "Making it immune to viruses permanently"],
+      "options": ["Increasing its physical storage capacity", "Connecting it to the internet", "Preparing it with a file system so the OS can store and retrieve data on it", "Making it immune to viruses permanently"],
       "correctAnswer": "Preparing it with a file system so the OS can store and retrieve data on it",
       "explanation": "Formatting creates a file system structure on the storage device. 'Increasing capacity' is wrong — formatting doesn't add physical space; it may slightly reduce usable space. 'Connecting to internet' is wrong — formatting has nothing to do with networking. 'Making immune to viruses' is wrong — formatting erases current data but doesn't provide permanent virus protection."
     },
@@ -303,7 +303,7 @@
       "id": "38",
       "subject": "E",
       "questionText": "Consider the following statements about Windows Update:\n\n(i) It provides security patches and bug fixes for the operating system.\n(ii) Updates can include new features and performance improvements.\n(iii) Windows Updates are always optional and never necessary.\n(iv) Keeping the OS updated helps protect against security vulnerabilities.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — updates include security patches. (ii) is correct — they can add features and improvements. (iv) is correct — updates protect against known vulnerabilities. (iii) is wrong — many security updates are critical and strongly recommended (some are even mandatory in recent Windows versions)."
     },
@@ -311,7 +311,7 @@
       "id": "39",
       "subject": "E",
       "questionText": "An external hard drive connects to a computer typically through:",
-      "options": ["A USB port", "A VGA port", "An audio jack", "A power socket"],
+      "options": ["A VGA port", "An audio jack", "A power socket", "A USB port"],
       "correctAnswer": "A USB port",
       "explanation": "External hard drives typically connect via USB (USB 3.0/3.1 or USB-C). 'VGA port' is wrong — VGA is for connecting monitors (video output). 'Audio jack' is wrong — it is for headphones/speakers (audio). 'Power socket' is wrong — it provides electrical power to the computer, not data connection."
     },
@@ -319,7 +319,7 @@
       "id": "40",
       "subject": "E",
       "questionText": "Which of the following correctly describes 'defragmentation' of a hard disk?",
-      "options": ["Rearranging fragmented data on the disk so related data is stored contiguously, improving access speed", "Breaking the disk into smaller physical pieces", "Removing all viruses from the computer", "Increasing the storage capacity by compressing all files"],
+      "options": ["Breaking the disk into smaller physical pieces", "Removing all viruses from the computer", "Increasing the storage capacity by compressing all files", "Rearranging fragmented data on the disk so related data is stored contiguously, improving access speed"],
       "correctAnswer": "Rearranging fragmented data on the disk so related data is stored contiguously, improving access speed",
       "explanation": "Defragmentation reorganises scattered file fragments on an HDD to improve read/write speed. 'Breaking into pieces' is wrong — that would destroy the disk. 'Removing viruses' is wrong — that is antivirus software's job. 'Increasing capacity by compression' is wrong — defragmentation doesn't compress files or increase capacity."
     }

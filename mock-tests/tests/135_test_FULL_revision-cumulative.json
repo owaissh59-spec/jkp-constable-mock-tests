@@ -15,7 +15,7 @@
       "id": "2",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian freedom struggle:\n\n(i) The Quit India Movement was launched in 1942.\n(ii) 'Do or Die' was the slogan given by Mahatma Gandhi.\n(iii) The Simon Commission was welcomed by all Indians.\n(iv) The Jallianwala Bagh tragedy occurred in Amritsar.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "The Quit India Movement began in 1942 with Gandhi's 'Do or Die' call, and the Jallianwala Bagh massacre took place in Amritsar, so (i), (ii) and (iv) are true. Statement (iii) is false because the Simon Commission was boycotted with 'Simon Go Back' protests, so any option including (iii) is wrong."
     },
@@ -23,7 +23,7 @@
       "id": "3",
       "subject": "D",
       "questionText": "The following table shows the marks obtained by a student in five subjects:\n\nEnglish — 60\nMaths — 80\nScience — 70\nHistory — 50\nHindi — 40\n\nWhat are the total marks obtained?",
-      "options": ["280", "290", "300", "310"],
+      "options": ["300", "280", "290", "310"],
       "correctAnswer": "300",
       "explanation": "Total marks = 60 + 80 + 70 + 50 + 40 = 300. Option 280 and 290 result from arithmetic slips in the addition, and 310 overstates the sum by ten, so only 300 correctly adds all five subject marks together."
     },
@@ -31,7 +31,7 @@
       "id": "4",
       "subject": "E",
       "questionText": "Match the following keyboard shortcuts with their functions:\n\nColumn I:\n(a) Ctrl + S\n(b) Ctrl + P\n(c) Ctrl + Z\n(d) Ctrl + A\n\nColumn II:\n(i) Print\n(ii) Select all\n(iii) Save\n(iv) Undo\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
+      "options": ["(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
       "explanation": "Ctrl + S saves, Ctrl + P prints, Ctrl + Z undoes and Ctrl + A selects all, giving (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii). The other options swap save with print or undo with select-all, which do not match the standard functions of these shortcuts."
     },
@@ -39,17 +39,17 @@
       "id": "5",
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'RARE':",
-      "options": ["Uncommon", "Frequent", "Common", "Cheap"],
+      "options": ["Frequent", "Uncommon", "Common", "Cheap"],
       "correctAnswer": "Uncommon",
       "explanation": "'Rare' means seldom occurring, so 'uncommon' is the closest synonym. 'Frequent' and 'common' mean the opposite (happening often), and 'cheap' refers to low price rather than scarcity, so none of them matches and 'uncommon' is correct."
     },
     {
       "id": "6",
       "subject": "B",
-      "questionText": "Which of the following are national symbols of India?\n\n(i) Peacock\n(ii) Lotus\n(iii) Kangaroo\n(iv) Banyan tree\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "The peacock is India's national bird, the lotus the national flower and the banyan the national tree, so (i), (ii) and (iv) are correct. The kangaroo is an animal associated with Australia and is not an Indian national symbol, so any option including it is wrong."
+      "questionText": "Which of the following are national symbols of India?\n\n(i) Peacock\n(ii) Lotus\n(iii) Banyan tree\n(iv) Kangaroo\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The peacock is India's national bird, the lotus the national flower and the banyan the national tree, so (i), (ii) and (iii) are correct. The kangaroo is an animal associated with Australia and is not an Indian national symbol, so any option including it is wrong."
     },
     {
       "id": "7",
@@ -71,7 +71,7 @@
       "id": "9",
       "subject": "A",
       "questionText": "Fill in the blank with the correct preposition: The train arrived exactly ______ time.",
-      "options": ["on", "at", "in", "by"],
+      "options": ["at", "in", "on", "by"],
       "correctAnswer": "on",
       "explanation": "The fixed phrase 'on time' means punctually, so 'arrived on time' is correct. 'At time' is not idiomatic, 'in time' means with enough time to spare (a different meaning), and 'by time' is ungrammatical here, so 'on' is the correct preposition for punctuality."
     },
@@ -79,31 +79,31 @@
       "id": "10",
       "subject": "B",
       "questionText": "Who is called the 'Father of the Indian Constitution'?",
-      "options": ["Jawaharlal Nehru", "B.R. Ambedkar", "Rajendra Prasad", "Sardar Patel"],
+      "options": ["Jawaharlal Nehru", "Rajendra Prasad", "B.R. Ambedkar", "Sardar Patel"],
       "correctAnswer": "B.R. Ambedkar",
       "explanation": "Dr. B.R. Ambedkar, chairman of the Drafting Committee, is called the Father of the Indian Constitution. Nehru moved the Objectives Resolution, Rajendra Prasad presided over the Constituent Assembly, and Patel chaired other committees, but none led the drafting, so Ambedkar is correct."
     },
     {
       "id": "11",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) A prime number has exactly two factors.\n(ii) 2 is the smallest prime number.\n(iii) The number 15 is a prime number.\n(iv) Every composite number has more than two factors.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A prime has exactly two factors, 2 is the smallest prime, and composite numbers have more than two factors, so (i), (ii) and (iv) are true. Statement (iii) is false because 15 = 3 × 5 has factors other than 1 and itself, making it composite, so any option with (iii) is wrong."
+      "questionText": "Consider the following statements:\n\n(i) The number 15 is a prime number.\n(ii) A prime number has exactly two factors.\n(iii) 2 is the smallest prime number.\n(iv) Every composite number has more than two factors.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "A prime has exactly two factors, 2 is the smallest prime, and composite numbers have more than two factors, so (ii), (iii) and (iv) are true. Statement (i) is false because 15 = 3 × 5 has factors other than 1 and itself, making it composite, so any option with (i) is wrong."
     },
     {
       "id": "12",
       "subject": "E",
-      "questionText": "Which of the following are output devices?\n\n(i) Monitor\n(ii) Printer\n(iii) Keyboard\n(iv) Speaker\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A monitor displays output, a printer prints output and a speaker produces sound output, so (i), (ii) and (iv) are output devices. A keyboard is an input device used to enter data, so any option that includes the keyboard as output is wrong."
+      "questionText": "Which of the following are output devices?\n\n(i) Monitor\n(ii) Keyboard\n(iii) Printer\n(iv) Speaker\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A monitor displays output, a printer prints output and a speaker produces sound output, so (i), (iii) and (iv) are output devices. A keyboard is an input device used to enter data, so any option that includes the keyboard as output is wrong."
     },
     {
       "id": "13",
       "subject": "A",
       "questionText": "Choose the word opposite in meaning to 'ARTIFICIAL':",
-      "options": ["Natural", "Fake", "Synthetic", "False"],
+      "options": ["Fake", "Synthetic", "False", "Natural"],
       "correctAnswer": "Natural",
       "explanation": "'Artificial' means made by humans rather than occurring in nature, so its antonym is 'natural'. 'Fake', 'synthetic' and 'false' are close in meaning to artificial rather than opposite, so none of them is the antonym and 'natural' is correct."
     },
@@ -111,7 +111,7 @@
       "id": "14",
       "subject": "B",
       "questionText": "Match the following awards with their fields:\n\nColumn I:\n(a) Bharat Ratna\n(b) Param Vir Chakra\n(c) Dronacharya Award\n(d) Jnanpith Award\n\nColumn II:\n(i) Gallantry in war\n(ii) Highest civilian honour\n(iii) Literature\n(iv) Sports coaching\n\nChoose the correct match:",
-      "options": ["(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": ["(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "The Bharat Ratna is the highest civilian honour, the Param Vir Chakra is for wartime gallantry, the Dronacharya Award is for sports coaching and the Jnanpith Award is for literature, giving (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii). The other options swap gallantry with civilian honour or coaching with literature, which are incorrect."
     },
@@ -119,23 +119,23 @@
       "id": "15",
       "subject": "D",
       "questionText": "What is 15% of 200?",
-      "options": ["25", "28", "30", "35"],
+      "options": ["30", "25", "28", "35"],
       "correctAnswer": "30",
       "explanation": "15% of 200 = (15 ÷ 100) × 200 = 30. Option 25 and 28 fall short of the correct value, and 35 exceeds it; only 30 equals fifteen percent of two hundred, so the other numbers do not represent 15% of 200."
     },
     {
       "id": "16",
       "subject": "C",
-      "questionText": "Consider the following statements about the rivers of Jammu & Kashmir:\n\n(i) The Jhelum flows through Srinagar.\n(ii) The Chenab is an important river of the Jammu region.\n(iii) The Tawi is a river associated with Jammu city.\n(iv) The Jhelum flows directly into the Arabian Sea.\n\nWhich of the statements given above are correct?",
-      "options": ["(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Jhelum flows through Srinagar, the Chenab is a major river of the Jammu region and the Tawi flows through Jammu, so (i), (ii) and (iii) are true. Statement (iv) is false because the Jhelum flows into the Chenab and the Indus system, not directly into the Arabian Sea, so any option with (iv) is wrong."
+      "questionText": "Consider the following statements about the rivers of Jammu & Kashmir:\n\n(i) The Jhelum flows through Srinagar.\n(ii) The Chenab is an important river of the Jammu region.\n(iii) The Jhelum flows directly into the Arabian Sea.\n(iv) The Tawi is a river associated with Jammu city.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Jhelum flows through Srinagar, the Chenab is a major river of the Jammu region and the Tawi flows through Jammu, so (i), (ii) and (iv) are true. Statement (iii) is false because the Jhelum flows into the Chenab and the Indus system, not directly into the Arabian Sea, so any option with (iii) is wrong."
     },
     {
       "id": "17",
       "subject": "A",
       "questionText": "Choose the correct verb form: She ______ to the market yesterday.",
-      "options": ["went", "goes", "has gone", "will go"],
+      "options": ["goes", "went", "has gone", "will go"],
       "correctAnswer": "went",
       "explanation": "The time marker 'yesterday' indicates a completed past action, so the simple past 'went' is required. 'Goes' is present, 'has gone' is present perfect implying a link to now, and 'will go' is future, none of which fits a finished action in the past, so 'went' is correct."
     },
@@ -150,16 +150,16 @@
     {
       "id": "19",
       "subject": "D",
-      "questionText": "Which of the following numbers are divisible by 4?\n\n(i) 116\n(ii) 214\n(iii) 128\n(iv) 312\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "A number is divisible by 4 if its last two digits form a multiple of 4: 116 (16), 128 (28) and 312 (12) all qualify, so (i), (iii) and (iv) are correct. 214 ends in 14, which is not divisible by 4, so any option that includes 214 is wrong."
+      "questionText": "Which of the following numbers are divisible by 4?\n\n(i) 116\n(ii) 128\n(iii) 312\n(iv) 214\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A number is divisible by 4 if its last two digits form a multiple of 4: 116 (16), 128 (28) and 312 (12) all qualify, so (i), (ii) and (iii) are correct. 214 ends in 14, which is not divisible by 4, so any option that includes 214 is wrong."
     },
     {
       "id": "20",
       "subject": "E",
       "questionText": "Which of the following is a spreadsheet application?",
-      "options": ["MS Word", "MS PowerPoint", "Notepad", "MS Excel"],
+      "options": ["MS Word", "MS Excel", "MS PowerPoint", "Notepad"],
       "correctAnswer": "MS Excel",
       "explanation": "MS Excel is a spreadsheet application used for calculations, tables and charts. MS Word is a word processor, MS PowerPoint makes presentations, and Notepad is a simple text editor, so none of them is a spreadsheet program; MS Excel is the correct answer."
     },
@@ -167,17 +167,17 @@
       "id": "21",
       "subject": "A",
       "questionText": "The idiom 'to face the music' means:",
-      "options": ["To accept the consequences", "To enjoy a concert", "To run away from trouble", "To sing very loudly"],
+      "options": ["To enjoy a concert", "To run away from trouble", "To accept the consequences", "To sing very loudly"],
       "correctAnswer": "To accept the consequences",
       "explanation": "'To face the music' means to accept the unpleasant consequences of one's actions. It has nothing to do literally with enjoying a concert or singing, and it is the opposite of running away, so 'to accept the consequences' is the correct meaning of the idiom."
     },
     {
       "id": "22",
       "subject": "B",
-      "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Supreme Court is the highest court in India.\n(ii) The Chief Justice of India heads the Supreme Court.\n(iii) High Courts function at the state level.\n(iv) The Supreme Court is located in Mumbai.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Supreme Court is the apex court, the Chief Justice of India heads it, and High Courts work at the state level, so (i), (ii) and (iii) are true. Statement (iv) is false because the Supreme Court is located in New Delhi, not Mumbai, so any option that includes (iv) is wrong."
+      "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Supreme Court is located in Mumbai.\n(ii) The Supreme Court is the highest court in India.\n(iii) The Chief Justice of India heads the Supreme Court.\n(iv) High Courts function at the state level.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The Supreme Court is the apex court, the Chief Justice of India heads it, and High Courts work at the state level, so (ii), (iii) and (iv) are true. Statement (i) is false because the Supreme Court is located in New Delhi, not Mumbai, so any option that includes (i) is wrong."
     },
     {
       "id": "23",
@@ -199,23 +199,23 @@
       "id": "25",
       "subject": "B",
       "questionText": "The Tropic of Cancer passes through how many Indian states?",
-      "options": ["8", "6", "10", "5"],
+      "options": ["6", "10", "5", "8"],
       "correctAnswer": "8",
       "explanation": "The Tropic of Cancer passes through eight Indian states (Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram). The figures 6, 10 and 5 do not match this well-established count, so 8 is the correct number of states."
     },
     {
       "id": "26",
       "subject": "C",
-      "questionText": "Which of the following are hill stations or tourist spots located in Jammu & Kashmir?\n\n(i) Sonamarg\n(ii) Gulmarg\n(iii) Mussoorie\n(iv) Patnitop\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Sonamarg, Gulmarg and Patnitop are all tourist destinations in Jammu & Kashmir, so (i), (ii) and (iv) are correct. Mussoorie is a hill station in Uttarakhand, not in J&K, so any option that includes Mussoorie is wrong."
+      "questionText": "Which of the following are hill stations or tourist spots located in Jammu & Kashmir?\n\n(i) Sonamarg\n(ii) Mussoorie\n(iii) Gulmarg\n(iv) Patnitop\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Sonamarg, Gulmarg and Patnitop are all tourist destinations in Jammu & Kashmir, so (i), (iii) and (iv) are correct. Mussoorie is a hill station in Uttarakhand, not in J&K, so any option that includes Mussoorie is wrong."
     },
     {
       "id": "27",
       "subject": "D",
       "questionText": "The following table shows the number of students in four sections:\n\nA — 40\nB — 35\nC — 45\nD — 30\n\nWhat is the average number of students per section?",
-      "options": ["35", "36.5", "37.5", "38.5"],
+      "options": ["37.5", "35", "36.5", "38.5"],
       "correctAnswer": "37.5",
       "explanation": "Total students = 40 + 35 + 45 + 30 = 150, and average = 150 ÷ 4 = 37.5. Option 35 and 36.5 fall short of the true mean, and 38.5 exceeds it, so only 37.5 correctly divides the total of 150 by the four sections."
     },
@@ -246,16 +246,16 @@
     {
       "id": "31",
       "subject": "D",
-      "questionText": "Consider the following statements about a square:\n\n(i) All four sides are equal.\n(ii) All its angles are 90°.\n(iii) Its diagonals are equal in length.\n(iv) Its diagonals do not bisect each other.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A square has four equal sides, four right angles, and equal diagonals, so (i), (ii) and (iii) are true. Statement (iv) is false because the diagonals of a square do bisect each other (at right angles), so any option that includes (iv) is wrong."
+      "questionText": "Consider the following statements about a square:\n\n(i) All four sides are equal.\n(ii) All its angles are 90°.\n(iii) Its diagonals do not bisect each other.\n(iv) Its diagonals are equal in length.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A square has four equal sides, four right angles, and equal diagonals, so (i), (ii) and (iv) are true. Statement (iii) is false because the diagonals of a square do bisect each other (at right angles), so any option that includes (iii) is wrong."
     },
     {
       "id": "32",
       "subject": "A",
       "questionText": "Choose the correct word: She was too weak to ______ the heavy box.",
-      "options": ["bare", "bares", "bared", "bear"],
+      "options": ["bare", "bear", "bares", "bared"],
       "correctAnswer": "bear",
       "explanation": "'Bear' here means to carry or endure the weight, which fits the sentence. 'Bare' means uncovered and is a different word (a homophone), while 'bares' and 'bared' are inflected forms of 'bare', so only 'bear' correctly conveys carrying the heavy box."
     },
@@ -263,7 +263,7 @@
       "id": "33",
       "subject": "B",
       "questionText": "The SI unit of electric current is the:",
-      "options": ["Ampere", "Volt", "Watt", "Ohm"],
+      "options": ["Volt", "Watt", "Ampere", "Ohm"],
       "correctAnswer": "Ampere",
       "explanation": "Electric current is measured in amperes. The volt is the unit of potential difference, the watt is the unit of power, and the ohm is the unit of resistance, so none of them measures current; the ampere is the correct SI unit of electric current."
     },
@@ -271,7 +271,7 @@
       "id": "34",
       "subject": "E",
       "questionText": "Consider the following statements about the internet:\n\n(i) HTTP stands for HyperText Transfer Protocol.\n(ii) A URL is the address of a web page.\n(iii) Email allows sending messages electronically.\n(iv) A firewall is a type of computer virus.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "HTTP stands for HyperText Transfer Protocol, a URL is a web page's address, and email sends electronic messages, so (i), (ii) and (iii) are true. Statement (iv) is false because a firewall is a security system that protects against threats, not a virus, so any option with (iv) is wrong."
     },
@@ -295,23 +295,23 @@
       "id": "37",
       "subject": "A",
       "questionText": "Choose the correct pronoun: The girl ______ won the prize is my sister.",
-      "options": ["who", "which", "whom", "whose"],
+      "options": ["which", "whom", "whose", "who"],
       "correctAnswer": "who",
       "explanation": "'Who' is the subject relative pronoun for a person doing the action, so 'the girl who won' is correct. 'Which' is for things, 'whom' is an object pronoun, and 'whose' shows possession, none of which fits the subject role here, so 'who' is the right pronoun."
     },
     {
       "id": "38",
       "subject": "B",
-      "questionText": "Consider the following statements about the Indian economy:\n\n(i) The RBI controls the monetary policy of the country.\n(ii) Agriculture employs a large part of India's population.\n(iii) The Green Revolution increased foodgrain production.\n(iv) The official currency of India is the dollar.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The RBI controls monetary policy, agriculture employs a large share of the population, and the Green Revolution boosted foodgrain output, so (i), (ii) and (iii) are true. Statement (iv) is false because India's currency is the rupee, not the dollar, so any option that includes (iv) is wrong."
+      "questionText": "Consider the following statements about the Indian economy:\n\n(i) The official currency of India is the dollar.\n(ii) The RBI controls the monetary policy of the country.\n(iii) Agriculture employs a large part of India's population.\n(iv) The Green Revolution increased foodgrain production.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The RBI controls monetary policy, agriculture employs a large share of the population, and the Green Revolution boosted foodgrain output, so (ii), (iii) and (iv) are true. Statement (i) is false because India's currency is the rupee, not the dollar, so any option that includes (i) is wrong."
     },
     {
       "id": "39",
       "subject": "D",
       "questionText": "The value of 8 + 2 × 5 is:",
-      "options": ["50", "16", "18", "20"],
+      "options": ["18", "50", "16", "20"],
       "correctAnswer": "18",
       "explanation": "By BODMAS, multiplication comes before addition: 2 × 5 = 10, then 8 + 10 = 18. Option 50 wrongly adds 8 + 2 first and then multiplies by 5, while 16 and 20 arise from other order errors, so 18 is the correct result of the ordered operations."
     },
@@ -319,7 +319,7 @@
       "id": "40",
       "subject": "A",
       "questionText": "Choose the correct passive form of: 'Somebody has stolen my bicycle.'",
-      "options": ["My bicycle was stolen.", "My bicycle is stolen.", "Somebody stole my bicycle.", "My bicycle has been stolen."],
+      "options": ["My bicycle has been stolen.", "My bicycle was stolen.", "My bicycle is stolen.", "Somebody stole my bicycle."],
       "correctAnswer": "My bicycle has been stolen.",
       "explanation": "The active sentence is in the present perfect, so the passive is 'has been stolen'. 'Was stolen' is simple past, 'is stolen' is simple present, and 'Somebody stole my bicycle' is active past, none of which keeps the present perfect passive, so 'My bicycle has been stolen.' is correct."
     },
@@ -334,16 +334,16 @@
     {
       "id": "42",
       "subject": "E",
-      "questionText": "Which of the following are operating systems?\n\n(i) Windows\n(ii) Linux\n(iii) Android\n(iv) Oracle\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Windows, Linux and Android are all operating systems that manage devices, so (i), (ii) and (iii) are correct. Oracle is primarily a database management system, not an operating system, so any option that includes Oracle is wrong."
+      "questionText": "Which of the following are operating systems?\n\n(i) Windows\n(ii) Oracle\n(iii) Linux\n(iv) Android\n\nSelect the correct combination:",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Windows, Linux and Android are all operating systems that manage devices, so (i), (iii) and (iv) are correct. Oracle is primarily a database management system, not an operating system, so any option that includes Oracle is wrong."
     },
     {
       "id": "43",
       "subject": "D",
       "questionText": "A train covers 180 km in 3 hours. What is its speed?",
-      "options": ["45 km/h", "50 km/h", "60 km/h", "70 km/h"],
+      "options": ["45 km/h", "60 km/h", "50 km/h", "70 km/h"],
       "correctAnswer": "60 km/h",
       "explanation": "Speed = distance ÷ time = 180 ÷ 3 = 60 km/h. Option 45 km/h would cover only 135 km in 3 hours, 50 km/h only 150 km, and 70 km/h would cover 210 km, none of which equals 180 km, so 60 km/h is the correct speed."
     },
@@ -351,7 +351,7 @@
       "id": "44",
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'DIFFICULT':",
-      "options": ["Easy", "Simple", "Light", "Hard"],
+      "options": ["Easy", "Hard", "Simple", "Light"],
       "correctAnswer": "Hard",
       "explanation": "'Difficult' means not easy to do, so 'hard' is the closest synonym. 'Easy', 'simple' and 'light' all suggest something requiring little effort, which is the opposite of difficult, so none of them is a synonym and 'hard' is correct."
     },
@@ -359,17 +359,17 @@
       "id": "45",
       "subject": "B",
       "questionText": "Match the following monuments with their cities:\n\nColumn I:\n(a) Taj Mahal\n(b) Red Fort\n(c) Victoria Memorial\n(d) Gateway of India\n\nColumn II:\n(i) Delhi\n(ii) Kolkata\n(iii) Mumbai\n(iv) Agra\n\nChoose the correct match:",
-      "options": ["(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
+      "options": ["(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"],
       "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
       "explanation": "The Taj Mahal is in Agra, the Red Fort in Delhi, the Victoria Memorial in Kolkata and the Gateway of India in Mumbai, giving (a)-(iv), (b)-(i), (c)-(ii), (d)-(iii). The other options swap Agra with Delhi or Kolkata with Mumbai, which misplace these famous monuments."
     },
     {
       "id": "46",
       "subject": "C",
-      "questionText": "Consider the following statements about Jammu & Kashmir's handicrafts:\n\n(i) Pashmina shawls are a famous handicraft of Kashmir.\n(ii) The Kashmiri handicraft industry is important to the economy.\n(iii) Walnut wood carving is practised in Kashmir.\n(iv) Kashmir has no tradition of handicrafts.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Pashmina shawls, the wider handicraft industry, and walnut wood carving are all genuine and important Kashmiri crafts, so (i), (ii) and (iii) are true. Statement (iv) is false because Kashmir has a rich handicraft tradition, so any option that includes (iv) is wrong."
+      "questionText": "Consider the following statements about Jammu & Kashmir's handicrafts:\n\n(i) Pashmina shawls are a famous handicraft of Kashmir.\n(ii) The Kashmiri handicraft industry is important to the economy.\n(iii) Kashmir has no tradition of handicrafts.\n(iv) Walnut wood carving is practised in Kashmir.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Pashmina shawls, the wider handicraft industry, and walnut wood carving are all genuine and important Kashmiri crafts, so (i), (ii) and (iv) are true. Statement (iii) is false because Kashmir has a rich handicraft tradition, so any option that includes (iii) is wrong."
     },
     {
       "id": "47",
@@ -383,7 +383,7 @@
       "id": "48",
       "subject": "A",
       "questionText": "Choose the word opposite in meaning to 'VICTORY':",
-      "options": ["Triumph", "Win", "Success", "Defeat"],
+      "options": ["Triumph", "Win", "Defeat", "Success"],
       "correctAnswer": "Defeat",
       "explanation": "'Victory' means winning, so its antonym is 'defeat', which means losing. 'Triumph', 'win' and 'success' are all synonyms of victory rather than opposites, so none of them is the antonym and 'defeat' is the correct opposite of victory."
     },
@@ -391,7 +391,7 @@
       "id": "49",
       "subject": "B",
       "questionText": "Fill in the blank: The national anthem of India was written by __________.",
-      "options": ["Rabindranath Tagore", "Bankim Chandra Chattopadhyay", "Sarojini Naidu", "Muhammad Iqbal"],
+      "options": ["Bankim Chandra Chattopadhyay", "Sarojini Naidu", "Muhammad Iqbal", "Rabindranath Tagore"],
       "correctAnswer": "Rabindranath Tagore",
       "explanation": "'Jana Gana Mana', the national anthem, was written by Rabindranath Tagore. Bankim Chandra Chattopadhyay wrote the national song 'Vande Mataram', Sarojini Naidu was a poet-politician, and Muhammad Iqbal wrote 'Saare Jahan Se Achha', so only Tagore wrote the anthem."
     },
@@ -399,7 +399,7 @@
       "id": "50",
       "subject": "E",
       "questionText": "The component often called the 'brain' of the computer is the:",
-      "options": ["Monitor", "CPU", "Keyboard", "RAM"],
+      "options": ["Monitor", "Keyboard", "RAM", "CPU"],
       "correctAnswer": "CPU",
       "explanation": "The CPU (Central Processing Unit) processes instructions and is called the brain of the computer. The monitor is an output device, the keyboard is an input device, and RAM is temporary memory that assists the CPU but does not do the processing, so the CPU is correct."
     }

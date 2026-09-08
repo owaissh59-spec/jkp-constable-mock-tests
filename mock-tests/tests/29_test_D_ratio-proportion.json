@@ -34,8 +34,8 @@
       "subject": "D",
       "questionText": "Two numbers are in the ratio 5 : 8. If their sum is 91, what is the smaller number?",
       "options": [
-        "35",
         "56",
+        "35",
         "40",
         "45"
       ],
@@ -60,22 +60,22 @@
       "subject": "D",
       "questionText": "Match the following ratios with their simplest forms:\n\nColumn I:\n(a) 18 : 24\n(b) 35 : 49\n(c) 45 : 60\n(d) 72 : 108\n\nColumn II:\n(i) 2 : 3\n(ii) 3 : 4\n(iii) 5 : 7\n(iv) 3 : 4\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-      "explanation": "18:24 = 3:4 (÷6) → (ii). 35:49 = 5:7 (÷7) → (iii). 45:60 = 3:4 (÷15) → (iv). 72:108 = 2:3 (÷36) → (i). The second option wrongly assigns 5:7 to 18:24. The third option wrongly assigns 2:3 to 45:60. The fourth option wrongly assigns 2:3 to 18:24."
+      "explanation": "18:24 = 3:4 (÷6) → (ii). 35:49 = 5:7 (÷7) → (iii). 45:60 = 3:4 (÷15) → (iv). 72:108 = 2:3 (÷36) → (i). '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' wrongly assigns 5:7 to 18:24. '(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)' wrongly assigns 2:3 to 45:60. '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)' wrongly assigns 2:3 to 18:24."
     },
     {
       "id": "6",
       "subject": "D",
       "questionText": "₹630 is divided among A, B, and C in the ratio 2 : 3 : 4. What is B's share?",
       "options": [
-        "₹210",
         "₹140",
         "₹280",
+        "₹210",
         "₹180"
       ],
       "correctAnswer": "₹210",
@@ -86,9 +86,9 @@
       "subject": "D",
       "questionText": "If 3 : x = x : 12, what is the value of x?",
       "options": [
-        "6",
         "4",
         "9",
+        "6",
         "8"
       ],
       "correctAnswer": "6",
@@ -97,14 +97,14 @@
     {
       "id": "8",
       "subject": "D",
-      "questionText": "Consider the following statements about the ratio 3 : 4 : 5:\n\n(i) If a sum of ₹360 is divided in this ratio, the largest share is ₹150.\n(ii) The smallest share is ₹90.\n(iii) The middle share is ₹120.\n(iv) The difference between the largest and smallest shares is ₹80.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the ratio 3 : 4 : 5:\n\n(i) The difference between the largest and smallest shares is ₹80.\n(ii) If a sum of ₹360 is divided in this ratio, the largest share is ₹150.\n(iii) The smallest share is ₹90.\n(iv) The middle share is ₹120.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
+      "correctAnswer": "(ii), (iii) and (iv)",
       "explanation": "Total parts = 3+4+5 = 12. Smallest = 3/12 × 360 = ₹90 (ii correct). Middle = 4/12 × 360 = ₹120 (iii correct). Largest = 5/12 × 360 = ₹150 (i correct). Difference = 150 − 90 = ₹60, not ₹80 (iv wrong)."
     },
     {
@@ -112,10 +112,10 @@
       "subject": "D",
       "questionText": "The ages of father and son are in the ratio 7 : 2. If the father's age is 42 years, what is the son's age?",
       "options": [
-        "12 years",
         "14 years",
         "18 years",
-        "10 years"
+        "10 years",
+        "12 years"
       ],
       "correctAnswer": "12 years",
       "explanation": "Father:Son = 7:2. If father = 42, then 7x = 42, x = 6. Son = 2x = 12 years. '14 years' is wrong — that gives ratio 42:14 = 3:1, not 7:2. '18 years' is wrong — that gives ratio 42:18 = 7:3. '10 years' is wrong — that gives ratio 42:10 = 21:5."
@@ -138,10 +138,10 @@
       "subject": "D",
       "questionText": "If the ratio of boys to girls in a class is 3 : 2 and the total number of students is 45, how many girls are there?",
       "options": [
-        "18",
         "27",
         "20",
-        "15"
+        "15",
+        "18"
       ],
       "correctAnswer": "18",
       "explanation": "Total parts = 3 + 2 = 5. Girls = (2/5) × 45 = 18. '27' is wrong — that is the number of boys (3/5 × 45). '20' is wrong — no calculation with 2/5 of 45 gives 20. '15' is wrong — that would require total parts to give 2/6."
@@ -149,15 +149,15 @@
     {
       "id": "12",
       "subject": "D",
-      "questionText": "Which of the following are in continued proportion?\n\n(i) 2, 4, 8\n(ii) 3, 9, 27\n(iii) 4, 6, 9\n(iv) 5, 10, 15\n\nSelect the correct combination:",
+      "questionText": "Which of the following are in continued proportion?\n\n(i) 2, 4, 8\n(ii) 5, 10, 15\n(iii) 3, 9, 27\n(iv) 4, 6, 9\n\nSelect the correct combination:",
       "options": [
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "In continued proportion: a, b, c means b² = a × c. (i): 4² = 16 = 2 × 8. Correct. (ii): 9² = 81 = 3 × 27. Correct. (iii): 6² = 36 = 4 × 9. Correct. (iv): 10² = 100 ≠ 5 × 15 = 75. Wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "In continued proportion: a, b, c means b² = a × c. (i): 4² = 16 = 2 × 8. Correct. (iii): 9² = 81 = 3 × 27. Correct. (iv): 6² = 36 = 4 × 9. Correct. (ii): 10² = 100 ≠ 5 × 15 = 75. Wrong."
     },
     {
       "id": "13",
@@ -177,8 +177,8 @@
       "subject": "D",
       "questionText": "Fill in the blank: If 5 : 8 = 15 : x, then x = __________.",
       "options": [
-        "24",
         "20",
+        "24",
         "30",
         "18"
       ],
@@ -190,35 +190,35 @@
       "subject": "D",
       "questionText": "Match the following problems with their answers:\n\nColumn I:\n(a) Mean proportional of 4 and 16\n(b) Third proportional to 3 and 6\n(c) Fourth proportional to 2, 3, and 8\n(d) Mean proportional of 9 and 25\n\nColumn II:\n(i) 12\n(ii) 8\n(iii) 15\n(iv) 12\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-      "explanation": "(a) Mean proportional of 4 and 16 = √(4×16) = √64 = 8 (ii). (b) Third proportional to 3 and 6: 3:6 = 6:x, x = 36/3 = 12 (iv). (c) Fourth proportional to 2,3,8: 2:3 = 8:x, x = 24/2 = 12 (i). (d) Mean proportional of 9 and 25 = √(9×25) = √225 = 15 (iii). The second option wrongly assigns 15 to mean proportional of 4 and 16. The third option wrongly assigns 12 to mean proportional of 4 and 16. The fourth option wrongly assigns 12 to mean of 4 and 16."
+      "explanation": "(a) Mean proportional of 4 and 16 = √(4×16) = √64 = 8 (ii). (b) Third proportional to 3 and 6: 3:6 = 6:x, x = 36/3 = 12 (iv). (c) Fourth proportional to 2,3,8: 2:3 = 8:x, x = 24/2 = 12 (i). (d) Mean proportional of 9 and 25 = √(9×25) = √225 = 15 (iii). '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' wrongly assigns 15 to mean proportional of 4 and 16. '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' wrongly assigns 12 to mean proportional of 4 and 16. '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' wrongly assigns 12 to mean of 4 and 16."
     },
     {
       "id": "16",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) If A : B = 2 : 3 and B : C = 4 : 5, then A : B : C = 8 : 12 : 15.\n(ii) The compound ratio of 2 : 3 and 4 : 5 is 8 : 15.\n(iii) The duplicate ratio of 3 : 4 is 9 : 16.\n(iv) The sub-duplicate ratio of 9 : 16 is 4 : 3.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) If A : B = 2 : 3 and B : C = 4 : 5, then A : B : C = 8 : 12 : 15.\n(ii) The compound ratio of 2 : 3 and 4 : 5 is 8 : 15.\n(iii) The sub-duplicate ratio of 9 : 16 is 4 : 3.\n(iv) The duplicate ratio of 3 : 4 is 9 : 16.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i): A:B = 2:3, B:C = 4:5. Make B common: A:B = 8:12, B:C = 12:15. So A:B:C = 8:12:15. Correct. (ii): Compound ratio = (2×4):(3×5) = 8:15. Correct. (iii): Duplicate ratio = 3²:4² = 9:16. Correct. (iv): Sub-duplicate ratio of 9:16 = √9:√16 = 3:4, not 4:3. Wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i): A:B = 2:3, B:C = 4:5. Make B common: A:B = 8:12, B:C = 12:15. So A:B:C = 8:12:15. Correct. (ii): Compound ratio = (2×4):(3×5) = 8:15. Correct. (iv): Duplicate ratio = 3²:4² = 9:16. Correct. (iii): Sub-duplicate ratio of 9:16 = √9:√16 = 3:4, not 4:3. Wrong."
     },
     {
       "id": "17",
       "subject": "D",
       "questionText": "A sum of ₹1,400 is divided among P, Q, and R such that P gets twice as much as Q and Q gets twice as much as R. What is R's share?",
       "options": [
-        "₹200",
         "₹400",
         "₹800",
+        "₹200",
         "₹300"
       ],
       "correctAnswer": "₹200",
@@ -242,9 +242,9 @@
       "subject": "D",
       "questionText": "The ratio of the length to the breadth of a rectangle is 7 : 4. If the perimeter is 44 cm, what is the length?",
       "options": [
-        "14 cm",
         "8 cm",
         "22 cm",
+        "14 cm",
         "11 cm"
       ],
       "correctAnswer": "14 cm",
@@ -253,25 +253,25 @@
     {
       "id": "20",
       "subject": "D",
-      "questionText": "Which of the following ratios are equivalent to 3 : 5?\n\n(i) 6 : 10\n(ii) 9 : 15\n(iii) 12 : 18\n(iv) 15 : 25\n\nSelect the correct combination:",
+      "questionText": "Which of the following ratios are equivalent to 3 : 5?\n\n(i) 6 : 10\n(ii) 9 : 15\n(iii) 15 : 25\n(iv) 12 : 18\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) 6:10 = 3:5 (÷2). Correct. (ii) 9:15 = 3:5 (÷3). Correct. (iv) 15:25 = 3:5 (÷5). Correct. (iii) 12:18 = 2:3 (÷6). Wrong — this simplifies to 2:3, not 3:5."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) 6:10 = 3:5 (÷2). Correct. (ii) 9:15 = 3:5 (÷3). Correct. (iii) 15:25 = 3:5 (÷5). Correct. (iv) 12:18 = 2:3 (÷6). Wrong — this simplifies to 2:3, not 3:5."
     },
     {
       "id": "21",
       "subject": "D",
       "questionText": "If A : B = 4 : 5 and B : C = 6 : 7, what is A : C?",
       "options": [
-        "24 : 35",
         "4 : 7",
         "10 : 12",
-        "20 : 35"
+        "20 : 35",
+        "24 : 35"
       ],
       "correctAnswer": "24 : 35",
       "explanation": "A:B = 4:5 and B:C = 6:7. A:C = (A/B) × (B/C) = (4/5) × (6/7) = 24/35 = 24:35. '4:7' is wrong — that ignores the intermediate ratio. '10:12' is wrong — that simplifies to 5:6. '20:35' is wrong — that simplifies to 4:7."
@@ -279,23 +279,23 @@
     {
       "id": "22",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) The inverse ratio of 5 : 7 is 7 : 5.\n(ii) If a : b = 3 : 4, then (a + b) : b = 7 : 4.\n(iii) If x : y = 2 : 5, then (x − y) : y = −3 : 5.\n(iv) The ratio of two quantities can be negative.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) The ratio of two quantities can be negative.\n(ii) The inverse ratio of 5 : 7 is 7 : 5.\n(iii) If a : b = 3 : 4, then (a + b) : b = 7 : 4.\n(iv) If x : y = 2 : 5, then (x − y) : y = −3 : 5.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — inverse ratio reverses the terms. (ii) is correct — a:b = 3:4, so (a+b):b = (3+4):4 = 7:4. (iii) is correct — x:y = 2:5, so (x−y):y = (2−5):5 = −3:5. (iv) is wrong — ratios compare positive quantities; a ratio itself represents a comparison of magnitudes and is conventionally positive."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — inverse ratio reverses the terms. (iii) is correct — a:b = 3:4, so (a+b):b = (3+4):4 = 7:4. (iv) is correct — x:y = 2:5, so (x−y):y = (2−5):5 = −3:5. (i) is wrong — ratios compare positive quantities; a ratio itself represents a comparison of magnitudes and is conventionally positive."
     },
     {
       "id": "23",
       "subject": "D",
       "questionText": "Three partners A, B, and C invest in a business in the ratio 2 : 3 : 5. If the total profit is ₹5,000, what is C's share of the profit?",
       "options": [
-        "₹2,500",
         "₹1,500",
+        "₹2,500",
         "₹1,000",
         "₹2,000"
       ],
@@ -307,8 +307,8 @@
       "subject": "D",
       "questionText": "Fill in the blank: The third proportional to 4 and 12 is __________.",
       "options": [
-        "36",
         "48",
+        "36",
         "16",
         "24"
       ],
@@ -320,13 +320,13 @@
       "subject": "D",
       "questionText": "Match the following proportion types with their definitions:\n\nColumn I:\n(a) Mean proportional of a and b\n(b) Third proportional to a and b\n(c) Fourth proportional to a, b, and c\n(d) Continued proportion a, b, c\n\nColumn II:\n(i) a : b = b : c (i.e., b² = ac)\n(ii) √(a × b)\n(iii) x such that a : b = c : x\n(iv) x such that a : b = b : x\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-      "explanation": "Mean proportional of a and b = √(ab) (ii). Third proportional to a and b: a:b = b:x (iv). Fourth proportional to a,b,c: a:b = c:x (iii). Continued proportion: a:b = b:c meaning b²=ac (i). The second option wrongly assigns definition of third proportional to mean proportional. The third option wrongly assigns fourth proportional's definition to third proportional. The fourth option wrongly assigns continued proportion definition to mean proportional."
+      "explanation": "Mean proportional of a and b = √(ab) (ii). Third proportional to a and b: a:b = b:x (iv). Fourth proportional to a,b,c: a:b = c:x (iii). Continued proportion: a:b = b:c meaning b²=ac (i). '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' wrongly assigns definition of third proportional to mean proportional. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' wrongly assigns fourth proportional's definition to third proportional. '(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)' wrongly assigns continued proportion definition to mean proportional."
     },
     {
       "id": "26",
@@ -346,9 +346,9 @@
       "subject": "D",
       "questionText": "A bag contains ₹1, ₹2, and ₹5 coins in the ratio 3 : 4 : 2. If the total value of coins is ₹210, how many ₹5 coins are there?",
       "options": [
-        "20",
         "30",
         "40",
+        "20",
         "10"
       ],
       "correctAnswer": "20",
@@ -359,9 +359,9 @@
       "subject": "D",
       "questionText": "If 2A = 3B = 4C, then A : B : C is:",
       "options": [
-        "6 : 4 : 3",
         "2 : 3 : 4",
         "4 : 3 : 2",
+        "6 : 4 : 3",
         "3 : 2 : 4"
       ],
       "correctAnswer": "6 : 4 : 3",
@@ -385,10 +385,10 @@
       "subject": "D",
       "questionText": "The incomes of two persons are in the ratio 9 : 7 and their expenditures are in the ratio 4 : 3. If each saves ₹2,000, what is the income of the first person?",
       "options": [
-        "₹18,000",
         "₹14,000",
         "₹9,000",
-        "₹12,000"
+        "₹12,000",
+        "₹18,000"
       ],
       "correctAnswer": "₹18,000",
       "explanation": "Let incomes = 9x and 7x. Expenditures = 4y and 3y. Savings: 9x − 4y = 2000 and 7x − 3y = 2000. From these: 9x − 4y = 7x − 3y → 2x = y. Substituting: 9x − 4(2x) = 2000 → 9x − 8x = 2000 → x = 2000. First person's income = 9 × 2000 = ₹18,000. '₹14,000' is wrong — that is the second person's income (7×2000). '₹9,000' is wrong — that uses x directly as income. '₹12,000' is wrong — no calculation yields this."
@@ -398,13 +398,13 @@
       "subject": "D",
       "questionText": "Match the following ratios with their types:\n\nColumn I:\n(a) (3)² : (4)² = 9 : 16\n(b) √3 : √4 = √3 : 2\n(c) 1/3 : 1/4 = 4 : 3\n(d) (2 × 4) : (3 × 5) = 8 : 15\n\nColumn II:\n(i) Reciprocal/Inverse ratio\n(ii) Duplicate ratio\n(iii) Compound ratio\n(iv) Sub-duplicate ratio\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-      "explanation": "Squaring both terms gives duplicate ratio (a→ii). Square rooting gives sub-duplicate ratio (b→iv). Reciprocal of ratio terms gives inverse ratio (c→i). Multiplying corresponding terms of two ratios gives compound ratio (d→iii). The second option wrongly assigns sub-duplicate to duplicate. The third option wrongly assigns compound to sub-duplicate. The fourth option wrongly assigns compound to duplicate."
+      "explanation": "Squaring both terms gives duplicate ratio (a→ii). Square rooting gives sub-duplicate ratio (b→iv). Reciprocal of ratio terms gives inverse ratio (c→i). Multiplying corresponding terms of two ratios gives compound ratio (d→iii). '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' wrongly assigns sub-duplicate to duplicate. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' wrongly assigns compound to sub-duplicate. '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' wrongly assigns compound to duplicate."
     },
     {
       "id": "32",
@@ -424,8 +424,8 @@
       "subject": "D",
       "questionText": "If x : y = 3 : 4, then (4x + 5y) : (5x + 2y) is:",
       "options": [
-        "32 : 23",
         "17 : 23",
+        "32 : 23",
         "32 : 17",
         "23 : 32"
       ],
@@ -435,23 +435,23 @@
     {
       "id": "34",
       "subject": "D",
-      "questionText": "Which of the following are properties of proportion (if a:b = c:d)?\n\n(i) Product of extremes = Product of means (ad = bc)\n(ii) Alternendo: a:c = b:d\n(iii) Componendo: (a+b):b = (c+d):d\n(iv) Invertendo: b:a = c:d\n\nSelect the correct combination:",
+      "questionText": "Which of the following are properties of proportion (if a:b = c:d)?\n\n(i) Product of extremes = Product of means (ad = bc)\n(ii) Alternendo: a:c = b:d\n(iii) Invertendo: b:a = c:d\n(iv) Componendo: (a+b):b = (c+d):d\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — ad = bc is the fundamental property of proportion. (ii) is correct — alternendo gives a:c = b:d. (iii) is correct — componendo gives (a+b):b = (c+d):d. (iv) is wrong — invertendo gives b:a = d:c (not c:d). The inversion must apply to both ratios."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — ad = bc is the fundamental property of proportion. (ii) is correct — alternendo gives a:c = b:d. (iv) is correct — componendo gives (a+b):b = (c+d):d. (iii) is wrong — invertendo gives b:a = d:c (not c:d). The inversion must apply to both ratios."
     },
     {
       "id": "35",
       "subject": "D",
       "questionText": "The following data shows the investment and profit of three partners:\n\nA → 10,000, 12\nB → 15,000, 8\nC → 20,000, 6\n\nWhat is the ratio of their profits?",
       "options": [
-        "10 : 10 : 10 (i.e., 1 : 1 : 1)",
         "2 : 3 : 4",
+        "10 : 10 : 10 (i.e., 1 : 1 : 1)",
         "10 : 15 : 20",
         "6 : 8 : 12"
       ],
@@ -463,9 +463,9 @@
       "subject": "D",
       "questionText": "Consider the following statements:\n\n(i) If a : b = 2 : 3, then a² : b² = 4 : 9.\n(ii) If a : b = 2 : 3, then √a : √b = √2 : √3.\n(iii) If a : b = 2 : 3, then 3a : 3b = 2 : 3.\n(iv) If a : b = 2 : 3, then (a + 1) : (b + 1) = 3 : 4.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -476,9 +476,9 @@
       "subject": "D",
       "questionText": "The following table shows monthly incomes and expenditures of two families:\n\nX → 30,000, 24,000\nY → 25,000, 20,000\n\nWhat is the ratio of their savings?",
       "options": [
-        "6 : 5",
         "6 : 4",
         "3 : 2",
+        "6 : 5",
         "5 : 4"
       ],
       "correctAnswer": "6 : 5",
@@ -489,10 +489,10 @@
       "subject": "D",
       "questionText": "Two numbers are in the ratio 5 : 9. If 5 is added to each number, the ratio becomes 5 : 7. What are the original numbers?",
       "options": [
-        "5 and 9",
         "10 and 18",
         "15 and 27",
-        "25 and 45"
+        "25 and 45",
+        "5 and 9"
       ],
       "correctAnswer": "5 and 9",
       "explanation": "Let numbers be 5x and 9x. After adding 5: (5x+5)/(9x+5) = 5/7. Cross multiply: 35x+35 = 45x+25. 10 = 10x. x = 1. Numbers = 5 and 9. Check: (5+5)/(9+5) = 10/14 = 5/7. Correct. '10 and 18' is wrong — (10+5)/(18+5) = 15/23 ≠ 5/7. '15 and 27' is wrong — (15+5)/(27+5) = 20/32 = 5/8 ≠ 5/7. '25 and 45' is wrong — (25+5)/(45+5) = 30/50 = 3/5 ≠ 5/7."
@@ -504,8 +504,8 @@
       "options": [
         "2 : 3 : 5 : 3.5 (i.e., 4 : 6 : 10 : 7)",
         "2 : 3 : 5 : 7",
-        "4 : 6 : 10 : 7",
-        "2 : 6 : 10 : 7"
+        "2 : 6 : 10 : 7",
+        "4 : 6 : 10 : 7"
       ],
       "correctAnswer": "4 : 6 : 10 : 7",
       "explanation": "From A:B:C = 2:3:5 and B:C:D = 6:10:7. Note B:C in first = 3:5, in second = 6:10 = 3:5. They match! So we can directly combine. Multiply first ratio by 2: A:B:C = 4:6:10. Then A:B:C:D = 4:6:10:7. '2:3:5:7' is wrong — D cannot simply be appended as 7. '2:3:5:3.5' has the same meaning as 4:6:10:7 but is expressed with decimals. '2:6:10:7' is wrong — it drops A's proper proportion."
@@ -515,10 +515,10 @@
       "subject": "D",
       "questionText": "The speed of a bus and a car are in the ratio 3 : 4. If the bus takes 40 minutes to cover a distance, how much time will the car take?",
       "options": [
-        "30 minutes",
         "50 minutes",
         "35 minutes",
-        "45 minutes"
+        "45 minutes",
+        "30 minutes"
       ],
       "correctAnswer": "30 minutes",
       "explanation": "Speed ratio = 3:4. Time is inversely proportional to speed (for same distance). Time ratio = 4:3. Bus time : Car time = 4:3. If bus takes 40 min: 4 parts = 40, so 1 part = 10. Car time = 3 × 10 = 30 minutes. '50 minutes' is wrong — that would mean the car is slower. '35 minutes' is wrong — no calculation with ratio 4:3 and 40 gives 35. '45 minutes' is wrong — same reason."

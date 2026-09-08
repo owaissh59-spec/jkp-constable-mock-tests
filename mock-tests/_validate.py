@@ -107,6 +107,10 @@ def main():
         expl_lower = q.get("explanation", "").lower()
         if "let me recalculate" in expl_lower or "the answer should be" in expl_lower:
             errs.append(f"q{q['id']}: explanation contains self-contradiction (unresolved error)")
+        # Positional references to options leak the key and break under reordering
+        # (steering Section 4A rule 12) — name the option's text instead.
+        if re.search(r"\bthe (first|second|third|fourth|last) option\b", q.get("explanation", ""), re.I):
+            errs.append(f"q{q['id']}: explanation names an option by position — quote its text instead")
 
     print("  types:", dict(types))
     print("  sections:", dict(sorted(subj.items())))

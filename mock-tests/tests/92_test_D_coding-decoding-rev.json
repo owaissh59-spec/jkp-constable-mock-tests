@@ -34,8 +34,8 @@
       "subject": "D",
       "questionText": "In a certain code, the letters of a word are coded using their alphabetical position values (A=1, B=2...Z=26) and the code is the sum of all position values. If CAT = 24, what is the code for PEN?",
       "options": [
-        "35",
         "33",
+        "35",
         "37",
         "31"
       ],
@@ -47,8 +47,8 @@
       "subject": "D",
       "questionText": "Consider the following statements about coding patterns:\n\n(i) If APPLE is coded as BQQMF, the shift rule is +1.\n(ii) If GRAPE is coded as ITCRG, the shift rule is +2.\n(iii) If MANGO is coded as PDQJR, the shift rule is +2.\n(iv) If PEACH is coded as TIEGL, the shift rule is +3.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i) and (ii) only",
         "(i), (ii) and (iii)",
+        "(i) and (ii) only",
         "(iii) and (iv) only",
         "(i), (ii), (iii) and (iv)"
       ],
@@ -60,8 +60,8 @@
       "subject": "D",
       "questionText": "If DELHI is coded as 73541 and CALCUTTA is coded as 82589662, how will DIAL be coded?",
       "options": [
-        "7125",
         "7152",
+        "7125",
         "7135",
         "7215"
       ],
@@ -79,16 +79,16 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Verify MANGO+2: M+2=O, A+2=C, N+2=P, G+2=I, O+2=Q = OCPIQ ✓. FRUIT+2: F(6)+2=H(8), R(18)+2=T(20), U(21)+2=W(23), I(9)+2=K(11), T(20)+2=V(22) = HTWKV ✓. So A is correct. R correctly defines the +2 shift rule, which is exactly the mechanism used to derive HTWKV from FRUIT. Option 2 is wrong because R directly explains A. Option 3 is wrong because R is factually correct. Option 4 is wrong because A is also correct."
+      "explanation": "Verify MANGO+2: M+2=O, A+2=C, N+2=P, G+2=I, O+2=Q = OCPIQ ✓. FRUIT+2: F(6)+2=H(8), R(18)+2=T(20), U(21)+2=W(23), I(9)+2=K(11), T(20)+2=V(22) = HTWKV ✓. So A is correct. R correctly defines the +2 shift rule, which is exactly the mechanism used to derive HTWKV from FRUIT. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains A. '(A) is correct but (R) is not correct' is wrong because R is factually correct. '(A) is not correct but (R) is correct' is wrong because A is also correct."
     },
     {
       "id": "7",
       "subject": "D",
       "questionText": "In a code language, each vowel is replaced by a symbol (A=#, E=$, I=%, O=@, U=&) and consonants remain unchanged. How will POLICE be coded?",
       "options": [
-        "P@L%C$",
         "P@L%C#",
         "P#L%C$",
+        "P@L%C$",
         "P@M%C$"
       ],
       "correctAnswer": "P@L%C$",
@@ -99,9 +99,9 @@
       "subject": "D",
       "questionText": "In a code language, words are coded by reversing the word and then shifting each letter by +1. What is the code for STOP?",
       "options": [
-        "QPUT",
         "QPTU",
         "RPVT",
+        "QPUT",
         "QPVT"
       ],
       "correctAnswer": "QPUT",
@@ -112,10 +112,10 @@
       "subject": "D",
       "questionText": "If VICTORY is coded as YLFWRUB (each letter +3), what will WINNER be coded as?",
       "options": [
-        "ZLQQHU",
         "ZLQQHR",
         "ZLQQIU",
-        "YMQQHU"
+        "YMQQHU",
+        "ZLQQHU"
       ],
       "correctAnswer": "ZLQQHU",
       "explanation": "Verify VICTORY+3: V+3=Y, I+3=L, C+3=F, T+3=W, O+3=R, R+3=U, Y+3=B = YLFWRUB ✓. WINNER+3: W(23)+3=Z(26), I(9)+3=L(12), N(14)+3=Q(17), N(14)+3=Q(17), E(5)+3=H(8), R(18)+3=U(21) = ZLQQHU. ZLQQHR is wrong because R+3=U not R. ZLQQIU is wrong because E+3=H not I. YMQQHU is wrong because W+3=Z not Y, and I+3=L not M."
@@ -125,23 +125,23 @@
       "subject": "D",
       "questionText": "Match the following words with their codes using alphabetical position values (A=1, B=2...Z=26) where code = sum of positions:\n\nColumn I:\n(a) BED (sum of positions)\n(b) CAR (sum of positions)\n(c) HAG (sum of positions)\n(d) HEN (sum of positions)\n\nColumn II:\n(i) 22\n(ii) 11\n(iii) 27\n(iv) 16\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "(a) BED: B(2)+E(5)+D(4)=11 → matches (ii). (b) CAR: C(3)+A(1)+R(18)=22 → matches (i). (c) HAG: H(8)+A(1)+G(7)=16 → matches (iv). (d) HEN: H(8)+E(5)+N(14)=27 → matches (iii). Option 2 swaps (a) and (c). Option 3 swaps (b) and (d). Option 4 swaps (c) and (d)."
+      "explanation": "(a) BED: B(2)+E(5)+D(4)=11 → matches (ii). (b) CAR: C(3)+A(1)+R(18)=22 → matches (i). (c) HAG: H(8)+A(1)+G(7)=16 → matches (iv). (d) HEN: H(8)+E(5)+N(14)=27 → matches (iii). '(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)' swaps (a) and (c). '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' swaps (b) and (d). '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)' swaps (c) and (d)."
     },
     {
       "id": "11",
       "subject": "D",
       "questionText": "In a certain code language, PHONE is written as SKRQH (each letter +3). How will WATER be written?",
       "options": [
-        "ZDWHU",
         "ZDWHV",
         "ZDWGU",
-        "ZEWHU"
+        "ZEWHU",
+        "ZDWHU"
       ],
       "correctAnswer": "ZDWHU",
       "explanation": "Verify PHONE+3: P+3=S, H+3=K, O+3=R, N+3=Q, E+3=H = SKRQH ✓. WATER+3: W(23)+3=Z(26), A(1)+3=D(4), T(20)+3=W(23), E(5)+3=H(8), R(18)+3=U(21) = ZDWHU. ZDWHV is wrong because R+3=U not V. ZDWGU is wrong because E+3=H not G. ZEWHU is wrong because A+3=D not E."
@@ -175,50 +175,50 @@
     {
       "id": "14",
       "subject": "D",
-      "questionText": "Consider the following statements about number-letter substitution codes where each letter is assigned a value = position × 2 (A=2, B=4, C=6...Z=52):\n\n(i) The code value of CAT = 6 + 2 + 40 = 48.\n(ii) The code value of DOG = 8 + 30 + 14 = 52.\n(iii) The code value of PIG = 32 + 18 + 12 = 62.\n(iv) The code value of HEN = 16 + 10 + 28 = 54.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about number-letter substitution codes where each letter is assigned a value = position × 2 (A=2, B=4, C=6...Z=52):\n\n(i) The code value of CAT = 6 + 2 + 40 = 48.\n(ii) The code value of PIG = 32 + 18 + 12 = 62.\n(iii) The code value of DOG = 8 + 30 + 14 = 52.\n(iv) The code value of HEN = 16 + 10 + 28 = 54.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i) and (ii) only",
-        "(i), (ii) and (iv)",
+        "(i) and (iii) only",
+        "(i), (iii) and (iv)",
         "(i) and (iv) only",
         "(ii) and (iii) only"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) CAT: C(3)×2=6, A(1)×2=2, T(20)×2=40. Sum=6+2+40=48 ✓. (ii) DOG: D(4)×2=8, O(15)×2=30, G(7)×2=14. Sum=8+30+14=52 ✓. (iii) PIG: P(16)×2=32, I(9)×2=18, G(7)×2=14. Sum=32+18+14=64, not 62 as stated ✗. (iv) HEN: H(8)×2=16, E(5)×2=10, N(14)×2=28. Sum=16+10+28=54 ✓. So (i), (ii) and (iv) are correct."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) CAT: C(3)×2=6, A(1)×2=2, T(20)×2=40. Sum=6+2+40=48 ✓. (iii) DOG: D(4)×2=8, O(15)×2=30, G(7)×2=14. Sum=8+30+14=52 ✓. (ii) PIG: P(16)×2=32, I(9)×2=18, G(7)×2=14. Sum=32+18+14=64, not 62 as stated ✗. (iv) HEN: H(8)×2=16, E(5)×2=10, N(14)×2=28. Sum=16+10+28=54 ✓. So (i), (iii) and (iv) are correct."
     },
     {
       "id": "15",
       "subject": "D",
       "questionText": "In a code language, each letter is replaced by the letter in the mirror position of the alphabet (A↔Z, B↔Y, C↔X, D↔W... M↔N). How will COLD be coded?",
       "options": [
-        "XLOW",
         "XLRW",
         "XLOW",
+        "XOLW",
         "YKOW"
       ],
       "correctAnswer": "XLOW",
-      "explanation": "Mirror cipher (position n → position 27−n): C(3)→27−3=24=X, O(15)→27−15=12=L, L(12)→27−12=15=O, D(4)→27−4=23=W = XLOW. XLRW is wrong because L→O not R (L is at position 12, mirror is 15=O). YKOW is wrong because C→X not Y (C is at position 3, mirror is 24=X)."
+      "explanation": "The mirror cipher maps position n to position 27 − n. For COLD: C is 3, so 27 − 3 = 24 = X; O is 15, so 27 − 15 = 12 = L; L is 12, so 27 − 12 = 15 = O; D is 4, so 27 − 4 = 23 = W. The code is therefore XLOW. 'XLRW' is wrong because it maps L to R instead of O. 'XOLW' is wrong because it transposes the middle two letters, which is what you get by mirroring the letters of CLOD rather than COLD. 'YKOW' is wrong because it maps C to Y and O to K, shifting the mirror by one position throughout."
     },
     {
       "id": "16",
       "subject": "D",
       "questionText": "Which of the following are correct applications of the rule 'multiply alphabetical position by 2 then subtract 1' (A→1, B→3, C→5, D→7...)?\n\n(i) The code for A is 1.\n(ii) The code for D is 7.\n(iii) The code for F is 12.\n(iv) The code for H is 15.\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i) and (ii) only",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Rule: position×2−1. (i) A(1): 1×2−1=1 ✓. (ii) D(4): 4×2−1=7 ✓. (iii) F(6): 6×2−1=11 ≠ 12, so (iii) is wrong. (iv) H(8): 8×2−1=15 ✓. Option 2 is wrong because (iii) gives 11 not 12. Option 3 is wrong because (iv) is also correct. Option 4 is wrong because (iii) is incorrect."
+      "explanation": "Rule: position×2−1. (i) A(1): 1×2−1=1 ✓. (ii) D(4): 4×2−1=7 ✓. (iii) F(6): 6×2−1=11 ≠ 12, so (iii) is wrong. (iv) H(8): 8×2−1=15 ✓. '(i), (ii) and (iii)' is wrong because (iii) gives 11 not 12. '(i) and (ii) only' is wrong because (iv) is also correct. '(ii), (iii) and (iv)' is wrong because (iii) is incorrect."
     },
     {
       "id": "17",
       "subject": "D",
       "questionText": "In a code language, SPARK is coded as TQBSL (each letter +1). What is the original word if the code is OJHIU?",
       "options": [
-        "NIGHT",
         "MIGHT",
         "NIFHT",
+        "NIGHT",
         "NIGHU"
       ],
       "correctAnswer": "NIGHT",
@@ -235,16 +235,16 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Verify BOOK+3: B+3=E, O+3=R, O+3=R, K+3=N = ERRN ✓. LOOK+3: L(12)+3=O(15), O+3=R, O+3=R, K+3=N = ORRN ✓. So A is correct. R states that words with same ending letters produce same coded endings in uniform shift — this is true and explains why BOOK→ERRN and LOOK→ORRN share 'RRN'. Option 2 is wrong because R directly explains A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "Verify BOOK+3: B+3=E, O+3=R, O+3=R, K+3=N = ERRN ✓. LOOK+3: L(12)+3=O(15), O+3=R, O+3=R, K+3=N = ORRN ✓. So A is correct. R states that words with same ending letters produce same coded endings in uniform shift — this is true and explains why BOOK→ERRN and LOOK→ORRN share 'RRN'. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains A. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "19",
       "subject": "D",
       "questionText": "In a code language where each letter's position is reversed (A=26, B=25, C=24...Z=1), what is the code for DESK?",
       "options": [
-        "23-22-8-16",
         "23-22-8-15",
         "23-21-8-16",
+        "23-22-8-16",
         "24-22-8-16"
       ],
       "correctAnswer": "23-22-8-16",
@@ -255,10 +255,10 @@
       "subject": "D",
       "questionText": "If TRAIN is coded as USBJO (each letter +1), what will PLANE be coded as?",
       "options": [
-        "QMBOF",
         "QMBNF",
         "QMCOF",
-        "RMBOF"
+        "RMBOF",
+        "QMBOF"
       ],
       "correctAnswer": "QMBOF",
       "explanation": "Verify TRAIN+1: T+1=U, R+1=S, A+1=B, I+1=J, N+1=O = USBJO ✓. PLANE+1: P(16)+1=Q(17), L(12)+1=M(13), A(1)+1=B(2), N(14)+1=O(15), E(5)+1=F(6) = QMBOF. QMBNF is wrong because N+1=O not N. QMCOF is wrong because A+1=B not C. RMBOF is wrong because P+1=Q not R."
@@ -268,10 +268,10 @@
       "subject": "D",
       "questionText": "In a certain code language, TIGER is coded as WLJHU (each letter +3). How will SNAKE be coded?",
       "options": [
-        "VQDNH",
         "VQDMH",
         "VQENH",
-        "WQDNH"
+        "WQDNH",
+        "VQDNH"
       ],
       "correctAnswer": "VQDNH",
       "explanation": "Verify TIGER+3: T(20)+3=W(23), I(9)+3=L(12), G(7)+3=J(10), E(5)+3=H(8), R(18)+3=U(21) = WLJHU ✓. SNAKE+3: S(19)+3=V(22), N(14)+3=Q(17), A(1)+3=D(4), K(11)+3=N(14), E(5)+3=H(8) = VQDNH. VQDMH is wrong because K+3=N not M. VQENH is wrong because A+3=D not E. WQDNH is wrong because S+3=V not W."
@@ -279,7 +279,7 @@
     {
       "id": "22",
       "subject": "D",
-      "questionText": "Match the following words with their mirror-alphabet codes (A↔Z, B↔Y, C↔X...M↔N):\n\nColumn I:\n(a) BAD\n(b) FIG\n(c) MAP\n(d) SUN\n\nColumn II:\n(i) NZK\n(ii) YZW\n(iii) UFT\n(iv) HFM\n\nChoose the correct match:",
+      "questionText": "Match the following words with their mirror-alphabet codes (A↔Z, B↔Y, C↔X...M↔N):\n\nColumn I:\n(a) BAD\n(b) FIG\n(c) MAP\n(d) SUN\n\nColumn II:\n(i) NZK\n(ii) YZW\n(iii) URT\n(iv) HFM\n\nChoose the correct match:",
       "options": [
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
@@ -287,7 +287,7 @@
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
-      "explanation": "Mirror: letter at pos n → pos 27−n. (a) BAD: B(2)→Y(25), A(1)→Z(26), D(4)→W(23) = YZW → matches (ii). (b) FIG: F(6)→U(21), I(9)→R(18)? Wait: I(9)→27−9=18=R. F→U, I→R, G(7)→T(20) = URT. But (iii) says UFT. F→U(21)✓, I→27−9=R(18)≠F, G→27−7=T(20)✓. FIG mirror = URT not UFT. This has an error. Let me reconsider: maybe it's position 27−n. F=6→21=U, I=9→18=R, G=7→20=T. FIG→URT not UFT. I need to fix option (iii)."
+      "explanation": "In the mirror cipher a letter at position n maps to position 27 − n. BAD: B→Y, A→Z, D→W = YZW, so (a)-(ii). FIG: F→U, I→R, G→T = URT, so (b)-(iii). MAP: M→N, A→Z, P→K = NZK, so (c)-(i). SUN: S→H, U→F, N→M = HFM, so (d)-(iv). The other options variously send FIG to HFM or BAD to URT, and each misplaces at least two pairs."
     },
     {
       "id": "23",
@@ -307,8 +307,8 @@
       "subject": "D",
       "questionText": "In a code language, ORANGE is coded as PSBOHF (each letter +1). What will BANANA be coded as?",
       "options": [
-        "CBOBOB",
         "CBOBO",
+        "CBOBOB",
         "CBOBNA",
         "CBANOB"
       ],
@@ -318,24 +318,24 @@
     {
       "id": "25",
       "subject": "D",
-      "questionText": "Consider the following statements about symbol substitution in mathematical operations:\n\n(i) If + means ×, and × means +, then 3 + 4 × 5 = 17.\n(ii) If − means ÷, and ÷ means −, then 20 − 5 ÷ 3 = 2.\n(iii) If + means −, and − means +, then 15 + 8 − 3 = 10.\n(iv) If × means ÷, and ÷ means ×, then 12 × 4 ÷ 2 = 6.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about symbol substitution in mathematical operations:\n\n(i) If + means ×, and × means +, then 3 + 4 × 5 = 17.\n(ii) If + means −, and − means +, then 15 + 8 − 3 = 10.\n(iii) If × means ÷, and ÷ means ×, then 12 × 4 ÷ 2 = 6.\n(iv) If − means ÷, and ÷ means −, then 20 − 5 ÷ 3 = 2.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv) only",
-        "(i) and (ii) only",
-        "(i), (ii) and (iii)",
-        "(ii) and (iv) only"
+        "(i) and (iv) only",
+        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv)",
+        "(iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (iii) and (iv) only",
-      "explanation": "(i) Substituting (+→× and ×→+): 3 × 4 + 5 = 12 + 5 = 17 ✓. (ii) Substituting (−→÷ and ÷→−): 20 ÷ 5 − 3 = 4 − 3 = 1 ≠ 2, so (ii) is WRONG. (iii) Substituting (+→− and −→+): 15 − 8 + 3 = 7 + 3 = 10 ✓. (iv) Substituting (×→÷ and ÷→×): 12 ÷ 4 × 2 = 3 × 2 = 6 ✓. Only (i), (iii) and (iv) are correct."
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "(i) Substituting (+→× and ×→+): 3 × 4 + 5 = 12 + 5 = 17 ✓. (iv) Substituting (−→÷ and ÷→−): 20 ÷ 5 − 3 = 4 − 3 = 1 ≠ 2, so (iv) is WRONG. (ii) Substituting (+→− and −→+): 15 − 8 + 3 = 7 + 3 = 10 ✓. (iii) Substituting (×→÷ and ÷→×): 12 ÷ 4 × 2 = 3 × 2 = 6 ✓. Only (i), (ii) and (iii) are correct."
     },
     {
       "id": "26",
       "subject": "D",
       "questionText": "In a code language, SCHOOL is written as TDIPPM (each letter +1). How will BRIDGE be coded?",
       "options": [
-        "CSJEHF",
         "CSJDHF",
         "CSJEIF",
+        "CSJEHF",
         "DSJEHF"
       ],
       "correctAnswer": "CSJEHF",
@@ -346,9 +346,9 @@
       "subject": "D",
       "questionText": "If KING = 11-9-14-7 using position values (A=1, B=2...Z=26), what word is represented by 19-20-15-14-5?",
       "options": [
-        "STONE",
         "STOLE",
         "STORE",
+        "STONE",
         "STOVE"
       ],
       "correctAnswer": "STONE",
@@ -359,9 +359,9 @@
       "subject": "D",
       "questionText": "In a certain code, words are coded by the formula: (position of first letter) × (position of last letter). What is the code for LAMP?",
       "options": [
-        "192",
         "180",
         "208",
+        "192",
         "176"
       ],
       "correctAnswer": "192",
@@ -378,30 +378,30 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "ZERO+2: Z(26)+2=B(2, wrapping), E(5)+2=G(7), R(18)+2=T(20), O(15)+2=Q(17) = BGTQ ✓. So A is correct. R explains that Z wraps to B, which is exactly what happens in encoding ZERO. Option 2 is wrong because R does explain why the first letter Z becomes B, which is a key part of A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "ZERO+2: Z(26)+2=B(2, wrapping), E(5)+2=G(7), R(18)+2=T(20), O(15)+2=Q(17) = BGTQ ✓. So A is correct. R explains that Z wraps to B, which is exactly what happens in encoding ZERO. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R does explain why the first letter Z becomes B, which is a key part of A. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "30",
       "subject": "D",
       "questionText": "Match the following words with their +3 shift codes:\n\nColumn I:\n(a) COLD\n(b) FISH\n(c) DARK\n(d) HELP\n\nColumn II:\n(i) KHOS\n(ii) GDUN\n(iii) FROG\n(iv) ILVK\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-      "explanation": "(a) COLD+3: C+3=F, O+3=R, L+3=O, D+3=G = FROG → matches (iii). (b) FISH+3: F+3=I, I+3=L, S+3=V, H+3=K = ILVK → matches (iv). (c) DARK+3: D+3=G, A+3=D, R+3=U, K+3=N = GDUN → matches (ii). (d) HELP+3: H+3=K, E+3=H, L+3=O, P+3=S = KHOS → matches (i). Option 2 is wrong because it pairs FISH with KHOS. Option 3 is wrong because it pairs COLD with GDUN. Option 4 is wrong because it pairs DARK with KHOS."
+      "explanation": "(a) COLD+3: C+3=F, O+3=R, L+3=O, D+3=G = FROG → matches (iii). (b) FISH+3: F+3=I, I+3=L, S+3=V, H+3=K = ILVK → matches (iv). (c) DARK+3: D+3=G, A+3=D, R+3=U, K+3=N = GDUN → matches (ii). (d) HELP+3: H+3=K, E+3=H, L+3=O, P+3=S = KHOS → matches (i). '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' is wrong because it pairs FISH with KHOS. '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' is wrong because it pairs COLD with GDUN. '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' is wrong because it pairs DARK with KHOS."
     },
     {
       "id": "31",
       "subject": "D",
       "questionText": "In a certain code, LOTUS is written as MPUVT (each letter +1). What will RIVER be written as?",
       "options": [
-        "SJWFS",
         "SJWFR",
         "SJWES",
-        "SKWFS"
+        "SKWFS",
+        "SJWFS"
       ],
       "correctAnswer": "SJWFS",
       "explanation": "Verify LOTUS+1: L+1=M, O+1=P, T+1=U, U+1=V, S+1=T = MPUVT ✓. RIVER+1: R(18)+1=S(19), I(9)+1=J(10), V(22)+1=W(23), E(5)+1=F(6), R(18)+1=S(19) = SJWFS. SJWFR is wrong because R+1=S not R. SJWES is wrong because E+1=F not E. SKWFS is wrong because I+1=J not K."
@@ -409,23 +409,23 @@
     {
       "id": "32",
       "subject": "D",
-      "questionText": "Consider the following statements about position-based coding where code = position × 3:\n\n(i) SUM: S(19×3=57) + U(21×3=63) + M(13×3=39) = 159.\n(ii) ADD: A(1×3=3) + D(4×3=12) + D(4×3=12) = 27.\n(iii) NET: N(14×3=42) + E(5×3=15) + T(20×3=60) = 117.\n(iv) BOX: B(2×3=6) + O(15×3=45) + X(24×3=72) = 120.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about position-based coding where code = position × 3:\n\n(i) BOX: B(2×3=6) + O(15×3=45) + X(24×3=72) = 120.\n(ii) SUM: S(19×3=57) + U(21×3=63) + M(13×3=39) = 159.\n(iii) ADD: A(1×3=3) + D(4×3=12) + D(4×3=12) = 27.\n(iv) NET: N(14×3=42) + E(5×3=15) + T(20×3=60) = 117.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(i), (ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "(i) SUM: 57+63+39=159 ✓. (ii) ADD: 3+12+12=27 ✓. (iii) NET: 42+15+60=117 ✓. (iv) BOX: 6+45+72=123 ≠ 120, so (iv) is wrong. Option 2 is wrong because (iv) is incorrect (sum is 123 not 120). Option 3 is wrong because (iv) is incorrect. Option 4 is wrong because (iv) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "(ii) SUM: 57+63+39=159 ✓. (iii) ADD: 3+12+12=27 ✓. (iv) NET: 42+15+60=117 ✓. (i) BOX: 6+45+72=123 ≠ 120, so (i) is wrong. '(ii), (iii) and (i)' is wrong because (i) is incorrect (sum is 123 not 120). '(iii), (iv) and (i)' is wrong because (i) is incorrect. '(ii), (iii), (iv) and (i)' is wrong because (i) is incorrect."
     },
     {
       "id": "33",
       "subject": "D",
       "questionText": "In a code language, DEFEAT is coded as GHIHDW (each letter +3). What is the original word if the coded word is FRXUW?",
       "options": [
-        "COURT",
         "COURY",
+        "COURT",
         "DOURT",
         "COUST"
       ],
@@ -437,8 +437,8 @@
       "subject": "D",
       "questionText": "In a number-letter substitution code, each letter is assigned a value equal to its position (A=1...Z=26). If a word's code is the product of its first and last letter values, which word has the code 32?",
       "options": [
-        "HAND",
         "HINT",
+        "HAND",
         "HOST",
         "HAZE"
       ],
@@ -450,8 +450,8 @@
       "subject": "D",
       "questionText": "In a code where PENCIL is coded as RGPEKN (+2 shift), what word would produce the code OCMGT?",
       "options": [
-        "MAKER",
         "MAKES",
+        "MAKER",
         "MALER",
         "NAKER"
       ],
@@ -463,9 +463,9 @@
       "subject": "D",
       "questionText": "Which of the following codes match the word QUICK when each letter is coded by its alphabetical position?\n\n(i) 17-21-9-3-11\n(ii) 17-21-9-3-12\n(iii) 16-21-9-3-11\n(iv) 17-21-9-4-11\n\nSelect the correct combination:",
       "options": [
-        "(i) only",
         "(i) and (iii)",
         "(ii) only",
+        "(i) only",
         "(i) and (iv)"
       ],
       "correctAnswer": "(i) only",
@@ -476,9 +476,9 @@
       "subject": "D",
       "questionText": "In a certain code, if A=1, B=2...Z=26, and a word's code value is the sum of all its letter positions, which word has the value 41?",
       "options": [
-        "HELP",
         "FILM",
         "MILK",
+        "HELP",
         "GIRL"
       ],
       "correctAnswer": "HELP",
@@ -487,25 +487,25 @@
     {
       "id": "38",
       "subject": "D",
-      "questionText": "Match the following words with the sum of their letter position values (A=1, B=2...Z=26):\n\nColumn I:\n(a) CAR (sum)\n(b) BUS (sum)\n(c) VAN (sum)\n(d) CAB (sum)\n\nColumn II:\n(i) 6\n(ii) 40\n(iii) 22\n(iv) 36\n\nChoose the correct match:",
+      "questionText": "Match the following words with the sum of their letter position values (A=1, B=2...Z=26):\n\nColumn I:\n(a) CAR (sum)\n(b) BUS (sum)\n(c) VAN (sum)\n(d) CAB (sum)\n\nColumn II:\n(i) 6\n(ii) 42\n(iii) 22\n(iv) 37\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-      "explanation": "(a) CAR: C(3)+A(1)+R(18)=22 → matches (iii). (b) BUS: B(2)+U(21)+S(19)=42. Hmm that's 42 not 40! Let me recheck: B=2, U=21, S=19. 2+21=23, 23+19=42. But (ii) says 40. This doesn't match. Let me fix: actually 2+21+19=42. My option (ii)=40 is wrong. This question has an error."
+      "explanation": "Adding letter positions: CAR = 3 + 1 + 18 = 22, so (a)-(iii). BUS = 2 + 21 + 19 = 42, so (b)-(ii). VAN = 22 + 1 + 14 = 37, so (c)-(iv). CAB = 3 + 1 + 2 = 6, so (d)-(i). The other options swap the totals for BUS and VAN, or assign CAR's 22 to CAB, and each therefore misplaces at least two pairs. A quick check is that CAB must be the smallest total, since all three of its letters sit near the start of the alphabet."
     },
     {
       "id": "39",
       "subject": "D",
       "questionText": "In a code language, if BOAT is coded as ERDW (each letter +3), what would SHIP be coded as?",
       "options": [
-        "VKLS",
         "VKLT",
         "VLLS",
-        "UKLS"
+        "UKLS",
+        "VKLS"
       ],
       "correctAnswer": "VKLS",
       "explanation": "Verify BOAT+3: B(2)+3=E(5), O(15)+3=R(18), A(1)+3=D(4), T(20)+3=W(23) = ERDW ✓. SHIP+3: S(19)+3=V(22), H(8)+3=K(11), I(9)+3=L(12), P(16)+3=S(19) = VKLS. VKLT is wrong because P+3=S not T. VLLS is wrong because H+3=K not L. UKLS is wrong because S+3=V not U."
@@ -515,10 +515,10 @@
       "subject": "D",
       "questionText": "If each letter of the word is coded by the formula: position value × 2, what is the total code value of the word BED?",
       "options": [
-        "22",
         "20",
         "24",
-        "18"
+        "18",
+        "22"
       ],
       "correctAnswer": "22",
       "explanation": "B(2)×2=4, E(5)×2=10, D(4)×2=8. Total = 4+10+8 = 22. 20 is wrong because it uses E=4 instead of E=5 (getting 4+8+8=20). 24 is wrong because it uses E=6 instead of E=5. 18 is wrong because it uses single position values without doubling (2+5+4=11, not 18 either — likely a miscalculation)."

@@ -8,10 +8,10 @@
       "subject": "A",
       "questionText": "Choose the correct article: She is ______ European by birth.",
       "options": [
+        "a",
         "no article",
         "an",
-        "the",
-        "a"
+        "the"
       ],
       "correctAnswer": "a",
       "explanation": "'European' begins with a consonant sound /jʊə/ (like 'yur'), so 'a European' is correct. 'An' is used before vowel sounds, 'the' would make her identity specific, and dropping the article is ungrammatical, so 'a' is right."
@@ -34,10 +34,10 @@
       "subject": "A",
       "questionText": "Choose the correct preposition: She is worried ______ her son's health.",
       "options": [
+        "about",
         "for",
         "on",
-        "with",
-        "about"
+        "with"
       ],
       "correctAnswer": "about",
       "explanation": "The fixed collocation 'worried about' expresses concern for something, so 'worried about her son's health' is correct. 'For', 'on' and 'with' do not combine idiomatically with 'worried' in this sense, so they are wrong and 'about' is the right preposition."
@@ -47,10 +47,10 @@
       "subject": "A",
       "questionText": "Choose the correct verb form: He ______ his homework before his father returned.",
       "options": [
+        "had finished",
         "finished",
         "was finishing",
-        "has finished",
-        "had finished"
+        "has finished"
       ],
       "correctAnswer": "had finished",
       "explanation": "The past perfect 'had finished' shows an action completed before another past action, which the sentence requires. 'Finished' is simple past, 'was finishing' is past continuous, and 'has finished' is present perfect, none of which shows the correct sequence of two past events, so 'had finished' is right."
@@ -60,9 +60,9 @@
       "subject": "A",
       "questionText": "Choose the word opposite in meaning to 'REVEAL':",
       "options": [
+        "Conceal",
         "Disclose",
         "Uncover",
-        "Conceal",
         "Expose"
       ],
       "correctAnswer": "Conceal",
@@ -71,15 +71,15 @@
     {
       "id": "6",
       "subject": "A",
-      "questionText": "Consider the following statements about parts of speech:\n\n(i) 'Quickly' is an adverb.\n(ii) 'Beautiful' is an adjective.\n(iii) 'Run' can be both a noun and a verb.\n(iv) 'Above' is only a noun.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about parts of speech:\n\n(i) 'Quickly' is an adverb.\n(ii) 'Beautiful' is an adjective.\n(iii) 'Above' is only a noun.\n(iv) 'Run' can be both a noun and a verb.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'Quickly' is an adverb, 'beautiful' is an adjective, and 'run' can be a noun (a morning run) or a verb (to run), so (i), (ii) and (iii) are true. Statement (iv) is false because 'above' is chiefly a preposition or adverb, not only a noun, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Quickly' is an adverb, 'beautiful' is an adjective, and 'run' can be a noun (a morning run) or a verb (to run), so (i), (ii) and (iv) are true. Statement (iii) is false because 'above' is chiefly a preposition or adverb, not only a noun, so any option including (iii) is wrong."
     },
     {
       "id": "7",
@@ -87,8 +87,8 @@
       "questionText": "Choose the correctly spelled word:",
       "options": [
         "Occassion",
-        "Ocasion",
         "Occasion",
+        "Ocasion",
         "Occassionn"
       ],
       "correctAnswer": "Occasion",
@@ -100,8 +100,8 @@
       "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) Break the ice\n(b) Cost an arm and a leg\n(c) Under the weather\n(d) A drop in the ocean\n\nColumn II:\n(i) Feeling ill\n(ii) A very small amount\n(iii) Start a conversation\n(iv) Very expensive\n\nChoose the correct match:",
       "options": [
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
-        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
@@ -113,8 +113,8 @@
       "questionText": "Choose the correct pronoun: The teacher praised the student ______ answered the question correctly.",
       "options": [
         "which",
-        "whom",
         "who",
+        "whom",
         "whose"
       ],
       "correctAnswer": "who",
@@ -126,8 +126,8 @@
       "questionText": "Fill in the blank with the correct preposition: The book is dedicated ______ his mother.",
       "options": [
         "for",
-        "at",
         "to",
+        "at",
         "with"
       ],
       "correctAnswer": "to",
@@ -152,8 +152,8 @@
       "questionText": "Choose the word most similar in meaning to 'DILATE':",
       "options": [
         "Shrink",
-        "Contract",
         "Expand",
+        "Contract",
         "Reduce"
       ],
       "correctAnswer": "Expand",
@@ -164,9 +164,9 @@
       "subject": "A",
       "questionText": "Choose the correct passive form of: 'The workers are repairing the road.'",
       "options": [
-        "The road is being repaired by the workers.",
         "The road was repaired by the workers.",
         "The road is repaired by the workers.",
+        "The road is being repaired by the workers.",
         "The road has been repaired by the workers."
       ],
       "correctAnswer": "The road is being repaired by the workers.",
@@ -218,8 +218,8 @@
       "options": [
         "from",
         "with",
-        "by",
-        "of"
+        "of",
+        "by"
       ],
       "correctAnswer": "of",
       "explanation": "When the original material is clearly recognisable in the product, 'made of' is used, so 'made of silk' is correct. 'Made from' is used when the material undergoes a change (paper made from wood), 'by' shows the doer, and 'with' shows an instrument, so 'of' is right here."
@@ -227,15 +227,15 @@
     {
       "id": "18",
       "subject": "A",
-      "questionText": "Which of the following are correctly spelled words?\n\n(i) Grateful\n(ii) Embarass\n(iii) Miscellaneous\n(iv) Perseverance\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correctly spelled words?\n\n(i) Embarass\n(ii) Grateful\n(iii) Miscellaneous\n(iv) Perseverance\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "'Grateful', 'miscellaneous' and 'perseverance' are all spelled correctly, so (i), (iii) and (iv) are right. 'Embarass' is a misspelling; the correct spelling is 'embarrass' with two 'r's and two 's's, so any option including 'embarass' is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Grateful', 'miscellaneous' and 'perseverance' are all spelled correctly, so (ii), (iii) and (iv) are right. 'Embarass' is a misspelling; the correct spelling is 'embarrass' with two 'r's and two 's's, so any option including 'embarass' is wrong."
     },
     {
       "id": "19",
@@ -244,8 +244,8 @@
       "options": [
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
       "explanation": "A bibliophile is a lover of books, bilingual means speaking two languages, illiterate means unable to read or write, and a novice is a beginner, giving (a)-(iii), (b)-(i), (c)-(iv), (d)-(ii). The other options swap bilingual with novice or misplace illiterate, which are wrong."
@@ -268,10 +268,10 @@
       "subject": "A",
       "questionText": "Choose the correct verb form: If she ______ hard, she will pass the exam.",
       "options": [
-        "studies",
         "studied",
         "will study",
-        "has studied"
+        "has studied",
+        "studies"
       ],
       "correctAnswer": "studies",
       "explanation": "In the first conditional (real future condition), the 'if' clause takes the simple present, so 'If she studies hard' is correct. 'Studied' is past, 'will study' is not used in the if-clause, and 'has studied' is present perfect suggesting completion, so 'studies' is the right form."
@@ -283,8 +283,8 @@
       "options": [
         "A very brave person",
         "A friendly animal lover",
-        "A dangerous person pretending to be harmless",
-        "A tired traveller"
+        "A tired traveller",
+        "A dangerous person pretending to be harmless"
       ],
       "correctAnswer": "A dangerous person pretending to be harmless",
       "explanation": "'A wolf in sheep's clothing' means someone dangerous or hostile disguised as kind or harmless. The other options describe unrelated ideas — bravery, animal love or fatigue — so only 'a dangerous person pretending to be harmless' captures the figurative meaning of the idiom."
@@ -294,10 +294,10 @@
       "subject": "A",
       "questionText": "Choose the correct word: The teacher will ______ our answer sheets tomorrow.",
       "options": [
-        "check",
         "cheque",
         "chuck",
-        "chew"
+        "chew",
+        "check"
       ],
       "correctAnswer": "check",
       "explanation": "'Check' means to verify or examine, which fits inspecting answer sheets. 'Cheque' is a banking instrument, 'chuck' means to throw casually, and 'chew' means to grind with the teeth, so none of them fits inspecting an answer paper and 'check' is correct."
@@ -318,25 +318,25 @@
     {
       "id": "25",
       "subject": "A",
-      "questionText": "Consider the following statements about active and passive voice:\n\n(i) Only transitive verbs can be changed into the passive voice.\n(ii) The object of the active sentence becomes the subject in the passive.\n(iii) The doer, if mentioned, is introduced by 'by' in the passive.\n(iv) Intransitive verbs are always used in the passive voice.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about active and passive voice:\n\n(i) Only transitive verbs can be changed into the passive voice.\n(ii) Intransitive verbs are always used in the passive voice.\n(iii) The object of the active sentence becomes the subject in the passive.\n(iv) The doer, if mentioned, is introduced by 'by' in the passive.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Only transitive verbs form passives, the object becomes the subject, and the doer is introduced by 'by', so (i), (ii) and (iii) are true. Statement (iv) is false because intransitive verbs (no object) cannot be used in the passive voice, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Only transitive verbs form passives, the object becomes the subject, and the doer is introduced by 'by', so (i), (iii) and (iv) are true. Statement (ii) is false because intransitive verbs (no object) cannot be used in the passive voice, so any option including (ii) is wrong."
     },
     {
       "id": "26",
       "subject": "B",
       "questionText": "Who among the following is known as the 'Iron Man of India'?",
       "options": [
-        "Sardar Vallabhbhai Patel",
         "Jawaharlal Nehru",
         "Subhas Chandra Bose",
-        "Bhagat Singh"
+        "Bhagat Singh",
+        "Sardar Vallabhbhai Patel"
       ],
       "correctAnswer": "Sardar Vallabhbhai Patel",
       "explanation": "Sardar Patel earned the title 'Iron Man of India' for uniting more than 550 princely states into the Indian Union. Nehru, Bose and Bhagat Singh have their own honorifics but not this one, so only Patel is correctly known as the Iron Man of India."
@@ -357,15 +357,15 @@
     {
       "id": "28",
       "subject": "B",
-      "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Chief Justice of India heads the Supreme Court.\n(ii) High Courts are the highest courts at the state level.\n(iii) Judges of the Supreme Court are appointed by the President.\n(iv) The Supreme Court is subordinate to the High Courts.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Chief Justice of India heads the Supreme Court.\n(ii) High Courts are the highest courts at the state level.\n(iii) The Supreme Court is subordinate to the High Courts.\n(iv) Judges of the Supreme Court are appointed by the President.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Chief Justice heads the Supreme Court, High Courts are the top courts at state level, and Supreme Court judges are appointed by the President, so (i), (ii) and (iii) are true. Statement (iv) is false because the Supreme Court is above the High Courts, not below, so any option with (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Chief Justice heads the Supreme Court, High Courts are the top courts at state level, and Supreme Court judges are appointed by the President, so (i), (ii) and (iv) are true. Statement (iii) is false because the Supreme Court is above the High Courts, not below, so any option with (iii) is wrong."
     },
     {
       "id": "29",
@@ -396,24 +396,24 @@
     {
       "id": "31",
       "subject": "B",
-      "questionText": "Which of the following are among the Fundamental Rights guaranteed by the Indian Constitution?\n\n(i) Right to Equality\n(ii) Right to Freedom\n(iii) Right to Property\n(iv) Right to Freedom of Religion\n\nSelect the correct combination:",
+      "questionText": "Which of the following are among the Fundamental Rights guaranteed by the Indian Constitution?\n\n(i) Right to Equality\n(ii) Right to Freedom\n(iii) Right to Freedom of Religion\n(iv) Right to Property\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Right to Equality, Right to Freedom and Right to Freedom of Religion are all Fundamental Rights under the Constitution, so (i), (ii) and (iv) are correct. The Right to Property was removed as a Fundamental Right by the 44th Amendment (1978) and is now only a legal right, so any option including (iii) is wrong."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Right to Equality, Right to Freedom and Right to Freedom of Religion are all Fundamental Rights under the Constitution, so (i), (ii) and (iii) are correct. The Right to Property was removed as a Fundamental Right by the 44th Amendment (1978) and is now only a legal right, so any option including (iv) is wrong."
     },
     {
       "id": "32",
       "subject": "B",
       "questionText": "Match the following states with their principal languages:\n\nColumn I:\n(a) Kerala\n(b) Andhra Pradesh\n(c) West Bengal\n(d) Maharashtra\n\nColumn II:\n(i) Marathi\n(ii) Bengali\n(iii) Malayalam\n(iv) Telugu\n\nChoose the correct match:",
       "options": [
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
@@ -425,8 +425,8 @@
       "questionText": "The 'Jaduguda' mines in India are famous for the production of:",
       "options": [
         "Coal",
-        "Iron ore",
         "Uranium",
+        "Iron ore",
         "Copper"
       ],
       "correctAnswer": "Uranium",
@@ -451,9 +451,9 @@
       "questionText": "The 'Bhakra Nangal Dam' is built on which river?",
       "options": [
         "Yamuna",
+        "Sutlej",
         "Beas",
-        "Ravi",
-        "Sutlej"
+        "Ravi"
       ],
       "correctAnswer": "Sutlej",
       "explanation": "The Bhakra Nangal Dam, one of the largest in India, is built across the Sutlej river on the Himachal Pradesh-Punjab border. The Yamuna, Ravi and Beas rivers have their own dams (like Tehri, Ranjit Sagar and Pong) but not Bhakra Nangal, so the Sutlej is correct."
@@ -464,9 +464,9 @@
       "questionText": "The Chola dynasty ruled predominantly over which part of India?",
       "options": [
         "Northern India",
+        "Southern India",
         "Eastern India",
-        "Western India",
-        "Southern India"
+        "Western India"
       ],
       "correctAnswer": "Southern India",
       "explanation": "The Chola dynasty was a major power in southern India, especially in present-day Tamil Nadu. Northern India was ruled by dynasties like the Guptas and Delhi Sultanate, western India by dynasties like the Chalukyas and Marathas, and eastern India by dynasties like the Palas, so only southern India matches the Cholas."
@@ -474,23 +474,23 @@
     {
       "id": "37",
       "subject": "B",
-      "questionText": "Consider the following statements about India's Five-Year Plans:\n\n(i) The First Five-Year Plan (1951–56) focused on agriculture.\n(ii) NITI Aayog replaced the Planning Commission in 2015.\n(iii) The Twelfth Five-Year Plan was the last one before Five-Year Plans were discontinued.\n(iv) Five-Year Plans continue in India even today.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about India's Five-Year Plans:\n\n(i) Five-Year Plans continue in India even today.\n(ii) The First Five-Year Plan (1951–56) focused on agriculture.\n(iii) NITI Aayog replaced the Planning Commission in 2015.\n(iv) The Twelfth Five-Year Plan was the last one before Five-Year Plans were discontinued.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The First Plan focused on agriculture, NITI Aayog replaced the Planning Commission in 2015, and the Twelfth (2012–17) was the last Five-Year Plan, so (i), (ii) and (iii) are true. Statement (iv) is false because Five-Year Plans were discontinued after 2017, so any option including (iv) is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The First Plan focused on agriculture, NITI Aayog replaced the Planning Commission in 2015, and the Twelfth (2012–17) was the last Five-Year Plan, so (ii), (iii) and (iv) are true. Statement (i) is false because Five-Year Plans were discontinued after 2017, so any option including (i) is wrong."
     },
     {
       "id": "38",
       "subject": "B",
       "questionText": "The 'Golden Temple' is located in the city of:",
       "options": [
-        "Amritsar",
         "Ludhiana",
+        "Amritsar",
         "Chandigarh",
         "Jalandhar"
       ],
@@ -500,15 +500,15 @@
     {
       "id": "39",
       "subject": "B",
-      "questionText": "Which of the following are neighbouring countries of India?\n\n(i) Nepal\n(ii) Bhutan\n(iii) Myanmar\n(iv) Uzbekistan\n\nSelect the correct combination:",
+      "questionText": "Which of the following are neighbouring countries of India?\n\n(i) Nepal\n(ii) Uzbekistan\n(iii) Bhutan\n(iv) Myanmar\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Nepal, Bhutan and Myanmar all share land borders with India, so (i), (ii) and (iii) are correct. Uzbekistan is a Central Asian country that does not border India, so any option including Uzbekistan is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Nepal, Bhutan and Myanmar all share land borders with India, so (i), (iii) and (iv) are correct. Uzbekistan is a Central Asian country that does not border India, so any option including Uzbekistan is wrong."
     },
     {
       "id": "40",
@@ -543,8 +543,8 @@
       "options": [
         "Nuclear submarine",
         "Frigate",
-        "Stealth destroyer",
-        "Indigenous aircraft carrier"
+        "Indigenous aircraft carrier",
+        "Stealth destroyer"
       ],
       "correctAnswer": "Indigenous aircraft carrier",
       "explanation": "INS Vikrant (2022) is India's first indigenously built aircraft carrier. India's nuclear submarines are the Arihant class, stealth destroyers include the Kolkata class, and frigates are a different smaller class, so INS Vikrant fits the 'first indigenous aircraft carrier' description, not the others."
@@ -569,8 +569,8 @@
       "options": [
         "Foreign policy",
         "Election supervision",
-        "Defence procurement",
-        "Anti-corruption in the government"
+        "Anti-corruption in the government",
+        "Defence procurement"
       ],
       "correctAnswer": "Anti-corruption in the government",
       "explanation": "The CVC is India's apex body for tackling corruption in central government organisations. Foreign policy is handled by the Ministry of External Affairs, defence procurement by the Ministry of Defence, and election supervision by the Election Commission, so 'anti-corruption in the government' is the CVC's correct remit."
@@ -582,8 +582,8 @@
       "options": [
         "Rural roads",
         "Bank credit for farmers",
-        "Healthcare for the elderly",
-        "Universal elementary education"
+        "Universal elementary education",
+        "Healthcare for the elderly"
       ],
       "correctAnswer": "Universal elementary education",
       "explanation": "Sarva Shiksha Abhiyan targets universal elementary education for children aged 6–14. Rural roads are covered by PMGSY, elderly healthcare by other schemes, and farm credit by KCC and PM-KISAN, so SSA specifically deals with elementary education, making it the correct focus."
@@ -591,15 +591,15 @@
     {
       "id": "46",
       "subject": "B",
-      "questionText": "Consider the following statements about the Indian National Anthem:\n\n(i) It was composed by Rabindranath Tagore.\n(ii) It was originally written in Bengali.\n(iii) It was adopted as the National Anthem on 24 January 1950.\n(iv) It is played for about 150 seconds when played in full.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Indian National Anthem:\n\n(i) It was composed by Rabindranath Tagore.\n(ii) It was originally written in Bengali.\n(iii) It is played for about 150 seconds when played in full.\n(iv) It was adopted as the National Anthem on 24 January 1950.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Rabindranath Tagore composed the Anthem in Bengali and it was adopted on 24 January 1950, so (i), (ii) and (iii) are true. Statement (iv) is false because the full Anthem plays for about 52 seconds, not 150, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Rabindranath Tagore composed the Anthem in Bengali and it was adopted on 24 January 1950, so (i), (ii) and (iv) are true. Statement (iii) is false because the full Anthem plays for about 52 seconds, not 150, so any option including (iii) is wrong."
     },
     {
       "id": "47",
@@ -633,9 +633,9 @@
       "questionText": "The scientist who won the Nobel Prize in Physics in 1930 was:",
       "options": [
         "Homi Bhabha",
-        "C.V. Raman",
         "Vikram Sarabhai",
-        "Meghnad Saha"
+        "Meghnad Saha",
+        "C.V. Raman"
       ],
       "correctAnswer": "C.V. Raman",
       "explanation": "C.V. Raman won the Nobel Prize in Physics in 1930 for his discovery of the Raman Effect. Homi Bhabha, Vikram Sarabhai and Meghnad Saha were eminent Indian scientists but did not win the Nobel Prize, so C.V. Raman is the correct laureate."
@@ -659,9 +659,9 @@
       "questionText": "The Jhelum river drains most of which region?",
       "options": [
         "Jammu region",
-        "Kashmir Valley",
         "Ladakh",
-        "Pir Panjal"
+        "Pir Panjal",
+        "Kashmir Valley"
       ],
       "correctAnswer": "Kashmir Valley",
       "explanation": "The Jhelum is the principal river of the Kashmir Valley and drains most of it. The Jammu region is drained by the Chenab and Tawi, Ladakh by the Indus system, and the Pir Panjal is a range rather than a drainage region, so the Kashmir Valley is correct."
@@ -669,23 +669,23 @@
     {
       "id": "52",
       "subject": "C",
-      "questionText": "Which of the following are important lakes of Jammu & Kashmir (excluding Ladakh)?\n\n(i) Dal Lake\n(ii) Wular Lake\n(iii) Chilika Lake\n(iv) Manasbal Lake\n\nSelect the correct combination:",
+      "questionText": "Which of the following are important lakes of Jammu & Kashmir (excluding Ladakh)?\n\n(i) Chilika Lake\n(ii) Dal Lake\n(iii) Wular Lake\n(iv) Manasbal Lake\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Dal, Wular and Manasbal lakes are all important lakes in the Kashmir Valley portion of J&K, so (i), (ii) and (iv) are correct. Chilika is a lake in Odisha, not in J&K, so any option including Chilika is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Dal, Wular and Manasbal lakes are all important lakes in the Kashmir Valley portion of J&K, so (ii), (iii) and (iv) are correct. Chilika is a lake in Odisha, not in J&K, so any option including Chilika is wrong."
     },
     {
       "id": "53",
       "subject": "C",
       "questionText": "Which of the following is the winter capital of the erstwhile state of Jammu & Kashmir?",
       "options": [
-        "Leh",
         "Jammu",
+        "Leh",
         "Srinagar",
         "Anantnag"
       ],
@@ -697,8 +697,8 @@
       "subject": "C",
       "questionText": "The 'Betaab Valley' is a popular tourist spot near which town?",
       "options": [
-        "Sonamarg",
         "Pahalgam",
+        "Sonamarg",
         "Gulmarg",
         "Kupwara"
       ],
@@ -710,8 +710,8 @@
       "subject": "C",
       "questionText": "The Kishtwar sapphire is mined in which district of the Jammu region?",
       "options": [
-        "Doda",
         "Kishtwar",
+        "Doda",
         "Rajouri",
         "Kathua"
       ],
@@ -721,15 +721,15 @@
     {
       "id": "56",
       "subject": "C",
-      "questionText": "Consider the following statements about tourism in Jammu & Kashmir:\n\n(i) Gulmarg is a popular skiing destination.\n(ii) Sonamarg is known as the Meadow of Gold.\n(iii) Pahalgam serves as a base for the Amarnath Yatra.\n(iv) Ladakh has no monasteries.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about tourism in Jammu & Kashmir:\n\n(i) Gulmarg is a popular skiing destination.\n(ii) Ladakh has no monasteries.\n(iii) Sonamarg is known as the Meadow of Gold.\n(iv) Pahalgam serves as a base for the Amarnath Yatra.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Gulmarg is a skiing spot, Sonamarg is the Meadow of Gold, and Pahalgam serves as a base for the Amarnath Yatra, so (i), (ii) and (iii) are true. Statement (iv) is false because Ladakh has many famous monasteries like Hemis, Thiksey and Diskit, so any option with (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Gulmarg is a skiing spot, Sonamarg is the Meadow of Gold, and Pahalgam serves as a base for the Amarnath Yatra, so (i), (iii) and (iv) are true. Statement (ii) is false because Ladakh has many famous monasteries like Hemis, Thiksey and Diskit, so any option with (ii) is wrong."
     },
     {
       "id": "57",
@@ -788,8 +788,8 @@
       "subject": "D",
       "questionText": "Simplify: 20 + 30 ÷ 6 × 2 − 4",
       "options": [
-        "26",
         "20",
+        "26",
         "12",
         "22"
       ],
@@ -802,8 +802,8 @@
       "questionText": "The area of a square with side 12 cm is:",
       "options": [
         "100 sq cm",
-        "121 sq cm",
         "144 sq cm",
+        "121 sq cm",
         "169 sq cm"
       ],
       "correctAnswer": "144 sq cm",
@@ -815,9 +815,9 @@
       "questionText": "The next term in the series: 5, 10, 20, 40, __________",
       "options": [
         "50",
+        "80",
         "60",
-        "70",
-        "80"
+        "70"
       ],
       "correctAnswer": "80",
       "explanation": "Each term is double the previous one: 5, 10, 20, 40, so the next is 40 × 2 = 80. Option 50 adds only 10, 60 adds 20, and 70 adds 30, none of which follows the constant doubling rule, so 80 is the correct next term of the geometric series."
@@ -825,15 +825,15 @@
     {
       "id": "64",
       "subject": "D",
-      "questionText": "Consider the following statements about angles:\n\n(i) An acute angle is less than 90°.\n(ii) A right angle equals 90°.\n(iii) An obtuse angle is between 90° and 180°.\n(iv) A reflex angle is less than 90°.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about angles:\n\n(i) An acute angle is less than 90°.\n(ii) A right angle equals 90°.\n(iii) A reflex angle is less than 90°.\n(iv) An obtuse angle is between 90° and 180°.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Acute (<90°), right (=90°) and obtuse (between 90° and 180°) definitions are correct, so (i), (ii) and (iii) are true. Statement (iv) is false because a reflex angle is more than 180° and less than 360°, not less than 90°, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Acute (<90°), right (=90°) and obtuse (between 90° and 180°) definitions are correct, so (i), (ii) and (iv) are true. Statement (iii) is false because a reflex angle is more than 180° and less than 360°, not less than 90°, so any option including (iii) is wrong."
     },
     {
       "id": "65",
@@ -842,8 +842,8 @@
       "options": [
         "3",
         "5",
-        "6",
-        "7"
+        "7",
+        "6"
       ],
       "correctAnswer": "7",
       "explanation": "Adding the equations gives 2x = 14, so x = 7. Option 3 and 5 do not satisfy x + y = 10 with x − y = 4 (they would need different y values), and 6 gives y = 4 but x − y = 2, not 4. Only x = 7 (with y = 3) satisfies both equations."
@@ -868,8 +868,8 @@
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i) and (iii) only"
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "23 and 41 are prime numbers with no factors other than 1 and themselves. 39 = 3 × 13 and 51 = 3 × 17 are both composite (divisible by 3), so any option including 39 or 51 as prime is wrong; only (i) and (iii) are prime."
@@ -893,8 +893,8 @@
       "questionText": "A man buys an article for ₹500 and sells it at a loss of 15%. Find the selling price.",
       "options": [
         "₹400",
-        "₹425",
         "₹440",
+        "₹425",
         "₹450"
       ],
       "correctAnswer": "₹425",
@@ -905,9 +905,9 @@
       "subject": "D",
       "questionText": "Match the following:\n\nColumn I:\n(a) 1 dozen\n(b) 1 gross\n(c) 1 score\n(d) 1 century\n\nColumn II:\n(i) 100\n(ii) 20\n(iii) 12\n(iv) 144\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
@@ -918,10 +918,10 @@
       "subject": "D",
       "questionText": "Pipe A can fill a tank in 4 hours and pipe B in 6 hours. If both are opened together, how long will they take to fill the tank?",
       "options": [
-        "2.4 hours",
         "3 hours",
         "3.6 hours",
-        "5 hours"
+        "5 hours",
+        "2.4 hours"
       ],
       "correctAnswer": "2.4 hours",
       "explanation": "Combined rate = 1/4 + 1/6 = 3/12 + 2/12 = 5/12 of the tank per hour, so time = 12/5 = 2.4 hours. Option 3 hours would need a combined rate of 1/3, 3.6 hours a rate of about 0.28, and 5 hours a rate of 1/5, none of which equals 5/12, so only 2.4 hours is correct."
@@ -942,15 +942,15 @@
     {
       "id": "73",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) The HCF of two numbers is the largest number that divides both.\n(ii) The LCM of two numbers is the smallest common multiple.\n(iii) HCF × LCM = product of the two numbers.\n(iv) HCF is always greater than LCM for any two numbers.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) HCF is always greater than LCM for any two numbers.\n(ii) The HCF of two numbers is the largest number that divides both.\n(iii) The LCM of two numbers is the smallest common multiple.\n(iv) HCF × LCM = product of the two numbers.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The HCF is the greatest common divisor, the LCM is the least common multiple, and HCF × LCM equals the product of the two numbers, so (i), (ii) and (iii) are true. Statement (iv) is false because the LCM is at least as large as the HCF (usually much larger), so any option including (iv) is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The HCF is the greatest common divisor, the LCM is the least common multiple, and HCF × LCM equals the product of the two numbers, so (ii), (iii) and (iv) are true. Statement (i) is false because the LCM is at least as large as the HCF (usually much larger), so any option including (i) is wrong."
     },
     {
       "id": "74",
@@ -959,8 +959,8 @@
       "options": [
         "₹1,000",
         "₹1,100",
-        "₹1,200",
-        "₹1,400"
+        "₹1,400",
+        "₹1,200"
       ],
       "correctAnswer": "₹1,200",
       "explanation": "SI = (P × R × T) ÷ 100 = (5000 × 8 × 3) ÷ 100 = ₹1,200. Option ₹1,000 corresponds to a rate of about 6.67%, ₹1,100 to about 7.33%, and ₹1,400 to about 9.33%, so only ₹1,200 matches 8% per annum for 3 years."
@@ -984,9 +984,9 @@
       "questionText": "In a group of 30 students, 18 like tea and 12 like coffee. If 4 like both, the number who like at least one of the two drinks is:",
       "options": [
         "24",
-        "26",
         "28",
-        "30"
+        "30",
+        "26"
       ],
       "correctAnswer": "26",
       "explanation": "By inclusion-exclusion, |Tea ∪ Coffee| = 18 + 12 − 4 = 26. Option 24 forgets the overlap correctly (30 − 26 = 4 who like neither), 28 double-counts, and 30 assumes everyone likes at least one, but 4 like neither, so 26 is correct."
@@ -996,9 +996,9 @@
       "subject": "D",
       "questionText": "Ratio and Proportion: If A : B = 5 : 8 and A = 20, then B is:",
       "options": [
+        "32",
         "28",
         "30",
-        "32",
         "35"
       ],
       "correctAnswer": "32",
@@ -1007,23 +1007,23 @@
     {
       "id": "78",
       "subject": "D",
-      "questionText": "Which of the following are multiples of 8?\n\n(i) 48\n(ii) 56\n(iii) 60\n(iv) 96\n\nSelect the correct combination:",
+      "questionText": "Which of the following are multiples of 8?\n\n(i) 48\n(ii) 60\n(iii) 56\n(iv) 96\n\nSelect the correct combination:",
       "options": [
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "48 = 8 × 6, 56 = 8 × 7 and 96 = 8 × 12, so (i), (ii) and (iv) are multiples of 8. 60 = 8 × 7 + 4 leaves a remainder and is not a multiple of 8, so any option including 60 is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "48 = 8 × 6, 56 = 8 × 7 and 96 = 8 × 12, so (i), (iii) and (iv) are multiples of 8. 60 = 8 × 7 + 4 leaves a remainder and is not a multiple of 8, so any option including 60 is wrong."
     },
     {
       "id": "79",
       "subject": "D",
       "questionText": "A wheel makes 60 revolutions per minute. How many revolutions does it make in one second?",
       "options": [
-        "0.5",
         "1",
+        "0.5",
         "2",
         "6"
       ],
@@ -1035,10 +1035,10 @@
       "subject": "D",
       "questionText": "Fill in the blank in the series: 2, 6, 12, 20, 30, __________",
       "options": [
+        "42",
         "36",
         "38",
-        "40",
-        "42"
+        "40"
       ],
       "correctAnswer": "42",
       "explanation": "Differences are 4, 6, 8, 10, next 12, so 30 + 12 = 42. Option 36 adds only 6, 38 adds 8, and 40 adds 10, none of which continues the arithmetic increase of differences by 2, so 42 is the correct next term."
@@ -1046,15 +1046,15 @@
     {
       "id": "81",
       "subject": "D",
-      "questionText": "Consider the following statements about statistics:\n\n(i) The mean is the arithmetic average.\n(ii) The median is the middle value in an ordered list.\n(iii) The mode is the most frequently occurring value.\n(iv) The range is the difference between the mean and the median.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about statistics:\n\n(i) The mean is the arithmetic average.\n(ii) The median is the middle value in an ordered list.\n(iii) The range is the difference between the mean and the median.\n(iv) The mode is the most frequently occurring value.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Definitions of mean, median and mode in (i), (ii) and (iii) are standard and correct. Statement (iv) is false because the range is the difference between the maximum and minimum values, not between the mean and median, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Definitions of mean, median and mode in (i), (ii) and (iv) are standard and correct. Statement (iii) is false because the range is the difference between the maximum and minimum values, not between the mean and median, so any option including (iii) is wrong."
     },
     {
       "id": "82",
@@ -1062,8 +1062,8 @@
       "questionText": "The next term in the series: A1, C3, E5, G7, __________",
       "options": [
         "H8",
-        "I8",
         "I9",
+        "I8",
         "J10"
       ],
       "correctAnswer": "I9",
@@ -1087,8 +1087,8 @@
       "subject": "D",
       "questionText": "A number when divided by 7 leaves a remainder of 3. Which of the following could be that number?",
       "options": [
-        "10",
         "20",
+        "10",
         "27",
         "35"
       ],
@@ -1101,8 +1101,8 @@
       "questionText": "The angle between the hour hand and the minute hand of a clock at 3:00 is:",
       "options": [
         "45°",
-        "60°",
         "90°",
+        "60°",
         "120°"
       ],
       "correctAnswer": "90°",
@@ -1139,9 +1139,9 @@
       "subject": "E",
       "questionText": "Consider the following statements about computers:\n\n(i) The CPU is often called the brain of the computer.\n(ii) RAM is a form of primary memory.\n(iii) Hard disks are non-volatile.\n(iv) A monitor is an input device.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -1152,9 +1152,9 @@
       "subject": "E",
       "questionText": "The extension used for a plain-text file is typically:",
       "options": [
-        ".txt",
         ".doc",
         ".exe",
+        ".txt",
         ".jpg"
       ],
       "correctAnswer": ".txt",
@@ -1176,15 +1176,15 @@
     {
       "id": "91",
       "subject": "E",
-      "questionText": "Which of the following are input devices?\n\n(i) Keyboard\n(ii) Mouse\n(iii) Monitor\n(iv) Scanner\n\nSelect the correct combination:",
+      "questionText": "Which of the following are input devices?\n\n(i) Monitor\n(ii) Keyboard\n(iii) Mouse\n(iv) Scanner\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A keyboard, mouse and scanner all feed data into the computer, so they are input devices and (i), (ii) and (iv) are correct. A monitor displays information to the user, making it an output device, so any option including monitor as an input device is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "A keyboard, mouse and scanner all feed data into the computer, so they are input devices and (ii), (iii) and (iv) are correct. A monitor displays information to the user, making it an output device, so any option including monitor as an input device is wrong."
     },
     {
       "id": "92",
@@ -1192,8 +1192,8 @@
       "questionText": "The number system that uses only two digits (0 and 1) is:",
       "options": [
         "Decimal",
-        "Binary",
         "Octal",
+        "Binary",
         "Hexadecimal"
       ],
       "correctAnswer": "Binary",
@@ -1230,10 +1230,10 @@
       "subject": "E",
       "questionText": "The 'World Wide Web' was invented by:",
       "options": [
-        "Tim Berners-Lee",
         "Bill Gates",
         "Steve Jobs",
-        "Charles Babbage"
+        "Charles Babbage",
+        "Tim Berners-Lee"
       ],
       "correctAnswer": "Tim Berners-Lee",
       "explanation": "Tim Berners-Lee invented the World Wide Web in 1989–91 at CERN. Bill Gates co-founded Microsoft, Steve Jobs co-founded Apple, and Charles Babbage designed early mechanical computers, so none of them created the WWW; Tim Berners-Lee is correct."
@@ -1243,10 +1243,10 @@
       "subject": "E",
       "questionText": "Fill in the blank: The unit __________ is used to measure the clock speed of a CPU.",
       "options": [
-        "Gigahertz (GHz)",
         "Byte",
         "Kilogram",
-        "Metre"
+        "Metre",
+        "Gigahertz (GHz)"
       ],
       "correctAnswer": "Gigahertz (GHz)",
       "explanation": "CPU clock speed is measured in hertz, with modern CPUs typically rated in gigahertz (GHz). The byte is a unit of data, and the kilogram and metre are units of mass and length, so none of them measures clock speed; gigahertz is correct."
@@ -1254,25 +1254,25 @@
     {
       "id": "97",
       "subject": "E",
-      "questionText": "Consider the following statements about email:\n\n(i) SMTP is used to send emails.\n(ii) IMAP or POP3 is used to retrieve emails.\n(iii) An email address contains the '@' symbol.\n(iv) Emails cannot have attachments.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about email:\n\n(i) SMTP is used to send emails.\n(ii) Emails cannot have attachments.\n(iii) IMAP or POP3 is used to retrieve emails.\n(iv) An email address contains the '@' symbol.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "SMTP is used to send emails, IMAP/POP3 to retrieve them, and email addresses have the '@' symbol, so (i), (ii) and (iii) are true. Statement (iv) is false because emails routinely include attachments like documents and images, so any option including (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "SMTP is used to send emails, IMAP/POP3 to retrieve them, and email addresses have the '@' symbol, so (i), (iii) and (iv) are true. Statement (ii) is false because emails routinely include attachments like documents and images, so any option including (ii) is wrong."
     },
     {
       "id": "98",
       "subject": "E",
       "questionText": "The default file extension for a PowerPoint presentation is:",
       "options": [
-        ".ppt / .pptx",
         ".doc / .docx",
         ".xls / .xlsx",
-        ".pdf"
+        ".pdf",
+        ".ppt / .pptx"
       ],
       "correctAnswer": ".ppt / .pptx",
       "explanation": "PowerPoint files use .ppt (older) and .pptx (newer) extensions. .doc/.docx are Word document formats, .xls/.xlsx are Excel spreadsheet formats, and .pdf is a portable document format, so none of them is the PowerPoint extension; .ppt/.pptx is correct."
@@ -1280,15 +1280,15 @@
     {
       "id": "99",
       "subject": "E",
-      "questionText": "Which of the following are examples of web browsers?\n\n(i) Google Chrome\n(ii) Mozilla Firefox\n(iii) Microsoft Edge\n(iv) Adobe Photoshop\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of web browsers?\n\n(i) Google Chrome\n(ii) Mozilla Firefox\n(iii) Adobe Photoshop\n(iv) Microsoft Edge\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Google Chrome, Mozilla Firefox and Microsoft Edge are all web browsers used to access the internet, so (i), (ii) and (iii) are correct. Adobe Photoshop is an image-editing application, not a browser, so any option that includes Photoshop is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Google Chrome, Mozilla Firefox and Microsoft Edge are all web browsers used to access the internet, so (i), (ii) and (iv) are correct. Adobe Photoshop is an image-editing application, not a browser, so any option that includes Photoshop is wrong."
     },
     {
       "id": "100",
@@ -1296,9 +1296,9 @@
       "questionText": "In binary, the decimal number 5 is written as:",
       "options": [
         "100",
-        "101",
         "110",
-        "111"
+        "111",
+        "101"
       ],
       "correctAnswer": "101",
       "explanation": "5 in binary is 101 (4 + 0 + 1). Option 100 equals decimal 4, 110 equals 6, and 111 equals 7, so none of them represents 5; only 101 is the correct binary form of the decimal number 5."

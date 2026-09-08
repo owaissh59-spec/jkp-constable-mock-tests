@@ -21,8 +21,8 @@
       "subject": "E",
       "questionText": "Consider the following statements about generations of computers:\n\n(i) First generation used vacuum tubes.\n(ii) Second generation used transistors.\n(iii) Third generation used integrated circuits (ICs).\n(iv) Fourth generation used artificial intelligence as the main component.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
@@ -47,8 +47,8 @@
       "subject": "E",
       "questionText": "Match the following MS Excel functions with their purposes:\n\nColumn I:\n(a) VLOOKUP\n(b) COUNTIF\n(c) CONCATENATE\n(d) ROUND\n\nColumn II:\n(i) Joins multiple text strings into one\n(ii) Rounds a number to specified decimal places\n(iii) Counts cells that meet a condition\n(iv) Searches first column of table and returns value from specified column\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
       ],
@@ -58,24 +58,24 @@
     {
       "id": "5",
       "subject": "E",
-      "questionText": "Which of the following are characteristics of a worm (as opposed to a virus)?\n\n(i) It can self-replicate and spread without a host program.\n(ii) It spreads across networks independently.\n(iii) It requires the user to run an infected file to activate.\n(iv) It can consume bandwidth and slow down networks.\n\nSelect the correct combination:",
+      "questionText": "Which of the following are characteristics of a worm (as opposed to a virus)?\n\n(i) It requires the user to run an infected file to activate.\n(ii) It can self-replicate and spread without a host program.\n(iii) It spreads across networks independently.\n(iv) It can consume bandwidth and slow down networks.\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
-        "(i), (iii) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "Worms self-replicate without a host file (i correct). They spread autonomously across networks (ii correct). They consume network resources/bandwidth (iv correct). Statement (iii) is incorrect — requiring user to run a file is a characteristic of a VIRUS, not a worm. Worms spread WITHOUT user action, which is what makes them more dangerous in terms of speed."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "Worms self-replicate without a host file (i correct). They spread autonomously across networks (ii correct). They consume network resources/bandwidth (iv correct). Statement (i) is incorrect — requiring user to run a file is a characteristic of a VIRUS, not a worm. Worms spread WITHOUT user action, which is what makes them more dangerous in terms of speed."
     },
     {
       "id": "6",
       "subject": "E",
       "questionText": "The keyboard shortcut to 'Find and Replace' text in MS Word is:",
       "options": [
-        "Ctrl + H",
         "Ctrl + F",
         "Ctrl + R",
+        "Ctrl + H",
         "Ctrl + G"
       ],
       "correctAnswer": "Ctrl + H",
@@ -84,15 +84,15 @@
     {
       "id": "7",
       "subject": "E",
-      "questionText": "Consider the following statements about the Internet:\n\n(i) TCP/IP is the fundamental protocol suite of the Internet.\n(ii) An IP address uniquely identifies a device on a network.\n(iii) DNS translates domain names to IP addresses.\n(iv) HTTP and HTTPS are identical in terms of security.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Internet:\n\n(i) TCP/IP is the fundamental protocol suite of the Internet.\n(ii) HTTP and HTTPS are identical in terms of security.\n(iii) An IP address uniquely identifies a device on a network.\n(iv) DNS translates domain names to IP addresses.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "TCP/IP is the internet's foundational protocol suite (i correct). IP addresses uniquely identify devices (ii correct). DNS resolves names to IPs (iii correct). Statement (iv) is incorrect — HTTP and HTTPS are NOT identical in security. HTTPS uses SSL/TLS encryption for secure communication, while HTTP transmits data in plain text (unencrypted)."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "TCP/IP is the internet's foundational protocol suite (i correct). IP addresses uniquely identify devices (ii correct). DNS resolves names to IPs (iii correct). Statement (ii) is incorrect — HTTP and HTTPS are NOT identical in security. HTTPS uses SSL/TLS encryption for secure communication, while HTTP transmits data in plain text (unencrypted)."
     },
     {
       "id": "8",
@@ -112,9 +112,9 @@
       "subject": "E",
       "questionText": "Match the following email-related terms with their meanings:\n\nColumn I:\n(a) CC\n(b) BCC\n(c) SMTP\n(d) IMAP\n\nColumn II:\n(i) Protocol for sending outgoing emails\n(ii) Allows email access from multiple devices (synced)\n(iii) Sends copy visible to all recipients\n(iv) Sends copy hidden from other recipients\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
@@ -125,10 +125,10 @@
       "subject": "E",
       "questionText": "The term 'defragmentation' is relevant to which type of storage device?",
       "options": [
-        "HDD (Hard Disk Drive)",
         "SSD (Solid State Drive)",
         "RAM",
-        "ROM"
+        "ROM",
+        "HDD (Hard Disk Drive)"
       ],
       "correctAnswer": "HDD (Hard Disk Drive)",
       "explanation": "Defragmentation rearranges fragmented data on spinning platters for faster sequential access — relevant to HDDs. SSDs should NOT be defragmented (no mechanical head; defrag reduces SSD lifespan). RAM is volatile working memory. ROM is read-only. Only HDDs benefit from defragmentation."
@@ -136,15 +136,15 @@
     {
       "id": "11",
       "subject": "E",
-      "questionText": "Consider the following statements about MS Word features:\n\n(i) Mail Merge creates personalized letters for multiple recipients from a data source.\n(ii) Track Changes records all edits made to a document.\n(iii) Header and Footer appear on every page of the document.\n(iv) MS Word can only save files in .docx format.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about MS Word features:\n\n(i) Mail Merge creates personalized letters for multiple recipients from a data source.\n(ii) Track Changes records all edits made to a document.\n(iii) MS Word can only save files in .docx format.\n(iv) Header and Footer appear on every page of the document.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Mail Merge personalizes bulk correspondence (i correct). Track Changes logs all modifications (ii correct). Headers/Footers repeat on each page (iii correct). Statement (iv) is incorrect — Word can save in multiple formats: .docx, .doc, .pdf, .rtf, .txt, .html, and others via 'Save As'."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Mail Merge personalizes bulk correspondence (i correct). Track Changes logs all modifications (ii correct). Headers/Footers repeat on each page (iii correct). Statement (iii) is incorrect — Word can save in multiple formats: .docx, .doc, .pdf, .rtf, .txt, .html, and others via 'Save As'."
     },
     {
       "id": "12",
@@ -162,15 +162,15 @@
     {
       "id": "13",
       "subject": "E",
-      "questionText": "Which of the following are input devices?\n\n(i) Scanner\n(ii) Projector\n(iii) Microphone\n(iv) Webcam\n\nSelect the correct combination:",
+      "questionText": "Which of the following are input devices?\n\n(i) Scanner\n(ii) Microphone\n(iii) Webcam\n(iv) Projector\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv) only",
-        "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
-        "All of the above"
+        "(i), (iii) and (iv) only",
+        "All of the above",
+        "(i), (ii) and (iii) only"
       ],
-      "correctAnswer": "(i), (iii) and (iv) only",
-      "explanation": "Scanner converts physical documents to digital — input (i correct). Microphone converts sound to digital signal — input (iii correct). Webcam captures video — input (iv correct). Projector (ii) is an OUTPUT device — it displays/projects images onto a screen, sending data OUT of the computer to the user."
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Scanner converts physical documents to digital — input (i correct). Microphone converts sound to digital signal — input (iii correct). Webcam captures video — input (iv correct). Projector (iv) is an OUTPUT device — it displays/projects images onto a screen, sending data OUT of the computer to the user."
     },
     {
       "id": "14",
@@ -188,15 +188,15 @@
     {
       "id": "15",
       "subject": "E",
-      "questionText": "Consider the following statements about search engines:\n\n(i) A search engine uses crawlers/spiders to index web pages.\n(ii) Google, Bing, and Yahoo are examples of search engines.\n(iii) The 'site:' operator restricts search to a specific website.\n(iv) Search engines can access password-protected private content.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about search engines:\n\n(i) Search engines can access password-protected private content.\n(ii) A search engine uses crawlers/spiders to index web pages.\n(iii) Google, Bing, and Yahoo are examples of search engines.\n(iv) The 'site:' operator restricts search to a specific website.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Search engines use automated crawlers to discover and index pages (i correct). Google, Bing, Yahoo are popular search engines (ii correct). 'site:example.com' limits results to that domain (iii correct). Statement (iv) is incorrect — search engines CANNOT access password-protected content (behind login walls). They can only index publicly accessible pages."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Search engines use automated crawlers to discover and index pages (i correct). Google, Bing, Yahoo are popular search engines (ii correct). 'site:example.com' limits results to that domain (iii correct). Statement (i) is incorrect — search engines CANNOT access password-protected content (behind login walls). They can only index publicly accessible pages."
     },
     {
       "id": "16",
@@ -216,8 +216,8 @@
       "subject": "E",
       "questionText": "In MS Excel, the formula =IF(A1>50,\"Pass\",\"Fail\") will:",
       "options": [
-        "Display 'Pass' if A1 is greater than 50, otherwise 'Fail'",
         "Always display 'Pass' regardless of A1's value",
+        "Display 'Pass' if A1 is greater than 50, otherwise 'Fail'",
         "Calculate 50 minus A1",
         "Display an error message"
       ],
@@ -227,24 +227,24 @@
     {
       "id": "18",
       "subject": "E",
-      "questionText": "Consider the following statements about computer memory hierarchy (fastest to slowest):\n\n(i) The correct order is: Registers → Cache → RAM → SSD → HDD.\n(ii) Registers are the fastest but smallest memory.\n(iii) As we go from registers to HDD, speed decreases but capacity increases.\n(iv) RAM is faster than Cache memory.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer memory hierarchy (fastest to slowest):\n\n(i) The correct order is: Registers → Cache → RAM → SSD → HDD.\n(ii) RAM is faster than Cache memory.\n(iii) Registers are the fastest but smallest memory.\n(iv) As we go from registers to HDD, speed decreases but capacity increases.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The hierarchy from fastest to slowest: Registers > Cache > RAM > SSD > HDD (i correct). Registers are fastest with smallest capacity (few bytes) (ii correct). Speed decreases, capacity increases down the hierarchy (iii correct). Statement (iv) is incorrect — RAM is SLOWER than Cache (that's the entire point of cache — it bridges the speed gap between CPU and RAM)."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The hierarchy from fastest to slowest: Registers > Cache > RAM > SSD > HDD (i correct). Registers are fastest with smallest capacity (few bytes) (ii correct). Speed decreases, capacity increases down the hierarchy (iii correct). Statement (ii) is incorrect — RAM is SLOWER than Cache (that's the entire point of cache — it bridges the speed gap between CPU and RAM)."
     },
     {
       "id": "19",
       "subject": "E",
       "questionText": "Match the following types of software with examples:\n\nColumn I:\n(a) System software\n(b) Application software\n(c) Utility software\n(d) Firmware\n\nColumn II:\n(i) BIOS stored in ROM on motherboard\n(ii) Windows 11, Linux, macOS\n(iii) Disk Cleanup, Antivirus, File compression tools\n(iv) MS Office, Chrome, Photoshop\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
@@ -255,9 +255,9 @@
       "subject": "E",
       "questionText": "Fill in the blank: The protocol that ensures secure communication between a web browser and server by encrypting data is called __________.",
       "options": [
-        "HTTPS (HyperText Transfer Protocol Secure)",
         "FTP (File Transfer Protocol)",
         "SMTP (Simple Mail Transfer Protocol)",
+        "HTTPS (HyperText Transfer Protocol Secure)",
         "HTTP (HyperText Transfer Protocol)"
       ],
       "correctAnswer": "HTTPS (HyperText Transfer Protocol Secure)",
@@ -266,15 +266,15 @@
     {
       "id": "21",
       "subject": "E",
-      "questionText": "Consider the following statements about data backup strategies:\n\n(i) Full backup copies ALL data every time it runs.\n(ii) Incremental backup copies only data changed since the LAST backup (of any type).\n(iii) Differential backup copies data changed since the last FULL backup.\n(iv) Full backups are faster than incremental backups.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about data backup strategies:\n\n(i) Full backup copies ALL data every time it runs.\n(ii) Incremental backup copies only data changed since the LAST backup (of any type).\n(iii) Full backups are faster than incremental backups.\n(iv) Differential backup copies data changed since the last FULL backup.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Full backup copies everything (i correct). Incremental copies changes since any last backup (ii correct). Differential copies changes since last full backup (iii correct). Statement (iv) is incorrect — full backups are SLOWER (more data to copy) than incremental backups (which only copy recent changes)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Full backup copies everything (i correct). Incremental copies changes since any last backup (ii correct). Differential copies changes since last full backup (iii correct). Statement (iii) is incorrect — full backups are SLOWER (more data to copy) than incremental backups (which only copy recent changes)."
     },
     {
       "id": "22",
@@ -294,10 +294,10 @@
       "subject": "E",
       "questionText": "Match the following cyber threats with their descriptions:\n\nColumn I:\n(a) Phishing\n(b) Ransomware\n(c) Keylogger\n(d) DDoS\n\nColumn II:\n(i) Records every keystroke to steal passwords\n(ii) Overwhelms servers with traffic making them unavailable\n(iii) Encrypts files and demands payment for decryption\n(iv) Fraudulent emails/sites stealing personal information\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
-        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
       "explanation": "Phishing uses fake communications to steal info (a-iv). Ransomware encrypts and demands payment (b-iii). Keylogger records keystrokes (c-i). DDoS floods servers with traffic (d-ii). Option B swaps phishing with ransomware. Option C mismatches ransomware with keylogger. Option D incorrectly pairs phishing with DDoS."
@@ -307,10 +307,10 @@
       "subject": "E",
       "questionText": "Consider the following statements about the booting process:\n\n(i) BIOS/UEFI is the first software to run when a computer starts.\n(ii) POST (Power-On Self-Test) checks hardware components.\n(iii) The boot loader loads the operating system into RAM.\n(iv) The operating system is permanently stored in RAM.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "BIOS/UEFI runs first from ROM (i correct). POST checks hardware integrity (ii correct). Boot loader loads OS from disk into RAM (iii correct). Statement (iv) is incorrect — the OS is stored on the HARD DISK and loaded into RAM during boot. RAM is volatile; if OS were only in RAM, it would be lost every shutdown."
@@ -320,10 +320,10 @@
       "subject": "E",
       "questionText": "The maximum number of rows and columns in MS Excel 2007 and later are respectively:",
       "options": [
-        "1,048,576 rows and 16,384 columns",
         "65,536 rows and 256 columns",
         "1,000,000 rows and 10,000 columns",
-        "500,000 rows and 8,192 columns"
+        "500,000 rows and 8,192 columns",
+        "1,048,576 rows and 16,384 columns"
       ],
       "correctAnswer": "1,048,576 rows and 16,384 columns",
       "explanation": "Excel 2007+ supports 2²⁰ = 1,048,576 rows and 2¹⁴ = 16,384 columns (A to XFD). 65,536 rows and 256 columns was the Excel 2003 limit. The other options are fabricated numbers not matching any Excel version."
@@ -344,23 +344,23 @@
     {
       "id": "27",
       "subject": "E",
-      "questionText": "Which of the following are features of e-banking (online banking)?\n\n(i) Checking account balance anytime from anywhere with internet.\n(ii) Transferring funds between accounts electronically.\n(iii) Paying bills online without visiting a bank branch.\n(iv) E-banking works without any internet connection.\n\nSelect the correct combination:",
+      "questionText": "Which of the following are features of e-banking (online banking)?\n\n(i) E-banking works without any internet connection.\n(ii) Checking account balance anytime from anywhere with internet.\n(iii) Transferring funds between accounts electronically.\n(iv) Paying bills online without visiting a bank branch.\n\nSelect the correct combination:",
       "options": [
+        "(ii), (iii) and (iv) only",
         "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
-        "(i), (iii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Balance checking remotely (i correct). Electronic fund transfers (ii correct). Online bill payment (iii correct). Statement (iv) is incorrect — e-banking/online banking absolutely REQUIRES internet connectivity. Without internet, you cannot access the bank's servers."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "Balance checking remotely (i correct). Electronic fund transfers (ii correct). Online bill payment (iii correct). Statement (i) is incorrect — e-banking/online banking absolutely REQUIRES internet connectivity. Without internet, you cannot access the bank's servers."
     },
     {
       "id": "28",
       "subject": "E",
       "questionText": "Match the following file extensions with their types:\n\nColumn I:\n(a) .xlsx\n(b) .pptx\n(c) .pdf\n(d) .mp3\n\nColumn II:\n(i) Audio file\n(ii) Portable document format\n(iii) Excel spreadsheet\n(iv) PowerPoint presentation\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
@@ -370,23 +370,23 @@
     {
       "id": "29",
       "subject": "E",
-      "questionText": "Consider the following statements about computer networks:\n\n(i) A router connects different networks and directs data packets between them.\n(ii) A switch connects devices within the same network (LAN).\n(iii) WiFi uses radio waves for wireless connectivity.\n(iv) A modem converts only analog signals to digital (one-way).\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) A router connects different networks and directs data packets between them.\n(ii) A modem converts only analog signals to digital (one-way).\n(iii) A switch connects devices within the same network (LAN).\n(iv) WiFi uses radio waves for wireless connectivity.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Routers connect and route between different networks (i correct). Switches connect devices within a LAN (ii correct). WiFi uses radio waves (2.4/5 GHz) for wireless communication (iii correct). Statement (iv) is incorrect — a modem performs TWO-WAY conversion: modulation (digital→analog for transmission) AND demodulation (analog→digital for reception). 'Modem' = MOdulator-DEModulator."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Routers connect and route between different networks (i correct). Switches connect devices within a LAN (ii correct). WiFi uses radio waves (2.4/5 GHz) for wireless communication (iii correct). Statement (ii) is incorrect — a modem performs TWO-WAY conversion: modulation (digital→analog for transmission) AND demodulation (analog→digital for reception). 'Modem' = MOdulator-DEModulator."
     },
     {
       "id": "30",
       "subject": "E",
       "questionText": "Fill in the blank: In MS Excel, the function that returns the number of cells containing numerical values in a range is __________.",
       "options": [
-        "COUNT",
         "COUNTA",
+        "COUNT",
         "COUNTBLANK",
         "SUM"
       ],
@@ -411,9 +411,9 @@
       "subject": "E",
       "questionText": "Consider the following statements about MS Word formatting:\n\n(i) Ctrl + B applies bold formatting.\n(ii) Ctrl + I applies italic formatting.\n(iii) Ctrl + U applies underline formatting.\n(iv) Ctrl + D opens the Font dialog box.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
         "(i), (iii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
@@ -424,9 +424,9 @@
       "subject": "E",
       "questionText": "Match the following types of operating systems with their characteristics:\n\nColumn I:\n(a) Real-time OS\n(b) Multi-user OS\n(c) Batch OS\n(d) Distributed OS\n\nColumn II:\n(i) Jobs are grouped and processed without user interaction\n(ii) Multiple users access the same system simultaneously\n(iii) Provides immediate response for time-critical tasks\n(iv) Multiple computers work together as a single system\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
@@ -437,9 +437,9 @@
       "subject": "E",
       "questionText": "Which of the following are safe practices to protect against cyber attacks?\n\n(i) Use strong, unique passwords for different accounts.\n(ii) Enable two-factor authentication where available.\n(iii) Keep software and operating systems updated.\n(iv) Open all email attachments to check if they are safe.\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only",
+        "(i), (ii) and (iii) only",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii) only",
@@ -448,15 +448,15 @@
     {
       "id": "35",
       "subject": "E",
-      "questionText": "Consider the following statements about cloud computing service models:\n\n(i) IaaS (Infrastructure as a Service) provides virtual machines, storage, and networks.\n(ii) PaaS (Platform as a Service) provides a development environment for building applications.\n(iii) SaaS (Software as a Service) delivers applications over the internet (e.g., Gmail).\n(iv) All cloud services store data exclusively on the user's local computer.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about cloud computing service models:\n\n(i) All cloud services store data exclusively on the user's local computer.\n(ii) IaaS (Infrastructure as a Service) provides virtual machines, storage, and networks.\n(iii) PaaS (Platform as a Service) provides a development environment for building applications.\n(iv) SaaS (Software as a Service) delivers applications over the internet (e.g., Gmail).\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "IaaS provides infrastructure resources (i correct). PaaS offers development platforms (ii correct). SaaS delivers ready-to-use applications (iii correct). Statement (iv) is incorrect — cloud services store data on REMOTE SERVERS (the 'cloud'), NOT locally. That's the fundamental concept of cloud computing — data and applications reside on provider servers."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "IaaS provides infrastructure resources (i correct). PaaS offers development platforms (ii correct). SaaS delivers ready-to-use applications (iii correct). Statement (i) is incorrect — cloud services store data on REMOTE SERVERS (the 'cloud'), NOT locally. That's the fundamental concept of cloud computing — data and applications reside on provider servers."
     },
     {
       "id": "36",
@@ -476,10 +476,10 @@
       "subject": "E",
       "questionText": "In MS Excel, what does the error '#DIV/0!' indicate?",
       "options": [
-        "A formula is attempting to divide by zero or an empty cell",
         "The formula references a cell that doesn't exist",
         "The function name is misspelled",
-        "The cell contains too much text"
+        "The cell contains too much text",
+        "A formula is attempting to divide by zero or an empty cell"
       ],
       "correctAnswer": "A formula is attempting to divide by zero or an empty cell",
       "explanation": "#DIV/0! occurs when division by zero (or by an empty cell defaulting to 0) is attempted. 'Cell doesn't exist' gives #REF! error. 'Misspelled function' gives #NAME? error. 'Too much text' displays #### (column too narrow). Only division by zero produces #DIV/0!"
@@ -489,10 +489,10 @@
       "subject": "E",
       "questionText": "Match the following hardware components with their primary functions:\n\nColumn I:\n(a) GPU\n(b) NIC\n(c) PSU\n(d) Motherboard\n\nColumn II:\n(i) Provides electrical power to all components\n(ii) Connects the computer to a network\n(iii) Main circuit board connecting all components\n(iv) Processes graphics and video rendering\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
       "explanation": "GPU (Graphics Processing Unit) handles graphics/video (a-iv). NIC (Network Interface Card) connects to network (b-ii). PSU (Power Supply Unit) provides electricity (c-i). Motherboard is the main PCB connecting everything (d-iii). Option B swaps GPU with NIC. Option C mismatches NIC with PSU. Option D incorrectly pairs GPU with motherboard."
@@ -500,23 +500,23 @@
     {
       "id": "39",
       "subject": "E",
-      "questionText": "Consider the following statements about the IT Act, 2000 of India:\n\n(i) It provides legal recognition to electronic records and digital signatures.\n(ii) It defines cyber crimes and prescribes penalties.\n(iii) It established the Cyber Appellate Tribunal.\n(iv) It applies only to government websites, not private ones.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the IT Act, 2000 of India:\n\n(i) It provides legal recognition to electronic records and digital signatures.\n(ii) It applies only to government websites, not private ones.\n(iii) It defines cyber crimes and prescribes penalties.\n(iv) It established the Cyber Appellate Tribunal.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "IT Act gives legal validity to electronic documents and digital signatures (i correct). It defines cybercrimes like hacking, identity theft, etc. (ii correct). It established the Cyber Appellate Tribunal for dispute resolution (iii correct). Statement (iv) is incorrect — the IT Act applies to ALL electronic transactions and all websites (government AND private), not just government."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "IT Act gives legal validity to electronic documents and digital signatures (i correct). It defines cybercrimes like hacking, identity theft, etc. (ii correct). It established the Cyber Appellate Tribunal for dispute resolution (iii correct). Statement (ii) is incorrect — the IT Act applies to ALL electronic transactions and all websites (government AND private), not just government."
     },
     {
       "id": "40",
       "subject": "E",
       "questionText": "The following data shows the storage capacity and cost of different devices:\n\nHDD 1TB → 1000 GB, 3,000, 3.00\nSSD 500GB → 500 GB, 4,000, 8.00\nUSB 64GB → 64 GB, 500, 7.81\nSD 128GB → 128 GB, 800, 6.25\n\nWhich device offers the lowest cost per gigabyte?",
       "options": [
-        "HDD 1TB",
         "SSD 500GB",
+        "HDD 1TB",
         "USB 64GB",
         "SD 128GB"
       ],
@@ -526,15 +526,15 @@
     {
       "id": "41",
       "subject": "E",
-      "questionText": "Consider the following statements about MS Excel charts:\n\n(i) Pie charts show proportions of a whole.\n(ii) Bar charts compare quantities across categories.\n(iii) Line charts show trends over time.\n(iv) Scatter charts can only display one data point.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about MS Excel charts:\n\n(i) Pie charts show proportions of a whole.\n(ii) Bar charts compare quantities across categories.\n(iii) Scatter charts can only display one data point.\n(iv) Line charts show trends over time.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Pie charts display parts of a whole as slices (i correct). Bar charts compare across categories (ii correct). Line charts display trends/changes over time (iii correct). Statement (iv) is incorrect — scatter charts display MANY data points showing correlation between two variables, not just one point."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Pie charts display parts of a whole as slices (i correct). Bar charts compare across categories (ii correct). Line charts display trends/changes over time (iii correct). Statement (iii) is incorrect — scatter charts display MANY data points showing correlation between two variables, not just one point."
     },
     {
       "id": "42",
@@ -554,8 +554,8 @@
       "subject": "E",
       "questionText": "Which of the following are valid types of computer ports?\n\n(i) USB (Universal Serial Bus)\n(ii) HDMI (High-Definition Multimedia Interface)\n(iii) VGA (Video Graphics Array)\n(iv) HTTP (HyperText Transfer Protocol)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
+        "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
         "All of the above"
       ],
@@ -567,9 +567,9 @@
       "subject": "E",
       "questionText": "Match the following MS Word features with their descriptions:\n\nColumn I:\n(a) Track Changes\n(b) Mail Merge\n(c) Table of Contents\n(d) Watermark\n\nColumn II:\n(i) Faded text/image appearing behind document content\n(ii) Auto-generated list of headings with page numbers\n(iii) Records all edits for review by others\n(iv) Creates personalized documents for multiple recipients\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
@@ -578,15 +578,15 @@
     {
       "id": "45",
       "subject": "E",
-      "questionText": "Consider the following statements about computer viruses:\n\n(i) A virus attaches itself to a host file and activates when the host is executed.\n(ii) Viruses can spread through email attachments, USB drives, and infected downloads.\n(iii) A boot sector virus infects the master boot record of a storage device.\n(iv) Viruses are beneficial programs that improve computer performance.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer viruses:\n\n(i) Viruses are beneficial programs that improve computer performance.\n(ii) A virus attaches itself to a host file and activates when the host is executed.\n(iii) Viruses can spread through email attachments, USB drives, and infected downloads.\n(iv) A boot sector virus infects the master boot record of a storage device.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Viruses need host files and activate on execution (i correct). They spread via email, USB, downloads (ii correct). Boot sector viruses target the MBR (iii correct). Statement (iv) is absolutely incorrect — viruses are HARMFUL malicious programs that damage data, steal information, or disrupt operations. They never improve performance."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Viruses need host files and activate on execution (i correct). They spread via email, USB, downloads (ii correct). Boot sector viruses target the MBR (iii correct). Statement (i) is absolutely incorrect — viruses are HARMFUL malicious programs that damage data, steal information, or disrupt operations. They never improve performance."
     },
     {
       "id": "46",
@@ -606,9 +606,9 @@
       "subject": "E",
       "questionText": "The following data shows internet speeds for different connection types:\n\nDial-up → 56 Kbps, 48 Kbps\nBroadband (DSL) → 8 Mbps, 1 Mbps\nFiber Optic → 100 Mbps, 100 Mbps\n4G Mobile → 20 Mbps, 5 Mbps\n\nWhich connection type provides the highest download speed?",
       "options": [
-        "Fiber Optic",
         "4G Mobile",
         "Broadband (DSL)",
+        "Fiber Optic",
         "Dial-up"
       ],
       "correctAnswer": "Fiber Optic",
@@ -619,10 +619,10 @@
       "subject": "E",
       "questionText": "Fill in the blank: The process of converting an analog signal into a digital signal is called __________.",
       "options": [
-        "Digitization (Analog-to-Digital Conversion)",
         "Modulation",
         "Demodulation",
-        "Amplification"
+        "Amplification",
+        "Digitization (Analog-to-Digital Conversion)"
       ],
       "correctAnswer": "Digitization (Analog-to-Digital Conversion)",
       "explanation": "Digitization/ADC converts continuous analog signals (sound, image) into discrete digital format (0s and 1s). Modulation converts digital to analog for transmission. Demodulation converts analog back to digital at receiving end. Amplification increases signal strength without changing its type."
@@ -632,10 +632,10 @@
       "subject": "E",
       "questionText": "Consider the following statements about the 'Recycle Bin' in Windows:\n\n(i) Files deleted normally go to the Recycle Bin first.\n(ii) Files can be restored from the Recycle Bin to their original location.\n(iii) 'Empty Recycle Bin' permanently deletes all files in it.\n(iv) Files deleted using Shift + Delete bypass the Recycle Bin entirely.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
-        "(i), (iii) and (iv) only"
+        "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "Normal deletion sends files to Recycle Bin (i correct). Files can be restored from there (ii correct). Emptying permanently deletes (iii correct). Shift+Delete skips Recycle Bin — direct permanent deletion (iv correct). All four accurately describe Recycle Bin behavior."
@@ -645,10 +645,10 @@
       "subject": "E",
       "questionText": "The following data shows the market share of operating systems on desktops (approximate 2024):\n\nWindows → 72\nmacOS → 16\nLinux → 4\nChromeOS → 3\nOthers → 5\n\nWhat is the combined market share of non-Windows operating systems?",
       "options": [
-        "28%",
         "20%",
         "32%",
-        "25%"
+        "25%",
+        "28%"
       ],
       "correctAnswer": "28%",
       "explanation": "Non-Windows = 100% - 72% = 28%. Or: macOS(16) + Linux(4) + ChromeOS(3) + Others(5) = 28%. Option 20% undercounts. Option 32% overcounts. Option 25% = only macOS + Linux + ChromeOS without Others."

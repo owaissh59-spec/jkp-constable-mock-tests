@@ -8,8 +8,8 @@
       "subject": "A",
       "questionText": "Choose the correct preposition: She has been suffering __________ fever for three days.",
       "options": [
-        "with",
         "from",
+        "with",
         "by",
         "of"
       ],
@@ -21,8 +21,8 @@
       "subject": "B",
       "questionText": "SAARC was established in which year and in which city?",
       "options": [
-        "1983, New Delhi",
         "1985, Dhaka",
+        "1983, New Delhi",
         "1987, Kathmandu",
         "1990, Colombo"
       ],
@@ -45,15 +45,15 @@
     {
       "id": "4",
       "subject": "E",
-      "questionText": "Consider the following statements about phishing:\n\n(i) Phishing involves sending fraudulent emails to trick users into revealing personal data.\n(ii) Phishing websites often imitate legitimate banking or shopping sites.\n(iii) Phishing attacks can only occur through email.\n(iv) Users should verify website URLs before entering sensitive information.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about phishing:\n\n(i) Phishing attacks can only occur through email.\n(ii) Phishing involves sending fraudulent emails to trick users into revealing personal data.\n(iii) Phishing websites often imitate legitimate banking or shopping sites.\n(iv) Users should verify website URLs before entering sensitive information.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Phishing uses fraudulent emails (i-correct), imitates legitimate sites (ii-correct), and verifying URLs is a protective measure (iv-correct). Statement (iii) is wrong because phishing also occurs via SMS (smishing), phone calls (vishing), and social media — not only email."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Phishing uses fraudulent emails (i-correct), imitates legitimate sites (ii-correct), and verifying URLs is a protective measure (iv-correct). Statement (i) is wrong because phishing also occurs via SMS (smishing), phone calls (vishing), and social media — not only email."
     },
     {
       "id": "5",
@@ -92,16 +92,16 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Relative speed in opposite directions = sum of speeds (A is correct). Because both are closing the gap simultaneously, the closing rate is their combined speeds (R is correct and explains A). Option 2 is wrong because R directly explains the physics behind A; Option 3 is wrong because R is factually correct; Option 4 is wrong because A is also correct."
+      "explanation": "Relative speed in opposite directions = sum of speeds (A is correct). Because both are closing the gap simultaneously, the closing rate is their combined speeds (R is correct and explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains the physics behind A; '(A) is correct but (R) is not correct' is wrong because R is factually correct; '(A) is not correct but (R) is correct' is wrong because A is also correct."
     },
     {
       "id": "8",
       "subject": "B",
       "questionText": "Which of the following are member countries of ASEAN?\n\n(i) Indonesia\n(ii) India\n(iii) Vietnam\n(iv) Philippines\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (iii) and (iv)",
@@ -112,13 +112,13 @@
       "subject": "A",
       "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) To hit the nail on the head\n(b) A bolt from the blue\n(c) To cry over spilt milk\n(d) To make hay while the sun shines\n\nColumn II:\n(i) To regret something that cannot be undone\n(ii) To say exactly the right thing\n(iii) To take advantage of a good opportunity\n(iv) A complete surprise or shock\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-      "explanation": "'Hit the nail on the head' = say exactly right (a-ii); 'a bolt from the blue' = sudden surprise (b-iv); 'cry over spilt milk' = regret the irreversible (c-i); 'make hay while the sun shines' = seize opportunity (d-iii). Option 2 swaps (a) and (b); Option 3 swaps (c) and (d); Option 4 swaps (b) and (c)."
+      "explanation": "'Hit the nail on the head' = say exactly right (a-ii); 'a bolt from the blue' = sudden surprise (b-iv); 'cry over spilt milk' = regret the irreversible (c-i); 'make hay while the sun shines' = seize opportunity (d-iii). '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' swaps (a) and (b); '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' swaps (c) and (d); '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' swaps (b) and (c)."
     },
     {
       "id": "10",
@@ -126,9 +126,9 @@
       "questionText": "The full form of 'HTTPS' is:",
       "options": [
         "HyperText Transfer Protocol System",
-        "HyperText Transfer Protocol Secure",
         "High Transfer Protocol Security",
-        "HyperText Transmission Protocol Secure"
+        "HyperText Transmission Protocol Secure",
+        "HyperText Transfer Protocol Secure"
       ],
       "correctAnswer": "HyperText Transfer Protocol Secure",
       "explanation": "HTTPS stands for HyperText Transfer Protocol Secure — encrypting data between browser and server. 'Protocol System' is wrong — it ends with 'Secure'; 'High Transfer' is wrong — it starts with 'HyperText'; 'Transmission Protocol' is wrong — the correct word is 'Transfer'."
@@ -139,9 +139,9 @@
       "questionText": "A boat travels 48 km downstream in 4 hours and returns upstream in 6 hours. The speed of the stream is:",
       "options": [
         "1 km/h",
-        "2 km/h",
         "3 km/h",
-        "4 km/h"
+        "4 km/h",
+        "2 km/h"
       ],
       "correctAnswer": "2 km/h",
       "explanation": "Downstream speed = 48/4 = 12 km/h. Upstream speed = 48/6 = 8 km/h. Speed of stream = (12−8)/2 = 2 km/h. 1 km/h is wrong (uses wrong formula); 3 km/h is wrong (uses 12−8 = 4 then divides wrong); 4 km/h is wrong (takes difference without dividing by 2)."
@@ -151,10 +151,10 @@
       "subject": "B",
       "questionText": "Consider the following statements about the ASEAN Free Trade Area (AFTA):\n\n(i) It was established to promote trade among ASEAN member nations.\n(ii) AFTA aims to reduce tariff and non-tariff barriers.\n(iii) India is a member of AFTA.\n(iv) AFTA was signed in 1992.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "AFTA promotes trade among ASEAN members (i-correct), reduces tariff barriers (ii-correct), and was signed in 1992 (iv-correct). Statement (iii) is wrong because India is not a member of AFTA — it has a separate ASEAN-India FTA (AIFTA)."
@@ -170,15 +170,15 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Pahalgam is indeed called Valley of Shepherds (A is correct). The name's etymology and the presence of pastoral communities explain this title (R is correct and explains A). Option 2 is wrong because R directly explains the origin of the name; Option 3 is wrong because R is factually correct; Option 4 is wrong because A is also correct."
+      "explanation": "Pahalgam is indeed called Valley of Shepherds (A is correct). The name's etymology and the presence of pastoral communities explain this title (R is correct and explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains the origin of the name; '(A) is correct but (R) is not correct' is wrong because R is factually correct; '(A) is not correct but (R) is correct' is wrong because A is also correct."
     },
     {
       "id": "14",
       "subject": "A",
       "questionText": "Choose the synonym of 'reticent':",
       "options": [
-        "Talkative",
         "Reserved",
+        "Talkative",
         "Aggressive",
         "Generous"
       ],
@@ -196,20 +196,20 @@
         "B, A, D, C"
       ],
       "correctAnswer": "B, D, A, C",
-      "explanation": "For same distance, lower time = higher speed. Speeds: B=200/22=9.09, D=200/24=8.33, A=200/25=8.0, C=200/28=7.14. Decreasing order: B > D > A > C. Option 2 is alphabetical order; Option 3 is increasing speed order; Option 4 incorrectly places A before D."
+      "explanation": "For same distance, lower time = higher speed. Speeds: B=200/22=9.09, D=200/24=8.33, A=200/25=8.0, C=200/28=7.14. Decreasing order: B > D > A > C. 'A, B, C, D' is alphabetical order; 'C, A, D, B' is increasing speed order; 'B, A, D, C' incorrectly places A before D."
     },
     {
       "id": "16",
       "subject": "E",
-      "questionText": "Which of the following are types of malware?\n\n(i) Virus\n(ii) Worm\n(iii) Firewall\n(iv) Trojan Horse\n\nSelect the correct combination:",
+      "questionText": "Which of the following are types of malware?\n\n(i) Virus\n(ii) Worm\n(iii) Trojan Horse\n(iv) Firewall\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Viruses (i-correct), worms (ii-correct), and Trojan horses (iv-correct) are all types of malware. Firewall (iii) is wrong because a firewall is a security tool that PROTECTS against malware — it is not malware itself."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Viruses (i-correct), worms (ii-correct), and Trojan horses (iv-correct) are all types of malware. Firewall (iv) is wrong because a firewall is a security tool that PROTECTS against malware — it is not malware itself."
     },
     {
       "id": "17",
@@ -240,15 +240,15 @@
     {
       "id": "19",
       "subject": "D",
-      "questionText": "Consider the following statements about average speed:\n\n(i) Average speed = Total distance / Total time.\n(ii) For a round trip with equal distances at speeds 40 km/h and 60 km/h, average speed = 48 km/h.\n(iii) Average speed is always the arithmetic mean of all speeds.\n(iv) For equal distances, average speed = 2ab/(a+b).\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about average speed:\n\n(i) Average speed is always the arithmetic mean of all speeds.\n(ii) Average speed = Total distance / Total time.\n(iii) For a round trip with equal distances at speeds 40 km/h and 60 km/h, average speed = 48 km/h.\n(iv) For equal distances, average speed = 2ab/(a+b).\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Average speed = total distance/total time (i-correct); for equal distances at 40 and 60: 2×40×60/100 = 48 km/h (ii-correct); formula for equal distances is 2ab/(a+b) (iv-correct). Statement (iii) is wrong because average speed is the arithmetic mean only when TIME intervals are equal, not always."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Average speed = total distance/total time (i-correct); for equal distances at 40 and 60: 2×40×60/100 = 48 km/h (ii-correct); formula for equal distances is 2ab/(a+b) (iv-correct). Statement (i) is wrong because average speed is the arithmetic mean only when TIME intervals are equal, not always."
     },
     {
       "id": "20",
@@ -256,8 +256,8 @@
       "questionText": "The Vaishno Devi shrine is located in which district of J&K?",
       "options": [
         "Jammu",
-        "Reasi",
         "Udhampur",
+        "Reasi",
         "Kathua"
       ],
       "correctAnswer": "Reasi",
@@ -268,9 +268,9 @@
       "subject": "A",
       "questionText": "Choose the antonym of 'ephemeral':",
       "options": [
-        "Permanent",
         "Brief",
         "Temporary",
+        "Permanent",
         "Fragile"
       ],
       "correctAnswer": "Permanent",
@@ -287,30 +287,30 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Strong passwords should mix character types (A is correct). This complexity exponentially increases possible combinations, making brute-force cracking impractical (R is correct and explains A). Option 2 is wrong because R directly explains why A is important; Option 3 is wrong because R is technically accurate; Option 4 is wrong because A is also correct."
+      "explanation": "Strong passwords should mix character types (A is correct). This complexity exponentially increases possible combinations, making brute-force cracking impractical (R is correct and explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains why A is important; '(A) is correct but (R) is not correct' is wrong because R is technically accurate; '(A) is not correct but (R) is correct' is wrong because A is also correct."
     },
     {
       "id": "23",
       "subject": "B",
       "questionText": "Match the following international organizations with their founding years:\n\nColumn I:\n(a) SAARC\n(b) ASEAN\n(c) United Nations\n(d) European Union\n\nColumn II:\n(i) 1945\n(ii) 1967\n(iii) 1985\n(iv) 1993\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
-      "explanation": "SAARC was founded in 1985 (a-iii); ASEAN in 1967 (b-ii); UN in 1945 (c-i); EU (Maastricht Treaty) in 1993 (d-iv). Option 2 swaps SAARC and ASEAN years; Option 3 swaps UN and EU; Option 4 assigns EU year to SAARC."
+      "explanation": "SAARC was founded in 1985 (a-iii); ASEAN in 1967 (b-ii); UN in 1945 (c-i); EU (Maastricht Treaty) in 1993 (d-iv). '(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)' swaps SAARC and ASEAN years; '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' swaps UN and EU; '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' assigns EU year to SAARC."
     },
     {
       "id": "24",
       "subject": "D",
       "questionText": "A car travels the first half of a journey at 30 km/h and the second half at 50 km/h. The average speed for the entire journey is:",
       "options": [
-        "37.5 km/h",
         "38.5 km/h",
         "40.0 km/h",
-        "42.5 km/h"
+        "42.5 km/h",
+        "37.5 km/h"
       ],
       "correctAnswer": "37.5 km/h",
       "explanation": "For equal distances: Average speed = 2×30×50/(30+50) = 3000/80 = 37.5 km/h. 38.5 km/h is wrong (calculation error); 40.0 km/h is wrong (arithmetic mean of 30 and 50); 42.5 km/h is wrong (incorrect formula)."
@@ -318,24 +318,24 @@
     {
       "id": "25",
       "subject": "A",
-      "questionText": "Consider the following statements about the homophone pair 'stationary' and 'stationery':\n\n(i) 'Stationary' means not moving or fixed in position.\n(ii) 'Stationery' refers to writing materials like paper and pens.\n(iii) Both words have the same spelling.\n(iv) 'Stationary' is an adjective while 'stationery' is a noun.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the homophone pair 'stationary' and 'stationery':\n\n(i) 'Stationary' means not moving or fixed in position.\n(ii) Both words have the same spelling.\n(iii) 'Stationery' refers to writing materials like paper and pens.\n(iv) 'Stationary' is an adjective while 'stationery' is a noun.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'Stationary' means immobile (i-correct); 'stationery' means writing supplies (ii-correct); 'stationary' is an adjective and 'stationery' is a noun (iv-correct). Statement (iii) is wrong because they have DIFFERENT spellings — 'stationary' ends in '-ary' and 'stationery' ends in '-ery'."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'Stationary' means immobile (i-correct); 'stationery' means writing supplies (ii-correct); 'stationary' is an adjective and 'stationery' is a noun (iv-correct). Statement (ii) is wrong because they have DIFFERENT spellings — 'stationary' ends in '-ary' and 'stationery' ends in '-ery'."
     },
     {
       "id": "26",
       "subject": "D",
       "questionText": "Fill in the blank: If a man walks at 6 km/h, he reaches his destination 20 minutes early. If he walks at 4 km/h, he reaches 10 minutes late. The distance to the destination is __________ km.",
       "options": [
+        "6 km",
         "4 km",
         "5 km",
-        "6 km",
         "8 km"
       ],
       "correctAnswer": "6 km",
@@ -346,8 +346,8 @@
       "subject": "B",
       "questionText": "The South Asian Free Trade Area (SAFTA) came into effect in which year?",
       "options": [
-        "2004",
         "2006",
+        "2004",
         "2008",
         "2010"
       ],
@@ -370,23 +370,23 @@
     {
       "id": "29",
       "subject": "E",
-      "questionText": "Consider the following statements about data backup:\n\n(i) A backup creates a copy of important data for recovery in case of loss.\n(ii) Cloud storage is one method of backup.\n(iii) Backups protect against ransomware attacks by providing clean copies.\n(iv) Data backup is unnecessary if antivirus software is installed.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about data backup:\n\n(i) A backup creates a copy of important data for recovery in case of loss.\n(ii) Cloud storage is one method of backup.\n(iii) Data backup is unnecessary if antivirus software is installed.\n(iv) Backups protect against ransomware attacks by providing clean copies.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Backups create recovery copies (i-correct), cloud is a backup method (ii-correct), and backups protect against ransomware (iii-correct). Statement (iv) is wrong because antivirus can't prevent all threats — backups are still essential as a last line of defense against data loss."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Backups create recovery copies (i-correct), cloud is a backup method (ii-correct), and backups protect against ransomware (iii-correct). Statement (iii) is wrong because antivirus can't prevent all threats — backups are still essential as a last line of defense against data loss."
     },
     {
       "id": "30",
       "subject": "C",
       "questionText": "Which of the following are Mughal Gardens located in Srinagar?\n\n(i) Shalimar Bagh\n(ii) Nishat Bagh\n(iii) Chasma Shahi\n(iv) Indira Gandhi Tulip Garden\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
@@ -404,7 +404,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "'That he won the race' is a noun clause (A is correct). It functions as the subject (R is correct and this grammatical function is what makes it a noun clause). Option 2 is wrong because R explains exactly why it's a noun clause; Option 3 is wrong because R is correct; Option 4 is wrong because A is also correct."
+      "explanation": "'That he won the race' is a noun clause (A is correct). It functions as the subject (R is correct and this grammatical function is what makes it a noun clause). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R explains exactly why it's a noun clause; '(A) is correct but (R) is not correct' is wrong because R is correct; '(A) is not correct but (R) is correct' is wrong because A is also correct."
     },
     {
       "id": "32",
@@ -438,25 +438,25 @@
       "questionText": "Choose the correct sentence using the past perfect tense:",
       "options": [
         "She has finished her work before the guests arrived.",
-        "She had finished her work before the guests arrived.",
         "She finished her work before the guests had arrived.",
+        "She had finished her work before the guests arrived.",
         "She was finishing her work before the guests arrived."
       ],
       "correctAnswer": "She had finished her work before the guests arrived.",
-      "explanation": "Past perfect ('had finished') is used for an action completed BEFORE another past action ('arrived'). Option 1 is wrong — 'has finished' is present perfect; Option 3 is wrong — the past perfect should be on the earlier action; Option 4 is wrong — 'was finishing' is past continuous, implying ongoing action."
+      "explanation": "Past perfect ('had finished') is used for an action completed BEFORE another past action ('arrived'). 'She has finished her work before the guests arrived.' is wrong — 'has finished' is present perfect; 'She finished her work before the guests had arrived.' is wrong — the past perfect should be on the earlier action; 'She was finishing her work before the guests arrived.' is wrong — 'was finishing' is past continuous, implying ongoing action."
     },
     {
       "id": "35",
       "subject": "E",
       "questionText": "Match the following cyber security terms with their definitions:\n\nColumn I:\n(a) Firewall\n(b) Encryption\n(c) Keylogger\n(d) Two-factor authentication\n\nColumn II:\n(i) Records every keystroke to capture passwords\n(ii) Requires two forms of verification for login\n(iii) Monitors and filters network traffic\n(iv) Converts data into unreadable coded format\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-      "explanation": "Firewall monitors/filters traffic (a-iii); encryption converts data to unreadable form (b-iv); keylogger records keystrokes (c-i); 2FA requires two verification forms (d-ii). Option 2 swaps firewall and encryption; Option 3 swaps keylogger and 2FA; Option 4 swaps encryption and keylogger."
+      "explanation": "Firewall monitors/filters traffic (a-iii); encryption converts data to unreadable form (b-iv); keylogger records keystrokes (c-i); 2FA requires two verification forms (d-ii). '(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)' swaps firewall and encryption; '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' swaps keylogger and 2FA; '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' swaps encryption and keylogger."
     },
     {
       "id": "36",
@@ -464,9 +464,9 @@
       "questionText": "A man walking at 5 km/h covers a certain distance in 6 hours. How long will it take him to cover the same distance by cycling at 15 km/h?",
       "options": [
         "1.5 hours",
-        "2 hours",
         "2.5 hours",
-        "3 hours"
+        "3 hours",
+        "2 hours"
       ],
       "correctAnswer": "2 hours",
       "explanation": "Distance = 5 × 6 = 30 km. Time by cycling = 30/15 = 2 hours. 1.5 hours is wrong (uses 20 km/h); 2.5 hours is wrong (uses 12 km/h); 3 hours is wrong (uses 10 km/h)."
@@ -474,15 +474,15 @@
     {
       "id": "37",
       "subject": "B",
-      "questionText": "Consider the following statements about BIMSTEC:\n\n(i) It stands for Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation.\n(ii) Its secretariat is located in Dhaka, Bangladesh.\n(iii) India, Bangladesh, Sri Lanka, Thailand, and Myanmar are members.\n(iv) It was established to replace SAARC.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about BIMSTEC:\n\n(i) It was established to replace SAARC.\n(ii) It stands for Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation.\n(iii) Its secretariat is located in Dhaka, Bangladesh.\n(iv) India, Bangladesh, Sri Lanka, Thailand, and Myanmar are members.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "BIMSTEC's full form is correct (i-correct), secretariat is in Dhaka (ii-correct), and the countries listed are all members (iii-correct). Statement (iv) is wrong because BIMSTEC was not established to replace SAARC — it is a separate organization focusing on Bay of Bengal countries."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "BIMSTEC's full form is correct (i-correct), secretariat is in Dhaka (ii-correct), and the countries listed are all members (iii-correct). Statement (i) is wrong because BIMSTEC was not established to replace SAARC — it is a separate organization focusing on Bay of Bengal countries."
     },
     {
       "id": "38",
@@ -508,7 +508,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "A 200 m train crossing a 300 m platform at 25 m/s (500/20) takes 20 s (A is correct, given a speed of 90 km/h). The total distance is 200+300=500 m (R is correct and explains why crossing takes the time stated). Option 2 is wrong because R directly explains the calculation; Option 3 is wrong because R is factually correct; Option 4 is wrong because A can be correct at appropriate speed."
+      "explanation": "A 200 m train crossing a 300 m platform at 25 m/s (500/20) takes 20 s (A is correct, given a speed of 90 km/h). The total distance is 200+300=500 m (R is correct and explains why crossing takes the time stated). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains the calculation; '(A) is correct but (R) is not correct' is wrong because R is factually correct; '(A) is not correct but (R) is correct' is wrong because A can be correct at appropriate speed."
     },
     {
       "id": "40",
@@ -528,8 +528,8 @@
       "subject": "A",
       "questionText": "Choose the correct article: My neighbour is __________ European who has lived here for ten years.",
       "options": [
-        "a",
         "an",
+        "a",
         "the",
         "no article"
       ],
@@ -555,8 +555,8 @@
       "questionText": "The following data shows the journey of a bus on different road segments:\n\n1 → 60, 40\n2 → 90, 60\n3 → 50, 50\n\nWhat is the average speed for the entire journey?",
       "options": [
         "48 km/h",
-        "49 km/h",
         "50 km/h",
+        "49 km/h",
         "51 km/h"
       ],
       "correctAnswer": "50 km/h",
@@ -586,20 +586,20 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "India co-founded SAARC and is not an ASEAN member (A is correct). The geographical basis — SAARC is South Asian, ASEAN Southeast Asian — explains India's membership pattern (R is correct and explains A). Option 2 is wrong because R directly explains A; Option 3 is wrong because R is factually correct; Option 4 is wrong because A is also correct."
+      "explanation": "India co-founded SAARC and is not an ASEAN member (A is correct). The geographical basis — SAARC is South Asian, ASEAN Southeast Asian — explains India's membership pattern (R is correct and explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains A; '(A) is correct but (R) is not correct' is wrong because R is factually correct; '(A) is not correct but (R) is correct' is wrong because A is also correct."
     },
     {
       "id": "46",
       "subject": "C",
       "questionText": "Match the following J&K tourist destinations with their famous features:\n\nColumn I:\n(a) Dal Lake\n(b) Gulmarg\n(c) Sonamarg\n(d) Patnitop\n\nColumn II:\n(i) Hill station on Jammu-Srinagar highway\n(ii) Gateway to Ladakh via Zoji La\n(iii) Houseboats and shikaras\n(iv) Skiing and Gondola cable car\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-      "explanation": "Dal Lake is famous for houseboats/shikaras (a-iii); Gulmarg for skiing/gondola (b-iv); Sonamarg is gateway to Ladakh via Zoji La (c-ii); Patnitop is a hill station on NH-44 (d-i). Option 2 swaps Dal Lake and Gulmarg; Option 3 swaps Sonamarg and Patnitop; Option 4 swaps Gulmarg and Sonamarg."
+      "explanation": "Dal Lake is famous for houseboats/shikaras (a-iii); Gulmarg for skiing/gondola (b-iv); Sonamarg is gateway to Ladakh via Zoji La (c-ii); Patnitop is a hill station on NH-44 (d-i). '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' swaps Dal Lake and Gulmarg; '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' swaps Sonamarg and Patnitop; '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' swaps Gulmarg and Sonamarg."
     },
     {
       "id": "47",
@@ -617,15 +617,15 @@
     {
       "id": "48",
       "subject": "D",
-      "questionText": "Which of the following are correct about converting units of speed?\n\n(i) 1 km/h = 5/18 m/s\n(ii) 1 m/s = 18/5 km/h\n(iii) 54 km/h = 15 m/s\n(iv) 20 m/s = 54 km/h\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correct about converting units of speed?\n\n(i) 1 km/h = 5/18 m/s\n(ii) 1 m/s = 18/5 km/h\n(iii) 20 m/s = 54 km/h\n(iv) 54 km/h = 15 m/s\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "1 km/h = 5/18 m/s (i-correct); 1 m/s = 18/5 km/h (ii-correct); 54 × 5/18 = 15 m/s (iii-correct). Statement (iv) is wrong because 20 × 18/5 = 72 km/h, not 54 km/h."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "1 km/h = 5/18 m/s (i-correct); 1 m/s = 18/5 km/h (ii-correct); 54 × 5/18 = 15 m/s (iii-correct). Statement (iii) is wrong because 20 × 18/5 = 72 km/h, not 54 km/h."
     },
     {
       "id": "49",
@@ -633,9 +633,9 @@
       "questionText": "The purpose of a CAPTCHA on websites is to:",
       "options": [
         "Encrypt user data during transmission",
-        "Verify that the user is a human and not an automated bot",
         "Speed up the website loading process",
-        "Block all advertisements on the page"
+        "Block all advertisements on the page",
+        "Verify that the user is a human and not an automated bot"
       ],
       "correctAnswer": "Verify that the user is a human and not an automated bot",
       "explanation": "CAPTCHA distinguishes humans from bots to prevent automated spam/abuse. 'Encrypt data' is wrong — that's SSL/TLS; 'speed up loading' is wrong — CAPTCHA adds a step; 'block ads' is wrong — that's an ad blocker function."
@@ -646,9 +646,9 @@
       "questionText": "The ASEAN-India Free Trade Agreement (AIFTA) on trade in goods came into effect in which year?",
       "options": [
         "2008",
-        "2010",
         "2012",
-        "2014"
+        "2014",
+        "2010"
       ],
       "correctAnswer": "2010",
       "explanation": "AIFTA (Trade in Goods) came into effect on 1 January 2010. 2008 is wrong — that was the framework signing; 2012 is wrong — services and investment agreements came later; 2014 is wrong — unrelated to AIFTA implementation."

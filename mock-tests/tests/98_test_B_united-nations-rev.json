@@ -19,15 +19,15 @@
     {
       "id": "2",
       "subject": "B",
-      "questionText": "Consider the following statements about the UN Security Council:\n\n(i) It has 15 members — 5 permanent and 10 non-permanent.\n(ii) Non-permanent members are elected for a term of 2 years.\n(iii) Each permanent member has veto power.\n(iv) India is a permanent member of the Security Council.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the UN Security Council:\n\n(i) It has 15 members — 5 permanent and 10 non-permanent.\n(ii) India is a permanent member of the Security Council.\n(iii) Non-permanent members are elected for a term of 2 years.\n(iv) Each permanent member has veto power.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The UNSC has 5 permanent + 10 non-permanent = 15 members (i correct). Non-permanent members serve 2-year terms (ii correct). The P5 (US, UK, France, Russia, China) each have veto power (iii correct). Statement (iv) is incorrect — India is NOT a permanent member; it has been a non-permanent member several times and aspires for permanent membership."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The UNSC has 5 permanent + 10 non-permanent = 15 members (i correct). Non-permanent members serve 2-year terms (ii correct). The P5 (US, UK, France, Russia, China) each have veto power (iii correct). Statement (ii) is incorrect — India is NOT a permanent member; it has been a non-permanent member several times and aspires for permanent membership."
     },
     {
       "id": "3",
@@ -47,8 +47,8 @@
       "subject": "B",
       "questionText": "Match the following UN organs with their primary functions:\n\nColumn I:\n(a) General Assembly\n(b) Security Council\n(c) International Court of Justice\n(d) Economic and Social Council\n\nColumn II:\n(i) Maintenance of international peace and security\n(ii) Settlement of legal disputes between states\n(iii) Deliberation on international issues by all members\n(iv) Coordination of economic and social work of UN agencies\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
@@ -58,24 +58,24 @@
     {
       "id": "5",
       "subject": "B",
-      "questionText": "Which of the following countries are permanent members of the UN Security Council?\n\n(i) United States\n(ii) Germany\n(iii) France\n(iv) China\n\nSelect the correct combination:",
+      "questionText": "Which of the following countries are permanent members of the UN Security Council?\n\n(i) United States\n(ii) France\n(iii) Germany\n(iv) China\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv) only",
         "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
+        "(i), (iii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (iii) and (iv) only",
-      "explanation": "The five permanent members (P5) are: United States (i correct), United Kingdom, France (iii correct), Russia, and China (iv correct). Germany (ii) is NOT a permanent member — it is one of the countries seeking permanent membership but does not currently hold it. Options B, C, and D incorrectly include Germany."
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "The five permanent members (P5) are: United States (i correct), United Kingdom, France (iii correct), Russia, and China (iv correct). Germany (iii) is NOT a permanent member — it is one of the countries seeking permanent membership but does not currently hold it. Options B, C, and D incorrectly include Germany."
     },
     {
       "id": "6",
       "subject": "B",
       "questionText": "The headquarters of the United Nations is located in:",
       "options": [
-        "New York, USA",
         "Geneva, Switzerland",
         "Vienna, Austria",
+        "New York, USA",
         "The Hague, Netherlands"
       ],
       "correctAnswer": "New York, USA",
@@ -86,9 +86,9 @@
       "subject": "B",
       "questionText": "Consider the following statements about the International Court of Justice (ICJ):\n\n(i) It is the principal judicial organ of the United Nations.\n(ii) It is located at The Hague, Netherlands.\n(iii) It has 15 judges elected for 9-year terms.\n(iv) Its decisions are binding only if both parties agree to submit to its jurisdiction.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
@@ -112,10 +112,10 @@
       "subject": "B",
       "questionText": "The UN agency responsible for international civil aviation safety and regulations is:",
       "options": [
-        "ICAO",
         "IATA",
         "FAA",
-        "UNESCO"
+        "UNESCO",
+        "ICAO"
       ],
       "correctAnswer": "ICAO",
       "explanation": "ICAO (International Civil Aviation Organization) is the UN specialized agency for international aviation standards and regulations, headquartered in Montreal. IATA is an industry trade association (not a UN body). FAA is the US domestic aviation regulator. UNESCO deals with education, science, and culture — not aviation."
@@ -125,10 +125,10 @@
       "subject": "B",
       "questionText": "Match the following UN agencies with their headquarters:\n\nColumn I:\n(a) WHO\n(b) UNESCO\n(c) UNICEF\n(d) FAO\n\nColumn II:\n(i) New York\n(ii) Paris\n(iii) Geneva\n(iv) Rome\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
       "explanation": "WHO headquarters is in Geneva, Switzerland (a-iii). UNESCO is headquartered in Paris, France (b-ii). UNICEF is headquartered in New York, USA (c-i). FAO is headquartered in Rome, Italy (d-iv). Option B swaps WHO with UNESCO. Option C mismatches UNESCO with FAO. Option D incorrectly places WHO in New York."
@@ -136,15 +136,15 @@
     {
       "id": "11",
       "subject": "B",
-      "questionText": "Consider the following statements about UNICEF:\n\n(i) It stands for United Nations International Children's Emergency Fund.\n(ii) It was created in 1946 to provide emergency food and healthcare to children in post-war countries.\n(iii) It was awarded the Nobel Peace Prize in 1965.\n(iv) It works exclusively in African countries.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about UNICEF:\n\n(i) It works exclusively in African countries.\n(ii) It stands for United Nations International Children's Emergency Fund.\n(iii) It was created in 1946 to provide emergency food and healthcare to children in post-war countries.\n(iv) It was awarded the Nobel Peace Prize in 1965.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "All of the above"
+        "(i), (iii) and (iv)",
+        "All of the above",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "UNICEF originally stood for United Nations International Children's Emergency Fund (i correct). It was created in 1946 for post-war child welfare (ii correct). It received the Nobel Peace Prize in 1965 (iii correct). Statement (iv) is incorrect — UNICEF operates in over 190 countries worldwide, not exclusively in Africa."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "UNICEF originally stood for United Nations International Children's Emergency Fund (i correct). It was created in 1946 for post-war child welfare (ii correct). It received the Nobel Peace Prize in 1965 (iii correct). Statement (i) is incorrect — UNICEF operates in over 190 countries worldwide, not exclusively in Africa."
     },
     {
       "id": "12",
@@ -162,15 +162,15 @@
     {
       "id": "13",
       "subject": "B",
-      "questionText": "Which of the following are principal organs of the United Nations?\n\n(i) General Assembly\n(ii) Security Council\n(iii) World Health Organization\n(iv) Trusteeship Council\n\nSelect the correct combination:",
+      "questionText": "Which of the following are principal organs of the United Nations?\n\n(i) General Assembly\n(ii) World Health Organization\n(iii) Security Council\n(iv) Trusteeship Council\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "The six principal organs of the UN are: General Assembly (i correct), Security Council (ii correct), Economic and Social Council, Trusteeship Council (iv correct — though now inactive), International Court of Justice, and Secretariat. WHO (iii) is a SPECIALIZED AGENCY, not a principal organ. Options B, C, and D incorrectly include WHO as a principal organ."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "The six principal organs of the UN are: General Assembly (i correct), Security Council (ii correct), Economic and Social Council, Trusteeship Council (iv correct — though now inactive), International Court of Justice, and Secretariat. WHO (ii) is a SPECIALIZED AGENCY, not a principal organ. Options B, C, and D incorrectly include WHO as a principal organ."
     },
     {
       "id": "14",
@@ -190,8 +190,8 @@
       "subject": "B",
       "questionText": "The Universal Declaration of Human Rights was adopted by the UN General Assembly in which year?",
       "options": [
-        "1948",
         "1945",
+        "1948",
         "1950",
         "1966"
       ],
@@ -201,24 +201,24 @@
     {
       "id": "16",
       "subject": "B",
-      "questionText": "Consider the following statements about the World Health Organization (WHO):\n\n(i) It is a specialized agency of the United Nations.\n(ii) Its headquarters is in Geneva, Switzerland.\n(iii) It was established in 1948.\n(iv) Its primary role is to regulate international trade.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the World Health Organization (WHO):\n\n(i) It is a specialized agency of the United Nations.\n(ii) Its headquarters is in Geneva, Switzerland.\n(iii) Its primary role is to regulate international trade.\n(iv) It was established in 1948.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "WHO is a UN specialized agency (i correct). Its HQ is in Geneva (ii correct). It was established on 7 April 1948 (iii correct). Statement (iv) is incorrect — WHO's role is international public health, NOT trade regulation. Trade regulation is the domain of the WTO."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "WHO is a UN specialized agency (i correct). Its HQ is in Geneva (ii correct). It was established on 7 April 1948 (iii correct). Statement (iii) is incorrect — WHO's role is international public health, NOT trade regulation. Trade regulation is the domain of the WTO."
     },
     {
       "id": "17",
       "subject": "B",
       "questionText": "Match the following UN programmes/agencies with their areas of work:\n\nColumn I:\n(a) UNDP\n(b) UNHCR\n(c) WFP\n(d) ILO\n\nColumn II:\n(i) Labour rights and employment\n(ii) Development and poverty reduction\n(iii) Food assistance in emergencies\n(iv) Protection of refugees\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
@@ -229,9 +229,9 @@
       "subject": "B",
       "questionText": "The United Nations Charter was signed at which conference?",
       "options": [
-        "San Francisco Conference, 1945",
         "Yalta Conference, 1945",
         "Bretton Woods Conference, 1944",
+        "San Francisco Conference, 1945",
         "Dumbarton Oaks Conference, 1944"
       ],
       "correctAnswer": "San Francisco Conference, 1945",
@@ -242,10 +242,10 @@
       "subject": "B",
       "questionText": "Fill in the blank: The UN Security Council requires a minimum of __________ affirmative votes out of 15 for a substantive resolution to pass, including no veto from any permanent member.",
       "options": [
-        "9",
         "10",
         "8",
-        "7"
+        "7",
+        "9"
       ],
       "correctAnswer": "9",
       "explanation": "A substantive UNSC resolution requires at least 9 affirmative votes (out of 15) and no negative vote (veto) from any of the 5 permanent members. 10 is too high. 8 is below the required threshold. 7 is a simple majority but not sufficient for the UNSC."
@@ -255,10 +255,10 @@
       "subject": "B",
       "questionText": "Consider the following statements about UNESCO:\n\n(i) It stands for United Nations Educational, Scientific and Cultural Organization.\n(ii) Its headquarters is in Paris, France.\n(iii) It designates World Heritage Sites.\n(iv) It was established in 1970.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "UNESCO stands for United Nations Educational, Scientific and Cultural Organization (i correct). Its HQ is in Paris (ii correct). It designates UNESCO World Heritage Sites (iii correct). Statement (iv) is incorrect — UNESCO was established in 1945 (constitution signed) and came into force in November 1946, NOT 1970."
@@ -279,15 +279,15 @@
     {
       "id": "22",
       "subject": "B",
-      "questionText": "Which of the following are specialized agencies of the United Nations?\n\n(i) International Monetary Fund (IMF)\n(ii) World Bank\n(iii) World Trade Organization (WTO)\n(iv) International Labour Organization (ILO)\n\nSelect the correct combination:",
+      "questionText": "Which of the following are specialized agencies of the United Nations?\n\n(i) World Trade Organization (WTO)\n(ii) International Monetary Fund (IMF)\n(iii) World Bank\n(iv) International Labour Organization (ILO)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
-        "(i), (iii) and (iv) only",
-        "All of the above"
+        "(i), (ii) and (iv) only",
+        "All of the above",
+        "(ii), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "IMF (i), World Bank (ii), and ILO (iv) are UN specialized agencies linked through formal agreements. WTO (iii) is NOT a UN specialized agency — it is an independent intergovernmental organization. While WTO cooperates with the UN system, it has no formal specialized agency relationship. Options B and D incorrectly include WTO."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "IMF (ii), World Bank (iii), and ILO (iv) are UN specialized agencies linked through formal agreements. WTO (i) is NOT a UN specialized agency — it is an independent intergovernmental organization. While WTO cooperates with the UN system, it has no formal specialized agency relationship. Options B and D incorrectly include WTO."
     },
     {
       "id": "23",
@@ -307,8 +307,8 @@
       "subject": "B",
       "questionText": "Match the following UN Secretaries-General with their countries of origin:\n\nColumn I:\n(a) Kofi Annan\n(b) Ban Ki-moon\n(c) António Guterres\n(d) Boutros Boutros-Ghali\n\nColumn II:\n(i) South Korea\n(ii) Portugal\n(iii) Ghana\n(iv) Egypt\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
@@ -318,24 +318,24 @@
     {
       "id": "25",
       "subject": "B",
-      "questionText": "Consider the following statements about the UN General Assembly:\n\n(i) It meets in regular annual sessions beginning in September.\n(ii) Decisions on important questions require a two-thirds majority.\n(iii) It can override the Security Council's veto.\n(iv) It elects non-permanent members of the Security Council.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the UN General Assembly:\n\n(i) It meets in regular annual sessions beginning in September.\n(ii) It can override the Security Council's veto.\n(iii) Decisions on important questions require a two-thirds majority.\n(iv) It elects non-permanent members of the Security Council.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "The GA meets annually starting in September (i correct). Important decisions need two-thirds majority (ii correct). It elects the 10 non-permanent UNSC members (iv correct). Statement (iii) is incorrect — the GA CANNOT override the Security Council's veto; the veto is absolute on substantive matters (though the 'Uniting for Peace' resolution allows the GA to make recommendations when the SC is deadlocked)."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The GA meets annually starting in September (i correct). Important decisions need two-thirds majority (ii correct). It elects the 10 non-permanent UNSC members (iv correct). Statement (ii) is incorrect — the GA CANNOT override the Security Council's veto; the veto is absolute on substantive matters (though the 'Uniting for Peace' resolution allows the GA to make recommendations when the SC is deadlocked)."
     },
     {
       "id": "26",
       "subject": "B",
       "questionText": "The International Atomic Energy Agency (IAEA) is headquartered in:",
       "options": [
-        "Vienna, Austria",
         "Geneva, Switzerland",
         "New York, USA",
+        "Vienna, Austria",
         "Brussels, Belgium"
       ],
       "correctAnswer": "Vienna, Austria",
@@ -357,24 +357,24 @@
     {
       "id": "28",
       "subject": "B",
-      "questionText": "Which of the following correctly describes the 'veto power' in the UN Security Council?\n\n(i) Only the 5 permanent members possess veto power.\n(ii) A single veto can block any substantive resolution.\n(iii) The veto cannot be used on procedural matters.\n(iv) The veto power has never been used since 1945.\n\nSelect the correct combination:",
+      "questionText": "Which of the following correctly describes the 'veto power' in the UN Security Council?\n\n(i) Only the 5 permanent members possess veto power.\n(ii) A single veto can block any substantive resolution.\n(iii) The veto power has never been used since 1945.\n(iv) The veto cannot be used on procedural matters.\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii) only",
-        "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Only P5 members have veto power (i correct). One veto blocks a resolution (ii correct). Veto applies only to substantive matters, not procedural ones (iii correct). Statement (iv) is INCORRECT — the veto has been used hundreds of times since 1945 by various permanent members, particularly during the Cold War."
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Only P5 members have veto power (i correct). One veto blocks a resolution (ii correct). Veto applies only to substantive matters, not procedural ones (iii correct). Statement (iii) is INCORRECT — the veto has been used hundreds of times since 1945 by various permanent members, particularly during the Cold War."
     },
     {
       "id": "29",
       "subject": "B",
       "questionText": "The World Food Programme (WFP), which won the Nobel Peace Prize in 2020, is headquartered in:",
       "options": [
-        "Rome, Italy",
         "Geneva, Switzerland",
         "New York, USA",
+        "Rome, Italy",
         "Nairobi, Kenya"
       ],
       "correctAnswer": "Rome, Italy",
@@ -383,25 +383,25 @@
     {
       "id": "30",
       "subject": "B",
-      "questionText": "Consider the following statements about the Economic and Social Council (ECOSOC):\n\n(i) It has 54 members elected for 3-year terms.\n(ii) It coordinates the work of UN specialized agencies.\n(iii) It can make binding decisions on member states.\n(iv) It promotes international economic and social cooperation.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Economic and Social Council (ECOSOC):\n\n(i) It has 54 members elected for 3-year terms.\n(ii) It coordinates the work of UN specialized agencies.\n(iii) It promotes international economic and social cooperation.\n(iv) It can make binding decisions on member states.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "ECOSOC has 54 members with 3-year terms (i correct). It coordinates UN specialized agencies (ii correct). It promotes economic and social cooperation (iv correct). Statement (iii) is incorrect — ECOSOC can only make RECOMMENDATIONS, not binding decisions. Only the Security Council can make binding decisions under Chapter VII."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "ECOSOC has 54 members with 3-year terms (i correct). It coordinates UN specialized agencies (ii correct). It promotes economic and social cooperation (iv correct). Statement (iv) is incorrect — ECOSOC can only make RECOMMENDATIONS, not binding decisions. Only the Security Council can make binding decisions under Chapter VII."
     },
     {
       "id": "31",
       "subject": "B",
       "questionText": "Fill in the blank: The United Nations Development Programme (UNDP) publishes the annual __________ which ranks countries by life expectancy, education, and per capita income.",
       "options": [
-        "Human Development Report",
         "World Development Report",
         "Global Competitiveness Report",
-        "World Happiness Report"
+        "World Happiness Report",
+        "Human Development Report"
       ],
       "correctAnswer": "Human Development Report",
       "explanation": "UNDP publishes the Human Development Report containing the Human Development Index (HDI) which measures life expectancy, education, and income. The World Development Report is by the World Bank. The Global Competitiveness Report is by the World Economic Forum. The World Happiness Report is supported by the UN but not published by UNDP specifically."
@@ -424,8 +424,8 @@
       "subject": "B",
       "questionText": "The UN peacekeeping forces are popularly known as:",
       "options": [
-        "Blue Helmets",
         "Green Berets",
+        "Blue Helmets",
         "Red Cross",
         "White Helmets"
       ],
@@ -435,24 +435,24 @@
     {
       "id": "34",
       "subject": "B",
-      "questionText": "Consider the following statements about India and the United Nations:\n\n(i) India was a founding member of the United Nations in 1945.\n(ii) India has contributed the largest number of troops to UN peacekeeping operations.\n(iii) India is a permanent member of the Security Council.\n(iv) India has been elected to the UNSC as a non-permanent member 8 times.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about India and the United Nations:\n\n(i) India is a permanent member of the Security Council.\n(ii) India was a founding member of the United Nations in 1945.\n(iii) India has contributed the largest number of troops to UN peacekeeping operations.\n(iv) India has been elected to the UNSC as a non-permanent member 8 times.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "India was a founding UN member (i correct). India is among the largest contributors to UN peacekeeping (ii correct). India has served on the UNSC 8 times as a non-permanent member (iv correct). Statement (iii) is incorrect — India is NOT a permanent member of the Security Council; it has been campaigning for permanent membership."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "India was a founding UN member (i correct). India is among the largest contributors to UN peacekeeping (ii correct). India has served on the UNSC 8 times as a non-permanent member (iv correct). Statement (i) is incorrect — India is NOT a permanent member of the Security Council; it has been campaigning for permanent membership."
     },
     {
       "id": "35",
       "subject": "B",
       "questionText": "The International Labour Organization (ILO) is unique among UN agencies because:",
       "options": [
-        "It has a tripartite structure with representatives from governments, employers, and workers",
         "It only admits developed countries as members",
         "It can enforce its decisions militarily",
+        "It has a tripartite structure with representatives from governments, employers, and workers",
         "It operates exclusively in Europe"
       ],
       "correctAnswer": "It has a tripartite structure with representatives from governments, employers, and workers",
@@ -463,9 +463,9 @@
       "subject": "B",
       "questionText": "The following data shows the number of times the veto was used by P5 members (approximate totals through 2023):\n\nRussia/USSR → 120\nUSA → 82\nUK → 29\nFrance → 16\nChina → 17\n\nWhich country has used the veto the LEAST number of times?",
       "options": [
-        "France",
         "China",
         "UK",
+        "France",
         "USA"
       ],
       "correctAnswer": "France",
@@ -489,9 +489,9 @@
       "subject": "B",
       "questionText": "Which of the following are functions of the UN Security Council?\n\n(i) Recommending admission of new members to the General Assembly\n(ii) Imposing economic sanctions on countries\n(iii) Authorizing military action to restore peace\n(iv) Electing judges of the ICJ (jointly with GA)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iii) only",
         "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)",
         "(i) and (iii) only"
       ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
@@ -502,10 +502,10 @@
       "subject": "B",
       "questionText": "The following data shows India's contributions to UN peacekeeping:\n\n1950s-60s → 10,000\n1970s-80s → 25,000\n1990s-2000s → 80,000\n2010s-2020s → 60,000\n\nIn which period was India's contribution the highest?",
       "options": [
-        "1990s-2000s",
         "2010s-2020s",
         "1970s-80s",
-        "1950s-60s"
+        "1950s-60s",
+        "1990s-2000s"
       ],
       "correctAnswer": "1990s-2000s",
       "explanation": "India's contribution peaked at approximately 80,000 personnel during the 1990s-2000s period. The 2010s-2020s saw a slight decrease to 60,000. The 1970s-80s contributed 25,000. The 1950s-60s was the initial period with 10,000. The 1990s-2000s clearly had the highest numbers."
@@ -515,10 +515,10 @@
       "subject": "B",
       "questionText": "The 'Sustainable Development Goals' (SDGs) adopted by the UN in 2015 contain how many goals to be achieved by 2030?",
       "options": [
-        "17",
         "15",
         "12",
-        "20"
+        "20",
+        "17"
       ],
       "correctAnswer": "17",
       "explanation": "The 2030 Agenda for Sustainable Development includes 17 SDGs covering poverty, hunger, health, education, equality, environment, and more. 15 is the number of MDGs' target year (2015). 12 and 20 are incorrect numbers. The SDGs replaced the 8 Millennium Development Goals (MDGs)."

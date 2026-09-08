@@ -24,6 +24,7 @@ To generate several at once, say: *"Generate the next 3 mock tests"* (the day's 
 jkp-constable-mock-tests/
 ├── README.md                             ← this file
 ├── syllabus_constable.md                 ← official Constable syllabus + exam blueprint
+├── current_affairs_2026.md               ← verified volatile facts (as-of Sept 2026); read before any B/C question
 ├── STUDY_PLAN.md                         ← printable 70-day plan (⬜ pending / ✅ done)
 ├── .kiro/steering/
 │   └── mock-test-prompt-constable.md     ← generation ruleset (always loaded by the AI)
@@ -32,6 +33,11 @@ jkp-constable-mock-tests/
 └── mock-tests/
     ├── _build_plan.py                    ← one-off generator for the plan (build tool)
     ├── _validate.py                      ← mechanical self-check for a generated test
+    ├── _audit_scope.py                   ← syllabus + scope + factual-currency audit
+    ├── _debias.py                        ← measures and removes structural answer bias
+    ├── _qbuild.py                        ← builder that asserts every ruleset invariant
+    ├── _builders/                        ← per-test content scripts that use _qbuild
+    ├── _resync_history.py                ← rebuilds history shards from the actual tests
     ├── _record_test.py                   ← post-generation recorder (updates all state)
     ├── _normalize.py                     ← forces the exact question key schema/order
     ├── config.json                        ← counters + next_test pointer  (read FIRST, tiny)
@@ -94,7 +100,8 @@ Defined in `.kiro/steering/mock-test-prompt-constable.md`. Summary:
 5. **Post-generation:** save the test, then run the recorder:
 
 ```bash
-python3 mock-tests/_validate.py mock-tests/tests/<N>_test_<section>_<slug>.json   # optional but recommended
+python3 mock-tests/_validate.py mock-tests/tests/<N>_test_<section>_<slug>.json     # schema/format/answer-key
+python3 mock-tests/_audit_scope.py mock-tests/tests/<N>_test_<section>_<slug>.json  # scope + factual currency
 python3 mock-tests/_record_test.py <N>
 ```
 
@@ -105,6 +112,42 @@ The AI only ever reads three small things: `config.json`, the single needed `man
 
 ### No repeated questions
 Every generated question's fingerprint (normalized stem + core concept) is stored in its section shard. Before adding a new question the AI checks that shard and rejects both exact and near-duplicate (reworded) matches.
+
+### Two quality gates, not one
+
+`_validate.py` checks **mechanics** — schema, question-type mix, option count, answer-key balance, formatting. It cannot see meaning, so it will happily pass a question that is off-syllabus or factually out of date.
+
+`_audit_scope.py` checks **meaning**, and reports four finding types:
+
+| Finding | Meaning |
+|---|---|
+| `SYLLABUS` | A test topic, or a question format, that the syllabus does not prescribe. Section A is a **closed list of ten grammar areas**, so comprehension passages, narration, voice, spot-the-error and one-word substitution are all off-syllabus there however good the questions are. |
+| `SCOPE-C` | A section C question with no J&K/Ladakh anchor. Section C is *"GK with special reference to J&K"*, so a generic all-India item is off-syllabus even when true. |
+| `SCOPE-B` | A world-scoped question sitting in an India-scoped topic (e.g. asking for the longest river in the world under *"Important rivers & lakes in India"*). |
+| `STALE` | The question asserts a volatile fact that is no longer true as of the corpus as-of date — the treaty status, an officeholder, a site count. |
+| `UNDATED` | A time-relative claim ("currently", "the latest", "in recent years") with no year, so the item rots silently. |
+
+Run it over the whole corpus, or in CI with `--strict` to fail the build on any finding:
+
+```bash
+python3 mock-tests/_audit_scope.py            # whole corpus
+python3 mock-tests/_audit_scope.py --strict   # non-zero exit if findings
+```
+
+The volatile facts it checks against live in **`current_affairs_2026.md`**, which carries an explicit **as-of date (September 2026)** and source links. When a fact changes, update that file, bump `AS_OF` in `_audit_scope.py`, and re-run the audit.
+
+### Section A is a closed list
+
+The syllabus prescribes exactly **ten** areas for General English — articles, clauses, pronouns, homonyms/homophones, tenses, punctuation, synonyms and antonyms, analogies, idioms and phrases, and prepositions. Anything else is off-syllabus, and `_audit_scope.py` enforces this on both the test's topic and each question's format. `_build_plan.py` is the source of the topic list, so a topic must be corrected there rather than only in `manifest.json`.
+
+### Keeping the history shards honest
+
+The shards in `mock-tests/history/` only prevent repeats while they match the corpus. If questions are ever rewritten in place, the fingerprints go stale — they protect deleted text and leave the new text unprotected. After any bulk edit:
+
+```bash
+python3 mock-tests/_resync_history.py --dry-run   # report the drift
+python3 mock-tests/_resync_history.py            # rebuild from the actual tests
+```
 
 ---
 

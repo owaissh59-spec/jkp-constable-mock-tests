@@ -19,15 +19,15 @@
     {
       "id": "2",
       "subject": "D",
-      "questionText": "Consider the following statements about blood relations:\n\n(i) Your mother's brother is your maternal uncle.\n(ii) Your father's sister is your paternal aunt.\n(iii) Your sister's husband is your brother-in-law.\n(iv) Your wife's brother is your cousin.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about blood relations:\n\n(i) Your mother's brother is your maternal uncle.\n(ii) Your father's sister is your paternal aunt.\n(iii) Your wife's brother is your cousin.\n(iv) Your sister's husband is your brother-in-law.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Mother's brother = maternal uncle (i correct). Father's sister = paternal aunt (ii correct). Sister's husband = brother-in-law (iii correct). Statement (iv) is incorrect — wife's brother is also called brother-in-law, NOT cousin. A cousin is the child of an uncle or aunt."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Mother's brother = maternal uncle (i correct). Father's sister = paternal aunt (ii correct). Sister's husband = brother-in-law (iii correct). Statement (iii) is incorrect — wife's brother is also called brother-in-law, NOT cousin. A cousin is the child of an uncle or aunt."
     },
     {
       "id": "3",
@@ -47,8 +47,8 @@
       "subject": "D",
       "questionText": "Match the following relationships:\n\nColumn I:\n(a) Father's mother\n(b) Mother's father\n(c) Son's wife\n(d) Daughter's husband\n\nColumn II:\n(i) Son-in-law\n(ii) Maternal grandfather\n(iii) Paternal grandmother\n(iv) Daughter-in-law\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
       ],
@@ -58,37 +58,37 @@
     {
       "id": "5",
       "subject": "D",
-      "questionText": "Which of the following relationships are correctly identified?\n\n(i) Your brother's son is your nephew.\n(ii) Your sister's daughter is your niece.\n(iii) Your uncle's son is your nephew.\n(iv) Your father's brother is your uncle.\n\nSelect the correct combination:",
+      "questionText": "Which of the following relationships are correctly identified?\n\n(i) Your brother's son is your nephew.\n(ii) Your sister's daughter is your niece.\n(iii) Your father's brother is your uncle.\n(iv) Your uncle's son is your nephew.\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "Brother's son = nephew (i correct). Sister's daughter = niece (ii correct). Father's brother = uncle (iv correct). Statement (iii) is INCORRECT — uncle's son is your COUSIN, not nephew. A nephew is the son of your sibling. Options B and D incorrectly include uncle's son as nephew."
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Brother's son = nephew (i correct). Sister's daughter = niece (ii correct). Father's brother = uncle (iv correct). Statement (iv) is INCORRECT — uncle's son is your COUSIN, not nephew. A nephew is the son of your sibling. Options B and D incorrectly include uncle's son as nephew."
     },
     {
       "id": "6",
       "subject": "D",
       "questionText": "If A + B means A is the father of B, A - B means A is the wife of B, and A × B means A is the brother of B, then what does P + Q - R mean?",
       "options": [
-        "Q is the daughter-in-law of P",
         "R is the son of P",
+        "R is the son-in-law of P",
         "Q is the husband of R",
         "P is the grandfather of R"
       ],
-      "correctAnswer": "Q is the daughter-in-law of P",
-      "explanation": "P + Q means P is father of Q. Q - R means Q is wife of R. So P is father of Q, and Q is wife of R. This means Q married R who is not P's child directly from the given symbols — but reading it as: P is father of Q, Q is wife of R → Q is the daughter-in-law of P (since Q married into P's family as wife of R, and P is Q's father... wait). Actually: P + Q means P is father of Q. Q - R means Q is wife of R. So Q is P's daughter and R is Q's husband. Therefore R is P's son-in-law, and Q is P's daughter (not daughter-in-law). Let me re-read: if Q is the wife of R, and P is father of Q — then from R's perspective, Q's father P is R's father-in-law. From P's perspective, Q is his daughter and R is his son-in-law. Hmm, actually 'Q is the daughter-in-law of P' doesn't work if P is Q's father. Let me reconsider the coding. P + Q: P is father of Q. Q - R: Q is wife of R. So: P → (father of) → Q → (wife of) → R. This means P is the father of Q, and Q is married to R. From P's view: Q is daughter, R is son-in-law. But the answer says 'Q is daughter-in-law of P' — that would mean Q married P's son. Re-reading the symbols more carefully: maybe I should trace it as a chain. P is father of Q, and Q is wife of R. If we consider that the 'chain' means P's child Q is wife of R, then Q is P's daughter (she's female since she's someone's wife), and R is her husband = P's son-in-law. The answer 'Q is daughter-in-law of P' is incorrect in this logic. But given exam conventions, sometimes the symbols create: P is father of Q who is wife of R — in many textbook answers this is interpreted as R is P's son and Q is R's wife = P's daughter-in-law. The convention being that the middle person connects the outer two. In that case Q being R's wife and R being P's son makes Q the daughter-in-law of P. So the interpretation is: + means 'is father of' so P is father of someone, and the chain connects. With standard exam logic: P +Q means P is father of Q (Q is P's child). Q-R means Q is wife of R. If Q is female (wife of R), and P is Q's father, then Q is P's daughter, not daughter-in-law. The correct answer should be different. Given exam answer key conventions however, many sources give 'daughter-in-law' — let's keep the standard answer."
+      "correctAnswer": "R is the son-in-law of P",
+      "explanation": "Take the symbols in order. P + Q means P is the father of Q, so Q is P's daughter. Q − R means Q is the wife of R. A man married to your daughter is your son-in-law, so R is the son-in-law of P. 'R is the son of P' is wrong — R marries into the family rather than being born into it. 'Q is the husband of R' is wrong — the '−' symbol makes Q the wife, so Q is female. 'P is the grandfather of R' is wrong — no third generation is mentioned anywhere in the chain."
     },
     {
       "id": "7",
       "subject": "D",
       "questionText": "A man said to a woman, 'Your mother's husband's sister is my aunt.' How is the man related to the woman?",
       "options": [
-        "Brother",
         "Father",
         "Uncle",
+        "Brother",
         "Cousin"
       ],
       "correctAnswer": "Brother",
@@ -97,15 +97,15 @@
     {
       "id": "8",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) If X is the husband of Y, and Y is the sister of Z, then X is the brother-in-law of Z.\n(ii) If A is the mother of B, and C is the brother of A, then C is B's maternal uncle.\n(iii) If P is the son of Q, and Q is the daughter of R, then P is R's grandson.\n(iv) If M is the wife of N, then N is the wife of M.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) If M is the wife of N, then N is the wife of M.\n(ii) If X is the husband of Y, and Y is the sister of Z, then X is the brother-in-law of Z.\n(iii) If A is the mother of B, and C is the brother of A, then C is B's maternal uncle.\n(iv) If P is the son of Q, and Q is the daughter of R, then P is R's grandson.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "X is Y's husband and Y is Z's sister → X is Z's brother-in-law (i correct). A is B's mother and C is A's brother → C is B's maternal uncle (ii correct). P is Q's son and Q is R's daughter → P is R's grandson (through daughter) (iii correct). Statement (iv) is incorrect — if M is wife of N, then N is the HUSBAND of M, not wife. The relationship is not symmetrical in terms of the label."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "X is Y's husband and Y is Z's sister → X is Z's brother-in-law (i correct). A is B's mother and C is A's brother → C is B's maternal uncle (ii correct). P is Q's son and Q is R's daughter → P is R's grandson (through daughter) (iii correct). Statement (i) is incorrect — if M is wife of N, then N is the HUSBAND of M, not wife. The relationship is not symmetrical in terms of the label."
     },
     {
       "id": "9",
@@ -125,9 +125,9 @@
       "subject": "D",
       "questionText": "Introducing a man, a woman said, 'He is the only son of my mother's mother.' How is the man related to the woman?",
       "options": [
-        "Maternal uncle",
         "Father",
         "Brother",
+        "Maternal uncle",
         "Grandfather"
       ],
       "correctAnswer": "Maternal uncle",
@@ -138,10 +138,10 @@
       "subject": "D",
       "questionText": "If 'A $ B' means A is the father of B, 'A # B' means A is the mother of B, and 'A & B' means A is the brother of B, then in the expression 'P $ Q & R # S', how is S related to P?",
       "options": [
-        "Grandchild",
         "Grandson",
         "Granddaughter",
-        "Cannot be determined"
+        "Cannot be determined",
+        "Grandchild"
       ],
       "correctAnswer": "Grandchild",
       "explanation": "P $ Q: P is father of Q. Q & R: Q is brother of R (so R is Q's sibling, and P is also R's father). R # S: R is mother of S (so R is female). Therefore P is father of R, and R is mother of S. P is S's grandfather, so S is P's grandchild. We cannot determine S's gender, so 'grandchild' is the most accurate. 'Grandson' assumes male. 'Granddaughter' assumes female. 'Cannot be determined' is wrong because the relationship IS determinable — just not the gender."
@@ -151,10 +151,10 @@
       "subject": "D",
       "questionText": "Consider the following family information:\n- A is married to B\n- C is A's son\n- D is C's sister\n- E is D's mother\n\nWhich of the following must be true?\n\n(i) B and E are the same person.\n(ii) A is D's father.\n(iii) C and D are siblings.\n(iv) E is A's wife.\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(ii) and (iii) only",
         "(i), (ii) and (iii) only",
-        "(ii), (iii) and (iv) only"
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
       "explanation": "A married B. C is A's son → A is C's parent. D is C's sister → C and D are siblings (iii) and share the same parents. Since A is C's parent, A is also D's parent (ii). E is D's mother → E is the mother of A's children → E is A's wife = B (i and iv). All four are necessarily true given a standard family structure."
@@ -164,10 +164,10 @@
       "subject": "D",
       "questionText": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
       "options": [
-        "Granddaughter",
         "Daughter",
         "Grandmother",
-        "Sister"
+        "Sister",
+        "Granddaughter"
       ],
       "correctAnswer": "Granddaughter",
       "explanation": "C is B's mother, and A is B's sister → C is A's mother too. D is C's father → D is A's maternal grandfather. Therefore A is D's granddaughter. 'Daughter' would mean A is D's child directly. 'Grandmother' reverses the relationship. 'Sister' is impossible across generations."
@@ -203,8 +203,8 @@
       "subject": "D",
       "questionText": "If Rohan says, 'Sita's father is the only son of my father', how is Sita related to Rohan?",
       "options": [
-        "Daughter",
         "Sister",
+        "Daughter",
         "Niece",
         "Granddaughter"
       ],
@@ -214,15 +214,15 @@
     {
       "id": "17",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) Your father-in-law is your spouse's father.\n(ii) Your mother-in-law is your spouse's mother.\n(iii) Your brother-in-law can be your sister's husband OR your spouse's brother.\n(iv) Your nephew can only be your brother's son, never your sister's son.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) Your father-in-law is your spouse's father.\n(ii) Your mother-in-law is your spouse's mother.\n(iii) Your nephew can only be your brother's son, never your sister's son.\n(iv) Your brother-in-law can be your sister's husband OR your spouse's brother.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Father-in-law = spouse's father (i correct). Mother-in-law = spouse's mother (ii correct). Brother-in-law = sister's husband OR spouse's brother (iii correct). Statement (iv) is incorrect — nephew can be EITHER brother's son OR sister's son. Both are called nephews."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Father-in-law = spouse's father (i correct). Mother-in-law = spouse's mother (ii correct). Brother-in-law = sister's husband OR spouse's brother (iii correct). Statement (iii) is incorrect — nephew can be EITHER brother's son OR sister's son. Both are called nephews."
     },
     {
       "id": "18",
@@ -242,8 +242,8 @@
       "subject": "D",
       "questionText": "In a family of six persons — P, Q, R, S, T, and U — P is the mother of Q. R is the husband of P. S is the brother of R. T is the daughter of S. U is the son of Q. How is T related to U?",
       "options": [
-        "Cousin (father's brother's daughter)",
         "Sister",
+        "Cousin (father's brother's daughter)",
         "Aunt",
         "Cannot be determined"
       ],
@@ -255,9 +255,9 @@
       "subject": "D",
       "questionText": "A woman introduces a man as 'the son of the brother of my mother.' How is the man related to the woman?",
       "options": [
-        "Cousin",
         "Brother",
         "Nephew",
+        "Cousin",
         "Uncle"
       ],
       "correctAnswer": "Cousin",
@@ -268,9 +268,9 @@
       "subject": "D",
       "questionText": "If P × Q means P is the daughter of Q, P + Q means P is the father of Q, P ÷ Q means P is the mother of Q, and P − Q means P is the son of Q, then which expression means 'R is the grandmother of S'?",
       "options": [
-        "R ÷ T + S",
         "R + T ÷ S",
         "R ÷ T − S",
+        "R ÷ T + S",
         "R × T + S"
       ],
       "correctAnswer": "R ÷ T + S",
@@ -281,9 +281,9 @@
       "subject": "D",
       "questionText": "Consider the following family tree:\n- Amit and Kavita are married.\n- They have two sons: Raj and Vijay.\n- Raj is married to Priya.\n- Vijay is married to Neha.\n- Raj and Priya have a daughter Sita.\n\nHow is Sita related to Neha?\n\n(i) Sita is Neha's niece.\n(ii) Neha is Sita's aunt (by marriage).\n(iii) Sita is Neha's daughter.\n(iv) Neha is Sita's mother-in-law.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i) and (ii) only",
         "(i), (ii) and (iii)",
         "(iii) and (iv) only",
+        "(i) and (ii) only",
         "(i) only"
       ],
       "correctAnswer": "(i) and (ii) only",
@@ -307,10 +307,10 @@
       "subject": "D",
       "questionText": "Looking at a portrait, Mohan says, 'The father of that person is my mother's only son.' Whose portrait is Mohan looking at?",
       "options": [
-        "His son's",
         "His brother's",
         "His father's",
-        "His own"
+        "His own",
+        "His son's"
       ],
       "correctAnswer": "His son's",
       "explanation": "My mother's only son = Mohan himself (he's the only son). Father of the person in the portrait = Mohan. So the person in the portrait is Mohan's child (son or daughter). Since the answer says 'his son's', and 'that person' is male (portrait = 'the father of that person' implies the person has a father → any person). Given 'his son's' as option — the person's father is Mohan, so portrait is of Mohan's son. 'Brother' would mean their father = Mohan = wrong. 'Father' would mean Mohan is his grandfather. 'His own' would mean Mohan is his own father — impossible."
@@ -320,10 +320,10 @@
       "subject": "D",
       "questionText": "Match the following relationships with their definitions:\n\nColumn I:\n(a) Niece\n(b) Nephew\n(c) Cousin\n(d) Father-in-law\n\nColumn II:\n(i) Spouse's father\n(ii) Child of one's uncle or aunt\n(iii) Brother's or sister's daughter\n(iv) Brother's or sister's son\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "Niece = sibling's daughter (a-iii). Nephew = sibling's son (b-iv). Cousin = uncle's or aunt's child (c-ii). Father-in-law = spouse's father (d-i). Option B swaps niece with nephew. Option C mismatches nephew with cousin. Option D incorrectly pairs niece with father-in-law's definition."
@@ -333,10 +333,10 @@
       "subject": "D",
       "questionText": "Deepa is the sister of Arun. Arun is married to Kavita. Kavita is the daughter of Suresh. How is Deepa related to Suresh?",
       "options": [
-        "Daughter-in-law's sister (sister-in-law of his daughter)",
         "Daughter",
         "Granddaughter",
-        "Niece"
+        "Niece",
+        "Daughter-in-law's sister (sister-in-law of his daughter)"
       ],
       "correctAnswer": "Daughter-in-law's sister (sister-in-law of his daughter)",
       "explanation": "Deepa is Arun's sister. Arun married Kavita. Kavita is Suresh's daughter. So from Suresh's view: his daughter Kavita married Arun, and Deepa is Arun's sister = his daughter's sister-in-law. There is no direct blood relation between Deepa and Suresh. 'Daughter' would mean Deepa is Suresh's child. 'Granddaughter' would need another generation. 'Niece' would require sibling relationship."
@@ -372,8 +372,8 @@
       "subject": "D",
       "questionText": "Fill in the blank: Your mother's only brother's wife is your __________.",
       "options": [
-        "Maternal aunt (Maami/Mami)",
         "Paternal aunt (Bua)",
+        "Maternal aunt (Maami/Mami)",
         "Sister-in-law",
         "Cousin"
       ],
@@ -385,8 +385,8 @@
       "subject": "D",
       "questionText": "A says to B, 'You are my mother's husband's mother's daughter.' How is B related to A?",
       "options": [
-        "Paternal aunt (father's sister)",
         "Mother",
+        "Paternal aunt (father's sister)",
         "Sister",
         "Grandmother"
       ],
@@ -411,8 +411,8 @@
       "subject": "D",
       "questionText": "Sunil introduces Kavita saying, 'She is the wife of my mother's only son.' How is Kavita related to Sunil?",
       "options": [
-        "Wife",
         "Mother",
+        "Wife",
         "Sister-in-law",
         "Daughter-in-law"
       ],
@@ -424,9 +424,9 @@
       "subject": "D",
       "questionText": "Consider the following:\n- D is the brother of E.\n- E is the daughter of F.\n- F is the wife of G.\n\nHow is D related to G?\n\n(i) D is G's son.\n(ii) G is D's father.\n(iii) D is G's nephew.\n(iv) G is D's uncle.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i) and (ii) only",
         "(iii) and (iv) only",
         "(i), (ii) and (iii)",
+        "(i) and (ii) only",
         "All of the above"
       ],
       "correctAnswer": "(i) and (ii) only",
@@ -437,9 +437,9 @@
       "subject": "D",
       "questionText": "Match the following relationship descriptions with their single-word equivalents:\n\nColumn I:\n(a) Wife's mother\n(b) Husband's father\n(c) Wife's sister\n(d) Husband's brother\n\nColumn II:\n(i) Brother-in-law\n(ii) Sister-in-law\n(iii) Mother-in-law\n(iv) Father-in-law\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
@@ -450,23 +450,23 @@
       "subject": "D",
       "questionText": "In a family, there are father, mother, three sons and their wives, and one son from each couple. How many members are there in the family?",
       "options": [
-        "12",
         "15",
         "9",
-        "11"
+        "11",
+        "12"
       ],
-      "correctAnswer": "12",
-      "explanation": "Father + Mother = 2. Three sons = 3. Their wives = 3. One son from each couple = 3. Total = 2 + 3 + 3 + 3 (wait, the father is one of... No: the father and mother are the senior couple. They have 3 sons. Each son has a wife (3 wives). Each couple (3 couples) has one son (3 grandsons). Total = 2 + 3 + 3 + 3 = 11. Hmm, but option 12 is the given answer. Let me recount: Father(1) + Mother(1) + 3 sons(3) + 3 wives(3) + 3 grandsons from 3 couples(3) = 1+1+3+3+3 = 11. But maybe 'one son from each couple' includes the original couple too? If the original couple also has their sons counted separately... No, the 3 sons are already counted. The answer should be 12 if we interpret differently. Perhaps: 2(parents) + 3(sons) + 3(daughters-in-law) + 3(grandsons) + 1(maybe a daughter?) = Let me reconsider: 'three sons and their wives' = 6. 'One son from each couple' = one from each of the 3 couples = 3. Total = 2 + 6 + 3 = 11. Given that 12 is the answer, perhaps counting includes: original couple's 3 sons + 3 daughters-in-law + 3 grandsons + original couple = 12. That's still 11. Unless 'each couple' means 4 couples (including the original). 2 + 3 + 3 + 4 = 12. If original couple also has 'one son from each couple' interpreted as 4 couples total... Let me just go with the math: 2+3+3+3=11. I'll correct to 12 only if there's a valid interpretation."
+      "correctAnswer": "11",
+      "explanation": "Count each generation. The senior couple, father and mother, are 2. They have three sons, which is 3 more, making 5. Each son has a wife, adding 3, making 8. Each of those three couples has one son, adding 3 grandsons, making 11 in all. '12' is wrong — it double-counts one member, usually by counting the father twice, once as a parent and once as a husband. '9' is wrong — it omits the three grandsons or the three wives. '15' is wrong — it assumes each couple has more than one child."
     },
     {
       "id": "36",
       "subject": "D",
       "questionText": "Arun said, 'This girl is the wife of the grandson of my mother.' How is Arun related to the girl?",
       "options": [
-        "Father-in-law",
         "Grandfather",
         "Husband",
-        "Brother-in-law"
+        "Brother-in-law",
+        "Father-in-law"
       ],
       "correctAnswer": "Father-in-law",
       "explanation": "Grandson of Arun's mother = son of Arun or son of Arun's sibling. If it's Arun's own son, then the girl is Arun's son's wife = daughter-in-law, making Arun her father-in-law. 'Grandfather' would need another generation. 'Husband' would mean Arun married the girl himself. 'Brother-in-law' would require a sibling connection."
@@ -474,25 +474,25 @@
     {
       "id": "37",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) If two people have the same parents, they are siblings.\n(ii) The children of siblings are called cousins to each other.\n(iii) A man's daughter-in-law is his son's wife.\n(iv) Your mother's sister's daughter is your sister.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) If two people have the same parents, they are siblings.\n(ii) The children of siblings are called cousins to each other.\n(iii) Your mother's sister's daughter is your sister.\n(iv) A man's daughter-in-law is his son's wife.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Same parents = siblings (i correct). Children of siblings are cousins (ii correct). Son's wife = daughter-in-law (iii correct). Statement (iv) is incorrect — mother's sister's daughter is your COUSIN, not sister. She shares your aunt as mother, not your own parents."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Same parents = siblings (i correct). Children of siblings are cousins (ii correct). Son's wife = daughter-in-law (iii correct). Statement (iii) is incorrect — mother's sister's daughter is your COUSIN, not sister. She shares your aunt as mother, not your own parents."
     },
     {
       "id": "38",
       "subject": "D",
       "questionText": "The following data shows a family tree:\n\nRavi → Suresh, Meena\nGeeta → Suresh, Meena\nAmit → Ravi, Priya\nSita → Ravi, Priya\n\nHow is Amit related to Geeta?",
       "options": [
-        "Nephew",
         "Son",
         "Brother",
-        "Cousin"
+        "Cousin",
+        "Nephew"
       ],
       "correctAnswer": "Nephew",
       "explanation": "Ravi and Geeta share the same parents (Suresh and Meena) — they are siblings. Amit's father is Ravi. So Amit is Ravi's son. From Geeta's perspective: Amit is her brother's son = her nephew. 'Son' would mean Geeta is Amit's mother (she's his aunt). 'Brother' would require same parents. 'Cousin' would need uncle/aunt's children."
@@ -528,8 +528,8 @@
       "subject": "D",
       "questionText": "In a family of five, A is the father of B and C. D is the mother of B. E is the wife of C. How is D related to E?",
       "options": [
-        "Mother-in-law (of E's husband's brother = co-mothers-in-law)",
         "Mother",
+        "Mother-in-law (of E's husband's brother = co-mothers-in-law)",
         "Sister-in-law",
         "Daughter-in-law"
       ],
@@ -541,8 +541,8 @@
       "subject": "D",
       "questionText": "Consider the following family information:\n- There are two married couples in the family.\n- Amit is the brother of Deepa.\n- Deepa is married to Raj.\n- Raj is the son of Suresh.\n- Kavita is the mother of Amit.\n\nHow is Kavita related to Suresh?\n\n(i) They are co-parents-in-law (Deepa's mother and Raj's father).\n(ii) Kavita is Suresh's wife.\n(iii) There is no blood relation between them.\n(iv) Kavita is Suresh's sister.\n\nWhich of the above is/are correct?",
       "options": [
-        "(i) and (iii) only",
         "(ii) only",
+        "(i) and (iii) only",
         "(i) only",
         "(iv) only"
       ],
@@ -554,8 +554,8 @@
       "subject": "D",
       "questionText": "If Seema's brother's father's wife's mother is Kamla, then Kamla is Seema's __________.",
       "options": [
-        "Maternal grandmother",
         "Paternal grandmother",
+        "Maternal grandmother",
         "Mother",
         "Aunt"
       ],
@@ -567,8 +567,8 @@
       "subject": "D",
       "questionText": "The following family diagram shows relationships:\nA — husband of B\nC — son of A and B\nD — daughter of A and B\nE — husband of D\nF — son of D and E\n\nHow is F related to C?",
       "options": [
-        "Nephew",
         "Son",
+        "Nephew",
         "Brother",
         "Cousin"
       ],
@@ -580,9 +580,9 @@
       "subject": "D",
       "questionText": "Match the following expressions with the relationships they indicate:\n\nColumn I:\n(a) Son of father's sister\n(b) Daughter of mother's brother\n(c) Wife of mother's brother\n(d) Husband of father's sister\n\nColumn II:\n(i) Maternal aunt (by marriage)\n(ii) Paternal uncle (by marriage)\n(iii) Cross-cousin (paternal side)\n(iv) Cross-cousin (maternal side)\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
@@ -593,9 +593,9 @@
       "subject": "D",
       "questionText": "A photograph shows two women and two men. Person X says: 'The woman on the left is my mother. The man next to her is my mother's husband. The other man is my mother's husband's brother. The other woman is my wife.' How many families are represented?",
       "options": [
-        "2",
         "1",
         "3",
+        "2",
         "4"
       ],
       "correctAnswer": "2",
@@ -604,25 +604,25 @@
     {
       "id": "47",
       "subject": "D",
-      "questionText": "Consider the following:\n\n(i) Your maternal grandmother's husband is your maternal grandfather.\n(ii) Your paternal grandfather's wife is your paternal grandmother.\n(iii) Your mother's brother's son is your brother.\n(iv) Your father's brother's daughter is your cousin.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following:\n\n(i) Your mother's brother's son is your brother.\n(ii) Your maternal grandmother's husband is your maternal grandfather.\n(iii) Your paternal grandfather's wife is your paternal grandmother.\n(iv) Your father's brother's daughter is your cousin.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Maternal grandmother's husband = maternal grandfather (i correct). Paternal grandfather's wife = paternal grandmother (ii correct). Father's brother's daughter = cousin (iv correct). Statement (iii) is incorrect — mother's brother's son is your COUSIN, not brother. A brother must share the same parents."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Maternal grandmother's husband = maternal grandfather (i correct). Paternal grandfather's wife = paternal grandmother (ii correct). Father's brother's daughter = cousin (iv correct). Statement (i) is incorrect — mother's brother's son is your COUSIN, not brother. A brother must share the same parents."
     },
     {
       "id": "48",
       "subject": "D",
       "questionText": "The following data shows a family structure:\n\nGrandparents → 2\nParents (their children + spouses) → 4\nGrandchildren → 5\n\nIf the grandparents have only two sons (no daughters), and one son has 3 children and the other has 2 children, how many females are there in the family if there are 6 males total?",
       "options": [
-        "5",
         "4",
         "6",
-        "7"
+        "7",
+        "5"
       ],
       "correctAnswer": "5",
       "explanation": "Total members = 2 + 4 + 5 = 11. Males = 6. Females = 11 - 6 = 5. Verification: Grandfather(M) + 2 sons(M) = 3 males from blood relations + the wives and grandchildren make up the rest. With 6 males total and 11 members, females = 5."
@@ -632,10 +632,10 @@
       "subject": "D",
       "questionText": "Fill in the blank: If Ram is the son of Shyam, and Shyam is the brother of Gopal, then Ram is Gopal's __________.",
       "options": [
-        "Nephew",
         "Son",
         "Brother",
-        "Cousin"
+        "Cousin",
+        "Nephew"
       ],
       "correctAnswer": "Nephew",
       "explanation": "Shyam is Ram's father. Gopal is Shyam's brother. So Gopal is Ram's uncle. From Gopal's perspective, Ram is his brother's son = nephew. 'Son' would mean Gopal is Ram's father. 'Brother' would need same parents. 'Cousin' would need uncle/aunt at same generation."
@@ -645,10 +645,10 @@
       "subject": "D",
       "questionText": "The following data shows relationships in a family:\n\nA-B → Married\nB-C → Mother-Son\nC-D → Brother-Sister\nD-E → Mother-Son\n\nHow is A related to E?",
       "options": [
-        "Maternal grandfather",
         "Paternal grandfather",
         "Uncle",
-        "Father"
+        "Father",
+        "Maternal grandfather"
       ],
       "correctAnswer": "Maternal grandfather",
       "explanation": "A married B. B is mother of C. C and D are brother and sister (so B is also mother of D, and A is father of C and D). D is mother of E. So A is D's father, and D is E's mother. A is E's maternal grandfather (grandfather through mother's side). 'Paternal grandfather' would be through E's father. 'Uncle' is same generation as parent. 'Father' is one generation directly above."
