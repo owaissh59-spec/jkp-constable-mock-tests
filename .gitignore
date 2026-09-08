@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# build artifact: the distributable zip lives on the dist/mock-tests-json branch
+dist/
