@@ -129,14 +129,14 @@ SCHEDULE = {
         ("C", "History of J&K — Historical Places & Importance", 50, "foundation", "Topic-wise", "jk-history-places"),
     ],
     16: [
-        ("A", "Comprehension Passage", 30, "foundation", "Topic-wise", "comprehension"),
+        ("A", "Tenses, Clauses & Agreement (Sentence-level)", 30, "foundation", "Topic-wise", "tenses-clauses-agreement"),
         ("E", "E-mail & Internet Usage", 40, "foundation", "Topic-wise", "email-internet"),
         ("D", "Statements & Conclusions", 50, "foundation", "Topic-wise", "statements-conclusions"),
     ],
     17: [
         ("B", "World & National Awards (Science, Literature, Sports)", 30, "standard", "Topic-wise", "world-national-awards"),
         ("D", "Decimal Fractions", 40, "standard", "Topic-wise", "decimal-fractions"),
-        ("A", "Fill in the Blanks", 50, "standard", "Topic-wise", "fill-blanks"),
+        ("A", "Tenses, Articles & Prepositions (Fill-in-the-Blank)", 50, "standard", "Topic-wise", "tenses-articles-prepositions"),
     ],
     18: [
         ("C", "RTI Act", 30, "standard", "Topic-wise", "rti-act"),
@@ -145,7 +145,7 @@ SCHEDULE = {
     ],
     19: [
         ("D", "Logical Reasoning", 30, "standard", "Topic-wise", "logical-reasoning"),
-        ("A", "Spot the Error", 40, "standard", "Topic-wise", "spot-error"),
+        ("A", "Uses of Prepositions (Revision)", 40, "standard", "Topic-wise", "prepositions-rev"),
         ("C", "Indus Water Treaty & Impact on Economy", 50, "standard", "Topic-wise", "indus-water-treaty"),
     ],
     20: [
@@ -154,7 +154,7 @@ SCHEDULE = {
         ("E", "Computer Terminology & Fundamentals (Revision)", 50, "standard", "Topic-wise", "computer-terminology-rev"),
     ],
     21: [
-        ("A", "Active/Passive Voice", 30, "standard", "Topic-wise", "voice"),
+        ("A", "Punctuation (Comma, Semicolon, Colon, Apostrophe)", 30, "standard", "Topic-wise", "punctuation-marks"),
         ("D", "Mental Reasoning & Sequential Output Tracing", 40, "standard", "Topic-wise", "mental-reasoning-seq"),
         ("FULL", "Cumulative Revision — Week 3 Topics (All Subjects)", 50, "standard", "Revision (cumulative)", "revision-wk3"),
     ],
@@ -164,14 +164,14 @@ SCHEDULE = {
         ("D", "Mensuration", 50, "standard", "Topic-wise", "mensuration"),
     ],
     23: [
-        ("A", "Direct/Indirect Narration", 30, "standard", "Topic-wise", "narration"),
+        ("A", "Analogies (Revision)", 30, "standard", "Topic-wise", "analogies-rev"),
         ("E", "Hardware & Software (Revision)", 40, "standard", "Topic-wise", "hardware-software-rev"),
         ("B", "Democratic Institutions & Forms of Government", 50, "standard", "Topic-wise", "democratic-institutions"),
     ],
     24: [
         ("D", "Trigonometry", 30, "standard", "Topic-wise", "trigonometry"),
         ("C", "Current Events — Local, National & International (J&K focus)", 40, "standard", "Topic-wise", "jk-current-events"),
-        ("A", "One-Word Substitution", 50, "standard", "Topic-wise", "one-word-substitution"),
+        ("A", "Synonyms & Antonyms (Advanced)", 50, "standard", "Topic-wise", "synonyms-antonyms-advanced"),
     ],
     25: [
         ("B", "Political & Physical Divisions of World & India", 30, "standard", "Topic-wise", "political-physical-divisions"),
@@ -206,7 +206,7 @@ SCHEDULE = {
     31: [
         ("B", "Centrally Sponsored Schemes & Indian Foreign Trade", 30, "standard", "Topic-wise", "schemes-foreign-trade"),
         ("D", "Coding & Decoding (Revision)", 40, "standard", "Topic-wise", "coding-decoding-rev"),
-        ("A", "Comprehension Passage (Revision)", 50, "standard", "Topic-wise", "comprehension-rev"),
+        ("A", "Mixed Grammar Revision — Articles, Clauses, Pronouns, Tenses", 50, "standard", "Topic-wise", "grammar-mixed-rev"),
     ],
     32: [
         ("E", "E-mail & Internet Usage (Revision)", 30, "standard", "Topic-wise", "email-internet-rev"),

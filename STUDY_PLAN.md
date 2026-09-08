@@ -141,7 +141,7 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 46 | Morning | A — General English | Comprehension Passage | 30 | foundation | Topic-wise | ✅ |
+| 46 | Morning | A — General English | Tenses, Clauses & Agreement (Sentence-level) | 30 | foundation | Topic-wise | ✅ |
 | 47 | Afternoon | E — Basic Concepts of Computers | E-mail & Internet Usage | 40 | foundation | Topic-wise | ✅ |
 | 48 | Late | D — Numerical and Reasoning Ability | Statements & Conclusions | 50 | foundation | Topic-wise | ✅ |
 
@@ -151,7 +151,7 @@
 |---|---------|---------|---------------|---|------------|------|--------|
 | 49 | Morning | B — General Knowledge & Current Affairs (India) | World & National Awards (Science, Literature, Sports) | 30 | standard | Topic-wise | ✅ |
 | 50 | Afternoon | D — Numerical and Reasoning Ability | Decimal Fractions | 40 | standard | Topic-wise | ✅ |
-| 51 | Late | A — General English | Fill in the Blanks | 50 | standard | Topic-wise | ✅ |
+| 51 | Late | A — General English | Tenses, Articles & Prepositions (Fill-in-the-Blank) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 18
 
@@ -166,7 +166,7 @@
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
 | 55 | Morning | D — Numerical and Reasoning Ability | Logical Reasoning | 30 | standard | Topic-wise | ✅ |
-| 56 | Afternoon | A — General English | Spot the Error | 40 | standard | Topic-wise | ✅ |
+| 56 | Afternoon | A — General English | Uses of Prepositions (Revision) | 40 | standard | Topic-wise | ✅ |
 | 57 | Late | C — General Knowledge — J&K | Indus Water Treaty & Impact on Economy | 50 | standard | Topic-wise | ✅ |
 
 ### Day 20
@@ -181,7 +181,7 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 61 | Morning | A — General English | Active/Passive Voice | 30 | standard | Topic-wise | ✅ |
+| 61 | Morning | A — General English | Punctuation (Comma, Semicolon, Colon, Apostrophe) | 30 | standard | Topic-wise | ✅ |
 | 62 | Afternoon | D — Numerical and Reasoning Ability | Mental Reasoning & Sequential Output Tracing | 40 | standard | Topic-wise | ✅ |
 | 63 | Late | FULL | Cumulative Revision — Week 3 Topics (All Subjects) | 50 | standard | Revision (cumulative) | ✅ |
 
@@ -197,7 +197,7 @@
 
 | # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |
 |---|---------|---------|---------------|---|------------|------|--------|
-| 67 | Morning | A — General English | Direct/Indirect Narration | 30 | standard | Topic-wise | ✅ |
+| 67 | Morning | A — General English | Analogies (Revision) | 30 | standard | Topic-wise | ✅ |
 | 68 | Afternoon | E — Basic Concepts of Computers | Hardware & Software (Revision) | 40 | standard | Topic-wise | ✅ |
 | 69 | Late | B — General Knowledge & Current Affairs (India) | Democratic Institutions & Forms of Government | 50 | standard | Topic-wise | ✅ |
 
@@ -207,7 +207,7 @@
 |---|---------|---------|---------------|---|------------|------|--------|
 | 70 | Morning | D — Numerical and Reasoning Ability | Trigonometry | 30 | standard | Topic-wise | ✅ |
 | 71 | Afternoon | C — General Knowledge — J&K | Current Events — Local, National & International (J&K focus) | 40 | standard | Topic-wise | ✅ |
-| 72 | Late | A — General English | One-Word Substitution | 50 | standard | Topic-wise | ✅ |
+| 72 | Late | A — General English | Synonyms & Antonyms (Advanced) | 50 | standard | Topic-wise | ✅ |
 
 ### Day 25
 
@@ -263,7 +263,7 @@
 |---|---------|---------|---------------|---|------------|------|--------|
 | 91 | Morning | B — General Knowledge & Current Affairs (India) | Centrally Sponsored Schemes & Indian Foreign Trade | 30 | standard | Topic-wise | ✅ |
 | 92 | Afternoon | D — Numerical and Reasoning Ability | Coding & Decoding (Revision) | 40 | standard | Topic-wise | ✅ |
-| 93 | Late | A — General English | Comprehension Passage (Revision) | 50 | standard | Topic-wise | ✅ |
+| 93 | Late | A — General English | Mixed Grammar Revision — Articles, Clauses, Pronouns, Tenses | 50 | standard | Topic-wise | ✅ |
 
 ### Day 32
 

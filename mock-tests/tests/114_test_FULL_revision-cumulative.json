@@ -409,15 +409,15 @@
     {
       "id": "32",
       "subject": "A",
-      "questionText": "Choose the correct transformation: 'The police arrested the thief.' (Change to passive voice)",
+      "questionText": "Choose the correct article: __________ police have arrested the thief in connection with the theft.",
       "options": [
-        "The thief is arrested by the police.",
-        "The thief has been arrested by the police.",
-        "The thief was arrested by the police.",
-        "The thief were arrested by the police."
+        "A",
+        "An",
+        "The",
+        "No article"
       ],
-      "correctAnswer": "The thief was arrested by the police.",
-      "explanation": "Active Simple Past → Passive Simple Past: 'was + past participle'. 'Was arrested' correctly preserves past tense. 'Is arrested' is present (wrong tense). 'Has been arrested' is present perfect (wrong tense). 'Were arrested' doesn't agree with singular 'thief'."
+      "correctAnswer": "The",
+      "explanation": "'Police' always takes the definite article when it denotes the force as a body, and it is treated as plural, which the verb 'have' confirms, so 'The police have arrested' is correct. 'A' and 'An' are wrong because a collective body of this kind cannot take an indefinite article. Omitting the article is wrong because 'police' in this sense is never used bare as the subject of a sentence."
     },
     {
       "id": "33",

@@ -124,6 +124,41 @@ HAS_AS_OF_DATE = re.compile(r"\b(19|20)\d\d\b")
 # a word like "currently" there is ordinary English, not a factual claim.
 FACTUAL_SECTIONS = {"B", "C"}
 
+# ---------------------------------------------------------------------------
+# 3. SYLLABUS COVERAGE (section A is a closed list)
+# ---------------------------------------------------------------------------
+
+# The official syllabus lists exactly ten areas for section A. Unlike sections
+# B-E, whose areas are broad, this is a closed list, so a section A test on any
+# other topic is off-syllabus however good the questions are. The steering
+# prompt states the same rule in prose ("This section is grammar-driven ... do
+# NOT generate them"), and the plan contradicted it for 280 questions.
+A_AREAS = re.compile(
+    r"article|clause|pronoun|homonym|homophone|tense|punctuation|comma|semicolon"
+    r"|colon|apostrophe|synonym|antonym|analog|idiom|phrase|preposition"
+    r"|agreement|general english|grammar",
+    re.I,
+)
+
+# Question formats the Constable syllabus does not prescribe for section A.
+A_FORBIDDEN = {
+    "comprehension passage": re.compile(
+        r"read the following passage|read the passage|study the passage"
+        r"|according to the passage|as used in the passage", re.I),
+    "direct/indirect narration": re.compile(
+        r"change (?:the following sentence )?(?:in)?to indirect speech"
+        r"|change (?:in)?to direct speech|into reported speech", re.I),
+    "active/passive voice": re.compile(
+        r"change (?:the following sentence )?(?:in)?to passive voice"
+        r"|change (?:in)?to active voice|rewrite in the passive", re.I),
+    "spot the error": re.compile(
+        r"spot the error|find the error in|identify the part .{0,30}error", re.I),
+    "one-word substitution": re.compile(
+        r"one word for ['\"]|one-word substitution for", re.I),
+    "cloze / para-jumble": re.compile(
+        r"\bcloze\b|para.?jumble|rearrange the (?:following )?(?:sentences|parts)", re.I),
+}
+
 # Volatile facts whose value changes over time. `pattern` locates the topic;
 # `stale` matches values that are known to be out of date at AS_OF; `note`
 # explains the correct current position.
@@ -244,6 +279,16 @@ def audit_file(path, manifest):
     topic = str(entry.get("topics", d.get("topic", "")))
     world_ok = bool(B_WORLD_OK.search(topic))
 
+    # --- section A topic must name a prescribed area ----------------------
+    if entry.get("subject") == "A" and not A_AREAS.search(topic):
+        findings.append(dict(
+            kind="SYLLABUS", file=name, q="-",
+            detail=f"section A test topic {topic!r} is not one of the ten areas the "
+                   "syllabus prescribes (articles, clauses, pronouns, homonyms/homophones, "
+                   "tenses, punctuation, synonyms/antonyms, analogies, idioms and phrases, "
+                   "prepositions)",
+        ))
+
     for q in d.get("questions", []):
         sec = q.get("subject")
         text = blob(q, include_expl=False)
@@ -281,6 +326,18 @@ def audit_file(path, manifest):
                 excerpt=q.get("questionText", "")[:110].replace("\n", " | "),
             ))
 
+        # --- forbidden section A question formats -------------------------
+        if sec == "A":
+            for label, rx in A_FORBIDDEN.items():
+                if rx.search(text):
+                    findings.append(dict(
+                        kind="SYLLABUS", file=name, q=qid,
+                        detail=f"section A item uses {label}, which the Constable "
+                               "syllabus does not prescribe (the section is grammar-driven)",
+                        excerpt=q.get("questionText", "")[:110].replace("\n", " | "),
+                    ))
+                    break
+
         # --- volatile facts ----------------------------------------------
         for v in VOLATILE:
             if v["rx_ok"] is not None and v["rx_ok"].search(full):
@@ -311,9 +368,10 @@ def main():
         print("   no findings")
         return
 
-    order = ["BADJSON", "STALE", "SCOPE-C", "SCOPE-B", "UNDATED"]
+    order = ["BADJSON", "SYLLABUS", "STALE", "SCOPE-C", "SCOPE-B", "UNDATED"]
     labels = {
         "BADJSON": "unparseable file",
+        "SYLLABUS": "topic or question format the syllabus does not prescribe",
         "STALE": "asserts a fact that is out of date",
         "SCOPE-C": "section C without a J&K anchor",
         "SCOPE-B": "world-scoped item in an India-scoped topic",

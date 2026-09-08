@@ -6,15 +6,15 @@
     {
       "id": "1",
       "subject": "A",
-      "questionText": "Spot the error in the following sentence: 'The committee have decided to postpone its annual meeting to next month.'",
+      "questionText": "Choose the correct verb form: The committee __________ decided to postpone its annual meeting to next month.",
       "options": [
-        "The committee have",
-        "decided to postpone",
-        "its annual meeting",
-        "to next month"
+        "has",
+        "have",
+        "are having",
+        "were having"
       ],
-      "correctAnswer": "The committee have",
-      "explanation": "'The committee have' mixes plural verb 'have' with singular possessive 'its' later in the sentence. For consistency, it should be either 'The committee has decided...its' (treating committee as singular) or 'The committee have decided...their' (treating as plural). The primary error is the verb-pronoun disagreement. 'Decided to postpone' is correct. 'Its annual meeting' would be correct with singular verb. 'To next month' is correct."
+      "correctAnswer": "has",
+      "explanation": "A collective noun such as 'committee' takes a singular verb when the body is regarded as acting as a single unit, and the later possessive 'its' confirms that singular reading, so 'has decided' is correct. 'Have' is wrong because it would require the plural sense, which would then also demand 'their annual meeting'. 'Are having' and 'were having' are wrong because the continuous forms cannot combine with 'decided' at all."
     },
     {
       "id": "2",
@@ -305,15 +305,15 @@
     {
       "id": "24",
       "subject": "A",
-      "questionText": "Spot the error: 'Neither the students nor the teacher were present at the meeting yesterday.'",
+      "questionText": "Choose the correct verb form: Neither the students nor the teacher __________ present at the meeting yesterday.",
       "options": [
-        "Neither the students",
-        "nor the teacher",
-        "the meeting yesterday",
-        "were present at"
+        "are",
+        "have been",
+        "were",
+        "was"
       ],
-      "correctAnswer": "were present at",
-      "explanation": "In 'neither...nor' constructions, the verb agrees with the nearest subject. 'The teacher' (singular) is nearest, so the verb should be 'was present', not 'were present'. 'Neither the students' is correct. 'Nor the teacher' is correct. 'The meeting yesterday' is correct."
+      "correctAnswer": "was",
+      "explanation": "With 'neither … nor' the verb agrees with the subject nearer to it, and the nearer subject here is the singular 'teacher', so 'was' is correct. 'Were' is wrong because it agrees with the more distant plural 'students', which is the standard trap in this construction. 'Are' is wrong because the sentence refers to yesterday and needs a past form. 'Have been' is wrong because the present perfect cannot take a stated past time."
     },
     {
       "id": "25",
@@ -422,15 +422,15 @@
     {
       "id": "33",
       "subject": "A",
-      "questionText": "Change to passive voice: 'The police have arrested the suspect.'",
+      "questionText": "Choose the correct verb form: The police __________ the suspect an hour ago.",
       "options": [
-        "The suspect was arrested by the police.",
-        "The suspect is being arrested by the police.",
-        "The suspect has been arrested by the police.",
-        "The suspect had been arrested by the police."
+        "have arrested",
+        "has arrested",
+        "arrested",
+        "had arrested"
       ],
-      "correctAnswer": "The suspect has been arrested by the police.",
-      "explanation": "Active is present perfect ('have arrested'). Passive of present perfect: has/have been + V3. Since 'suspect' is singular: 'has been arrested'. 'The suspect was arrested by the police.' is simple past passive. 'The suspect is being arrested by the police.' is present continuous passive. 'The suspect had been arrested by the police.' is past perfect passive."
+      "correctAnswer": "arrested",
+      "explanation": "'An hour ago' is a definite past time, and a definite past time requires the simple past, so 'arrested' is correct. 'Have arrested' is wrong because the present perfect cannot be used with a stated past time such as 'an hour ago'. 'Has arrested' is wrong for the same reason and also because 'police' takes a plural verb. 'Had arrested' is wrong because the past perfect needs a second, later past event to be earlier than."
     },
     {
       "id": "34",
@@ -565,15 +565,15 @@
     {
       "id": "44",
       "subject": "A",
-      "questionText": "Change to passive voice: 'Someone must inform the principal immediately.'",
+      "questionText": "Choose the correct article: Someone must inform __________ principal immediately.",
       "options": [
-        "The principal must informed immediately.",
-        "The principal must be informed immediately.",
-        "The principal is being informed immediately.",
-        "The principal was informed immediately."
+        "a",
+        "the",
+        "an",
+        "no article"
       ],
-      "correctAnswer": "The principal must be informed immediately.",
-      "explanation": "With modals, passive = modal + be + V3. 'Must inform' → 'must be informed'. Agent 'someone' is omitted (indefinite). 'The principal must informed immediately.' omits 'be'. 'The principal is being informed immediately.' uses present continuous passive. 'The principal was informed immediately.' uses simple past passive."
+      "correctAnswer": "the",
+      "explanation": "A unique office within a known institution takes the definite article, so 'the principal' is correct. 'A' is wrong because it would imply one principal among several. 'An' is wrong on the same ground and also mismatches the consonant sound at the start of 'principal'. Omitting the article is wrong because a singular countable noun requires one, unlike the special case of titles after 'appoint' or 'elect'."
     },
     {
       "id": "45",
@@ -617,15 +617,15 @@
     {
       "id": "48",
       "subject": "A",
-      "questionText": "Spot the error: 'Being a holiday, we decided to go on a picnic with our friends.'",
+      "questionText": "Identify the type of the underlined clause: 'We decided to go on a picnic BECAUSE IT WAS A HOLIDAY.'",
       "options": [
-        "we decided to go",
-        "on a picnic",
-        "with our friends",
-        "Being a holiday"
+        "Noun clause",
+        "Adjective clause",
+        "Main clause",
+        "Adverb clause of reason"
       ],
-      "correctAnswer": "Being a holiday",
-      "explanation": "'Being a holiday' is a dangling participle — 'we' cannot 'be a holiday'. The correct form is 'It being a holiday' or 'As it was a holiday'. 'We decided to go' is correct. 'On a picnic' is correct. 'With our friends' is correct."
+      "correctAnswer": "Adverb clause of reason",
+      "explanation": "The clause explains why the decision was taken and is introduced by 'because', which makes it an adverb clause of reason. It is not a noun clause because it fills neither a subject nor an object slot. It is not an adjective clause because it modifies the verb 'decided' rather than any noun. It is not the main clause, which is 'We decided to go on a picnic'."
     },
     {
       "id": "49",
