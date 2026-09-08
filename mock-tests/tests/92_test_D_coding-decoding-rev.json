@@ -192,11 +192,11 @@
       "options": [
         "XLOW",
         "XLRW",
-        "XLOW",
+        "XOLW",
         "YKOW"
       ],
       "correctAnswer": "XLOW",
-      "explanation": "Mirror cipher (position n → position 27−n): C(3)→27−3=24=X, O(15)→27−15=12=L, L(12)→27−12=15=O, D(4)→27−4=23=W = XLOW. XLRW is wrong because L→O not R (L is at position 12, mirror is 15=O). YKOW is wrong because C→X not Y (C is at position 3, mirror is 24=X)."
+      "explanation": "The mirror cipher maps position n to position 27 − n. For COLD: C is 3, so 27 − 3 = 24 = X; O is 15, so 27 − 15 = 12 = L; L is 12, so 27 − 12 = 15 = O; D is 4, so 27 − 4 = 23 = W. The code is therefore XLOW. 'XLRW' is wrong because it maps L to R instead of O. 'XOLW' is wrong because it transposes the middle two letters, which is what you get by mirroring the letters of CLOD rather than COLD. 'YKOW' is wrong because it maps C to Y and O to K, shifting the mirror by one position throughout."
     },
     {
       "id": "16",

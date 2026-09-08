@@ -33,8 +33,9 @@ This project is **plan-driven**. The 70-day study plan predefines EVERY mock tes
 1. **Read `mock-tests/config.json`** — it holds `test_counter` and `next_test` (the number of the next pending test). This file is tiny; always read it first.
 2. **Read the matching entry in `mock-tests/manifest.json`** for that test number to get its full spec: `subject`, `topics`, `total_questions`, `difficulty_profile`, `type`, `filename`. Do NOT read the whole `manifest.json` into memory if you can jump to the entry; it is a compact index by design.
 3. **Read ONLY the relevant subject history shard(s)** in `mock-tests/history/<X>.json` (X = subject letter A–E, or all five only for a Full Test) to avoid repeating questions. Never read the generated test files in `mock-tests/tests/` in bulk — they exist only as output artifacts.
-4. **Generate** the test exactly per the spec and the rules in the sections below.
-5. **Run the Post-Generation Workflow (Section 7).**
+4. **If the test includes section B or C questions, read `current_affairs_2026.md`** — it is small and is the source of truth for every fact that changes over time (Section 0B).
+5. **Generate** the test exactly per the spec and the rules in the sections below.
+6. **Run the Post-Generation Workflow (Section 7).**
 
 **Context-safety rules (do not violate):**
 - Only ever read: `config.json`, the single needed `manifest.json` entry, and the needed subject history shard(s). This keeps every session fast and within context even after hundreds of tests exist.
@@ -66,6 +67,98 @@ Keep arithmetic **application-oriented and computationally clean** — numbers s
 
 ### E. Basic Concepts of Computers (15 Q) — 10+2 level
 Computer terminology; Hardware and software (types, system vs application software, generations, classifications); Input and output devices; MS Word (ribbon, formatting, shortcuts, mail merge, views); MS Excel (cells/ranges, formulas and functions, references, charts, shortcuts); Storage (primary/secondary, units, magnetic/optical/solid-state, backup) and operating systems (functions, types, Windows basics, file management); Safety and security (viruses, worms, Trojans, phishing, malware, firewalls, antivirus, passwords, backups, safe practices); E-mail and internet usage (accounts, CC/BCC, attachments, protocols, browsing, downloading/uploading, e-banking basics); Search engines (how they work, popular engines, search operators/refinement).
+
+---
+
+## SECTION 0A: SCOPE PRIORITY — INDIA FIRST, J&K FIRST (MANDATORY)
+
+The section titles are scope instructions, not decoration:
+
+- **Section B is "General Knowledge and Current Affairs (INDIA)"** → the default frame is India.
+- **Section C is "General Knowledge with SPECIAL REFERENCE TO J&K"** → the default frame is Jammu & Kashmir / Ladakh.
+
+A question can be perfectly true and still be **off-syllabus** because it is scoped to the
+wrong place. That is a rule violation, not a stylistic preference.
+
+### The rule
+
+1. **Section C: every question must have a J&K/Ladakh anchor.** Not one question in section C
+   may be a generic all-India item. Where the syllabus names a national instrument
+   (**RTI Act**, Indus Water Treaty, centrally sponsored schemes, Constitution-related
+   points), test it **through its J&K application** — how it reached J&K, what it replaced,
+   which J&K body administers it, what it changed for J&K. Reciting the central Act with no
+   J&K dimension is a violation.
+2. **Section B: India is the default frame.** For every syllabus area that names India, the
+   question must be about India:
+   - "Famous Places in India" → Indian monuments and Indian World Heritage Sites, **not**
+     world monuments or the world World Heritage list.
+   - "Important rivers & lakes in India" → Indian rivers/lakes. **A question whose answer is
+     the Nile, Amazon or Lake Baikal does not belong in this slot.**
+   - "Climate & Crops in India", "Constitution of India", "Indian Foreign Trade",
+     "Agriculture/industrialisation", "Centrally Sponsored Schemes", "Firsts in India",
+     "Languages", "Important dates in Indian History" → India only.
+3. **These section B areas ARE legitimately world-scoped** — the syllabus says so, so world
+   content here is correct and must not be "fixed" to India:
+   - "First in world (Adventure, Sports, Discoveries)"
+   - "Capitals & Currencies"
+   - "United Nations Organizations" (organs, functions, veto, members, specialised agencies,
+     headquarters) · "SAARC, ASEAN"
+   - "Political & Physical divisions of world **& India**" — cover both, but keep an India tilt
+   - "World famous Awards" (alongside the separate "National Awards" item)
+   - "Everyday Science" · "Books & Authors — General"
+   - "The world of Sports" — international events are in scope, but **tilt hard toward India's
+     performance, Indian players, Indian venues and Indian trophies**
+4. **A world superlative used to frame an Indian answer is fine and encouraged.** "The
+   Sundarbans, the world's largest mangrove forest, lies in which Indian state?" is a good
+   section B question — the subject is Indian, the superlative is only context. What is
+   forbidden is a question whose *answer* is non-Indian in an India-scoped slot.
+5. **UNESCO is a worked example of the distinction.** The **list of World Heritage Sites**
+   belongs to "Famous Places in India" → keep it Indian (see `current_affairs_2026.md` §4).
+   **UNESCO the agency** (mandate, Paris headquarters, Kalinga Prize) belongs to the
+   "United Nations Organizations" item → world scope is correct there.
+
+---
+
+## SECTION 0B: FACTUAL CURRENCY — THE CORPUS HAS AN AS-OF DATE (MANDATORY)
+
+**AS-OF DATE: September 2026.** Every factual question must be true as of that date, not as
+of your training data. A question that was right in 2024 and is wrong now is worse than no
+question at all — it actively teaches the candidate a wrong answer.
+
+1. **Read `current_affairs_2026.md` before writing any section B or C question.** It is the
+   single source of truth for every fact that changes over time: J&K's Chief Minister and
+   Assembly status, the Indus Waters Treaty's abeyance, the USBRL/Chenab Bridge
+   inauguration, India's World Heritage and Ramsar counts, classical languages, the Census
+   position, latest sports results. **When that file and your memory disagree, the file wins.**
+2. **Prefer stable facts over volatile ones.** The 1960 signing of the Indus Waters Treaty
+   never rots; "how many Ramsar sites does India have" rots within months. When a stable
+   question tests the same knowledge, write the stable one.
+3. **If you must test a volatile fact, date it inside the stem** — "As of August 2026, India
+   has how many Ramsar sites?" — so the item is auditable instead of silently wrong.
+4. **Never write an undated relative claim.** No "currently", "at present", "the latest",
+   "most recent", "in recent years", "as of recent estimates", "the incumbent" without an
+   explicit year. These are flagged as `UNDATED` by the audit.
+5. **Never invent a current fact.** If `current_affairs_2026.md` is silent on a volatile
+   point and you are not certain, do not guess — choose a stable fact instead.
+6. **Volatile categories to handle with care:** officeholders of any kind; counts of
+   sites/reserves/schemes; "newest/latest/first to" claims; GDP shares, export and forex
+   figures, scheme outlays; election status; treaty status; sports champions.
+7. **Distinguish "changed" from "superseded".** Census 2011 is still India's latest
+   *published* census (Census 2027 enumeration is only in Feb 2027), so "as per Census 2011"
+   questions remain correct. Do not "modernise" a fact that has not actually changed.
+
+### Mechanical check
+
+`_validate.py` cannot see meaning, so it cannot catch either of these two defect classes.
+Run the scope/currency audit as well:
+
+```bash
+python3 mock-tests/_audit_scope.py mock-tests/tests/<file>.json
+```
+
+It reports `SCOPE-C` (section C item with no J&K anchor), `SCOPE-B` (world-scoped item in an
+India-scoped topic), `STALE` (asserts a fact known to be out of date) and `UNDATED`
+(undated time-relative claim). Fix every finding before recording the test.
 
 ---
 
@@ -325,8 +418,11 @@ Before finalizing, verify:
 18. **ANSWER CORRECTNESS VERIFIED:** For every math/reasoning question, have you computed the answer from scratch and confirmed it matches `correctAnswer`? For every statement-based question, have you verified each statement individually? For every coding-decoding question, have you applied the rule letter-by-letter?
 19. **NO SELF-CONTRADICTING EXPLANATIONS:** Does any `explanation` contain hedging phrases like "Wait", "Let me recalculate", "Actually all are correct", "Hmm", or "The answer should be"? If yes, the question has an unresolved error — fix it before proceeding.
 20. **CLEAN NUMBERS:** For every math question, does the correct calculation produce a value that EXACTLY matches one of the four options? If the calculation gives 5.33 but the closest option is 5, redesign the question with different numbers that yield a clean answer.
+21. **SCOPE (Section 0A):** Does EVERY section C question have a J&K/Ladakh anchor? Is every section B question about India, except in the areas the syllabus explicitly scopes to the world (capitals & currencies, UN, SAARC/ASEAN, firsts in world, world awards, world physical/political divisions, everyday science, books & authors, world of sports)? Is there any question in an India-scoped slot whose ANSWER is non-Indian?
+22. **CURRENCY (Section 0B):** Have you checked `current_affairs_2026.md` for every volatile fact? Is each factual claim true **as of September 2026**? Does any question make a "currently/latest/most recent/in recent years" claim without an explicit year?
 
 You may run `python3 mock-tests/_validate.py <file.json>` to mechanically check items 1–3, 9, 17, 19 and the answer-key balance before recording.
+Run `python3 mock-tests/_audit_scope.py <file.json>` to check items 21–22 (scope drift and stale/undated facts) — `_validate.py` cannot see meaning and will not catch them.
 
 ---
 
@@ -350,3 +446,4 @@ python3 mock-tests/_record_test.py <N>
 - History shards: `mock-tests/history/A.json` … `mock-tests/history/E.json`
 - Study Plan (human-readable): #[[STUDY_PLAN.md]]
 - Syllabus: #[[syllabus_constable.md]]
+- **Volatile facts / current affairs (read before any B or C question): #[[current_affairs_2026.md]]**

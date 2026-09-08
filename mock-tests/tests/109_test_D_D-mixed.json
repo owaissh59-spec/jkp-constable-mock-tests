@@ -87,12 +87,12 @@
       "questionText": "Consider the following coding pattern: If COMPUTER is coded as DNPQVUFS (each letter +1), then KEYBOARD is coded as:",
       "options": [
         "LFZCPBSE",
-        "LFZCPBSE",
+        "JDXANZQC",
         "LDZANAQC",
         "JDXANAQC"
       ],
       "correctAnswer": "LFZCPBSE",
-      "explanation": "Each letter shifts +1: K→L, E→F, Y→Z, B→C, O→P, A→B, R→S, D→E = LFZCPBSE. Option 'LDZANAQC' uses wrong shifting pattern. Option 'JDXANAQC' shifts -1 instead of +1. The +1 pattern is confirmed by COMPUTER→DNPQVUFS (C+1=D, O+1=P, M+1=N, etc.)."
+      "explanation": "The rule is +1 on each letter, as shown by COMPUTER becoming DNPQVUFS. Applying it to KEYBOARD: K→L, E→F, Y→Z, B→C, O→P, A→B, R→S, D→E, giving LFZCPBSE. 'JDXANZQC' is wrong because it applies −1 instead of +1, shifting each letter backwards. 'LDZANAQC' is wrong because it mixes directions, moving some letters forward and others backward. 'JDXANAQC' is wrong for the same reason, applying −1 to most letters and breaking the pattern entirely. Always verify a coding rule letter by letter before selecting."
     },
     {
       "id": "8",
