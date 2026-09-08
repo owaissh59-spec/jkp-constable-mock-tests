@@ -14,16 +14,16 @@
     {
       "id": "2",
       "subject": "D",
-      "questionText": "Consider the following statements about factors:\n\n(i) 1 is a factor of every number.\n(ii) Every number is a factor of itself.\n(iii) A prime number has more than two factors.\n(iv) The factors of 12 include 1, 2, 3, 4, 6 and 12.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "1 divides every number, every number divides itself, and 12 has factors 1, 2, 3, 4, 6, 12, so (i), (ii) and (iv) are true. Statement (iii) is false because a prime number has exactly two factors, not more, so any option including (iii) is wrong."
+      "questionText": "Consider the following statements about factors:\n\n(i) 1 is a factor of every number.\n(ii) Every number is a factor of itself.\n(iii) The factors of 12 include 1, 2, 3, 4, 6 and 12.\n(iv) A prime number has more than two factors.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "1 divides every number, every number divides itself, and 12 has factors 1, 2, 3, 4, 6, 12, so (i), (ii) and (iii) are true. Statement (iv) is false because a prime number has exactly two factors, not more, so any option including (iv) is wrong."
     },
     {
       "id": "3",
       "subject": "D",
       "questionText": "A number is increased by 20% and then decreased by 20%. The net change is:",
-      "options": ["No change", "4% decrease", "4% increase", "10% decrease"],
+      "options": ["4% decrease", "No change", "4% increase", "10% decrease"],
       "correctAnswer": "4% decrease",
       "explanation": "Take 100: after 20% rise it becomes 120, and 20% of 120 is 24, giving 96, a 4% decrease. 'No change' wrongly assumes the two percentages cancel, but the decrease acts on a larger base. 4% increase and 10% decrease do not match the actual net effect, so 4% decrease is correct."
     },
@@ -31,7 +31,7 @@
       "id": "4",
       "subject": "D",
       "questionText": "Match the following geometric figures with their number of sides:\n\nColumn I:\n(a) Pentagon\n(b) Hexagon\n(c) Octagon\n(d) Triangle\n\nColumn II:\n(i) 3\n(ii) 8\n(iii) 5\n(iv) 6\n\nChoose the correct match:",
-      "options": ["(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"],
+      "options": ["(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)", "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "A pentagon has 5 sides, a hexagon 6, an octagon 8, and a triangle 3, giving (a)-(iii), (b)-(iv), (c)-(ii), (d)-(i). The other options swap pentagon with hexagon or misplace the octagon and triangle, contradicting basic polygon definitions."
     },
@@ -39,23 +39,23 @@
       "id": "5",
       "subject": "D",
       "questionText": "In a code language 'RAT' is written as 'UDW'. How will 'DOG' be written?",
-      "options": ["GRJ", "FRJ", "GSJ", "GRI"],
+      "options": ["FRJ", "GRJ", "GSJ", "GRI"],
       "correctAnswer": "GRJ",
       "explanation": "Each letter is shifted by +3: R→U, A→D, T→W, so D→G, O→R, G→J giving GRJ. Option FRJ shifts D by 2, GSJ shifts O by 4, and GRI shifts G by 2, so each breaks the consistent +3 rule."
     },
     {
       "id": "6",
       "subject": "D",
-      "questionText": "Which of the following are perfect cubes?\n\n(i) 27\n(ii) 64\n(iii) 100\n(iv) 125\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "27 = 3³, 64 = 4³ and 125 = 5³ are all perfect cubes, so (i), (ii) and (iv) are correct. 100 lies between 4³ (64) and 5³ (125) and is not a cube, so any option including 100 is wrong."
+      "questionText": "Which of the following are perfect cubes?\n\n(i) 100\n(ii) 27\n(iii) 64\n(iv) 125\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "27 = 3³, 64 = 4³ and 125 = 5³ are all perfect cubes, so (ii), (iii) and (iv) are correct. 100 lies between 4³ (64) and 5³ (125) and is not a cube, so any option including 100 is wrong."
     },
     {
       "id": "7",
       "subject": "D",
       "questionText": "A man sells an article at a loss of 20% for ₹640. What was the cost price?",
-      "options": ["₹720", "₹760", "₹800", "₹850"],
+      "options": ["₹720", "₹800", "₹760", "₹850"],
       "correctAnswer": "₹800",
       "explanation": "At 20% loss the SP is 80% of CP, so CP = 640 ÷ 0.80 = ₹800. Option ₹720 wrongly reduces 640 further, ₹760 assumes a smaller loss, and ₹850 gives a 24.7% loss, none of which produces exactly 20% loss on ₹800, so ₹800 is correct."
     },
@@ -71,23 +71,23 @@
       "id": "9",
       "subject": "D",
       "questionText": "A boat travels 24 km downstream in 3 hours. If the speed of the current is 2 km/h, the speed of the boat in still water is:",
-      "options": ["6 km/h", "7 km/h", "8 km/h", "10 km/h"],
+      "options": ["7 km/h", "8 km/h", "6 km/h", "10 km/h"],
       "correctAnswer": "6 km/h",
       "explanation": "Downstream speed = 24 ÷ 3 = 8 km/h, and downstream = boat + current, so boat = 8 − 2 = 6 km/h. Option 8 km/h wrongly takes the downstream speed as still water, 10 adds the current instead of subtracting, and 7 does not fit any consistent equation, so 6 km/h is correct."
     },
     {
       "id": "10",
       "subject": "D",
-      "questionText": "Consider the following statements about a square:\n\n(i) All four angles are 90°.\n(ii) All four sides are equal.\n(iii) Its diagonals bisect each other at right angles.\n(iv) A square is not a rhombus.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A square has four right angles, four equal sides, and diagonals that bisect each other at right angles, so (i), (ii) and (iii) are true. Statement (iv) is false because a square is a special rhombus (all sides equal), so any option including (iv) is wrong."
+      "questionText": "Consider the following statements about a square:\n\n(i) All four angles are 90°.\n(ii) A square is not a rhombus.\n(iii) All four sides are equal.\n(iv) Its diagonals bisect each other at right angles.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A square has four right angles, four equal sides, and diagonals that bisect each other at right angles, so (i), (iii) and (iv) are true. Statement (ii) is false because a square is a special rhombus (all sides equal), so any option including (ii) is wrong."
     },
     {
       "id": "11",
       "subject": "D",
       "questionText": "If A : B = 3 : 4 and A = 15, then B is:",
-      "options": ["18", "20", "22", "24"],
+      "options": ["18", "22", "20", "24"],
       "correctAnswer": "20",
       "explanation": "From 3 : 4 = 15 : B, we get B = (15 × 4) ÷ 3 = 20. Option 18 breaks the 3 : 4 ratio (15 : 18 = 5 : 6), 22 gives 15 : 22 which is not 3 : 4, and 24 corresponds to a ratio of 15 : 24 = 5 : 8, so only B = 20 preserves the 3 : 4 proportion."
     },
@@ -111,7 +111,7 @@
       "id": "14",
       "subject": "D",
       "questionText": "Match the following:\n\nColumn I:\n(a) Perimeter of a square\n(b) Area of a rectangle\n(c) Circumference of a circle\n(d) Volume of a cube\n\nColumn II:\n(i) length × breadth\n(ii) 4 × side\n(iii) side × side × side\n(iv) 2πr\n\nChoose the correct match:",
-      "options": ["(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"],
+      "options": ["(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "Perimeter of a square is 4×side, area of a rectangle is l×b, circumference of a circle is 2πr, and volume of a cube is side³, giving (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii). The other options swap perimeter with area or misplace the cube volume, which are dimensionally wrong."
     },
@@ -119,7 +119,7 @@
       "id": "15",
       "subject": "D",
       "questionText": "The simple interest on ₹8,000 for 3 years at 5% per annum is:",
-      "options": ["₹1,000", "₹1,100", "₹1,200", "₹1,500"],
+      "options": ["₹1,000", "₹1,100", "₹1,500", "₹1,200"],
       "correctAnswer": "₹1,200",
       "explanation": "SI = (P × R × T) ÷ 100 = (8000 × 5 × 3) ÷ 100 = ₹1,200. Option ₹1,000 corresponds to a rate of about 4.17%, ₹1,100 to about 4.58%, and ₹1,500 to 6.25%, none of which equals 5%, so only ₹1,200 matches the given rate and period."
     },
@@ -135,17 +135,17 @@
       "id": "17",
       "subject": "D",
       "questionText": "Find the missing letter: A, C, F, J, __________",
-      "options": ["N", "M", "P", "O"],
+      "options": ["O", "N", "M", "P"],
       "correctAnswer": "O",
       "explanation": "The gaps grow by one each time: A(+2)C(+3)F(+4)J(+5)O, since J is the 10th letter and 10 + 5 = 15 = O. Option N corresponds to +4, M to +3, and P to +6, so none of them fits the pattern of steadily increasing gaps."
     },
     {
       "id": "18",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) The sum of any two odd numbers is even.\n(ii) The sum of any two even numbers is even.\n(iii) The product of an even number and any number is even.\n(iv) The sum of an odd and an even number is even.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) The sum of any two odd numbers is even.\n(ii) The sum of any two even numbers is even.\n(iii) The sum of an odd and an even number is even.\n(iv) The product of an even number and any number is even.\n\nWhich of the statements given above are correct?",
       "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Odd + odd = even, even + even = even, and even × anything = even, so (i), (ii) and (iii) are true. Statement (iv) is false because odd + even is odd, not even (e.g. 3 + 4 = 7), so any option including (iv) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Odd + odd = even, even + even = even, and even × anything = even, so (i), (ii) and (iv) are true. Statement (iii) is false because odd + even is odd, not even (e.g. 3 + 4 = 7), so any option including (iii) is wrong."
     },
     {
       "id": "19",
@@ -167,39 +167,39 @@
       "id": "21",
       "subject": "D",
       "questionText": "The value of cos 60° is:",
-      "options": ["1/2", "√3/2", "1", "0"],
+      "options": ["√3/2", "1/2", "1", "0"],
       "correctAnswer": "1/2",
       "explanation": "The standard trigonometric value cos 60° equals 1/2. √3/2 is cos 30° (or sin 60°), 1 is cos 0°, and 0 is cos 90°, so those correspond to different angles and 1/2 is the correct value of cos 60°."
     },
     {
       "id": "22",
       "subject": "D",
-      "questionText": "Which of the following are multiples of 7?\n\n(i) 49\n(ii) 63\n(iii) 81\n(iv) 84\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "49 = 7×7, 63 = 7×9 and 84 = 7×12, so all three are multiples of 7 and (i), (ii) and (iv) are correct. 81 = 7×11 + 4 leaves a remainder, so it is not a multiple of 7 and any option including 81 is wrong."
+      "questionText": "Which of the following are multiples of 7?\n\n(i) 49\n(ii) 63\n(iii) 84\n(iv) 81\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "49 = 7×7, 63 = 7×9 and 84 = 7×12, so all three are multiples of 7 and (i), (ii) and (iii) are correct. 81 = 7×11 + 4 leaves a remainder, so it is not a multiple of 7 and any option including 81 is wrong."
     },
     {
       "id": "23",
       "subject": "D",
       "questionText": "The population of a village increased from 5,000 to 6,000 in a year. The percentage increase is:",
-      "options": ["16%", "18%", "20%", "25%"],
+      "options": ["16%", "20%", "18%", "25%"],
       "correctAnswer": "20%",
       "explanation": "Increase = 6000 − 5000 = 1000, and percentage = (1000 ÷ 5000) × 100 = 20%. Option 16% corresponds to a rise of 800, 18% to 900, and 25% to 1250, none of which equals the actual 1000, so only 20% matches the growth from 5000 to 6000."
     },
     {
       "id": "24",
       "subject": "D",
-      "questionText": "Consider the following statements about the number 1:\n\n(i) It is a natural number.\n(ii) It is a whole number.\n(iii) It is a prime number.\n(iv) It is a factor of every integer.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "1 is a natural number, a whole number, and a factor of every integer, so (i), (ii) and (iv) are true. Statement (iii) is false because 1 has only one factor (itself) and is not prime, so any option including (iii) is wrong."
+      "questionText": "Consider the following statements about the number 1:\n\n(i) It is a prime number.\n(ii) It is a natural number.\n(iii) It is a whole number.\n(iv) It is a factor of every integer.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "1 is a natural number, a whole number, and a factor of every integer, so (ii), (iii) and (iv) are true. Statement (i) is false because 1 has only one factor (itself) and is not prime, so any option including (i) is wrong."
     },
     {
       "id": "25",
       "subject": "D",
       "questionText": "The mean of the first five natural numbers is:",
-      "options": ["2", "2.5", "3.5", "3"],
+      "options": ["2", "2.5", "3", "3.5"],
       "correctAnswer": "3",
       "explanation": "The first five natural numbers are 1, 2, 3, 4, 5, with sum 15 and mean 15 ÷ 5 = 3. Options 2 and 2.5 fall below the true mean, and 3.5 exceeds it; since the numbers are symmetric about 3, that is the correct arithmetic mean."
     },
@@ -231,23 +231,23 @@
       "id": "29",
       "subject": "D",
       "questionText": "By selling an article for ₹660 a shopkeeper makes a profit of 10%. Find the cost price.",
-      "options": ["₹600", "₹580", "₹640", "₹620"],
+      "options": ["₹580", "₹640", "₹620", "₹600"],
       "correctAnswer": "₹600",
       "explanation": "At 10% profit SP = 1.1 × CP, so CP = 660 ÷ 1.1 = ₹600. Option ₹580 would give a profit of about 13.8%, ₹620 about 6.5%, and ₹640 about 3.1%, none of which is 10%, so only ₹600 makes the profit exactly 10%."
     },
     {
       "id": "30",
       "subject": "D",
-      "questionText": "Consider the following statements about angles:\n\n(i) A right angle measures 90°.\n(ii) A straight angle measures 180°.\n(iii) The angles of a triangle sum to 180°.\n(iv) An obtuse angle measures less than 90°.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A right angle is 90°, a straight angle 180°, and triangle angles sum to 180°, so (i), (ii) and (iii) are true. Statement (iv) is false because an obtuse angle is greater than 90° and less than 180°, not less than 90°, so any option including (iv) is wrong."
+      "questionText": "Consider the following statements about angles:\n\n(i) A right angle measures 90°.\n(ii) An obtuse angle measures less than 90°.\n(iii) A straight angle measures 180°.\n(iv) The angles of a triangle sum to 180°.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A right angle is 90°, a straight angle 180°, and triangle angles sum to 180°, so (i), (iii) and (iv) are true. Statement (ii) is false because an obtuse angle is greater than 90° and less than 180°, not less than 90°, so any option including (ii) is wrong."
     },
     {
       "id": "31",
       "subject": "D",
       "questionText": "The following table shows the number of items sold in four weeks:\n\nWeek 1 — 120\nWeek 2 — 150\nWeek 3 — 90\nWeek 4 — 140\n\nWhat is the average weekly sale?",
-      "options": ["120", "125", "130", "135"],
+      "options": ["120", "130", "135", "125"],
       "correctAnswer": "125",
       "explanation": "Total = 120 + 150 + 90 + 140 = 500, and average = 500 ÷ 4 = 125. Option 120 wrongly uses the first week's figure, and 130 or 135 do not match the actual mean, so only 125 correctly divides the total by four weeks."
     },
@@ -255,7 +255,7 @@
       "id": "32",
       "subject": "D",
       "questionText": "The least number divisible by 8, 12 and 15 is:",
-      "options": ["60", "90", "120", "180"],
+      "options": ["120", "60", "90", "180"],
       "correctAnswer": "120",
       "explanation": "The required number is the LCM of 8, 12 and 15. Prime factorisation gives 2³ × 3 × 5 = 120, which all three divide exactly. Option 60 is not divisible by 8, 90 is not divisible by 8, and 180 is a multiple of 60 but not divisible by 8, so 120 is the smallest common multiple."
     },
@@ -263,7 +263,7 @@
       "id": "33",
       "subject": "D",
       "questionText": "Which of the following are multiples of 6?\n\n(i) 48\n(ii) 54\n(iii) 70\n(iv) 96\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "48 = 6×8, 54 = 6×9 and 96 = 6×16, so (i), (ii) and (iv) are all multiples of 6. 70 = 6×11 + 4 leaves a remainder and is not a multiple of 6 (since 70 is not divisible by 3), so any option that includes 70 is wrong."
     },
@@ -271,7 +271,7 @@
       "id": "34",
       "subject": "D",
       "questionText": "The compound interest on ₹10,000 at 10% per annum for 2 years is:",
-      "options": ["₹2,000", "₹2,100", "₹2,050", "₹2,200"],
+      "options": ["₹2,100", "₹2,000", "₹2,050", "₹2,200"],
       "correctAnswer": "₹2,100",
       "explanation": "Amount = 10000 × (1.1)² = 10000 × 1.21 = ₹12,100, so CI = 12,100 − 10,000 = ₹2,100. Option ₹2,000 is the simple interest (no compounding), and ₹2,050 and ₹2,200 do not match the compounded amount, so only ₹2,100 is correct."
     },
@@ -279,7 +279,7 @@
       "id": "35",
       "subject": "D",
       "questionText": "Consider the following statements about number divisibility:\n\n(i) A number is divisible by 3 if the sum of its digits is divisible by 3.\n(ii) A number is divisible by 5 if it ends in 0 or 5.\n(iii) A number is divisible by 4 if its last two digits form a multiple of 4.\n(iv) A number is divisible by 9 if its last digit is 9.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
+      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Divisibility rules for 3, 5 and 4 in (i), (ii) and (iii) are correct standard tests. Statement (iv) is false because divisibility by 9 depends on the digit sum being divisible by 9, not merely on the last digit being 9, so any option including (iv) is wrong."
     },
@@ -287,7 +287,7 @@
       "id": "36",
       "subject": "D",
       "questionText": "Match the following relationships:\n\nColumn I:\n(a) Daughter of one's father's father\n(b) Wife of one's father's brother\n(c) Son of one's sister\n(d) Mother of one's mother\n\nColumn II:\n(i) Aunt\n(ii) Nephew\n(iii) Grandmother\n(iv) Aunt (specifically, paternal aunt) — reinterpret as: Aunt of one's father — treat as Aunt\n\nColumn II (revised):\n(i) Aunt\n(ii) Nephew\n(iii) Grandmother\n(iv) Aunt\n\nChoose the correct match (note: option (iv) is 'Aunt' meaning the same relation label; select based on relationships (a)-(d)):",
-      "options": ["(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "options": ["(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)", "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
       "correctAnswer": "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
       "explanation": "Daughter of one's father's father is one's aunt (or father's sister), wife of one's father's brother is also an aunt, son of one's sister is a nephew, and mother of one's mother is a grandmother, giving (a)-(iv), (b)-(i), (c)-(ii), (d)-(iii). The other options misplace 'nephew' or 'grandmother', which are the wrong generation or gender."
     },
@@ -319,7 +319,7 @@
       "id": "40",
       "subject": "D",
       "questionText": "A shopkeeper marks his goods 30% above the cost price and gives a discount of 10% on the marked price. His profit percent is:",
-      "options": ["15%", "17%", "20%", "22%"],
+      "options": ["15%", "20%", "17%", "22%"],
       "correctAnswer": "17%",
       "explanation": "Take cost = 100, marked = 130, and SP after 10% discount = 130 × 0.9 = 117, giving a profit of 17%. Option 15% and 20% correspond to different markup–discount pairs, and 22% overshoots the profit; only 17% matches a 30% markup followed by a 10% discount."
     },
@@ -327,17 +327,17 @@
       "id": "41",
       "subject": "D",
       "questionText": "A car covers 300 km in 5 hours. To cover the same distance in 4 hours, its speed must be increased by:",
-      "options": ["15 km/h", "20 km/h", "25 km/h", "30 km/h"],
+      "options": ["20 km/h", "25 km/h", "15 km/h", "30 km/h"],
       "correctAnswer": "15 km/h",
       "explanation": "Original speed = 300 ÷ 5 = 60 km/h; required = 300 ÷ 4 = 75 km/h; increase = 75 − 60 = 15 km/h. Option 20, 25 and 30 km/h would give speeds that overshoot the 75 km/h target, so only 15 km/h achieves the same 300 km in 4 hours."
     },
     {
       "id": "42",
       "subject": "D",
-      "questionText": "Consider the following statements about parallelograms:\n\n(i) Opposite sides are equal.\n(ii) Opposite angles are equal.\n(iii) Diagonals are always equal.\n(iv) Diagonals bisect each other.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "In a parallelogram, opposite sides are equal, opposite angles are equal, and diagonals bisect each other, so (i), (ii) and (iv) are true. Statement (iii) is false because the diagonals of a general parallelogram are not equal (only in a rectangle are they equal), so any option with (iii) is wrong."
+      "questionText": "Consider the following statements about parallelograms:\n\n(i) Diagonals are always equal.\n(ii) Opposite sides are equal.\n(iii) Opposite angles are equal.\n(iv) Diagonals bisect each other.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "In a parallelogram, opposite sides are equal, opposite angles are equal, and diagonals bisect each other, so (ii), (iii) and (iv) are true. Statement (i) is false because the diagonals of a general parallelogram are not equal (only in a rectangle are they equal), so any option with (i) is wrong."
     },
     {
       "id": "43",
@@ -359,7 +359,7 @@
       "id": "45",
       "subject": "D",
       "questionText": "Fill in the blank in the series: 3, 12, 27, 48, __________",
-      "options": ["60", "72", "75", "80"],
+      "options": ["60", "72", "80", "75"],
       "correctAnswer": "75",
       "explanation": "The terms are 3×1², 3×2², 3×3², 3×4², so the next is 3×5² = 75. Option 60 corresponds to 3 × 20, which is not a square times 3; 72 and 80 also do not fit the pattern of 3n². Only 75 continues the arithmetic rule 3n²."
     },
@@ -367,7 +367,7 @@
       "id": "46",
       "subject": "D",
       "questionText": "The following table shows the marks (out of 100) obtained by four students:\n\nA — 72\nB — 68\nC — 80\nD — 60\n\nWhich student obtained the highest marks?",
-      "options": ["A", "B", "C", "D"],
+      "options": ["C", "A", "B", "D"],
       "correctAnswer": "C",
       "explanation": "C's 80 is the highest score of the four, ahead of A's 72, B's 68 and D's 60. A is the second highest, not the top, while B and D are lower, so C obtained the maximum marks in this table."
     },
@@ -375,7 +375,7 @@
       "id": "47",
       "subject": "D",
       "questionText": "A tank can be filled by pipe A in 6 hours and by pipe B in 12 hours. If both pipes are opened together, how long will they take to fill the tank?",
-      "options": ["3 hours", "4 hours", "5 hours", "6 hours"],
+      "options": ["4 hours", "3 hours", "5 hours", "6 hours"],
       "correctAnswer": "4 hours",
       "explanation": "Together they fill 1/6 + 1/12 = 2/12 + 1/12 = 3/12 = 1/4 of the tank per hour, so the whole tank in 4 hours. Option 3 hours would require a combined rate of 1/3, 5 hours a rate of 1/5, and 6 hours a rate of 1/6, none of which matches 1/4, so 4 hours is correct."
     },
@@ -399,7 +399,7 @@
       "id": "50",
       "subject": "D",
       "questionText": "Fill in the blank in the series: 100, 96, 88, 76, 60, __________",
-      "options": ["40", "44", "48", "50"],
+      "options": ["44", "40", "48", "50"],
       "correctAnswer": "40",
       "explanation": "The differences are −4, −8, −12, −16, next −20, so 60 − 20 = 40. Option 44 subtracts 16 again, 48 subtracts 12, and 50 subtracts only 10, so none of them follows the pattern of decreasing by multiples of 4; only 40 continues the arithmetic rule."
     },
@@ -414,16 +414,16 @@
     {
       "id": "52",
       "subject": "D",
-      "questionText": "Consider the following statements about ratios:\n\n(i) A ratio compares two quantities of the same kind.\n(ii) The order of terms in a ratio matters.\n(iii) A ratio has no unit.\n(iv) 2 : 3 is the same as 3 : 2.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A ratio compares like quantities, the order of terms matters, and a ratio has no unit (it is a pure number), so (i), (ii) and (iii) are true. Statement (iv) is false because 2 : 3 and 3 : 2 are different ratios (order matters), so any option including (iv) is wrong."
+      "questionText": "Consider the following statements about ratios:\n\n(i) A ratio compares two quantities of the same kind.\n(ii) The order of terms in a ratio matters.\n(iii) 2 : 3 is the same as 3 : 2.\n(iv) A ratio has no unit.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A ratio compares like quantities, the order of terms matters, and a ratio has no unit (it is a pure number), so (i), (ii) and (iv) are true. Statement (iii) is false because 2 : 3 and 3 : 2 are different ratios (order matters), so any option including (iii) is wrong."
     },
     {
       "id": "53",
       "subject": "D",
       "questionText": "The average weight of 8 students is 45 kg. If a teacher weighing 63 kg is included, the new average weight is:",
-      "options": ["46 kg", "47 kg", "48 kg", "50 kg"],
+      "options": ["46 kg", "48 kg", "47 kg", "50 kg"],
       "correctAnswer": "47 kg",
       "explanation": "Total weight of 8 students = 8 × 45 = 360 kg; with teacher = 360 + 63 = 423 kg; new average = 423 ÷ 9 = 47 kg. Options 46, 48 and 50 kg do not match this new mean of 423 across 9 people, so 47 kg is correct."
     },
@@ -447,7 +447,7 @@
       "id": "56",
       "subject": "D",
       "questionText": "Which of the following are irrational numbers?\n\n(i) √2\n(ii) 22/7\n(iii) π\n(iv) 0.5\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i) and (iii) only"],
+      "options": ["(i), (ii) and (iii)", "(ii), (iii) and (iv)", "(i) and (iii) only", "(i), (iii) and (iv)"],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "√2 cannot be expressed as a fraction and π is a non-terminating non-repeating decimal, so both are irrational. 22/7 is a rational approximation of π (an actual fraction), and 0.5 = 1/2 is rational, so any option that includes 22/7 or 0.5 as irrational is wrong; only (i) and (iii) are irrational."
     },
@@ -455,7 +455,7 @@
       "id": "57",
       "subject": "D",
       "questionText": "Two trains 200 m and 300 m long move in opposite directions at speeds of 30 km/h and 42 km/h. Time taken to cross each other is:",
-      "options": ["20 s", "22 s", "25 s", "30 s"],
+      "options": ["20 s", "22 s", "30 s", "25 s"],
       "correctAnswer": "25 s",
       "explanation": "Relative speed (opposite) = 30 + 42 = 72 km/h = 72 × 5/18 = 20 m/s; combined length = 500 m; time = 500 ÷ 20 = 25 s. Options 20, 22 and 30 s do not match this calculation, coming from wrong relative speed conversion or lengths, so 25 s is correct."
     },
@@ -471,17 +471,17 @@
       "id": "59",
       "subject": "D",
       "questionText": "The next term in the series: 1, 4, 9, 16, 25, __________",
-      "options": ["30", "35", "36", "40"],
+      "options": ["30", "35", "40", "36"],
       "correctAnswer": "36",
       "explanation": "The terms are 1², 2², 3², 4², 5², so the next is 6² = 36. Option 30 skips the square pattern, 35 does not correspond to any square, and 40 is between 6² = 36 and 7² = 49 but not a square itself, so only 36 continues the pattern of perfect squares."
     },
     {
       "id": "60",
       "subject": "D",
-      "questionText": "Consider the following statements about the mean, median and mode of the data set 3, 5, 5, 7, 10:\n\n(i) The mean is 6.\n(ii) The median is 5.\n(iii) The mode is 5.\n(iv) The mean, median and mode are all equal.\n\nWhich of the statements given above are correct?",
-      "options": ["(ii), (iii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (ii) and (iii)"],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Mean = (3+5+5+7+10) ÷ 5 = 30 ÷ 5 = 6, median (middle value) = 5, and mode (most frequent) = 5, so (i), (ii) and (iii) are true. Statement (iv) is false because the mean (6) differs from the median and mode (5), so any option including (iv) is wrong."
+      "questionText": "Consider the following statements about the mean, median and mode of the data set 3, 5, 5, 7, 10:\n\n(i) The mean, median and mode are all equal.\n(ii) The mean is 6.\n(iii) The median is 5.\n(iv) The mode is 5.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Mean = (3+5+5+7+10) ÷ 5 = 30 ÷ 5 = 6, median (middle value) = 5, and mode (most frequent) = 5, so (ii), (iii) and (iv) are true. Statement (i) is false because the mean (6) differs from the median and mode (5), so any option including (i) is wrong."
     }
   ]
 }

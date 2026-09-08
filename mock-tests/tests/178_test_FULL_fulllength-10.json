@@ -21,9 +21,9 @@
       "subject": "B",
       "questionText": "Which Indian city is served by the Rajiv Gandhi International Airport?",
       "options": [
+        "Hyderabad",
         "Bengaluru",
         "Chennai",
-        "Hyderabad",
         "Visakhapatnam"
       ],
       "correctAnswer": "Hyderabad",
@@ -34,8 +34,8 @@
       "subject": "D",
       "questionText": "A shopkeeper marks his goods 40% above cost price and allows a discount of 25% on the marked price. What is his profit percentage?",
       "options": [
-        "10%",
         "5%",
+        "10%",
         "12%",
         "15%"
       ],
@@ -47,10 +47,10 @@
       "subject": "C",
       "questionText": "The famous Mughal garden 'Nishat Bagh' on the banks of the Dal Lake was laid out by whom?",
       "options": [
+        "Asif Khan",
         "Jahangir",
         "Shah Jahan",
-        "Zain-ul-Abidin",
-        "Asif Khan"
+        "Zain-ul-Abidin"
       ],
       "correctAnswer": "Asif Khan",
       "explanation": "Nishat Bagh was laid out in 1633 by Asif Khan, brother of Nur Jahan. Jahangir built the nearby Shalimar Bagh; Shah Jahan was the emperor but not the garden's builder here; Zain-ul-Abidin (Budshah) was a 15th-century Sultan of Kashmir unconnected with this Mughal garden."
@@ -79,7 +79,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "The jury acting as individuals ('divided') takes the plural 'were', and the grammatical rule in R precisely explains this, so the first option is right. The options claiming A or R is incorrect fail because both are true; the 'not the correct explanation' option fails because R is exactly the governing rule."
+      "explanation": "The jury acting as individuals ('divided') takes the plural 'were', and the grammatical rule in R precisely explains this, so 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is right. The options claiming A or R is incorrect fail because both are true; the 'not the correct explanation' option fails because R is exactly the governing rule."
     },
     {
       "id": "7",
@@ -87,8 +87,8 @@
       "questionText": "Consider the following statements about the United Nations Organization:\n\n(i) The Security Council has five permanent members with veto power.\n(ii) The International Court of Justice is located in Geneva.\n(iii) The UN was founded in 1945.\n(iv) The General Assembly is the main deliberative organ where each member has one vote.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (iii) and (iv)",
@@ -110,23 +110,23 @@
     {
       "id": "9",
       "subject": "E",
-      "questionText": "Which of the following are examples of web browsers?\n\n(i) Mozilla Firefox\n(ii) MS Excel\n(iii) Google Chrome\n(iv) Safari\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of web browsers?\n\n(i) Mozilla Firefox\n(ii) Google Chrome\n(iii) MS Excel\n(iv) Safari\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Firefox, Chrome and Safari are web browsers used to access the internet. MS Excel is a spreadsheet application, not a browser, so any combination containing (ii) is wrong. Only '(i), (iii) and (iv)' lists genuine browsers, making it the correct grouping."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Firefox, Chrome and Safari are web browsers used to access the internet. MS Excel is a spreadsheet application, not a browser, so any combination containing (iii) is wrong. Only '(i), (ii) and (iv)' lists genuine browsers, making it the correct grouping."
     },
     {
       "id": "10",
       "subject": "A",
       "questionText": "Choose the word most nearly OPPOSITE in meaning to 'FRUGAL':",
       "options": [
-        "Extravagant",
         "Economical",
+        "Extravagant",
         "Thrifty",
         "Prudent"
       ],
@@ -139,8 +139,8 @@
       "questionText": "Match the following personalities with their popular sobriquets:\n\nColumn I:\n(a) Sarojini Naidu\n(b) C. V. Raman\n(c) Bhagat Singh\n(d) Dadabhai Naoroji\n\nColumn II:\n(i) Grand Old Man of India\n(ii) Nightingale of India\n(iii) Shaheed-e-Azam\n(iv) Associated with the scattering of light\n\nChoose the correct match:",
       "options": [
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
@@ -166,8 +166,8 @@
       "options": [
         "Banihal Pass",
         "Pir Panjal Pass",
-        "Sadhna Pass",
-        "Zoji La"
+        "Zoji La",
+        "Sadhna Pass"
       ],
       "correctAnswer": "Zoji La",
       "explanation": "Zoji La (about 3,528 m) on the Srinagar–Leh road links the Kashmir Valley with Ladakh. Banihal connects Kashmir with Jammu; Pir Panjal Pass lies in the Pir Panjal range toward Jammu; Sadhna Pass links the Kashmir Valley with Karnah/Tangdhar, not Ladakh."
@@ -190,9 +190,9 @@
       "subject": "A",
       "questionText": "Fill in the blank with the correct preposition: The committee will deliberate __________ the proposal before taking a final decision. __________",
       "options": [
-        "on",
         "at",
         "for",
+        "on",
         "into"
       ],
       "correctAnswer": "on",
@@ -217,8 +217,8 @@
       "questionText": "If 15 workers can build a wall in 48 hours, how many workers are required to build the same wall in 30 hours?",
       "options": [
         "20",
-        "24",
         "18",
+        "24",
         "25"
       ],
       "correctAnswer": "24",
@@ -231,20 +231,20 @@
       "options": [
         "He said that he will help me tomorrow.",
         "He says that he would help me the next day.",
-        "He said that I would help him the following day.",
-        "He said that he would help me the next day."
+        "He said that he would help me the next day.",
+        "He said that I would help him the following day."
       ],
       "correctAnswer": "He said that he would help me the next day.",
-      "explanation": "In reported speech after a past reporting verb, 'will' becomes 'would', the pronoun 'I' becomes 'he', 'you' becomes 'me', and 'tomorrow' becomes 'the next day'. The second option wrongly keeps 'will' and 'tomorrow'; the third wrongly changes 'said' to present 'says'; the fourth reverses the pronouns so the meaning is inverted."
+      "explanation": "In reported speech after a past reporting verb, 'will' becomes 'would', the pronoun 'I' becomes 'he', 'you' becomes 'me', and 'tomorrow' becomes 'the next day'. 'He says that he would help me the next day.' wrongly keeps 'will' and 'tomorrow'; the third wrongly changes 'said' to present 'says'; the fourth reverses the pronouns so the meaning is inverted."
     },
     {
       "id": "19",
       "subject": "A",
       "questionText": "Identify the type of the underlined clause: 'I know the reason WHY HE LEFT EARLY.'",
       "options": [
-        "Adjective clause",
         "Noun clause",
         "Adverb clause",
+        "Adjective clause",
         "Main clause"
       ],
       "correctAnswer": "Adjective clause",
@@ -266,20 +266,7 @@
     {
       "id": "21",
       "subject": "D",
-      "questionText": "Consider the following statements about the number 45:\n\n(i) It is divisible by 9.\n(ii) It is a prime number.\n(iii) It is divisible by 5.\n(iv) The sum of its digits is 9.\n\nWhich of the statements given above are correct?",
-      "options": [
-        "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
-      ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "45 ÷ 9 = 5 so (i) is true, 45 ÷ 5 = 9 so (iii) is true, and 4 + 5 = 9 so (iv) is true. Statement (ii) is false because 45 = 9 × 5 is composite, not prime, so every option containing (ii) is eliminated, leaving '(i), (iii) and (iv)'."
-    },
-    {
-      "id": "22",
-      "subject": "C",
-      "questionText": "Consider the following statements about the Tulip Garden in Srinagar:\n\n(i) It is officially named the Indira Gandhi Memorial Tulip Garden.\n(ii) It is regarded as Asia's largest tulip garden.\n(iii) It is situated on the foothills of the Zabarwan range.\n(iv) It overlooks the Wular Lake.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the number 45:\n\n(i) It is divisible by 9.\n(ii) It is divisible by 5.\n(iii) The sum of its digits is 9.\n(iv) It is a prime number.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
@@ -287,17 +274,30 @@
         "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The garden is officially the Indira Gandhi Memorial Tulip Garden (i), is billed as Asia's largest tulip garden (ii) and lies on the Zabarwan foothills (iii). Statement (iv) is false because it overlooks the Dal Lake, not the Wular Lake, so any option containing (iv) is eliminated, leaving '(i), (ii) and (iii)'."
+      "explanation": "45 ÷ 9 = 5 so (i) is true, 45 ÷ 5 = 9 so (ii) is true, and 4 + 5 = 9 so (iii) is true. Statement (iv) is false because 45 = 9 × 5 is composite, not prime, so every option containing (iv) is eliminated, leaving '(i), (ii) and (iii)'."
+    },
+    {
+      "id": "22",
+      "subject": "C",
+      "questionText": "Consider the following statements about the Tulip Garden in Srinagar:\n\n(i) It overlooks the Wular Lake.\n(ii) It is officially named the Indira Gandhi Memorial Tulip Garden.\n(iii) It is regarded as Asia's largest tulip garden.\n(iv) It is situated on the foothills of the Zabarwan range.\n\nWhich of the statements given above are correct?",
+      "options": [
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
+      ],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The garden is officially the Indira Gandhi Memorial Tulip Garden (ii), is billed as Asia's largest tulip garden (iii) and lies on the Zabarwan foothills (iv). Statement (i) is false because it overlooks the Dal Lake, not the Wular Lake, so any option containing (i) is eliminated, leaving '(ii), (iii) and (iv)'."
     },
     {
       "id": "23",
       "subject": "E",
       "questionText": "Which of the following is a type of malware that disguises itself as legitimate software to trick users into installing it?",
       "options": [
-        "Trojan horse",
         "Firewall",
         "Cookie",
-        "Router"
+        "Router",
+        "Trojan horse"
       ],
       "correctAnswer": "Trojan horse",
       "explanation": "A Trojan horse masquerades as genuine software to gain entry. A firewall is a protective security barrier, not malware; a cookie is a small data file for websites; a router is networking hardware — none is disguised malicious software."
@@ -309,8 +309,8 @@
       "options": [
         "Its raining, and the dog wagged it's tail.",
         "Its raining, and the dog wagged its tail.",
-        "It's raining, and the dog wagged its tail.",
-        "It's raining, and the dog wagged it's tail."
+        "It's raining, and the dog wagged it's tail.",
+        "It's raining, and the dog wagged its tail."
       ],
       "correctAnswer": "It's raining, and the dog wagged its tail.",
       "explanation": "'It's' is the contraction of 'it is' (correct for 'It's raining'), while 'its' is the possessive (correct for 'its tail'). The other options swap these two: they either write 'Its raining' (missing the contraction) or 'it's tail' (using a contraction where a possessive is needed), both of which are wrong."
@@ -321,9 +321,9 @@
       "questionText": "The 'Sardar Sarovar Dam' is built on which river?",
       "options": [
         "Tapti",
-        "Narmada",
         "Godavari",
-        "Krishna"
+        "Krishna",
+        "Narmada"
       ],
       "correctAnswer": "Narmada",
       "explanation": "The Sardar Sarovar Dam is on the Narmada river in Gujarat. The Tapti, Godavari and Krishna are separate rivers, each with their own dams and projects, and none of them hosts the Sardar Sarovar Dam, which is specifically a Narmada-valley project shared by Gujarat, Madhya Pradesh and Maharashtra."
@@ -359,9 +359,9 @@
       "subject": "A",
       "questionText": "Choose the option that best expresses the meaning of the idiom 'to throw in the towel':",
       "options": [
+        "To admit defeat and give up",
         "To clean up a mess",
         "To start a fight",
-        "To admit defeat and give up",
         "To offer help generously"
       ],
       "correctAnswer": "To admit defeat and give up",
@@ -372,8 +372,8 @@
       "subject": "B",
       "questionText": "Which scheme provides for 100 days of guaranteed wage employment in a financial year to rural households?",
       "options": [
-        "PM-KISAN",
         "MGNREGA",
+        "PM-KISAN",
         "Ayushman Bharat",
         "PMAY"
       ],
@@ -385,10 +385,10 @@
       "subject": "D",
       "questionText": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is the woman in the photograph related to the man?",
       "options": [
+        "Sister",
         "Daughter",
         "Niece",
-        "Aunt",
-        "Sister"
+        "Aunt"
       ],
       "correctAnswer": "Sister",
       "explanation": "The grandfather's only son is the man's own father, so the father's daughter is the man's sister. 'Daughter' would require her to be his child, not his father's; 'niece' and 'aunt' involve different generations and are ruled out."
@@ -412,8 +412,8 @@
       "questionText": "Match the following file extensions with the type of file they represent:\n\nColumn I:\n(a) .docx\n(b) .xlsx\n(c) .pptx\n(d) .mp3\n\nColumn II:\n(i) Spreadsheet\n(ii) Word document\n(iii) Audio file\n(iv) Presentation\n\nChoose the correct match:",
       "options": [
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
@@ -438,9 +438,9 @@
       "questionText": "The first Indian woman to win an Olympic medal was:",
       "options": [
         "P. T. Usha",
+        "Karnam Malleswari",
         "Mary Kom",
-        "Saina Nehwal",
-        "Karnam Malleswari"
+        "Saina Nehwal"
       ],
       "correctAnswer": "Karnam Malleswari",
       "explanation": "Weightlifter Karnam Malleswari won bronze at Sydney 2000, becoming the first Indian woman Olympic medallist. P. T. Usha narrowly missed a medal in 1984; Mary Kom and Saina Nehwal won later, after 2000."
@@ -450,8 +450,8 @@
       "subject": "D",
       "questionText": "The simple interest on a sum for 4 years at 5% per annum is ₹800. What is the principal?",
       "options": [
-        "₹4,000",
         "₹3,200",
+        "₹4,000",
         "₹5,000",
         "₹4,500"
       ],
@@ -461,15 +461,15 @@
     {
       "id": "36",
       "subject": "E",
-      "questionText": "Consider the following statements about an operating system:\n\n(i) It manages hardware and software resources.\n(ii) Windows and Linux are examples of operating systems.\n(iii) It is a type of application software.\n(iv) It provides an interface between the user and the computer.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about an operating system:\n\n(i) It manages hardware and software resources.\n(ii) It is a type of application software.\n(iii) Windows and Linux are examples of operating systems.\n(iv) It provides an interface between the user and the computer.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "An OS manages resources (i), includes Windows and Linux (ii) and provides a user interface (iv). Statement (iii) is false because an OS is system software, not application software, so any option containing (iii) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "An OS manages resources (i), includes Windows and Linux (iii) and provides a user interface (iv). Statement (ii) is false because an OS is system software, not application software, so any option containing (ii) is wrong."
     },
     {
       "id": "37",
@@ -491,8 +491,8 @@
       "options": [
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "India's classical languages now number eleven: Tamil (2004), Sanskrit (2005), Telugu and Kannada (2008), Malayalam (2013), Odia (2014), and Marathi, Pali, Prakrit, Assamese and Bengali, all added on 3 October 2024. Tamil (i), Sanskrit (ii) and Telugu (iv) are all on that list, so that combination is correct. Hindi (iii) is wrong — despite being an official language and an Eighth Schedule language, it has not been conferred classical status, so any option including (iii) must be rejected."
@@ -502,9 +502,9 @@
       "subject": "D",
       "questionText": "Find the next term in the series: 3, 6, 11, 18, 27, ?",
       "options": [
-        "38",
         "36",
         "40",
+        "38",
         "37"
       ],
       "correctAnswer": "38",
@@ -529,8 +529,8 @@
       "questionText": "Which search operator, when placed around a phrase, forces a search engine to return results with that exact phrase?",
       "options": [
         "Asterisk *",
-        "Quotation marks \"...\"",
         "Plus sign +",
+        "Quotation marks \"...\"",
         "Hyphen -"
       ],
       "correctAnswer": "Quotation marks \"...\"",
@@ -543,8 +543,8 @@
       "options": [
         "has already left",
         "already left",
-        "was already leaving",
-        "had already left"
+        "had already left",
+        "was already leaving"
       ],
       "correctAnswer": "had already left",
       "explanation": "Because the leaving happened before the past action of reaching, the past perfect 'had already left' is required. 'has already left' is present perfect; 'already left' is simple past without sequence; 'was already leaving' implies an ongoing action, not a completed prior one."
@@ -554,9 +554,9 @@
       "subject": "B",
       "questionText": "Which organization publishes the 'Human Development Report'?",
       "options": [
-        "UNDP",
         "WHO",
         "World Bank",
+        "UNDP",
         "IMF"
       ],
       "correctAnswer": "UNDP",
@@ -582,8 +582,8 @@
       "options": [
         "27",
         "23",
-        "19",
-        "17"
+        "17",
+        "19"
       ],
       "correctAnswer": "19",
       "explanation": "By operator precedence, multiplication happens first: 5 × 3 = 15, then 4 + 15 = 19. '27' wrongly adds first (4+5)×3; '23' and '17' come from other precedence or arithmetic mistakes."
@@ -594,9 +594,9 @@
       "questionText": "Choose the word that is a correct synonym of 'METICULOUS':",
       "options": [
         "Careless",
-        "Careful",
         "Hasty",
-        "Reluctant"
+        "Reluctant",
+        "Careful"
       ],
       "correctAnswer": "Careful",
       "explanation": "'Meticulous' means showing great attention to detail, i.e., 'careful'. 'Careless' and 'hasty' are opposite in sense; 'reluctant' means unwilling, which is unrelated to attention to detail."
@@ -619,10 +619,10 @@
       "subject": "D",
       "questionText": "A shopkeeper sells an article for ₹960 at a loss of 20%. At what price should he sell it to gain 20%?",
       "options": [
-        "₹1,440",
         "₹1,200",
         "₹1,152",
-        "₹1,400"
+        "₹1,400",
+        "₹1,440"
       ],
       "correctAnswer": "₹1,440",
       "explanation": "SP at 20% loss = 0.8 × CP = 960, so CP = 1,200. To gain 20%, SP = 1.2 × 1,200 = 1,440. '₹1,200' is merely the cost price itself with no profit; '₹1,152' comes from wrongly taking 960 × 1.2 instead of using the cost price; '₹1,400' does not correspond to any correct step in the calculation."
@@ -634,8 +634,8 @@
       "options": [
         "Wular Lake",
         "Dal Lake",
-        "Pangong Tso",
-        "Manasbal Lake"
+        "Manasbal Lake",
+        "Pangong Tso"
       ],
       "correctAnswer": "Pangong Tso",
       "explanation": "Pangong Tso is a high-altitude lake in Ladakh whose larger portion lies in Tibet. Wular, Dal and Manasbal are all lakes lying entirely within the Kashmir Valley; none of them is trans-boundary or extends into Tibet, whereas Pangong Tso is specifically noted for spanning the India–China (Tibet) border in Ladakh."
@@ -646,9 +646,9 @@
       "questionText": "Choose the correct option to fill the blank: Hardly had the chief guest arrived __________ the ceremony began.",
       "options": [
         "than",
-        "when",
         "then",
-        "that"
+        "that",
+        "when"
       ],
       "correctAnswer": "when",
       "explanation": "The correlative structure is 'Hardly...when', so 'when' is correct. 'Than' pairs with 'no sooner' (No sooner...than), not with 'hardly'; 'then' is an adverb of time, not a linking conjunction here; 'that' does not form a valid correlative pair with 'hardly' in this inverted sentence."
@@ -656,15 +656,15 @@
     {
       "id": "51",
       "subject": "A",
-      "questionText": "Consider the following statements about the use of the article 'the':\n\n(i) 'The' is used before the names of oceans and seas.\n(ii) 'The' is used before the names of most individual mountains like Everest.\n(iii) 'The' is used before superlatives.\n(iv) 'The' is used before the names of newspapers.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the use of the article 'the':\n\n(i) 'The' is used before the names of oceans and seas.\n(ii) 'The' is used before superlatives.\n(iii) 'The' is used before the names of newspapers.\n(iv) 'The' is used before the names of most individual mountains like Everest.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "'The' precedes oceans/seas (i), superlatives (iii) and newspaper names (iv). Statement (ii) is false because individual peaks like Everest take no article ('Mount Everest', not 'the Everest'), so any option with (ii) is wrong."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "'The' precedes oceans/seas (i), superlatives (ii) and newspaper names (iii). Statement (iv) is false because individual peaks like Everest take no article ('Mount Everest', not 'the Everest'), so any option with (iv) is wrong."
     },
     {
       "id": "52",
@@ -684,9 +684,9 @@
       "subject": "D",
       "questionText": "What is the value of 25% of 40% of 500?",
       "options": [
+        "50",
         "100",
         "45",
-        "50",
         "60"
       ],
       "correctAnswer": "50",
@@ -697,8 +697,8 @@
       "subject": "D",
       "questionText": "Match the following numbers in Column I with their squares in Column II:\n\nColumn I:\n(a) 13\n(b) 14\n(c) 15\n(d) 16\n\nColumn II:\n(i) 225\n(ii) 169\n(iii) 256\n(iv) 196\n\nChoose the correct match:",
       "options": [
-        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
       ],
@@ -710,10 +710,10 @@
       "subject": "E",
       "questionText": "Fill in the blank: The permanent memory of a computer that stores the startup instructions and cannot normally be changed is called __________.",
       "options": [
+        "ROM",
         "RAM",
         "Cache",
-        "Register",
-        "ROM"
+        "Register"
       ],
       "correctAnswer": "ROM",
       "explanation": "ROM (Read Only Memory) holds startup/BIOS instructions and is non-volatile. RAM is volatile working memory; cache is fast temporary CPU memory; a register is a tiny storage location inside the CPU — none is the permanent startup memory described."
@@ -737,8 +737,8 @@
       "questionText": "Which of the following rivers is known as the 'Sorrow of Bihar'?",
       "options": [
         "Damodar",
-        "Gandak",
         "Kosi",
+        "Gandak",
         "Son"
       ],
       "correctAnswer": "Kosi",
@@ -760,23 +760,23 @@
     {
       "id": "59",
       "subject": "E",
-      "questionText": "Which of the following are secondary (auxiliary) storage devices?\n\n(i) Hard Disk Drive\n(ii) Cache memory\n(iii) USB flash drive\n(iv) DVD\n\nSelect the correct combination:",
+      "questionText": "Which of the following are secondary (auxiliary) storage devices?\n\n(i) Cache memory\n(ii) Hard Disk Drive\n(iii) USB flash drive\n(iv) DVD\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "HDD, USB flash drives and DVDs are secondary storage. Cache memory is primary memory located near the CPU, so any combination containing (ii) is wrong, leaving '(i), (iii) and (iv)'."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "HDD, USB flash drives and DVDs are secondary storage. Cache memory is primary memory located near the CPU, so any combination containing (i) is wrong, leaving '(ii), (iii) and (iv)'."
     },
     {
       "id": "60",
       "subject": "A",
       "questionText": "Choose the correct preposition: She has been living in this city __________ 2015.",
       "options": [
-        "since",
         "for",
+        "since",
         "from",
         "by"
       ],
@@ -789,8 +789,8 @@
       "questionText": "Which of the following pairs of country and currency is correctly matched?",
       "options": [
         "Thailand – Ringgit",
-        "South Korea – Yuan",
         "Japan – Yen",
+        "South Korea – Yuan",
         "Indonesia – Peso"
       ],
       "correctAnswer": "Japan – Yen",
@@ -816,8 +816,8 @@
       "options": [
         "Bihu",
         "Onam",
-        "Pongal",
-        "Badamwari (Almond Blossom) Festival"
+        "Badamwari (Almond Blossom) Festival",
+        "Pongal"
       ],
       "correctAnswer": "Badamwari (Almond Blossom) Festival",
       "explanation": "The Badamwari Festival in Srinagar celebrates the almond blossoms that herald spring in Kashmir. Bihu belongs to Assam, Onam to Kerala and Pongal to Tamil Nadu — none is a Kashmiri spring festival."
@@ -840,9 +840,9 @@
       "subject": "A",
       "questionText": "Identify the correct pronoun to complete the sentence: The teacher asked Ravi and __________ to submit the project together.",
       "options": [
-        "me",
         "I",
         "myself",
+        "me",
         "mine"
       ],
       "correctAnswer": "me",
@@ -867,8 +867,8 @@
       "questionText": "A sum becomes ₹1,331 in 3 years at 10% per annum compound interest. What was the principal?",
       "options": [
         "₹1,100",
-        "₹1,000",
         "₹1,210",
+        "₹1,000",
         "₹900"
       ],
       "correctAnswer": "₹1,000",
@@ -881,8 +881,8 @@
       "options": [
         "Web Layout",
         "Outline",
-        "Draft",
-        "Print Layout"
+        "Print Layout",
+        "Draft"
       ],
       "correctAnswer": "Print Layout",
       "explanation": "Print Layout shows margins, headers/footers and page breaks as they will print. Web Layout mimics a browser; Outline shows heading structure; Draft hides page elements for fast typing — none previews the printed page as accurately."
@@ -892,9 +892,9 @@
       "subject": "A",
       "questionText": "Choose the correct meaning of the idiom 'a blessing in disguise':",
       "options": [
-        "A good thing that seemed bad at first",
         "A secret that harms others",
         "A gift given anonymously",
+        "A good thing that seemed bad at first",
         "An unexpected disappointment"
       ],
       "correctAnswer": "A good thing that seemed bad at first",
@@ -907,8 +907,8 @@
       "options": [
         "The Rowlatt Act",
         "The partition of Bengal",
-        "The Salt Tax",
-        "The Jallianwala Bagh incident"
+        "The Jallianwala Bagh incident",
+        "The Salt Tax"
       ],
       "correctAnswer": "The Salt Tax",
       "explanation": "The Dandi March launched the Civil Disobedience Movement against the British salt monopoly and salt tax. The Rowlatt Act triggered earlier protests in 1919; the partition of Bengal (1905) and the 1919 Jallianwala Bagh incident were separate events."
@@ -919,9 +919,9 @@
       "questionText": "The following table shows the marks obtained by a student:\n\nMaths → 85\nScience → 78\nEnglish → 92\nHindi → 65\nSocial Studies → 80\n\nWhat is the average mark obtained by the student?",
       "options": [
         "78",
-        "80",
         "82",
-        "76"
+        "76",
+        "80"
       ],
       "correctAnswer": "80",
       "explanation": "Total = 85 + 78 + 92 + 65 + 80 = 400; average = 400 ÷ 5 = 80. '78' and '82' come from small addition errors in totalling the five marks; '76' understates the total; none of these matches the correct sum of 400 divided by 5, so 80 is the only right average."
@@ -929,25 +929,25 @@
     {
       "id": "72",
       "subject": "C",
-      "questionText": "Consider the following statements about the RTI Act, 2005 in Jammu & Kashmir:\n\n(i) It empowers citizens to seek information from public authorities.\n(ii) A Public Information Officer is designated to provide the information.\n(iii) Information must ordinarily be provided within 30 days.\n(iv) It continued to exclude J&K even after the reorganisation of 2019.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the RTI Act, 2005 in Jammu & Kashmir:\n\n(i) It empowers citizens to seek information from public authorities.\n(ii) It continued to exclude J&K even after the reorganisation of 2019.\n(iii) A Public Information Officer is designated to provide the information.\n(iv) Information must ordinarily be provided within 30 days.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i), (ii) and (iii) are correct — the Act gives every citizen a right of access, requires each public authority to designate a Public Information Officer, and sets an ordinary limit of 30 days for a reply. (iv) is wrong and reverses the position: the J&K Reorganisation Act, 2019 repealed the J&K RTI Act, 2009 and brought J&K squarely within the central Act from 31 October 2019, with second appeals now going to the Central Information Commission. Every option containing (iv) is therefore incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i), (iii) and (iv) are correct — the Act gives every citizen a right of access, requires each public authority to designate a Public Information Officer, and sets an ordinary limit of 30 days for a reply. (ii) is wrong and reverses the position: the J&K Reorganisation Act, 2019 repealed the J&K RTI Act, 2009 and brought J&K squarely within the central Act from 31 October 2019, with second appeals now going to the Central Information Commission. Every option containing (ii) is therefore incorrect."
     },
     {
       "id": "73",
       "subject": "E",
       "questionText": "Which protocol is used to send e-mail from a client to a mail server?",
       "options": [
-        "SMTP",
         "HTTP",
         "FTP",
-        "POP3"
+        "POP3",
+        "SMTP"
       ],
       "correctAnswer": "SMTP",
       "explanation": "SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending outgoing e-mail from a client to a server. HTTP transfers web pages; FTP transfers files between hosts; POP3 is used to retrieve or download incoming mail from a server, not to send it — so none of these three performs the sending function."
@@ -959,8 +959,8 @@
       "options": [
         "Consciencious",
         "Concientious",
-        "Conscientious",
-        "Conscientous"
+        "Conscientous",
+        "Conscientious"
       ],
       "correctAnswer": "Conscientious",
       "explanation": "'Conscientious' (meaning careful and diligent) is the correct spelling. 'Consciencious', 'Concientious' and 'Conscientous' each contain misspellings of the internal letter sequence."
@@ -971,9 +971,9 @@
       "questionText": "The Loktak Lake, the largest freshwater lake in north-east India, is located in which state?",
       "options": [
         "Assam",
-        "Manipur",
         "Tripura",
-        "Meghalaya"
+        "Meghalaya",
+        "Manipur"
       ],
       "correctAnswer": "Manipur",
       "explanation": "Loktak Lake, famous for its floating phumdis and the Keibul Lamjao National Park, lies in Manipur. Assam has wetlands like Deepor Beel, Tripura has Rudrasagar and Meghalaya has Umiam, but none of these is Loktak, which is specifically Manipur's lake, so the other options are wrong."
@@ -983,10 +983,10 @@
       "subject": "D",
       "questionText": "Looking at a portrait, Rahul said, 'His mother is the wife of my father's son. I have no brothers or sisters.' Whose portrait is Rahul looking at?",
       "options": [
+        "His son",
         "His father",
         "His nephew",
-        "Himself",
-        "His son"
+        "Himself"
       ],
       "correctAnswer": "His son",
       "explanation": "Since Rahul has no siblings, 'my father's son' is Rahul himself; the portrait's subject has Rahul's wife as mother, so it is Rahul's son. 'His father' or 'himself' contradicts the mother relation, and 'nephew' would require a sibling."
@@ -994,24 +994,24 @@
     {
       "id": "77",
       "subject": "E",
-      "questionText": "Which of the following are good password security practices?\n\n(i) Using a mix of letters, numbers and symbols.\n(ii) Sharing your password only with close friends.\n(iii) Changing passwords periodically.\n(iv) Avoiding the use of the same password on multiple sites.\n\nSelect the correct combination:",
+      "questionText": "Which of the following are good password security practices?\n\n(i) Using a mix of letters, numbers and symbols.\n(ii) Changing passwords periodically.\n(iii) Sharing your password only with close friends.\n(iv) Avoiding the use of the same password on multiple sites.\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Strong, mixed characters (i), periodic changes (iii) and unique passwords per site (iv) are sound practices. Sharing a password with anyone (ii) is a security risk, so any option including (ii) is wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Strong, mixed characters (i), periodic changes (ii) and unique passwords per site (iv) are sound practices. Sharing a password with anyone (iii) is a security risk, so any option including (iii) is wrong."
     },
     {
       "id": "78",
       "subject": "A",
       "questionText": "Fill in the blank with the correct word: The lawyer's argument had no __________ effect on the jury's decision. __________",
       "options": [
+        "appreciable",
         "appreciative",
         "appreciating",
-        "appreciable",
         "appreciation"
       ],
       "correctAnswer": "appreciable",
@@ -1028,15 +1028,15 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
-      "explanation": "Both statements are true: DPSPs are non-justiciable (A) and they guide governance (R). However, R explains their purpose, not the reason they are unenforceable (that comes from Article 37's wording), so R is not the correct explanation, making the second option right."
+      "explanation": "Both statements are true: DPSPs are non-justiciable (A) and they guide governance (R). However, R explains their purpose, not the reason they are unenforceable (that comes from Article 37's wording), so R is not the correct explanation, making 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' right."
     },
     {
       "id": "80",
       "subject": "D",
       "questionText": "The angle of elevation of the top of a tower from a point 30 m away on level ground is 45°. What is the height of the tower?",
       "options": [
-        "15 m",
         "30 m",
+        "15 m",
         "30√3 m",
         "45 m"
       ],
@@ -1048,10 +1048,10 @@
       "subject": "C",
       "questionText": "Zain-ul-Abidin, a famous 15th-century ruler of Kashmir, is popularly remembered by which title?",
       "options": [
+        "Budshah",
         "Chak Sultan",
         "Lalitaditya",
-        "Ranjit Dev",
-        "Budshah"
+        "Ranjit Dev"
       ],
       "correctAnswer": "Budshah",
       "explanation": "Zain-ul-Abidin is fondly called 'Budshah' (the Great King) for his tolerant and cultured reign. Lalitaditya was an earlier Hindu king of Kashmir; Ranjit Dev ruled Jammu; 'Chak Sultan' refers to the later Chak dynasty, not to Zain-ul-Abidin."
@@ -1061,8 +1061,8 @@
       "subject": "B",
       "questionText": "The 'Jim Corbett National Park', India's oldest national park, is located in which present-day state?",
       "options": [
-        "Uttarakhand",
         "Uttar Pradesh",
+        "Uttarakhand",
         "Madhya Pradesh",
         "Rajasthan"
       ],
@@ -1075,12 +1075,12 @@
       "questionText": "Choose the sentence in which the colon is used correctly:",
       "options": [
         "She had only one goal; to win the match.",
-        "She had: only one goal to win the match.",
         "She had only one goal: to win the match.",
+        "She had: only one goal to win the match.",
         "She had only: one goal to win the match."
       ],
       "correctAnswer": "She had only one goal: to win the match.",
-      "explanation": "A colon correctly introduces an explanation or elaboration after a complete clause, so 'She had only one goal: to win the match.' is right. The second option wrongly uses a semicolon before a phrase; the third and fourth place the colon in the middle of the clause, breaking the sentence structure."
+      "explanation": "A colon correctly introduces an explanation or elaboration after a complete clause, so 'She had only one goal: to win the match.' is right. 'She had: only one goal to win the match.' wrongly uses a semicolon before a phrase; the third and fourth place the colon in the middle of the clause, breaking the sentence structure."
     },
     {
       "id": "84",
@@ -1101,9 +1101,9 @@
       "questionText": "In a class of 60 students, the ratio of boys to girls is 7 : 5. How many girls are there in the class?",
       "options": [
         "35",
+        "25",
         "30",
-        "20",
-        "25"
+        "20"
       ],
       "correctAnswer": "25",
       "explanation": "Total parts = 7 + 5 = 12; each part = 60 ÷ 12 = 5; girls = 5 parts × 5 = 25. '35' is actually the number of boys (7 parts); '30' wrongly assumes an equal 1:1 split of the class; '20' uses the wrong number of ratio parts for the girls, so only 25 is correct."
@@ -1114,8 +1114,8 @@
       "questionText": "Consider the following statements about the number 96:\n\n(i) It is divisible by 8.\n(ii) It is a perfect square.\n(iii) It is divisible by 6.\n(iv) The sum of its digits is 12.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii) and (iv) only",
         "(i) and (iii) only",
+        "(ii) and (iv) only",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i) and (iii) only",
@@ -1141,8 +1141,8 @@
       "options": [
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "Non-Cooperation began in 1920, Quit India in 1942, the INC was formed in 1885, and Bengal was partitioned in 1905. The other options swap years, e.g., dating the INC to 1905 or Quit India to 1920, which are incorrect."
@@ -1166,8 +1166,8 @@
       "questionText": "The ratio of the present ages of a father and his son is 5 : 2. After 10 years, the ratio becomes 2 : 1. What is the present age of the son?",
       "options": [
         "25 years",
-        "20 years",
         "30 years",
+        "20 years",
         "15 years"
       ],
       "correctAnswer": "20 years",
@@ -1180,8 +1180,8 @@
       "options": [
         "Dr. Rajendra Prasad",
         "Sardar Vallabhbhai Patel",
-        "Jawaharlal Nehru",
-        "Dr. B. R. Ambedkar"
+        "Dr. B. R. Ambedkar",
+        "Jawaharlal Nehru"
       ],
       "correctAnswer": "Dr. B. R. Ambedkar",
       "explanation": "Dr. B. R. Ambedkar, as Chairman of the Drafting Committee, is called the Father of the Indian Constitution. Dr. Rajendra Prasad was President of the Constituent Assembly (and later first President of India); Sardar Patel chaired several committees but not the Drafting Committee; Nehru moved the Objectives Resolution but did not head the drafting — so none of them holds this specific title."
@@ -1189,15 +1189,15 @@
     {
       "id": "92",
       "subject": "A",
-      "questionText": "Which of the following are examples of subordinating conjunctions?\n\n(i) although\n(ii) because\n(iii) and\n(iv) unless\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of subordinating conjunctions?\n\n(i) and\n(ii) although\n(iii) because\n(iv) unless\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'Although', 'because' and 'unless' introduce subordinate clauses. 'And' is a coordinating conjunction joining equals, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)'."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Although', 'because' and 'unless' introduce subordinate clauses. 'And' is a coordinating conjunction joining equals, so any combination containing (i) is wrong, leaving '(ii), (iii) and (iv)'."
     },
     {
       "id": "93",
@@ -1205,8 +1205,8 @@
       "questionText": "The 'Chipko Movement', associated with the protection of forests, originated in which present-day state?",
       "options": [
         "Himachal Pradesh",
-        "Uttarakhand",
         "Jharkhand",
+        "Uttarakhand",
         "Sikkim"
       ],
       "correctAnswer": "Uttarakhand",
@@ -1245,8 +1245,8 @@
       "options": [
         "were",
         "have",
-        "was",
-        "are"
+        "are",
+        "was"
       ],
       "correctAnswer": "was",
       "explanation": "'Each' is singular and takes a singular verb, so 'was' is correct even though 'boys' is plural. 'Were' and 'are' are plural verbs that wrongly agree with 'boys' rather than 'each'; 'have' is also plural and does not fit the singular subject 'each', so only 'was' is grammatically correct."
@@ -1257,9 +1257,9 @@
       "questionText": "Which of the following schemes is aimed at providing cooking gas (LPG) connections to women of below-poverty-line families?",
       "options": [
         "Pradhan Mantri Jan Dhan Yojana",
-        "Pradhan Mantri Ujjwala Yojana",
         "Pradhan Mantri Mudra Yojana",
-        "Pradhan Mantri Fasal Bima Yojana"
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Pradhan Mantri Ujjwala Yojana"
       ],
       "correctAnswer": "Pradhan Mantri Ujjwala Yojana",
       "explanation": "Ujjwala Yojana provides LPG connections to women of BPL households. Jan Dhan focuses on bank accounts, Mudra on small-business loans and Fasal Bima on crop insurance — none is about cooking-gas connections."
@@ -1284,8 +1284,8 @@
       "options": [
         "Six",
         "Ten",
-        "Eight",
-        "Five"
+        "Five",
+        "Eight"
       ],
       "correctAnswer": "Eight",
       "explanation": "The Tropic of Cancer passes through eight Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram. 'Six' and 'Five' undercount by omitting states like Tripura or Mizoram; 'Ten' overcounts by wrongly including states such as Maharashtra or Odisha, through which the line does not pass."

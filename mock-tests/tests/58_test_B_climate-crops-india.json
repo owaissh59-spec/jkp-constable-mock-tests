@@ -21,8 +21,8 @@
       "subject": "B",
       "questionText": "The southwest monsoon in India generally arrives on the Kerala coast by which date?",
       "options": [
-        "1st May",
         "1st June",
+        "1st May",
         "1st July",
         "1st August"
       ],
@@ -32,15 +32,15 @@
     {
       "id": "3",
       "subject": "B",
-      "questionText": "Consider the following statements about the Indian monsoon:\n\n(i) The southwest monsoon brings about 75% of India's total annual rainfall.\n(ii) The monsoon has two branches — the Arabian Sea branch and the Bay of Bengal branch.\n(iii) The retreat of the monsoon begins from northwestern India.\n(iv) The northeast monsoon brings rainfall primarily to the Malabar Coast.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Indian monsoon:\n\n(i) The northeast monsoon brings rainfall primarily to the Malabar Coast.\n(ii) The southwest monsoon brings about 75% of India's total annual rainfall.\n(iii) The monsoon has two branches — the Arabian Sea branch and the Bay of Bengal branch.\n(iv) The retreat of the monsoon begins from northwestern India.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — the southwest monsoon contributes about 75-80% of India's total rainfall. (ii) is correct — it splits into Arabian Sea and Bay of Bengal branches. (iii) is correct — the monsoon retreats from northwest India first (by early September). (iv) is wrong — the northeast monsoon brings rainfall to the Coromandel Coast (Tamil Nadu), not the Malabar Coast (Kerala)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — the southwest monsoon contributes about 75-80% of India's total rainfall. (iii) is correct — it splits into Arabian Sea and Bay of Bengal branches. (iv) is correct — the monsoon retreats from northwest India first (by early September). (i) is wrong — the northeast monsoon brings rainfall to the Coromandel Coast (Tamil Nadu), not the Malabar Coast (Kerala)."
     },
     {
       "id": "4",
@@ -73,13 +73,13 @@
       "subject": "B",
       "questionText": "Match the following crops with the seasons in which they are primarily grown in India:\n\nColumn I:\n(a) Wheat\n(b) Rice (Kharif)\n(c) Mustard\n(d) Cotton\n\nColumn II:\n(i) Kharif (June–October)\n(ii) Rabi (October–March)\n(iii) Zaid (March–June)\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(ii), (d)-(i)",
         "(a)-(i), (b)-(ii), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(i), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(ii), (d)-(i)",
-      "explanation": "Wheat is a Rabi crop sown in winter (ii). Rice (Kharif) is grown in the monsoon season (i). Mustard is a Rabi crop sown in winter (ii). Cotton is a Kharif crop grown in the monsoon season (i). Option 2 reverses wheat and rice seasons. Option 3 wrongly places mustard in Kharif. Option 4 places wheat in Zaid."
+      "explanation": "Wheat is a Rabi crop sown in winter (ii). Rice (Kharif) is grown in the monsoon season (i). Mustard is a Rabi crop sown in winter (ii). Cotton is a Kharif crop grown in the monsoon season (i). '(a)-(i), (b)-(ii), (c)-(i), (d)-(ii)' reverses wheat and rice seasons. '(a)-(ii), (b)-(i), (c)-(i), (d)-(ii)' wrongly places mustard in Kharif. '(a)-(iii), (b)-(i), (c)-(ii), (d)-(i)' places wheat in Zaid."
     },
     {
       "id": "7",
@@ -87,9 +87,9 @@
       "questionText": "The 'Mango Showers' in India refer to:",
       "options": [
         "Monsoon rainfall in July that helps mango trees",
-        "Pre-monsoon showers in Kerala and Karnataka that help mango ripening",
         "Post-monsoon rainfall in October–November",
-        "Snowfall in the Himalayan region affecting fruit crops"
+        "Snowfall in the Himalayan region affecting fruit crops",
+        "Pre-monsoon showers in Kerala and Karnataka that help mango ripening"
       ],
       "correctAnswer": "Pre-monsoon showers in Kerala and Karnataka that help mango ripening",
       "explanation": "Mango Showers are pre-monsoon rainfall occurring in March–May in Kerala and coastal Karnataka that help in early ripening of mangoes. They are not monsoon rainfall in July — the monsoon is a separate phenomenon. They are not post-monsoon October rainfall (that's the northeast monsoon). They have nothing to do with Himalayan snowfall."
@@ -97,15 +97,15 @@
     {
       "id": "8",
       "subject": "B",
-      "questionText": "Consider the following statements about wheat cultivation in India:\n\n(i) Wheat is primarily a Rabi crop sown in October–December and harvested in March–April.\n(ii) Uttar Pradesh and Punjab are the top wheat-producing states.\n(iii) Wheat requires hot and humid climate for its growth.\n(iv) The Indo-Gangetic plain is the major wheat-growing belt of India.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about wheat cultivation in India:\n\n(i) Wheat is primarily a Rabi crop sown in October–December and harvested in March–April.\n(ii) Wheat requires hot and humid climate for its growth.\n(iii) Uttar Pradesh and Punjab are the top wheat-producing states.\n(iv) The Indo-Gangetic plain is the major wheat-growing belt of India.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — wheat is a Rabi crop of the winter season. (ii) is correct — UP and Punjab together produce the most wheat. (iv) is correct — the fertile Indo-Gangetic plain is ideal for wheat. (iii) is wrong — wheat requires cool winters and moderate temperatures (10–15°C) for growth, not hot and humid conditions; hot-humid is ideal for rice."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — wheat is a Rabi crop of the winter season. (iii) is correct — UP and Punjab together produce the most wheat. (iv) is correct — the fertile Indo-Gangetic plain is ideal for wheat. (ii) is wrong — wheat requires cool winters and moderate temperatures (10–15°C) for growth, not hot and humid conditions; hot-humid is ideal for rice."
     },
     {
       "id": "9",
@@ -126,8 +126,8 @@
       "questionText": "The Tropic of Cancer passes through how many Indian states?",
       "options": [
         "6",
-        "7",
         "8",
+        "7",
         "9"
       ],
       "correctAnswer": "8",
@@ -152,9 +152,9 @@
       "questionText": "India is the world's largest producer of which of the following crops?",
       "options": [
         "Rice",
+        "Pulses",
         "Wheat",
-        "Sugarcane",
-        "Pulses"
+        "Sugarcane"
       ],
       "correctAnswer": "Pulses",
       "explanation": "India is the world's largest producer (and consumer) of pulses. China is the largest producer of rice, not India (India is second). China is also the largest wheat producer (India is second). Brazil is the largest sugarcane producer (India is second)."
@@ -164,22 +164,22 @@
       "subject": "B",
       "questionText": "Match the following climatic regions of India with their characteristics:\n\nColumn I:\n(a) Western Rajasthan\n(b) Malabar Coast\n(c) Ladakh\n(d) Tamil Nadu\n\nColumn II:\n(i) Receives rainfall from northeast monsoon\n(ii) Hot desert climate with very low rainfall\n(iii) Cold desert climate with scanty rainfall\n(iv) Heavy rainfall from southwest monsoon (over 250 cm)\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-      "explanation": "Western Rajasthan has a hot desert climate with very low rainfall (ii). The Malabar Coast (Kerala) receives heavy rainfall over 250 cm from the southwest monsoon (iv). Ladakh has a cold desert climate with scanty rainfall (iii). Tamil Nadu receives rainfall primarily from the northeast monsoon in October–December (i). Option 2 swaps Rajasthan and Ladakh. Option 3 swaps Malabar and Tamil Nadu. Option 4 misassigns all."
+      "explanation": "Western Rajasthan has a hot desert climate with very low rainfall (ii). The Malabar Coast (Kerala) receives heavy rainfall over 250 cm from the southwest monsoon (iv). Ladakh has a cold desert climate with scanty rainfall (iii). Tamil Nadu receives rainfall primarily from the northeast monsoon in October–December (i). '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' swaps Rajasthan and Ladakh. '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)' swaps Malabar and Tamil Nadu. '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' misassigns all."
     },
     {
       "id": "14",
       "subject": "B",
       "questionText": "Consider the following statements about tea cultivation in India:\n\n(i) Assam is the largest tea-producing state in India.\n(ii) Tea requires hot and humid climate with well-distributed rainfall.\n(iii) Tea is grown on hill slopes to ensure proper drainage.\n(iv) India is the world's largest producer of tea.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -191,9 +191,9 @@
       "questionText": "The 'Western Disturbances' that bring winter rainfall to northern India originate from which region?",
       "options": [
         "Bay of Bengal",
-        "Mediterranean Sea and Caspian Sea region",
         "Indian Ocean",
-        "Pacific Ocean"
+        "Pacific Ocean",
+        "Mediterranean Sea and Caspian Sea region"
       ],
       "correctAnswer": "Mediterranean Sea and Caspian Sea region",
       "explanation": "Western Disturbances are extratropical storms originating from the Mediterranean Sea and Caspian Sea region that bring winter rainfall to north India. Bay of Bengal is the source of the northeast monsoon for Tamil Nadu. The Indian Ocean is the broader source of the summer monsoon. The Pacific Ocean influences East Asia, not India."
@@ -201,23 +201,23 @@
     {
       "id": "16",
       "subject": "B",
-      "questionText": "Consider the following statements about cotton cultivation in India:\n\n(i) Cotton is primarily grown in black soil (regur soil) regions.\n(ii) Gujarat and Maharashtra are the leading cotton-producing states.\n(iii) Cotton requires a hot and dry climate with moderate rainfall.\n(iv) Cotton is a Rabi crop harvested in spring.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about cotton cultivation in India:\n\n(i) Cotton is a Rabi crop harvested in spring.\n(ii) Cotton is primarily grown in black soil (regur soil) regions.\n(iii) Gujarat and Maharashtra are the leading cotton-producing states.\n(iv) Cotton requires a hot and dry climate with moderate rainfall.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "All of the above"
+        "(i), (iii) and (iv)",
+        "All of the above",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — black soil (regur) is ideal for cotton due to moisture retention. (ii) is correct — Gujarat and Maharashtra together dominate Indian cotton production. (iii) is correct — cotton needs high temperature (21–30°C) and 50–100 cm rainfall. (iv) is wrong — cotton is a Kharif crop sown in June–July and picked in October–November, not a Rabi crop."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — black soil (regur) is ideal for cotton due to moisture retention. (iii) is correct — Gujarat and Maharashtra together dominate Indian cotton production. (iv) is correct — cotton needs high temperature (21–30°C) and 50–100 cm rainfall. (i) is wrong — cotton is a Kharif crop sown in June–July and picked in October–November, not a Rabi crop."
     },
     {
       "id": "17",
       "subject": "B",
       "questionText": "Which state receives the highest average annual rainfall in India?",
       "options": [
-        "Kerala",
         "Meghalaya",
+        "Kerala",
         "Assam",
         "Karnataka"
       ],
@@ -253,24 +253,24 @@
     {
       "id": "20",
       "subject": "B",
-      "questionText": "Which of the following are plantation crops of India?\n\n(i) Tea\n(ii) Coffee\n(iii) Wheat\n(iv) Rubber\n\nSelect the correct combination:",
+      "questionText": "Which of the following are plantation crops of India?\n\n(i) Tea\n(ii) Wheat\n(iii) Coffee\n(iv) Rubber\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Tea (i), Coffee (ii), and Rubber (iv) are all plantation crops — they are grown on large estates, require significant capital, and are primarily commercial crops. Wheat (iii) is NOT a plantation crop — it is a food grain crop grown by individual farmers on their fields."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Tea (i), Coffee (iii), and Rubber (iv) are all plantation crops — they are grown on large estates, require significant capital, and are primarily commercial crops. Wheat (ii) is NOT a plantation crop — it is a food grain crop grown by individual farmers on their fields."
     },
     {
       "id": "21",
       "subject": "B",
       "questionText": "Consider the following statements about the Indian monsoon:\n\n(i) The Coriolis force causes the southeast trade winds to deflect as southwest monsoon winds after crossing the equator.\n(ii) The Inter-Tropical Convergence Zone (ITCZ) shifts northward during summer, drawing moisture-laden winds.\n(iii) The monsoon covers the entire country by mid-July.\n(iv) The total duration of the monsoon season in India is about 100–120 days.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "All of the above",
         "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "All of the above",
@@ -281,13 +281,13 @@
       "subject": "B",
       "questionText": "Match the following crops with the states that are their largest producers:\n\nColumn I:\n(a) Tea\n(b) Coffee\n(c) Sugarcane\n(d) Jute\n\nColumn II:\n(i) Uttar Pradesh\n(ii) West Bengal\n(iii) Karnataka\n(iv) Assam\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
-      "explanation": "Assam is the largest tea producer (iv). Karnataka is the largest coffee producer (iii). Uttar Pradesh is the largest sugarcane producer (i). West Bengal is the largest jute producer (ii). Option 2 swaps tea and coffee, and sugarcane and jute. Option 3 swaps coffee and sugarcane. Option 4 swaps tea and jute."
+      "explanation": "Assam is the largest tea producer (iv). Karnataka is the largest coffee producer (iii). Uttar Pradesh is the largest sugarcane producer (i). West Bengal is the largest jute producer (ii). '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' swaps tea and coffee, and sugarcane and jute. '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' swaps coffee and sugarcane. '(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)' swaps tea and jute."
     },
     {
       "id": "23",
@@ -295,9 +295,9 @@
       "questionText": "The 'October Heat' phenomenon in India refers to:",
       "options": [
         "Extremely hot conditions in October due to solar radiation",
-        "High temperatures and humidity during the retreating monsoon season",
         "Heat waves caused by El Niño in October",
-        "Forest fires in central India during October"
+        "Forest fires in central India during October",
+        "High temperatures and humidity during the retreating monsoon season"
       ],
       "correctAnswer": "High temperatures and humidity during the retreating monsoon season",
       "explanation": "October Heat refers to the oppressive heat and high humidity experienced in October as the monsoon retreats — skies clear but moisture remains, making it uncomfortable. It is not caused by extreme solar radiation (the sun is moving south). It is not related to El Niño specifically. It has nothing to do with forest fires."
@@ -309,8 +309,8 @@
       "options": [
         "10",
         "12",
-        "15",
-        "20"
+        "20",
+        "15"
       ],
       "correctAnswer": "15",
       "explanation": "The Planning Commission has divided India into 15 agro-climatic zones based on soil type, climate, and water availability for agricultural planning. 10 and 12 are undercounts. 20 is the number of agro-ecological zones identified by ICAR (a different classification), not the Planning Commission's count."
@@ -333,8 +333,8 @@
       "subject": "B",
       "questionText": "The 'Loo' is a hot wind that blows during summer across the:",
       "options": [
-        "Northern plains of India from west to east",
         "Coastal areas of Kerala",
+        "Northern plains of India from west to east",
         "Eastern Ghats region",
         "Southern Deccan Plateau"
       ],
@@ -347,9 +347,9 @@
       "questionText": "Which of the following is NOT a characteristic of black soil (Regur) found in India?",
       "options": [
         "It is formed from volcanic (basaltic) lava",
+        "It is predominantly found in the Indo-Gangetic plains",
         "It is rich in lime, iron, magnesium and alumina",
-        "It has high moisture retention capacity",
-        "It is predominantly found in the Indo-Gangetic plains"
+        "It has high moisture retention capacity"
       ],
       "correctAnswer": "It is predominantly found in the Indo-Gangetic plains",
       "explanation": "Black soil is NOT found predominantly in the Indo-Gangetic plains — it is primarily in the Deccan Plateau (Maharashtra, Gujarat, MP, Karnataka). The Indo-Gangetic plains have alluvial soil. The other three options are correct characteristics of black soil: volcanic origin, rich in minerals, and high moisture retention."
@@ -373,8 +373,8 @@
       "questionText": "The following data shows the production (in million tonnes) of major food grains in India:\n\nRice → 130\nWheat → 110\nPulses → 27\nCoarse Cereals → 50\n\nWhat is the approximate percentage share of rice in total food grain production?",
       "options": [
         "35%",
-        "41%",
         "48%",
+        "41%",
         "55%"
       ],
       "correctAnswer": "41%",
@@ -383,15 +383,15 @@
     {
       "id": "30",
       "subject": "B",
-      "questionText": "Which of the following are effects of El Niño on Indian agriculture?\n\n(i) It often leads to weak or failed monsoons in India.\n(ii) It causes drought conditions in many parts of the country.\n(iii) It always guarantees excess rainfall in India.\n(iv) It affects crop production and food prices.\n\nSelect the correct combination:",
+      "questionText": "Which of the following are effects of El Niño on Indian agriculture?\n\n(i) It always guarantees excess rainfall in India.\n(ii) It often leads to weak or failed monsoons in India.\n(iii) It causes drought conditions in many parts of the country.\n(iv) It affects crop production and food prices.\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "All of the above"
+        "(i), (iii) and (iv)",
+        "All of the above",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — El Niño (warming of Pacific waters) is associated with weaker monsoons in India. (ii) is correct — reduced rainfall leads to drought in western and central India. (iv) is correct — poor monsoons reduce crop output and push up food prices. (iii) is wrong — El Niño does NOT guarantee excess rainfall; it typically causes deficit rainfall in India."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — El Niño (warming of Pacific waters) is associated with weaker monsoons in India. (iii) is correct — reduced rainfall leads to drought in western and central India. (iv) is correct — poor monsoons reduce crop output and push up food prices. (i) is wrong — El Niño does NOT guarantee excess rainfall; it typically causes deficit rainfall in India."
     }
   ]
 }

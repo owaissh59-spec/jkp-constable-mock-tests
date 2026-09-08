@@ -8,9 +8,9 @@
       "subject": "A",
       "questionText": "Which article correctly fills the gap: The colonel described it as ______ one-sided contest from the very start.",
       "options": [
+        "a",
         "the",
         "an",
-        "a",
         "no article"
       ],
       "correctAnswer": "a",
@@ -21,10 +21,10 @@
       "subject": "B",
       "questionText": "The Quit India Resolution was passed by the All India Congress Committee at Bombay on which date?",
       "options": [
+        "8 August 1942",
         "26 January 1942",
         "9 August 1942",
-        "14 July 1942",
-        "8 August 1942"
+        "14 July 1942"
       ],
       "correctAnswer": "8 August 1942",
       "explanation": "The AICC session at Gowalia Tank Maidan, Bombay adopted the Quit India Resolution on 8 August 1942, after which Gandhi gave the 'Do or Die' call. 9 August 1942 is wrong because that is the date the mass movement actually began following the pre-dawn arrest of the leaders, not the date the resolution was passed. 14 July 1942 is wrong because that is when the Congress Working Committee at Wardha approved the draft resolution which was later placed before the AICC. 26 January 1942 is wrong because 26 January relates to the Independence Day pledge of 1930 and later to Republic Day, not to Quit India."
@@ -34,8 +34,8 @@
       "subject": "D",
       "questionText": "The price of a commodity is first increased by 25% and then the increased price is decreased by 20%. The net effect on the original price is:",
       "options": [
-        "5% increase",
         "no change",
+        "5% increase",
         "5% decrease",
         "1% decrease"
       ],
@@ -47,9 +47,9 @@
       "subject": "E",
       "questionText": "Which of the following is a pointing device that works through a pressure-sensitive surface and is normally built into laptop computers?",
       "options": [
+        "Touchpad",
         "Joystick",
         "Trackball",
-        "Touchpad",
         "Light pen"
       ],
       "correctAnswer": "Touchpad",
@@ -60,10 +60,10 @@
       "subject": "C",
       "questionText": "The Sindh nallah, the largest tributary of the Jhelum within the Kashmir valley, joins the Jhelum near which place?",
       "options": [
+        "Shadipur",
         "Baramulla",
         "Khanabal",
-        "Verinag",
-        "Shadipur"
+        "Verinag"
       ],
       "correctAnswer": "Shadipur",
       "explanation": "The Sindh nallah rises in the Machoi glacier area, flows through Ganderbal district and meets the Jhelum at Shadipur, a confluence locally revered as Prayag. 'Khanabal' is wrong because Khanabal near Anantnag is a point on the upper Jhelum where the Arapath and other feeders join, not the Sindh. 'Verinag' is wrong because Verinag is the traditional SOURCE spring of the Jhelum itself. 'Baramulla' is wrong because Baramulla lies far downstream, beyond the Wular lake, where the Jhelum leaves the valley through a gorge."
@@ -100,8 +100,8 @@
       "questionText": "The population of a town rose by 10% during the first year and by a further 20% during the second year. If its present population is 13,200, what was the population two years ago?",
       "options": [
         "10,500",
-        "11,000",
         "10,000",
+        "11,000",
         "12,000"
       ],
       "correctAnswer": "10,000",
@@ -113,9 +113,9 @@
       "questionText": "Match the idioms in Column I with their meanings in Column II:\n\nColumn I:\n(a) To let the cat out of the bag\n(b) To turn a deaf ear\n(c) To pay through the nose\n(d) To be in the same boat\n\nColumn II:\n(i) To refuse to listen to a request\n(ii) To be in an equally difficult situation\n(iii) To reveal a secret unintentionally\n(iv) To pay an excessively high price\n\nChoose the correct match:",
       "options": [
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
       "explanation": "'Let the cat out of the bag' means to disclose a secret accidentally; 'turn a deaf ear' means to ignore or refuse to listen; 'pay through the nose' means to pay far too much; 'in the same boat' means to share the same difficulty. The option linking the cat idiom to 'refuse to listen' is wrong because it swaps two unrelated idioms. The option linking 'turn a deaf ear' to 'pay an excessively high price' is wrong because the deaf-ear idiom concerns listening, never money. The option linking the cat idiom to 'equally difficult situation' is wrong because that meaning belongs to 'in the same boat', which is about shared circumstances, not disclosure."
@@ -125,8 +125,8 @@
       "subject": "E",
       "questionText": "Match the MS Word keyboard shortcuts in Column I with their effects in Column II:\n\nColumn I:\n(a) Ctrl + E\n(b) Ctrl + J\n(c) Ctrl + L\n(d) Ctrl + R\n\nColumn II:\n(i) Justify the paragraph\n(ii) Align the text to the right\n(iii) Centre the paragraph\n(iv) Align the text to the left\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
       ],
@@ -136,15 +136,15 @@
     {
       "id": "11",
       "subject": "B",
-      "questionText": "Consider the following statements about the United Nations Organization:\n\n(i) The UN Charter came into force on 24 October 1945.\n(ii) The Security Council has 15 members, of which five are permanent.\n(iii) The International Court of Justice has its seat at Geneva.\n(iv) The Trusteeship Council is one of the six principal organs of the UN.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the United Nations Organization:\n\n(i) The International Court of Justice has its seat at Geneva.\n(ii) The UN Charter came into force on 24 October 1945.\n(iii) The Security Council has 15 members, of which five are permanent.\n(iv) The Trusteeship Council is one of the six principal organs of the UN.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — the Charter entered into force on 24 October 1945, now observed as UN Day. Statement (ii) is correct — the Council has 5 permanent members with veto power and 10 elected non-permanent members. Statement (iv) is correct — the six principal organs are the General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat. Statement (iii) is FALSE because the ICJ sits at the Peace Palace in The Hague, Netherlands; Geneva hosts UN offices such as the Human Rights Council and WHO. Hence every option that includes (iii) must be rejected, which rules out the other three choices."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct — the Charter entered into force on 24 October 1945, now observed as UN Day. Statement (iii) is correct — the Council has 5 permanent members with veto power and 10 elected non-permanent members. Statement (iv) is correct — the six principal organs are the General Assembly, Security Council, ECOSOC, Trusteeship Council, ICJ and Secretariat. Statement (i) is FALSE because the ICJ sits at the Peace Palace in The Hague, Netherlands; Geneva hosts UN offices such as the Human Rights Council and WHO. Hence every option that includes (i) must be rejected, which rules out the other three choices."
     },
     {
       "id": "12",
@@ -166,8 +166,8 @@
       "options": [
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "Pahalgam in Anantnag district is the traditional base for the Amarnath Yatra; Patnitop is the well-known hill resort of Udhampur district on NH-44; Gulmarg in Baramulla district has the Gulmarg Gondola and is India's premier ski destination; Bhaderwah in Doda district is nicknamed 'Mini Kashmir'. The option placing Patnitop in Doda is wrong because Patnitop lies in Udhampur. The option pairing Pahalgam with the Gondola ski resort is wrong because the Gondola is at Gulmarg. The option pairing Pahalgam with the Udhampur hill station is wrong because Pahalgam is in the Kashmir valley, not on the Jammu-Srinagar highway in Udhampur."
@@ -177,9 +177,9 @@
       "subject": "A",
       "questionText": "Choose the grammatically correct sentence with respect to the sequence of tenses.",
       "options": [
-        "By the time the reinforcements arrived, the mob had dispersed.",
         "By the time the reinforcements arrived, the mob has dispersed.",
         "By the time the reinforcements had arrived, the mob has dispersed.",
+        "By the time the reinforcements arrived, the mob had dispersed.",
         "By the time the reinforcements arrive, the mob had dispersed."
       ],
       "correctAnswer": "By the time the reinforcements arrived, the mob had dispersed.",
@@ -191,8 +191,8 @@
       "questionText": "The Ranji Trophy, India's premier first-class domestic cricket championship, was first held in which season?",
       "options": [
         "1928-29",
-        "1934-35",
         "1946-47",
+        "1934-35",
         "1951-52"
       ],
       "correctAnswer": "1934-35",
@@ -218,8 +218,8 @@
       "options": [
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "Statement (i) is correct because the OS mediates every user request to the hardware. Statement (iii) is correct because memory management, process scheduling, file management and device control are its core functions. Statement (iv) is correct because MS-DOS is operated by typed commands at a prompt. Statement (ii) is FALSE — Linux is a multi-user, multitasking operating system; MS-DOS is the classic single-user, single-tasking example. Therefore each of the other three options, all of which include (ii), must be rejected."
@@ -229,10 +229,10 @@
       "subject": "A",
       "questionText": "Consider the following statements about the use of pronouns:\n\n(i) In 'Each of the constables submitted their report', the pronoun agreement is faulty in formal grammar.\n(ii) 'Who' is used as the object of a verb and 'whom' as the subject.\n(iii) In 'The trophy which the team won is on display', 'which' is a relative pronoun.\n(iv) In 'The officer spoke to myself', 'myself' is correctly used.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i) and (iii) only",
         "(ii) and (iv) only",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i) and (iii) only"
       ],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "Statement (i) is correct because 'each' is singular and formally requires 'his or her report', not 'their report'. Statement (iii) is correct because 'which' introduces the adjective clause modifying 'trophy' and is therefore a relative pronoun. Statement (ii) is FALSE because the roles are reversed: 'who' is the subject form and 'whom' the object form. Statement (iv) is FALSE because a reflexive pronoun needs an antecedent in the same clause; the correct form is 'spoke to me'. Hence options containing (ii) or (iv) are all incorrect."
@@ -248,20 +248,20 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "(A) is correct: the Constitution adopted in 1949 contained no chapter on Fundamental Duties. (R) is correct: ten duties were added as Article 51-A in a new Part IV-A by the 42nd Amendment of 1976, following the Swaran Singh Committee's report, and an eleventh was added in 2002 by the 86th Amendment. (R) directly explains (A) because the very fact that the duties had to be inserted by a later amendment is the reason they were absent originally. The second option is wrong because the explanatory link is present. The third option is wrong because (R) is factually accurate. The fourth is wrong because (A) is accurate."
+      "explanation": "(A) is correct: the Constitution adopted in 1949 contained no chapter on Fundamental Duties. (R) is correct: ten duties were added as Article 51-A in a new Part IV-A by the 42nd Amendment of 1976, following the Swaran Singh Committee's report, and an eleventh was added in 2002 by the 86th Amendment. (R) directly explains (A) because the very fact that the duties had to be inserted by a later amendment is the reason they were absent originally. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because the explanatory link is present. '(A) is correct but (R) is not correct' is wrong because (R) is factually accurate. The fourth is wrong because (A) is accurate."
     },
     {
       "id": "20",
       "subject": "D",
-      "questionText": "Consider the following statements about the number zero:\n\n(i) Zero is neither a positive nor a negative number.\n(ii) Zero is an even number.\n(iii) Division of any non-zero number by zero gives zero.\n(iv) Zero is the additive identity for the set of integers.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the number zero:\n\n(i) Zero is neither a positive nor a negative number.\n(ii) Zero is an even number.\n(iii) Zero is the additive identity for the set of integers.\n(iv) Division of any non-zero number by zero gives zero.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — zero is the neutral point on the number line. Statement (ii) is correct because zero is exactly divisible by 2 (0 = 2 x 0). Statement (iv) is correct because a + 0 = a for every integer a, which is the definition of the additive identity. Statement (iii) is FALSE because division by zero is undefined, not zero; it is 0 divided by a non-zero number that equals zero. Every other option includes (iii) and is therefore wrong."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — zero is the neutral point on the number line. Statement (ii) is correct because zero is exactly divisible by 2 (0 = 2 x 0). Statement (iii) is correct because a + 0 = a for every integer a, which is the definition of the additive identity. Statement (iv) is FALSE because division by zero is undefined, not zero; it is 0 divided by a non-zero number that equals zero. Every other option includes (iv) and is therefore wrong."
     },
     {
       "id": "21",
@@ -270,8 +270,8 @@
       "options": [
         "Mahanadi",
         "Tapi",
-        "Narmada",
-        "Godavari"
+        "Godavari",
+        "Narmada"
       ],
       "correctAnswer": "Narmada",
       "explanation": "The Indira Sagar Project is located at Narmadanagar in Khandwa district, Madhya Pradesh, on the Narmada, and is part of the Narmada Valley Development scheme along with Sardar Sarovar and Omkareshwar. 'Tapi' is wrong because the Tapi's major project is the Ukai Dam in Gujarat. 'Mahanadi' is wrong because the Mahanadi carries the Hirakud Dam in Odisha, India's longest earthen dam. 'Godavari' is wrong because the Godavari's principal barrages are Sriram Sagar and the Dowleswaram (Sir Arthur Cotton) barrage, neither of which is called Indira Sagar."
@@ -294,10 +294,10 @@
       "subject": "D",
       "questionText": "A dealer sells an article at a loss of 10%. Had he sold it for ₹90 more, he would have made a gain of 8%. What is the cost price of the article?",
       "options": [
-        "₹500",
         "₹450",
         "₹550",
-        "₹600"
+        "₹600",
+        "₹500"
       ],
       "correctAnswer": "₹500",
       "explanation": "Let the cost price be C. Then 0.90C + 90 = 1.08C, so 90 = 0.18C and C = ₹500. Check: selling at ₹450 is a 10% loss and at ₹540 an 8% gain, a gap of exactly ₹90. '₹450' is wrong because ₹450 is the actual SELLING price at a 10% loss, not the cost price. '₹550' is wrong because it comes from dividing 90 by 0.16, i.e. adding the percentages incorrectly as 10 + 6. '₹600' is wrong because it corresponds to dividing 90 by 0.15, which would require a gain of 5% instead of 8%."
@@ -305,24 +305,24 @@
     {
       "id": "24",
       "subject": "C",
-      "questionText": "Consider the following statements about the means of transport in Jammu and Kashmir:\n\n(i) National Highway 44 is the main road link between Jammu and Srinagar.\n(ii) The Jawahar Tunnel under the Pir Panjal range was opened to traffic in 1956.\n(iii) The Banihal-Qazigund road tunnel shortens the Jammu-Srinagar journey and avoids the older higher-altitude stretch.\n(iv) Srinagar was linked to the rest of the Indian railway network by a broad-gauge line completed in 1990.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the means of transport in Jammu and Kashmir:\n\n(i) Srinagar was linked to the rest of the Indian railway network by a broad-gauge line completed in 1990.\n(ii) National Highway 44 is the main road link between Jammu and Srinagar.\n(iii) The Jawahar Tunnel under the Pir Panjal range was opened to traffic in 1956.\n(iv) The Banihal-Qazigund road tunnel shortens the Jammu-Srinagar journey and avoids the older higher-altitude stretch.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Statement (i) is correct — the old NH-1A was renumbered NH-44 and remains the arterial road link to the valley. Statement (ii) is correct — the Jawahar Tunnel, the first all-weather crossing of the Pir Panjal, was thrown open in December 1956. Statement (iii) is correct — the newer Banihal-Qazigund tunnel cuts distance and travel time and keeps traffic below the snow-prone higher stretch. Statement (iv) is FALSE because the Kashmir valley was joined to the national rail network only much later, through the Udhampur-Srinagar-Baramulla project whose Chenab bridge section was completed in the 2020s, so every option containing (iv) is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct — the old NH-1A was renumbered NH-44 and remains the arterial road link to the valley. Statement (iii) is correct — the Jawahar Tunnel, the first all-weather crossing of the Pir Panjal, was thrown open in December 1956. Statement (iv) is correct — the newer Banihal-Qazigund tunnel cuts distance and travel time and keeps traffic below the snow-prone higher stretch. Statement (i) is FALSE because the Kashmir valley was joined to the national rail network only much later, through the Udhampur-Srinagar-Baramulla project whose Chenab bridge section was completed in the 2020s, so every option containing (i) is wrong."
     },
     {
       "id": "25",
       "subject": "E",
       "questionText": "In MS Excel, which feature displays only the rows meeting a condition you specify and temporarily hides the remaining rows?",
       "options": [
+        "Filter",
         "Conditional Formatting",
         "Sort",
-        "Filter",
         "Freeze Panes"
       ],
       "correctAnswer": "Filter",
@@ -339,17 +339,17 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "(A) is correct because the nearer subject 'constables' is plural, so the plural verb 'were' is required. (R) is correct because the proximity rule governs 'either ... or', 'neither ... nor' and 'not only ... but also'. (R) explains (A) precisely, since it is the proximity rule that forces the plural form here. The second option is wrong because the link between rule and sentence is direct. The third option is wrong because the proximity rule is a genuine rule of concord. The fourth option is wrong because 'were' is indeed the correct form in the given sentence."
+      "explanation": "(A) is correct because the nearer subject 'constables' is plural, so the plural verb 'were' is required. (R) is correct because the proximity rule governs 'either ... or', 'neither ... nor' and 'not only ... but also'. (R) explains (A) precisely, since it is the proximity rule that forces the plural form here. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because the link between rule and sentence is direct. '(A) is correct but (R) is not correct' is wrong because the proximity rule is a genuine rule of concord. '(A) is not correct but (R) is correct' is wrong because 'were' is indeed the correct form in the given sentence."
     },
     {
       "id": "27",
       "subject": "B",
       "questionText": "The wheat production (in lakh tonnes) of four Indian states in a particular year was:\n\nState P → 120\nState Q → 150\nState R → 90\nState S → 140\n\nThe production of State R is what percentage less than the production of State Q?",
       "options": [
+        "40%",
         "66.7%",
         "60%",
-        "33.3%",
-        "40%"
+        "33.3%"
       ],
       "correctAnswer": "40%",
       "explanation": "The shortfall is 150 - 90 = 60 lakh tonnes, and it must be expressed as a percentage of the reference value Q: (60/150) x 100 = 40%. '60%' is wrong because it mistakenly reports R as 60% OF Q rather than the percentage by which it is less. '33.3%' is wrong because it uses 30/90 or divides the difference by the wrong base. '66.7%' is wrong because it takes the difference 60 as a percentage of 90, i.e. it uses the smaller quantity R as the base instead of Q as the question demands."
@@ -365,7 +365,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is not correct but (R) is correct",
-      "explanation": "(A) is FALSE because 2 is a prime number and it is even; it is the only even prime, which is exactly why 'all primes are odd' fails. (R) is TRUE because the definition of a prime is a natural number greater than 1 with exactly two distinct positive divisors. The first option is wrong because (A) is false, so no explanatory relation can hold. The second option is wrong for the same reason. The third option is wrong because it inverts the truth values — it is (A), not (R), that is defective."
+      "explanation": "(A) is FALSE because 2 is a prime number and it is even; it is the only even prime, which is exactly why 'all primes are odd' fails. (R) is TRUE because the definition of a prime is a natural number greater than 1 with exactly two distinct positive divisors. 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is wrong because (A) is false, so no explanatory relation can hold. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong for the same reason. '(A) is correct but (R) is not correct' is wrong because it inverts the truth values — it is (A), not (R), that is defective."
     },
     {
       "id": "29",
@@ -378,7 +378,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is correct but (R) is not correct",
-      "explanation": "(A) is correct because a firewall filters incoming and outgoing traffic according to security rules and blocks unauthorised connections. (R) is FALSE because detecting and removing viruses already resident on a disk is the work of antivirus software; a firewall monitors network traffic, not stored files. The first option is wrong because (R) is untrue. The second option is wrong for the same reason, since it also requires (R) to be true. The fourth option is wrong because (A) is a correct description of a firewall's purpose."
+      "explanation": "(A) is correct because a firewall filters incoming and outgoing traffic according to security rules and blocks unauthorised connections. (R) is FALSE because detecting and removing viruses already resident on a disk is the work of antivirus software; a firewall monitors network traffic, not stored files. 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is wrong because (R) is untrue. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong for the same reason, since it also requires (R) to be true. '(A) is not correct but (R) is correct' is wrong because (A) is a correct description of a firewall's purpose."
     },
     {
       "id": "30",
@@ -391,15 +391,15 @@
         "The Inspector asked; \"Where were you on the night of 12 June?\""
       ],
       "correctAnswer": "The Inspector asked, \"Where were you on the night of 12 June?\"",
-      "explanation": "A direct quotation is introduced by a comma, begins with a capital letter, and keeps its own question mark inside the closing quotation marks. The second option is wrong on two counts: it omits the introductory comma and starts the quotation with a small letter. The third option is wrong because the quotation begins with a small letter and the question mark is placed outside the quotation marks even though the question belongs to the quoted words. The fourth option is wrong because a semicolon cannot introduce direct speech; a semicolon joins two independent clauses."
+      "explanation": "A direct quotation is introduced by a comma, begins with a capital letter, and keeps its own question mark inside the closing quotation marks. 'The Inspector asked \"where were you on the night of 12 June?\".' is wrong on two counts: it omits the introductory comma and starts the quotation with a small letter. 'The Inspector asked, \"where were you on the night of 12 June\"?' is wrong because the quotation begins with a small letter and the question mark is placed outside the quotation marks even though the question belongs to the quoted words. 'The Inspector asked; \"Where were you on the night of 12 June?\"' is wrong because a semicolon cannot introduce direct speech; a semicolon joins two independent clauses."
     },
     {
       "id": "31",
       "subject": "B",
       "questionText": "The Dhyan Chand Award, instituted by the Government of India in 2002, is conferred for:",
       "options": [
-        "Outstanding performance in a single year",
         "Lifetime achievement in sports",
+        "Outstanding performance in a single year",
         "Excellence in coaching sportspersons",
         "Promotion of sports by an organisation"
       ],
@@ -411,9 +411,9 @@
       "subject": "D",
       "questionText": "Read the following data and answer the question that follows.\n\nThe marks obtained by five students in a test of maximum 50 marks were:\n\nAmit → 34\nBinita → 41\nChandan → 28\nDeepa → 45\nEsha → 32\n\nThe average marks of the five students, expressed as a percentage of the maximum marks, is:",
       "options": [
+        "72%",
         "70%",
         "68%",
-        "72%",
         "74%"
       ],
       "correctAnswer": "72%",
@@ -422,23 +422,23 @@
     {
       "id": "33",
       "subject": "A",
-      "questionText": "Which of the following are examples of the correct use of the apostrophe?\n\n(i) The children's playground was renovated last year.\n(ii) The two constables' uniforms were torn in the scuffle.\n(iii) It's going to rain before the parade begins.\n(iv) The dog wagged it's tail happily.\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of the correct use of the apostrophe?\n\n(i) The children's playground was renovated last year.\n(ii) The dog wagged it's tail happily.\n(iii) The two constables' uniforms were torn in the scuffle.\n(iv) It's going to rain before the parade begins.\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct because 'children' is an irregular plural not ending in -s, so the possessive adds apostrophe + s. (ii) is correct because 'constables' is a regular plural ending in -s, so only an apostrophe is added after the s. (iii) is correct because 'it's' is the contraction of 'it is'. (iv) is WRONG because the possessive of 'it' is 'its' with no apostrophe; 'it's' there would read 'it is tail'. Hence every option containing (iv) must be rejected."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct because 'children' is an irregular plural not ending in -s, so the possessive adds apostrophe + s. (iii) is correct because 'constables' is a regular plural ending in -s, so only an apostrophe is added after the s. (iv) is correct because 'it's' is the contraction of 'it is'. (ii) is WRONG because the possessive of 'it' is 'its' with no apostrophe; 'it's' there would read 'it is tail'. Hence every option containing (ii) must be rejected."
     },
     {
       "id": "34",
       "subject": "C",
       "questionText": "The Kishanganga Hydroelectric Project, which Pakistan challenged under the Indus Waters Treaty, is built on a tributary of which river?",
       "options": [
-        "Jhelum",
         "Chenab",
+        "Jhelum",
         "Indus",
         "Ravi"
       ],
@@ -448,15 +448,15 @@
     {
       "id": "35",
       "subject": "B",
-      "questionText": "Consider the following statements about SAARC and ASEAN:\n\n(i) SAARC was established in 1985 and its Secretariat is at Kathmandu.\n(ii) Afghanistan became the eighth member of SAARC in 2007.\n(iii) ASEAN was established in 1967 by the Bangkok Declaration.\n(iv) The ASEAN Secretariat is located at Kuala Lumpur.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about SAARC and ASEAN:\n\n(i) SAARC was established in 1985 and its Secretariat is at Kathmandu.\n(ii) Afghanistan became the eighth member of SAARC in 2007.\n(iii) The ASEAN Secretariat is located at Kuala Lumpur.\n(iv) ASEAN was established in 1967 by the Bangkok Declaration.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Statement (i) is correct — SAARC was founded by the Dhaka Declaration of 8 December 1985 and its Secretariat was set up at Kathmandu in 1987. Statement (ii) is correct — Afghanistan joined at the 14th Summit in New Delhi in 2007, taking membership to eight. Statement (iii) is correct — ASEAN was created on 8 August 1967 by the Bangkok Declaration signed by five founding states. Statement (iv) is FALSE because the ASEAN Secretariat is at Jakarta, Indonesia; Kuala Lumpur is the Malaysian capital but not the Secretariat's seat, so all options containing (iv) fail."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — SAARC was founded by the Dhaka Declaration of 8 December 1985 and its Secretariat was set up at Kathmandu in 1987. Statement (ii) is correct — Afghanistan joined at the 14th Summit in New Delhi in 2007, taking membership to eight. Statement (iv) is correct — ASEAN was created on 8 August 1967 by the Bangkok Declaration signed by five founding states. Statement (iii) is FALSE because the ASEAN Secretariat is at Jakarta, Indonesia; Kuala Lumpur is the Malaysian capital but not the Secretariat's seat, so all options containing (iii) fail."
     },
     {
       "id": "36",
@@ -464,8 +464,8 @@
       "questionText": "A man starts from his house and walks 4 km towards the north, then turns right and walks 3 km, then turns right again and walks 4 km. How far is he from his house and in which direction?",
       "options": [
         "5 km east",
-        "3 km west",
         "3 km east",
+        "3 km west",
         "4 km east"
       ],
       "correctAnswer": "3 km east",
@@ -477,9 +477,9 @@
       "questionText": "Choose the word most opposite in meaning to 'RELUCTANT'.",
       "options": [
         "Careless",
+        "Eager",
         "Hesitant",
-        "Anxious",
-        "Eager"
+        "Anxious"
       ],
       "correctAnswer": "Eager",
       "explanation": "'Reluctant' means unwilling and slow to act, so its antonym is 'eager', meaning keenly willing. 'Hesitant' is wrong because it is a synonym of reluctant, describing the same holding back. 'Anxious' is wrong because it chiefly means worried; even in its sense of 'anxious to help' it carries the colouring of unease rather than the plain willingness that opposes reluctance. 'Careless' is wrong because it is the opposite of 'careful' and concerns attention to detail, not willingness to act."
@@ -489,8 +489,8 @@
       "subject": "E",
       "questionText": "Which of the following secondary storage media uses a laser beam to read and write data?",
       "options": [
-        "DVD",
         "Hard disk drive",
+        "DVD",
         "Solid state drive",
         "Magnetic tape"
       ],
@@ -503,8 +503,8 @@
       "questionText": "The currency of Myanmar is the:",
       "options": [
         "Kip",
-        "Kyat",
         "Ringgit",
+        "Kyat",
         "Baht"
       ],
       "correctAnswer": "Kyat",
@@ -530,8 +530,8 @@
       "options": [
         "trained",
         "has trained",
-        "would train",
-        "had trained"
+        "had trained",
+        "would train"
       ],
       "correctAnswer": "had trained",
       "explanation": "The main clause 'would have qualified' marks this as a third conditional about an unreal past, and the if-clause of a third conditional takes the past perfect, hence 'had trained'. 'has trained' is wrong because the present perfect cannot appear in the if-clause of an unreal past condition. 'would train' is wrong because 'would' belongs in the result clause, never in the if-clause of a standard conditional. 'trained' is wrong because the simple past belongs to the second conditional ('if he trained, he would qualify'), which refers to an unreal present, not a lost past opportunity."
@@ -539,15 +539,15 @@
     {
       "id": "42",
       "subject": "B",
-      "questionText": "Which of the following are recognised as classical languages by the Government of India?\n\n(i) Tamil\n(ii) Sanskrit\n(iii) Marathi\n(iv) Urdu\n\nSelect the correct combination:",
+      "questionText": "Which of the following are recognised as classical languages by the Government of India?\n\n(i) Urdu\n(ii) Tamil\n(iii) Sanskrit\n(iv) Marathi\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Tamil was the first language to receive classical status (2004) and Sanskrit followed (2005). Marathi was granted classical status in 2024 along with Pali, Prakrit, Assamese and Bengali, taking the list to eleven. Urdu, though one of the 22 languages in the Eighth Schedule and an official language of several states, has NOT been declared a classical language, so it does not qualify. Every option containing (iv) is therefore wrong, and the option that omits Tamil ignores the very first language to be so recognised."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Tamil was the first language to receive classical status (2004) and Sanskrit followed (2005). Marathi was granted classical status in 2024 along with Pali, Prakrit, Assamese and Bengali, taking the list to eleven. Urdu, though one of the 22 languages in the Eighth Schedule and an official language of several states, has NOT been declared a classical language, so it does not qualify. Every option containing (i) is therefore wrong, and the option that omits Tamil ignores the very first language to be so recognised."
     },
     {
       "id": "43",
@@ -555,8 +555,8 @@
       "questionText": "A car covers a distance of 210 km in 3 hours. What speed must it maintain to cover the same distance in 2 hours 30 minutes?",
       "options": [
         "80 km/h",
-        "84 km/h",
         "88 km/h",
+        "84 km/h",
         "90 km/h"
       ],
       "correctAnswer": "84 km/h",
@@ -586,7 +586,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "(A) is correct: unlike most of India, the Kashmir Valley gets heavy winter and spring precipitation, much of it as snow, which sustains the Jhelum and the spring-sown crops. (R) is correct: extra-tropical western disturbances originating over the Mediterranean and Caspian region move eastwards and are the main rain-bearing systems for the valley, while the summer monsoon is largely blocked by the Pir Panjal. (R) therefore explains (A) directly. The second option is wrong because the causal link is genuine. The third is wrong because western disturbances are a well-established fact. The fourth is wrong because (A) is accurate."
+      "explanation": "(A) is correct: unlike most of India, the Kashmir Valley gets heavy winter and spring precipitation, much of it as snow, which sustains the Jhelum and the spring-sown crops. (R) is correct: extra-tropical western disturbances originating over the Mediterranean and Caspian region move eastwards and are the main rain-bearing systems for the valley, while the summer monsoon is largely blocked by the Pir Panjal. (R) therefore explains (A) directly. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because the causal link is genuine. The third is wrong because western disturbances are a well-established fact. The fourth is wrong because (A) is accurate."
     },
     {
       "id": "46",
@@ -606,10 +606,10 @@
       "subject": "B",
       "questionText": "'Amrita Bazar Patrika', one of the earliest Indian-owned English dailies, was founded by:",
       "options": [
-        "Sisir Kumar Ghosh",
         "Surendranath Banerjee",
         "Robert Knight",
-        "Girish Chandra Ghosh"
+        "Girish Chandra Ghosh",
+        "Sisir Kumar Ghosh"
       ],
       "correctAnswer": "Sisir Kumar Ghosh",
       "explanation": "Amrita Bazar Patrika was started in 1868 by Sisir Kumar Ghosh along with his brother Motilal Ghosh, first in Bengali and later in English, and became a strong nationalist voice. 'Surendranath Banerjee' is wrong because he founded 'The Bengalee'. 'Robert Knight' is wrong because he was a British journalist who founded 'The Statesman' and edited 'The Times of India', so the paper would not have been Indian-owned. 'Girish Chandra Ghosh' is wrong because he was associated with 'The Bengalee' in its early phase and with Bengali theatre, not with the founding of Amrita Bazar Patrika."
@@ -620,9 +620,9 @@
       "questionText": "Consider the following statements and the conclusions drawn from them:\n\n(i) All members of the SDRF team are trained in rope rescue.\n(ii) Some persons trained in rope rescue are certified divers.\n(iii) Conclusion: Some members of the SDRF team are certified divers.\n(iv) Conclusion: All certified divers are trained in rope rescue.\n\nWhich of the conclusions (iii) and (iv) is/are logically invalid?",
       "options": [
         "(iii) only",
-        "Both (iii) and (iv)",
         "(iv) only",
-        "Neither (iii) nor (iv)"
+        "Neither (iii) nor (iv)",
+        "Both (iii) and (iv)"
       ],
       "correctAnswer": "Both (iii) and (iv)",
       "explanation": "Conclusion (iii) is invalid because the divers who are rope-trained may all lie outside the SDRF team; a 'some' overlap in the wider class guarantees nothing about the subset. Conclusion (iv) is invalid because the premise runs from rope-trained persons to divers, not the reverse; a diver who has never done rope training is entirely consistent with both premises. Hence '(iii) only' and '(iv) only' are wrong because each wrongly certifies the other conclusion as valid, and 'Neither (iii) nor (iv)' is wrong because it accepts two inferences that both commit the illicit-conversion error."
@@ -634,8 +634,8 @@
       "options": [
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
       "explanation": "A chisel is the tool a carpenter works with (worker-tool); a kitten is the young of a cat (young-adult); miser and generous are opposed in sense (antonyms); a petal is a component of a flower (part-whole). The option pairing 'Kitten : Cat' with part and whole is wrong because a kitten is not a portion of a cat but its immature form. The option pairing 'Carpenter : Chisel' with part and whole is wrong because a chisel is not a component of a carpenter. The option pairing 'Carpenter : Chisel' with antonyms and 'Miser : Generous' with worker and tool simply exchanges two unrelated relationships."
@@ -664,7 +664,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
-      "explanation": "(A) is correct — ice floats. (R) is also correct — water is densest at about 4 degrees Celsius, the basis of its anomalous expansion. However (R) does not explain (A): ice floats because on freezing water expands into an open hexagonal lattice whose density (about 0.92 g/cc) is LESS than that of liquid water at 0 degrees Celsius. The first option is wrong because the maximum-density fact concerns liquid water between 0 and 4 degrees, not the solid state. The third and fourth options are wrong because both statements are factually true."
+      "explanation": "(A) is correct — ice floats. (R) is also correct — water is densest at about 4 degrees Celsius, the basis of its anomalous expansion. However (R) does not explain (A): ice floats because on freezing water expands into an open hexagonal lattice whose density (about 0.92 g/cc) is LESS than that of liquid water at 0 degrees Celsius. 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is wrong because the maximum-density fact concerns liquid water between 0 and 4 degrees, not the solid state. The third and fourth options are wrong because both statements are factually true."
     },
     {
       "id": "52",
@@ -684,8 +684,8 @@
       "subject": "C",
       "questionText": "The Mughal garden Nishat Bagh, laid out on the eastern bank of the Dal lake, was built by:",
       "options": [
-        "Jahangir",
         "Asaf Khan",
+        "Jahangir",
         "Shah Jahan",
         "Zafar Khan"
       ],
@@ -697,9 +697,9 @@
       "subject": "A",
       "questionText": "Choose the correct preposition: The department will look ______ the allegations carefully before submitting its final report.",
       "options": [
+        "into",
         "over",
         "after",
-        "into",
         "for"
       ],
       "correctAnswer": "into",
@@ -710,10 +710,10 @@
       "subject": "B",
       "questionText": "Match the books in Column I with their authors in Column II:\n\nColumn I:\n(a) Train to Pakistan\n(b) The Guide\n(c) Gitanjali\n(d) Anandamath\n\nColumn II:\n(i) R. K. Narayan\n(ii) Bankim Chandra Chattopadhyay\n(iii) Khushwant Singh\n(iv) Rabindranath Tagore\n\nChoose the correct match:",
       "options": [
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
       "explanation": "'Train to Pakistan' (1956) is Khushwant Singh's Partition novel; 'The Guide' is R. K. Narayan's Sahitya Akademi-winning novel set in Malgudi; 'Gitanjali' won Rabindranath Tagore the Nobel Prize in 1913; 'Anandamath' by Bankim Chandra Chattopadhyay contains 'Vande Mataram'. The option swapping the first two authors is wrong because Narayan never wrote on Partition. The option pairing 'Gitanjali' with Bankim Chandra and 'Anandamath' with Tagore is wrong because it interchanges two Bengali writers of different generations. The option pairing 'Train to Pakistan' with Bankim Chandra is wrong because he died in 1894, decades before Partition."
@@ -750,8 +750,8 @@
       "questionText": "Consider the following statements about clauses:\n\n(i) In 'I know that he is honest', the group 'that he is honest' is a noun clause.\n(ii) In 'The man who came late was fined', the group 'who came late' is an adverb clause.\n(iii) In 'He left early because he was unwell', the group 'because he was unwell' is an adverb clause of reason.\n(iv) A subordinate clause can stand alone as a complete sentence.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii) and (iv) only",
         "(i) and (iii) only",
+        "(ii) and (iv) only",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i) and (iii) only",
@@ -763,9 +763,9 @@
       "questionText": "Consider the following statements about centrally sponsored schemes:\n\n(i) The Pradhan Mantri Jan Dhan Yojana aims at universal access to banking facilities.\n(ii) Ayushman Bharat PM-JAY provides health cover of ₹5 lakh per family per year for secondary and tertiary care.\n(iii) PM-KISAN provides direct income support to landholding farmer families.\n(iv) The Swachh Bharat Mission was launched in the year 2019.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Statement (i) is correct — PMJDY, launched in 2014, targets universal financial inclusion through zero-balance accounts. Statement (ii) is correct — PM-JAY offers ₹5 lakh per family per year for hospitalisation in secondary and tertiary care. Statement (iii) is correct — PM-KISAN transfers ₹6,000 a year in three instalments to eligible landholding farmer families. Statement (iv) is FALSE because the Swachh Bharat Mission was launched on 2 October 2014; 2019 was the year the rural sanitation target was declared achieved, so all options containing (iv) are wrong."
@@ -775,8 +775,8 @@
       "subject": "D",
       "questionText": "The area of a square is equal to the area of a rectangle 16 cm long and 9 cm broad. What is the perimeter of the square?",
       "options": [
-        "48 cm",
         "50 cm",
+        "48 cm",
         "44 cm",
         "36 cm"
       ],
@@ -802,8 +802,8 @@
       "questionText": "What does the idiom 'to steal a march' mean?",
       "options": [
         "To copy another person's written work",
-        "To move rapidly during a ceremonial parade",
         "To gain an advantage secretly over a rival",
+        "To move rapidly during a ceremonial parade",
         "To withdraw from a contest without notice"
       ],
       "correctAnswer": "To gain an advantage secretly over a rival",
@@ -820,29 +820,29 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "(A) is correct: using positions B=2, D=4, G=7, K=11, P=16, adding 6 gives 22, which is V. (R) is correct because the gaps are exactly 2, 3, 4, 5 and then 6. (R) is the reason (A) holds, since the widening gap is what fixes the next letter. The second option is wrong because the rule stated is precisely the rule that generates the answer. The third option is wrong because the gap pattern is genuine and verifiable. The fourth option is wrong because V is indeed the correct next letter."
+      "explanation": "(A) is correct: using positions B=2, D=4, G=7, K=11, P=16, adding 6 gives 22, which is V. (R) is correct because the gaps are exactly 2, 3, 4, 5 and then 6. (R) is the reason (A) holds, since the widening gap is what fixes the next letter. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because the rule stated is precisely the rule that generates the answer. '(A) is correct but (R) is not correct' is wrong because the gap pattern is genuine and verifiable. '(A) is not correct but (R) is correct' is wrong because V is indeed the correct next letter."
     },
     {
       "id": "64",
       "subject": "C",
-      "questionText": "Which of the following are freshwater lakes of the Kashmir valley?\n\n(i) Wular\n(ii) Manasbal\n(iii) Sambhar\n(iv) Dal\n\nSelect the correct combination:",
+      "questionText": "Which of the following are freshwater lakes of the Kashmir valley?\n\n(i) Sambhar\n(ii) Wular\n(iii) Manasbal\n(iv) Dal\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Wular in Bandipora is one of Asia's largest freshwater lakes and acts as a flood absorber for the Jhelum; Manasbal near Safapora is the deepest lake of the valley and a noted lotus habitat; Dal in Srinagar is a freshwater urban lake famous for houseboats and floating gardens. Sambhar is NOT in Kashmir at all — it is India's largest inland SALT lake, situated in Rajasthan, so every option containing (iii) is wrong, and the option omitting Dal excludes the valley's best-known freshwater lake."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Wular in Bandipora is one of Asia's largest freshwater lakes and acts as a flood absorber for the Jhelum; Manasbal near Safapora is the deepest lake of the valley and a noted lotus habitat; Dal in Srinagar is a freshwater urban lake famous for houseboats and floating gardens. Sambhar is NOT in Kashmir at all — it is India's largest inland SALT lake, situated in Rajasthan, so every option containing (i) is wrong, and the option omitting Dal excludes the valley's best-known freshwater lake."
     },
     {
       "id": "65",
       "subject": "E",
       "questionText": "A named collection of related records held together in secondary storage is called a __________.",
       "options": [
-        "file",
         "field",
         "record",
+        "file",
         "byte"
       ],
       "correctAnswer": "file",
@@ -854,8 +854,8 @@
       "questionText": "Identify the kind of subordinate clause in the sentence: 'Wherever the police party went, the crowd followed.'",
       "options": [
         "Adjective clause",
-        "Adverb clause of place",
         "Noun clause",
+        "Adverb clause of place",
         "Adverb clause of time"
       ],
       "correctAnswer": "Adverb clause of place",
@@ -881,8 +881,8 @@
       "options": [
         "120",
         "112",
-        "98",
-        "105"
+        "105",
+        "98"
       ],
       "correctAnswer": "105",
       "explanation": "If 40% of the number is 56, the number is 56 x 100/40 = 140, and 75% of 140 is 105. '112' is wrong because it is 80% of 140, obtained by simply doubling 56 instead of scaling from 40% to 75%. '98' is wrong because it is 70% of 140, the result of misreading the required percentage. '120' is wrong because it assumes the number itself is 160, which would make 40% equal 64 rather than 56."
@@ -892,10 +892,10 @@
       "subject": "E",
       "questionText": "While using a search engine, enclosing a group of words in double quotation marks makes the engine:",
       "options": [
-        "Return pages containing that exact phrase",
         "Exclude pages containing that group of words",
         "Search for the words only within one website",
-        "Return pages containing any one of those words"
+        "Return pages containing any one of those words",
+        "Return pages containing that exact phrase"
       ],
       "correctAnswer": "Return pages containing that exact phrase",
       "explanation": "Double quotation marks force an exact-phrase search, so the words must appear together in the same order. 'Exclude pages containing that group of words' is wrong because exclusion is done with the minus operator, as in -advertisement. 'Search for the words only within one website' is wrong because restricting to a single domain requires the site: operator, for example site:nic.in. 'Return pages containing any one of those words' is wrong because that is the default OR-like broad behaviour that quotation marks are used to prevent."
@@ -906,9 +906,9 @@
       "questionText": "Which of the following are correctly formed comparative or superlative structures?\n\n(i) This route is more safer than the highway.\n(ii) He is the tallest of the three constables.\n(iii) She is more intelligent than her elder sister.\n(iv) This is the most unique specimen in the museum.\n\nSelect the correct combination:",
       "options": [
         "(i) and (ii) only",
-        "(ii) and (iii) only",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(ii) and (iii) only"
       ],
       "correctAnswer": "(ii) and (iii) only",
       "explanation": "(ii) is correct because with three or more items the superlative 'tallest of the three' is required. (iii) is correct because polysyllabic adjectives such as 'intelligent' form the comparative with 'more'. (i) is WRONG because 'more safer' is a double comparative; either 'safer' or 'more safe' may be used, never both. (iv) is WRONG because 'unique' is an absolute adjective meaning one of a kind and cannot be graded with 'most'. Therefore every option that includes (i) or (iv) must be rejected."
@@ -920,8 +920,8 @@
       "options": [
         "Nitrogen",
         "Oxygen",
-        "Carbon dioxide",
-        "Hydrogen"
+        "Hydrogen",
+        "Carbon dioxide"
       ],
       "correctAnswer": "Carbon dioxide",
       "explanation": "Baking soda is sodium hydrogen carbonate; on heating or on reacting with an acid it releases carbon dioxide, whose bubbles are trapped in the dough and make it porous and light. 'Oxygen' is wrong because no oxygen is liberated in this decomposition; oxygen supports combustion but does not leaven dough. 'Nitrogen' is wrong because nitrogen is chemically inert here and is not a product of the reaction. 'Hydrogen' is wrong because hydrogen would be produced by a metal-acid reaction, not by the decomposition of a hydrogen carbonate salt."
@@ -950,17 +950,17 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is correct but (R) is not correct",
-      "explanation": "(A) is correct because 'news' is a singular uncountable noun despite its final -s, so 'The news is disturbing' is right. (R) is FALSE because many nouns ending in -s are plural and take plural verbs, such as 'trousers are', 'scissors are' and 'proceeds were'; the -s ending decides nothing by itself. The first option is wrong because a false reason cannot explain a true assertion. The second option is wrong for the same reason, since it also requires (R) to be true. The fourth option is wrong because (A) is a correct statement of usage."
+      "explanation": "(A) is correct because 'news' is a singular uncountable noun despite its final -s, so 'The news is disturbing' is right. (R) is FALSE because many nouns ending in -s are plural and take plural verbs, such as 'trousers are', 'scissors are' and 'proceeds were'; the -s ending decides nothing by itself. 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is wrong because a false reason cannot explain a true assertion. 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong for the same reason, since it also requires (R) to be true. '(A) is not correct but (R) is correct' is wrong because (A) is a correct statement of usage."
     },
     {
       "id": "74",
       "subject": "C",
       "questionText": "JKEDI, the agency of Jammu and Kashmir that promotes self-employment and start-ups, stands for Jammu and Kashmir Entrepreneurship Development __________.",
       "options": [
-        "Institute",
         "Initiative",
         "Instrument",
-        "Incubator"
+        "Incubator",
+        "Institute"
       ],
       "correctAnswer": "Institute",
       "explanation": "JKEDI is the Jammu and Kashmir Entrepreneurship Development Institute, an autonomous body headquartered at Pampore that trains youth and implements self-employment schemes in the Union Territory. 'Initiative' is wrong because JKEDI is a permanent institutional body, not a programme or campaign. 'Instrument' is wrong because the expansion of the abbreviation must yield the name of an organisation, and no agency is styled an 'Instrument'. 'Incubator' is wrong because although the Institute runs business incubation activities, incubation is one of its functions and not part of its official name."
@@ -971,9 +971,9 @@
       "questionText": "Match the specialised agencies of the United Nations in Column I with their headquarters and mandate in Column II:\n\nColumn I:\n(a) UNESCO\n(b) WHO\n(c) ILO\n(d) FAO\n\nColumn II:\n(i) Geneva — international labour standards\n(ii) Rome — food and agriculture\n(iii) Paris — education, science and culture\n(iv) Geneva — international public health\n\nChoose the correct match:",
       "options": [
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "UNESCO is headquartered in Paris and works on education, science and culture; WHO is in Geneva and handles global public health; the ILO, the oldest specialised agency, is also in Geneva and sets labour standards; the FAO is in Rome and deals with food and agriculture. The option pairing WHO with labour standards and the ILO with public health is wrong because it interchanges the two Geneva-based bodies. The option placing UNESCO in Rome is wrong because Rome is the FAO's seat. The option pairing UNESCO with public health and the FAO with education reverses all four mandates."
@@ -983,9 +983,9 @@
       "subject": "D",
       "questionText": "Consider the following statements about the hands of an ordinary clock:\n\n(i) The minute hand completes one revolution in 60 minutes.\n(ii) The hour hand turns through 30 degrees in one hour.\n(iii) The two hands coincide 24 times in a period of 24 hours.\n(iv) At exactly 3 o'clock the angle between the two hands is 90 degrees.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -996,10 +996,10 @@
       "subject": "A",
       "questionText": "Match the words in Column I with their meanings in Column II:\n\nColumn I:\n(a) Candid\n(b) Obstinate\n(c) Lucid\n(d) Prudent\n\nColumn II:\n(i) Clear and easy to understand\n(ii) Cautious and sensible in judgement\n(iii) Frank and outspoken in expression\n(iv) Stubborn and unwilling to yield\n\nChoose the correct match:",
       "options": [
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
       "explanation": "'Candid' means frank and straightforward in speech; 'obstinate' means stubbornly refusing to change; 'lucid' means clearly expressed and easily understood; 'prudent' means showing care and good sense. The option pairing 'candid' with 'clear and easy to understand' is wrong because that sense belongs to 'lucid', which describes expression, not honesty. The option pairing 'obstinate' with 'cautious and sensible' is wrong because obstinacy is a defect of inflexibility, not a virtue of judgement. The option pairing 'candid' with 'cautious' and 'prudent' with 'frank' interchanges two quite different qualities."
@@ -1015,7 +1015,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
-      "explanation": "(A) is correct because RAM is volatile memory. (R) is also correct because random access indeed means direct access to any address, in contrast with the sequential access of magnetic tape. But (R) does not explain (A): the loss of data is caused by volatility, since RAM cells hold data as an electric charge that needs a continuous power supply. The first option is wrong because access method and volatility are independent properties. The third and fourth options are wrong because both statements are factually accurate."
+      "explanation": "(A) is correct because RAM is volatile memory. (R) is also correct because random access indeed means direct access to any address, in contrast with the sequential access of magnetic tape. But (R) does not explain (A): the loss of data is caused by volatility, since RAM cells hold data as an electric charge that needs a continuous power supply. 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is wrong because access method and volatility are independent properties. The third and fourth options are wrong because both statements are factually accurate."
     },
     {
       "id": "79",
@@ -1035,8 +1035,8 @@
       "subject": "D",
       "questionText": "If sin θ = 3/5 and θ is an acute angle, then the value of tan θ is:",
       "options": [
-        "4/3",
         "3/4",
+        "4/3",
         "5/3",
         "5/4"
       ],
@@ -1048,9 +1048,9 @@
       "subject": "A",
       "questionText": "Choose the correct option to complete the sentence: He plays ______ flute in the police band on ceremonial occasions.",
       "options": [
+        "the",
         "an",
         "a",
-        "the",
         "no article"
       ],
       "correctAnswer": "the",
@@ -1059,23 +1059,23 @@
     {
       "id": "82",
       "subject": "B",
-      "questionText": "Consider the following statements about crops in India:\n\n(i) Rice is a kharif crop requiring high temperature and high humidity.\n(ii) Wheat is a rabi crop sown in winter and harvested in spring.\n(iii) Jute grows best in well-drained sandy desert soil.\n(iv) Coffee cultivation in India is concentrated in the hills of Karnataka and Kerala.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about crops in India:\n\n(i) Rice is a kharif crop requiring high temperature and high humidity.\n(ii) Wheat is a rabi crop sown in winter and harvested in spring.\n(iii) Coffee cultivation in India is concentrated in the hills of Karnataka and Kerala.\n(iv) Jute grows best in well-drained sandy desert soil.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — rice is sown with the south-west monsoon and needs above 25 degrees Celsius with heavy rainfall. Statement (ii) is correct — wheat is the principal rabi crop of the northern plains. Statement (iv) is correct — Karnataka, followed by Kerala and Tamil Nadu, dominates Indian coffee output. Statement (iii) is FALSE because jute requires hot, humid conditions and fertile, well-drained alluvial soil of the deltaic plains, especially West Bengal, and cannot grow in sandy desert soil. Hence every option containing (iii) fails."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — rice is sown with the south-west monsoon and needs above 25 degrees Celsius with heavy rainfall. Statement (ii) is correct — wheat is the principal rabi crop of the northern plains. Statement (iii) is correct — Karnataka, followed by Kerala and Tamil Nadu, dominates Indian coffee output. Statement (iv) is FALSE because jute requires hot, humid conditions and fertile, well-drained alluvial soil of the deltaic plains, especially West Bengal, and cannot grow in sandy desert soil. Hence every option containing (iv) fails."
     },
     {
       "id": "83",
       "subject": "D",
       "questionText": "Match the number series in Column I with the rule that generates it in Column II:\n\nColumn I:\n(a) 2, 6, 12, 20, 30\n(b) 1, 4, 9, 16, 25\n(c) 2, 6, 18, 54\n(d) 1, 8, 27, 64\n\nColumn II:\n(i) Perfect cubes of successive natural numbers\n(ii) Each term is three times the term before it\n(iii) Products of two consecutive natural numbers\n(iv) Perfect squares of successive natural numbers\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
       ],
@@ -1085,28 +1085,28 @@
     {
       "id": "84",
       "subject": "E",
-      "questionText": "Consider the following statements about MS Word:\n\n(i) Mail Merge produces a set of personalised letters from one main document and a data source.\n(ii) The Print Layout view displays the document as it will appear on the printed page.\n(iii) A footer is the area that appears at the top margin of every page.\n(iv) Ctrl + Shift + N applies the Normal style to the selected text.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about MS Word:\n\n(i) A footer is the area that appears at the top margin of every page.\n(ii) Mail Merge produces a set of personalised letters from one main document and a data source.\n(iii) The Print Layout view displays the document as it will appear on the printed page.\n(iv) Ctrl + Shift + N applies the Normal style to the selected text.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — Mail Merge combines a template with a recipient list to generate individual letters or labels. Statement (ii) is correct — Print Layout is the WYSIWYG view used for page setup. Statement (iv) is correct — Ctrl+Shift+N resets the selection to the Normal style. Statement (iii) is FALSE because the footer occupies the BOTTOM margin of each page; the top margin area is the header. Consequently every option that includes (iii) must be rejected."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct — Mail Merge combines a template with a recipient list to generate individual letters or labels. Statement (iii) is correct — Print Layout is the WYSIWYG view used for page setup. Statement (iv) is correct — Ctrl+Shift+N resets the selection to the Normal style. Statement (i) is FALSE because the footer occupies the BOTTOM margin of each page; the top margin area is the header. Consequently every option that includes (i) must be rejected."
     },
     {
       "id": "85",
       "subject": "C",
-      "questionText": "Consider the following statements about the Right to Information Act, 2005:\n\n(i) It came into full force on 12 October 2005.\n(ii) A public authority must ordinarily respond to an application within thirty days.\n(iii) Information concerning the life or liberty of a person must be supplied within forty-eight hours.\n(iv) The Act does not extend to the Union Territory of Jammu and Kashmir.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Right to Information Act, 2005:\n\n(i) It came into full force on 12 October 2005.\n(ii) The Act does not extend to the Union Territory of Jammu and Kashmir.\n(iii) A public authority must ordinarily respond to an application within thirty days.\n(iv) Information concerning the life or liberty of a person must be supplied within forty-eight hours.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Statement (i) is correct — the Act was passed in June 2005 and came into full operation on 12 October 2005. Statement (ii) is correct — the normal time limit for a Public Information Officer to reply is thirty days. Statement (iii) is correct — where life or liberty is involved the information must be given within forty-eight hours. Statement (iv) is FALSE because after the Jammu and Kashmir Reorganisation Act, 2019 the central RTI Act applies to the Union Territory and the earlier J&K RTI Act, 2009 stands repealed, so all options containing (iv) are wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct — the Act was passed in June 2005 and came into full operation on 12 October 2005. Statement (iii) is correct — the normal time limit for a Public Information Officer to reply is thirty days. Statement (iv) is correct — where life or liberty is involved the information must be given within forty-eight hours. Statement (ii) is FALSE because after the Jammu and Kashmir Reorganisation Act, 2019 the central RTI Act applies to the Union Territory and the earlier J&K RTI Act, 2009 stands repealed, so all options containing (ii) are wrong."
     },
     {
       "id": "86",
@@ -1114,9 +1114,9 @@
       "questionText": "The commandant insisted __________ inspecting every barrack himself before the parade. Fill in the blank with the correct preposition: __________",
       "options": [
         "at",
+        "on",
         "to",
-        "for",
-        "on"
+        "for"
       ],
       "correctAnswer": "on",
       "explanation": "'Insist' is followed by 'on' (or 'upon') and then a gerund, giving 'insisted on inspecting'. 'to' is wrong because 'insist' is never followed by an infinitive; the pattern 'insist to inspect' does not exist in standard English. 'for' is wrong because 'for' follows verbs of request or wish such as 'ask for' and 'press for'. 'at' is wrong because 'at' after verbs indicates a target or point, as in 'aim at' or 'look at', and cannot introduce the thing demanded after 'insist'."
@@ -1126,9 +1126,9 @@
       "subject": "B",
       "questionText": "Who was the first woman to become the Chief Justice of a High Court in India?",
       "options": [
-        "Leila Seth",
         "M. Fathima Beevi",
         "Anna Chandy",
+        "Leila Seth",
         "Ruma Pal"
       ],
       "correctAnswer": "Leila Seth",
@@ -1140,8 +1140,8 @@
       "questionText": "Simplify: 36 ÷ 6 × 3 + 8 − 4 × 2",
       "options": [
         "10",
-        "18",
         "26",
+        "18",
         "14"
       ],
       "correctAnswer": "18",
@@ -1167,8 +1167,8 @@
       "options": [
         "Name of the file being requested",
         "Name of the host web server",
-        "Protocol used for the transfer",
-        "Type of organisation owning the site"
+        "Type of organisation owning the site",
+        "Protocol used for the transfer"
       ],
       "correctAnswer": "Type of organisation owning the site",
       "explanation": "'gov' is the generic top-level domain segment showing that the site belongs to a government body, just as 'com' indicates commercial and 'edu' educational organisations, while 'in' is the country code. 'Name of the host web server' is wrong because that role is played by 'www.jkpolice'. 'Protocol used for the transfer' is wrong because the protocol is 'https', which appears before the colon and slashes. 'Name of the file being requested' is wrong because the file is 'notice.pdf', the last element of the path."
@@ -1184,20 +1184,20 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is not correct but (R) is correct",
-      "explanation": "(A) is FALSE because the definition is the reverse: a balance of trade is favourable (a surplus) when EXPORTS exceed imports, and unfavourable (a deficit) when imports exceed exports. (R) is TRUE because the balance of trade covers only merchandise, while the balance of payments is the wider account including invisibles and capital movements. The first two options are wrong because they both require (A) to be correct. The third option is wrong because it wrongly rejects (R), which is an accurate distinction between the two accounts."
+      "explanation": "(A) is FALSE because the definition is the reverse: a balance of trade is favourable (a surplus) when EXPORTS exceed imports, and unfavourable (a deficit) when imports exceed exports. (R) is TRUE because the balance of trade covers only merchandise, while the balance of payments is the wider account including invisibles and capital movements. The first two options are wrong because they both require (A) to be correct. '(A) is correct but (R) is not correct' is wrong because it wrongly rejects (R), which is an accurate distinction between the two accounts."
     },
     {
       "id": "92",
       "subject": "D",
-      "questionText": "Which of the following are always true for any two consecutive natural numbers?\n\n(i) Their sum is an odd number.\n(ii) Their product is an even number.\n(iii) Their difference is 1.\n(iv) Their highest common factor is 2.\n\nSelect the correct combination:",
+      "questionText": "Which of the following are always true for any two consecutive natural numbers?\n\n(i) Their sum is an odd number.\n(ii) Their product is an even number.\n(iii) Their highest common factor is 2.\n(iv) Their difference is 1.\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Of any two consecutive natural numbers one is odd and one is even, so their sum is always odd, making (i) true, and their product always contains the even factor, making (ii) true. Their difference is 1 by definition, so (iii) is true. Statement (iv) is FALSE because consecutive natural numbers are co-prime and their HCF is always 1, never 2 — for example the HCF of 7 and 8 is 1. Every option containing (iv) is therefore wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Of any two consecutive natural numbers one is odd and one is even, so their sum is always odd, making (i) true, and their product always contains the even factor, making (ii) true. Their difference is 1 by definition, so (iv) is true. Statement (iii) is FALSE because consecutive natural numbers are co-prime and their HCF is always 1, never 2 — for example the HCF of 7 and 8 is 1. Every option containing (iii) is therefore wrong."
     },
     {
       "id": "93",
@@ -1205,8 +1205,8 @@
       "questionText": "The Karewa formations of the Kashmir valley are especially important for the cultivation of:",
       "options": [
         "Sugarcane",
-        "Saffron",
         "Cotton",
+        "Saffron",
         "Groundnut"
       ],
       "correctAnswer": "Saffron",
@@ -1215,28 +1215,28 @@
     {
       "id": "94",
       "subject": "A",
-      "questionText": "Consider the following statements about the use of articles:\n\n(i) The definite article is used before the names of oceans and rivers.\n(ii) The indefinite article 'a' or 'an' is used before plural countable nouns.\n(iii) No article is normally used before the name of an individual mountain peak.\n(iv) The definite article is used before the names of newspapers.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the use of articles:\n\n(i) The definite article is used before the names of oceans and rivers.\n(ii) No article is normally used before the name of an individual mountain peak.\n(iii) The definite article is used before the names of newspapers.\n(iv) The indefinite article 'a' or 'an' is used before plural countable nouns.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Statement (i) is correct — we say the Pacific Ocean, the Jhelum. Statement (iii) is correct — individual peaks take no article, as in Mount Everest and Nanga Parbat, although ranges do take one (the Pir Panjal). Statement (iv) is correct — newspaper titles take 'the', as in The Tribune. Statement (ii) is FALSE because 'a' and 'an' are used only with singular countable nouns; plurals take 'some', 'many' or no determiner. Hence every option containing (ii) must be rejected."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — we say the Pacific Ocean, the Jhelum. Statement (ii) is correct — individual peaks take no article, as in Mount Everest and Nanga Parbat, although ranges do take one (the Pir Panjal). Statement (iii) is correct — newspaper titles take 'the', as in The Tribune. Statement (iv) is FALSE because 'a' and 'an' are used only with singular countable nouns; plurals take 'some', 'many' or no determiner. Hence every option containing (iv) must be rejected."
     },
     {
       "id": "95",
       "subject": "B",
-      "questionText": "Which of the following are institutions of local self-government strengthened by the 73rd and 74th Constitutional Amendments?\n\n(i) Gram Panchayat\n(ii) Panchayat Samiti\n(iii) Municipal Corporation\n(iv) Legislative Council\n\nSelect the correct combination:",
+      "questionText": "Which of the following are institutions of local self-government strengthened by the 73rd and 74th Constitutional Amendments?\n\n(i) Legislative Council\n(ii) Gram Panchayat\n(iii) Panchayat Samiti\n(iv) Municipal Corporation\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The 73rd Amendment of 1992 gave constitutional status to rural bodies — the Gram Panchayat at village level and the Panchayat Samiti at block level — while the 74th Amendment covered urban bodies including Municipal Corporations, Municipal Councils and Nagar Panchayats. A Legislative Council is the upper house of a STATE legislature created under Article 169 and is not a body of local self-government at all, so every option containing (iv) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The 73rd Amendment of 1992 gave constitutional status to rural bodies — the Gram Panchayat at village level and the Panchayat Samiti at block level — while the 74th Amendment covered urban bodies including Municipal Corporations, Municipal Councils and Nagar Panchayats. A Legislative Council is the upper house of a STATE legislature created under Article 169 and is not a body of local self-government at all, so every option containing (i) is incorrect."
     },
     {
       "id": "96",
@@ -1249,17 +1249,17 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
-      "explanation": "(A) is correct — the angle-sum property of a plane triangle is 180 degrees. (R) is correct — that is the standard definition of a triangle. But (R) merely defines the figure and does not explain the angle sum, which is proved by drawing a line through one vertex parallel to the opposite side and applying the alternate-angle property of parallel lines. The first option is wrong because a definition is not a proof. The third and fourth options are wrong because both statements are individually true."
+      "explanation": "(A) is correct — the angle-sum property of a plane triangle is 180 degrees. (R) is correct — that is the standard definition of a triangle. But (R) merely defines the figure and does not explain the angle sum, which is proved by drawing a line through one vertex parallel to the opposite side and applying the alternate-angle property of parallel lines. 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is wrong because a definition is not a proof. The third and fourth options are wrong because both statements are individually true."
     },
     {
       "id": "97",
       "subject": "E",
       "questionText": "In computer terminology, one nibble is equal to:",
       "options": [
-        "4 bits",
         "8 bits",
         "2 bits",
-        "16 bits"
+        "16 bits",
+        "4 bits"
       ],
       "correctAnswer": "4 bits",
       "explanation": "A nibble is a group of four bits, exactly half a byte, and is convenient because one nibble maps onto a single hexadecimal digit. '8 bits' is wrong because eight bits form a byte, which stores one character. '2 bits' is wrong because no standard unit of two bits exists in the bit-nibble-byte-word hierarchy. '16 bits' is wrong because sixteen bits form a word on many older architectures, or two bytes, which is four times the size of a nibble."
@@ -1270,9 +1270,9 @@
       "questionText": "Choose the correct verb form to complete the sentence: The constable ______ on duty at the checkpoint since six o'clock this morning.",
       "options": [
         "is",
-        "has been",
         "was",
-        "will be"
+        "will be",
+        "has been"
       ],
       "correctAnswer": "has been",
       "explanation": "'Since six o'clock this morning' marks an action that began in the past and continues into the present, which requires the present perfect (or present perfect continuous), hence 'has been'. 'is' is wrong because the simple present cannot be used with a 'since' phrase measuring duration up to now. 'was' is wrong because the simple past would close the action in the past and clashes with 'since'. 'will be' is wrong because the future tense cannot describe a period that started at six o'clock this morning."
@@ -1284,8 +1284,8 @@
       "options": [
         "Ernest Shackleton",
         "Robert Falcon Scott",
-        "Roald Amundsen",
-        "Robert Peary"
+        "Robert Peary",
+        "Roald Amundsen"
       ],
       "correctAnswer": "Roald Amundsen",
       "explanation": "The Norwegian explorer Roald Amundsen reached the South Pole on 14 December 1911, ahead of the British party. 'Robert Falcon Scott' is wrong because his team arrived about five weeks later, in January 1912, and perished on the return march. 'Ernest Shackleton' is wrong because his expeditions came close to the Pole but never reached it, and he is remembered for the Endurance survival epic. 'Robert Peary' is wrong because his claimed first was the NORTH Pole in 1909, at the opposite end of the earth."
@@ -1293,15 +1293,15 @@
     {
       "id": "100",
       "subject": "D",
-      "questionText": "Consider the following statements about HCF and LCM:\n\n(i) The HCF of two co-prime numbers is always 1.\n(ii) The LCM of two numbers is never smaller than either of the numbers.\n(iii) The product of the HCF and the LCM of two numbers equals the product of the numbers.\n(iv) The LCM of two distinct prime numbers is their difference.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about HCF and LCM:\n\n(i) The HCF of two co-prime numbers is always 1.\n(ii) The LCM of two distinct prime numbers is their difference.\n(iii) The LCM of two numbers is never smaller than either of the numbers.\n(iv) The product of the HCF and the LCM of two numbers equals the product of the numbers.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Statement (i) is correct by the definition of co-prime numbers. Statement (ii) is correct because the LCM is a common multiple of both numbers and so is at least as large as each. Statement (iii) is correct — HCF x LCM = product of the two numbers, a standard identity for a pair of numbers. Statement (iv) is FALSE because the LCM of two distinct primes is their PRODUCT, for example the LCM of 5 and 7 is 35, not 2. Hence every option containing (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct by the definition of co-prime numbers. Statement (iii) is correct because the LCM is a common multiple of both numbers and so is at least as large as each. Statement (iv) is correct — HCF x LCM = product of the two numbers, a standard identity for a pair of numbers. Statement (ii) is FALSE because the LCM of two distinct primes is their PRODUCT, for example the LCM of 5 and 7 is 35, not 2. Hence every option containing (ii) is wrong."
     }
   ]
 }

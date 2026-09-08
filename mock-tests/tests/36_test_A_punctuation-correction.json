@@ -9,23 +9,23 @@
       "questionText": "Choose the correctly punctuated sentence:",
       "options": ["It's a beautiful day, isn't it?", "Its a beautiful day isnt it?", "It's a beautiful day isnt it.", "Its a beautiful day, isn't it."],
       "correctAnswer": "It's a beautiful day, isn't it?",
-      "explanation": "The correct sentence uses 'It's' (contraction of 'it is'), a comma before the tag question, the apostrophe in 'isn't', and ends with a question mark. The second option lacks all apostrophes and the question mark. The third option lacks the comma and uses a full stop instead of a question mark. The fourth option uses 'Its' (possessive) incorrectly and ends with a full stop."
+      "explanation": "The correct sentence uses 'It's' (contraction of 'it is'), a comma before the tag question, the apostrophe in 'isn't', and ends with a question mark. 'Its a beautiful day isnt it?' lacks all apostrophes and the question mark. 'It's a beautiful day isnt it.' lacks the comma and uses a full stop instead of a question mark. 'Its a beautiful day, isn't it.' uses 'Its' (possessive) incorrectly and ends with a full stop."
     },
     {
       "id": "2",
       "subject": "A",
-      "questionText": "Consider the following statements about the use of the comma:\n\n(i) A comma is used to separate items in a list (e.g., apples, oranges, and bananas).\n(ii) A comma is used before a coordinating conjunction joining two independent clauses.\n(iii) A comma is used after every word in a sentence.\n(iv) A comma is used after introductory words or phrases (e.g., However, the plan failed).\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — commas separate list items. (ii) is correct — a comma precedes conjunctions like 'and', 'but', 'or' joining independent clauses. (iv) is correct — commas follow introductory elements. (iii) is wrong — commas are NOT placed after every word; they have specific grammatical uses."
+      "questionText": "Consider the following statements about the use of the comma:\n\n(i) A comma is used to separate items in a list (e.g., apples, oranges, and bananas).\n(ii) A comma is used before a coordinating conjunction joining two independent clauses.\n(iii) A comma is used after introductory words or phrases (e.g., However, the plan failed).\n(iv) A comma is used after every word in a sentence.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — commas separate list items. (ii) is correct — a comma precedes conjunctions like 'and', 'but', 'or' joining independent clauses. (iii) is correct — commas follow introductory elements. (iv) is wrong — commas are NOT placed after every word; they have specific grammatical uses."
     },
     {
       "id": "3",
       "subject": "A",
       "questionText": "Identify the sentence with a punctuation error:",
-      "options": ["The students, who had studied hard passed the exam.", "The boy said, 'I will come tomorrow.'", "Where are you going?", "She bought apples, oranges, and grapes."],
+      "options": ["The boy said, 'I will come tomorrow.'", "The students, who had studied hard passed the exam.", "Where are you going?", "She bought apples, oranges, and grapes."],
       "correctAnswer": "The students, who had studied hard passed the exam.",
-      "explanation": "The first sentence has a punctuation error — the non-restrictive clause 'who had studied hard' needs a closing comma: 'The students, who had studied hard, passed the exam.' The second option is correct — direct speech with proper quotation marks and comma. The third is correct — proper question mark. The fourth is correct — proper list with commas."
+      "explanation": "The first sentence has a punctuation error — the non-restrictive clause 'who had studied hard' needs a closing comma: 'The students, who had studied hard, passed the exam.' 'The boy said, 'I will come tomorrow.'' is correct — direct speech with proper quotation marks and comma. The third is correct — proper question mark. The fourth is correct — proper list with commas."
     },
     {
       "id": "4",
@@ -39,49 +39,49 @@
       "id": "5",
       "subject": "A",
       "questionText": "Match the following punctuation marks with their primary uses:\n\nColumn I:\n(a) Full stop (.)\n(b) Question mark (?)\n(c) Exclamation mark (!)\n(d) Comma (,)\n\nColumn II:\n(i) Indicates a pause within a sentence\n(ii) Ends a declarative or imperative sentence\n(iii) Ends an interrogative sentence\n(iv) Expresses strong emotion or surprise\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
+      "options": ["(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-      "explanation": "Full stop ends declarative/imperative sentences (ii). Question mark ends questions (iii). Exclamation mark expresses strong emotion (iv). Comma indicates a pause within a sentence (i). The second option wrongly assigns question endings to full stops. The third option wrongly assigns emotion to question marks. The fourth option wrongly assigns pauses to full stops."
+      "explanation": "Full stop ends declarative/imperative sentences (ii). Question mark ends questions (iii). Exclamation mark expresses strong emotion (iv). Comma indicates a pause within a sentence (i). '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' wrongly assigns question endings to full stops. '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' wrongly assigns emotion to question marks. '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' wrongly assigns pauses to full stops."
     },
     {
       "id": "6",
       "subject": "A",
       "questionText": "Choose the correctly punctuated sentence:",
-      "options": ["'Where are you going?' asked the teacher.", "'Where are you going' asked the teacher.", "'Where are you going?' Asked the teacher.", "'Where are you going?', asked the teacher."],
+      "options": ["'Where are you going' asked the teacher.", "'Where are you going?' asked the teacher.", "'Where are you going?' Asked the teacher.", "'Where are you going?', asked the teacher."],
       "correctAnswer": "'Where are you going?' asked the teacher.",
-      "explanation": "The question mark goes inside the quotation marks, and 'asked' is lowercase because it continues the sentence. The second option is missing the question mark inside quotes. The third option incorrectly capitalises 'Asked'. The fourth option incorrectly adds a comma after the closing quotation mark when a question mark is already present."
+      "explanation": "The question mark goes inside the quotation marks, and 'asked' is lowercase because it continues the sentence. ''Where are you going' asked the teacher.' is missing the question mark inside quotes. ''Where are you going?' Asked the teacher.' incorrectly capitalises 'Asked'. ''Where are you going?', asked the teacher.' incorrectly adds a comma after the closing quotation mark when a question mark is already present."
     },
     {
       "id": "7",
       "subject": "A",
-      "questionText": "Which of the following sentences are correctly punctuated?\n\n(i) The manager said, 'The meeting is at 3 PM.'\n(ii) She asked me where I was going?\n(iii) My brother, who lives in Delhi, is a doctor.\n(iv) 'Help!' shouted the boy.\n\nSelect the correct combination:",
-      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "(i) is correct — proper direct speech with comma and quotation marks. (iii) is correct — non-restrictive clause properly enclosed in commas. (iv) is correct — exclamation within quotes and proper attribution. (ii) is wrong — indirect questions (reported speech starting with 'where') should end with a full stop, not a question mark."
+      "questionText": "Which of the following sentences are correctly punctuated?\n\n(i) She asked me where I was going?\n(ii) The manager said, 'The meeting is at 3 PM.'\n(iii) My brother, who lives in Delhi, is a doctor.\n(iv) 'Help!' shouted the boy.\n\nSelect the correct combination:",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — proper direct speech with comma and quotation marks. (iii) is correct — non-restrictive clause properly enclosed in commas. (iv) is correct — exclamation within quotes and proper attribution. (i) is wrong — indirect questions (reported speech starting with 'where') should end with a full stop, not a question mark."
     },
     {
       "id": "8",
       "subject": "A",
       "questionText": "Identify the correctly written sentence:",
-      "options": ["Neither the students nor the teacher was present.", "Neither the students nor the teacher were present.", "Neither the students nor the teacher are present.", "Neither the students or the teacher was present."],
+      "options": ["Neither the students nor the teacher were present.", "Neither the students nor the teacher are present.", "Neither the students nor the teacher was present.", "Neither the students or the teacher was present."],
       "correctAnswer": "Neither the students nor the teacher was present.",
-      "explanation": "With 'neither...nor', the verb agrees with the subject nearest to it ('the teacher' = singular, so 'was'). The second option uses 'were' which doesn't agree with the nearest subject. The third option uses 'are' (plural present). The fourth option incorrectly uses 'or' instead of 'nor' with 'neither'."
+      "explanation": "With 'neither...nor', the verb agrees with the subject nearest to it ('the teacher' = singular, so 'was'). 'Neither the students nor the teacher were present.' uses 'were' which doesn't agree with the nearest subject. 'Neither the students nor the teacher are present.' uses 'are' (plural present). 'Neither the students or the teacher was present.' incorrectly uses 'or' instead of 'nor' with 'neither'."
     },
     {
       "id": "9",
       "subject": "A",
-      "questionText": "Consider the following statements about the apostrophe:\n\n(i) An apostrophe is used to show possession (e.g., Ravi's book).\n(ii) An apostrophe is used in contractions (e.g., don't = do not).\n(iii) An apostrophe is used to form plurals of all nouns (e.g., cat's for multiple cats).\n(iv) 'Its' (without apostrophe) is the possessive form; 'it's' (with apostrophe) means 'it is'.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — apostrophe shows possession. (ii) is correct — apostrophe marks contractions. (iv) is correct — 'its' is possessive, 'it's' = 'it is'. (iii) is wrong — apostrophes are NOT used to form regular plurals (cats, not cat's); using apostrophes for plurals is a common error."
+      "questionText": "Consider the following statements about the apostrophe:\n\n(i) An apostrophe is used to show possession (e.g., Ravi's book).\n(ii) An apostrophe is used to form plurals of all nouns (e.g., cat's for multiple cats).\n(iii) An apostrophe is used in contractions (e.g., don't = do not).\n(iv) 'Its' (without apostrophe) is the possessive form; 'it's' (with apostrophe) means 'it is'.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — apostrophe shows possession. (iii) is correct — apostrophe marks contractions. (iv) is correct — 'its' is possessive, 'it's' = 'it is'. (ii) is wrong — apostrophes are NOT used to form regular plurals (cats, not cat's); using apostrophes for plurals is a common error."
     },
     {
       "id": "10",
       "subject": "A",
       "questionText": "Choose the sentence with correct subject-verb agreement:",
-      "options": ["Each of the boys has completed his homework.", "Each of the boys have completed his homework.", "Each of the boys has completed their homework.", "Each of the boys have completed their homework."],
+      "options": ["Each of the boys have completed his homework.", "Each of the boys has completed their homework.", "Each of the boys have completed their homework.", "Each of the boys has completed his homework."],
       "correctAnswer": "Each of the boys has completed his homework.",
-      "explanation": "'Each' is singular and takes a singular verb 'has' and singular pronoun 'his'. The second option uses 'have' (plural verb) incorrectly. The third option uses 'their' (plural pronoun) incorrectly with singular 'each'. The fourth option has both errors — plural verb and plural pronoun."
+      "explanation": "'Each' is singular and takes a singular verb 'has' and singular pronoun 'his'. 'Each of the boys have completed his homework.' uses 'have' (plural verb) incorrectly. 'Each of the boys has completed their homework.' uses 'their' (plural pronoun) incorrectly with singular 'each'. 'Each of the boys have completed their homework.' has both errors — plural verb and plural pronoun."
     },
     {
       "id": "11",
@@ -95,17 +95,17 @@
       "id": "12",
       "subject": "A",
       "questionText": "Identify the sentence that needs correction:",
-      "options": ["He is one of the students who are always late.", "He is one of the students who is always late.", "The committee has made its decision.", "Mathematics is my favourite subject."],
+      "options": ["He is one of the students who are always late.", "The committee has made its decision.", "Mathematics is my favourite subject.", "He is one of the students who is always late."],
       "correctAnswer": "He is one of the students who is always late.",
-      "explanation": "The incorrect sentence uses 'is' after 'who'. In 'one of the students who are late', 'who' refers to 'students' (plural), so the verb should be 'are'. The first option correctly uses 'are'. The third option correctly uses singular 'has' and 'its' for collective noun 'committee'. The fourth option correctly uses singular 'is' for the subject 'Mathematics'."
+      "explanation": "The incorrect sentence uses 'is' after 'who'. In 'one of the students who are late', 'who' refers to 'students' (plural), so the verb should be 'are'. 'He is one of the students who are always late.' correctly uses 'are'. 'The committee has made its decision.' correctly uses singular 'has' and 'its' for collective noun 'committee'. 'Mathematics is my favourite subject.' correctly uses singular 'is' for the subject 'Mathematics'."
     },
     {
       "id": "13",
       "subject": "A",
       "questionText": "Match the following punctuation marks with their correct names:\n\nColumn I:\n(a) ;\n(b) :\n(c) ' '\n(d) —\n\nColumn II:\n(i) Colon\n(ii) Dash (em dash)\n(iii) Semicolon\n(iv) Quotation marks (inverted commas)\n\nChoose the correct match:",
-      "options": ["(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)", "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"],
+      "options": ["(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)", "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)", "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)", "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
-      "explanation": "; is the semicolon (iii). : is the colon (i). ' ' are quotation marks/inverted commas (iv). — is the dash/em dash (ii). The second option wrongly assigns colon to semicolon. The third option wrongly assigns quotation marks to colon. The fourth option wrongly assigns dash to quotation marks."
+      "explanation": "; is the semicolon (iii). : is the colon (i). ' ' are quotation marks/inverted commas (iv). — is the dash/em dash (ii). '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' wrongly assigns colon to semicolon. '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' wrongly assigns quotation marks to colon. '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' wrongly assigns dash to quotation marks."
     },
     {
       "id": "14",
@@ -113,7 +113,7 @@
       "questionText": "Choose the correctly punctuated sentence:",
       "options": ["The following items are needed: pens, pencils, and erasers.", "The following items are needed; pens, pencils, and erasers.", "The following items are needed, pens, pencils, and erasers.", "The following items are needed. pens, pencils, and erasers."],
       "correctAnswer": "The following items are needed: pens, pencils, and erasers.",
-      "explanation": "A colon is used to introduce a list after a complete clause. The second option uses a semicolon incorrectly — semicolons don't introduce lists. The third option uses a comma which is too weak for introducing a list after a complete sentence. The fourth option uses a full stop which breaks the sentence incorrectly and starts the list without a capital letter."
+      "explanation": "A colon is used to introduce a list after a complete clause. 'The following items are needed; pens, pencils, and erasers.' uses a semicolon incorrectly — semicolons don't introduce lists. 'The following items are needed, pens, pencils, and erasers.' uses a comma which is too weak for introducing a list after a complete sentence. 'The following items are needed. pens, pencils, and erasers.' uses a full stop which breaks the sentence incorrectly and starts the list without a capital letter."
     },
     {
       "id": "15",
@@ -127,15 +127,15 @@
       "id": "16",
       "subject": "A",
       "questionText": "Identify the sentence with correct word order:",
-      "options": ["Seldom does he come to school on time.", "Seldom he does come to school on time.", "Seldom he comes to school on time.", "Seldom does he comes to school on time."],
+      "options": ["Seldom he does come to school on time.", "Seldom does he come to school on time.", "Seldom he comes to school on time.", "Seldom does he comes to school on time."],
       "correctAnswer": "Seldom does he come to school on time.",
-      "explanation": "When a negative adverb like 'seldom' begins a sentence, inversion is required (auxiliary + subject + base verb): 'does he come'. The second option incorrectly places 'he does' without inversion. The third option lacks the auxiliary verb. The fourth option incorrectly adds 's' to 'come' after 'does'."
+      "explanation": "When a negative adverb like 'seldom' begins a sentence, inversion is required (auxiliary + subject + base verb): 'does he come'. 'Seldom he does come to school on time.' incorrectly places 'he does' without inversion. 'Seldom he comes to school on time.' lacks the auxiliary verb. 'Seldom does he comes to school on time.' incorrectly adds 's' to 'come' after 'does'."
     },
     {
       "id": "17",
       "subject": "A",
       "questionText": "Fill in the blank: The teacher said, '__________ homework must be submitted by Friday.'",
-      "options": ["Your", "You're", "Youre", "Yours"],
+      "options": ["You're", "Your", "Youre", "Yours"],
       "correctAnswer": "Your",
       "explanation": "'Your' is the possessive adjective meaning 'belonging to you'. 'You're' is wrong — it means 'you are', which doesn't fit ('you are homework' makes no sense). 'Youre' is wrong — it is a misspelling. 'Yours' is wrong — it is a possessive pronoun used without a noun following it (e.g., 'This book is yours')."
     },
@@ -151,15 +151,15 @@
       "id": "19",
       "subject": "A",
       "questionText": "Choose the sentence that is grammatically correct:",
-      "options": ["The news is very disturbing.", "The news are very disturbing.", "The news were very disturbing.", "A news is very disturbing."],
+      "options": ["The news are very disturbing.", "The news is very disturbing.", "The news were very disturbing.", "A news is very disturbing."],
       "correctAnswer": "The news is very disturbing.",
-      "explanation": "'News' is an uncountable noun that takes a singular verb. 'The news is' is correct. The second option uses 'are' (plural verb) incorrectly. The third option uses 'were' (plural past) incorrectly. The fourth option uses 'a' before 'news' which is wrong because uncountable nouns don't take 'a/an'."
+      "explanation": "'News' is an uncountable noun that takes a singular verb. 'The news is' is correct. 'The news are very disturbing.' uses 'are' (plural verb) incorrectly. 'The news were very disturbing.' uses 'were' (plural past) incorrectly. 'A news is very disturbing.' uses 'a' before 'news' which is wrong because uncountable nouns don't take 'a/an'."
     },
     {
       "id": "20",
       "subject": "A",
       "questionText": "Which of the following sentences use the hyphen correctly?\n\n(i) She is a well-known author.\n(ii) He is a twenty-five-year-old man.\n(iii) The long-term plan was approved.\n(iv) He plays foot-ball every day.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iv)", "(i), (iii) and (iv)", "(i), (ii) and (iii)", "(ii), (iii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — 'well-known' is hyphenated as a compound adjective before a noun. (ii) is correct — compound age adjectives are hyphenated. (iii) is correct — 'long-term' is a compound adjective. (iv) is wrong — 'football' is one word, not hyphenated."
     },
@@ -167,25 +167,25 @@
       "id": "21",
       "subject": "A",
       "questionText": "Identify the sentence with a grammatical error:",
-      "options": ["One of my friend is coming today.", "One of my friends is coming today.", "None of the students was absent.", "Each of them has a book."],
+      "options": ["One of my friends is coming today.", "None of the students was absent.", "One of my friend is coming today.", "Each of them has a book."],
       "correctAnswer": "One of my friend is coming today.",
-      "explanation": "The error is 'One of my friend' — after 'one of', a plural noun is required: 'One of my friends'. The second option correctly uses 'friends' (plural). The third option is correct — 'none' can take singular 'was'. The fourth option is correct — 'each' takes singular 'has'."
+      "explanation": "The error is 'One of my friend' — after 'one of', a plural noun is required: 'One of my friends'. 'One of my friends is coming today.' correctly uses 'friends' (plural). 'None of the students was absent.' is correct — 'none' can take singular 'was'. 'Each of them has a book.' is correct — 'each' takes singular 'has'."
     },
     {
       "id": "22",
       "subject": "A",
-      "questionText": "Consider the following statements about quotation marks:\n\n(i) Direct speech is enclosed in quotation marks.\n(ii) Titles of short works like poems and articles are placed in quotation marks.\n(iii) Quotation marks are used around every noun in a sentence.\n(iv) A comma or full stop usually comes before the closing quotation mark.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — direct speech uses quotation marks. (ii) is correct — short works' titles go in quotes. (iv) is correct — in British and standard usage, punctuation typically goes before/inside closing quotes. (iii) is wrong — quotation marks are NOT placed around every noun; they have specific uses."
+      "questionText": "Consider the following statements about quotation marks:\n\n(i) Quotation marks are used around every noun in a sentence.\n(ii) Direct speech is enclosed in quotation marks.\n(iii) Titles of short works like poems and articles are placed in quotation marks.\n(iv) A comma or full stop usually comes before the closing quotation mark.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — direct speech uses quotation marks. (iii) is correct — short works' titles go in quotes. (iv) is correct — in British and standard usage, punctuation typically goes before/inside closing quotes. (i) is wrong — quotation marks are NOT placed around every noun; they have specific uses."
     },
     {
       "id": "23",
       "subject": "A",
       "questionText": "Choose the correctly written sentence:",
-      "options": ["Had I known earlier, I would have helped you.", "Had I known earlier, I would had helped you.", "Had I known earlier, I will have helped you.", "Had I known earlier, I would have help you."],
+      "options": ["Had I known earlier, I would had helped you.", "Had I known earlier, I will have helped you.", "Had I known earlier, I would have help you.", "Had I known earlier, I would have helped you."],
       "correctAnswer": "Had I known earlier, I would have helped you.",
-      "explanation": "This is the third conditional (past unreal condition) with correct structure: 'Had + subject + past participle, subject + would have + past participle.' The second option incorrectly uses 'would had' instead of 'would have'. The third option incorrectly uses 'will have' (mixing future with past). The fourth option uses base form 'help' instead of past participle 'helped'."
+      "explanation": "This is the third conditional (past unreal condition) with correct structure: 'Had + subject + past participle, subject + would have + past participle.' 'Had I known earlier, I would had helped you.' incorrectly uses 'would had' instead of 'would have'. 'Had I known earlier, I will have helped you.' incorrectly uses 'will have' (mixing future with past). 'Had I known earlier, I would have help you.' uses base form 'help' instead of past participle 'helped'."
     },
     {
       "id": "24",
@@ -199,25 +199,25 @@
       "id": "25",
       "subject": "A",
       "questionText": "Match the following errors with their corrections:\n\nColumn I:\n(a) He don't know the answer.\n(b) She is more taller than me.\n(c) I have went to the market.\n(d) Between you and I, this is wrong.\n\nColumn II:\n(i) 'gone' instead of 'went'\n(ii) 'doesn't' instead of 'don't'\n(iii) 'taller' instead of 'more taller'\n(iv) 'me' instead of 'I' (after preposition)\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"],
+      "options": ["(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
-      "explanation": "'He don't' should be 'He doesn't' (ii). 'More taller' is double comparative — just 'taller' (iii). 'Have went' should be 'have gone' (past participle) (i). 'Between you and I' should be 'Between you and me' (objective case after preposition) (iv). The second option wrongly assigns 'taller' fix to the first error. The third option wrongly assigns 'gone' fix to the comparative error. The fourth option wrongly assigns the preposition fix to 'have went'."
+      "explanation": "'He don't' should be 'He doesn't' (ii). 'More taller' is double comparative — just 'taller' (iii). 'Have went' should be 'have gone' (past participle) (i). 'Between you and I' should be 'Between you and me' (objective case after preposition) (iv). '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' wrongly assigns 'taller' fix to the first error. '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)' wrongly assigns 'gone' fix to the comparative error. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' wrongly assigns the preposition fix to 'have went'."
     },
     {
       "id": "26",
       "subject": "A",
       "questionText": "Choose the sentence with correct punctuation:",
-      "options": ["Mr. Sharma, the principal, addressed the students.", "Mr. Sharma the principal addressed the students.", "Mr. Sharma the principal, addressed the students.", "Mr. Sharma, the principal addressed the students."],
+      "options": ["Mr. Sharma the principal addressed the students.", "Mr. Sharma the principal, addressed the students.", "Mr. Sharma, the principal addressed the students.", "Mr. Sharma, the principal, addressed the students."],
       "correctAnswer": "Mr. Sharma, the principal, addressed the students.",
-      "explanation": "'The principal' is an appositive (renaming 'Mr. Sharma') and must be enclosed in commas on both sides. The second option lacks both commas. The third option has only the closing comma. The fourth option has only the opening comma, making 'the principal addressed' look like a single phrase."
+      "explanation": "'The principal' is an appositive (renaming 'Mr. Sharma') and must be enclosed in commas on both sides. 'Mr. Sharma the principal addressed the students.' lacks both commas. 'Mr. Sharma the principal, addressed the students.' has only the closing comma. 'Mr. Sharma, the principal addressed the students.' has only the opening comma, making 'the principal addressed' look like a single phrase."
     },
     {
       "id": "27",
       "subject": "A",
-      "questionText": "Consider the following statements about the use of the full stop:\n\n(i) A full stop ends a declarative sentence.\n(ii) A full stop is used after abbreviations (e.g., Dr., Mr., etc.).\n(iii) A full stop is placed at the end of every line in a paragraph.\n(iv) A full stop ends an imperative sentence that is not exclamatory.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — declarative sentences end with a full stop. (ii) is correct — abbreviations often use full stops. (iv) is correct — non-exclamatory imperatives end with a full stop ('Please sit down.'). (iii) is wrong — full stops end sentences, not every line; a sentence can span multiple lines."
+      "questionText": "Consider the following statements about the use of the full stop:\n\n(i) A full stop ends a declarative sentence.\n(ii) A full stop is placed at the end of every line in a paragraph.\n(iii) A full stop is used after abbreviations (e.g., Dr., Mr., etc.).\n(iv) A full stop ends an imperative sentence that is not exclamatory.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — declarative sentences end with a full stop. (iii) is correct — abbreviations often use full stops. (iv) is correct — non-exclamatory imperatives end with a full stop ('Please sit down.'). (ii) is wrong — full stops end sentences, not every line; a sentence can span multiple lines."
     },
     {
       "id": "28",
@@ -225,13 +225,13 @@
       "questionText": "Identify the grammatically correct sentence:",
       "options": ["The furniture in the room needs to be cleaned.", "The furniture in the room need to be cleaned.", "The furnitures in the room needs to be cleaned.", "The furnitures in the room need to be cleaned."],
       "correctAnswer": "The furniture in the room needs to be cleaned.",
-      "explanation": "'Furniture' is an uncountable noun — it takes a singular verb ('needs') and has no plural form. The second option uses plural verb 'need' incorrectly. The third option incorrectly adds 's' to form a plural of an uncountable noun. The fourth option has both errors — incorrect plural and plural verb."
+      "explanation": "'Furniture' is an uncountable noun — it takes a singular verb ('needs') and has no plural form. 'The furniture in the room need to be cleaned.' uses plural verb 'need' incorrectly. 'The furnitures in the room needs to be cleaned.' incorrectly adds 's' to form a plural of an uncountable noun. 'The furnitures in the room need to be cleaned.' has both errors — incorrect plural and plural verb."
     },
     {
       "id": "29",
       "subject": "A",
       "questionText": "Which of the following sentences correctly use the semicolon?\n\n(i) She loves reading; her brother prefers sports.\n(ii) I have three hobbies; reading, swimming, and painting.\n(iii) It was raining heavily; however, we decided to go out.\n(iv) The dog barked; loudly.\n\nSelect the correct combination:",
-      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iii)", "(i) and (iii) only", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "(i) is correct — semicolon joins two related independent clauses. (iii) is correct — semicolon before a conjunctive adverb ('however') joining two independent clauses. (ii) is wrong — when introducing a simple list, use a colon, not a semicolon. (iv) is wrong — 'loudly' is not an independent clause; it cannot be separated by a semicolon."
     },
@@ -241,7 +241,7 @@
       "questionText": "Choose the sentence with no grammatical error:",
       "options": ["He is elder to me by three years.", "He is older than me by three years.", "He is more elder than me.", "He is older to me by three years."],
       "correctAnswer": "He is older than me by three years.",
-      "explanation": "'Older than' is the correct comparative form for age comparisons. The first option is wrong — 'elder to' is used only for family relationships (elder brother), not general comparisons. The third option is wrong — 'more elder' is a double comparative. The fourth option is wrong — 'older' takes 'than', not 'to'."
+      "explanation": "'Older than' is the correct comparative form for age comparisons. 'He is elder to me by three years.' is wrong — 'elder to' is used only for family relationships (elder brother), not general comparisons. 'He is more elder than me.' is wrong — 'more elder' is a double comparative. 'He is older to me by three years.' is wrong — 'older' takes 'than', not 'to'."
     },
     {
       "id": "31",
@@ -255,39 +255,39 @@
       "id": "32",
       "subject": "A",
       "questionText": "Identify the sentence with a punctuation error:",
-      "options": ["He asked, 'Where is the library?'", "She said that she was tired.", "Wow what a beautiful painting!", "I bought milk, bread, and eggs."],
+      "options": ["He asked, 'Where is the library?'", "Wow what a beautiful painting!", "She said that she was tired.", "I bought milk, bread, and eggs."],
       "correctAnswer": "Wow what a beautiful painting!",
-      "explanation": "'Wow' is an interjection and should be followed by a comma or exclamation mark: 'Wow! What a beautiful painting!' or 'Wow, what a beautiful painting!' The first option correctly punctuates direct speech. The second correctly reports indirect speech. The fourth correctly lists items with commas."
+      "explanation": "'Wow' is an interjection and should be followed by a comma or exclamation mark: 'Wow! What a beautiful painting!' or 'Wow, what a beautiful painting!' 'He asked, 'Where is the library?'' correctly punctuates direct speech. The second correctly reports indirect speech. The fourth correctly lists items with commas."
     },
     {
       "id": "33",
       "subject": "A",
       "questionText": "Choose the correctly written sentence:",
-      "options": ["If I were you, I would accept the offer.", "If I was you, I would accept the offer.", "If I were you, I will accept the offer.", "If I was you, I will accept the offer."],
+      "options": ["If I was you, I would accept the offer.", "If I were you, I will accept the offer.", "If I were you, I would accept the offer.", "If I was you, I will accept the offer."],
       "correctAnswer": "If I were you, I would accept the offer.",
-      "explanation": "The subjunctive mood uses 'were' (not 'was') for unreal/hypothetical conditions, and the main clause uses 'would' (not 'will'). The second option uses 'was' instead of subjunctive 'were'. The third option incorrectly uses 'will' instead of 'would'. The fourth option has both errors."
+      "explanation": "The subjunctive mood uses 'were' (not 'was') for unreal/hypothetical conditions, and the main clause uses 'would' (not 'will'). 'If I was you, I would accept the offer.' uses 'was' instead of subjunctive 'were'. 'If I were you, I will accept the offer.' incorrectly uses 'will' instead of 'would'. 'If I was you, I will accept the offer.' has both errors."
     },
     {
       "id": "34",
       "subject": "A",
       "questionText": "Match the following sentence errors with their type:\n\nColumn I:\n(a) He goed to school yesterday.\n(b) She is a honest girl.\n(c) The cattles are grazing.\n(d) I am knowing the answer.\n\nColumn II:\n(i) Wrong use of article\n(ii) Incorrect verb form (irregular past)\n(iii) Wrong plural form (uncountable/collective treated as countable)\n(iv) Non-continuous verb used in continuous tense\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
+      "options": ["(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)", "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-      "explanation": "'Goed' is incorrect past tense — should be 'went' (irregular verb error, ii). 'A honest' is wrong — should be 'an honest' (article error, i). 'Cattles' is wrong — 'cattle' has no plural 's' (iii). 'Am knowing' is wrong — 'know' is a stative verb not used in continuous tense (iv). The second option wrongly assigns article error to verb form. The third option wrongly assigns plural error to article. The fourth option wrongly swaps the last two."
+      "explanation": "'Goed' is incorrect past tense — should be 'went' (irregular verb error, ii). 'A honest' is wrong — should be 'an honest' (article error, i). 'Cattles' is wrong — 'cattle' has no plural 's' (iii). 'Am knowing' is wrong — 'know' is a stative verb not used in continuous tense (iv). '(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)' wrongly assigns article error to verb form. '(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)' wrongly assigns plural error to article. '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' wrongly swaps the last two."
     },
     {
       "id": "35",
       "subject": "A",
       "questionText": "Choose the sentence with correct subject-verb agreement:",
-      "options": ["The committee has decided to hold the meeting.", "The committee have decided to hold the meeting.", "The committee has decided to held the meeting.", "The committee were decided to hold the meeting."],
+      "options": ["The committee have decided to hold the meeting.", "The committee has decided to held the meeting.", "The committee has decided to hold the meeting.", "The committee were decided to hold the meeting."],
       "correctAnswer": "The committee has decided to hold the meeting.",
-      "explanation": "'Committee' as a collective noun takes a singular verb 'has' when acting as one unit. 'To hold' (infinitive) is correct after 'decided'. The second option uses plural 'have'. The third uses 'held' instead of 'hold' after 'to'. The fourth uses 'were decided' which is passive but grammatically malformed here."
+      "explanation": "'Committee' as a collective noun takes a singular verb 'has' when acting as one unit. 'To hold' (infinitive) is correct after 'decided'. 'The committee have decided to hold the meeting.' uses plural 'have'. The third uses 'held' instead of 'hold' after 'to'. The fourth uses 'were decided' which is passive but grammatically malformed here."
     },
     {
       "id": "36",
       "subject": "A",
       "questionText": "Consider the following statements about the use of quotation marks in direct speech:\n\n(i) The first word inside quotation marks is capitalised.\n(ii) A comma separates the speech from the reporting verb (e.g., He said, '...').\n(iii) The full stop goes inside the closing quotation mark.\n(iv) No punctuation is ever needed with quotation marks.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iii)"],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — direct speech begins with a capital letter. (ii) is correct — a comma precedes the opening quotation. (iii) is correct — punctuation goes inside the closing quotation mark. (iv) is wrong — quotation marks require specific punctuation rules (commas, full stops, question marks, etc.)."
     },
@@ -295,25 +295,25 @@
       "id": "37",
       "subject": "A",
       "questionText": "Identify the correctly written sentence:",
-      "options": ["Hardly had he reached the station when the train left.", "Hardly had he reached the station than the train left.", "Hardly he had reached the station when the train left.", "Hardly had he reached the station then the train left."],
+      "options": ["Hardly had he reached the station than the train left.", "Hardly he had reached the station when the train left.", "Hardly had he reached the station then the train left.", "Hardly had he reached the station when the train left."],
       "correctAnswer": "Hardly had he reached the station when the train left.",
-      "explanation": "'Hardly...when' is the correct correlative construction with inverted word order (Hardly + had + subject). The second option uses 'than' instead of 'when'. The third option lacks inversion ('he had' instead of 'had he'). The fourth option uses 'then' instead of 'when'."
+      "explanation": "'Hardly...when' is the correct correlative construction with inverted word order (Hardly + had + subject). 'Hardly had he reached the station than the train left.' uses 'than' instead of 'when'. 'Hardly he had reached the station when the train left.' lacks inversion ('he had' instead of 'had he'). 'Hardly had he reached the station then the train left.' uses 'then' instead of 'when'."
     },
     {
       "id": "38",
       "subject": "A",
       "questionText": "Choose the correctly punctuated sentence:",
-      "options": ["My mother — who is a teacher — works at the local school.", "My mother, who is a teacher — works at the local school.", "My mother — who is a teacher, works at the local school.", "My mother who is a teacher — works at the local school."],
+      "options": ["My mother, who is a teacher — works at the local school.", "My mother — who is a teacher, works at the local school.", "My mother who is a teacher — works at the local school.", "My mother — who is a teacher — works at the local school."],
       "correctAnswer": "My mother — who is a teacher — works at the local school.",
-      "explanation": "Em dashes (—) are used in pairs to set off a parenthetical element, similar to commas or brackets. Both must be present. The second option mixes a comma and a dash inconsistently. The third option also mixes punctuation. The fourth option has only a closing dash with no opening dash."
+      "explanation": "Em dashes (—) are used in pairs to set off a parenthetical element, similar to commas or brackets. Both must be present. 'My mother, who is a teacher — works at the local school.' mixes a comma and a dash inconsistently. 'My mother — who is a teacher, works at the local school.' also mixes punctuation. 'My mother who is a teacher — works at the local school.' has only a closing dash with no opening dash."
     },
     {
       "id": "39",
       "subject": "A",
-      "questionText": "Which of the following sentences have correct word usage?\n\n(i) The principal called a meeting of all teachers.\n(ii) She accepted the invitation gracefully.\n(iii) The whether is very pleasant today.\n(iv) He gave me good advice.\n\nSelect the correct combination:",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — 'principal' (head of school) is used correctly. (ii) is correct — 'accepted' (received) is correct. (iv) is correct — 'advice' (uncountable noun) is correct. (iii) is wrong — 'whether' is a conjunction; the correct word for climate conditions is 'weather'."
+      "questionText": "Which of the following sentences have correct word usage?\n\n(i) The whether is very pleasant today.\n(ii) The principal called a meeting of all teachers.\n(iii) She accepted the invitation gracefully.\n(iv) He gave me good advice.\n\nSelect the correct combination:",
+      "options": ["(ii), (iii) and (iv)", "(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)"],
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — 'principal' (head of school) is used correctly. (iii) is correct — 'accepted' (received) is correct. (iv) is correct — 'advice' (uncountable noun) is correct. (i) is wrong — 'whether' is a conjunction; the correct word for climate conditions is 'weather'."
     },
     {
       "id": "40",
@@ -327,55 +327,55 @@
       "id": "41",
       "subject": "A",
       "questionText": "Choose the sentence that does NOT need a comma:",
-      "options": ["She wore a red silk dress.", "After the rain stopped we went outside.", "However the plan was not approved.", "Mr. Kumar who is our neighbour is very kind."],
+      "options": ["After the rain stopped we went outside.", "She wore a red silk dress.", "However the plan was not approved.", "Mr. Kumar who is our neighbour is very kind."],
       "correctAnswer": "She wore a red silk dress.",
-      "explanation": "'Red' and 'silk' are cumulative adjectives (not coordinate), so no comma is needed between them. The second option needs a comma after the introductory clause ('After the rain stopped,'). The third needs a comma after 'However' (introductory adverb). The fourth needs commas around the non-restrictive clause ('who is our neighbour')."
+      "explanation": "'Red' and 'silk' are cumulative adjectives (not coordinate), so no comma is needed between them. 'After the rain stopped we went outside.' needs a comma after the introductory clause ('After the rain stopped,'). The third needs a comma after 'However' (introductory adverb). The fourth needs commas around the non-restrictive clause ('who is our neighbour')."
     },
     {
       "id": "42",
       "subject": "A",
       "questionText": "Identify the sentence with correct use of tense:",
-      "options": ["She has been working here since 2019.", "She has been working here for 2019.", "She is working here since 2019.", "She was working here since 2019."],
+      "options": ["She has been working here for 2019.", "She has been working here since 2019.", "She is working here since 2019.", "She was working here since 2019."],
       "correctAnswer": "She has been working here since 2019.",
-      "explanation": "Present perfect continuous ('has been working') is correct with 'since' + point in time for an action continuing to the present. The second option incorrectly uses 'for' with a year (should be 'since'). The third uses present continuous with 'since' which is incorrect. The fourth uses past continuous with 'since' which doesn't convey the ongoing nature correctly."
+      "explanation": "Present perfect continuous ('has been working') is correct with 'since' + point in time for an action continuing to the present. 'She has been working here for 2019.' incorrectly uses 'for' with a year (should be 'since'). The third uses present continuous with 'since' which is incorrect. The fourth uses past continuous with 'since' which doesn't convey the ongoing nature correctly."
     },
     {
       "id": "43",
       "subject": "A",
       "questionText": "Match the following sentence errors with their corrections:\n\nColumn I:\n(a) He gave me a advise.\n(b) The sceneries here are beautiful.\n(c) She is suffering from fever since Monday.\n(d) I prefer tea than coffee.\n\nColumn II:\n(i) 'to' instead of 'than' (prefer...to)\n(ii) 'advice' instead of 'advise' (noun not verb)\n(iii) 'has been suffering' instead of 'is suffering' (since = present perfect)\n(iv) 'scenery' instead of 'sceneries' (uncountable noun)\n\nChoose the correct match:",
-      "options": ["(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
+      "options": ["(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)", "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)", "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-      "explanation": "'Advise' is a verb; the noun is 'advice' (ii). 'Sceneries' is wrong — 'scenery' is uncountable, no plural (iv). 'Is suffering since' requires present perfect continuous with 'since' (iii). 'Prefer...than' is wrong — correct idiom is 'prefer...to' (i). The second option wrongly assigns uncountable to 'advise'. The third option wrongly assigns tense to 'sceneries'. The fourth option wrongly swaps the last two."
+      "explanation": "'Advise' is a verb; the noun is 'advice' (ii). 'Sceneries' is wrong — 'scenery' is uncountable, no plural (iv). 'Is suffering since' requires present perfect continuous with 'since' (iii). 'Prefer...than' is wrong — correct idiom is 'prefer...to' (i). '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' wrongly assigns uncountable to 'advise'. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' wrongly assigns tense to 'sceneries'. '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' wrongly swaps the last two."
     },
     {
       "id": "44",
       "subject": "A",
       "questionText": "Choose the correctly punctuated sentence:",
-      "options": ["Do you know whose book this is?", "Do you know who's book this is?", "Do you know whose book this is.", "Do you know whos book this is?"],
+      "options": ["Do you know who's book this is?", "Do you know whose book this is?", "Do you know whose book this is.", "Do you know whos book this is?"],
       "correctAnswer": "Do you know whose book this is?",
-      "explanation": "'Whose' is the possessive form (whose book = belonging to whom) and the sentence is a question needing a question mark. 'Who's' (second option) means 'who is' — incorrect here. The third option uses a full stop instead of a question mark. The fourth option misspells 'whose'."
+      "explanation": "'Whose' is the possessive form (whose book = belonging to whom) and the sentence is a question needing a question mark. 'Who's' (second option) means 'who is' — incorrect here. 'Do you know whose book this is.' uses a full stop instead of a question mark. 'Do you know whos book this is?' misspells 'whose'."
     },
     {
       "id": "45",
       "subject": "A",
-      "questionText": "Consider the following statements about common sentence errors:\n\n(i) A dangling modifier occurs when the modifier doesn't clearly refer to the intended word.\n(ii) A run-on sentence joins two independent clauses without proper punctuation or conjunction.\n(iii) A sentence fragment is a complete sentence with a subject and verb.\n(iv) Parallel structure means using the same grammatical form for items in a list or comparison.\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — dangling modifiers lack a clear referent. (ii) is correct — run-on sentences improperly join clauses. (iv) is correct — parallelism requires consistent structure. (iii) is wrong — a fragment is an INCOMPLETE sentence (lacking subject, verb, or complete thought), not a complete one."
+      "questionText": "Consider the following statements about common sentence errors:\n\n(i) A dangling modifier occurs when the modifier doesn't clearly refer to the intended word.\n(ii) A sentence fragment is a complete sentence with a subject and verb.\n(iii) A run-on sentence joins two independent clauses without proper punctuation or conjunction.\n(iv) Parallel structure means using the same grammatical form for items in a list or comparison.\n\nWhich of the statements given above are correct?",
+      "options": ["(i), (ii) and (iii)", "(i), (ii) and (iv)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — dangling modifiers lack a clear referent. (iii) is correct — run-on sentences improperly join clauses. (iv) is correct — parallelism requires consistent structure. (ii) is wrong — a fragment is an INCOMPLETE sentence (lacking subject, verb, or complete thought), not a complete one."
     },
     {
       "id": "46",
       "subject": "A",
       "questionText": "Choose the grammatically correct sentence:",
-      "options": ["Not only is she intelligent but also hardworking.", "Not only she is intelligent but also hardworking.", "Not only is she intelligent but hardworking also.", "Not only she is intelligent also but hardworking."],
+      "options": ["Not only she is intelligent but also hardworking.", "Not only is she intelligent but hardworking also.", "Not only is she intelligent but also hardworking.", "Not only she is intelligent also but hardworking."],
       "correctAnswer": "Not only is she intelligent but also hardworking.",
-      "explanation": "'Not only...but also' requires inversion when 'not only' starts the sentence (not only + auxiliary + subject). The second option lacks inversion ('she is' instead of 'is she'). The third option misplaces 'also'. The fourth option has completely jumbled word order."
+      "explanation": "'Not only...but also' requires inversion when 'not only' starts the sentence (not only + auxiliary + subject). 'Not only she is intelligent but also hardworking.' lacks inversion ('she is' instead of 'is she'). 'Not only is she intelligent but hardworking also.' misplaces 'also'. 'Not only she is intelligent also but hardworking.' has completely jumbled word order."
     },
     {
       "id": "47",
       "subject": "A",
       "questionText": "Fill in the blank: The sentence 'Lets go to the park' is incorrect because it should be written as '__________.'",
-      "options": ["Let's go to the park", "Lets' go to the park", "Let go to the park", "Lets goes to the park"],
+      "options": ["Lets' go to the park", "Let go to the park", "Let's go to the park", "Lets goes to the park"],
       "correctAnswer": "Let's go to the park",
       "explanation": "'Let's' is the contraction of 'let us' and requires an apostrophe. 'Lets'' is wrong — the apostrophe is misplaced. 'Let go' is wrong — it changes the meaning (releasing something). 'Lets goes' is wrong — double verb error and no contraction."
     },
@@ -383,7 +383,7 @@
       "id": "48",
       "subject": "A",
       "questionText": "Consider the following statements about the use of the exclamation mark:\n\n(i) It is used after sentences expressing strong emotion (surprise, anger, joy).\n(ii) It follows interjections (Alas! Oh! Hurrah!).\n(iii) It should be used at the end of every sentence for emphasis.\n(iv) It is used after exclamatory sentences beginning with 'What' or 'How' (What a lovely day!).\n\nWhich of the statements given above are correct?",
-      "options": ["(i), (ii) and (iv)", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i), (ii) and (iv)"],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "(i) is correct — exclamation marks follow strong emotions. (ii) is correct — interjections take exclamation marks. (iv) is correct — 'What a!' and 'How!' exclamatory sentences end with !. (iii) is wrong — overusing exclamation marks is poor style; they should be reserved for genuine exclamations."
     },
@@ -391,15 +391,15 @@
       "id": "49",
       "subject": "A",
       "questionText": "Identify the correctly punctuated sentence:",
-      "options": ["The shopkeeper sells fruits, vegetables, and dairy products.", "The shopkeeper sells fruits vegetables and dairy products.", "The shopkeeper sells; fruits, vegetables, and dairy products.", "The shopkeeper, sells fruits vegetables and dairy products."],
+      "options": ["The shopkeeper sells fruits vegetables and dairy products.", "The shopkeeper sells; fruits, vegetables, and dairy products.", "The shopkeeper, sells fruits vegetables and dairy products.", "The shopkeeper sells fruits, vegetables, and dairy products."],
       "correctAnswer": "The shopkeeper sells fruits, vegetables, and dairy products.",
-      "explanation": "Items in a list are separated by commas, with the Oxford comma before 'and' being acceptable. The second option has no commas between list items. The third incorrectly uses a semicolon before a list (should be a colon if anything). The fourth places a comma between subject and verb incorrectly."
+      "explanation": "Items in a list are separated by commas, with the Oxford comma before 'and' being acceptable. 'The shopkeeper sells fruits vegetables and dairy products.' has no commas between list items. The third incorrectly uses a semicolon before a list (should be a colon if anything). The fourth places a comma between subject and verb incorrectly."
     },
     {
       "id": "50",
       "subject": "A",
       "questionText": "Which of the following sentences are free from errors?\n\n(i) The information is correct.\n(ii) He gave me many advices.\n(iii) She is more intelligent than her sister.\n(iv) Please return back the book.\n\nSelect the correct combination:",
-      "options": ["(i) and (iii) only", "(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)"],
+      "options": ["(i), (ii) and (iii)", "(i), (iii) and (iv)", "(ii), (iii) and (iv)", "(i) and (iii) only"],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "(i) is correct — 'information' is uncountable, takes singular 'is'. (iii) is correct — 'more intelligent than' is proper comparative. (ii) is wrong — 'advice' is uncountable; no plural 'advices'. (iv) is wrong — 'return back' is redundant; 'return' already means 'give back'."
     }

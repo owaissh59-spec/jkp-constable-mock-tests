@@ -8,10 +8,10 @@
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'PLACID'.",
       "options": [
+        "Calm",
         "Hollow",
         "Turbulent",
-        "Rigid",
-        "Calm"
+        "Rigid"
       ],
       "correctAnswer": "Calm",
       "explanation": "'Placid' means peaceful and untroubled, i.e. calm. 'Turbulent' means disturbed and stormy, its opposite. 'Rigid' means stiff or inflexible, unrelated to calmness. 'Hollow' means empty inside, which has no connection with a calm temperament, so those options are incorrect."
@@ -21,9 +21,9 @@
       "subject": "B",
       "questionText": "The Gandhi-Irwin Pact, under which the Civil Disobedience Movement was suspended, was signed in which year?",
       "options": [
+        "1931",
         "1932",
         "1930",
-        "1931",
         "1929"
       ],
       "correctAnswer": "1931",
@@ -34,35 +34,35 @@
       "subject": "D",
       "questionText": "Match the following calculations with their results:\n\nColumn I:\n(a) HCF of 8 and 12\n(b) LCM of 2 and 3\n(c) Square of 5\n(d) Cube of 3\n\nColumn II:\n(i) 6\n(ii) 4\n(iii) 27\n(iv) 25\n\nChoose the correct match:",
       "options": [
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "HCF of 8 and 12 is 4, LCM of 2 and 3 is 6, the square of 5 is 25, and the cube of 3 is 27 — matching the first option. The second wrongly swaps 4 and 6. The third wrongly swaps 25 and 27. The fourth wrongly gives the HCF as 25, so those options are incorrect."
+      "explanation": "HCF of 8 and 12 is 4, LCM of 2 and 3 is 6, the square of 5 is 25, and the cube of 3 is 27 — matching '(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)'. The second wrongly swaps 4 and 6. The third wrongly swaps 25 and 27. The fourth wrongly gives the HCF as 25, so those options are incorrect."
     },
     {
       "id": "4",
       "subject": "E",
-      "questionText": "Consider the following statements about computer software:\n\n(i) An operating system is a type of system software.\n(ii) A compiler translates high-level code into machine code.\n(iii) Antivirus software is a type of hardware.\n(iv) MS PowerPoint is application software.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer software:\n\n(i) Antivirus software is a type of hardware.\n(ii) An operating system is a type of system software.\n(iii) A compiler translates high-level code into machine code.\n(iv) MS PowerPoint is application software.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "An OS is system software, a compiler converts high-level code to machine code, and PowerPoint is application software, so (i), (ii) and (iv) are correct. Statement (iii) is false because antivirus is software, not hardware; hence any option containing (iii) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "An OS is system software, a compiler converts high-level code to machine code, and PowerPoint is application software, so (ii), (iii) and (iv) are correct. Statement (i) is false because antivirus is software, not hardware; hence any option containing (i) — the second, third and fourth — is incorrect."
     },
     {
       "id": "5",
       "subject": "A",
       "questionText": "Fill in the blank with the correct preposition: The committee's report does not consist __________ enough evidence to support the charge. __________",
       "options": [
+        "of",
         "with",
         "in",
-        "of",
         "from"
       ],
       "correctAnswer": "of",
@@ -71,15 +71,15 @@
     {
       "id": "6",
       "subject": "B",
-      "questionText": "Which of the following are Union Territories of India?\n\n(i) Ladakh\n(ii) Puducherry\n(iii) Goa\n(iv) Lakshadweep\n\nSelect the correct combination:",
+      "questionText": "Which of the following are Union Territories of India?\n\n(i) Ladakh\n(ii) Goa\n(iii) Puducherry\n(iv) Lakshadweep\n\nSelect the correct combination:",
       "options": [
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Ladakh, Puducherry and Lakshadweep are all Union Territories, so (i), (ii) and (iv) are correct. Goa (iii) became a full-fledged state in 1987 and is no longer a Union Territory; hence any option containing (iii) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Ladakh, Puducherry and Lakshadweep are all Union Territories, so (i), (iii) and (iv) are correct. Goa (ii) became a full-fledged state in 1987 and is no longer a Union Territory; hence any option containing (ii) — the second, third and fourth — is incorrect."
     },
     {
       "id": "7",
@@ -105,7 +105,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: since one of any two consecutive integers is even, their product includes an even factor and is therefore even. Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+      "explanation": "Both are true and R explains A: since one of any two consecutive integers is even, their product includes an even factor and is therefore even. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
     },
     {
       "id": "9",
@@ -113,8 +113,8 @@
       "questionText": "Choose the word that is OPPOSITE in meaning to 'FEEBLE'.",
       "options": [
         "Delicate",
-        "Frail",
         "Sturdy",
+        "Frail",
         "Faint"
       ],
       "correctAnswer": "Sturdy",
@@ -126,12 +126,12 @@
       "questionText": "Match the following books with their authors:\n\nColumn I:\n(a) Anandamath\n(b) Arthashastra\n(c) Gitanjali\n(d) Ain-i-Akbari\n\nColumn II:\n(i) Kautilya\n(ii) Bankim Chandra Chattopadhyay\n(iii) Rabindranath Tagore\n(iv) Abul Fazl\n\nChoose the correct match:",
       "options": [
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-      "explanation": "Bankim Chandra wrote Anandamath, Kautilya wrote the Arthashastra, Tagore wrote Gitanjali, and Abul Fazl wrote the Ain-i-Akbari — matching the first option. The second swaps Anandamath and Arthashastra. The third swaps Gitanjali and Ain-i-Akbari. The fourth wrongly credits Anandamath to Tagore, so those options are incorrect."
+      "explanation": "Bankim Chandra wrote Anandamath, Kautilya wrote the Arthashastra, Tagore wrote Gitanjali, and Abul Fazl wrote the Ain-i-Akbari — matching '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)'. The second swaps Anandamath and Arthashastra. The third swaps Gitanjali and Ain-i-Akbari. The fourth wrongly credits Anandamath to Tagore, so those options are incorrect."
     },
     {
       "id": "11",
@@ -157,7 +157,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: the CPU is called the brain precisely because it processes all instructions and data, just as the brain controls the body. Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+      "explanation": "Both are true and R explains A: the CPU is called the brain precisely because it processes all instructions and data, just as the brain controls the body. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
     },
     {
       "id": "13",
@@ -165,8 +165,8 @@
       "questionText": "What does the idiom 'to spill the beans' mean?",
       "options": [
         "To start an argument",
-        "To waste food carelessly",
         "To reveal a secret",
+        "To waste food carelessly",
         "To finish a task quickly"
       ],
       "correctAnswer": "To reveal a secret",
@@ -179,8 +179,8 @@
       "options": [
         "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "The UN was founded on 24 October 1945, has six principal organs, and French is an official language, so (i), (ii) and (iv) are correct. Statement (iii) is false because the Trusteeship Council suspended operations in 1994 and is largely inactive; hence any option containing (iii) is incorrect."
@@ -191,8 +191,8 @@
       "questionText": "A number is first increased by 25% and then the result is decreased by 25%. If the final value is 45, what was the original number?",
       "options": [
         "50",
-        "48",
         "45",
+        "48",
         "52"
       ],
       "correctAnswer": "48",
@@ -201,15 +201,15 @@
     {
       "id": "16",
       "subject": "C",
-      "questionText": "Which of the following lakes are located in Jammu and Kashmir?\n\n(i) Wular Lake\n(ii) Manasbal Lake\n(iii) Loktak Lake\n(iv) Dal Lake\n\nSelect the correct combination:",
+      "questionText": "Which of the following lakes are located in Jammu and Kashmir?\n\n(i) Wular Lake\n(ii) Manasbal Lake\n(iii) Dal Lake\n(iv) Loktak Lake\n\nSelect the correct combination:",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Wular, Manasbal and Dal are all lakes of the Kashmir Valley, so (i), (ii) and (iv) are correct. Loktak Lake (iii) is a famous freshwater lake in Manipur, not in Jammu and Kashmir; hence any option containing (iii) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Wular, Manasbal and Dal are all lakes of the Kashmir Valley, so (i), (ii) and (iii) are correct. Loktak Lake (iv) is a famous freshwater lake in Manipur, not in Jammu and Kashmir; hence any option containing (iv) — the second, third and fourth — is incorrect."
     },
     {
       "id": "17",
@@ -218,11 +218,11 @@
       "options": [
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-      "explanation": "'Break the ice' = start a conversation, 'pull one's leg' = tease playfully, 'on cloud nine' = extremely happy, and 'hit the nail on the head' = say exactly the right thing — matching the first option. The second swaps (a) and (b), the third swaps (c) and (d), and the fourth swaps (a) and (d), so those are incorrect."
+      "explanation": "'Break the ice' = start a conversation, 'pull one's leg' = tease playfully, 'on cloud nine' = extremely happy, and 'hit the nail on the head' = say exactly the right thing — matching '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)'. The second swaps (a) and (b), the third swaps (c) and (d), and the fourth swaps (a) and (d), so those are incorrect."
     },
     {
       "id": "18",
@@ -235,7 +235,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is correct but (R) is not correct",
-      "explanation": "A is correct: Vande Mataram is India's National Song. R is false because it was composed by Bankim Chandra Chattopadhyay in his novel Anandamath, not by Tagore. So the third option is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
+      "explanation": "A is correct: Vande Mataram is India's National Song. R is false because it was composed by Bankim Chandra Chattopadhyay in his novel Anandamath, not by Tagore. So '(A) is correct but (R) is not correct' is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
     },
     {
       "id": "19",
@@ -243,8 +243,8 @@
       "questionText": "The perimeter of a rectangle is 44 cm and its length is 13 cm. What is its area?",
       "options": [
         "120 sq cm",
-        "117 sq cm",
         "110 sq cm",
+        "117 sq cm",
         "126 sq cm"
       ],
       "correctAnswer": "117 sq cm",
@@ -266,25 +266,25 @@
     {
       "id": "21",
       "subject": "A",
-      "questionText": "Consider the following statements about nouns:\n\n(i) 'Information' is an uncountable noun.\n(ii) 'Furniture' normally takes a plural verb.\n(iii) 'News' is treated as singular.\n(iv) 'Scissors' is used with a plural verb.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about nouns:\n\n(i) 'Furniture' normally takes a plural verb.\n(ii) 'Information' is an uncountable noun.\n(iii) 'News' is treated as singular.\n(iv) 'Scissors' is used with a plural verb.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "'Information' is uncountable, 'news' is singular, and 'scissors' takes a plural verb, so (i), (iii) and (iv) are correct. Statement (ii) is false because 'furniture' is uncountable and takes a singular verb; hence any option containing (ii) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'Information' is uncountable, 'news' is singular, and 'scissors' takes a plural verb, so (ii), (iii) and (iv) are correct. Statement (i) is false because 'furniture' is uncountable and takes a singular verb; hence any option containing (i) is incorrect."
     },
     {
       "id": "22",
       "subject": "B",
       "questionText": "The production of four crops in a season (in lakh tonnes) is:\n\nWheat → 30\nRice → 45\nMaize → 15\nPulses → 10\n\nWhat percentage of the total production is contributed by rice?",
       "options": [
-        "45%",
         "40%",
         "50%",
-        "35%"
+        "35%",
+        "45%"
       ],
       "correctAnswer": "45%",
       "explanation": "The total production is 30 + 45 + 15 + 10 = 100 lakh tonnes, and rice contributes 45, so its share is (45 ÷ 100) × 100 = 45%. '40%' would need 40 lakh tonnes, '50%' would need 50, and '35%' would need 35, none of which matches rice's 45, so those options are wrong."
@@ -295,9 +295,9 @@
       "questionText": "In a certain code, 'RED' is written as 'SFE'. How is 'BLUE' written in the same code?",
       "options": [
         "CMWF",
-        "CMVF",
         "CNVF",
-        "DMVF"
+        "DMVF",
+        "CMVF"
       ],
       "correctAnswer": "CMVF",
       "explanation": "Each letter is shifted forward by one: R→S, E→F, D→E confirms the rule. Applying it to BLUE: B→C, L→M, U→V, E→F gives CMVF. 'CMWF' wrongly shifts U by two, 'CNVF' wrongly shifts L by two, and 'DMVF' wrongly shifts B by two, so those options are incorrect."
@@ -322,8 +322,8 @@
       "options": [
         "principels",
         "principals",
-        "principles",
-        "priciples"
+        "priciples",
+        "principles"
       ],
       "correctAnswer": "principles",
       "explanation": "'Principles' means moral rules or standards, which fits the sentence about a man's ethics. 'Principals' means heads of institutions, a different word entirely. 'Principels' is a misspelling with a wrong vowel, and 'priciples' drops the letter 'n', so both are invalid spellings, leaving 'principles' as the only correct option."
@@ -346,35 +346,35 @@
       "subject": "C",
       "questionText": "Match the following shrines and places of Jammu and Kashmir with their locations:\n\nColumn I:\n(a) Hazratbal Shrine\n(b) Kheer Bhawani Temple\n(c) Charar-e-Sharief\n(d) Vaishno Devi\n\nColumn II:\n(i) Ganderbal\n(ii) Budgam\n(iii) Srinagar\n(iv) Reasi (Katra)\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-      "explanation": "The Hazratbal Shrine is in Srinagar, Kheer Bhawani in Ganderbal, Charar-e-Sharief in Budgam, and Vaishno Devi near Katra in Reasi — matching the first option. The second swaps Hazratbal and Kheer Bhawani, the third swaps Charar-e-Sharief and Vaishno Devi, and the fourth misplaces Hazratbal in Budgam, so those are incorrect."
+      "explanation": "The Hazratbal Shrine is in Srinagar, Kheer Bhawani in Ganderbal, Charar-e-Sharief in Budgam, and Vaishno Devi near Katra in Reasi — matching '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)'. The second swaps Hazratbal and Kheer Bhawani, the third swaps Charar-e-Sharief and Vaishno Devi, and the fourth misplaces Hazratbal in Budgam, so those are incorrect."
     },
     {
       "id": "28",
       "subject": "D",
-      "questionText": "Consider the following statements about numbers:\n\n(i) The number 1 is neither prime nor composite.\n(ii) 2 is the only even prime number.\n(iii) Every whole number is a natural number.\n(iv) The smallest composite number is 4.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about numbers:\n\n(i) The number 1 is neither prime nor composite.\n(ii) Every whole number is a natural number.\n(iii) 2 is the only even prime number.\n(iv) The smallest composite number is 4.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "1 is neither prime nor composite, 2 is the only even prime, and 4 is the smallest composite number, so (i), (ii) and (iv) are correct. Statement (iii) is false because 0 is a whole number but not a natural number; hence any option containing (iii) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "1 is neither prime nor composite, 2 is the only even prime, and 4 is the smallest composite number, so (i), (iii) and (iv) are correct. Statement (ii) is false because 0 is a whole number but not a natural number; hence any option containing (ii) is incorrect."
     },
     {
       "id": "29",
       "subject": "A",
       "questionText": "Which of the following words are spelt correctly?\n\n(i) Occurrence\n(ii) Millennium\n(iii) Embarass\n(iv) Rhythm\n\nSelect the correct combination:",
       "options": [
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -385,10 +385,10 @@
       "subject": "B",
       "questionText": "The 'Ashes' cricket Test series is traditionally contested between England and which country?",
       "options": [
+        "Australia",
         "New Zealand",
         "South Africa",
-        "West Indies",
-        "Australia"
+        "West Indies"
       ],
       "correctAnswer": "Australia",
       "explanation": "The Ashes is a historic Test cricket rivalry between England and Australia. South Africa, the West Indies and New Zealand are Test-playing nations but are not part of the Ashes series, which is exclusively an England–Australia contest, so those options are incorrect."
@@ -411,8 +411,8 @@
       "subject": "E",
       "questionText": "What is the full form of 'GPS' as used in navigation?",
       "options": [
-        "General Purpose System",
         "Global Positioning System",
+        "General Purpose System",
         "Global Position Software",
         "Geographic Positioning Service"
       ],
@@ -430,7 +430,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: the sentence is correct precisely because 'one' must be followed by 'one's' in strict usage, which is exactly what R states. Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+      "explanation": "Both are true and R explains A: the sentence is correct precisely because 'one' must be followed by 'one's' in strict usage, which is exactly what R states. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
     },
     {
       "id": "34",
@@ -438,8 +438,8 @@
       "questionText": "Which vitamin is essential for the normal clotting of blood in the human body?",
       "options": [
         "Vitamin B12",
-        "Vitamin C",
         "Vitamin K",
+        "Vitamin C",
         "Vitamin E"
       ],
       "correctAnswer": "Vitamin K",
@@ -451,20 +451,20 @@
       "questionText": "Match the following percentage calculations with their values:\n\nColumn I:\n(a) 10% of 90\n(b) 25% of 88\n(c) 20% of 65\n(d) 5% of 240\n\nColumn II:\n(i) 22\n(ii) 9\n(iii) 12\n(iv) 13\n\nChoose the correct match:",
       "options": [
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "10% of 90 = 9, 25% of 88 = 22, 20% of 65 = 13, and 5% of 240 = 12 — matching the first option. The second wrongly swaps 9 and 22. The third wrongly swaps 12 and 13. The fourth wrongly gives 10% of 90 as 12, so those options are incorrect."
+      "explanation": "10% of 90 = 9, 25% of 88 = 22, 20% of 65 = 13, and 5% of 240 = 12 — matching '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)'. The second wrongly swaps 9 and 22. The third wrongly swaps 12 and 13. The fourth wrongly gives 10% of 90 as 12, so those options are incorrect."
     },
     {
       "id": "36",
       "subject": "C",
       "questionText": "Consider the following statements about Jammu and Kashmir:\n\n(i) The Jhelum river originates from the spring at Verinag.\n(ii) Manasbal Lake is regarded as the deepest lake in the Kashmir Valley.\n(iii) The historic Mughal Road connects Shopian with the Poonch–Rajouri area.\n(iv) The Ravi is the principal river of the Kashmir Valley.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
@@ -490,8 +490,8 @@
       "questionText": "Which Article of the Indian Constitution deals with the imposition of President's Rule in a state?",
       "options": [
         "Article 360",
-        "Article 352",
         "Article 356",
+        "Article 352",
         "Article 370"
       ],
       "correctAnswer": "Article 356",
@@ -504,8 +504,8 @@
       "options": [
         "₹850",
         "₹820",
-        "₹780",
-        "₹800"
+        "₹800",
+        "₹780"
       ],
       "correctAnswer": "₹800",
       "explanation": "Selling price = cost × 1.08, so cost = 864 ÷ 1.08 = ₹800. ₹820 would sell at about ₹885.60 for an 8% gain, ₹780 would give ₹842.40, and ₹850 would give ₹918, none matching ₹864, so those options are incorrect."
@@ -513,15 +513,15 @@
     {
       "id": "40",
       "subject": "E",
-      "questionText": "Which of the following are web browsers?\n\n(i) Mozilla Firefox\n(ii) Google Chrome\n(iii) Microsoft Excel\n(iv) Safari\n\nSelect the correct combination:",
+      "questionText": "Which of the following are web browsers?\n\n(i) Microsoft Excel\n(ii) Mozilla Firefox\n(iii) Google Chrome\n(iv) Safari\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Mozilla Firefox, Google Chrome and Safari are all web browsers, so (i), (ii) and (iv) are correct. Microsoft Excel (iii) is a spreadsheet application, not a browser; hence any option containing (iii) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Mozilla Firefox, Google Chrome and Safari are all web browsers, so (ii), (iii) and (iv) are correct. Microsoft Excel (i) is a spreadsheet application, not a browser; hence any option containing (i) — the second, third and fourth — is incorrect."
     },
     {
       "id": "41",
@@ -529,8 +529,8 @@
       "questionText": "Choose the correct preposition: The disciplined officer always refrains __________ using harsh language.",
       "options": [
         "of",
-        "from",
         "against",
+        "from",
         "with"
       ],
       "correctAnswer": "from",
@@ -539,15 +539,15 @@
     {
       "id": "42",
       "subject": "B",
-      "questionText": "Consider the following statements about Indian honours and awards:\n\n(i) The Param Vir Chakra is the highest wartime gallantry award.\n(ii) The Ashoka Chakra is awarded for bravery in peacetime.\n(iii) The Bharat Ratna can be conferred posthumously.\n(iv) The Arjuna Award is India's highest civilian honour.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Indian honours and awards:\n\n(i) The Param Vir Chakra is the highest wartime gallantry award.\n(ii) The Arjuna Award is India's highest civilian honour.\n(iii) The Ashoka Chakra is awarded for bravery in peacetime.\n(iv) The Bharat Ratna can be conferred posthumously.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Param Vir Chakra is the top wartime gallantry award, the Ashoka Chakra is its peacetime equivalent, and the Bharat Ratna can be awarded posthumously, so (i), (ii) and (iii) are correct. Statement (iv) is false because the Bharat Ratna, not the Arjuna Award, is India's highest civilian honour; hence options with (iv) are wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The Param Vir Chakra is the top wartime gallantry award, the Ashoka Chakra is its peacetime equivalent, and the Bharat Ratna can be awarded posthumously, so (i), (iii) and (iv) are correct. Statement (ii) is false because the Bharat Ratna, not the Arjuna Award, is India's highest civilian honour; hence options with (ii) are wrong."
     },
     {
       "id": "43",
@@ -556,8 +556,8 @@
       "options": [
         "7 metres",
         "12 metres",
-        "14 metres",
-        "10 metres"
+        "10 metres",
+        "14 metres"
       ],
       "correctAnswer": "10 metres",
       "explanation": "The two legs (6 m south and 8 m east after a left turn) are at right angles, so the distance = √(6² + 8²) = √100 = 10 metres. '14 metres' wrongly adds the legs. '12 metres' and '7 metres' do not match the Pythagorean result, so those options are incorrect."
@@ -567,9 +567,9 @@
       "subject": "E",
       "questionText": "In MS Excel, which built-in function counts how many cells in a range contain numbers?",
       "options": [
-        "COUNT",
         "SUM",
         "AVERAGE",
+        "COUNT",
         "MAX"
       ],
       "correctAnswer": "COUNT",
@@ -581,9 +581,9 @@
       "questionText": "Fill in the blank with the correct article: My younger sister has learnt to play __________ violin very well. __________",
       "options": [
         "a",
-        "the",
         "an",
-        "no article"
+        "no article",
+        "the"
       ],
       "correctAnswer": "the",
       "explanation": "Names of musical instruments take the definite article 'the' when we talk about playing them, so 'play the violin' is correct. 'a' and 'an' wrongly treat the instrument as one unspecified item, and 'no article' is wrong because the instrument needs 'the' in this idiomatic structure, so those options are incorrect."
@@ -595,11 +595,11 @@
       "options": [
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-      "explanation": "The Sanchi Stupa is in Madhya Pradesh, the Meenakshi Temple in Tamil Nadu, the Ajanta Caves in Maharashtra, and the Konark Sun Temple in Odisha — matching the first option. The second swaps Sanchi and Ajanta, the third swaps Ajanta and Konark, and the fourth misplaces Sanchi in Odisha, so those are incorrect."
+      "explanation": "The Sanchi Stupa is in Madhya Pradesh, the Meenakshi Temple in Tamil Nadu, the Ajanta Caves in Maharashtra, and the Konark Sun Temple in Odisha — matching '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)'. The second swaps Sanchi and Ajanta, the third swaps Ajanta and Konark, and the fourth misplaces Sanchi in Odisha, so those are incorrect."
     },
     {
       "id": "47",
@@ -619,10 +619,10 @@
       "subject": "D",
       "questionText": "The average of five consecutive odd numbers is 27. What is the largest of these numbers?",
       "options": [
-        "31",
         "29",
         "33",
-        "27"
+        "27",
+        "31"
       ],
       "correctAnswer": "31",
       "explanation": "For consecutive odd numbers, the average equals the middle term, so the middle number is 27, giving 23, 25, 27, 29, 31 — the largest is 31. '29' is the fourth number. '33' would be the largest only if the average were 29. '27' is the middle term, not the largest, so those options are wrong."
@@ -633,9 +633,9 @@
       "questionText": "Choose the word that best completes the analogy: 'Carpenter is to Wood as Blacksmith is to ______.'",
       "options": [
         "Gold",
-        "Iron",
         "Stone",
-        "Clay"
+        "Clay",
+        "Iron"
       ],
       "correctAnswer": "Iron",
       "explanation": "A carpenter works with wood, and a blacksmith works with iron — a worker-to-material relationship. 'Gold' is worked by a goldsmith. 'Stone' is shaped by a mason or sculptor. 'Clay' is used by a potter, so those materials belong to other craftsmen and break the analogy."
@@ -647,8 +647,8 @@
       "options": [
         "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "ONGC, BHEL and GAIL are all government-owned public sector undertakings, so (i), (ii) and (iv) are correct. Infosys (iii) is a private information-technology company, not a PSU; hence any option containing (iii) — the second, third and fourth — is incorrect."
@@ -682,24 +682,24 @@
     {
       "id": "53",
       "subject": "A",
-      "questionText": "Consider the following statements about punctuation:\n\n(i) A colon can be used to introduce a list.\n(ii) An apostrophe can show possession or a contraction.\n(iii) A question mark is used at the end of an indirect question.\n(iv) Quotation marks are used to enclose direct speech.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about punctuation:\n\n(i) A question mark is used at the end of an indirect question.\n(ii) A colon can be used to introduce a list.\n(iii) An apostrophe can show possession or a contraction.\n(iv) Quotation marks are used to enclose direct speech.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A colon introduces lists, an apostrophe shows possession or contraction, and quotation marks enclose direct speech, so (i), (ii) and (iv) are correct. Statement (iii) is false because an indirect question ends with a full stop, not a question mark; hence any option containing (iii) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "A colon introduces lists, an apostrophe shows possession or contraction, and quotation marks enclose direct speech, so (ii), (iii) and (iv) are correct. Statement (i) is false because an indirect question ends with a full stop, not a question mark; hence any option containing (i) is incorrect."
     },
     {
       "id": "54",
       "subject": "B",
       "questionText": "Who was the first Indian woman to be awarded a Nobel Prize?",
       "options": [
+        "Mother Teresa",
         "Kalpana Chawla",
         "Kiran Bedi",
-        "Mother Teresa",
         "Kadambini Ganguly"
       ],
       "correctAnswer": "Mother Teresa",
@@ -710,10 +710,10 @@
       "subject": "D",
       "questionText": "A student's marks in four subjects are:\n\nMathematics → 85\nPhysics → 78\nChemistry → 92\nBiology → 65\n\nWhat is the student's average mark across these four subjects?",
       "options": [
+        "80",
         "75",
         "78",
-        "82",
-        "80"
+        "82"
       ],
       "correctAnswer": "80",
       "explanation": "The total marks = 85 + 78 + 92 + 65 = 320, and the average = 320 ÷ 4 = 80. '78' would need a total of 312, '82' a total of 328, and '75' a total of 300, none of which matches 320, so those options are incorrect."
@@ -723,8 +723,8 @@
       "subject": "C",
       "questionText": "The famous Hazratbal Shrine in Srinagar is situated on the bank of which water body?",
       "options": [
-        "Dal Lake",
         "Wular Lake",
+        "Dal Lake",
         "Anchar Lake",
         "Manasbal Lake"
       ],
@@ -742,7 +742,7 @@
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
-      "explanation": "The correct collocations are 'senior to', 'capable of', 'angry with' and 'interested in', matching the first option. The second wrongly gives 'senior of'. The third wrongly swaps 'in' and 'with'. The fourth wrongly gives 'senior with' and 'angry to', so those options are incorrect."
+      "explanation": "The correct collocations are 'senior to', 'capable of', 'angry with' and 'interested in', matching '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)'. The second wrongly gives 'senior of'. The third wrongly swaps 'in' and 'with'. The fourth wrongly gives 'senior with' and 'angry to', so those options are incorrect."
     },
     {
       "id": "58",
@@ -755,7 +755,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: because Sri Lanka lies near the Equator, far south of the 23.5°N Tropic of Cancer, that tropic cannot pass through it. Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+      "explanation": "Both are true and R explains A: because Sri Lanka lies near the Equator, far south of the 23.5°N Tropic of Cancer, that tropic cannot pass through it. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
     },
     {
       "id": "59",
@@ -763,8 +763,8 @@
       "questionText": "What is the sum of the first ten natural numbers?",
       "options": [
         "50",
-        "45",
         "55",
+        "45",
         "60"
       ],
       "correctAnswer": "55",
@@ -776,9 +776,9 @@
       "questionText": "What is the full form of 'IP' in the term 'IP address'?",
       "options": [
         "Interconnected Protocol",
+        "Internet Protocol",
         "Internal Protocol",
-        "Internet Program",
-        "Internet Protocol"
+        "Internet Program"
       ],
       "correctAnswer": "Internet Protocol",
       "explanation": "IP stands for Internet Protocol, the set of rules governing how data is addressed and routed across networks. 'Internal Protocol', 'Internet Program' and 'Interconnected Protocol' are not the recognised expansion of IP, so those options are incorrect."
@@ -788,8 +788,8 @@
       "subject": "A",
       "questionText": "Choose the word most similar in meaning to 'ROBUST'.",
       "options": [
-        "Strong",
         "Weak",
+        "Strong",
         "Fragile",
         "Slim"
       ],
@@ -812,15 +812,15 @@
     {
       "id": "63",
       "subject": "D",
-      "questionText": "Consider the following statements about geometry:\n\n(i) The sum of the interior angles of a quadrilateral is 360 degrees.\n(ii) A right angle measures 90 degrees.\n(iii) Each angle of an equilateral triangle is 60 degrees.\n(iv) A straight angle measures 270 degrees.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about geometry:\n\n(i) The sum of the interior angles of a quadrilateral is 360 degrees.\n(ii) A straight angle measures 270 degrees.\n(iii) A right angle measures 90 degrees.\n(iv) Each angle of an equilateral triangle is 60 degrees.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A quadrilateral's angles total 360°, a right angle is 90°, and each angle of an equilateral triangle is 60°, so (i), (ii) and (iii) are correct. Statement (iv) is false because a straight angle measures 180°, not 270°; hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A quadrilateral's angles total 360°, a right angle is 90°, and each angle of an equilateral triangle is 60°, so (i), (iii) and (iv) are correct. Statement (ii) is false because a straight angle measures 180°, not 270°; hence any option containing (ii) is incorrect."
     },
     {
       "id": "64",
@@ -829,8 +829,8 @@
       "options": [
         "Enter",
         "Delete",
-        "Insert",
-        "Backspace"
+        "Backspace",
+        "Insert"
       ],
       "correctAnswer": "Backspace",
       "explanation": "The Backspace key removes the character to the left of the cursor. The Delete key removes the character to the right. The Insert key toggles between insert and overtype modes. The Enter key starts a new line, so those keys do not delete leftward and are incorrect."
@@ -840,9 +840,9 @@
       "subject": "A",
       "questionText": "Which of the following pairs are correct antonyms?\n\n(i) Ascend – Descend\n(ii) Expand – Contract\n(iii) Conceal – Hide\n(iv) Victory – Defeat\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -854,8 +854,8 @@
       "questionText": "Fill in the blank: The Battle of __________ in 1526 marked the founding of Mughal rule in India by Babur. __________",
       "options": [
         "Haldighati",
-        "Panipat",
         "Plassey",
+        "Panipat",
         "Talikota"
       ],
       "correctAnswer": "Panipat",
@@ -872,7 +872,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: Charar-e-Sharief is revered precisely because it is the shrine of the beloved saint Sheikh Noor-ud-din Noorani (Nund Rishi). Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+      "explanation": "Both are true and R explains A: Charar-e-Sharief is revered precisely because it is the shrine of the beloved saint Sheikh Noor-ud-din Noorani (Nund Rishi). Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
     },
     {
       "id": "68",
@@ -885,7 +885,7 @@
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "The multiples of 7 give 35, the ×3 series gives 162, the cubes give 4³ = 64, and the descending squares (9²,8²,7²,6²) give 5² = 25 — matching the first option. The second swaps 35 and 162, the third swaps 64 and 25, and the fourth wrongly gives the first series as 64, so those options are incorrect."
+      "explanation": "The multiples of 7 give 35, the ×3 series gives 162, the cubes give 4³ = 64, and the descending squares (9²,8²,7²,6²) give 5² = 25 — matching '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)'. The second swaps 35 and 162, the third swaps 64 and 25, and the fourth wrongly gives the first series as 64, so those options are incorrect."
     },
     {
       "id": "69",
@@ -894,8 +894,8 @@
       "options": [
         "To lose one's temper",
         "To cook food carelessly",
-        "To work extremely hard",
-        "To suffer as a result of a rash action"
+        "To suffer as a result of a rash action",
+        "To work extremely hard"
       ],
       "correctAnswer": "To suffer as a result of a rash action",
       "explanation": "'To burn one's fingers' means to suffer harm or loss because of a careless or rash act. 'Cook food carelessly' reads it too literally. 'Work extremely hard' is unrelated to suffering a loss. 'Lose one's temper' describes anger, not the consequence of rashness, so those options are wrong."
@@ -905,10 +905,10 @@
       "subject": "B",
       "questionText": "The Constitution of India came into force on 26 January 1950. How many complete years had passed by 26 January 2020?",
       "options": [
-        "70",
         "71",
         "69",
-        "72"
+        "72",
+        "70"
       ],
       "correctAnswer": "70",
       "explanation": "From 26 January 1950 to 26 January 2020 is exactly 2020 − 1950 = 70 complete years. '71' and '72' overcount by adding extra years. '69' undercounts by one year, none of which matches the 70-year span, so those options are incorrect."
@@ -924,7 +924,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: since 10 is a multiple of 5, any multiple of 10 is automatically a multiple of 5. Hence the first option. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
+      "explanation": "Both are true and R explains A: since 10 is a multiple of 5, any multiple of 10 is automatically a multiple of 5. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A. The third and fourth wrongly deny one of the true statements."
     },
     {
       "id": "72",
@@ -932,9 +932,9 @@
       "questionText": "A large, organised collection of related data stored so that it can be easily accessed and managed is called a ______.",
       "options": [
         "spreadsheet",
-        "database",
         "document",
-        "folder"
+        "folder",
+        "database"
       ],
       "correctAnswer": "database",
       "explanation": "A database is an organised collection of related data managed for easy access and retrieval. A spreadsheet arranges data in rows and columns but is not a full database system. A document is a single file of text. A folder is a container for files, so those options are incorrect."
@@ -946,8 +946,8 @@
       "options": [
         "myself",
         "I",
-        "me",
-        "mine"
+        "mine",
+        "me"
       ],
       "correctAnswer": "me",
       "explanation": "The pronoun is the object of the verb 'asked', so the objective case 'me' is correct in 'asked Rahul and me'. 'I' is subjective and cannot be an object. 'myself' is reflexive and needs an earlier subject 'I'. 'mine' is possessive and cannot fill an object slot, so those options are incorrect."
@@ -970,10 +970,10 @@
       "subject": "D",
       "questionText": "If the cost of 5 kg of sugar is ₹210, what is the cost of 8 kg of sugar at the same rate?",
       "options": [
-        "₹336",
         "₹320",
         "₹350",
-        "₹300"
+        "₹300",
+        "₹336"
       ],
       "correctAnswer": "₹336",
       "explanation": "The cost per kg is 210 ÷ 5 = ₹42, so 8 kg costs 8 × 42 = ₹336. '₹320' assumes ₹40 per kg, '₹350' assumes about ₹43.75, and '₹300' assumes ₹37.50, none of which matches ₹42 per kg, so those options are incorrect."
@@ -984,9 +984,9 @@
       "questionText": "The traditional Basholi (Basohli) miniature paintings are associated with which district of the Jammu region?",
       "options": [
         "Udhampur",
-        "Kathua",
         "Samba",
-        "Rajouri"
+        "Rajouri",
+        "Kathua"
       ],
       "correctAnswer": "Kathua",
       "explanation": "Basohli, famous for its distinctive miniature paintings, is located in the Kathua district. Udhampur, Samba and Rajouri are other districts of the Jammu region but are not the home of the Basohli school of painting, so those options are incorrect."
@@ -996,9 +996,9 @@
       "subject": "A",
       "questionText": "Choose the correct homophone to complete the sentence: During the flag hoisting, the cadets were asked to remain __________ and still.",
       "options": [
+        "stationary",
         "stationnary",
         "stationery",
-        "stationary",
         "stationari"
       ],
       "correctAnswer": "stationary",
@@ -1009,10 +1009,10 @@
       "subject": "B",
       "questionText": "The 'Sarva Shiksha Abhiyan' launched by the Government of India is associated with which sector?",
       "options": [
+        "Elementary education",
         "Sanitation",
         "Rural roads",
-        "Public health",
-        "Elementary education"
+        "Public health"
       ],
       "correctAnswer": "Elementary education",
       "explanation": "Sarva Shiksha Abhiyan aims to universalise elementary education for children. Rural roads are covered by the PM Gram Sadak Yojana, public health by schemes like the National Health Mission, and sanitation by the Swachh Bharat Mission, so those sectors are incorrect for Sarva Shiksha Abhiyan."
@@ -1020,28 +1020,28 @@
     {
       "id": "79",
       "subject": "D",
-      "questionText": "Consider the following statements about fractions and decimals:\n\n(i) 0.5 is equal to the fraction 1/2.\n(ii) 0.25 is equal to 1/4.\n(iii) 0.2 is equal to 1/5.\n(iv) 0.75 is equal to 2/3.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about fractions and decimals:\n\n(i) 0.75 is equal to 2/3.\n(ii) 0.5 is equal to the fraction 1/2.\n(iii) 0.25 is equal to 1/4.\n(iv) 0.2 is equal to 1/5.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "0.5 = 1/2, 0.25 = 1/4 and 0.2 = 1/5 are all correct, so (i), (ii) and (iii) are right. Statement (iv) is false because 0.75 equals 3/4, not 2/3 (which is about 0.667); hence any option containing (iv) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "0.5 = 1/2, 0.25 = 1/4 and 0.2 = 1/5 are all correct, so (ii), (iii) and (iv) are right. Statement (i) is false because 0.75 equals 3/4, not 2/3 (which is about 0.667); hence any option containing (i) is incorrect."
     },
     {
       "id": "80",
       "subject": "E",
-      "questionText": "Which of the following are output devices?\n\n(i) Monitor\n(ii) Speaker\n(iii) Keyboard\n(iv) Projector\n\nSelect the correct combination:",
+      "questionText": "Which of the following are output devices?\n\n(i) Monitor\n(ii) Keyboard\n(iii) Speaker\n(iv) Projector\n\nSelect the correct combination:",
       "options": [
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A monitor, a speaker and a projector all present output to the user, so (i), (ii) and (iv) are correct. A keyboard (iii) is an input device used to enter data; hence any option containing (iii) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "A monitor, a speaker and a projector all present output to the user, so (i), (iii) and (iv) are correct. A keyboard (ii) is an input device used to enter data; hence any option containing (ii) — the second, third and fourth — is incorrect."
     },
     {
       "id": "81",
@@ -1049,8 +1049,8 @@
       "questionText": "Choose the word that is OPPOSITE in meaning to 'MOURNFUL'.",
       "options": [
         "Sorrowful",
-        "Gloomy",
         "Cheerful",
+        "Gloomy",
         "Grave"
       ],
       "correctAnswer": "Cheerful",
@@ -1062,20 +1062,20 @@
       "questionText": "Match the following sporting terms with their games:\n\nColumn I:\n(a) Birdie\n(b) Checkmate\n(c) Smash\n(d) Bouncer\n\nColumn II:\n(i) Chess\n(ii) Golf\n(iii) Badminton\n(iv) Cricket\n\nChoose the correct match:",
       "options": [
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-      "explanation": "'Birdie' is a golf term, 'checkmate' belongs to chess, 'smash' is used in badminton, and 'bouncer' is a cricket term — matching the first option. The second swaps golf and chess, the third swaps badminton and cricket, and the fourth wrongly links 'birdie' to badminton, so those options are incorrect."
+      "explanation": "'Birdie' is a golf term, 'checkmate' belongs to chess, 'smash' is used in badminton, and 'bouncer' is a cricket term — matching '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)'. The second swaps golf and chess, the third swaps badminton and cricket, and the fourth wrongly links 'birdie' to badminton, so those options are incorrect."
     },
     {
       "id": "83",
       "subject": "D",
       "questionText": "Pointing to a woman in a photograph, a boy said, 'She is the sister of my father.' How is the woman related to the boy?",
       "options": [
-        "Aunt",
         "Mother",
+        "Aunt",
         "Sister",
         "Grandmother"
       ],
@@ -1085,15 +1085,15 @@
     {
       "id": "84",
       "subject": "E",
-      "questionText": "Consider the following statements about the internet:\n\n(i) A URL is the address of a web page.\n(ii) HTTP is a protocol used to transfer web pages.\n(iii) A modem converts digital signals to analog and vice versa.\n(iv) RAM is used to permanently store data downloaded from the internet.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the internet:\n\n(i) A URL is the address of a web page.\n(ii) HTTP is a protocol used to transfer web pages.\n(iii) RAM is used to permanently store data downloaded from the internet.\n(iv) A modem converts digital signals to analog and vice versa.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A URL is a web address, HTTP transfers web pages, and a modem converts signals between digital and analog, so (i), (ii) and (iii) are correct. Statement (iv) is false because RAM is volatile and loses its contents when power is off; permanent storage uses drives, so options with (iv) are wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A URL is a web address, HTTP transfers web pages, and a modem converts signals between digital and analog, so (i), (ii) and (iv) are correct. Statement (iii) is false because RAM is volatile and loses its contents when power is off; permanent storage uses drives, so options with (iii) are wrong."
     },
     {
       "id": "85",
@@ -1101,8 +1101,8 @@
       "questionText": "Fill in the blank with the correct verb form: If it rains tomorrow, the organisers __________ the parade. __________",
       "options": [
         "postponed",
-        "would postpone",
         "will postpone",
+        "would postpone",
         "had postponed"
       ],
       "correctAnswer": "will postpone",
@@ -1119,7 +1119,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: the Rajya Sabha is permanent precisely because its members are elected for staggered six-year terms, with one-third retiring every two years, so it is never wholly dissolved. Hence the first option. The second is wrong because R does explain A, and the third and fourth wrongly deny a true statement."
+      "explanation": "Both are true and R explains A: the Rajya Sabha is permanent precisely because its members are elected for staggered six-year terms, with one-third retiring every two years, so it is never wholly dissolved. Hence 'Both (A) and (R) are correct and (R) is the correct explanation of (A)'. The second is wrong because R does explain A, and the third and fourth wrongly deny a true statement."
     },
     {
       "id": "87",
@@ -1127,9 +1127,9 @@
       "questionText": "The historic Mughal Road, which links the Kashmir Valley with the Poonch and Rajouri region, crosses which mountain pass?",
       "options": [
         "Sadhna Pass",
+        "Pir Ki Gali",
         "Zoji La",
-        "Banihal Pass",
-        "Pir Ki Gali"
+        "Banihal Pass"
       ],
       "correctAnswer": "Pir Ki Gali",
       "explanation": "The Mughal Road crosses the Pir Ki Gali pass in the Pir Panjal range, connecting Shopian with Poonch and Rajouri. Zoji La leads to Ladakh, the Banihal Pass connects the Valley with Jammu via the tunnel, and Sadhna Pass is in the Kupwara area, so those passes are incorrect."
@@ -1139,9 +1139,9 @@
       "subject": "D",
       "questionText": "A sum of ₹1,500 is divided among A, B and C in the ratio 2 : 3 : 5. What is C's share?",
       "options": [
-        "₹750",
         "₹600",
         "₹450",
+        "₹750",
         "₹500"
       ],
       "correctAnswer": "₹750",
@@ -1153,8 +1153,8 @@
       "questionText": "Identify the type of the underlined clause: 'He reached the ground after the match had already started.' — the clause 'after the match had already started' is a/an ______.",
       "options": [
         "noun clause",
-        "adverb clause of time",
         "adjective clause",
+        "adverb clause of time",
         "adverb clause of condition"
       ],
       "correctAnswer": "adverb clause of time",
@@ -1180,8 +1180,8 @@
       "options": [
         "(iii) and (iv) only",
         "(i) and (iii) only",
-        "(ii) and (iv) only",
-        "(i) and (ii) only"
+        "(i) and (ii) only",
+        "(ii) and (iv) only"
       ],
       "correctAnswer": "(i) and (ii) only",
       "explanation": "3/4 = 0.75. Since 1/2 = 0.5 and 2/3 ≈ 0.667 are both below 0.75, (i) and (ii) qualify. 5/6 ≈ 0.833 and 7/8 = 0.875 are both greater than 0.75, so (iii) and (iv) do not. Therefore only (i) and (ii) are correct, and the other combinations are wrong."
@@ -1191,9 +1191,9 @@
       "subject": "E",
       "questionText": "The use of integrated circuits (ICs) as the main component is a characteristic of which generation of computers?",
       "options": [
-        "Third generation",
         "First generation",
         "Second generation",
+        "Third generation",
         "Fourth generation"
       ],
       "correctAnswer": "Third generation",
@@ -1218,8 +1218,8 @@
       "questionText": "Who was the first Chief Election Commissioner of India?",
       "options": [
         "T. N. Seshan",
-        "Sukumar Sen",
         "K. V. K. Sundaram",
+        "Sukumar Sen",
         "S. P. Sen Verma"
       ],
       "correctAnswer": "Sukumar Sen",
@@ -1232,8 +1232,8 @@
       "options": [
         "7",
         "11",
-        "9",
-        "13"
+        "13",
+        "9"
       ],
       "correctAnswer": "9",
       "explanation": "First evaluate the brackets: 18 ÷ 3 = 6 and 4 × 2 = 8. Then 6 + 8 − 5 = 9. '11' comes from ignoring the subtraction. '7' subtracts too much, and '13' omits the subtraction entirely, so those options are incorrect."
@@ -1254,15 +1254,15 @@
     {
       "id": "97",
       "subject": "A",
-      "questionText": "Consider the following statements about verb forms:\n\n(i) 'Run' is an irregular verb.\n(ii) The past tense of 'go' is 'went'.\n(iii) The past tense of 'buy' is 'bought'.\n(iv) The past participle of 'write' is 'wrote'.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about verb forms:\n\n(i) 'Run' is an irregular verb.\n(ii) The past participle of 'write' is 'wrote'.\n(iii) The past tense of 'go' is 'went'.\n(iv) The past tense of 'buy' is 'bought'.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'Run' is irregular, the past of 'go' is 'went', and the past of 'buy' is 'bought', so (i), (ii) and (iii) are correct. Statement (iv) is false because the past participle of 'write' is 'written' ('wrote' is the simple past); hence any option containing (iv) is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'Run' is irregular, the past of 'go' is 'went', and the past of 'buy' is 'bought', so (i), (iii) and (iv) are correct. Statement (ii) is false because the past participle of 'write' is 'written' ('wrote' is the simple past); hence any option containing (ii) is incorrect."
     },
     {
       "id": "98",
@@ -1270,9 +1270,9 @@
       "questionText": "World Environment Day is observed every year on which date?",
       "options": [
         "22 April",
-        "5 June",
         "21 June",
-        "16 September"
+        "16 September",
+        "5 June"
       ],
       "correctAnswer": "5 June",
       "explanation": "World Environment Day is observed on 5 June. '22 April' is Earth Day, '21 June' is the International Day of Yoga, and '16 September' is the International Day for the Preservation of the Ozone Layer, so those dates mark other observances and are incorrect."
@@ -1284,8 +1284,8 @@
       "options": [
         "12 cm",
         "14 cm",
-        "16 cm",
-        "18 cm"
+        "18 cm",
+        "16 cm"
       ],
       "correctAnswer": "16 cm",
       "explanation": "Let the breadth be b, so the length is 2b. The perimeter 2(2b + b) = 6b = 48, giving b = 8 cm and length = 2b = 16 cm. '14 cm', '12 cm' and '18 cm' do not satisfy the perimeter equation with the 2:1 length-to-breadth relation, so those options are incorrect."
@@ -1301,7 +1301,7 @@
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
-      "explanation": "SUM adds numbers, AVERAGE finds the mean, MAX returns the largest value, and COUNT counts numeric cells — matching the first option. The second wrongly swaps SUM and AVERAGE, the third wrongly swaps MAX and COUNT, and the fourth wrongly assigns 'largest value' to SUM, so those options are incorrect."
+      "explanation": "SUM adds numbers, AVERAGE finds the mean, MAX returns the largest value, and COUNT counts numeric cells — matching '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)'. The second wrongly swaps SUM and AVERAGE, the third wrongly swaps MAX and COUNT, and the fourth wrongly assigns 'largest value' to SUM, so those options are incorrect."
     }
   ]
 }

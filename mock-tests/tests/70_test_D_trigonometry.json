@@ -8,8 +8,8 @@
       "subject": "D",
       "questionText": "The value of sin 30° is:",
       "options": [
-        "0",
         "1/2",
+        "0",
         "√3/2",
         "1"
       ],
@@ -19,15 +19,15 @@
     {
       "id": "2",
       "subject": "D",
-      "questionText": "Consider the following statements about trigonometric ratios:\n\n(i) sin θ = Perpendicular / Hypotenuse.\n(ii) cos θ = Base / Hypotenuse.\n(iii) tan θ = Perpendicular / Base.\n(iv) tan θ = cos θ / sin θ.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about trigonometric ratios:\n\n(i) sin θ = Perpendicular / Hypotenuse.\n(ii) cos θ = Base / Hypotenuse.\n(iii) tan θ = cos θ / sin θ.\n(iv) tan θ = Perpendicular / Base.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — sin = P/H. (ii) is correct — cos = B/H. (iii) is correct — tan = P/B. (iv) is wrong — tan θ = sin θ / cos θ, NOT cos θ / sin θ (that would be cot θ)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — sin = P/H. (ii) is correct — cos = B/H. (iv) is correct — tan = P/B. (iii) is wrong — tan θ = sin θ / cos θ, NOT cos θ / sin θ (that would be cot θ)."
     },
     {
       "id": "3",
@@ -60,13 +60,13 @@
       "subject": "D",
       "questionText": "Match the following angles with their tan values:\n\nColumn I:\n(a) tan 0°\n(b) tan 30°\n(c) tan 45°\n(d) tan 60°\n\nColumn II:\n(i) 1\n(ii) √3\n(iii) 0\n(iv) 1/√3\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-      "explanation": "tan 0° = 0 (iii). tan 30° = 1/√3 (iv). tan 45° = 1 (i). tan 60° = √3 (ii). Option 2 swaps 0° and 30°. Option 3 swaps 30° and 60°. Option 4 swaps 0° and 45°."
+      "explanation": "tan 0° = 0 (iii). tan 30° = 1/√3 (iv). tan 45° = 1 (i). tan 60° = √3 (ii). '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' swaps 0° and 30°. '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' swaps 30° and 60°. '(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)' swaps 0° and 45°."
     },
     {
       "id": "6",
@@ -74,8 +74,8 @@
       "questionText": "If sin θ = 3/5, what is the value of cos θ? (θ is acute)",
       "options": [
         "3/5",
-        "4/5",
         "5/4",
+        "4/5",
         "5/3"
       ],
       "correctAnswer": "4/5",
@@ -87,9 +87,9 @@
       "questionText": "The value of sin 45° × cos 45° is:",
       "options": [
         "0",
-        "1/2",
         "1",
-        "√2"
+        "√2",
+        "1/2"
       ],
       "correctAnswer": "1/2",
       "explanation": "sin 45° = cos 45° = 1/√2. So sin 45° × cos 45° = (1/√2) × (1/√2) = 1/2. Option 0 is wrong. Option 1 confuses with sin²45°+cos²45°. Option √2 reverses the division."
@@ -99,10 +99,10 @@
       "subject": "D",
       "questionText": "Consider the following statements about complementary angles:\n\n(i) sin(90° − θ) = cos θ.\n(ii) cos(90° − θ) = sin θ.\n(iii) tan(90° − θ) = cot θ.\n(iv) sin(90° − θ) = sin θ.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — sin of complement = cos of angle. (ii) is correct — cos of complement = sin of angle. (iii) is correct — tan of complement = cot of angle. (iv) is wrong — sin(90°−θ) = cos θ, NOT sin θ (unless θ = 45°)."
@@ -112,8 +112,8 @@
       "subject": "D",
       "questionText": "The value of tan 45° + cos 0° is:",
       "options": [
-        "1",
         "2",
+        "1",
         "3",
         "√2"
       ],
@@ -149,15 +149,15 @@
     {
       "id": "12",
       "subject": "D",
-      "questionText": "Which of the following are correct trigonometric identities?\n\n(i) 1 + tan²θ = sec²θ\n(ii) 1 + cot²θ = cosec²θ\n(iii) sin²θ − cos²θ = 1\n(iv) sec θ = 1/cos θ\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correct trigonometric identities?\n\n(i) sin²θ − cos²θ = 1\n(ii) 1 + tan²θ = sec²θ\n(iii) 1 + cot²θ = cosec²θ\n(iv) sec θ = 1/cos θ\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — standard Pythagorean identity. (ii) is correct — derived by dividing sin²θ+cos²θ=1 by sin²θ. (iv) is correct — sec is the reciprocal of cos. (iii) is wrong — the correct identity is sin²θ + cos²θ = 1, not sin²θ − cos²θ = 1."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — standard Pythagorean identity. (iii) is correct — derived by dividing sin²θ+cos²θ=1 by sin²θ. (iv) is correct — sec is the reciprocal of cos. (i) is wrong — the correct identity is sin²θ + cos²θ = 1, not sin²θ − cos²θ = 1."
     },
     {
       "id": "13",
@@ -177,13 +177,13 @@
       "subject": "D",
       "questionText": "Match the following trigonometric ratios with their reciprocals:\n\nColumn I:\n(a) sin θ\n(b) cos θ\n(c) tan θ\n\nColumn II:\n(i) cot θ\n(ii) sec θ\n(iii) cosec θ\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(i)",
         "(a)-(iii), (b)-(i), (c)-(ii)",
+        "(a)-(iii), (b)-(ii), (c)-(i)",
         "(a)-(i), (b)-(ii), (c)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i)",
-      "explanation": "Reciprocal of sin θ is cosec θ (iii). Reciprocal of cos θ is sec θ (ii). Reciprocal of tan θ is cot θ (i). Option 2 swaps sin and cos reciprocals. Option 3 swaps cos and tan reciprocals. Option 4 swaps sin and tan reciprocals."
+      "explanation": "Reciprocal of sin θ is cosec θ (iii). Reciprocal of cos θ is sec θ (ii). Reciprocal of tan θ is cot θ (i). '(a)-(ii), (b)-(iii), (c)-(i)' swaps sin and cos reciprocals. '(a)-(iii), (b)-(i), (c)-(ii)' swaps cos and tan reciprocals. '(a)-(i), (b)-(ii), (c)-(iii)' swaps sin and tan reciprocals."
     },
     {
       "id": "15",
@@ -192,8 +192,8 @@
       "options": [
         "3/5",
         "4/5",
-        "5/3",
-        "5/4"
+        "5/4",
+        "5/3"
       ],
       "correctAnswer": "5/3",
       "explanation": "Using 1 + tan²θ = sec²θ: sec²θ = 1 + (4/3)² = 1 + 16/9 = 25/9. sec θ = 5/3. Option 3/5 is cos θ. Option 4/5 is sin θ. Option 5/4 is cosec θ."
@@ -201,23 +201,23 @@
     {
       "id": "16",
       "subject": "D",
-      "questionText": "Consider the following statements about trigonometric values at special angles:\n\n(i) sin 0° = 0 and cos 0° = 1.\n(ii) sin 90° = 1 and cos 90° = 0.\n(iii) tan 90° is undefined.\n(iv) sin 60° = cos 60° = √3/2.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about trigonometric values at special angles:\n\n(i) sin 0° = 0 and cos 0° = 1.\n(ii) sin 60° = cos 60° = √3/2.\n(iii) sin 90° = 1 and cos 90° = 0.\n(iv) tan 90° is undefined.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — sin 0°=0, cos 0°=1. (ii) is correct — sin 90°=1, cos 90°=0. (iii) is correct — tan 90° = sin 90°/cos 90° = 1/0 = undefined. (iv) is wrong — sin 60° = √3/2 but cos 60° = 1/2, not √3/2; they are NOT equal."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — sin 0°=0, cos 0°=1. (iii) is correct — sin 90°=1, cos 90°=0. (iv) is correct — tan 90° = sin 90°/cos 90° = 1/0 = undefined. (ii) is wrong — sin 60° = √3/2 but cos 60° = 1/2, not √3/2; they are NOT equal."
     },
     {
       "id": "17",
       "subject": "D",
       "questionText": "Simplify: sin²60° + cos²60° − tan²45°",
       "options": [
-        "-1",
         "0",
+        "-1",
         "1",
         "2"
       ],
@@ -243,8 +243,8 @@
       "questionText": "A tower casts a shadow of 20 m when the angle of elevation of the sun is 45°. What is the height of the tower?",
       "options": [
         "10 m",
-        "15 m",
         "20 m",
+        "15 m",
         "20√3 m"
       ],
       "correctAnswer": "20 m",
@@ -266,24 +266,24 @@
     {
       "id": "21",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) cosec θ = 1/sin θ.\n(ii) sec θ = 1/cos θ.\n(iii) cot θ = cos θ/sin θ.\n(iv) tan θ = cos θ/sin θ.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) cosec θ = 1/sin θ.\n(ii) sec θ = 1/cos θ.\n(iii) tan θ = cos θ/sin θ.\n(iv) cot θ = cos θ/sin θ.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — cosec = 1/sin. (ii) is correct — sec = 1/cos. (iii) is correct — cot = cos/sin = (B/H)/(P/H) = B/P. (iv) is wrong — tan = sin/cos, NOT cos/sin (that's cot)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — cosec = 1/sin. (ii) is correct — sec = 1/cos. (iv) is correct — cot = cos/sin = (B/H)/(P/H) = B/P. (iii) is wrong — tan = sin/cos, NOT cos/sin (that's cot)."
     },
     {
       "id": "22",
       "subject": "D",
       "questionText": "If cos θ = 12/13, find sin θ (θ is acute).",
       "options": [
-        "5/13",
         "12/13",
         "13/5",
+        "5/13",
         "13/12"
       ],
       "correctAnswer": "5/13",
@@ -294,10 +294,10 @@
       "subject": "D",
       "questionText": "Match the following expressions with their simplified values:\n\nColumn I:\n(a) sin²45° + cos²45°\n(b) 2tan 30° / (1 − tan²30°)\n(c) cos 0° + sin 0°\n(d) sin 90° − cos 90°\n\nColumn II:\n(i) 1\n(ii) √3\n(iii) 1\n(iv) 1\n\nChoose the correct match:",
       "options": [
-        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
-        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
       "explanation": "(a) sin²45°+cos²45° = 1 (i). (b) 2tan30°/(1−tan²30°) = tan60° = √3 (ii) [using double angle formula]. (c) cos0°+sin0° = 1+0 = 1 (iii). (d) sin90°−cos90° = 1−0 = 1 (iv). All other options mismatch these values."
@@ -309,8 +309,8 @@
       "options": [
         "15 m",
         "30 m",
-        "30√3 m",
-        "60 m"
+        "60 m",
+        "30√3 m"
       ],
       "correctAnswer": "30√3 m",
       "explanation": "tan 30° = height/distance. 1/√3 = 30/distance. Distance = 30√3 m ≈ 51.96 m. Option 15 uses tan 60°. Option 30 uses tan 45°. Option 60 uses incorrect formula."
@@ -320,8 +320,8 @@
       "subject": "D",
       "questionText": "The value of (1 − cos²θ)/sin²θ is:",
       "options": [
-        "0",
         "1",
+        "0",
         "sin²θ",
         "cos²θ"
       ],
@@ -333,8 +333,8 @@
       "subject": "D",
       "questionText": "Consider the following statements about heights and distances:\n\n(i) Angle of elevation is measured from the horizontal upward to the line of sight.\n(ii) Angle of depression is measured from the horizontal downward to the line of sight.\n(iii) The angle of elevation from point A to point B equals the angle of depression from B to A.\n(iv) Trigonometric ratios can only be used for angles less than 45°.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
@@ -359,9 +359,9 @@
       "subject": "D",
       "questionText": "If sin(A + B) = 1 and cos(A − B) = 1, where A and B are acute angles, find the values of A and B.",
       "options": [
-        "A = 45°, B = 45°",
         "A = 60°, B = 30°",
         "A = 30°, B = 60°",
+        "A = 45°, B = 45°",
         "A = 90°, B = 0°"
       ],
       "correctAnswer": "A = 45°, B = 45°",
@@ -373,8 +373,8 @@
       "questionText": "The following data shows the height of a flagpole and the angle of elevation from different distances:\n\n10 → 60°\n10√3 → 45°\n30 → 30°\n\nUsing the data for distance = 10 m, what is the height of the flagpole?",
       "options": [
         "10 m",
-        "10√3 m",
         "20 m",
+        "10√3 m",
         "30 m"
       ],
       "correctAnswer": "10√3 m",
@@ -385,10 +385,10 @@
       "subject": "D",
       "questionText": "The following table shows sin, cos and tan values for different angles:\n\n0° → 0, 1, 0\n30° → 1/2, √3/2, 1/√3\n45° → 1/√2, 1/√2, 1\n60° → √3/2, 1/2, √3\n90° → 1, 0, undefined\n\nAs the angle increases from 0° to 90°, which trigonometric ratio continuously increases?",
       "options": [
-        "sin θ",
         "cos θ",
         "Both sin θ and cos θ",
-        "Neither increases"
+        "Neither increases",
+        "sin θ"
       ],
       "correctAnswer": "sin θ",
       "explanation": "From the table: sin goes 0 → 1/2 → 1/√2 → √3/2 → 1 (continuously increasing). Cos goes 1 → √3/2 → 1/√2 → 1/2 → 0 (continuously decreasing). Tan increases but is undefined at 90°. So only sin θ continuously increases from 0° to 90°."

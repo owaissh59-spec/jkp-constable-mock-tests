@@ -8,9 +8,9 @@
       "subject": "D",
       "questionText": "If 3x + 7 = 22, what is the value of x?",
       "options": [
+        "5",
         "3",
         "4",
-        "5",
         "6"
       ],
       "correctAnswer": "5",
@@ -19,15 +19,15 @@
     {
       "id": "2",
       "subject": "D",
-      "questionText": "Consider the following statements about algebraic expressions:\n\n(i) In the expression 5x² + 3x − 7, the coefficient of x² is 5.\n(ii) A polynomial with one term is called a monomial.\n(iii) The degree of the polynomial 4x³ + 2x − 9 is 3.\n(iv) Constants are terms without any variable and have degree 1.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about algebraic expressions:\n\n(i) In the expression 5x² + 3x − 7, the coefficient of x² is 5.\n(ii) Constants are terms without any variable and have degree 1.\n(iii) A polynomial with one term is called a monomial.\n(iv) The degree of the polynomial 4x³ + 2x − 9 is 3.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — the number multiplying x² is 5. (ii) is correct — a monomial has exactly one term (e.g., 7x²). (iii) is correct — the highest power of x is 3, so degree is 3. (iv) is wrong — constants (like −9) have degree 0, not 1."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — the number multiplying x² is 5. (iii) is correct — a monomial has exactly one term (e.g., 7x²). (iv) is correct — the highest power of x is 3, so degree is 3. (ii) is wrong — constants (like −9) have degree 0, not 1."
     },
     {
       "id": "3",
@@ -35,8 +35,8 @@
       "questionText": "Solve: 2(x − 3) = x + 4. The value of x is:",
       "options": [
         "7",
-        "8",
         "10",
+        "8",
         "11"
       ],
       "correctAnswer": "10",
@@ -60,13 +60,13 @@
       "subject": "D",
       "questionText": "Match the following algebraic identities with their expanded forms:\n\nColumn I:\n(a) (a + b)²\n(b) (a − b)²\n(c) a² − b²\n(d) (a + b)(a − b)\n\nColumn II:\n(i) a² − 2ab + b²\n(ii) a² + 2ab + b²\n(iii) (a + b)(a − b)\n(iv) a² − b²\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-      "explanation": "(a+b)² expands to a²+2ab+b² (ii). (a−b)² expands to a²−2ab+b² (i). a²−b² factors into (a+b)(a−b) (iii). (a+b)(a−b) simplifies to a²−b² (iv). Option 2 swaps (a+b)² and (a−b)². Option 3 swaps the factored forms incorrectly. Option 4 misplaces (b)."
+      "explanation": "(a+b)² expands to a²+2ab+b² (ii). (a−b)² expands to a²−2ab+b² (i). a²−b² factors into (a+b)(a−b) (iii). (a+b)(a−b) simplifies to a²−b² (iv). '(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)' swaps (a+b)² and (a−b)². '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' swaps the factored forms incorrectly. '(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)' misplaces (b)."
     },
     {
       "id": "6",
@@ -99,9 +99,9 @@
       "subject": "D",
       "questionText": "Consider the following statements about linear equations:\n\n(i) A linear equation in one variable has exactly one solution.\n(ii) The equation 2x + 3 = 2x + 5 has no solution.\n(iii) The equation 3(x + 2) = 3x + 6 is true for all values of x.\n(iv) Every linear equation in two variables has infinitely many solutions.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "All of the above",
         "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "All of the above",
@@ -112,10 +112,10 @@
       "subject": "D",
       "questionText": "Simplify: (x + 3)(x − 3)",
       "options": [
-        "x² − 9",
         "x² + 9",
         "x² − 6x + 9",
-        "x² + 6x − 9"
+        "x² + 6x − 9",
+        "x² − 9"
       ],
       "correctAnswer": "x² − 9",
       "explanation": "Using the identity (a+b)(a−b) = a² − b²: (x+3)(x−3) = x² − 9. Option 'x²+9' incorrectly adds instead of subtracting. Option 'x²−6x+9' is the expansion of (x−3)². Option 'x²+6x−9' mixes incorrect signs."
@@ -139,9 +139,9 @@
       "questionText": "If 5x − 2y = 4 and x + 2y = 8, find the value of x.",
       "options": [
         "1",
-        "2",
         "3",
-        "4"
+        "4",
+        "2"
       ],
       "correctAnswer": "2",
       "explanation": "Adding both equations: 5x − 2y + x + 2y = 4 + 8 → 6x = 12 → x = 2. Option 1: 5(1)−2y=4 gives y=0.5, then 1+2(0.5)=2≠8. Option 3: 6(3)=18≠12. Option 4: 6(4)=24≠12."
@@ -164,9 +164,9 @@
       "subject": "D",
       "questionText": "A number is 7 more than twice another number. If their sum is 34, find the smaller number.",
       "options": [
+        "9",
         "7",
         "8",
-        "9",
         "10"
       ],
       "correctAnswer": "9",
@@ -188,28 +188,28 @@
     {
       "id": "15",
       "subject": "D",
-      "questionText": "Consider the following statements about quadratic equations:\n\n(i) A quadratic equation has the general form ax² + bx + c = 0, where a ≠ 0.\n(ii) A quadratic equation always has exactly two real roots.\n(iii) The sum of roots of ax² + bx + c = 0 is −b/a.\n(iv) The product of roots of ax² + bx + c = 0 is c/a.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about quadratic equations:\n\n(i) A quadratic equation always has exactly two real roots.\n(ii) A quadratic equation has the general form ax² + bx + c = 0, where a ≠ 0.\n(iii) The sum of roots of ax² + bx + c = 0 is −b/a.\n(iv) The product of roots of ax² + bx + c = 0 is c/a.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(ii), (iii) and (iv)",
         "All of the above",
         "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "(i) is correct — the standard form requires the coefficient of x² to be non-zero. (iii) is correct — sum of roots = −b/a (Vieta's formula). (iv) is correct — product of roots = c/a. (ii) is wrong — a quadratic equation may have two real roots, one repeated root, or no real roots (if discriminant < 0)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — the standard form requires the coefficient of x² to be non-zero. (iii) is correct — sum of roots = −b/a (Vieta's formula). (iv) is correct — product of roots = c/a. (i) is wrong — a quadratic equation may have two real roots, one repeated root, or no real roots (if discriminant < 0)."
     },
     {
       "id": "16",
       "subject": "D",
       "questionText": "Match the following equations with their solutions:\n\nColumn I:\n(a) 2x + 5 = 11\n(b) 3x − 9 = 0\n(c) x/4 = 5\n(d) 7x + 2 = 23\n\nColumn II:\n(i) x = 20\n(ii) x = 3\n(iii) x = 3\n(iv) x = 3\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
-      "explanation": "(a) 2x+5=11 → 2x=6 → x=3 (ii). (b) 3x−9=0 → 3x=9 → x=3 (iii). (c) x/4=5 → x=20 (i). (d) 7x+2=23 → 7x=21 → x=3 (iv). Note: (ii), (iii), and (iv) all have value x=3 but are distinct answer labels. Option 2 misplaces x=20. Option 3 and 4 scramble incorrectly."
+      "explanation": "(a) 2x+5=11 → 2x=6 → x=3 (ii). (b) 3x−9=0 → 3x=9 → x=3 (iii). (c) x/4=5 → x=20 (i). (d) 7x+2=23 → 7x=21 → x=3 (iv). Note: (ii), (iii), and (iv) all have value x=3 but are distinct answer labels. '(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)' misplaces x=20. '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' and 4 scramble incorrectly."
     },
     {
       "id": "17",
@@ -217,8 +217,8 @@
       "questionText": "If a − b = 4 and a² − b² = 40, find the value of a + b.",
       "options": [
         "8",
-        "10",
         "12",
+        "10",
         "14"
       ],
       "correctAnswer": "10",
@@ -243,8 +243,8 @@
       "questionText": "Simplify: (2x + 3)² − (2x − 3)²",
       "options": [
         "12x",
-        "24x",
         "36x²",
+        "24x",
         "12"
       ],
       "correctAnswer": "24x",
@@ -253,15 +253,15 @@
     {
       "id": "20",
       "subject": "D",
-      "questionText": "Consider the following statements about simultaneous linear equations:\n\n(i) Two linear equations in two variables may have no solution if the lines are parallel.\n(ii) If two lines intersect at one point, the system has a unique solution.\n(iii) If two lines are coincident, the system has infinitely many solutions.\n(iv) All pairs of linear equations have at least one solution.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about simultaneous linear equations:\n\n(i) Two linear equations in two variables may have no solution if the lines are parallel.\n(ii) All pairs of linear equations have at least one solution.\n(iii) If two lines intersect at one point, the system has a unique solution.\n(iv) If two lines are coincident, the system has infinitely many solutions.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — parallel lines never meet, so no solution exists. (ii) is correct — intersecting lines meet at exactly one point, giving a unique solution. (iii) is correct — coincident lines overlap entirely, giving infinite solutions. (iv) is wrong — parallel lines yield no solution, contradicting this claim."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — parallel lines never meet, so no solution exists. (iii) is correct — intersecting lines meet at exactly one point, giving a unique solution. (iv) is correct — coincident lines overlap entirely, giving infinite solutions. (ii) is wrong — parallel lines yield no solution, contradicting this claim."
     },
     {
       "id": "21",
@@ -270,8 +270,8 @@
       "options": [
         "4",
         "5",
-        "6",
-        "7"
+        "7",
+        "6"
       ],
       "correctAnswer": "6",
       "explanation": "If x = 2 is a root: (2)² − 5(2) + k = 0 → 4 − 10 + k = 0 → k = 6. Option 4: 4−10+4=−2≠0. Option 5: 4−10+5=−1≠0. Option 7: 4−10+7=1≠0."
@@ -294,8 +294,8 @@
       "subject": "D",
       "questionText": "The ages of a father and son are in the ratio 7:2. After 10 years, the ratio will be 9:4. What is the present age of the father?",
       "options": [
-        "28 years",
         "35 years",
+        "28 years",
         "42 years",
         "49 years"
       ],
@@ -307,13 +307,13 @@
       "subject": "D",
       "questionText": "Match the following algebraic terms with their definitions:\n\nColumn I:\n(a) Coefficient\n(b) Variable\n(c) Constant\n(d) Exponent\n\nColumn II:\n(i) A fixed value that does not change\n(ii) A symbol representing an unknown quantity\n(iii) The numerical factor of a term\n(iv) The power to which a variable is raised\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
-      "explanation": "A coefficient is the numerical factor of a term (iii). A variable is a symbol for an unknown (ii). A constant is a fixed value (i). An exponent is the power to which a variable is raised (iv). Option 2 swaps coefficient and variable. Option 3 swaps variable and exponent. Option 4 swaps coefficient and constant."
+      "explanation": "A coefficient is the numerical factor of a term (iii). A variable is a symbol for an unknown (ii). A constant is a fixed value (i). An exponent is the power to which a variable is raised (iv). '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' swaps coefficient and variable. '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' swaps variable and exponent. '(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)' swaps coefficient and constant."
     },
     {
       "id": "25",
@@ -331,15 +331,15 @@
     {
       "id": "26",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx.\n(ii) If x + y + z = 0, then x³ + y³ + z³ = 3xyz.\n(iii) x³ + y³ = (x + y)(x² + xy + y²).\n(iv) x³ − y³ = (x − y)(x² + xy + y²).\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx.\n(ii) If x + y + z = 0, then x³ + y³ + z³ = 3xyz.\n(iii) x³ − y³ = (x − y)(x² + xy + y²).\n(iv) x³ + y³ = (x + y)(x² + xy + y²).\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — standard expansion of trinomial square. (ii) is correct — if x+y+z=0, then x³+y³+z³=3xyz (a known identity). (iv) is correct — x³−y³ = (x−y)(x²+xy+y²). (iii) is wrong — x³+y³ = (x+y)(x²−xy+y²), not (x+y)(x²+xy+y²); the middle term should be −xy."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — standard expansion of trinomial square. (ii) is correct — if x+y+z=0, then x³+y³+z³=3xyz (a known identity). (iii) is correct — x³−y³ = (x−y)(x²+xy+y²). (iv) is wrong — x³+y³ = (x+y)(x²−xy+y²), not (x+y)(x²+xy+y²); the middle term should be −xy."
     },
     {
       "id": "27",
@@ -360,9 +360,9 @@
       "questionText": "Fill in the blank: If x + 1/x = 5, then x² + 1/x² = __________.",
       "options": [
         "21",
-        "23",
         "25",
-        "27"
+        "27",
+        "23"
       ],
       "correctAnswer": "23",
       "explanation": "Squaring both sides: (x + 1/x)² = 25 → x² + 2 + 1/x² = 25 → x² + 1/x² = 23. Option 21 subtracts 4 instead of 2. Option 25 forgets to subtract 2. Option 27 adds 2 instead of subtracting."
@@ -386,9 +386,9 @@
       "questionText": "Solve the system of equations: x + y = 7, 2x − y = 8. The value of y is:",
       "options": [
         "1",
-        "2",
         "3",
-        "4"
+        "4",
+        "2"
       ],
       "correctAnswer": "2",
       "explanation": "Adding the equations: x+y+2x−y = 7+8 → 3x = 15 → x = 5. Substituting: 5+y = 7 → y = 2. Option 1: x+1=7 gives x=6, check 2(6)−1=11≠8. Option 3: x+3=7 gives x=4, check 2(4)−3=5≠8. Option 4: x+4=7 gives x=3, check 2(3)−4=2≠8."
@@ -398,10 +398,10 @@
       "subject": "D",
       "questionText": "Consider the following statements about factorization:\n\n(i) x² + 7x + 12 = (x + 3)(x + 4).\n(ii) x² − 9x + 20 = (x − 4)(x − 5).\n(iii) x² + x − 12 = (x + 4)(x − 3).\n(iv) x² − x − 12 = (x + 3)(x − 4).\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "All of the above"
       ],
       "correctAnswer": "All of the above",
       "explanation": "(i) Check: (x+3)(x+4) = x²+7x+12 ✓. (ii) Check: (x−4)(x−5) = x²−9x+20 ✓. (iii) Check: (x+4)(x−3) = x²+x−12 ✓. (iv) Check: (x+3)(x−4) = x²−x−12 ✓. All four factorizations are correct."
@@ -411,10 +411,10 @@
       "subject": "D",
       "questionText": "If the perimeter of a rectangle is 50 cm and its length is 5 cm more than its breadth, find the length.",
       "options": [
+        "15 cm",
         "12 cm",
         "13 cm",
-        "14 cm",
-        "15 cm"
+        "14 cm"
       ],
       "correctAnswer": "15 cm",
       "explanation": "Let breadth = x, length = x+5. Perimeter: 2(x + x+5) = 50 → 2(2x+5) = 50 → 4x+10 = 50 → 4x = 40 → x = 10. Length = 10+5 = 15 cm. Option 12: breadth=7, perimeter=2(12+7)=38≠50. Option 13: breadth=8, 2(13+8)=42≠50. Option 14: breadth=9, 2(14+9)=46≠50."
@@ -424,8 +424,8 @@
       "subject": "D",
       "questionText": "Which of the following expressions cannot be factored using the difference of squares identity?\n\n(i) x² − 16\n(ii) x² + 25\n(iii) 4a² − 9b²\n(iv) x² − 2\n\nSelect the correct combination:",
       "options": [
-        "(ii) only",
         "(ii) and (iv)",
+        "(ii) only",
         "(i) and (iii)",
         "(iv) only"
       ],
@@ -437,13 +437,13 @@
       "subject": "D",
       "questionText": "Match the following equations with the number of real roots they have:\n\nColumn I:\n(a) x² − 4x + 4 = 0\n(b) x² + 2x + 5 = 0\n(c) x² − 5x + 6 = 0\n(d) x² − 6x + 9 = 0\n\nColumn II:\n(i) Two distinct real roots\n(ii) No real roots\n(iii) Two equal (repeated) real roots\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iii)",
-      "explanation": "(a) x²−4x+4: D = 16−16 = 0, so two equal roots (iii). (b) x²+2x+5: D = 4−20 = −16 < 0, no real roots (ii). (c) x²−5x+6: D = 25−24 = 1 > 0, two distinct roots (i). (d) x²−6x+9: D = 36−36 = 0, two equal roots (iii). Option 2 misidentifies (a). Option 3 swaps (b) and (c). Option 4 completely mismatches."
+      "explanation": "(a) x²−4x+4: D = 16−16 = 0, so two equal roots (iii). (b) x²+2x+5: D = 4−20 = −16 < 0, no real roots (ii). (c) x²−5x+6: D = 25−24 = 1 > 0, two distinct roots (i). (d) x²−6x+9: D = 36−36 = 0, two equal roots (iii). '(a)-(i), (b)-(ii), (c)-(iii), (d)-(i)' misidentifies (a). '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iii)' swaps (b) and (c). '(a)-(ii), (b)-(iii), (c)-(i), (d)-(ii)' completely mismatches."
     },
     {
       "id": "35",
@@ -451,8 +451,8 @@
       "questionText": "The sum of three consecutive even numbers is 78. What is the largest of these numbers?",
       "options": [
         "24",
-        "26",
         "28",
+        "26",
         "30"
       ],
       "correctAnswer": "28",
@@ -461,15 +461,15 @@
     {
       "id": "36",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) √(a²) = |a| for all real values of a.\n(ii) (√a)² = a for a ≥ 0.\n(iii) √(ab) = √a × √b for a ≥ 0, b ≥ 0.\n(iv) √(a + b) = √a + √b for all positive a and b.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) √(a²) = |a| for all real values of a.\n(ii) (√a)² = a for a ≥ 0.\n(iii) √(a + b) = √a + √b for all positive a and b.\n(iv) √(ab) = √a × √b for a ≥ 0, b ≥ 0.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — √(a²) = |a| accounts for both positive and negative values of a. (ii) is correct — squaring a square root returns the original non-negative number. (iii) is correct — the square root of a product equals the product of square roots (for non-negative values). (iv) is wrong — √(a+b) ≠ √a + √b in general (e.g., √(9+16) = 5 ≠ 3+4 = 7)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — √(a²) = |a| accounts for both positive and negative values of a. (ii) is correct — squaring a square root returns the original non-negative number. (iv) is correct — the square root of a product equals the product of square roots (for non-negative values). (iii) is wrong — √(a+b) ≠ √a + √b in general (e.g., √(9+16) = 5 ≠ 3+4 = 7)."
     },
     {
       "id": "37",
@@ -477,8 +477,8 @@
       "questionText": "If 2ˣ = 32, what is the value of x?",
       "options": [
         "4",
-        "5",
         "6",
+        "5",
         "7"
       ],
       "correctAnswer": "5",
@@ -502,10 +502,10 @@
       "subject": "D",
       "questionText": "A shopkeeper has two types of rice: one costing ₹40/kg and another costing ₹60/kg. In what ratio should he mix them to get a mixture costing ₹52/kg?",
       "options": [
-        "2:3",
         "3:2",
         "1:3",
-        "3:1"
+        "3:1",
+        "2:3"
       ],
       "correctAnswer": "2:3",
       "explanation": "Using alligation: (60−52):(52−40) = 8:12 = 2:3. The cheaper variety (₹40) and costlier variety (₹60) should be mixed in ratio 2:3 (cheaper:costlier). Wait — actually alligation gives (costlier excess):(cheaper excess) = ratio of cheaper:costlier. So ratio of ₹40 rice to ₹60 rice = (60−52):(52−40) = 8:12 = 2:3. Option 3:2 reverses the ratio. Option 1:3 and 3:1 don't satisfy: 1(40)+3(60)/4 = 55≠52."
@@ -517,8 +517,8 @@
       "options": [
         "105",
         "110",
-        "115",
-        "120"
+        "120",
+        "115"
       ],
       "correctAnswer": "115",
       "explanation": "From the pattern: marks increase by 15 for every 1-hour increase. Using point (2, 40): 40 = a(2) + b. Using point (3, 55): 55 = a(3) + b. Subtracting: a = 15. Then b = 40 − 30 = 10. M = 15H + 10. For H = 7: M = 15(7) + 10 = 105 + 10 = 115. Option 105 forgets the constant. Option 110 uses a=14. Option 120 uses a=15 but b=15."

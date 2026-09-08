@@ -336,11 +336,54 @@ The correct answer must NOT be easily guessable. Apply ALL of the following to E
 2. **Length balance:** All four options within ±15–20% character count of each other.
 3. **No giveaway:** The correct answer must NEVER be the uniquely longest, uniquely shortest, or uniquely most-detailed option.
 4. **Parallel structure:** All four options share the same grammatical form and formatting pattern.
-5. **Balanced answer key:** Across a test, spread the correct answer roughly evenly across the four option positions — do not favor any position.
+5. **Balanced answer key:** Across a test, spread the correct answer as evenly as possible across the four option positions — aim for 25% each, and never let one position exceed the others by more than about 3 items. This applies **within each question type as well**, not just to the paper as a whole: if every Matching answer sits at position 1, the candidate does not need to read the columns.
 6. **Matching options:** Same number of pairs, same formatting pattern; distractor pairings must be plausible.
 7. **Numerical options:** All values in the same order of magnitude; include distractors that result from common calculation mistakes (wrong formula, sign error, off-by-one).
 8. **General Knowledge / Current Affairs items:** Distractors must be real, plausible entities/events (other real people, places, dates, schemes) — never invented names.
 9. **General English items:** Distractors must be the genuinely confusable alternative (the other article, the other preposition of the same collocation, the near-synonym with the wrong connotation, the homophone) — never a word that no candidate would consider.
+
+### 4A. STRUCTURAL BIAS — the four tells that make a paper guessable
+
+A question can have flawless distractors and still be answerable without being read, if the
+*structure* of the answer is predictable across the paper. These four patterns were each
+measured in this corpus and each made large parts of it scoreable by pattern alone. Avoid
+all four.
+
+10. **Never make the last statement the false one by default.** In statement-based and
+    multiple-correct items, rotate **which** numbered item is the false one: across a test,
+    `(i)`, `(ii)`, `(iii)` and `(iv)` must each be the false item about a quarter of the
+    time. Writing the three true statements first and the false one last is the single most
+    exploitable habit in this format — it makes "pick the first three" a winning strategy,
+    and it teaches the candidate to stop reading at `(iii)`.
+    - Concretely: `"(i), (ii) and (iii)"` must **not** be the correct answer in more than
+      roughly a quarter of a test's statement items.
+    - Statement `(i)` must be the false one about as often as any other.
+11. **Vary the Assertion–Reason relationship.** All four A–R categories must appear at
+    roughly equal rates across a test:
+    - both correct and R explains A
+    - both correct but R does **not** explain A
+    - A correct, R incorrect
+    - A incorrect, R correct
+
+    Because the four A–R options are fixed and cannot be reordered, this is the **only** way
+    to balance the answer key for this type. Defaulting to "both correct, R explains A" makes
+    every A–R item in the paper answerable on sight. Three reliable ways to build the other
+    three categories:
+    - *R does not explain A* — state two true facts about the same subject where the reason
+      is a parallel or consequent fact rather than the cause (e.g. A: the mean of 10, 20, 30
+      is 20; R: the median is also 20).
+    - *R incorrect* — invert or misstate the governing rule while keeping A true (e.g. A: the
+      sum of the first 10 natural numbers is 55; R: the sum of the first n is n(n−1)/2).
+    - *A incorrect* — break the instance while keeping the rule intact (e.g. A: a 3-4-6
+      triangle is right-angled; R: correct statement of the Pythagorean theorem).
+12. **Explanations must name options by their TEXT, never by position.** Write
+    `'Chenab Bridge' is wrong because…`, never `the first option is wrong because…` or
+    `Option 3 is wrong because…`. Positional references leak the key, and they silently
+    become false the moment options are reordered.
+13. **Do not let "All of the above" be a tell.** If the paper offers it, it must sometimes be
+    the correct answer; if it is always wrong, candidates learn to eliminate it on sight.
+    Likewise the correct option must not be systematically the longest or the shortest
+    (see rules 2 and 3).
 
 ---
 
@@ -420,9 +463,11 @@ Before finalizing, verify:
 20. **CLEAN NUMBERS:** For every math question, does the correct calculation produce a value that EXACTLY matches one of the four options? If the calculation gives 5.33 but the closest option is 5, redesign the question with different numbers that yield a clean answer.
 21. **SCOPE (Section 0A):** Does EVERY section C question have a J&K/Ladakh anchor? Is every section B question about India, except in the areas the syllabus explicitly scopes to the world (capitals & currencies, UN, SAARC/ASEAN, firsts in world, world awards, world physical/political divisions, everyday science, books & authors, world of sports)? Is there any question in an India-scoped slot whose ANSWER is non-Indian?
 22. **CURRENCY (Section 0B):** Have you checked `current_affairs_2026.md` for every volatile fact? Is each factual claim true **as of September 2026**? Does any question make a "currently/latest/most recent/in recent years" claim without an explicit year?
+23. **STRUCTURAL BIAS (Section 4A):** Is the correct answer spread across all four positions, **within each question type** as well as overall? Across statement items, is the false item rotated over `(i)`–`(iv)` rather than always being the last one? Do the four Assertion–Reason relationships each appear at roughly equal rates? Does any explanation refer to an option by position instead of by its text?
 
 You may run `python3 mock-tests/_validate.py <file.json>` to mechanically check items 1–3, 9, 17, 19 and the answer-key balance before recording.
 Run `python3 mock-tests/_audit_scope.py <file.json>` to check items 21–22 (scope drift and stale/undated facts) — `_validate.py` cannot see meaning and will not catch them.
+Run `python3 mock-tests/_debias.py --report` to check item 23 across the corpus (answer-position, statement-shape and Assertion–Reason balance).
 
 ---
 

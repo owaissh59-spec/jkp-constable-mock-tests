@@ -8,8 +8,8 @@
       "subject": "D",
       "questionText": "If '+' means '×', '−' means '÷', '×' means '+', and '÷' means '−', what is the value of 8 + 3 − 6 × 2 ÷ 1?",
       "options": [
-        "3",
         "5",
+        "3",
         "7",
         "9"
       ],
@@ -34,8 +34,8 @@
       "subject": "D",
       "questionText": "If '>' means '+', '<' means '−', '^' means '×', and '&' means '÷', find the value of: 12 ^ 2 > 8 & 4 < 3",
       "options": [
-        "23",
         "25",
+        "23",
         "27",
         "29"
       ],
@@ -60,8 +60,8 @@
       "subject": "D",
       "questionText": "Match the following symbol substitutions with their correct evaluations (given: '+' means '−', '−' means '×', '×' means '÷', '÷' means '+'):\n\nColumn I:\n(a) 10 + 5 − 2\n(b) 12 × 3 ÷ 6\n(c) 8 ÷ 4 + 2\n(d) 6 − 3 × 9\n\nColumn II:\n(i) 10\n(ii) 0\n(iii) 10\n(iv) 2\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
       ],
@@ -73,8 +73,8 @@
       "subject": "D",
       "questionText": "Which of the following equations becomes correct after substituting '+' for '×' and '×' for '+'?\n\n(i) 3 + 4 × 2 = 14\n(ii) 5 × 2 + 3 = 13\n(iii) 6 + 3 × 1 = 19\n(iv) 4 × 5 + 2 = 14\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iv) only",
         "(ii) and (iii) only",
+        "(i) and (iv) only",
         "(i) and (iii) only",
         "(ii) and (iv) only"
       ],
@@ -87,8 +87,8 @@
       "questionText": "In a certain operation, the output is obtained by the rule: Output = (First number × 2) + (Second number − 1). What is the output when the input is (5, 4)?",
       "options": [
         "12",
-        "13",
         "14",
+        "13",
         "15"
       ],
       "correctAnswer": "13",
@@ -99,9 +99,9 @@
       "subject": "D",
       "questionText": "If P $ Q means P + Q, P # Q means P − Q, P @ Q means P × Q, and P & Q means P ÷ Q, find the value of: 20 & 4 $ 3 @ 2 # 1",
       "options": [
-        "10",
         "11",
         "12",
+        "10",
         "13"
       ],
       "correctAnswer": "10",
@@ -112,10 +112,10 @@
       "subject": "D",
       "questionText": "Consider the following statements about sequential output tracing:\n\n(i) In sequential output problems, operations are performed step by step in a given order.\n(ii) The result of one step becomes the input for the next step.\n(iii) The final output depends on the sequence in which operations are applied.\n(iv) Changing the order of steps never affects the final output.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — sequential tracing follows a defined step-by-step process. (ii) is correct — each step feeds into the next. (iii) is correct — sequence matters (e.g., add then multiply ≠ multiply then add). (iv) is wrong — changing the order of operations generally changes the output (e.g., 2+3×4=14, but (2+3)×4=20)."
@@ -126,9 +126,9 @@
       "questionText": "A machine takes an input number and performs these steps: Step 1: Add 5. Step 2: Multiply by 2. Step 3: Subtract 4. If the input is 3, what is the output?",
       "options": [
         "10",
-        "12",
         "14",
-        "16"
+        "16",
+        "12"
       ],
       "correctAnswer": "12",
       "explanation": "Step 1: 3+5 = 8. Step 2: 8×2 = 16. Step 3: 16−4 = 12. Option 10 uses 3×2+5−4. Option 14 adds 4 instead of subtracting. Option 16 skips Step 3."
@@ -151,9 +151,9 @@
       "subject": "D",
       "questionText": "If '@' means 'add 3 and then double', what is 5 @ @ (applying the operation twice)?",
       "options": [
+        "22",
         "16",
         "19",
-        "22",
         "26"
       ],
       "correctAnswer": "22",
@@ -177,8 +177,8 @@
       "subject": "D",
       "questionText": "If 'A' means '+', 'B' means '−', 'C' means '×', and 'D' means '÷', what is the value of: 15 D 3 A 4 C 2 B 1?",
       "options": [
-        "12",
         "13",
+        "12",
         "14",
         "15"
       ],
@@ -191,8 +191,8 @@
       "questionText": "A number machine follows these rules: If input is even, divide by 2. If input is odd, multiply by 3 and add 1. Starting with 7, what is the output after 4 steps?",
       "options": [
         "8",
-        "11",
         "16",
+        "11",
         "22"
       ],
       "correctAnswer": "16",
@@ -201,15 +201,15 @@
     {
       "id": "16",
       "subject": "D",
-      "questionText": "Consider the following statements about true-equation selection:\n\n(i) In these problems, we must find which equation becomes true after symbol substitution.\n(ii) After substitution, we evaluate using standard BODMAS.\n(iii) Both sides of the equation must be calculated independently and compared.\n(iv) Symbol substitution changes the value of numbers in the equation.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about true-equation selection:\n\n(i) Symbol substitution changes the value of numbers in the equation.\n(ii) In these problems, we must find which equation becomes true after symbol substitution.\n(iii) After substitution, we evaluate using standard BODMAS.\n(iv) Both sides of the equation must be calculated independently and compared.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — we identify which equation holds true after substitution. (ii) is correct — BODMAS applies to the substituted expression. (iii) is correct — both sides are evaluated separately. (iv) is wrong — symbol substitution only changes operators (+, −, ×, ÷), not the numerical values themselves."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — we identify which equation holds true after substitution. (iii) is correct — BODMAS applies to the substituted expression. (iv) is correct — both sides are evaluated separately. (i) is wrong — symbol substitution only changes operators (+, −, ×, ÷), not the numerical values themselves."
     },
     {
       "id": "17",
@@ -218,8 +218,8 @@
       "options": [
         "6 × 4 + 8 ÷ 2 = 8",
         "3 − 5 × 2 + 10 = 5",
-        "8 + 2 × 3 − 4 = 7",
-        "4 ÷ 2 + 6 × 3 = 7"
+        "4 ÷ 2 + 6 × 3 = 7",
+        "8 + 2 × 3 − 4 = 7"
       ],
       "correctAnswer": "4 ÷ 2 + 6 × 3 = 7",
       "explanation": "With substitutions '×'→'+', '+'→'÷', '÷'→'−', '−'→'×': Option 4 becomes 4−2÷6+3. Evaluating left-to-right (as is common in these competition-style problems without strict BODMAS): 4−2=2, 2÷6=0.33... Applying BODMAS strictly doesn't yield integers. In the intended interpretation for this question type, evaluating sequentially: the expression simplifies to give 7 when operators are applied in the given sequence order."
@@ -269,9 +269,9 @@
       "questionText": "A sorting machine arranges numbers. In each step, the smallest number from the unsorted portion is placed at the beginning. Input: 9 4 7 2 5. What is the arrangement after Step 2?",
       "options": [
         "2 4 7 9 5",
-        "2 4 9 7 5",
         "2 4 5 7 9",
-        "4 2 7 9 5"
+        "4 2 7 9 5",
+        "2 4 9 7 5"
       ],
       "correctAnswer": "2 4 9 7 5",
       "explanation": "Step 1: Find smallest (2) from {9,4,7,2,5}, place at beginning: 2 | 9 4 7 5. Actually in selection sort, we swap: position 1 gets 2 (swap with 9): 2 4 7 9 5. Step 2: Find smallest from remaining {4,7,9,5}: it's 4, already in position. So after step 2: 2 4 | 7 9 5. Wait, remaining after position 1 filled with 2 is {4,7,9,5}. Smallest=4, place at position 2: 2 4 7 9 5. Step 2 from remaining {7,9,5}: smallest=5, swap with 7: 2 4 5 9 7. Hmm, this depends on the exact algorithm. Using the approach where each step places next smallest: Step 1: Input 9 4 7 2 5 → find smallest (2), bring to front: 2 9 4 7 5. Step 2: From remaining {9,4,7,5}, smallest is 4: 2 4 9 7 5. This gives option 2."
@@ -281,9 +281,9 @@
       "subject": "D",
       "questionText": "If 'MENTAL' is coded as a sequence where each letter's position value is doubled (M=13→26, E=5→10, N=14→28, T=20→40, A=1→2, L=12→24), what is the sum of the coded values?",
       "options": [
+        "130",
         "120",
         "126",
-        "130",
         "136"
       ],
       "correctAnswer": "130",
@@ -300,33 +300,33 @@
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(i), (b)-(i), (c)-(i), (d)-(i)",
-      "explanation": "Testing rule 2n+1: (a) 2(4)+1=9 ✓. (b) 2(7)+1=15 ✓. (c) 2(3)+1=7 ✓. (d) 2(10)+1=21 ✓. All four follow the same rule 2n+1. Option 2 assigns different rules unnecessarily. Option 3 mismatches. Option 4 also mismatches."
+      "explanation": "Testing rule 2n+1: (a) 2(4)+1=9 ✓. (b) 2(7)+1=15 ✓. (c) 2(3)+1=7 ✓. (d) 2(10)+1=21 ✓. All four follow the same rule 2n+1. '(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)' assigns different rules unnecessarily. '(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)' mismatches. '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' also mismatches."
     },
     {
       "id": "24",
       "subject": "D",
       "questionText": "A word machine rearranges words in alphabetical order, one word at a time from left. Input: 'dog cat fox ant bee'. After Step 2, the arrangement is:",
       "options": [
-        "ant bee dog cat fox",
         "ant bee cat dog fox",
+        "ant bee dog cat fox",
         "ant cat bee dog fox",
         "bee ant cat dog fox"
       ],
       "correctAnswer": "ant bee dog cat fox",
-      "explanation": "Step 1: Find alphabetically first word from all: 'ant'. Place at left: 'ant dog cat fox bee'. (remaining: dog cat fox bee). Step 2: Find next alphabetically first from remaining {dog, cat, fox, bee}: 'bee'. Place next: 'ant bee dog cat fox'. Option 2 would require 3 steps. Option 3 places 'cat' before 'bee'. Option 4 reverses ant and bee."
+      "explanation": "Step 1: Find alphabetically first word from all: 'ant'. Place at left: 'ant dog cat fox bee'. (remaining: dog cat fox bee). Step 2: Find next alphabetically first from remaining {dog, cat, fox, bee}: 'bee'. Place next: 'ant bee dog cat fox'. 'ant bee cat dog fox' would require 3 steps. 'ant cat bee dog fox' places 'cat' before 'bee'. 'bee ant cat dog fox' reverses ant and bee."
     },
     {
       "id": "25",
       "subject": "D",
-      "questionText": "Consider the following statements about a number machine with rule f(x) = 2x − 3:\n\n(i) f(5) = 7\n(ii) f(f(5)) = f(7) = 11\n(iii) If f(x) = 15, then x = 9\n(iv) f(0) = 3\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about a number machine with rule f(x) = 2x − 3:\n\n(i) f(5) = 7\n(ii) f(0) = 3\n(iii) f(f(5)) = f(7) = 11\n(iv) If f(x) = 15, then x = 9\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) f(5)=2(5)−3=10−3=7 ✓. (ii) f(7)=2(7)−3=14−3=11 ✓. (iii) 2x−3=15→2x=18→x=9 ✓. (iv) f(0)=2(0)−3=0−3=−3, NOT 3. So (iv) is wrong."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) f(5)=2(5)−3=10−3=7 ✓. (iii) f(7)=2(7)−3=14−3=11 ✓. (iv) 2x−3=15→2x=18→x=9 ✓. (ii) f(0)=2(0)−3=0−3=−3, NOT 3. So (ii) is wrong."
     },
     {
       "id": "26",
@@ -359,9 +359,9 @@
       "subject": "D",
       "questionText": "A machine processes a word by: Step 1: Reverse the word. Step 2: Replace each vowel with the next vowel (a→e, e→i, i→o, o→u, u→a). Input: 'RATE'. What is the output?",
       "options": [
-        "ITER",
         "ETER",
         "ETIR",
+        "ITER",
         "OTER"
       ],
       "correctAnswer": "ITER",
@@ -373,8 +373,8 @@
       "questionText": "Fill in the blank: If the rule is 'multiply the input by itself and subtract the input', then for input 9, the output is __________.",
       "options": [
         "63",
-        "72",
         "81",
+        "72",
         "90"
       ],
       "correctAnswer": "72",
@@ -387,8 +387,8 @@
       "options": [
         "1",
         "2",
-        "4",
-        "6"
+        "6",
+        "4"
       ],
       "correctAnswer": "4",
       "explanation": "3@ = 3² = 9. Then 9# = 9−5 = 4. Option 1 subtracts too much. Option 2 uses wrong square value. Option 6 subtracts 3 instead of 5."
@@ -417,15 +417,15 @@
         "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-      "explanation": "(a) 10+5=15, 15×2=30 (ii). (b) 10×2=20, 20+5=25 (i). (c) 10−3=7, 7×4=28 (iii). (d) 10÷2=5, 5+8=13 (iv). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 misplaces (a)."
+      "explanation": "(a) 10+5=15, 15×2=30 (ii). (b) 10×2=20, 20+5=25 (i). (c) 10−3=7, 7×4=28 (iii). (d) 10÷2=5, 5+8=13 (iv). '(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)' swaps (a) and (b). '(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)' swaps (b) and (c). '(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)' misplaces (a)."
     },
     {
       "id": "33",
       "subject": "D",
       "questionText": "Consider the following statements about a function machine where f(x) = 3x + 2:\n\n(i) f(1) = 5\n(ii) f(2) = 8\n(iii) f(3) = 12\n(iv) If f(x) = 20, then x = 6\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
@@ -438,8 +438,8 @@
       "questionText": "A number undergoes the following operations in sequence: ×3, −4, ÷2, +6. If the input is 6, what is the final output?",
       "options": [
         "11",
-        "12",
         "13",
+        "12",
         "14"
       ],
       "correctAnswer": "13",
@@ -451,21 +451,21 @@
       "questionText": "If '×' means '−', '−' means '+', '+' means '÷', and '÷' means '×', which of the following equations is TRUE?",
       "options": [
         "6 ÷ 3 + 2 × 4 − 1 = 6",
+        "12 + 4 × 3 − 2 ÷ 6 = 12",
         "8 × 2 − 5 ÷ 3 + 15 = 7",
-        "10 − 4 + 2 × 3 ÷ 5 = 19",
-        "12 + 4 × 3 − 2 ÷ 6 = 12"
+        "10 − 4 + 2 × 3 ÷ 5 = 19"
       ],
       "correctAnswer": "12 + 4 × 3 − 2 ÷ 6 = 12",
-      "explanation": "With substitutions '×'→'−', '−'→'+', '+'→'÷', '÷'→'×': Option 4 becomes: 12÷4−3+2×6. BODMAS: 12÷4=3, 2×6=12. Then: 3−3+12=12 ✓. The equation 12=12 is true. Option 1: 6×3÷2−4+1 = 18÷2−4+1=9−4+1=6≠6... Option 2 and 3 do not yield true equations after substitution."
+      "explanation": "With substitutions '×'→'−', '−'→'+', '+'→'÷', '÷'→'×': '12 + 4 × 3 − 2 ÷ 6 = 12' becomes: 12÷4−3+2×6. BODMAS: 12÷4=3, 2×6=12. Then: 3−3+12=12 ✓. The equation 12=12 is true. Option 1: 6×3÷2−4+1 = 18÷2−4+1=9−4+1=6≠6... '8 × 2 − 5 ÷ 3 + 15 = 7' and 3 do not yield true equations after substitution."
     },
     {
       "id": "36",
       "subject": "D",
       "questionText": "Which of the following are valid interpretations of sequential output tracing problems?\n\n(i) A machine that applies operations in a fixed order to an input.\n(ii) Tracing the output of an algorithm step by step.\n(iii) Finding the input given the output and the operations (reverse tracing).\n(iv) Randomly applying operations without any fixed sequence.\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -489,13 +489,13 @@
       "subject": "D",
       "questionText": "A machine sorts numbers in descending order, moving one number per step to its correct position from the right. Input: 3 7 1 9 4. What is the output after Step 1?",
       "options": [
-        "9 3 7 1 4",
         "3 7 1 4 9",
         "3 7 9 1 4",
+        "9 3 7 1 4",
         "9 7 3 1 4"
       ],
       "correctAnswer": "9 3 7 1 4",
-      "explanation": "In descending order sorting from left, Step 1 places the largest number (9) at the leftmost position: 9 3 7 1 4. Option 2 places 9 at the end (ascending). Option 3 puts 9 in middle. Option 4 rearranges too many numbers for one step."
+      "explanation": "In descending order sorting from left, Step 1 places the largest number (9) at the leftmost position: 9 3 7 1 4. '3 7 1 4 9' places 9 at the end (ascending). Option 3 puts 9 in middle. '9 7 3 1 4' rearranges too many numbers for one step."
     },
     {
       "id": "39",
@@ -503,9 +503,9 @@
       "questionText": "The following data shows inputs and outputs of a machine:\n\n2 → 7\n4 → 13\n6 → 19\n8 → 25\n\nWhat is the output for input 10?",
       "options": [
         "29",
-        "31",
         "33",
-        "35"
+        "35",
+        "31"
       ],
       "correctAnswer": "31",
       "explanation": "Pattern: Output = 3×Input + 1. Check: 3(2)+1=7 ✓, 3(4)+1=13 ✓, 3(6)+1=19 ✓, 3(8)+1=25 ✓. For input 10: 3(10)+1=31. Option 29 uses rule 3n−1. Option 33 uses 3n+3. Option 35 uses 3n+5."
@@ -517,8 +517,8 @@
       "options": [
         "23",
         "24",
-        "25",
-        "26"
+        "26",
+        "25"
       ],
       "correctAnswer": "25",
       "explanation": "The machine applies: Step 1 (+3): 10+3=13. Step 2 (×2): 13×2=26. Step 3 (−1): 26−1=25. Option 23 subtracts 3 instead of 1. Option 24 subtracts 2. Option 26 skips Step 3 entirely."

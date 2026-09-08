@@ -32,14 +32,14 @@
     {
       "id": "3",
       "subject": "B",
-      "questionText": "Consider the following statements about the United Nations:\n\n(i) The UN has 193 member states.\n(ii) The Security Council has 5 permanent members with veto power.\n(iii) The General Assembly meets in New York.\n(iv) India is a permanent member of the Security Council.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the United Nations:\n\n(i) India is a permanent member of the Security Council.\n(ii) The UN has 193 member states.\n(iii) The Security Council has 5 permanent members with veto power.\n(iv) The General Assembly meets in New York.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
+      "correctAnswer": "(ii), (iii) and (iv)",
       "explanation": "The UN has 193 members (i correct). The UNSC has 5 permanent members — US, UK, France, Russia, China — with veto (ii correct). The GA meets at UN HQ in New York (iii correct). India is NOT a permanent member (iv incorrect) — it has been a non-permanent member multiple times but seeks permanent membership."
     },
     {
@@ -60,8 +60,8 @@
       "subject": "C",
       "questionText": "The Kishanganga Hydroelectric Project (330 MW) in J&K is built on which river?",
       "options": [
-        "Kishanganga (Neelum)",
         "Chenab",
+        "Kishanganga (Neelum)",
         "Jhelum",
         "Tawi"
       ],
@@ -73,8 +73,8 @@
       "subject": "A",
       "questionText": "Identify the sentence that correctly uses homophones:",
       "options": [
-        "The heir breathed the fresh mountain air.",
         "The air breathed the fresh mountain heir.",
+        "The heir breathed the fresh mountain air.",
         "The heir breathed the fresh mountain heir.",
         "The air breathed the fresh mountain air."
       ],
@@ -84,24 +84,24 @@
     {
       "id": "7",
       "subject": "D",
-      "questionText": "Consider the following statements about blood relations:\n\n(i) Your mother's brother's son is your cousin.\n(ii) Your father's sister is your paternal aunt.\n(iii) Your sister's husband is your brother-in-law.\n(iv) Your uncle's daughter is your niece.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about blood relations:\n\n(i) Your mother's brother's son is your cousin.\n(ii) Your uncle's daughter is your niece.\n(iii) Your father's sister is your paternal aunt.\n(iv) Your sister's husband is your brother-in-law.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Mother's brother's son = maternal cousin (i correct). Father's sister = paternal aunt/bua (ii correct). Sister's husband = brother-in-law (iii correct). Statement (iv) is incorrect — uncle's daughter is your COUSIN, not niece. A niece is your sibling's daughter."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Mother's brother's son = maternal cousin (i correct). Father's sister = paternal aunt/bua (ii correct). Sister's husband = brother-in-law (iii correct). Statement (ii) is incorrect — uncle's daughter is your COUSIN, not niece. A niece is your sibling's daughter."
     },
     {
       "id": "8",
       "subject": "B",
       "questionText": "The chemical formula of water is:",
       "options": [
-        "H₂O",
         "CO₂",
         "NaCl",
+        "H₂O",
         "O₂"
       ],
       "correctAnswer": "H₂O",
@@ -112,9 +112,9 @@
       "subject": "A",
       "questionText": "Match the following pronouns with their types:\n\nColumn I:\n(a) Himself\n(b) Which\n(c) Those\n(d) Nobody\n\nColumn II:\n(i) Indefinite pronoun\n(ii) Demonstrative pronoun\n(iii) Reflexive pronoun\n(iv) Relative pronoun\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
@@ -125,10 +125,10 @@
       "subject": "D",
       "questionText": "A shopkeeper buys an article for ₹800 and sells it for ₹920. His profit percentage is:",
       "options": [
-        "15%",
         "12%",
         "20%",
-        "10%"
+        "10%",
+        "15%"
       ],
       "correctAnswer": "15%",
       "explanation": "Profit = 920 - 800 = ₹120. Profit% = (120/800) × 100 = 15%. Option 12% = 96/800. Option 20% would need profit of ₹160. Option 10% would need profit of ₹80."
@@ -138,10 +138,10 @@
       "subject": "E",
       "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware and software resources.\n(ii) Windows, Linux, and macOS are examples of operating systems.\n(iii) The operating system is stored in RAM permanently.\n(iv) Multitasking allows running multiple programs simultaneously.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "OS manages hardware/software resources (i correct). Windows, Linux, macOS are popular OSes (ii correct). Multitasking enables concurrent program execution (iv correct). Statement (iii) is incorrect — the OS is stored on the HARD DISK (secondary storage) and loaded into RAM during boot; it's not stored in RAM permanently (RAM is volatile)."
@@ -164,10 +164,10 @@
       "subject": "A",
       "questionText": "Choose the correct tense: By the time she arrives, we __________ dinner.",
       "options": [
-        "will have finished",
         "will finish",
         "finished",
-        "have finished"
+        "have finished",
+        "will have finished"
       ],
       "correctAnswer": "will have finished",
       "explanation": "Future Perfect ('will have finished') is needed for an action completed before a specific future time ('by the time she arrives'). 'Will finish' is Simple Future — doesn't emphasize completion before arrival. 'Finished' is Simple Past — wrong time frame. 'Have finished' is Present Perfect — not appropriate for future context."
@@ -190,8 +190,8 @@
       "subject": "D",
       "questionText": "Match the following mathematical concepts with their formulas:\n\nColumn I:\n(a) Profit Percentage\n(b) Speed\n(c) Simple Interest\n(d) Average\n\nColumn II:\n(i) Sum of observations / Number of observations\n(ii) (Profit / Cost Price) × 100\n(iii) Distance / Time\n(iv) (P × R × T) / 100\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
@@ -203,8 +203,8 @@
       "subject": "B",
       "questionText": "Which of the following vitamins is water-soluble?\n\n(i) Vitamin A\n(ii) Vitamin B Complex\n(iii) Vitamin C\n(iv) Vitamin D\n\nSelect the correct combination:",
       "options": [
-        "(ii) and (iii) only",
         "(i) and (iv) only",
+        "(ii) and (iii) only",
         "(i), (ii) and (iii)",
         "All of the above"
       ],
@@ -216,8 +216,8 @@
       "subject": "A",
       "questionText": "Choose the correct word: The __________ between the two countries has been tense for decades.",
       "options": [
-        "border",
         "boarder",
+        "border",
         "broader",
         "bored"
       ],
@@ -242,8 +242,8 @@
       "subject": "E",
       "questionText": "The correct order of storage capacity from smallest to largest is:",
       "options": [
-        "Bit < Byte < KB < MB < GB < TB",
         "Byte < Bit < KB < MB < GB < TB",
+        "Bit < Byte < KB < MB < GB < TB",
         "Bit < KB < Byte < MB < GB < TB",
         "Bit < Byte < MB < KB < GB < TB"
       ],
@@ -255,9 +255,9 @@
       "subject": "B",
       "questionText": "Match the following scientists with their contributions:\n\nColumn I:\n(a) Newton\n(b) Einstein\n(c) Fleming\n(d) Darwin\n\nColumn II:\n(i) Theory of Evolution\n(ii) Theory of Relativity\n(iii) Discovery of Penicillin\n(iv) Laws of Motion and Gravity\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
@@ -268,9 +268,9 @@
       "subject": "A",
       "questionText": "Which of the following sentences correctly uses pronouns?\n\n(i) Each of the boys has completed his assignment.\n(ii) Everyone should bring their own lunch.\n(iii) Between you and I, the plan won't work.\n(iv) She hurt herself while cooking.\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iv) only",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i) and (iv) only",
         "All of the above"
       ],
       "correctAnswer": "(i) and (iv) only",
@@ -281,9 +281,9 @@
       "subject": "D",
       "questionText": "A train travelling at 60 km/h crosses a pole in 9 seconds. The length of the train is:",
       "options": [
-        "150 metres",
         "100 metres",
         "180 metres",
+        "150 metres",
         "120 metres"
       ],
       "correctAnswer": "150 metres",
@@ -292,28 +292,28 @@
     {
       "id": "23",
       "subject": "B",
-      "questionText": "Consider the following statements about Newton's Third Law of Motion:\n\n(i) For every action, there is an equal and opposite reaction.\n(ii) Action and reaction forces act on the same body.\n(iii) A rocket propulsion is an example of Newton's Third Law.\n(iv) Action and reaction forces are always equal in magnitude.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Newton's Third Law of Motion:\n\n(i) For every action, there is an equal and opposite reaction.\n(ii) A rocket propulsion is an example of Newton's Third Law.\n(iii) Action and reaction forces act on the same body.\n(iv) Action and reaction forces are always equal in magnitude.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
-        "All of the above"
+        "(i), (iii) and (iv)",
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Every action has equal and opposite reaction (i correct). Rockets work by expelling gas backward (action) causing forward thrust (reaction) (iii correct). Action-reaction forces are always equal in magnitude (iv correct). Statement (ii) is incorrect — action and reaction forces act on DIFFERENT bodies, not the same body."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Every action has equal and opposite reaction (i correct). Rockets work by expelling gas backward (action) causing forward thrust (reaction) (iii correct). Action-reaction forces are always equal in magnitude (iv correct). Statement (iii) is incorrect — action and reaction forces act on DIFFERENT bodies, not the same body."
     },
     {
       "id": "24",
       "subject": "E",
-      "questionText": "Which of the following are functions of an operating system?\n\n(i) Memory management\n(ii) File management\n(iii) Creating presentations\n(iv) Process scheduling\n\nSelect the correct combination:",
+      "questionText": "Which of the following are functions of an operating system?\n\n(i) Memory management\n(ii) File management\n(iii) Process scheduling\n(iv) Creating presentations\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv) only",
-        "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii) only"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "Memory management allocates/deallocates RAM (i correct). File management handles file creation/deletion/organization (ii correct). Process scheduling determines CPU time allocation (iv correct). Creating presentations (iii) is a function of APPLICATION software (like PowerPoint), not the OS."
+      "correctAnswer": "(i), (ii) and (iii) only",
+      "explanation": "Memory management allocates/deallocates RAM (i correct). File management handles file creation/deletion/organization (ii correct). Process scheduling determines CPU time allocation (iv correct). Creating presentations (iv) is a function of APPLICATION software (like PowerPoint), not the OS."
     },
     {
       "id": "25",
@@ -333,10 +333,10 @@
       "subject": "A",
       "questionText": "Choose the correct form: If I __________ the answer, I would have told you.",
       "options": [
-        "had known",
         "knew",
         "have known",
-        "will know"
+        "will know",
+        "had known"
       ],
       "correctAnswer": "had known",
       "explanation": "This is a Third Conditional (past unreal condition) requiring Past Perfect in the if-clause: 'If I had known... I would have told.' 'Knew' is Second Conditional (present unreal). 'Have known' is Present Perfect — wrong for past hypothetical. 'Will know' is future — cannot follow 'if' in conditionals this way."
@@ -344,23 +344,23 @@
     {
       "id": "27",
       "subject": "D",
-      "questionText": "Consider the following statements about coding-decoding:\n\n(i) If APPLE is coded as BQQMF (each letter +1), then CAT would be coded as DBU.\n(ii) In mirror image coding, A=Z, B=Y, C=X, etc.\n(iii) In number coding, A=1, B=2, C=3, etc.\n(iv) If GO is coded as 32 (7+15=22... wait), coding patterns must be identified.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about coding-decoding:\n\n(i) If GO is coded as 32 (7+15=22... wait), coding patterns must be identified.\n(ii) If APPLE is coded as BQQMF (each letter +1), then CAT would be coded as DBU.\n(iii) In mirror image coding, A=Z, B=Y, C=X, etc.\n(iv) In number coding, A=1, B=2, C=3, etc.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "If each letter shifts +1: A→B, P→Q, P→Q, L→M, E→F = BQQMF. For CAT: C→D, A→B, T→U = DBU (i correct). Mirror coding: A↔Z, B↔Y, C↔X is the standard reverse alphabet (ii correct). Position coding: A=1, B=2...Z=26 (iii correct). Statement (iv) is incomplete and doesn't make a verifiable true claim."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "If each letter shifts +1: A→B, P→Q, P→Q, L→M, E→F = BQQMF. For CAT: C→D, A→B, T→U = DBU (i correct). Mirror coding: A↔Z, B↔Y, C↔X is the standard reverse alphabet (ii correct). Position coding: A=1, B=2...Z=26 (iii correct). Statement (i) is incomplete and doesn't make a verifiable true claim."
     },
     {
       "id": "28",
       "subject": "B",
       "questionText": "The gas used for filling balloons that makes them float is:",
       "options": [
-        "Helium",
         "Hydrogen",
+        "Helium",
         "Oxygen",
         "Nitrogen"
       ],
@@ -372,21 +372,21 @@
       "subject": "A",
       "questionText": "Fill in the blank: The idiom 'to let the cat out of the bag' means __________.",
       "options": [
-        "to reveal a secret accidentally",
         "to release an animal from captivity",
+        "to reveal a secret accidentally",
         "to avoid responsibility",
         "to escape from a difficult situation"
       ],
       "correctAnswer": "to reveal a secret accidentally",
-      "explanation": "'Let the cat out of the bag' means to accidentally disclose something that was supposed to be kept secret. 'Release an animal' takes the idiom literally. 'Avoid responsibility' would be 'pass the buck'. 'Escape difficulty' would be 'get out of hot water'. Only the first option captures the idiom's figurative meaning."
+      "explanation": "'Let the cat out of the bag' means to accidentally disclose something that was supposed to be kept secret. 'Release an animal' takes the idiom literally. 'Avoid responsibility' would be 'pass the buck'. 'Escape difficulty' would be 'get out of hot water'. Only 'to reveal a secret accidentally' captures the idiom's figurative meaning."
     },
     {
       "id": "30",
       "subject": "D",
       "questionText": "If a number is divided by 5, the remainder is 3. What is the remainder when the same number is multiplied by 3 and then divided by 5?",
       "options": [
-        "4",
         "3",
+        "4",
         "1",
         "2"
       ],
@@ -411,9 +411,9 @@
       "subject": "E",
       "questionText": "Match the following computer terms with their meanings:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) CPU\n(d) HDD\n\nColumn II:\n(i) Permanent storage using magnetic platters\n(ii) Non-volatile memory with firmware\n(iii) The processor that executes instructions\n(iv) Volatile memory for active programs\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
@@ -422,14 +422,14 @@
     {
       "id": "33",
       "subject": "A",
-      "questionText": "Consider the following statements about tenses:\n\n(i) 'She has been reading since morning' is Present Perfect Continuous.\n(ii) 'They had left before I arrived' is Past Perfect.\n(iii) 'He will be sleeping at 10 PM' is Future Continuous.\n(iv) 'I am going to market' is Past Continuous.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about tenses:\n\n(i) 'She has been reading since morning' is Present Perfect Continuous.\n(ii) 'I am going to market' is Past Continuous.\n(iii) 'They had left before I arrived' is Past Perfect.\n(iv) 'He will be sleeping at 10 PM' is Future Continuous.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
+      "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "'Has been reading since' = Present Perfect Continuous (i correct). 'Had left before' = Past Perfect for earlier past action (ii correct). 'Will be sleeping' = Future Continuous for ongoing future action (iii correct). 'I am going' = Present Continuous, NOT Past Continuous (iv incorrect — Past Continuous would be 'I was going')."
     },
     {
@@ -437,9 +437,9 @@
       "subject": "D",
       "questionText": "The following data shows the marks of 5 students:\n\nA → 75, 80\nB → 60, 70\nC → 85, 90\nD → 70, 65\nE → 80, 75\n\nWho has the highest total marks?",
       "options": [
-        "C",
         "A",
         "E",
+        "C",
         "B"
       ],
       "correctAnswer": "C",
@@ -448,25 +448,25 @@
     {
       "id": "35",
       "subject": "B",
-      "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) It is the longest written constitution in the world.\n(ii) It was adopted on 26 November 1949.\n(iii) Dr. B.R. Ambedkar chaired the Drafting Committee.\n(iv) It came into force on 15 August 1947.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) It is the longest written constitution in the world.\n(ii) It was adopted on 26 November 1949.\n(iii) It came into force on 15 August 1947.\n(iv) Dr. B.R. Ambedkar chaired the Drafting Committee.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Indian Constitution is the world's longest written constitution (i correct). It was adopted on 26 November 1949 (celebrated as Constitution Day) (ii correct). Dr. Ambedkar chaired the Drafting Committee (iii correct). Statement (iv) is incorrect — it came into force on 26 JANUARY 1950 (Republic Day), not 15 August 1947 (Independence Day)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The Indian Constitution is the world's longest written constitution (i correct). It was adopted on 26 November 1949 (celebrated as Constitution Day) (ii correct). Dr. Ambedkar chaired the Drafting Committee (iii correct). Statement (iii) is incorrect — it came into force on 26 JANUARY 1950 (Republic Day), not 15 August 1947 (Independence Day)."
     },
     {
       "id": "36",
       "subject": "C",
       "questionText": "Which of the following tourist destinations are in the Kashmir Valley (not Jammu or Ladakh)?\n\n(i) Pahalgam\n(ii) Vaishno Devi\n(iii) Sonamarg\n(iv) Hemis Monastery\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iii) only",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i) and (iii) only"
       ],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "Pahalgam is in Anantnag district, Kashmir Valley (i correct). Sonamarg is in Ganderbal district, Kashmir Valley (iii correct). Vaishno Devi (ii) is in REASI, Jammu division — not Kashmir Valley. Hemis Monastery (iv) is in LEH, Ladakh — not Kashmir Valley."
@@ -489,10 +489,10 @@
       "subject": "D",
       "questionText": "Pointing to a lady, Ajay said, 'She is the wife of my father's only son.' How is the lady related to Ajay?",
       "options": [
-        "Wife",
         "Mother",
         "Sister",
-        "Daughter-in-law"
+        "Daughter-in-law",
+        "Wife"
       ],
       "correctAnswer": "Wife",
       "explanation": "Father's only son = Ajay himself (since he is the only son). Wife of Ajay = the lady is Ajay's wife. 'Mother' would be father's wife. 'Sister' would be father's daughter. 'Daughter-in-law' would be his son's wife."
@@ -528,8 +528,8 @@
       "subject": "A",
       "questionText": "Choose the correct word: She __________ the entire poem before the class.",
       "options": [
-        "recited",
         "resided",
+        "recited",
         "resited",
         "receded"
       ],
@@ -541,8 +541,8 @@
       "subject": "D",
       "questionText": "The LCM of 12, 15, and 20 is:",
       "options": [
-        "60",
         "120",
+        "60",
         "180",
         "30"
       ],
@@ -554,8 +554,8 @@
       "subject": "B",
       "questionText": "Match the following diseases with their causative organisms:\n\nColumn I:\n(a) Malaria\n(b) Tuberculosis\n(c) Typhoid\n(d) COVID-19\n\nColumn II:\n(i) SARS-CoV-2 (virus)\n(ii) Salmonella typhi (bacteria)\n(iii) Plasmodium (protozoan)\n(iv) Mycobacterium (bacteria)\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
@@ -565,15 +565,15 @@
     {
       "id": "44",
       "subject": "A",
-      "questionText": "Which of the following are correct uses of the word 'bark'?\n\n(i) The bark of the tree was rough. (bark = outer covering of tree)\n(ii) The dog's bark woke everyone up. (bark = sound a dog makes)\n(iii) He decided to bark the car in the garage. (incorrect — should be 'park')\n(iv) The bark sailed across the sea. (bark = a type of sailing vessel)\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correct uses of the word 'bark'?\n\n(i) He decided to bark the car in the garage. (incorrect — should be 'park')\n(ii) The bark of the tree was rough. (bark = outer covering of tree)\n(iii) The dog's bark woke everyone up. (bark = sound a dog makes)\n(iv) The bark sailed across the sea. (bark = a type of sailing vessel)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
-        "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "'Bark' as tree covering (i correct — homonym). 'Bark' as dog sound (ii correct — homonym). 'Bark' as a sailing vessel/boat (iv correct — less common homonym). Statement (iii) is INCORRECT — 'bark the car' is wrong; the correct word is 'park the car'. 'Bark' has no meaning related to parking."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "'Bark' as tree covering (i correct — homonym). 'Bark' as dog sound (ii correct — homonym). 'Bark' as a sailing vessel/boat (iv correct — less common homonym). Statement (i) is INCORRECT — 'bark the car' is wrong; the correct word is 'park the car'. 'Bark' has no meaning related to parking."
     },
     {
       "id": "45",
@@ -591,24 +591,24 @@
     {
       "id": "46",
       "subject": "B",
-      "questionText": "Consider the following statements about sound:\n\n(i) Sound needs a medium to travel.\n(ii) Sound travels fastest in solids.\n(iii) Sound can travel through a vacuum.\n(iv) The speed of sound in air is approximately 343 m/s.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about sound:\n\n(i) Sound needs a medium to travel.\n(ii) Sound can travel through a vacuum.\n(iii) Sound travels fastest in solids.\n(iv) The speed of sound in air is approximately 343 m/s.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Sound requires a medium (mechanical wave) (i correct). Sound is fastest in solids (closely packed particles) (ii correct). Speed in air ≈ 343 m/s at room temperature (iv correct). Statement (iii) is incorrect — sound CANNOT travel through a vacuum (no particles to vibrate)."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Sound requires a medium (mechanical wave) (i correct). Sound is fastest in solids (closely packed particles) (ii correct). Speed in air ≈ 343 m/s at room temperature (iv correct). Statement (ii) is incorrect — sound CANNOT travel through a vacuum (no particles to vibrate)."
     },
     {
       "id": "47",
       "subject": "E",
       "questionText": "Consider the following statements about phishing:\n\n(i) Phishing uses fake emails or websites to steal personal information.\n(ii) Phishing emails often impersonate banks or trusted organizations.\n(iii) Phishing can only occur through email, never through SMS.\n(iv) Not clicking on suspicious links is a good defence against phishing.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -619,10 +619,10 @@
       "subject": "C",
       "questionText": "The Salal Hydroelectric Project on the Chenab River has an installed capacity of:",
       "options": [
-        "690 MW",
         "480 MW",
         "330 MW",
-        "240 MW"
+        "240 MW",
+        "690 MW"
       ],
       "correctAnswer": "690 MW",
       "explanation": "Salal HEP on the Chenab in Reasi has 690 MW installed capacity — the largest operating hydro project in J&K. 480 MW is Uri-I (on Jhelum). 330 MW is Kishanganga. 240 MW is Uri-II."
@@ -633,9 +633,9 @@
       "questionText": "Choose the correct sentence:",
       "options": [
         "She has been working here since five years.",
-        "She has been working here for five years.",
         "She is working here since five years.",
-        "She was working here for five years."
+        "She was working here for five years.",
+        "She has been working here for five years."
       ],
       "correctAnswer": "She has been working here for five years.",
       "explanation": "'For' is used with duration ('five years'). 'Since' is used with a point in time ('since 2019'). Present Perfect Continuous ('has been working') with 'for' indicates an ongoing action from the past. 'Since five years' is grammatically incorrect (since needs a time point). 'Is working since' doesn't convey duration properly. 'Was working for' implies she no longer works there."
@@ -645,10 +645,10 @@
       "subject": "D",
       "questionText": "The following data shows distances covered by a car at different speeds:\n\n40 → 2, 80\n60 → 3, 180\n50 → 1.5, 75\n80 → 2, 160\n\nWhat is the total distance covered?",
       "options": [
-        "495 km",
         "400 km",
         "520 km",
-        "450 km"
+        "450 km",
+        "495 km"
       ],
       "correctAnswer": "495 km",
       "explanation": "Total distance = 80 + 180 + 75 + 160 = 495 km. Option 400 miscalculates one segment. Option 520 adds an extra amount. Option 450 drops 45 km somewhere."

@@ -8,9 +8,9 @@
       "subject": "D",
       "questionText": "Find the area of a rectangle with length 12 cm and breadth 8 cm.",
       "options": [
+        "96 cm²",
         "80 cm²",
         "92 cm²",
-        "96 cm²",
         "104 cm²"
       ],
       "correctAnswer": "96 cm²",
@@ -21,9 +21,9 @@
       "subject": "D",
       "questionText": "The perimeter of a square is 48 cm. What is its area?",
       "options": [
+        "144 cm²",
         "121 cm²",
         "132 cm²",
-        "144 cm²",
         "156 cm²"
       ],
       "correctAnswer": "144 cm²",
@@ -32,15 +32,15 @@
     {
       "id": "3",
       "subject": "D",
-      "questionText": "Consider the following statements about the area and perimeter of a circle:\n\n(i) Area of a circle = πr², where r is the radius.\n(ii) Circumference of a circle = 2πr.\n(iii) If the radius is doubled, the area becomes 4 times.\n(iv) If the radius is doubled, the circumference becomes 4 times.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the area and perimeter of a circle:\n\n(i) Area of a circle = πr², where r is the radius.\n(ii) If the radius is doubled, the circumference becomes 4 times.\n(iii) Circumference of a circle = 2πr.\n(iv) If the radius is doubled, the area becomes 4 times.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — standard formula for circle area. (ii) is correct — circumference formula. (iii) is correct — if r→2r, area = π(2r)² = 4πr² (4 times). (iv) is wrong — if r→2r, circumference = 2π(2r) = 4πr = 2 times the original (not 4 times)."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — standard formula for circle area. (iii) is correct — circumference formula. (iv) is correct — if r→2r, area = π(2r)² = 4πr² (4 times). (ii) is wrong — if r→2r, circumference = 2π(2r) = 4πr = 2 times the original (not 4 times)."
     },
     {
       "id": "4",
@@ -48,8 +48,8 @@
       "questionText": "Find the area of a triangle with base 10 cm and height 6 cm.",
       "options": [
         "25 cm²",
-        "28 cm²",
         "30 cm²",
+        "28 cm²",
         "32 cm²"
       ],
       "correctAnswer": "30 cm²",
@@ -73,13 +73,13 @@
       "subject": "D",
       "questionText": "Match the following shapes with their area formulas:\n\nColumn I:\n(a) Rectangle\n(b) Triangle\n(c) Circle\n(d) Parallelogram\n\nColumn II:\n(i) ½ × base × height\n(ii) πr²\n(iii) length × breadth\n(iv) base × height\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-      "explanation": "Rectangle area = length × breadth (iii). Triangle area = ½ × base × height (i). Circle area = πr² (ii). Parallelogram area = base × height (iv). Option 2 swaps rectangle and parallelogram. Option 3 swaps triangle and circle. Option 4 misplaces all."
+      "explanation": "Rectangle area = length × breadth (iii). Triangle area = ½ × base × height (i). Circle area = πr² (ii). Parallelogram area = base × height (iv). '(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)' swaps rectangle and parallelogram. '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' swaps triangle and circle. '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' misplaces all."
     },
     {
       "id": "7",
@@ -97,15 +97,15 @@
     {
       "id": "8",
       "subject": "D",
-      "questionText": "Consider the following statements about the volume of a cuboid:\n\n(i) Volume = length × breadth × height.\n(ii) Total surface area = 2(lb + bh + lh).\n(iii) If all three dimensions are equal, the cuboid becomes a cube.\n(iv) The diagonal of a cuboid = l + b + h.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the volume of a cuboid:\n\n(i) Volume = length × breadth × height.\n(ii) Total surface area = 2(lb + bh + lh).\n(iii) The diagonal of a cuboid = l + b + h.\n(iv) If all three dimensions are equal, the cuboid becomes a cube.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — V = l×b×h. (ii) is correct — TSA = 2(lb+bh+lh). (iii) is correct — when l=b=h, it's a cube. (iv) is wrong — diagonal of cuboid = √(l²+b²+h²), NOT l+b+h."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — V = l×b×h. (ii) is correct — TSA = 2(lb+bh+lh). (iv) is correct — when l=b=h, it's a cube. (iii) is wrong — diagonal of cuboid = √(l²+b²+h²), NOT l+b+h."
     },
     {
       "id": "9",
@@ -126,9 +126,9 @@
       "questionText": "A rectangular field is 40 m long and 30 m wide. What is the cost of fencing it at ₹15 per metre?",
       "options": [
         "₹1,800",
-        "₹2,100",
         "₹2,400",
-        "₹2,700"
+        "₹2,700",
+        "₹2,100"
       ],
       "correctAnswer": "₹2,100",
       "explanation": "Perimeter = 2(l+b) = 2(40+30) = 2×70 = 140 m. Cost = 140 × 15 = ₹2,100. Option ₹1,800 uses perimeter=120. Option ₹2,400 uses perimeter=160. Option ₹2,700 uses 18 per metre."
@@ -153,8 +153,8 @@
       "options": [
         "1,320 cm³",
         "1,440 cm³",
-        "1,540 cm³",
-        "1,680 cm³"
+        "1,680 cm³",
+        "1,540 cm³"
       ],
       "correctAnswer": "1,540 cm³",
       "explanation": "Volume of cylinder = πr²h = (22/7) × 7² × 10 = (22/7) × 49 × 10 = 22 × 7 × 10 = 1,540 cm³. Option 1,320 uses r=6. Option 1,440 uses wrong formula. Option 1,680 uses r=7.3."
@@ -162,23 +162,23 @@
     {
       "id": "13",
       "subject": "D",
-      "questionText": "Which of the following are correct formulas for the surface area of a sphere?\n\n(i) Total Surface Area = 4πr²\n(ii) Volume = (4/3)πr³\n(iii) Curved Surface Area = 2πr²\n(iv) Diameter = 2r\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correct formulas for the surface area of a sphere?\n\n(i) Total Surface Area = 4πr²\n(ii) Volume = (4/3)πr³\n(iii) Diameter = 2r\n(iv) Curved Surface Area = 2πr²\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — TSA of sphere = 4πr². (ii) is correct — volume of sphere formula. (iv) is correct — diameter = 2 × radius. (iii) is wrong — a sphere has no separate 'curved surface area' distinct from total surface area; its entire surface is curved, so CSA = TSA = 4πr². The value 2πr² is for a hemisphere's CSA."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — TSA of sphere = 4πr². (ii) is correct — volume of sphere formula. (iii) is correct — diameter = 2 × radius. (iv) is wrong — a sphere has no separate 'curved surface area' distinct from total surface area; its entire surface is curved, so CSA = TSA = 4πr². The value 2πr² is for a hemisphere's CSA."
     },
     {
       "id": "14",
       "subject": "D",
       "questionText": "A room is 8 m long, 6 m wide, and 3 m high. Find the area of its four walls.",
       "options": [
-        "72 m²",
         "84 m²",
+        "72 m²",
         "96 m²",
         "108 m²"
       ],
@@ -188,15 +188,15 @@
     {
       "id": "15",
       "subject": "D",
-      "questionText": "Consider the following statements about the properties of a rhombus:\n\n(i) All four sides are equal.\n(ii) Area = ½ × d₁ × d₂ (product of diagonals divided by 2).\n(iii) Diagonals bisect each other at right angles.\n(iv) All four angles are always 90°.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the properties of a rhombus:\n\n(i) All four angles are always 90°.\n(ii) All four sides are equal.\n(iii) Area = ½ × d₁ × d₂ (product of diagonals divided by 2).\n(iv) Diagonals bisect each other at right angles.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — all sides of a rhombus are equal. (ii) is correct — area = ½ × d₁ × d₂. (iii) is correct — diagonals bisect each other at 90°. (iv) is wrong — a rhombus does NOT always have 90° angles; only a square (special rhombus) has all right angles."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — all sides of a rhombus are equal. (iii) is correct — area = ½ × d₁ × d₂. (iv) is correct — diagonals bisect each other at 90°. (i) is wrong — a rhombus does NOT always have 90° angles; only a square (special rhombus) has all right angles."
     },
     {
       "id": "16",
@@ -204,8 +204,8 @@
       "questionText": "Find the area of a trapezium with parallel sides 12 cm and 8 cm, and height 5 cm.",
       "options": [
         "40 cm²",
-        "45 cm²",
         "50 cm²",
+        "45 cm²",
         "55 cm²"
       ],
       "correctAnswer": "50 cm²",
@@ -216,13 +216,13 @@
       "subject": "D",
       "questionText": "Match the following 3D shapes with their volume formulas:\n\nColumn I:\n(a) Cube\n(b) Cylinder\n(c) Cone\n(d) Sphere\n\nColumn II:\n(i) (4/3)πr³\n(ii) a³\n(iii) πr²h\n(iv) (1/3)πr²h\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-      "explanation": "Cube volume = a³ (ii). Cylinder volume = πr²h (iii). Cone volume = (1/3)πr²h (iv). Sphere volume = (4/3)πr³ (i). Option 2 swaps cube and cylinder. Option 3 swaps cylinder and cone. Option 4 swaps cube and sphere."
+      "explanation": "Cube volume = a³ (ii). Cylinder volume = πr²h (iii). Cone volume = (1/3)πr²h (iv). Sphere volume = (4/3)πr³ (i). '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' swaps cube and cylinder. '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' swaps cylinder and cone. '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' swaps cube and sphere."
     },
     {
       "id": "18",
@@ -243,8 +243,8 @@
       "questionText": "The diagonal of a square is 10√2 cm. Find the area of the square.",
       "options": [
         "80 cm²",
-        "90 cm²",
         "100 cm²",
+        "90 cm²",
         "110 cm²"
       ],
       "correctAnswer": "100 cm²",
@@ -268,9 +268,9 @@
       "subject": "D",
       "questionText": "Consider the following statements about the surface area of a cylinder:\n\n(i) Curved Surface Area (CSA) = 2πrh.\n(ii) Total Surface Area (TSA) = 2πr(r + h).\n(iii) TSA = CSA + 2πr² (adding two circular bases).\n(iv) CSA of a cylinder equals the area of the rectangle formed when the curved surface is unrolled.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "All of the above",
         "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "All of the above",
@@ -296,8 +296,8 @@
       "options": [
         "176.57 cm²",
         "185.14 cm²",
-        "188.57 cm²",
-        "192.86 cm²"
+        "192.86 cm²",
+        "188.57 cm²"
       ],
       "correctAnswer": "188.57 cm²",
       "explanation": "CSA of cone = πrl = (22/7) × 6 × 10 = 1320/7 = 188.57 cm². Option 176.57 uses l=9.4. Option 185.14 uses r=5.87. Option 192.86 uses different values."
@@ -322,8 +322,8 @@
       "options": [
         "15 m",
         "18 m",
-        "20 m",
-        "22 m"
+        "22 m",
+        "20 m"
       ],
       "correctAnswer": "20 m",
       "explanation": "Perimeter = 2(l+b). 100 = 2(30+b). 50 = 30+b. b = 20 m. Option 15: 2(30+15)=90≠100. Option 18: 2(30+18)=96≠100. Option 22: 2(30+22)=104≠100."
@@ -333,10 +333,10 @@
       "subject": "D",
       "questionText": "Consider the following statements about the hemisphere:\n\n(i) Volume of hemisphere = (2/3)πr³.\n(ii) Curved Surface Area = 2πr².\n(iii) Total Surface Area = 3πr².\n(iv) A hemisphere is exactly half of a sphere.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "(ii), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "All of the above"
       ],
       "correctAnswer": "All of the above",
       "explanation": "(i) is correct — hemisphere volume = (2/3)πr³ (half of (4/3)πr³). (ii) is correct — CSA = 2πr² (half of sphere's 4πr²). (iii) is correct — TSA = CSA + base circle = 2πr² + πr² = 3πr². (iv) is correct — a hemisphere is the exact half of a sphere cut by a plane through the centre."
@@ -346,9 +346,9 @@
       "subject": "D",
       "questionText": "Find the total surface area of a cube with edge 4 cm.",
       "options": [
+        "96 cm²",
         "64 cm²",
         "80 cm²",
-        "96 cm²",
         "112 cm²"
       ],
       "correctAnswer": "96 cm²",
@@ -365,7 +365,7 @@
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "Square perimeter = 4a (ii). Rectangle perimeter = 2(l+b) (i). Circle circumference = 2πr (iv). Equilateral triangle perimeter = 3a (iii). Option 2 swaps square and rectangle. Option 3 swaps rectangle and circle. Option 4 swaps square and triangle."
+      "explanation": "Square perimeter = 4a (ii). Rectangle perimeter = 2(l+b) (i). Circle circumference = 2πr (iv). Equilateral triangle perimeter = 3a (iii). '(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)' swaps square and rectangle. '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' swaps rectangle and circle. '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' swaps square and triangle."
     },
     {
       "id": "29",
@@ -373,8 +373,8 @@
       "questionText": "A circular path of width 3 m surrounds a circular garden of radius 10 m. Find the area of the path. (Use π = 22/7)",
       "options": [
         "198 m²",
-        "207.43 m²",
         "216.86 m²",
+        "207.43 m²",
         "225 m²"
       ],
       "correctAnswer": "216.86 m²",
@@ -385,8 +385,8 @@
       "subject": "D",
       "questionText": "Consider the following statements about the volume of a sphere:\n\n(i) Volume = (4/3)πr³.\n(ii) If radius is doubled, volume becomes 8 times.\n(iii) If radius is halved, volume becomes 1/8th.\n(iv) If radius is tripled, volume becomes 9 times.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
@@ -399,8 +399,8 @@
       "questionText": "A rectangular tank is 10 m long, 5 m wide, and 4 m deep. How many cubic metres of water can it hold?",
       "options": [
         "150 m³",
-        "180 m³",
         "200 m³",
+        "180 m³",
         "220 m³"
       ],
       "correctAnswer": "200 m³",
@@ -435,15 +435,15 @@
     {
       "id": "34",
       "subject": "D",
-      "questionText": "Consider the following statements about converting between units of area:\n\n(i) 1 m² = 10,000 cm².\n(ii) 1 km² = 1,000,000 m².\n(iii) 1 hectare = 10,000 m².\n(iv) 1 m² = 100 cm².\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about converting between units of area:\n\n(i) 1 m² = 100 cm².\n(ii) 1 m² = 10,000 cm².\n(iii) 1 km² = 1,000,000 m².\n(iv) 1 hectare = 10,000 m².\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — 1 m = 100 cm, so 1 m² = 100² = 10,000 cm². (ii) is correct — 1 km = 1000 m, so 1 km² = 1000² = 1,000,000 m². (iii) is correct — 1 hectare = 10,000 m² by definition. (iv) is wrong — 1 m² = 10,000 cm², not 100 cm² (the error confuses linear with area conversion)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — 1 m = 100 cm, so 1 m² = 100² = 10,000 cm². (iii) is correct — 1 km = 1000 m, so 1 km² = 1000² = 1,000,000 m². (iv) is correct — 1 hectare = 10,000 m² by definition. (i) is wrong — 1 m² = 10,000 cm², not 100 cm² (the error confuses linear with area conversion)."
     },
     {
       "id": "35",
@@ -463,13 +463,13 @@
       "subject": "D",
       "questionText": "Match the following 3D shapes with their total surface area formulas:\n\nColumn I:\n(a) Cube (side a)\n(b) Cylinder (radius r, height h)\n(c) Sphere (radius r)\n(d) Cone (radius r, slant height l)\n\nColumn II:\n(i) 4πr²\n(ii) 6a²\n(iii) 2πr(r + h)\n(iv) πr(r + l)\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)"
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
-      "explanation": "Cube TSA = 6a² (ii). Cylinder TSA = 2πr(r+h) (iii). Sphere TSA = 4πr² (i). Cone TSA = πr(r+l) (iv). Option 2 swaps cube and cylinder. Option 3 swaps cylinder and cone. Option 4 swaps cube and sphere."
+      "explanation": "Cube TSA = 6a² (ii). Cylinder TSA = 2πr(r+h) (iii). Sphere TSA = 4πr² (i). Cone TSA = πr(r+l) (iv). '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' swaps cube and cylinder. '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' swaps cylinder and cone. '(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)' swaps cube and sphere."
     },
     {
       "id": "37",
@@ -478,8 +478,8 @@
       "options": [
         "120 cm³",
         "126 cm³",
-        "132 cm³",
-        "138 cm³"
+        "138 cm³",
+        "132 cm³"
       ],
       "correctAnswer": "132 cm³",
       "explanation": "Volume = (1/3)πr²h = (1/3)×(22/7)×9×14 = (1/3)×(22/7)×126 = (1/3)×396 = 132 cm³. Option 120 uses h=12.7. Option 126 uses wrong fraction. Option 138 uses r=3.1."
@@ -489,10 +489,10 @@
       "subject": "D",
       "questionText": "Consider the following statements about the area of a ring (annulus):\n\n(i) Area of ring = π(R² − r²) where R is outer radius and r is inner radius.\n(ii) Area of ring = π(R + r)(R − r).\n(iii) Both (i) and (ii) give the same result.\n(iv) Area of ring = 2π(R − r).\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "(i) is correct — area = π(R²−r²). (ii) is correct — factoring: π(R²−r²) = π(R+r)(R−r). (iii) is correct — (i) and (ii) are algebraically identical. (iv) is wrong — 2π(R−r) gives the difference of circumferences, not the area."
@@ -502,9 +502,9 @@
       "subject": "D",
       "questionText": "Fill in the blank: A cuboid with dimensions 6 cm × 4 cm × 3 cm has a volume of __________ cm³.",
       "options": [
+        "72 cm³",
         "62 cm³",
         "68 cm³",
-        "72 cm³",
         "78 cm³"
       ],
       "correctAnswer": "72 cm³",
@@ -529,8 +529,8 @@
       "questionText": "A sphere has a surface area of 616 cm². Find its radius. (Use π = 22/7)",
       "options": [
         "5 cm",
-        "6 cm",
         "7 cm",
+        "6 cm",
         "8 cm"
       ],
       "correctAnswer": "7 cm",
@@ -539,15 +539,15 @@
     {
       "id": "42",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) The area of a parallelogram with base 8 cm and height 5 cm is 40 cm².\n(ii) A parallelogram and a rectangle with the same base and height have the same area.\n(iii) The diagonals of a parallelogram always bisect each other.\n(iv) The area of a parallelogram equals base × slant side.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) The area of a parallelogram with base 8 cm and height 5 cm is 40 cm².\n(ii) The area of a parallelogram equals base × slant side.\n(iii) A parallelogram and a rectangle with the same base and height have the same area.\n(iv) The diagonals of a parallelogram always bisect each other.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — Area = base × height = 8×5 = 40 cm². (ii) is correct — both use base × height. (iii) is correct — diagonals of a parallelogram bisect each other. (iv) is wrong — area = base × PERPENDICULAR height, not base × slant side."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — Area = base × height = 8×5 = 40 cm². (iii) is correct — both use base × height. (iv) is correct — diagonals of a parallelogram bisect each other. (ii) is wrong — area = base × PERPENDICULAR height, not base × slant side."
     },
     {
       "id": "43",
@@ -580,9 +580,9 @@
       "subject": "D",
       "questionText": "Match the following with their correct values (Use π = 22/7):\n\nColumn I:\n(a) Area of circle with r = 21 cm\n(b) Circumference of circle with r = 14 cm\n(c) Volume of sphere with r = 3 cm\n(d) CSA of cylinder with r = 7 cm, h = 5 cm\n\nColumn II:\n(i) 88 cm\n(ii) 1386 cm²\n(iii) 220 cm²\n(iv) 113.14 cm³\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
@@ -594,8 +594,8 @@
       "questionText": "A room is 12 m long, 9 m wide, and 4 m high. Find the cost of painting its four walls at ₹25 per m².",
       "options": [
         "₹3,200",
-        "₹4,200",
         "₹4,800",
+        "₹4,200",
         "₹5,400"
       ],
       "correctAnswer": "₹4,200",
@@ -604,15 +604,15 @@
     {
       "id": "47",
       "subject": "D",
-      "questionText": "Consider the following statements about the relationship between a cylinder and a cone:\n\n(i) A cone has 1/3 the volume of a cylinder with the same base and height.\n(ii) The CSA of a cone (πrl) is always less than the CSA of a cylinder (2πrh) with same radius and height.\n(iii) A cone has one circular base; a cylinder has two.\n(iv) Both shapes have circular cross-sections.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the relationship between a cylinder and a cone:\n\n(i) A cone has 1/3 the volume of a cylinder with the same base and height.\n(ii) A cone has one circular base; a cylinder has two.\n(iii) The CSA of a cone (πrl) is always less than the CSA of a cylinder (2πrh) with same radius and height.\n(iv) Both shapes have circular cross-sections.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "(i) is correct — cone volume = (1/3) cylinder volume. (iii) is correct — cone has one base, cylinder has two. (iv) is correct — both have circular cross-sections parallel to the base. (ii) is wrong — it's not ALWAYS true; CSA of cone = πrl where l=√(r²+h²)>h, so πrl could exceed 2πrh when l>2h (i.e., when radius is large relative to height)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — cone volume = (1/3) cylinder volume. (ii) is correct — cone has one base, cylinder has two. (iv) is correct — both have circular cross-sections parallel to the base. (iii) is wrong — it's not ALWAYS true; CSA of cone = πrl where l=√(r²+h²)>h, so πrl could exceed 2πrh when l>2h (i.e., when radius is large relative to height)."
     },
     {
       "id": "48",
@@ -620,9 +620,9 @@
       "questionText": "The following data shows the dimensions of different rooms in a house:\n\nHall → 7, 5\nBedroom → 5, 4\nKitchen → 4, 3\nStudy → 3, 3\n\nWhat is the total floor area of all rooms combined?",
       "options": [
         "72 m²",
-        "76 m²",
         "80 m²",
-        "84 m²"
+        "84 m²",
+        "76 m²"
       ],
       "correctAnswer": "76 m²",
       "explanation": "Hall: 7×5=35. Bedroom: 5×4=20. Kitchen: 4×3=12. Study: 3×3=9. Total: 35+20+12+9 = 76 m². Option 72 miscalculates one room. Option 80 uses Hall=8×5=40. Option 84 uses Hall=7×6=42."
@@ -645,10 +645,10 @@
       "subject": "D",
       "questionText": "The following data shows the areas and perimeters of different shapes:\n\nSquare A → 64, 32\nRectangle B → 60, 34\nSquare C → 49, 28\nRectangle D → 48, 32\n\nWhich shape has the highest ratio of Area to Perimeter?",
       "options": [
-        "Square A",
         "Rectangle B",
         "Square C",
-        "Rectangle D"
+        "Rectangle D",
+        "Square A"
       ],
       "correctAnswer": "Square A",
       "explanation": "Ratio = Area/Perimeter. A: 64/32=2. B: 60/34=1.76. C: 49/28=1.75. D: 48/32=1.5. Square A has the highest ratio (2). This confirms the principle that squares are more area-efficient than rectangles with the same perimeter."

@@ -47,8 +47,8 @@
       "subject": "D",
       "questionText": "Match the following properties with their examples:\n\nColumn I:\n(a) Commutative property of addition\n(b) Associative property of multiplication\n(c) Distributive property\n(d) Identity element of multiplication\n\nColumn II:\n(i) a × (b + c) = ab + ac\n(ii) a + b = b + a\n(iii) (a × b) × c = a × (b × c)\n(iv) a × 1 = a\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
       ],
@@ -58,14 +58,14 @@
     {
       "id": "5",
       "subject": "D",
-      "questionText": "Which of the following numbers are divisible by both 3 and 4?\n\n(i) 132\n(ii) 156\n(iii) 248\n(iv) 180\n\nSelect the correct combination:",
+      "questionText": "Which of the following numbers are divisible by both 3 and 4?\n\n(i) 248\n(ii) 132\n(iii) 156\n(iv) 180\n\nSelect the correct combination:",
       "options": [
+        "(ii) and (iv) only",
+        "(ii), (iii) and (iv) only",
         "(i), (ii) and (iv) only",
-        "(i) and (iv) only",
-        "(i), (iii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
+      "correctAnswer": "(ii), (iii) and (iv) only",
       "explanation": "Divisible by both 3 and 4 means divisible by 12. 132: digit sum=6 (div by 3), last two digits 32 (div by 4) ✓ (i correct). 156: digit sum=12 (div by 3), last two digits 56 (div by 4) ✓ (ii correct). 248: digit sum=14 (NOT div by 3) ✗ (iii incorrect). 180: digit sum=9 (div by 3), last two digits 80 (div by 4) ✓ (iv correct). Options B and C are incomplete or include 248."
     },
     {
@@ -73,9 +73,9 @@
       "subject": "D",
       "questionText": "Simplify: 3/4 + 5/6 - 1/3",
       "options": [
-        "5/4",
         "15/12",
         "3/4",
+        "5/4",
         "7/6"
       ],
       "correctAnswer": "5/4",
@@ -86,9 +86,9 @@
       "subject": "D",
       "questionText": "The HCF of 36, 48, and 60 is:",
       "options": [
-        "12",
         "6",
         "24",
+        "12",
         "4"
       ],
       "correctAnswer": "12",
@@ -99,9 +99,9 @@
       "subject": "D",
       "questionText": "Consider the following statements about prime numbers:\n\n(i) 2 is the only even prime number.\n(ii) 1 is a prime number.\n(iii) There are infinitely many prime numbers.\n(iv) The sum of two prime numbers is always even.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i) and (iii) only",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i) and (iii) only",
         "All of the above"
       ],
       "correctAnswer": "(i) and (iii) only",
@@ -112,10 +112,10 @@
       "subject": "D",
       "questionText": "What is the value of √(144) + √(81) - √(25)?",
       "options": [
-        "16",
         "18",
         "14",
-        "20"
+        "20",
+        "16"
       ],
       "correctAnswer": "16",
       "explanation": "√144 = 12, √81 = 9, √25 = 5. So 12 + 9 - 5 = 16. Option 18 adds all three instead of subtracting. Option 14 uses √25=7 incorrectly. Option 20 uses √144=15 incorrectly."
@@ -138,10 +138,10 @@
       "subject": "D",
       "questionText": "Simplify: 125 × 8 ÷ 50 + 15 × 3 - 27",
       "options": [
-        "38",
         "42",
         "48",
-        "35"
+        "35",
+        "38"
       ],
       "correctAnswer": "38",
       "explanation": "BODMAS: 125×8=1000; 1000÷50=20; 15×3=45; Then 20+45-27=38. Option 42 adds 4 extra. Option 48 miscalculates the division. Option 35 subtracts too much."
@@ -177,8 +177,8 @@
       "subject": "D",
       "questionText": "The LCM of 15, 20, and 30 is:",
       "options": [
-        "60",
         "120",
+        "60",
         "30",
         "90"
       ],
@@ -188,24 +188,24 @@
     {
       "id": "15",
       "subject": "D",
-      "questionText": "Consider the following statements about divisibility rules:\n\n(i) A number is divisible by 6 if it is divisible by both 2 and 3.\n(ii) A number is divisible by 8 if its last three digits form a number divisible by 8.\n(iii) A number is divisible by 9 if the sum of its digits is divisible by 9.\n(iv) A number is divisible by 12 if it is divisible by both 2 and 6.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about divisibility rules:\n\n(i) A number is divisible by 6 if it is divisible by both 2 and 3.\n(ii) A number is divisible by 8 if its last three digits form a number divisible by 8.\n(iii) A number is divisible by 12 if it is divisible by both 2 and 6.\n(iv) A number is divisible by 9 if the sum of its digits is divisible by 9.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Statement (i) is correct — divisibility by 6 requires both 2 and 3. Statement (ii) is correct — check last three digits for divisibility by 8. Statement (iii) is correct — digit sum divisible by 9 means number is divisible by 9. Statement (iv) is incorrect — divisibility by 12 requires divisibility by BOTH 3 AND 4 (not 2 and 6, since 6=2×3 and checking 2 and 6 doesn't guarantee divisibility by 4)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Statement (i) is correct — divisibility by 6 requires both 2 and 3. Statement (ii) is correct — check last three digits for divisibility by 8. Statement (iv) is correct — digit sum divisible by 9 means number is divisible by 9. Statement (iii) is incorrect — divisibility by 12 requires divisibility by BOTH 3 AND 4 (not 2 and 6, since 6=2×3 and checking 2 and 6 doesn't guarantee divisibility by 4)."
     },
     {
       "id": "16",
       "subject": "D",
       "questionText": "What is the value of (2³ × 3²) ÷ (2 × 3)?",
       "options": [
-        "12",
         "6",
         "18",
+        "12",
         "8"
       ],
       "correctAnswer": "12",
@@ -216,9 +216,9 @@
       "subject": "D",
       "questionText": "Which of the following are irrational numbers?\n\n(i) √3\n(ii) 22/7\n(iii) π\n(iv) √16\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iii) only",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i) and (iii) only",
         "All of the above"
       ],
       "correctAnswer": "(i) and (iii) only",
@@ -229,9 +229,9 @@
       "subject": "D",
       "questionText": "Fill in the blank: The smallest number which when divided by 12, 15, and 20 leaves no remainder is __________.",
       "options": [
-        "60",
         "120",
         "180",
+        "60",
         "30"
       ],
       "correctAnswer": "60",
@@ -255,10 +255,10 @@
       "subject": "D",
       "questionText": "Simplify: (0.5)² + (0.3)² + (0.2)²",
       "options": [
-        "0.38",
         "0.36",
         "0.40",
-        "0.34"
+        "0.34",
+        "0.38"
       ],
       "correctAnswer": "0.38",
       "explanation": "(0.5)² = 0.25; (0.3)² = 0.09; (0.2)² = 0.04. Sum = 0.25 + 0.09 + 0.04 = 0.38. Option 0.36 misses 0.02. Option 0.40 adds incorrectly. Option 0.34 uses wrong squares."
@@ -268,10 +268,10 @@
       "subject": "D",
       "questionText": "What is the unit digit of 7⁹⁵?",
       "options": [
-        "3",
         "7",
         "1",
-        "9"
+        "9",
+        "3"
       ],
       "correctAnswer": "3",
       "explanation": "The unit digits of powers of 7 cycle: 7¹=7, 7²=9, 7³=3, 7⁴=1, then repeats (cycle of 4). 95÷4 = 23 remainder 3. So 7⁹⁵ has the same unit digit as 7³ = 3. Option 7 is the unit digit of 7¹. Option 1 is for powers divisible by 4. Option 9 is for 7²."
@@ -307,8 +307,8 @@
       "subject": "D",
       "questionText": "Match the following operations with their results:\n\nColumn I:\n(a) HCF(24, 36)\n(b) LCM(8, 12)\n(c) 15² - 12²\n(d) √(196)\n\nColumn II:\n(i) 14\n(ii) 12\n(iii) 81\n(iv) 24\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
@@ -320,8 +320,8 @@
       "subject": "D",
       "questionText": "A number when divided by 5 gives quotient 12 and remainder 3. The number is:",
       "options": [
-        "63",
         "60",
+        "63",
         "65",
         "57"
       ],
@@ -331,24 +331,24 @@
     {
       "id": "26",
       "subject": "D",
-      "questionText": "Consider the following statements about factors:\n\n(i) 1 is a factor of every number.\n(ii) Every number is a factor of itself.\n(iii) A number that has exactly two factors is called a prime number.\n(iv) The total number of factors of 12 is 4.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about factors:\n\n(i) 1 is a factor of every number.\n(ii) The total number of factors of 12 is 4.\n(iii) Every number is a factor of itself.\n(iv) A number that has exactly two factors is called a prime number.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Statement (i) is correct — 1 divides every number. Statement (ii) is correct — every number divides itself. Statement (iii) is correct — primes have exactly two factors (1 and itself). Statement (iv) is incorrect — factors of 12 are 1,2,3,4,6,12 = 6 factors, not 4."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct — 1 divides every number. Statement (iii) is correct — every number divides itself. Statement (iv) is correct — primes have exactly two factors (1 and itself). Statement (ii) is incorrect — factors of 12 are 1,2,3,4,6,12 = 6 factors, not 4."
     },
     {
       "id": "27",
       "subject": "D",
       "questionText": "Simplify: 999 × 99 + 999",
       "options": [
-        "99900",
         "100000",
         "99999",
+        "99900",
         "99000"
       ],
       "correctAnswer": "99900",
@@ -359,10 +359,10 @@
       "subject": "D",
       "questionText": "The following data shows the marks (out of 100) of 8 students in a mathematics test:\n45, 67, 82, 55, 73, 91, 38, 60\n\nWhat is the range of the data?",
       "options": [
-        "53",
         "45",
         "50",
-        "48"
+        "48",
+        "53"
       ],
       "correctAnswer": "53",
       "explanation": "Range = Maximum - Minimum = 91 - 38 = 53. Option 45 subtracts 82-37 incorrectly. Option 50 uses wrong max/min. Option 48 = 91-43 (wrong minimum)."
@@ -372,10 +372,10 @@
       "subject": "D",
       "questionText": "Which of the following numbers is a perfect cube?\n\n(i) 125\n(ii) 64\n(iii) 100\n(iv) 216\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii) and (iv) only",
       "explanation": "125 = 5³ (i correct). 64 = 4³ (ii correct). 216 = 6³ (iv correct). 100 is NOT a perfect cube — ³√100 ≈ 4.64, not a whole number (iii incorrect). Options B and C include 100 which is not a perfect cube."
@@ -398,10 +398,10 @@
       "subject": "D",
       "questionText": "What is the value of (17)² - (13)²?",
       "options": [
-        "120",
         "100",
         "130",
-        "110"
+        "110",
+        "120"
       ],
       "correctAnswer": "120",
       "explanation": "Using a²-b² = (a+b)(a-b): (17+13)(17-13) = 30×4 = 120. Option 100 = 10². Option 130 adds instead of using the formula. Option 110 uses wrong difference."
@@ -424,8 +424,8 @@
       "subject": "D",
       "questionText": "If 3ⁿ = 243, then the value of n is:",
       "options": [
-        "5",
         "4",
+        "5",
         "6",
         "3"
       ],
@@ -437,8 +437,8 @@
       "subject": "D",
       "questionText": "Consider the following statements about place value:\n\n(i) In 5,673, the place value of 6 is 600.\n(ii) In 5,673, the face value of 6 is 6.\n(iii) Place value of a digit depends on its position in the number.\n(iv) Face value and place value of a digit are always the same.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
@@ -450,8 +450,8 @@
       "subject": "D",
       "questionText": "What is the smallest 4-digit number divisible by 15?",
       "options": [
-        "1005",
         "1000",
+        "1005",
         "1020",
         "1050"
       ],
@@ -463,9 +463,9 @@
       "subject": "D",
       "questionText": "Match the following number types with their definitions:\n\nColumn I:\n(a) Composite number\n(b) Co-prime numbers\n(c) Perfect number\n(d) Twin primes\n\nColumn II:\n(i) Pair of numbers whose HCF is 1\n(ii) Primes that differ by 2\n(iii) A number equal to the sum of its proper divisors\n(iv) A number with more than two factors\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
@@ -476,9 +476,9 @@
       "subject": "D",
       "questionText": "Simplify: (256)^(1/4)",
       "options": [
-        "4",
         "8",
         "16",
+        "4",
         "2"
       ],
       "correctAnswer": "4",
@@ -489,10 +489,10 @@
       "subject": "D",
       "questionText": "Which of the following correctly represents the number 4,07,035 in words?",
       "options": [
-        "Four lakh seven thousand and thirty-five",
         "Forty-seven thousand thirty-five",
         "Four lakh seventy thousand thirty-five",
-        "Four crore seven thousand thirty-five"
+        "Four crore seven thousand thirty-five",
+        "Four lakh seven thousand and thirty-five"
       ],
       "correctAnswer": "Four lakh seven thousand and thirty-five",
       "explanation": "4,07,035 = 4 lakhs + 7 thousands + 0 hundreds + 35 = Four lakh seven thousand and thirty-five. 'Forty-seven thousand thirty-five' would be 47,035. 'Four lakh seventy thousand' would be 4,70,000+. 'Four crore' would be 4,00,00,000+."
@@ -502,10 +502,10 @@
       "subject": "D",
       "questionText": "Fill in the blank: The product of HCF and LCM of two numbers 12 and 18 is equal to __________.",
       "options": [
-        "216",
         "180",
         "108",
-        "144"
+        "144",
+        "216"
       ],
       "correctAnswer": "216",
       "explanation": "For any two numbers a and b: HCF × LCM = a × b. So HCF(12,18) × LCM(12,18) = 12 × 18 = 216. Verification: HCF=6, LCM=36, 6×36=216 ✓. Option 180 = 10×18. Option 108 = 6×18. Option 144 = 12×12."
@@ -515,10 +515,10 @@
       "subject": "D",
       "questionText": "The sum of three consecutive odd numbers is 99. The middle number is:",
       "options": [
-        "33",
         "31",
         "35",
-        "37"
+        "37",
+        "33"
       ],
       "correctAnswer": "33",
       "explanation": "Let the three consecutive odd numbers be (n-2), n, (n+2). Sum = 3n = 99, so n = 33. The numbers are 31, 33, 35. Middle number = 33. Option 31 is the smallest. Option 35 is the largest. Option 37 doesn't fit the equation."

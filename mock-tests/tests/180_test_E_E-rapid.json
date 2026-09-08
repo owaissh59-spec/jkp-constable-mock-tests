@@ -14,20 +14,20 @@
         "A type of network cable"
       ],
       "correctAnswer": "Software permanently stored on a hardware device's ROM",
-      "explanation": "Firmware is low-level software written into a device's ROM/flash, such as the BIOS, that controls the hardware. It is not antivirus software, not volatile memory (it persists without power), and certainly not a cable, so the first option is the only accurate description of firmware."
+      "explanation": "Firmware is low-level software written into a device's ROM/flash, such as the BIOS, that controls the hardware. It is not antivirus software, not volatile memory (it persists without power), and certainly not a cable, so 'Software permanently stored on a hardware device's ROM' is the only accurate description of firmware."
     },
     {
       "id": "2",
       "subject": "E",
       "questionText": "In MS Excel, the formula =SUMIF(A1:A10,\">50\") does which of the following?",
       "options": [
+        "Adds only the values greater than 50 in the range",
         "Counts the values greater than 50",
         "Adds all values in the range",
-        "Adds only the values greater than 50 in the range",
         "Returns the average of values greater than 50"
       ],
       "correctAnswer": "Adds only the values greater than 50 in the range",
-      "explanation": "SUMIF adds only those cells that satisfy the criterion, here values greater than 50. Counting would need COUNTIF; adding all values would need plain SUM; and averaging conditionally would need AVERAGEIF, so only the first option describes what SUMIF does."
+      "explanation": "SUMIF adds only those cells that satisfy the criterion, here values greater than 50. Counting would need COUNTIF; adding all values would need plain SUM; and averaging conditionally would need AVERAGEIF, so only 'Counts the values greater than 50' describes what SUMIF does."
     },
     {
       "id": "3",
@@ -61,9 +61,9 @@
       "questionText": "The process of starting or restarting a computer and loading the operating system into memory is called:",
       "options": [
         "Formatting",
+        "Booting",
         "Debugging",
-        "Compiling",
-        "Booting"
+        "Compiling"
       ],
       "correctAnswer": "Booting",
       "explanation": "Booting is the start-up process that loads the operating system into RAM. Formatting prepares a disk by erasing and structuring it; debugging is finding and fixing program errors; compiling converts source code to machine code, so none of those describes the start-up process named booting."
@@ -73,8 +73,8 @@
       "subject": "E",
       "questionText": "Consider the following statements about input and output devices:\n\n(i) A keyboard is an input device.\n(ii) A monitor is an output device.\n(iii) A touchscreen can act as both an input and an output device.\n(iv) A mouse is an output device.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
@@ -100,8 +100,8 @@
       "questionText": "Which key combination is commonly used to permanently delete a file in Windows without sending it to the Recycle Bin?",
       "options": [
         "Ctrl + Delete",
-        "Shift + Delete",
         "Alt + Delete",
+        "Shift + Delete",
         "Ctrl + Shift + N"
       ],
       "correctAnswer": "Shift + Delete",
@@ -110,25 +110,25 @@
     {
       "id": "9",
       "subject": "E",
-      "questionText": "Which of the following are examples of output devices?\n\n(i) Plotter\n(ii) Projector\n(iii) Microphone\n(iv) Headphones\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of output devices?\n\n(i) Microphone\n(ii) Plotter\n(iii) Projector\n(iv) Headphones\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A plotter, a projector and headphones all output information from the computer to the user. A microphone is an input device that captures sound, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)' as the correct set of output devices."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "A plotter, a projector and headphones all output information from the computer to the user. A microphone is an input device that captures sound, so any combination containing (i) is wrong, leaving '(ii), (iii) and (iv)' as the correct set of output devices."
     },
     {
       "id": "10",
       "subject": "E",
       "questionText": "In MS Word, the feature that automatically produces personalised letters or labels by combining a document with a data source is called:",
       "options": [
-        "Mail Merge",
         "Track Changes",
         "Find and Replace",
-        "Hyperlink"
+        "Hyperlink",
+        "Mail Merge"
       ],
       "correctAnswer": "Mail Merge",
       "explanation": "Mail Merge combines a main document with a data source (like a list of names) to generate many personalised copies. Track Changes records edits, Find and Replace edits text, and Hyperlink adds clickable links, so none of them performs the merging described."
@@ -140,8 +140,8 @@
       "options": [
         "Byte",
         "Nibble",
-        "Bit",
-        "Word"
+        "Word",
+        "Bit"
       ],
       "correctAnswer": "Bit",
       "explanation": "A bit is a single binary digit, the smallest unit of data. A nibble is four bits, a byte is eight bits, and a word is a group of bytes handled together, so all of these are larger than a bit, which is the smallest unit."
@@ -151,13 +151,13 @@
       "subject": "E",
       "questionText": "A 'phishing' attack is best described as:",
       "options": [
-        "Physically stealing a computer",
         "Tricking users into revealing sensitive information via fake messages",
+        "Physically stealing a computer",
         "Overheating a processor deliberately",
         "Speeding up internet connectivity"
       ],
       "correctAnswer": "Tricking users into revealing sensitive information via fake messages",
-      "explanation": "Phishing uses deceptive e-mails, messages or websites to trick people into revealing passwords or bank details. It is not physical theft, has nothing to do with overheating hardware, and does not improve connectivity, so the first option correctly defines phishing."
+      "explanation": "Phishing uses deceptive e-mails, messages or websites to trick people into revealing passwords or bank details. It is not physical theft, has nothing to do with overheating hardware, and does not improve connectivity, so 'Physically stealing a computer' correctly defines phishing."
     },
     {
       "id": "13",
@@ -177,10 +177,10 @@
       "subject": "E",
       "questionText": "In a spreadsheet, the intersection of a row and a column is called a:",
       "options": [
+        "Cell",
         "Range",
         "Sheet",
-        "Field",
-        "Cell"
+        "Field"
       ],
       "correctAnswer": "Cell",
       "explanation": "A cell is the single box formed where a row and a column intersect. A range is a group of cells, a sheet is the whole worksheet grid, and a field usually refers to a column in a database context, so 'cell' is the correct term for a single intersection."
@@ -188,15 +188,15 @@
     {
       "id": "15",
       "subject": "E",
-      "questionText": "Which of the following are valid types of computer network based on their geographical span?\n\n(i) LAN\n(ii) MAN\n(iii) WAN\n(iv) RAM\n\nSelect the correct combination:",
+      "questionText": "Which of the following are valid types of computer network based on their geographical span?\n\n(i) LAN\n(ii) RAM\n(iii) MAN\n(iv) WAN\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "LAN, MAN and WAN are networks classified by span (local, metropolitan and wide area). RAM is a type of memory, not a network, so any option containing (iv) is wrong, leaving '(i), (ii) and (iii)' as the valid network types."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "LAN, MAN and WAN are networks classified by span (local, metropolitan and wide area). RAM is a type of memory, not a network, so any option containing (ii) is wrong, leaving '(i), (iii) and (iv)' as the valid network types."
     },
     {
       "id": "16",
@@ -204,8 +204,8 @@
       "questionText": "Fill in the blank: In an e-mail, a file such as a document or image sent along with the message is called an __________. __________",
       "options": [
         "attribute",
-        "extension",
         "attachment",
+        "extension",
         "increment"
       ],
       "correctAnswer": "attachment",
@@ -217,8 +217,8 @@
       "questionText": "Which of the following storage devices uses flash memory and has no moving parts?",
       "options": [
         "Hard Disk Drive (HDD)",
-        "Solid State Drive (SSD)",
         "Magnetic tape",
+        "Solid State Drive (SSD)",
         "Floppy disk"
       ],
       "correctAnswer": "Solid State Drive (SSD)",
@@ -231,8 +231,8 @@
       "options": [
         "Charles Babbage",
         "Bill Gates",
-        "Vint Cerf",
-        "Tim Berners-Lee"
+        "Tim Berners-Lee",
+        "Vint Cerf"
       ],
       "correctAnswer": "Tim Berners-Lee",
       "explanation": "Tim Berners-Lee invented the World Wide Web in 1989 while at CERN. Charles Babbage designed early mechanical computers; Bill Gates co-founded Microsoft; and Vint Cerf is a co-designer of TCP/IP (the internet's protocols), not the Web, so Berners-Lee is the correct answer."
@@ -242,9 +242,9 @@
       "subject": "E",
       "questionText": "In MS PowerPoint, which view displays all the slides as small thumbnails to help rearrange them?",
       "options": [
-        "Slide Sorter view",
         "Normal view",
         "Reading view",
+        "Slide Sorter view",
         "Notes Page view"
       ],
       "correctAnswer": "Slide Sorter view",
@@ -257,8 +257,8 @@
       "options": [
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "System software manages hardware (i), a device driver is system software for a device (ii), and utilities like disk cleaners are a software category (iv). Statement (iii) is false because a word processor is application software, not system software, so any option containing (iii) is eliminated."
@@ -269,9 +269,9 @@
       "questionText": "The binary number 1010 is equal to which decimal number?",
       "options": [
         "8",
-        "10",
         "12",
-        "6"
+        "6",
+        "10"
       ],
       "correctAnswer": "10",
       "explanation": "1010 in binary = 1×8 + 0×4 + 1×2 + 0×1 = 8 + 2 = 10. '8' counts only the leftmost bit; '12' would need an extra set bit; and '6' comes from mis-weighting the digits, so 10 is the correct decimal value."
@@ -281,10 +281,10 @@
       "subject": "E",
       "questionText": "Which company originally developed the Android mobile operating system that Google later acquired and popularised?",
       "options": [
+        "Android Inc.",
         "Apple Inc.",
         "Nokia",
-        "Microsoft",
-        "Android Inc."
+        "Microsoft"
       ],
       "correctAnswer": "Android Inc.",
       "explanation": "Android was originally created by Android Inc., a start-up that Google acquired in 2005 before turning it into the leading mobile OS. Apple develops iOS, Nokia used Symbian, and Microsoft made Windows Phone, so none of them originally developed Android, making 'Android Inc.' the correct answer."
@@ -321,8 +321,8 @@
       "questionText": "Which of the following file formats is used mainly for compressed archive files?",
       "options": [
         ".txt",
-        ".bmp",
         ".zip",
+        ".bmp",
         ".exe"
       ],
       "correctAnswer": ".zip",
@@ -348,8 +348,8 @@
       "options": [
         "Freeware",
         "Firmware",
-        "Malware",
-        "Shareware"
+        "Shareware",
+        "Malware"
       ],
       "correctAnswer": "Shareware",
       "explanation": "Shareware is distributed free for a trial, then requires payment for continued full use. Freeware remains completely free, firmware is embedded device software, and malware is malicious software, so shareware is the correct answer for trial-then-pay software."
@@ -359,9 +359,9 @@
       "subject": "E",
       "questionText": "The main circuit board of a computer, into which the CPU, memory and other components are connected, is called the:",
       "options": [
-        "Motherboard",
         "Hard disk",
         "Power supply",
+        "Motherboard",
         "Expansion card"
       ],
       "correctAnswer": "Motherboard",
@@ -383,15 +383,15 @@
     {
       "id": "30",
       "subject": "E",
-      "questionText": "Which of the following are good practices for safe internet banking?\n\n(i) Logging out after completing a transaction.\n(ii) Using the bank's official website or app.\n(iii) Sharing the OTP with a caller who claims to be a bank official.\n(iv) Avoiding banking on public/unsecured Wi-Fi.\n\nSelect the correct combination:",
+      "questionText": "Which of the following are good practices for safe internet banking?\n\n(i) Logging out after completing a transaction.\n(ii) Using the bank's official website or app.\n(iii) Avoiding banking on public/unsecured Wi-Fi.\n(iv) Sharing the OTP with a caller who claims to be a bank official.\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Logging out (i), using official channels (ii) and avoiding public Wi-Fi (iv) are safe banking practices. Sharing an OTP with any caller (iii) is dangerous and a common fraud tactic, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)'."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Logging out (i), using official channels (ii) and avoiding public Wi-Fi (iii) are safe banking practices. Sharing an OTP with any caller (iv) is dangerous and a common fraud tactic, so any combination containing (iv) is wrong, leaving '(i), (ii) and (iii)'."
     },
     {
       "id": "31",
@@ -404,16 +404,16 @@
         "Graphical User Interface"
       ],
       "correctAnswer": "Graphical User Interface",
-      "explanation": "GUI stands for Graphical User Interface, which lets users interact through icons, windows and menus rather than text commands. 'General Utility Interface', 'Global Unified Internet' and 'Guided User Input' are not the correct expansion, so the first option is right."
+      "explanation": "GUI stands for Graphical User Interface, which lets users interact through icons, windows and menus rather than text commands. 'General Utility Interface', 'Global Unified Internet' and 'Guided User Input' are not the correct expansion, so 'General Utility Interface' is right."
     },
     {
       "id": "32",
       "subject": "E",
       "questionText": "In MS Excel, if cell A1 contains 10 and A2 contains 20, what will =AVERAGE(A1:A2)*2 return?",
       "options": [
+        "30",
         "15",
         "45",
-        "30",
         "60"
       ],
       "correctAnswer": "30",
@@ -430,7 +430,7 @@
         "Is a piece of hardware"
       ],
       "correctAnswer": "Can spread across networks without attaching to a host file",
-      "explanation": "A worm is self-replicating malware that spreads over networks on its own, without needing to attach to a host file as a virus does. It is not limited to printers, it certainly can replicate, and it is software not hardware, so the first option correctly distinguishes a worm."
+      "explanation": "A worm is self-replicating malware that spreads over networks on its own, without needing to attach to a host file as a virus does. It is not limited to printers, it certainly can replicate, and it is software not hardware, so 'Only affects printers' correctly distinguishes a worm."
     },
     {
       "id": "34",
@@ -438,9 +438,9 @@
       "questionText": "Which generation of computers is associated with the use of microprocessors (VLSI technology)?",
       "options": [
         "First generation",
+        "Fourth generation",
         "Second generation",
-        "Third generation",
-        "Fourth generation"
+        "Third generation"
       ],
       "correctAnswer": "Fourth generation",
       "explanation": "Fourth-generation computers used microprocessors built with VLSI (Very Large Scale Integration). The first generation used vacuum tubes, the second used transistors, and the third used integrated circuits, so the microprocessor era belongs to the fourth generation."
@@ -451,8 +451,8 @@
       "questionText": "The default file extension for a workbook created in modern versions of MS Excel is:",
       "options": [
         ".docx",
-        ".pptx",
         ".xlsx",
+        ".pptx",
         ".accdb"
       ],
       "correctAnswer": ".xlsx",
@@ -461,15 +461,15 @@
     {
       "id": "36",
       "subject": "E",
-      "questionText": "Consider the following statements about e-mail:\n\n(i) CC stands for Carbon Copy.\n(ii) BCC keeps the listed recipients hidden from one another.\n(iii) An e-mail can carry file attachments.\n(iv) SMTP is the protocol used to receive incoming e-mail.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about e-mail:\n\n(i) SMTP is the protocol used to receive incoming e-mail.\n(ii) CC stands for Carbon Copy.\n(iii) BCC keeps the listed recipients hidden from one another.\n(iv) An e-mail can carry file attachments.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "CC means Carbon Copy (i), BCC hides recipients from each other (ii), and e-mails can include attachments (iii). Statement (iv) is false because SMTP is used to send outgoing mail while POP3/IMAP retrieve incoming mail, so any option containing (iv) is eliminated, leaving '(i), (ii) and (iii)'."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "CC means Carbon Copy (ii), BCC hides recipients from each other (iii), and e-mails can include attachments (iv). Statement (i) is false because SMTP is used to send outgoing mail while POP3/IMAP retrieve incoming mail, so any option containing (i) is eliminated, leaving '(ii), (iii) and (iv)'."
     },
     {
       "id": "37",
@@ -478,8 +478,8 @@
       "options": [
         "ROM",
         "Hard disk",
-        "DVD",
-        "RAM"
+        "RAM",
+        "DVD"
       ],
       "correctAnswer": "RAM",
       "explanation": "RAM is volatile and loses its stored data when power is removed. ROM is non-volatile firmware memory, and a hard disk and a DVD are non-volatile secondary storage that keep data without power, so RAM is the only volatile option listed."
@@ -491,8 +491,8 @@
       "options": [
         "Password of the account",
         "Subject of the message",
-        "Domain name of the mail server",
-        "Size of the mailbox"
+        "Size of the mailbox",
+        "Domain name of the mail server"
       ],
       "correctAnswer": "Domain name of the mail server",
       "explanation": "In an e-mail address, the text after the '@' is the domain name identifying the mail server or organisation. It is not the password, not the subject line, and not the mailbox size, so the domain name is the correct meaning of that part of the address."
@@ -503,12 +503,12 @@
       "questionText": "Which of the following best defines 'cloud storage'?",
       "options": [
         "Storing data only on the local hard disk",
-        "Storing data on remote servers accessed over the internet",
         "A method of cooling the CPU",
-        "A type of computer virus"
+        "A type of computer virus",
+        "Storing data on remote servers accessed over the internet"
       ],
       "correctAnswer": "Storing data on remote servers accessed over the internet",
-      "explanation": "Cloud storage keeps data on remote servers that users reach over the internet, as with Google Drive or OneDrive. It is not local-disk storage, has nothing to do with CPU cooling, and is not a virus, so the first option correctly defines cloud storage."
+      "explanation": "Cloud storage keeps data on remote servers that users reach over the internet, as with Google Drive or OneDrive. It is not local-disk storage, has nothing to do with CPU cooling, and is not a virus, so 'Storing data only on the local hard disk' correctly defines cloud storage."
     },
     {
       "id": "40",

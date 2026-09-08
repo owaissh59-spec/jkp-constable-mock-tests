@@ -19,15 +19,15 @@
     {
       "id": "2",
       "subject": "E",
-      "questionText": "Consider the following statements about MS Excel:\n\n(i) A cell is identified by its column letter and row number (e.g., A1, B3).\n(ii) The formula bar displays the content or formula of the active cell.\n(iii) Excel 2007+ supports a maximum of 1,048,576 rows per worksheet.\n(iv) The SUM function can only add numbers in a single column.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about MS Excel:\n\n(i) A cell is identified by its column letter and row number (e.g., A1, B3).\n(ii) The formula bar displays the content or formula of the active cell.\n(iii) The SUM function can only add numbers in a single column.\n(iv) Excel 2007+ supports a maximum of 1,048,576 rows per worksheet.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (iii) only",
+        "(i) and (iv) only",
         "(ii), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Cells use column-letter + row-number (i correct). Formula bar shows active cell content (ii correct). Excel 2007+ has 1,048,576 rows (iii correct). (iv) is wrong because SUM can add numbers across multiple columns, rows, or non-contiguous ranges (e.g., =SUM(A1:C5)). Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Cells use column-letter + row-number (i correct). Formula bar shows active cell content (ii correct). Excel 2007+ has 1,048,576 rows (iii correct). (iii) is wrong because SUM can add numbers across multiple columns, rows, or non-contiguous ranges (e.g., =SUM(A1:C5)). '(i), (ii), (iv) and (iii)' includes (iii). '(i) and (iv) only' excludes (ii). '(ii), (iv) and (iii) only' includes (iii)."
     },
     {
       "id": "3",
@@ -40,41 +40,41 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "SSDs are indeed faster than HDDs (A correct). They use flash memory with no mechanical parts versus HDD's spinning disks (R correct), and this absence of mechanical latency is exactly why SSDs are faster (R explains A). Option 2 is wrong because R directly explains the speed difference. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "SSDs are indeed faster than HDDs (A correct). They use flash memory with no mechanical parts versus HDD's spinning disks (R correct), and this absence of mechanical latency is exactly why SSDs are faster (R explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains the speed difference. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "4",
       "subject": "E",
       "questionText": "Match the following keyboard shortcuts with their functions in MS Word:\n\nColumn I:\n(a) Ctrl+B\n(b) Ctrl+I\n(c) Ctrl+U\n(d) Ctrl+E\n\nColumn II:\n(i) Underline text\n(ii) Bold text\n(iii) Center align text\n(iv) Italicize text\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-      "explanation": "Ctrl+B = Bold (ii). Ctrl+I = Italic (iv). Ctrl+U = Underline (i). Ctrl+E = Center align (iii). Option 2 swaps Bold and Italic. Option 3 assigns Italic to Underline. Option 4 assigns Bold to Underline."
+      "explanation": "Ctrl+B = Bold (ii). Ctrl+I = Italic (iv). Ctrl+U = Underline (i). Ctrl+E = Center align (iii). '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' swaps Bold and Italic. '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)' assigns Italic to Underline. '(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)' assigns Bold to Underline."
     },
     {
       "id": "5",
       "subject": "E",
       "questionText": "Which of the following are types of computer networks?\n\n(i) LAN (Local Area Network)\n(ii) WAN (Wide Area Network)\n(iii) MAN (Metropolitan Area Network)\n(iv) PAN (Personal Area Network)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
         "(i) and (ii) only",
         "(ii), (iii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
-      "explanation": "LAN covers a small area like a building (i correct). WAN covers large geographic areas (ii correct). MAN covers a city (iii correct). PAN covers personal space like Bluetooth range (iv correct). All four are valid network types. Option 2 excludes PAN. Option 3 excludes MAN and PAN. Option 4 excludes LAN."
+      "explanation": "LAN covers a small area like a building (i correct). WAN covers large geographic areas (ii correct). MAN covers a city (iii correct). PAN covers personal space like Bluetooth range (iv correct). All four are valid network types. '(i), (ii) and (iii) only' excludes PAN. '(i) and (ii) only' excludes MAN and PAN. '(ii), (iii) and (iv) only' excludes LAN."
     },
     {
       "id": "6",
       "subject": "E",
       "questionText": "The 'CC' field in an email stands for:",
       "options": [
-        "Carbon Copy",
         "Computer Copy",
+        "Carbon Copy",
         "Certified Copy",
         "Central Copy"
       ],
@@ -84,24 +84,24 @@
     {
       "id": "7",
       "subject": "E",
-      "questionText": "Consider the following statements about operating systems:\n\n(i) Windows, Linux, and macOS are examples of operating systems.\n(ii) An operating system manages hardware resources and provides a user interface.\n(iii) An operating system is an example of application software.\n(iv) Multitasking OS can run multiple programs simultaneously.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system is an example of application software.\n(ii) Windows, Linux, and macOS are examples of operating systems.\n(iii) An operating system manages hardware resources and provides a user interface.\n(iv) Multitasking OS can run multiple programs simultaneously.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (iv) only",
-        "(ii), (iii) and (iv) only"
+        "(ii), (iii) and (iv) only",
+        "(ii) and (iv) only",
+        "(i), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "Windows/Linux/macOS are OSes (i correct). OS manages hardware and provides interface (ii correct). Multitasking enables multiple programs (iv correct). (iii) is wrong because an OS is SYSTEM software, not application software. Option 2 includes (iii). Option 3 excludes (ii). Option 4 includes (iii)."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "Windows/Linux/macOS are OSes (i correct). OS manages hardware and provides interface (ii correct). Multitasking enables multiple programs (iv correct). (i) is wrong because an OS is SYSTEM software, not application software. '(ii), (iii), (i) and (iv)' includes (i). '(ii) and (iv) only' excludes (iii). '(iii), (i) and (iv) only' includes (i)."
     },
     {
       "id": "8",
       "subject": "E",
       "questionText": "The extension '.xlsx' is associated with which software?",
       "options": [
-        "MS Excel",
         "MS Word",
         "MS PowerPoint",
+        "MS Excel",
         "MS Access"
       ],
       "correctAnswer": "MS Excel",
@@ -118,16 +118,16 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Viruses need human action/host to spread (A correct). R explains this by contrasting with worms and stating the activation mechanism (R correct and explains A). Option 2 is wrong because R directly explains the mechanism in A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "Viruses need human action/host to spread (A correct). R explains this by contrasting with worms and stating the activation mechanism (R correct and explains A). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R directly explains the mechanism in A. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "10",
       "subject": "E",
       "questionText": "The 'BCC' field in an email differs from 'CC' because:",
       "options": [
-        "BCC recipients are hidden from other recipients",
         "BCC allows attaching larger files",
         "BCC sends the email faster",
+        "BCC recipients are hidden from other recipients",
         "BCC encrypts the message content"
       ],
       "correctAnswer": "BCC recipients are hidden from other recipients",
@@ -138,22 +138,22 @@
       "subject": "E",
       "questionText": "Match the following file extensions with their associated applications:\n\nColumn I:\n(a) .pdf\n(b) .pptx\n(c) .html\n(d) .mp3\n\nColumn II:\n(i) Web page\n(ii) Audio file\n(iii) Presentation\n(iv) Document (portable format)\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
-      "explanation": ".pdf = Portable Document Format (iv). .pptx = PowerPoint presentation (iii). .html = web page (i). .mp3 = audio (ii). Option 2 swaps pdf and pptx. Option 3 assigns pptx to web page. Option 4 assigns pdf to audio."
+      "explanation": ".pdf = Portable Document Format (iv). .pptx = PowerPoint presentation (iii). .html = web page (i). .mp3 = audio (ii). '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' swaps pdf and pptx. '(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)' assigns pptx to web page. '(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)' assigns pdf to audio."
     },
     {
       "id": "12",
       "subject": "E",
       "questionText": "The function =VLOOKUP in MS Excel is used to:",
       "options": [
-        "Search for a value in the first column and return a value from a specified column",
         "Add values vertically in a column",
         "Sort data in ascending order",
+        "Search for a value in the first column and return a value from a specified column",
         "Create vertical charts"
       ],
       "correctAnswer": "Search for a value in the first column and return a value from a specified column",
@@ -162,25 +162,25 @@
     {
       "id": "13",
       "subject": "E",
-      "questionText": "Consider the following statements about internet protocols:\n\n(i) HTTP stands for HyperText Transfer Protocol.\n(ii) HTTPS is the secure version of HTTP using encryption.\n(iii) FTP is used for transferring files between computers.\n(iv) SMTP is used for receiving emails.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about internet protocols:\n\n(i) HTTP stands for HyperText Transfer Protocol.\n(ii) SMTP is used for receiving emails.\n(iii) HTTPS is the secure version of HTTP using encryption.\n(iv) FTP is used for transferring files between computers.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (ii) only",
-        "(ii), (iii) and (iv) only"
+        "(i) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "HTTP = HyperText Transfer Protocol (i correct). HTTPS adds SSL/TLS encryption (ii correct). FTP transfers files (iii correct). (iv) is wrong because SMTP is for SENDING emails; POP3/IMAP are for receiving. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "HTTP = HyperText Transfer Protocol (i correct). HTTPS adds SSL/TLS encryption (ii correct). FTP transfers files (iii correct). (ii) is wrong because SMTP is for SENDING emails; POP3/IMAP are for receiving. '(i), (iii), (iv) and (ii)' includes (ii). '(i) and (iii) only' excludes (iv). '(iii), (iv) and (ii) only' includes (ii)."
     },
     {
       "id": "14",
       "subject": "E",
       "questionText": "Fill in the blank: The smallest unit of digital information is a __________.",
       "options": [
-        "Bit",
         "Byte",
         "Nibble",
-        "Word"
+        "Word",
+        "Bit"
       ],
       "correctAnswer": "Bit",
       "explanation": "A bit (binary digit, 0 or 1) is the smallest unit of data. 'Byte' is wrong — a byte is 8 bits. 'Nibble' is wrong — a nibble is 4 bits. 'Word' is wrong — a word is typically 16, 32, or 64 bits."
@@ -196,17 +196,17 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "A printer is an output device (A correct). It produces hard copy output from digital data (R correct and explains why it's classified as output — it converts digital signals into human-readable form). Option 2 is wrong because R explains the classification. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "A printer is an output device (A correct). It produces hard copy output from digital data (R correct and explains why it's classified as output — it converts digital signals into human-readable form). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R explains the classification. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "16",
       "subject": "E",
       "questionText": "Which of the following is NOT a web browser?",
       "options": [
-        "Oracle",
         "Google Chrome",
         "Mozilla Firefox",
-        "Microsoft Edge"
+        "Microsoft Edge",
+        "Oracle"
       ],
       "correctAnswer": "Oracle",
       "explanation": "Oracle is a database management system / software company, not a web browser. 'Google Chrome' is wrong — it IS a web browser. 'Mozilla Firefox' is wrong — it IS a browser. 'Microsoft Edge' is wrong — it IS a browser."
@@ -216,13 +216,13 @@
       "subject": "E",
       "questionText": "Consider the following statements about MS Word features:\n\n(i) Mail Merge allows creating personalized letters for multiple recipients.\n(ii) Track Changes highlights edits made to a document.\n(iii) The maximum page size in MS Word is A4 only.\n(iv) Headers and Footers appear at the top and bottom of every page.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii), (iii) and (iv)",
         "(i) and (iv) only",
-        "(ii), (iii) and (iv) only"
+        "(ii), (iii) and (iv) only",
+        "(i), (ii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "Mail Merge creates personalized documents (i correct). Track Changes shows edits (ii correct). Headers/Footers appear on every page (iv correct). (iii) is wrong because Word supports many page sizes (A3, A5, Letter, Legal, Custom, etc.), not just A4. Option 2 includes (iii). Option 3 excludes (ii). Option 4 includes (iii)."
+      "explanation": "Mail Merge creates personalized documents (i correct). Track Changes shows edits (ii correct). Headers/Footers appear on every page (iv correct). (iii) is wrong because Word supports many page sizes (A3, A5, Letter, Legal, Custom, etc.), not just A4. '(i), (ii), (iii) and (iv)' includes (iii). '(i) and (iv) only' excludes (ii). '(ii), (iii) and (iv) only' includes (iii)."
     },
     {
       "id": "18",
@@ -248,15 +248,15 @@
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-      "explanation": "1st Gen = Vacuum Tubes (ii). 2nd Gen = Transistors (iv). 3rd Gen = ICs (iii). 4th Gen = Microprocessors/VLSI (i). Option 2 swaps 1st and 2nd gen. Option 3 swaps 2nd and 3rd gen. Option 4 assigns 1st gen to ICs."
+      "explanation": "1st Gen = Vacuum Tubes (ii). 2nd Gen = Transistors (iv). 3rd Gen = ICs (iii). 4th Gen = Microprocessors/VLSI (i). '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' swaps 1st and 2nd gen. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' swaps 2nd and 3rd gen. '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' assigns 1st gen to ICs."
     },
     {
       "id": "20",
       "subject": "E",
       "questionText": "The =IF function in MS Excel is used to:",
       "options": [
-        "Perform conditional calculations based on a logical test",
         "Insert an image into a cell",
+        "Perform conditional calculations based on a logical test",
         "Format text as italic",
         "Create a hyperlink"
       ],
@@ -268,8 +268,8 @@
       "subject": "E",
       "questionText": "Which of the following best describes 'cloud computing'?",
       "options": [
-        "Delivery of computing services over the internet on a pay-as-you-go basis",
         "Computing performed during cloudy weather",
+        "Delivery of computing services over the internet on a pay-as-you-go basis",
         "A type of cooling system for servers",
         "Software installed locally on hard drives"
       ],
@@ -281,13 +281,13 @@
       "subject": "E",
       "questionText": "Consider the following statements about computer memory:\n\n(i) Cache memory is faster than RAM but smaller in size.\n(ii) ROM retains data even after power is switched off.\n(iii) Virtual memory uses a portion of the hard disk as extended RAM.\n(iv) RAM is faster than cache memory.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iii) only",
         "(i) and (ii) only",
         "(ii), (iii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Cache is faster but smaller than RAM (i correct). ROM is non-volatile (ii correct). Virtual memory extends RAM using disk space (iii correct). (iv) is wrong because cache is FASTER than RAM (the hierarchy is: Registers > Cache > RAM). Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+      "explanation": "Cache is faster but smaller than RAM (i correct). ROM is non-volatile (ii correct). Virtual memory extends RAM using disk space (iii correct). (iv) is wrong because cache is FASTER than RAM (the hierarchy is: Registers > Cache > RAM). '(i), (ii), (iii) and (iv)' includes (iv). '(i) and (ii) only' excludes (iii). '(ii), (iii) and (iv) only' includes (iv)."
     },
     {
       "id": "23",
@@ -300,15 +300,15 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "HTTPS is preferred for sensitive transactions (A correct). It encrypts data via SSL/TLS preventing eavesdropping (R correct and explains why it's preferred for banking). Option 2 is wrong because R explains the security advantage. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "HTTPS is preferred for sensitive transactions (A correct). It encrypts data via SSL/TLS preventing eavesdropping (R correct and explains why it's preferred for banking). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R explains the security advantage. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "24",
       "subject": "E",
       "questionText": "Fill in the blank: The shortcut key to print a document in MS Word is __________.",
       "options": [
-        "Ctrl+P",
         "Ctrl+D",
+        "Ctrl+P",
         "Ctrl+R",
         "Ctrl+T"
       ],
@@ -320,9 +320,9 @@
       "subject": "E",
       "questionText": "Which type of malware disguises itself as legitimate software to trick users into installing it?",
       "options": [
-        "Trojan Horse",
         "Worm",
         "Adware",
+        "Trojan Horse",
         "Spyware"
       ],
       "correctAnswer": "Trojan Horse",
@@ -333,22 +333,22 @@
       "subject": "E",
       "questionText": "Match the following MS Word features with their descriptions:\n\nColumn I:\n(a) Find and Replace\n(b) Page Break\n(c) Watermark\n(d) Table of Contents\n\nColumn II:\n(i) Semi-transparent text/image behind page content\n(ii) Forces content to start on a new page\n(iii) Auto-generated list of headings with page numbers\n(iv) Searches for text and substitutes with another\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)",
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
-      "explanation": "Find & Replace searches/substitutes text (iv). Page Break forces new page (ii). Watermark is semi-transparent background text (i). TOC lists headings with page numbers (iii). Option 2 swaps (a) and (b). Option 3 swaps (b) and (c). Option 4 swaps (a) and (c)."
+      "explanation": "Find & Replace searches/substitutes text (iv). Page Break forces new page (ii). Watermark is semi-transparent background text (i). TOC lists headings with page numbers (iii). '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' swaps (a) and (b). '(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)' swaps (b) and (c). '(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)' swaps (a) and (c)."
     },
     {
       "id": "27",
       "subject": "E",
       "questionText": "The term 'bandwidth' in networking refers to:",
       "options": [
-        "The maximum rate of data transfer across a network",
         "The physical width of a cable",
         "The number of computers in a network",
+        "The maximum rate of data transfer across a network",
         "The distance between two network nodes"
       ],
       "correctAnswer": "The maximum rate of data transfer across a network",
@@ -357,25 +357,25 @@
     {
       "id": "28",
       "subject": "E",
-      "questionText": "Consider the following statements about search engines:\n\n(i) Google, Bing, and Yahoo are examples of search engines.\n(ii) Search engines use algorithms called 'crawlers' or 'spiders' to index web pages.\n(iii) Boolean operators (AND, OR, NOT) can refine search results.\n(iv) A search engine and a web browser are the same thing.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about search engines:\n\n(i) A search engine and a web browser are the same thing.\n(ii) Google, Bing, and Yahoo are examples of search engines.\n(iii) Search engines use algorithms called 'crawlers' or 'spiders' to index web pages.\n(iv) Boolean operators (AND, OR, NOT) can refine search results.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (ii) only",
-        "(ii), (iii) and (iv) only"
+        "(ii) and (iii) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Google/Bing/Yahoo are search engines (i correct). Crawlers/spiders index web content (ii correct). Boolean operators refine searches (iii correct). (iv) is wrong because a search engine (Google) finds information while a browser (Chrome) displays it — they're different. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "Google/Bing/Yahoo are search engines (i correct). Crawlers/spiders index web content (ii correct). Boolean operators refine searches (iii correct). (i) is wrong because a search engine (Google) finds information while a browser (Chrome) displays it — they're different. '(ii), (iii), (iv) and (i)' includes (i). '(ii) and (iii) only' excludes (iv). '(iii), (iv) and (i) only' includes (i)."
     },
     {
       "id": "29",
       "subject": "E",
       "questionText": "The function of a 'Router' in a computer network is to:",
       "options": [
-        "Direct data packets between different networks",
         "Store data permanently",
         "Display output on screen",
-        "Convert analog signals to digital"
+        "Convert analog signals to digital",
+        "Direct data packets between different networks"
       ],
       "correctAnswer": "Direct data packets between different networks",
       "explanation": "A router forwards data packets between networks by determining the best path. 'Store data' is wrong — that's storage devices. 'Display output' is wrong — that's a monitor. 'Convert analog to digital' is wrong — that's a modem/ADC."
@@ -391,17 +391,17 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Regular updates are crucial for security (A correct). They patch vulnerabilities that could be exploited (R correct and explains why updates matter for security). Option 2 is wrong because R explains the security mechanism. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "Regular updates are crucial for security (A correct). They patch vulnerabilities that could be exploited (R correct and explains why updates matter for security). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R explains the security mechanism. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "31",
       "subject": "E",
       "questionText": "Which of the following correctly represents 1 Terabyte (TB)?",
       "options": [
-        "1024 Gigabytes",
         "1024 Megabytes",
         "1024 Kilobytes",
-        "1000 Gigabytes"
+        "1000 Gigabytes",
+        "1024 Gigabytes"
       ],
       "correctAnswer": "1024 Gigabytes",
       "explanation": "1 TB = 1024 GB in binary computing. '1024 MB' is wrong — that's 1 GB. '1024 KB' is wrong — that's 1 MB. '1000 GB' is wrong — that's the decimal (marketing) approximation, not the binary standard."
@@ -411,10 +411,10 @@
       "subject": "E",
       "questionText": "The 'Recycle Bin' in Windows OS is used to:",
       "options": [
-        "Temporarily store deleted files before permanent removal",
         "Store downloaded files from the internet",
         "Keep backup copies of all documents",
-        "Compress large files automatically"
+        "Compress large files automatically",
+        "Temporarily store deleted files before permanent removal"
       ],
       "correctAnswer": "Temporarily store deleted files before permanent removal",
       "explanation": "Recycle Bin holds deleted files that can be restored or permanently removed. 'Downloaded files' is wrong — those go to the Downloads folder. 'Backup copies' is wrong — that requires dedicated backup software. 'Compress files' is wrong — that's file compression utilities."
@@ -422,15 +422,15 @@
     {
       "id": "33",
       "subject": "E",
-      "questionText": "Consider the following statements about e-commerce:\n\n(i) B2C (Business to Consumer) includes online shopping websites like Amazon.\n(ii) UPI (Unified Payments Interface) is a real-time payment system in India.\n(iii) SSL certificates ensure secure online transactions.\n(iv) E-commerce can only be conducted via desktop computers.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about e-commerce:\n\n(i) B2C (Business to Consumer) includes online shopping websites like Amazon.\n(ii) E-commerce can only be conducted via desktop computers.\n(iii) UPI (Unified Payments Interface) is a real-time payment system in India.\n(iv) SSL certificates ensure secure online transactions.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
+        "(i), (iii) and (iv) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (iii) only",
+        "(i) and (iv) only",
         "(ii), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Amazon is B2C (i correct). UPI enables real-time payments (ii correct). SSL secures transactions (iii correct). (iv) is wrong because e-commerce is widely conducted on smartphones, tablets, and other devices — not just desktops. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Amazon is B2C (i correct). UPI enables real-time payments (ii correct). SSL secures transactions (iii correct). (ii) is wrong because e-commerce is widely conducted on smartphones, tablets, and other devices — not just desktops. '(i), (iii), (iv) and (ii)' includes (ii). '(i) and (iv) only' excludes (iii). '(iii), (iv) and (ii) only' includes (ii)."
     },
     {
       "id": "34",
@@ -450,21 +450,21 @@
       "subject": "E",
       "questionText": "Match the following cyber threats with their descriptions:\n\nColumn I:\n(a) Ransomware\n(b) Keylogger\n(c) DDoS Attack\n(d) Phishing\n\nColumn II:\n(i) Fraudulent emails/websites to steal credentials\n(ii) Encrypts files and demands payment for decryption\n(iii) Records every keystroke to capture passwords\n(iv) Overwhelms a server with massive traffic to crash it\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-      "explanation": "Ransomware encrypts files for ransom (ii). Keylogger records keystrokes (iii). DDoS floods servers with traffic (iv). Phishing uses fake sites/emails (i). Option 2 swaps ransomware and keylogger. Option 3 swaps keylogger and DDoS. Option 4 swaps ransomware and DDoS."
+      "explanation": "Ransomware encrypts files for ransom (ii). Keylogger records keystrokes (iii). DDoS floods servers with traffic (iv). Phishing uses fake sites/emails (i). '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' swaps ransomware and keylogger. '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' swaps keylogger and DDoS. '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' swaps ransomware and DDoS."
     },
     {
       "id": "36",
       "subject": "E",
       "questionText": "The =COUNTIF function in MS Excel is used to:",
       "options": [
-        "Count cells that meet a specific condition",
         "Count total number of worksheets",
+        "Count cells that meet a specific condition",
         "Calculate cumulative totals",
         "Format cells with conditional colors"
       ],
@@ -476,13 +476,13 @@
       "subject": "E",
       "questionText": "Which of the following are valid email address formats?\n\n(i) user@gmail.com\n(ii) user.name@company.co.in\n(iii) user@.com\n(iv) first.last@university.edu\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii), (iii) and (iv)",
+        "(i), (ii) and (iv) only",
         "(i) and (ii) only",
         "(ii), (iii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "user@gmail.com is valid (i correct). user.name@company.co.in is valid (ii correct). first.last@university.edu is valid (iv correct). user@.com (iii) is INVALID — there must be a domain name between @ and the dot. Option 2 includes (iii). Option 3 excludes (iv). Option 4 includes (iii)."
+      "explanation": "user@gmail.com is valid (i correct). user.name@company.co.in is valid (ii correct). first.last@university.edu is valid (iv correct). user@.com (iii) is INVALID — there must be a domain name between @ and the dot. '(i), (ii), (iii) and (iv)' includes (iii). '(i) and (ii) only' excludes (iv). '(ii), (iii) and (iv) only' includes (iii)."
     },
     {
       "id": "38",
@@ -495,15 +495,15 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Strong passwords need mixed characters (A correct). Complexity increases brute-force cracking time exponentially (R correct and explains why mixed characters make passwords strong). Option 2 is wrong because R is the reason for the recommendation in A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "Strong passwords need mixed characters (A correct). Complexity increases brute-force cracking time exponentially (R correct and explains why mixed characters make passwords strong). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R is the reason for the recommendation in A. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "39",
       "subject": "E",
       "questionText": "The 'Task Manager' in Windows can be opened using:",
       "options": [
-        "Ctrl+Shift+Esc",
         "Ctrl+Alt+F5",
+        "Ctrl+Shift+Esc",
         "Ctrl+Shift+F1",
         "Alt+F4"
       ],
@@ -515,22 +515,22 @@
       "subject": "E",
       "questionText": "Consider the following statements about input devices:\n\n(i) A scanner converts physical documents into digital format.\n(ii) A mouse is a pointing device used to interact with GUI.\n(iii) A microphone converts sound into electrical signals for the computer.\n(iv) A webcam is an output device that displays video.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii), (iii) and (iv)",
         "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
         "(ii), (iii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Scanner digitizes documents (i correct). Mouse is a pointing/input device (ii correct). Microphone captures audio input (iii correct). (iv) is wrong because a webcam is an INPUT device (captures video), not output — a monitor displays video. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+      "explanation": "Scanner digitizes documents (i correct). Mouse is a pointing/input device (ii correct). Microphone captures audio input (iii correct). (iv) is wrong because a webcam is an INPUT device (captures video), not output — a monitor displays video. '(i), (ii), (iii) and (iv)' includes (iv). '(i) and (iii) only' excludes (ii). '(ii), (iii) and (iv) only' includes (iv)."
     },
     {
       "id": "41",
       "subject": "E",
       "questionText": "The term 'IP Address' stands for:",
       "options": [
-        "Internet Protocol Address",
         "Internal Processing Address",
         "Integrated Peripheral Address",
+        "Internet Protocol Address",
         "Information Path Address"
       ],
       "correctAnswer": "Internet Protocol Address",
@@ -541,36 +541,36 @@
       "subject": "E",
       "questionText": "Match the following MS Excel formulas with their results for cells A1=10, A2=20, A3=30:\n\nColumn I:\n(a) =SUM(A1:A3)\n(b) =AVERAGE(A1:A3)\n(c) =MAX(A1:A3)\n(d) =COUNT(A1:A3)\n\nColumn II:\n(i) 3\n(ii) 60\n(iii) 30\n(iv) 20\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-      "explanation": "SUM(10+20+30)=60 (ii). AVERAGE(60/3)=20 (iv). MAX=30 (iii). COUNT=3 cells (i). Option 2 assigns SUM to 30. Option 3 assigns AVERAGE to 30 and MAX to 20. Option 4 assigns SUM to 20."
+      "explanation": "SUM(10+20+30)=60 (ii). AVERAGE(60/3)=20 (iv). MAX=30 (iii). COUNT=3 cells (i). '(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)' assigns SUM to 30. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' assigns AVERAGE to 30 and MAX to 20. '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' assigns SUM to 20."
     },
     {
       "id": "43",
       "subject": "E",
-      "questionText": "Which of the following are examples of output devices?\n\n(i) Projector\n(ii) Plotter\n(iii) Touchscreen (output function)\n(iv) Barcode reader\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of output devices?\n\n(i) Barcode reader\n(ii) Projector\n(iii) Plotter\n(iv) Touchscreen (output function)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (ii) only",
+        "(ii) and (iii) only",
+        "(i), (iii) and (iv) only",
         "(ii), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Projector displays content (i correct output). Plotter prints large drawings (ii correct output). Touchscreen has output capability — displaying content (iii correct). Barcode reader (iv) is wrong — it's an INPUT device that scans barcodes. Option 2 includes (iv). Option 3 excludes (iii). Option 4 includes (iv)."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "Projector displays content (i correct output). Plotter prints large drawings (ii correct output). Touchscreen has output capability — displaying content (iii correct). Barcode reader (i) is wrong — it's an INPUT device that scans barcodes. '(ii), (iii), (iv) and (i)' includes (i). '(ii) and (iii) only' excludes (iv). '(iii), (iv) and (i) only' includes (i)."
     },
     {
       "id": "44",
       "subject": "E",
       "questionText": "The 'Page Layout' tab in MS Word is used for:",
       "options": [
-        "Setting margins, orientation, and page size",
         "Inserting tables and pictures",
         "Checking spelling and grammar",
-        "Managing document security"
+        "Managing document security",
+        "Setting margins, orientation, and page size"
       ],
       "correctAnswer": "Setting margins, orientation, and page size",
       "explanation": "Page Layout controls margins, orientation (portrait/landscape), page size, columns, etc. 'Inserting tables' is wrong — that's the Insert tab. 'Spelling/grammar' is wrong — that's Review tab. 'Document security' is wrong — that's File/Info."
@@ -578,25 +578,25 @@
     {
       "id": "45",
       "subject": "E",
-      "questionText": "Consider the following statements about computer networks:\n\n(i) A modem converts digital signals to analog and vice versa for internet connectivity.\n(ii) Wi-Fi is a wireless networking technology based on IEEE 802.11 standards.\n(iii) An ISP (Internet Service Provider) provides internet access to users.\n(iv) Bluetooth has a longer range than Wi-Fi.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) A modem converts digital signals to analog and vice versa for internet connectivity.\n(ii) Bluetooth has a longer range than Wi-Fi.\n(iii) Wi-Fi is a wireless networking technology based on IEEE 802.11 standards.\n(iv) An ISP (Internet Service Provider) provides internet access to users.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (iii) only",
-        "(ii), (iii) and (iv) only"
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Modems convert digital↔analog (i correct). Wi-Fi uses 802.11 (ii correct). ISPs provide internet (iii correct). (iv) is wrong because Wi-Fi typically has a LONGER range (up to 100+ meters) than Bluetooth (usually 10 meters). Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Modems convert digital↔analog (i correct). Wi-Fi uses 802.11 (ii correct). ISPs provide internet (iii correct). (ii) is wrong because Wi-Fi typically has a LONGER range (up to 100+ meters) than Bluetooth (usually 10 meters). '(i), (iii), (iv) and (ii)' includes (ii). '(i) and (iv) only' excludes (iii). '(iii), (iv) and (ii) only' includes (ii)."
     },
     {
       "id": "46",
       "subject": "E",
       "questionText": "The 'Ctrl+H' shortcut in MS Word opens:",
       "options": [
-        "Find and Replace dialog",
         "Help menu",
         "Header and Footer",
-        "Hyperlink dialog"
+        "Hyperlink dialog",
+        "Find and Replace dialog"
       ],
       "correctAnswer": "Find and Replace dialog",
       "explanation": "Ctrl+H opens Find and Replace. 'Help menu' is wrong — that's F1. 'Header and Footer' is wrong — accessed via Insert tab. 'Hyperlink' is wrong — that's Ctrl+K."
@@ -612,7 +612,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Linux is open-source (A correct). Open-source means freely available code for viewing/modifying/distributing (R correct and defines what makes Linux 'open-source'). Option 2 is wrong because R defines the concept that classifies Linux in A. Option 3 is wrong because R is correct. Option 4 is wrong because A is correct."
+      "explanation": "Linux is open-source (A correct). Open-source means freely available code for viewing/modifying/distributing (R correct and defines what makes Linux 'open-source'). 'Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)' is wrong because R defines the concept that classifies Linux in A. '(A) is correct but (R) is not correct' is wrong because R is correct. '(A) is not correct but (R) is correct' is wrong because A is correct."
     },
     {
       "id": "48",
@@ -625,7 +625,7 @@
         "Bit < KB < Byte < MB < GB < TB"
       ],
       "correctAnswer": "Bit < Byte < KB < MB < GB < TB",
-      "explanation": "Bit (smallest) → Byte (8 bits) → Kilobyte (1024 bytes) → Megabyte → Gigabyte → Terabyte (largest listed). Option 2 incorrectly places Byte before Bit. Option 3 incorrectly orders KB and Byte. Option 4 incorrectly places KB before Byte."
+      "explanation": "Bit (smallest) → Byte (8 bits) → Kilobyte (1024 bytes) → Megabyte → Gigabyte → Terabyte (largest listed). 'Byte < Bit < KB < MB < GB < TB' incorrectly places Byte before Bit. 'KB < Byte < MB < Bit < GB < TB' incorrectly orders KB and Byte. 'Bit < KB < Byte < MB < GB < TB' incorrectly places KB before Byte."
     },
     {
       "id": "49",
@@ -645,8 +645,8 @@
       "subject": "E",
       "questionText": "The term 'GUI' stands for:",
       "options": [
-        "Graphical User Interface",
         "General Utility Input",
+        "Graphical User Interface",
         "Guided User Interaction",
         "Graphics Unified Integration"
       ],
@@ -656,37 +656,37 @@
     {
       "id": "51",
       "subject": "E",
-      "questionText": "Consider the following statements about backup strategies:\n\n(i) A full backup copies all selected files regardless of whether they changed.\n(ii) An incremental backup copies only files changed since the last backup.\n(iii) Cloud backup stores data on remote servers accessible via internet.\n(iv) Backups are unnecessary if you have antivirus software.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about backup strategies:\n\n(i) A full backup copies all selected files regardless of whether they changed.\n(ii) An incremental backup copies only files changed since the last backup.\n(iii) Backups are unnecessary if you have antivirus software.\n(iv) Cloud backup stores data on remote servers accessible via internet.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (iii) only",
+        "(i), (ii) and (iv) only",
+        "(i) and (iv) only",
         "(ii), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Full backup copies everything (i correct). Incremental copies only changes (ii correct). Cloud backup uses remote servers (iii correct). (iv) is wrong because antivirus protects against malware but doesn't protect against hardware failure, accidental deletion, or ransomware — backups are still essential. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+      "correctAnswer": "(i), (ii) and (iv) only",
+      "explanation": "Full backup copies everything (i correct). Incremental copies only changes (ii correct). Cloud backup uses remote servers (iii correct). (iii) is wrong because antivirus protects against malware but doesn't protect against hardware failure, accidental deletion, or ransomware — backups are still essential. '(i), (ii), (iv) and (iii)' includes (iii). '(i) and (iv) only' excludes (ii). '(ii), (iv) and (iii) only' includes (iii)."
     },
     {
       "id": "52",
       "subject": "E",
       "questionText": "Match the following internet services with their protocols:\n\nColumn I:\n(a) Sending emails\n(b) Receiving emails\n(c) Web browsing\n(d) File transfer\n\nColumn II:\n(i) HTTP/HTTPS\n(ii) FTP\n(iii) SMTP\n(iv) POP3/IMAP\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+        "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
-      "explanation": "Sending emails uses SMTP (iii). Receiving uses POP3/IMAP (iv). Web browsing uses HTTP/HTTPS (i). File transfer uses FTP (ii). Option 2 swaps sending and receiving protocols. Option 3 assigns receiving to HTTP. Option 4 assigns sending to HTTP."
+      "explanation": "Sending emails uses SMTP (iii). Receiving uses POP3/IMAP (iv). Web browsing uses HTTP/HTTPS (i). File transfer uses FTP (ii). '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' swaps sending and receiving protocols. '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)' assigns receiving to HTTP. '(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)' assigns sending to HTTP."
     },
     {
       "id": "53",
       "subject": "E",
       "questionText": "The 'Undo' function in most applications can be triggered by:",
       "options": [
-        "Ctrl+Z",
         "Ctrl+Y",
         "Ctrl+U",
+        "Ctrl+Z",
         "Ctrl+X"
       ],
       "correctAnswer": "Ctrl+Z",
@@ -697,9 +697,9 @@
       "subject": "E",
       "questionText": "Which of the following best describes 'spam' in the context of email?",
       "options": [
-        "Unsolicited bulk messages sent to many recipients",
         "A type of email encryption",
         "A secure email protocol",
+        "Unsolicited bulk messages sent to many recipients",
         "An email attachment format"
       ],
       "correctAnswer": "Unsolicited bulk messages sent to many recipients",
@@ -710,9 +710,9 @@
       "subject": "E",
       "questionText": "The following data shows the download speeds offered by different internet plans:\n\nBasic → 50, 500\nStandard → 100, 800\nPremium → 200, 1200\nUltra → 500, 2000\n\nWhich plan offers the best value (lowest cost per Mbps)?",
       "options": [
-        "Ultra",
         "Premium",
         "Standard",
+        "Ultra",
         "Basic"
       ],
       "correctAnswer": "Ultra",
@@ -723,23 +723,23 @@
       "subject": "E",
       "questionText": "Consider the following statements about MS Word's Mail Merge feature:\n\n(i) It combines a main document with a data source to create personalized documents.\n(ii) The data source can be an Excel spreadsheet or Access database.\n(iii) Merge fields are placeholders that get replaced with actual data.\n(iv) Mail Merge can only create letters, not labels or envelopes.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii) only",
         "(i), (ii), (iii) and (iv)",
         "(i) and (iii) only",
+        "(i), (ii) and (iii) only",
         "(ii), (iii) and (iv) only"
       ],
       "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Mail Merge combines document with data source (i correct). Data can come from Excel/Access (ii correct). Merge fields are placeholders (iii correct). (iv) is wrong because Mail Merge can create letters, labels, envelopes, directories, and emails. Option 2 includes (iv). Option 3 excludes (ii). Option 4 includes (iv)."
+      "explanation": "Mail Merge combines document with data source (i correct). Data can come from Excel/Access (ii correct). Merge fields are placeholders (iii correct). (iv) is wrong because Mail Merge can create letters, labels, envelopes, directories, and emails. '(i), (ii), (iii) and (iv)' includes (iv). '(i) and (iii) only' excludes (ii). '(ii), (iii) and (iv) only' includes (iv)."
     },
     {
       "id": "57",
       "subject": "E",
       "questionText": "Fill in the blank: The protocol used to access web pages on the internet is __________.",
       "options": [
-        "HTTP",
         "FTP",
         "SMTP",
-        "TCP"
+        "TCP",
+        "HTTP"
       ],
       "correctAnswer": "HTTP",
       "explanation": "HTTP (HyperText Transfer Protocol) is used to access/transfer web pages. 'FTP' is wrong — for file transfers. 'SMTP' is wrong — for email sending. 'TCP' is wrong — it's a transport protocol, not specifically for web pages."
@@ -749,10 +749,10 @@
       "subject": "E",
       "questionText": "The 'Clipboard' in Windows temporarily stores:",
       "options": [
-        "Cut or copied data for pasting",
         "Deleted files from Recycle Bin",
         "Internet browsing history",
-        "System error logs"
+        "System error logs",
+        "Cut or copied data for pasting"
       ],
       "correctAnswer": "Cut or copied data for pasting",
       "explanation": "The clipboard holds data that has been cut/copied, ready to be pasted. 'Deleted files' is wrong — those go to Recycle Bin. 'Browsing history' is wrong — stored by the browser. 'Error logs' is wrong — stored in Event Viewer."
@@ -762,10 +762,10 @@
       "subject": "E",
       "questionText": "The following data shows the market share of operating systems on desktop computers:\n\nWindows → 74\nmacOS → 15\nLinux → 3\nChrome OS → 3\nOthers → 5\n\nWhat is the combined market share of non-Windows operating systems?",
       "options": [
-        "26%",
         "18%",
         "21%",
-        "30%"
+        "30%",
+        "26%"
       ],
       "correctAnswer": "26%",
       "explanation": "Non-Windows = 100% - 74% = 26% (or 15+3+3+5=26). '18%' is wrong — that's macOS+Linux. '21%' is wrong — misaddition. '30%' is wrong — overestimate."
@@ -773,15 +773,15 @@
     {
       "id": "60",
       "subject": "E",
-      "questionText": "Which of the following practices enhance computer security?\n\n(i) Using strong and unique passwords for different accounts\n(ii) Keeping antivirus software updated\n(iii) Clicking on all email links to check if they are safe\n(iv) Enabling two-factor authentication (2FA)\n\nSelect the correct combination:",
+      "questionText": "Which of the following practices enhance computer security?\n\n(i) Clicking on all email links to check if they are safe\n(ii) Using strong and unique passwords for different accounts\n(iii) Keeping antivirus software updated\n(iv) Enabling two-factor authentication (2FA)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii), (iii) and (iv)",
-        "(i) and (iv) only",
+        "(ii) and (iv) only",
+        "(i), (iii) and (iv) only",
         "(ii), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "Strong passwords (i), updated antivirus (ii), and 2FA (iv) all enhance security. (iii) is wrong because clicking on unknown email links is DANGEROUS — it's how phishing and malware attacks succeed. You should never click suspicious links. Option 2 includes (iii). Option 3 excludes (ii). Option 4 includes (iii)."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "Strong passwords (ii), updated antivirus (iii), and 2FA (iv) all enhance security. (i) is wrong because clicking on unknown email links is DANGEROUS — it's how phishing and malware attacks succeed. You should never click suspicious links. '(ii), (iii), (i) and (iv)' includes (i). '(ii) and (iv) only' excludes (iii). '(iii), (i) and (iv) only' includes (i)."
     }
   ]
 }

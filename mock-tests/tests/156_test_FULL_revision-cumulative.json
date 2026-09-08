@@ -34,8 +34,8 @@
       "subject": "D",
       "questionText": "If the cost price of 15 articles equals the selling price of 12 articles, the profit percentage is:",
       "options": [
-        "25%",
         "20%",
+        "25%",
         "15%",
         "30%"
       ],
@@ -47,8 +47,8 @@
       "subject": "E",
       "questionText": "The keyboard shortcut Ctrl+S in most applications is used to:",
       "options": [
-        "Save the current file",
         "Select all text",
+        "Save the current file",
         "Open a new file",
         "Print the document"
       ],
@@ -60,8 +60,8 @@
       "subject": "C",
       "questionText": "The Chenani-Nashri Tunnel on the Jammu-Srinagar highway is approximately how long?",
       "options": [
-        "9.2 km",
         "11.2 km",
+        "9.2 km",
         "6.5 km",
         "14.0 km"
       ],
@@ -71,15 +71,15 @@
     {
       "id": "6",
       "subject": "A",
-      "questionText": "Consider the following statements about the use of prepositions:\n\n(i) 'Averse to' is correct (not 'averse from').\n(ii) 'Allergic to' is correct (not 'allergic from').\n(iii) 'Desirous of' is correct (not 'desirous for').\n(iv) 'Indifferent for' is correct (not 'indifferent to').\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the use of prepositions:\n\n(i) 'Averse to' is correct (not 'averse from').\n(ii) 'Allergic to' is correct (not 'allergic from').\n(iii) 'Indifferent for' is correct (not 'indifferent to').\n(iv) 'Desirous of' is correct (not 'desirous for').\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'Averse to' (i-correct). 'Allergic to' (ii-correct). 'Desirous of' (iii-correct). (iv) is wrong — 'indifferent TO' is correct, not 'indifferent for'."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "'Averse to' (i-correct). 'Allergic to' (ii-correct). 'Desirous of' (iii-correct). (iii) is wrong — 'indifferent TO' is correct, not 'indifferent for'."
     },
     {
       "id": "7",
@@ -99,9 +99,9 @@
       "subject": "D",
       "questionText": "In a certain code, if + means ×, − means ÷, × means +, and ÷ means −, what is the value of 8 + 3 − 6 × 4 ÷ 2?",
       "options": [
-        "6",
         "8",
         "10",
+        "6",
         "12"
       ],
       "correctAnswer": "6",
@@ -112,9 +112,9 @@
       "subject": "E",
       "questionText": "Consider the following statements about computer output devices:\n\n(i) A monitor displays visual output.\n(ii) A plotter is used for printing large engineering drawings.\n(iii) Speakers produce audio output.\n(iv) A scanner is an output device.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -138,10 +138,10 @@
       "subject": "B",
       "questionText": "Match the following Indian states with their official languages:\n\nColumn I:\n(a) Tamil Nadu\n(b) West Bengal\n(c) Maharashtra\n(d) Kerala\n\nColumn II:\n(i) Bengali\n(ii) Tamil\n(iii) Malayalam\n(iv) Marathi\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "Tamil Nadu = Tamil (ii). West Bengal = Bengali (i). Maharashtra = Marathi (iv). Kerala = Malayalam (iii)."
@@ -164,10 +164,10 @@
       "subject": "C",
       "questionText": "The 'Chillai Kalan' in Kashmir refers to:",
       "options": [
-        "The 40-day period of harshest winter cold from 21 December to 31 January",
         "The spring harvest festival",
         "The summer tourist season",
-        "The autumn saffron picking period"
+        "The autumn saffron picking period",
+        "The 40-day period of harshest winter cold from 21 December to 31 January"
       ],
       "correctAnswer": "The 40-day period of harshest winter cold from 21 December to 31 January",
       "explanation": "Chillai Kalan is Kashmir's harshest 40-day winter period. 'Spring harvest festival' is wrong. 'Summer tourist season' is wrong. 'Autumn saffron picking' is wrong."
@@ -177,10 +177,10 @@
       "subject": "A",
       "questionText": "Select the synonym of 'laconic':",
       "options": [
-        "Brief",
         "Verbose",
         "Lengthy",
-        "Elaborate"
+        "Elaborate",
+        "Brief"
       ],
       "correctAnswer": "Brief",
       "explanation": "'Laconic' means using very few words — synonym is 'brief'. 'Verbose' is antonym (wordy). 'Lengthy' is antonym. 'Elaborate' is antonym (detailed)."
@@ -188,23 +188,23 @@
     {
       "id": "15",
       "subject": "B",
-      "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Supreme Court is the guardian of the Constitution.\n(ii) Article 32 provides the right to constitutional remedies.\n(iii) Judicial review is a basic structure feature of the Constitution.\n(iv) The Supreme Court can only hear cases on appeal, not original jurisdiction.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Indian judiciary:\n\n(i) The Supreme Court can only hear cases on appeal, not original jurisdiction.\n(ii) The Supreme Court is the guardian of the Constitution.\n(iii) Article 32 provides the right to constitutional remedies.\n(iv) Judicial review is a basic structure feature of the Constitution.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "SC is guardian of Constitution (i-correct). Art 32 gives constitutional remedies (ii-correct). Judicial review is basic structure (iii-correct). (iv) is wrong — SC has original jurisdiction in disputes between states/centre."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "SC is guardian of Constitution (i-correct). Art 32 gives constitutional remedies (ii-correct). Judicial review is basic structure (iii-correct). (i) is wrong — SC has original jurisdiction in disputes between states/centre."
     },
     {
       "id": "16",
       "subject": "D",
       "questionText": "A train running at 72 km/h crosses a platform of 240 m in 20 seconds. What is the length of the train?",
       "options": [
-        "160 m",
         "200 m",
+        "160 m",
         "180 m",
         "120 m"
       ],
@@ -229,8 +229,8 @@
       "subject": "A",
       "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) To smell a rat\n(b) To hit below the belt\n(c) To have an axe to grind\n(d) To bury one's head in the sand\n\nColumn II:\n(i) To refuse to face reality\n(ii) To suspect something wrong\n(iii) To act unfairly\n(iv) To have a personal motive\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
@@ -242,8 +242,8 @@
       "subject": "B",
       "questionText": "The Indian state with the highest literacy rate (as per Census 2011) is:",
       "options": [
-        "Kerala",
         "Mizoram",
+        "Kerala",
         "Goa",
         "Tripura"
       ],
@@ -255,9 +255,9 @@
       "subject": "D",
       "questionText": "Match the following:\n\nColumn I:\n(a) 15% of 600\n(b) 40% of 250\n(c) 12.5% of 480\n(d) 33⅓% of 900\n\nColumn II:\n(i) 100\n(ii) 300\n(iii) 60\n(iv) 90\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
@@ -268,9 +268,9 @@
       "subject": "A",
       "questionText": "Choose the antonym of 'altruistic':",
       "options": [
-        "Selfish",
         "Generous",
         "Charitable",
+        "Selfish",
         "Kind"
       ],
       "correctAnswer": "Selfish",
@@ -294,9 +294,9 @@
       "subject": "D",
       "questionText": "If today is Wednesday, what day of the week will it be 100 days from now?",
       "options": [
-        "Friday",
         "Thursday",
         "Saturday",
+        "Friday",
         "Sunday"
       ],
       "correctAnswer": "Friday",
@@ -305,41 +305,41 @@
     {
       "id": "24",
       "subject": "E",
-      "questionText": "Which of the following are types of printer?\n\n(i) Inkjet printer\n(ii) Laser printer\n(iii) Dot matrix printer\n(iv) Optical printer\n\nSelect the correct combination:",
+      "questionText": "Which of the following are types of printer?\n\n(i) Inkjet printer\n(ii) Optical printer\n(iii) Laser printer\n(iv) Dot matrix printer\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Inkjet (i), Laser (ii), and Dot matrix (iii) are standard printer types. 'Optical printer' (iv) is a film/photography device, not a computer printer."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Inkjet (i), Laser (iii), and Dot matrix (iv) are standard printer types. 'Optical printer' (ii) is a film/photography device, not a computer printer."
     },
     {
       "id": "25",
       "subject": "B",
-      "questionText": "Which of the following correctly matches the country with its capital?\n\n(i) Australia — Canberra\n(ii) Canada — Toronto\n(iii) Brazil — Brasilia\n(iv) Japan — Tokyo\n\nSelect the correct combination:",
+      "questionText": "Which of the following correctly matches the country with its capital?\n\n(i) Australia — Canberra\n(ii) Brazil — Brasilia\n(iii) Canada — Toronto\n(iv) Japan — Tokyo\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
+      "correctAnswer": "(i), (ii) and (iv)",
       "explanation": "Australia-Canberra (i-correct). Brazil-Brasilia (iii-correct). Japan-Tokyo (iv-correct). Canada's capital is Ottawa, not Toronto (ii-wrong)."
     },
     {
       "id": "26",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) The square of any odd number is always odd.\n(ii) The product of two consecutive integers is always even.\n(iii) The sum of two even numbers is always odd.\n(iv) A number divisible by 6 is also divisible by both 2 and 3.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) The square of any odd number is always odd.\n(ii) The product of two consecutive integers is always even.\n(iii) A number divisible by 6 is also divisible by both 2 and 3.\n(iv) The sum of two even numbers is always odd.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Odd² = odd (i-correct). Consecutive product: one must be even → product even (ii-correct). 6=2×3, so divisible by 6 means by both (iv-correct). (iii) is wrong — even+even = even, not odd."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Odd² = odd (i-correct). Consecutive product: one must be even → product even (ii-correct). 6=2×3, so divisible by 6 means by both (iv-correct). (iv) is wrong — even+even = even, not odd."
     },
     {
       "id": "27",
@@ -359,8 +359,8 @@
       "subject": "B",
       "questionText": "The Battle of Buxar (1764) was fought between the British East India Company and:",
       "options": [
-        "The combined forces of Mir Qasim, Shuja-ud-Daulah, and Shah Alam II",
         "Tipu Sultan of Mysore",
+        "The combined forces of Mir Qasim, Shuja-ud-Daulah, and Shah Alam II",
         "The Marathas under Bajirao II",
         "Siraj-ud-Daulah of Bengal"
       ],
@@ -372,8 +372,8 @@
       "subject": "D",
       "questionText": "A man invested ₹20,000 at 8% simple interest per annum. After how many years will the amount become ₹28,000?",
       "options": [
-        "5 years",
         "4 years",
+        "5 years",
         "6 years",
         "3 years"
       ],
@@ -398,8 +398,8 @@
       "subject": "B",
       "questionText": "The first woman Prime Minister of India was:",
       "options": [
-        "Indira Gandhi",
         "Sarojini Naidu",
+        "Indira Gandhi",
         "Pratibha Patil",
         "Sushma Swaraj"
       ],
@@ -411,9 +411,9 @@
       "subject": "D",
       "questionText": "In a family, P is the father of Q. R is the daughter of P. S is the brother of Q. How is R related to S?",
       "options": [
-        "Sister",
         "Mother",
         "Aunt",
+        "Sister",
         "Cousin"
       ],
       "correctAnswer": "Sister",
@@ -424,9 +424,9 @@
       "subject": "E",
       "questionText": "Match the following computer terms with their definitions:\n\nColumn I:\n(a) RAM\n(b) ROM\n(c) CPU\n(d) ALU\n\nColumn II:\n(i) Performs arithmetic and logical operations\n(ii) Volatile temporary memory\n(iii) Processes all instructions\n(iv) Non-volatile permanent memory\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
@@ -437,9 +437,9 @@
       "subject": "A",
       "questionText": "Choose the correct tense: She __________ in this company for ten years before she got promoted.",
       "options": [
-        "had been working",
         "has been working",
         "was working",
+        "had been working",
         "worked"
       ],
       "correctAnswer": "had been working",
@@ -448,15 +448,15 @@
     {
       "id": "35",
       "subject": "B",
-      "questionText": "Which of the following are correctly matched (Sport — Trophy/Cup)?\n\n(i) Cricket — Ashes\n(ii) Football — Davis Cup\n(iii) Hockey — Sultan Azlan Shah Cup\n(iv) Tennis — Wimbledon\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correctly matched (Sport — Trophy/Cup)?\n\n(i) Football — Davis Cup\n(ii) Cricket — Ashes\n(iii) Hockey — Sultan Azlan Shah Cup\n(iv) Tennis — Wimbledon\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "All of the above"
+        "(i), (iii) and (iv)",
+        "All of the above",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Cricket-Ashes (i-correct). Hockey-Sultan Azlan Shah Cup (iii-correct). Tennis-Wimbledon (iv-correct). (ii) is wrong — Davis Cup is TENNIS, not football. Football has FIFA World Cup."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Cricket-Ashes (i-correct). Hockey-Sultan Azlan Shah Cup (iii-correct). Tennis-Wimbledon (iv-correct). (i) is wrong — Davis Cup is TENNIS, not football. Football has FIFA World Cup."
     },
     {
       "id": "36",
@@ -476,10 +476,10 @@
       "subject": "C",
       "questionText": "Which district of J&K is famous as the 'Apple Bowl'?",
       "options": [
-        "Shopian",
         "Srinagar",
         "Anantnag",
-        "Kupwara"
+        "Kupwara",
+        "Shopian"
       ],
       "correctAnswer": "Shopian",
       "explanation": "Shopian is known as the 'Apple Bowl' or 'Apple District' of J&K. 'Srinagar' is the summer capital. 'Anantnag' is known for springs. 'Kupwara' is known for walnuts."
@@ -489,10 +489,10 @@
       "subject": "A",
       "questionText": "Consider the following statements about synonyms:\n\n(i) 'Ambiguous' and 'equivocal' are synonyms.\n(ii) 'Frugal' and 'extravagant' are synonyms.\n(iii) 'Arduous' and 'strenuous' are synonyms.\n(iv) 'Candid' and 'frank' are synonyms.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (iii) and (iv)",
       "explanation": "Ambiguous/equivocal both mean unclear (i-correct). Arduous/strenuous both mean difficult (iii-correct). Candid/frank both mean open/honest (iv-correct). (ii) is wrong — frugal (thrifty) and extravagant (lavish) are ANTONYMS."
@@ -528,8 +528,8 @@
       "subject": "A",
       "questionText": "Choose the correct meaning of the idiom 'to have a green thumb':",
       "options": [
-        "To be good at gardening",
         "To be envious of others",
+        "To be good at gardening",
         "To be inexperienced",
         "To spend money carelessly"
       ],
@@ -541,8 +541,8 @@
       "subject": "E",
       "questionText": "The term 'spam' in email refers to:",
       "options": [
-        "Unsolicited bulk messages sent to many recipients",
         "Encrypted secure emails",
+        "Unsolicited bulk messages sent to many recipients",
         "Important official communications",
         "Emails with large attachments"
       ],
@@ -554,8 +554,8 @@
       "subject": "B",
       "questionText": "The longest river in India flowing entirely within the country is:",
       "options": [
-        "Ganga",
         "Godavari",
+        "Ganga",
         "Brahmaputra",
         "Indus"
       ],
@@ -567,9 +567,9 @@
       "subject": "D",
       "questionText": "If RAIN is coded as UFLS (each letter +3), what is the code for SNOW?",
       "options": [
-        "VQRZ",
         "VPQY",
         "WQSZ",
+        "VQRZ",
         "VQSA"
       ],
       "correctAnswer": "VQRZ",
@@ -578,24 +578,24 @@
     {
       "id": "45",
       "subject": "C",
-      "questionText": "Consider the following statements about Wular Lake:\n\n(i) It is the largest freshwater lake in India.\n(ii) It is located in Bandipora district.\n(iii) The Jhelum River flows through it.\n(iv) It is a saltwater lake.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about Wular Lake:\n\n(i) It is the largest freshwater lake in India.\n(ii) It is located in Bandipora district.\n(iii) It is a saltwater lake.\n(iv) The Jhelum River flows through it.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Wular is India's largest freshwater lake (i-correct). Located in Bandipora (ii-correct). Jhelum flows through it (iii-correct). (iv) is wrong — Wular is freshwater, not saltwater."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Wular is India's largest freshwater lake (i-correct). Located in Bandipora (ii-correct). Jhelum flows through it (iii-correct). (iii) is wrong — Wular is freshwater, not saltwater."
     },
     {
       "id": "46",
       "subject": "A",
       "questionText": "Select the word most opposite in meaning to 'acquiesce':",
       "options": [
-        "Resist",
         "Agree",
         "Comply",
+        "Resist",
         "Accept"
       ],
       "correctAnswer": "Resist",
@@ -604,14 +604,14 @@
     {
       "id": "47",
       "subject": "B",
-      "questionText": "Which of the following pairs is correctly matched (country — currency)?\n\n(i) Japan — Yen\n(ii) Russia — Ruble\n(iii) Thailand — Rupee\n(iv) South Korea — Won\n\nSelect the correct combination:",
+      "questionText": "Which of the following pairs is correctly matched (country — currency)?\n\n(i) Japan — Yen\n(ii) Russia — Ruble\n(iii) South Korea — Won\n(iv) Thailand — Rupee\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
+      "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "Japan-Yen (i-correct). Russia-Ruble (ii-correct). South Korea-Won (iv-correct). Thailand's currency is Baht, not Rupee (iii-wrong)."
     },
     {
@@ -619,10 +619,10 @@
       "subject": "D",
       "questionText": "The following data shows production (in tonnes) of a factory over 5 months:\n\nJan → 120\nFeb → 135\nMar → 150\nApr → 125\nMay → 170\n\nWhat is the average monthly production?",
       "options": [
-        "140 tonnes",
         "145 tonnes",
         "135 tonnes",
-        "150 tonnes"
+        "150 tonnes",
+        "140 tonnes"
       ],
       "correctAnswer": "140 tonnes",
       "explanation": "Total = 120+135+150+125+170 = 700. Average = 700/5 = 140 tonnes. '145' is wrong. '135' is wrong. '150' is wrong."
@@ -645,10 +645,10 @@
       "subject": "E",
       "questionText": "Which of the following is a search engine?",
       "options": [
-        "Google",
         "Facebook",
         "WhatsApp",
-        "Instagram"
+        "Instagram",
+        "Google"
       ],
       "correctAnswer": "Google",
       "explanation": "Google is a search engine. 'Facebook' is a social media platform. 'WhatsApp' is a messaging app. 'Instagram' is a photo/video sharing platform."

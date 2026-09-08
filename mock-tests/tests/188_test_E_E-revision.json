@@ -8,8 +8,8 @@
       "subject": "E",
       "questionText": "Which component is responsible for performing arithmetic and logical operations in a CPU?",
       "options": [
-        "Control Unit",
         "Arithmetic Logic Unit",
+        "Control Unit",
         "Register",
         "Cache"
       ],
@@ -20,9 +20,9 @@
       "subject": "E",
       "questionText": "Which of the following is a non-volatile memory that typically stores the computer's startup (BIOS) instructions?",
       "options": [
+        "ROM",
         "RAM",
         "Cache",
-        "ROM",
         "Register"
       ],
       "correctAnswer": "ROM",
@@ -44,15 +44,15 @@
     },
     {
       "subject": "E",
-      "questionText": "Consider the following statements about email:\n\n(i) An email can be sent to multiple recipients at once.\n(ii) Files can be sent along with an email as attachments.\n(iii) The subject line briefly summarises the email's content.\n(iv) Email requires the sender and recipient to be online at the same time.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about email:\n\n(i) Email requires the sender and recipient to be online at the same time.\n(ii) An email can be sent to multiple recipients at once.\n(iii) Files can be sent along with an email as attachments.\n(iv) The subject line briefly summarises the email's content.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "An email can go to many recipients (i), can carry attachments (ii), and its subject line summarises the content (iii). Statement (iv) is wrong because email is asynchronous—the recipient need not be online when the message is sent—so any option containing (iv) is incorrect.",
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "An email can go to many recipients (ii), can carry attachments (iii), and its subject line summarises the content (iv). Statement (i) is wrong because email is asynchronous—the recipient need not be online when the message is sent—so any option containing (i) is incorrect.",
       "id": "4"
     },
     {
@@ -74,8 +74,8 @@
       "questionText": "Which number system is used internally by computers to represent all data?",
       "options": [
         "Decimal",
-        "Octal",
         "Binary",
+        "Octal",
         "Hexadecimal"
       ],
       "correctAnswer": "Binary",
@@ -83,15 +83,15 @@
     },
     {
       "subject": "E",
-      "questionText": "Which of the following are optical storage media?\n\n(i) CD\n(ii) DVD\n(iii) Blu-ray Disc\n(iv) Hard Disk Drive\n\nSelect the correct combination:",
+      "questionText": "Which of the following are optical storage media?\n\n(i) CD\n(ii) Hard Disk Drive\n(iii) DVD\n(iv) Blu-ray Disc\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "CDs, DVDs and Blu-ray Discs all store data using laser/optical technology (i, ii, iii). A hard disk drive (iv) is a magnetic storage device, not optical, so any option containing (iv) is incorrect, leaving (i), (ii) and (iii).",
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "CDs, DVDs and Blu-ray Discs all store data using laser/optical technology (i, ii, iii). A hard disk drive (ii) is a magnetic storage device, not optical, so any option containing (ii) is incorrect, leaving (i), (iii) and (iv).",
       "id": "7"
     },
     {
@@ -100,8 +100,8 @@
       "questionText": "What is the function of an operating system's 'file management' feature?",
       "options": [
         "To design graphics",
-        "To organise, store and retrieve files",
         "To connect to the internet",
+        "To organise, store and retrieve files",
         "To perform calculations"
       ],
       "correctAnswer": "To organise, store and retrieve files",
@@ -140,8 +140,8 @@
       "options": [
         "cursor",
         "menu",
-        "window",
-        "icon"
+        "icon",
+        "window"
       ],
       "correctAnswer": "icon",
       "explanation": "An icon is a small graphical symbol representing a program, file or function. A cursor marks the position of input, a menu lists options, and a window is a framed area on screen, so 'icon' is the correct term for the small representative symbol."
@@ -151,9 +151,9 @@
       "questionText": "In Windows, which function key is commonly used to rename a selected file or folder?",
       "options": [
         "F5",
-        "F2",
         "F1",
-        "F12"
+        "F12",
+        "F2"
       ],
       "correctAnswer": "F2",
       "explanation": "Pressing F2 lets you rename a selected file or folder in Windows. F5 refreshes the view, F1 opens Help, and F12 is often 'Save As' in applications, so F2 is the correct key for renaming.",
@@ -161,15 +161,15 @@
     },
     {
       "subject": "E",
-      "questionText": "Consider the following statements about printers:\n\n(i) A laser printer uses toner to print.\n(ii) An inkjet printer works by spraying tiny droplets of ink.\n(iii) A dot-matrix printer is an impact printer.\n(iv) All printers are input devices.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about printers:\n\n(i) A laser printer uses toner to print.\n(ii) An inkjet printer works by spraying tiny droplets of ink.\n(iii) All printers are input devices.\n(iv) A dot-matrix printer is an impact printer.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "A laser printer uses toner (i), an inkjet sprays ink droplets (ii), and a dot-matrix printer strikes the paper, making it an impact printer (iii). Statement (iv) is wrong because printers are output devices, not input devices, so any option containing (iv) is incorrect.",
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "A laser printer uses toner (i), an inkjet sprays ink droplets (ii), and a dot-matrix printer strikes the paper, making it an impact printer (iv). Statement (iii) is wrong because printers are output devices, not input devices, so any option containing (iii) is incorrect.",
       "id": "13"
     },
     {
@@ -189,8 +189,8 @@
       "subject": "E",
       "questionText": "In MS Word, which feature is used to check a document for spelling and grammar errors?",
       "options": [
-        "Mail Merge",
         "Spelling and Grammar check",
+        "Mail Merge",
         "Thesaurus",
         "Word Count"
       ],
@@ -203,9 +203,9 @@
       "subject": "E",
       "questionText": "Which type of software is freely available and allows users to view and modify its source code?",
       "options": [
+        "Open-source software",
         "Freeware",
         "Shareware",
-        "Open-source software",
         "Proprietary software"
       ],
       "correctAnswer": "Open-source software",
@@ -217,9 +217,9 @@
       "questionText": "Fill in the blank: A __________ is a program that appears legitimate but performs malicious actions once installed.",
       "options": [
         "firewall",
+        "Trojan horse",
         "compiler",
-        "cookie",
-        "Trojan horse"
+        "cookie"
       ],
       "correctAnswer": "Trojan horse",
       "explanation": "A Trojan horse disguises itself as useful software but carries out harmful actions when run. A firewall protects a network, a compiler translates code, and a cookie stores small bits of web data, none of which is a disguised malicious program, so 'Trojan horse' is correct."
@@ -228,8 +228,8 @@
       "subject": "E",
       "questionText": "Which electronic technology was the main feature of second-generation computers?",
       "options": [
-        "Transistors",
         "Vacuum tubes",
+        "Transistors",
         "Integrated circuits",
         "Microprocessors"
       ],
@@ -278,15 +278,15 @@
     },
     {
       "subject": "E",
-      "questionText": "Which of the following are units of computer storage capacity?\n\n(i) Gigabyte\n(ii) Hertz\n(iii) Terabyte\n(iv) Petabyte\n\nSelect the correct combination:",
+      "questionText": "Which of the following are units of computer storage capacity?\n\n(i) Gigabyte\n(ii) Terabyte\n(iii) Petabyte\n(iv) Hertz\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "Gigabyte, terabyte and petabyte are all units used to measure storage capacity (i, iii, iv). Hertz (ii) measures frequency, such as processor clock speed, not storage, so any option containing (ii) is incorrect, leaving (i), (iii) and (iv).",
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Gigabyte, terabyte and petabyte are all units used to measure storage capacity (i, iii, iv). Hertz (iv) measures frequency, such as processor clock speed, not storage, so any option containing (iv) is incorrect, leaving (i), (ii) and (iii).",
       "id": "22"
     },
     {
@@ -294,9 +294,9 @@
       "subject": "E",
       "questionText": "What is the primary purpose of a computer's 'clipboard'?",
       "options": [
-        "To temporarily hold cut or copied data",
         "To permanently store files",
         "To scan for viruses",
+        "To temporarily hold cut or copied data",
         "To connect to the internet"
       ],
       "correctAnswer": "To temporarily hold cut or copied data",
@@ -307,9 +307,9 @@
       "questionText": "Match the abbreviations in Column I with their full forms in Column II:\n\nColumn I:\n(a) CPU\n(b) RAM\n(c) ROM\n(d) GPU\n\nColumn II:\n(i) Random Access Memory\n(ii) Central Processing Unit\n(iii) Graphics Processing Unit\n(iv) Read-Only Memory\n\nChoose the correct match:",
       "options": [
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "CPU is Central Processing Unit (ii), RAM is Random Access Memory (i), ROM is Read-Only Memory (iv), and GPU is Graphics Processing Unit (iii). The other options swap CPU with RAM or interchange ROM and GPU, giving wrong expansions, so only the first mapping is correct.",
@@ -322,8 +322,8 @@
       "options": [
         "A hardware failure",
         "A method of data backup",
-        "A fraudulent attempt to obtain sensitive information",
-        "A type of printer"
+        "A type of printer",
+        "A fraudulent attempt to obtain sensitive information"
       ],
       "correctAnswer": "A fraudulent attempt to obtain sensitive information",
       "explanation": "Phishing is a scam in which attackers pose as trustworthy entities to trick users into revealing sensitive data like passwords. It is not a hardware failure, a backup method, or a printer, so the fraudulent attempt to obtain sensitive information is the correct description."
@@ -344,23 +344,23 @@
     {
       "id": "27",
       "subject": "E",
-      "questionText": "Consider the following statements about the World Wide Web and the Internet:\n\n(i) The Internet is a global network of connected computers.\n(ii) The World Wide Web is a system of interlinked documents accessed via the Internet.\n(iii) A web browser is used to view web pages.\n(iv) The Internet and the World Wide Web are exactly the same thing.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the World Wide Web and the Internet:\n\n(i) The Internet and the World Wide Web are exactly the same thing.\n(ii) The Internet is a global network of connected computers.\n(iii) The World Wide Web is a system of interlinked documents accessed via the Internet.\n(iv) A web browser is used to view web pages.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Internet is a global network (i), the Web is a system of linked documents on the Internet (ii), and a browser views web pages (iii). Statement (iv) is wrong because the Internet is the underlying network while the Web is one service on it, so they are not the same, and any option with (iv) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The Internet is a global network (ii), the Web is a system of linked documents on the Internet (iii), and a browser views web pages (iv). Statement (i) is wrong because the Internet is the underlying network while the Web is one service on it, so they are not the same, and any option with (i) is incorrect."
     },
     {
       "id": "28",
       "subject": "E",
       "questionText": "In MS PowerPoint, what is a single page of a presentation called?",
       "options": [
-        "Sheet",
         "Slide",
+        "Sheet",
         "Page",
         "Frame"
       ],
@@ -373,8 +373,8 @@
       "questionText": "Which device is used to connect a computer to the internet by converting digital signals to analog and back?",
       "options": [
         "Switch",
-        "Repeater",
         "Modem",
+        "Repeater",
         "Hub"
       ],
       "correctAnswer": "Modem",
@@ -399,9 +399,9 @@
       "questionText": "Which of the following is an example of an operating system for mobile devices?",
       "options": [
         "MS Word",
+        "Android",
         "Oracle",
-        "Photoshop",
-        "Android"
+        "Photoshop"
       ],
       "correctAnswer": "Android",
       "explanation": "Android is a widely used operating system for smartphones and tablets. MS Word is a word processor, Oracle is a database system, and Photoshop is image-editing software, none of which is a mobile operating system, so Android is correct."
@@ -411,8 +411,8 @@
       "subject": "E",
       "questionText": "Fill in the blank: In email, sending a copy of a message to a recipient whose address is hidden from other recipients is done using the __________ field.",
       "options": [
-        "BCC",
         "To",
+        "BCC",
         "CC",
         "Subject"
       ],
@@ -424,8 +424,8 @@
       "questionText": "Which of the following are network topologies?\n\n(i) Star\n(ii) Kernel\n(iii) Bus\n(iv) Ring\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (iii) and (iv)",
@@ -451,8 +451,8 @@
       "options": [
         "IP address",
         "URL",
-        "Domain name",
-        "MAC address"
+        "MAC address",
+        "Domain name"
       ],
       "correctAnswer": "MAC address",
       "explanation": "A MAC (Media Access Control) address is a unique hardware identifier built into a network interface card. An IP address can change and is assigned logically, a URL is a web address, and a domain name is a readable site label, so the MAC address is the correct hardware identifier.",
@@ -462,10 +462,10 @@
       "subject": "E",
       "questionText": "In a spreadsheet, a group of selected adjacent cells is called a:",
       "options": [
-        "Range",
         "Sheet",
         "Field",
-        "Record"
+        "Record",
+        "Range"
       ],
       "correctAnswer": "Range",
       "explanation": "A group of selected adjacent cells in a spreadsheet is called a range, for example A1:A10. A sheet is an entire worksheet, a field is a database column, and a record is a database row, so 'range' is the correct term for a group of cells.",
@@ -489,9 +489,9 @@
       "questionText": "Which of the following best describes 'cache memory'?",
       "options": [
         "A permanent magnetic storage disk",
-        "A high-speed memory placed between the CPU and main memory",
         "A type of printer",
-        "A network connecting cable"
+        "A network connecting cable",
+        "A high-speed memory placed between the CPU and main memory"
       ],
       "correctAnswer": "A high-speed memory placed between the CPU and main memory",
       "explanation": "Cache memory is a small, very fast memory located between the CPU and main memory to speed up access to frequently used data. It is not a magnetic storage disk, a printer, or a cable, so the high-speed intermediate memory description is correct.",
@@ -504,8 +504,8 @@
       "options": [
         "AutoSum",
         "AutoFill",
-        "AutoCorrect",
-        "AutoFit"
+        "AutoFit",
+        "AutoCorrect"
       ],
       "correctAnswer": "AutoCorrect",
       "explanation": "AutoCorrect automatically fixes common typing and spelling errors as you type in Word. AutoSum and AutoFill are Excel features, and AutoFit adjusts column or row size, so AutoCorrect is the correct word-processing feature."
@@ -513,15 +513,15 @@
     {
       "id": "40",
       "subject": "E",
-      "questionText": "Which of the following are examples of web browsers?\n\n(i) Opera\n(ii) Safari\n(iii) Brave\n(iv) Gmail\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of web browsers?\n\n(i) Opera\n(ii) Safari\n(iii) Gmail\n(iv) Brave\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Opera, Safari and Brave are all web browsers used to access websites (i, ii, iii). Gmail (iv) is an email service accessed through a browser, not a browser itself, so any option containing (iv) is incorrect, leaving (i), (ii) and (iii)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Opera, Safari and Brave are all web browsers used to access websites (i, ii, iii). Gmail (iii) is an email service accessed through a browser, not a browser itself, so any option containing (iii) is incorrect, leaving (i), (ii) and (iv)."
     },
     {
       "subject": "E",
@@ -554,8 +554,8 @@
       "questionText": "Consider the following statements about MS Excel:\n\n(i) The AutoSum feature quickly adds a column of numbers.\n(ii) A cell reference such as B3 identifies column B, row 3.\n(iii) Excel files traditionally use the .xlsx extension.\n(iv) Excel cannot sort data in a column.\n\nWhich of the statements given above are correct?",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -568,9 +568,9 @@
       "questionText": "Which of the following is NOT a valid email service provider?",
       "options": [
         "Gmail",
+        "Photoshop",
         "Outlook",
-        "Yahoo Mail",
-        "Photoshop"
+        "Yahoo Mail"
       ],
       "correctAnswer": "Photoshop",
       "explanation": "Gmail, Outlook and Yahoo Mail are all email services. Photoshop is an image-editing application, not an email service, so it is the correct answer to the 'NOT a valid email service provider' question."
@@ -580,9 +580,9 @@
       "subject": "E",
       "questionText": "Fill in the blank: A collection of related data organised for easy access and management is called a __________.",
       "options": [
-        "database",
         "spreadsheet",
         "browser",
+        "database",
         "protocol"
       ],
       "correctAnswer": "database",
@@ -593,8 +593,8 @@
       "questionText": "Match the ports/connectors in Column I with their typical use in Column II:\n\nColumn I:\n(a) HDMI\n(b) USB\n(c) Ethernet (RJ45)\n(d) VGA\n\nColumn II:\n(i) Wired network connection\n(ii) Digital audio and video output\n(iii) Analog video display\n(iv) Connecting peripheral devices\n\nChoose the correct match:",
       "options": [
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
@@ -617,25 +617,25 @@
     {
       "id": "48",
       "subject": "E",
-      "questionText": "Consider the following statements about computer security threats:\n\n(i) A worm can spread across networks without user action.\n(ii) Spyware secretly gathers information about a user.\n(iii) A firewall is a type of computer virus.\n(iv) Ransomware demands payment to restore access to data.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer security threats:\n\n(i) A firewall is a type of computer virus.\n(ii) A worm can spread across networks without user action.\n(iii) Spyware secretly gathers information about a user.\n(iv) Ransomware demands payment to restore access to data.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A worm spreads without user action (i), spyware secretly collects data (ii), and ransomware demands payment to unlock data (iv). Statement (iii) is wrong because a firewall is a protective security barrier, not a virus, so any option containing (iii) is incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "A worm spreads without user action (ii), spyware secretly collects data (iii), and ransomware demands payment to unlock data (iv). Statement (i) is wrong because a firewall is a protective security barrier, not a virus, so any option containing (i) is incorrect."
     },
     {
       "id": "49",
       "subject": "E",
       "questionText": "Which part of a URL such as 'https://www.example.com' indicates the protocol being used?",
       "options": [
-        "https",
         "www",
         "example",
-        "com"
+        "com",
+        "https"
       ],
       "correctAnswer": "https",
       "explanation": "In the URL, 'https' before the colon indicates the protocol (secure HTTP) used to access the resource. 'www' is a subdomain, 'example' is the domain name, and 'com' is the top-level domain, so 'https' identifies the protocol."
@@ -646,9 +646,9 @@
       "questionText": "What is the main advantage of using a search engine's quotation marks around a phrase (e.g., \"solar system\")?",
       "options": [
         "It excludes the phrase from results",
-        "It searches for the exact phrase",
         "It translates the phrase",
-        "It sorts results alphabetically"
+        "It sorts results alphabetically",
+        "It searches for the exact phrase"
       ],
       "correctAnswer": "It searches for the exact phrase",
       "explanation": "Putting a phrase in quotation marks tells the search engine to find that exact phrase in the given word order. It does not exclude the phrase, translate it, or sort results alphabetically, so searching for the exact phrase is the correct advantage."

@@ -21,9 +21,9 @@
       "subject": "B",
       "questionText": "Which Indian scientist is known as the 'Father of the Indian Space Programme'?",
       "options": [
+        "Vikram Sarabhai",
         "A. P. J. Abdul Kalam",
         "Satish Dhawan",
-        "Vikram Sarabhai",
         "K. Sivan"
       ],
       "correctAnswer": "Vikram Sarabhai",
@@ -32,15 +32,15 @@
     {
       "id": "3",
       "subject": "B",
-      "questionText": "Consider the following statements about world capitals:\n\n(i) The capital of Australia is Canberra.\n(ii) The capital of Canada is Ottawa.\n(iii) The capital of the United States is New York.\n(iv) The capital of Japan is Tokyo.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about world capitals:\n\n(i) The capital of the United States is New York.\n(ii) The capital of Australia is Canberra.\n(iii) The capital of Canada is Ottawa.\n(iv) The capital of Japan is Tokyo.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Canberra is Australia's capital (i), Ottawa is Canada's (ii), and Tokyo is Japan's (iv). Statement (iii) is false because the capital of the United States is Washington, D.C., not New York, so any option containing (iii) is eliminated, leaving '(i), (ii) and (iv)'."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Canberra is Australia's capital (ii), Ottawa is Canada's (iii), and Tokyo is Japan's (iv). Statement (i) is false because the capital of the United States is Washington, D.C., not New York, so any option containing (i) is eliminated, leaving '(ii), (iii) and (iv)'."
     },
     {
       "id": "4",
@@ -48,9 +48,9 @@
       "questionText": "The 'Kaziranga National Park', known for the one-horned rhinoceros, is located in which state?",
       "options": [
         "West Bengal",
+        "Assam",
         "Odisha",
-        "Bihar",
-        "Assam"
+        "Bihar"
       ],
       "correctAnswer": "Assam",
       "explanation": "Kaziranga National Park, famous for the great one-horned rhinoceros, is in Assam. West Bengal has the Sundarbans, Odisha has Similipal, and Bihar has Valmiki, so none of them hosts Kaziranga, which lies in Assam along the Brahmaputra."
@@ -58,15 +58,15 @@
     {
       "id": "5",
       "subject": "B",
-      "questionText": "Which of the following are Ramsar Wetland Sites located in India?\n\n(i) Chilika Lake\n(ii) Loktak Lake\n(iii) Sambhar Lake\n(iv) Mount Abu\n\nSelect the correct combination:",
+      "questionText": "Which of the following are Ramsar Wetland Sites located in India?\n\n(i) Chilika Lake\n(ii) Mount Abu\n(iii) Loktak Lake\n(iv) Sambhar Lake\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Chilika, Loktak and Sambhar lakes are recognised Ramsar wetland sites. Mount Abu is a hill station in Rajasthan, not a wetland, so any combination containing (iv) is wrong, leaving '(i), (ii) and (iii)' as the correct set of Ramsar sites."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Chilika, Loktak and Sambhar lakes are recognised Ramsar wetland sites. Mount Abu is a hill station in Rajasthan, not a wetland, so any combination containing (ii) is wrong, leaving '(i), (iii) and (iv)' as the correct set of Ramsar sites."
     },
     {
       "id": "6",
@@ -87,8 +87,8 @@
       "questionText": "Which is the largest state of India by geographical area?",
       "options": [
         "Madhya Pradesh",
-        "Rajasthan",
         "Maharashtra",
+        "Rajasthan",
         "Uttar Pradesh"
       ],
       "correctAnswer": "Rajasthan",
@@ -125,10 +125,10 @@
       "subject": "B",
       "questionText": "The 'Radcliffe Line' forms the boundary between India and which country?",
       "options": [
-        "Pakistan",
         "China",
         "Nepal",
-        "Myanmar"
+        "Myanmar",
+        "Pakistan"
       ],
       "correctAnswer": "Pakistan",
       "explanation": "The Radcliffe Line, drawn in 1947, demarcates the India–Pakistan (and India–Bangladesh) border. The India–China border is the McMahon Line/LAC, the India–Nepal border is defined by treaty, and India–Myanmar has its own boundary, so the Radcliffe Line refers to the Pakistan border."
@@ -140,8 +140,8 @@
       "options": [
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
+        "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "Bharatanatyam is from Tamil Nadu, Kathakali from Kerala, Odissi from Odisha, and Kuchipudi from Andhra Pradesh. The other options swap pairs, such as placing Bharatanatyam in Kerala or Odissi in Tamil Nadu, which are incorrect, so the first mapping is right."
@@ -151,8 +151,8 @@
       "subject": "B",
       "questionText": "Who was the first Indian woman to serve as President of the Indian National Congress?",
       "options": [
-        "Annie Besant",
         "Sarojini Naidu",
+        "Annie Besant",
         "Indira Gandhi",
         "Vijaya Lakshmi Pandit"
       ],
@@ -164,10 +164,10 @@
       "subject": "B",
       "questionText": "The 'Jog Falls', one of the highest waterfalls in India, is formed by which river?",
       "options": [
+        "Sharavati",
         "Kaveri",
         "Godavari",
-        "Tungabhadra",
-        "Sharavati"
+        "Tungabhadra"
       ],
       "correctAnswer": "Sharavati",
       "explanation": "Jog Falls in Karnataka is formed by the Sharavati river. The Kaveri forms the Shivanasamudra Falls, the Godavari has other falls, and the Tungabhadra is a tributary of the Krishna, so none of them creates Jog Falls, which is on the Sharavati."
@@ -177,8 +177,8 @@
       "subject": "B",
       "questionText": "Which Constitutional Amendment is known for adding the words 'Socialist', 'Secular' and 'Integrity' to the Preamble?",
       "options": [
-        "42nd Amendment",
         "44th Amendment",
+        "42nd Amendment",
         "1st Amendment",
         "73rd Amendment"
       ],
@@ -191,8 +191,8 @@
       "questionText": "The 'Simon Commission', which arrived in India in 1928, was boycotted mainly because:",
       "options": [
         "It proposed the partition of India",
-        "It banned the Indian National Congress",
         "It had no Indian members",
+        "It banned the Indian National Congress",
         "It doubled the land tax"
       ],
       "correctAnswer": "It had no Indian members",
@@ -204,8 +204,8 @@
       "questionText": "Consider the following statements about India's major crops:\n\n(i) Rice is a kharif crop.\n(ii) Wheat is a rabi crop.\n(iii) India is the largest producer of jute in the world.\n(iv) Cotton grows best in the black soil of the Deccan.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii), (iii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii), (iii) and (iv)",
@@ -218,8 +218,8 @@
       "options": [
         "1857",
         "1919",
-        "1905",
-        "1943"
+        "1943",
+        "1905"
       ],
       "correctAnswer": "1943",
       "explanation": "The Bengal Famine occurred in 1943 during the Second World War. 1857 was the year of the Revolt, 1919 saw the Jallianwala Bagh massacre, and 1905 was the partition of Bengal, so none of those is the famine year, which is 1943."
@@ -229,9 +229,9 @@
       "subject": "B",
       "questionText": "Which river is known as the 'Sorrow of Bengal' due to its historically destructive floods?",
       "options": [
-        "Damodar",
         "Kosi",
         "Hooghly",
+        "Damodar",
         "Teesta"
       ],
       "correctAnswer": "Damodar",
@@ -244,8 +244,8 @@
       "options": [
         "Provide free cooking gas connections",
         "Build rural roads",
-        "Transform India into a digitally empowered society",
-        "Guarantee crop insurance"
+        "Guarantee crop insurance",
+        "Transform India into a digitally empowered society"
       ],
       "correctAnswer": "Transform India into a digitally empowered society",
       "explanation": "Digital India aims to make India a digitally empowered society and knowledge economy with better e-governance and connectivity. Free LPG is the Ujjwala scheme, rural roads are under PMGSY, and crop insurance is Fasal Bima, so digital empowerment is the correct objective."
@@ -269,9 +269,9 @@
       "questionText": "The 'Nalanda University', an ancient centre of learning, was located in which present-day state?",
       "options": [
         "Uttar Pradesh",
-        "Bihar",
         "West Bengal",
-        "Madhya Pradesh"
+        "Madhya Pradesh",
+        "Bihar"
       ],
       "correctAnswer": "Bihar",
       "explanation": "The ancient Nalanda University was in present-day Bihar. Uttar Pradesh, West Bengal and Madhya Pradesh have their own historical sites, but the famous Buddhist university of Nalanda was located in Bihar, so it is the correct state."
@@ -279,15 +279,15 @@
     {
       "id": "22",
       "subject": "B",
-      "questionText": "Which of the following are permanent members of the UN Security Council?\n\n(i) United States\n(ii) China\n(iii) India\n(iv) Russia\n\nSelect the correct combination:",
+      "questionText": "Which of the following are permanent members of the UN Security Council?\n\n(i) United States\n(ii) China\n(iii) Russia\n(iv) India\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "The United States, China and Russia are permanent (veto-holding) members of the UN Security Council, along with the UK and France. India is a non-permanent member elected periodically, not a permanent one, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)'."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "The United States, China and Russia are permanent (veto-holding) members of the UN Security Council, along with the UK and France. India is a non-permanent member elected periodically, not a permanent one, so any combination containing (iv) is wrong, leaving '(i), (ii) and (iii)'."
     },
     {
       "id": "23",
@@ -308,8 +308,8 @@
       "questionText": "The currency of which country is the 'Dinar'?",
       "options": [
         "Turkey",
-        "Iran",
         "Kuwait",
+        "Iran",
         "Egypt"
       ],
       "correctAnswer": "Kuwait",
@@ -335,8 +335,8 @@
       "options": [
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
       "explanation": "The Bharat Ratna is the highest civilian honour, the Param Vir Chakra the highest wartime gallantry award, the Dronacharya Award is for excellence in sports coaching, and the Jnanpith Award is for literature. The other options swap pairs, such as making Bharat Ratna a gallantry award, which is wrong."
@@ -346,9 +346,9 @@
       "subject": "B",
       "questionText": "The 'Western Ghats', a biodiversity hotspot, run parallel to which coast of India?",
       "options": [
-        "Western coast (Arabian Sea)",
         "Eastern coast (Bay of Bengal)",
         "Southern tip only",
+        "Western coast (Arabian Sea)",
         "Northern plains"
       ],
       "correctAnswer": "Western coast (Arabian Sea)",
@@ -373,9 +373,9 @@
       "questionText": "The following data shows the food-grain production (in million tonnes) of a country over four years:\n\n2021 → 250\n2022 → 275\n2023 → 300\n2024 → 315\n\nWhat was the total increase in production from 2021 to 2024?",
       "options": [
         "50",
-        "65",
         "40",
-        "70"
+        "70",
+        "65"
       ],
       "correctAnswer": "65",
       "explanation": "Increase = 315 − 250 = 65 million tonnes. '50' and '40' are only partial year-to-year increases, and '70' overstates the total, so the correct overall increase from 2021 to 2024 is 65 million tonnes."
@@ -411,9 +411,9 @@
       "subject": "B",
       "questionText": "Who is known as the 'Iron Man of India' for integrating the princely states after independence?",
       "options": [
+        "Sardar Vallabhbhai Patel",
         "Jawaharlal Nehru",
         "Lal Bahadur Shastri",
-        "Sardar Vallabhbhai Patel",
         "Rajendra Prasad"
       ],
       "correctAnswer": "Sardar Vallabhbhai Patel",
@@ -435,15 +435,15 @@
     {
       "id": "34",
       "subject": "B",
-      "questionText": "Which of the following are members of the 'BRICS' grouping (original five members)?\n\n(i) Brazil\n(ii) Russia\n(iii) India\n(iv) Japan\n\nSelect the correct combination:",
+      "questionText": "Which of the following are members of the 'BRICS' grouping (original five members)?\n\n(i) Japan\n(ii) Brazil\n(iii) Russia\n(iv) India\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Brazil, Russia and India are among the original BRICS members (with China and South Africa). Japan is not a BRICS member, so any combination containing (iv) is wrong, leaving '(i), (ii) and (iii)' as the correct set of listed members."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Brazil, Russia and India are among the original BRICS members (with China and South Africa). Japan is not a BRICS member, so any combination containing (i) is wrong, leaving '(ii), (iii) and (iv)' as the correct set of listed members."
     },
     {
       "id": "35",
@@ -451,8 +451,8 @@
       "questionText": "The 'Wular Lake', one of the largest freshwater lakes in Asia, and the 'Dal Lake' are situated in which region of India?",
       "options": [
         "Himachal Pradesh",
-        "Uttarakhand",
         "Jammu and Kashmir",
+        "Uttarakhand",
         "Sikkim"
       ],
       "correctAnswer": "Jammu and Kashmir",
@@ -464,8 +464,8 @@
       "questionText": "Which Mughal emperor built the 'Taj Mahal' in memory of his wife Mumtaz Mahal?",
       "options": [
         "Akbar",
-        "Shah Jahan",
         "Jahangir",
+        "Shah Jahan",
         "Humayun"
       ],
       "correctAnswer": "Shah Jahan",
@@ -478,8 +478,8 @@
       "options": [
         "Cricket",
         "Hockey",
-        "Tennis",
-        "Football"
+        "Football",
+        "Tennis"
       ],
       "correctAnswer": "Football",
       "explanation": "The FIFA World Cup is the premier international football tournament. Cricket has the ICC World Cup, hockey has its own World Cup, and tennis has Grand Slam tournaments, so the FIFA World Cup specifically belongs to football."
@@ -491,8 +491,8 @@
       "options": [
         "Tamil Nadu and Kerala",
         "Odisha and West Bengal",
-        "Maharashtra and Karnataka/Goa along the west coast",
-        "Gujarat and Rajasthan"
+        "Gujarat and Rajasthan",
+        "Maharashtra and Karnataka/Goa along the west coast"
       ],
       "correctAnswer": "Maharashtra and Karnataka/Goa along the west coast",
       "explanation": "The Konkan Railway runs along the western coast, linking Maharashtra with Goa and Karnataka through difficult terrain. It does not connect Tamil Nadu–Kerala, Odisha–West Bengal, or Gujarat–Rajasthan, so the Maharashtra–Goa–Karnataka corridor is the correct answer."
@@ -503,12 +503,12 @@
       "questionText": "Which fundamental right is described as the 'heart and soul' of the Indian Constitution by Dr. B. R. Ambedkar?",
       "options": [
         "Right to Equality",
-        "Right to Constitutional Remedies",
         "Right to Freedom",
-        "Right against Exploitation"
+        "Right against Exploitation",
+        "Right to Constitutional Remedies"
       ],
       "correctAnswer": "Right to Constitutional Remedies",
-      "explanation": "Dr. Ambedkar called the Right to Constitutional Remedies (Article 32) the 'heart and soul' of the Constitution because it allows citizens to approach the Supreme Court to enforce their rights. The Rights to Equality, Freedom and against Exploitation are important but were not given this description, so the first option is correct."
+      "explanation": "Dr. Ambedkar called the Right to Constitutional Remedies (Article 32) the 'heart and soul' of the Constitution because it allows citizens to approach the Supreme Court to enforce their rights. The Rights to Equality, Freedom and against Exploitation are important but were not given this description, so 'Right to Equality' is correct."
     },
     {
       "id": "40",

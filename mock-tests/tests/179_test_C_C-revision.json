@@ -21,9 +21,9 @@
       "subject": "C",
       "questionText": "The 'Mubarak Mandi' palace complex, an example of Rajasthani, Mughal and European architecture, is located in which city of J&K?",
       "options": [
+        "Jammu",
         "Srinagar",
         "Anantnag",
-        "Jammu",
         "Baramulla"
       ],
       "correctAnswer": "Jammu",
@@ -32,15 +32,15 @@
     {
       "id": "3",
       "subject": "C",
-      "questionText": "Consider the following statements about the Kishanganga Hydroelectric Project:\n\n(i) It is located on the Kishanganga (Neelum) river.\n(ii) It is situated in the Bandipora district.\n(iii) It became a point of dispute with Pakistan under the Indus Waters Treaty.\n(iv) It is a thermal power project.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Kishanganga Hydroelectric Project:\n\n(i) It is located on the Kishanganga (Neelum) river.\n(ii) It is a thermal power project.\n(iii) It is situated in the Bandipora district.\n(iv) It became a point of dispute with Pakistan under the Indus Waters Treaty.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Kishanganga project is on the Kishanganga river (i), lies in Bandipora district (ii) and was contested by Pakistan at the international arbitration court under the Indus Waters Treaty (iii). Statement (iv) is false because it is a hydroelectric, not thermal, project, so any option with (iv) is eliminated."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "The Kishanganga project is on the Kishanganga river (i), lies in Bandipora district (iii) and was contested by Pakistan at the international arbitration court under the Indus Waters Treaty (iv). Statement (ii) is false because it is a hydroelectric, not thermal, project, so any option with (ii) is eliminated."
     },
     {
       "id": "4",
@@ -48,9 +48,9 @@
       "questionText": "Which dynasty ruled Kashmir immediately before the establishment of the Mughal rule, and was founded by Ghazi Shah?",
       "options": [
         "Shah Mir dynasty",
+        "Chak dynasty",
         "Lohara dynasty",
-        "Karkota dynasty",
-        "Chak dynasty"
+        "Karkota dynasty"
       ],
       "correctAnswer": "Chak dynasty",
       "explanation": "The Chak dynasty, founded by Ghazi Shah Chak, ruled Kashmir just before Akbar annexed it in 1586. The Shah Mir dynasty ruled earlier in the 14th–16th centuries; the Lohara and Karkota dynasties were much earlier Hindu dynasties, so none of them immediately preceded Mughal rule."
@@ -73,8 +73,8 @@
       "subject": "C",
       "questionText": "The 'Amar Mahal Palace', now a museum housing a golden throne and rare miniature paintings, is situated in which city?",
       "options": [
-        "Jammu",
         "Udhampur",
+        "Jammu",
         "Srinagar",
         "Kathua"
       ],
@@ -87,8 +87,8 @@
       "questionText": "Which of the following are freshwater lakes located in the Kashmir Valley?\n\n(i) Manasbal Lake\n(ii) Wular Lake\n(iii) Pangong Tso\n(iv) Anchar Lake\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -100,8 +100,8 @@
       "questionText": "The Dogri language, widely spoken in the Jammu region, is written primarily in which script today?",
       "options": [
         "Sharada",
-        "Devanagari",
         "Perso-Arabic",
+        "Devanagari",
         "Gurmukhi"
       ],
       "correctAnswer": "Devanagari",
@@ -114,8 +114,8 @@
       "options": [
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
       "explanation": "After the 2019 reorganisation the central RTI Act, 2005 extended to J&K (i), the J&K RTI Act, 2009 was repealed (ii), and requests are handled by a PIO (iii). Statement (iv) is false because sensitive matters like national security are exempt from disclosure, so any option containing (iv) is wrong."
@@ -125,9 +125,9 @@
       "subject": "C",
       "questionText": "The famous 'Char Chinar' island, planted with chinar trees at its four corners, is located in which lake?",
       "options": [
-        "Dal Lake",
         "Wular Lake",
         "Manasbal Lake",
+        "Dal Lake",
         "Nagin Lake"
       ],
       "correctAnswer": "Dal Lake",
@@ -140,8 +140,8 @@
       "options": [
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
-        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
+        "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "The Jhelum flows through the Kashmir Valley and Srinagar, the Chenab through the Doda–Ramban region, the Tawi through Jammu city, and the Lidder through the Pahalgam–Anantnag area. The other options misplace at least one river, such as putting the Jhelum in Pahalgam or the Tawi in Doda, which is geographically wrong."
@@ -152,9 +152,9 @@
       "questionText": "The 'Zojila Tunnel', under construction to provide all-weather connectivity, will connect which two regions?",
       "options": [
         "Jammu and Srinagar",
-        "Ganderbal (Kashmir) and Drass (Ladakh)",
         "Banihal and Qazigund",
-        "Udhampur and Katra"
+        "Udhampur and Katra",
+        "Ganderbal (Kashmir) and Drass (Ladakh)"
       ],
       "correctAnswer": "Ganderbal (Kashmir) and Drass (Ladakh)",
       "explanation": "The Zojila Tunnel is being built to give all-weather access across the Zojila pass, linking the Ganderbal side in Kashmir with the Drass–Kargil side in Ladakh. Jammu–Srinagar and Banihal–Qazigund are connected by the Banihal (Jawahar/Pir Panjal) tunnel, and Udhampur–Katra by rail, so they are different projects."
@@ -190,9 +190,9 @@
       "subject": "C",
       "questionText": "The 'Salal Hydroelectric Project', one of the earliest major projects on the Chenab, is located in which district?",
       "options": [
+        "Reasi",
         "Ramban",
         "Kishtwar",
-        "Reasi",
         "Doda"
       ],
       "correctAnswer": "Reasi",
@@ -230,9 +230,9 @@
       "questionText": "Fill in the blank: The traditional Kashmiri handicraft of fine embroidery done on woollen shawls, known worldwide, is called __________ work. __________",
       "options": [
         "Zari",
+        "Sozni",
         "Chikankari",
-        "Kantha",
-        "Sozni"
+        "Kantha"
       ],
       "correctAnswer": "Sozni",
       "explanation": "Sozni is the delicate needle embroidery done on Kashmiri pashmina and woollen shawls. Zari uses metallic thread and is common in other regions; Chikankari is a Lucknow embroidery; Kantha is a Bengali running-stitch craft, so none of these is the characteristic Kashmiri shawl embroidery named Sozni."
@@ -242,8 +242,8 @@
       "subject": "C",
       "questionText": "Which lake in Srinagar, smaller and deeper than the Dal, is famous for houseboats and its clear waters?",
       "options": [
-        "Nagin Lake",
         "Wular Lake",
+        "Nagin Lake",
         "Manasbal Lake",
         "Gangabal Lake"
       ],
@@ -256,8 +256,8 @@
       "questionText": "The 'Dachigam National Park', known for the endangered Hangul, lies close to which city?",
       "options": [
         "Jammu",
-        "Leh",
         "Srinagar",
+        "Leh",
         "Kathua"
       ],
       "correctAnswer": "Srinagar",
@@ -266,15 +266,15 @@
     {
       "id": "21",
       "subject": "C",
-      "questionText": "Consider the following statements about the Amarnath cave shrine:\n\n(i) It is one of the most revered shrines dedicated to Lord Shiva.\n(ii) A naturally forming ice Shivalingam is worshipped there.\n(iii) The traditional yatra routes pass through Pahalgam and Baltal.\n(iv) The cave is located in the Jammu division.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Amarnath cave shrine:\n\n(i) The cave is located in the Jammu division.\n(ii) It is one of the most revered shrines dedicated to Lord Shiva.\n(iii) A naturally forming ice Shivalingam is worshipped there.\n(iv) The traditional yatra routes pass through Pahalgam and Baltal.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Amarnath cave is a major Shiva shrine (i) with a natural ice lingam (ii), reached via the Pahalgam and Baltal routes (iii). Statement (iv) is false because the cave lies in the Kashmir division (Anantnag district), not the Jammu division, so any option containing (iv) is eliminated."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The Amarnath cave is a major Shiva shrine (ii) with a natural ice lingam (iii), reached via the Pahalgam and Baltal routes (iv). Statement (i) is false because the cave lies in the Kashmir division (Anantnag district), not the Jammu division, so any option containing (i) is eliminated."
     },
     {
       "id": "22",
@@ -283,8 +283,8 @@
       "options": [
         "Chenab",
         "Ravi",
-        "Tawi",
-        "Jhelum"
+        "Jhelum",
+        "Tawi"
       ],
       "correctAnswer": "Jhelum",
       "explanation": "The Uri power project in Baramulla district is built on the Jhelum river. The Chenab hosts Salal, Baglihar and Dulhasti; the Ravi and Tawi are separate rivers in the Jammu region without the Uri project, so the Jhelum is the correct river."
@@ -294,9 +294,9 @@
       "subject": "C",
       "questionText": "The apple, a leading horticultural crop of J&K, is most extensively grown in which region?",
       "options": [
-        "Kashmir Valley (Shopian, Sopore)",
         "Ladakh (Leh, Nubra)",
         "Kathua plains",
+        "Kashmir Valley (Shopian, Sopore)",
         "Poonch foothills"
       ],
       "correctAnswer": "Kashmir Valley (Shopian, Sopore)",
@@ -309,8 +309,8 @@
       "options": [
         "Banihal Pass",
         "Sadhna Pass",
-        "Khardung La",
-        "Mughal Road pass (Pir Ki Gali)"
+        "Mughal Road pass (Pir Ki Gali)",
+        "Khardung La"
       ],
       "correctAnswer": "Khardung La",
       "explanation": "Khardung La, north of Leh on the route to the Nubra Valley, is famous as one of the highest motorable passes in Ladakh. Banihal links Jammu and Kashmir; Sadhna connects the Valley with Karnah; and Pir Ki Gali is on the Mughal Road in the Pir Panjal, so none of these is the Ladakh pass described."
@@ -334,9 +334,9 @@
       "questionText": "The 'Vaishno Devi' shrine, one of the most visited pilgrimage sites in India, is located in the Trikuta hills of which district?",
       "options": [
         "Udhampur",
-        "Reasi",
         "Rajouri",
-        "Samba"
+        "Samba",
+        "Reasi"
       ],
       "correctAnswer": "Reasi",
       "explanation": "The Mata Vaishno Devi cave shrine in the Trikuta hills near Katra falls in the Reasi district. Udhampur, Rajouri and Samba are neighbouring districts of the Jammu division, but the shrine and Katra base camp specifically lie in Reasi, so it is the correct district."
@@ -344,15 +344,15 @@
     {
       "id": "27",
       "subject": "C",
-      "questionText": "Which of the following are hill/tourist stations located in the Jammu division of J&K?\n\n(i) Patnitop\n(ii) Bhaderwah\n(iii) Gulmarg\n(iv) Sanasar\n\nSelect the correct combination:",
+      "questionText": "Which of the following are hill/tourist stations located in the Jammu division of J&K?\n\n(i) Patnitop\n(ii) Gulmarg\n(iii) Bhaderwah\n(iv) Sanasar\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Patnitop, Bhaderwah and Sanasar are hill stations of the Jammu division. Gulmarg is a famous resort in the Kashmir Valley (Baramulla district), not the Jammu division, so any combination containing (iii) is wrong, leaving '(i), (ii) and (iv)'."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Patnitop, Bhaderwah and Sanasar are hill stations of the Jammu division. Gulmarg is a famous resort in the Kashmir Valley (Baramulla district), not the Jammu division, so any combination containing (ii) is wrong, leaving '(i), (iii) and (iv)'."
     },
     {
       "id": "28",
@@ -372,9 +372,9 @@
       "subject": "C",
       "questionText": "The Karewas of the Kashmir Valley, important for saffron and almond cultivation, are best described as:",
       "options": [
+        "Elevated flat-topped terraces of lacustrine deposits",
         "Deep river gorges cut by the Jhelum",
         "Glacial lakes at high altitude",
-        "Elevated flat-topped terraces of lacustrine deposits",
         "Volcanic plateaus of black soil"
       ],
       "correctAnswer": "Elevated flat-topped terraces of lacustrine deposits",
@@ -399,9 +399,9 @@
       "questionText": "The historic 'Hari Parbat Fort' overlooking Srinagar was largely built during the reign of which ruler?",
       "options": [
         "Maharaja Gulab Singh",
+        "Atta Muhammad Khan (Afghan governor)",
         "Emperor Jahangir",
-        "Sultan Sikandar",
-        "Atta Muhammad Khan (Afghan governor)"
+        "Sultan Sikandar"
       ],
       "correctAnswer": "Atta Muhammad Khan (Afghan governor)",
       "explanation": "The present Hari Parbat fort was largely constructed by the Afghan governor Atta Muhammad Khan in the early 19th century, though Akbar built the outer wall (Kalai) earlier. Maharaja Gulab Singh founded the Dogra dynasty later; Jahangir built gardens; and Sultan Sikandar ruled much earlier, so they are not credited with this fort."
@@ -411,8 +411,8 @@
       "subject": "C",
       "questionText": "Match the following J&K hydroelectric projects with the districts in which they are located:\n\nColumn I:\n(a) Baglihar\n(b) Uri\n(c) Dulhasti\n(d) Salal\n\nColumn II:\n(i) Baramulla\n(ii) Ramban\n(iii) Reasi\n(iv) Kishtwar\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
@@ -438,8 +438,8 @@
       "questionText": "The 'Dogra dynasty', which ruled the princely state of Jammu and Kashmir until 1947, was founded by which ruler after the Treaty of Amritsar (1846)?",
       "options": [
         "Maharaja Hari Singh",
-        "Maharaja Gulab Singh",
         "Maharaja Pratap Singh",
+        "Maharaja Gulab Singh",
         "Maharaja Ranbir Singh"
       ],
       "correctAnswer": "Maharaja Gulab Singh",
@@ -448,25 +448,25 @@
     {
       "id": "35",
       "subject": "C",
-      "questionText": "Consider the following statements about the transport and connectivity of J&K:\n\n(i) The Jammu–Baramulla railway line is being developed to connect the Kashmir Valley by rail.\n(ii) The Chenab Bridge is the world's highest railway arch bridge.\n(iii) The Jawahar (Banihal) Tunnel connects Jammu with the Kashmir Valley by road.\n(iv) Srinagar has no airport.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the transport and connectivity of J&K:\n\n(i) The Jammu–Baramulla railway line is being developed to connect the Kashmir Valley by rail.\n(ii) The Chenab Bridge is the world's highest railway arch bridge.\n(iii) Srinagar has no airport.\n(iv) The Jawahar (Banihal) Tunnel connects Jammu with the Kashmir Valley by road.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The USBRL rail project connects Kashmir via the Jammu–Baramulla line (i), the Chenab Bridge is the world's highest railway arch bridge (ii), and the Banihal tunnel links Jammu with the Valley by road (iii). Statement (iv) is false because Srinagar has an international airport, so any option containing (iv) is eliminated."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "The USBRL rail project connects Kashmir via the Jammu–Baramulla line (i), the Chenab Bridge is the world's highest railway arch bridge (ii), and the Banihal tunnel links Jammu with the Valley by road (iv). Statement (iii) is false because Srinagar has an international airport, so any option containing (iii) is eliminated."
     },
     {
       "id": "36",
       "subject": "C",
       "questionText": "The 'Gurez Valley', a scenic high-altitude valley near the Line of Control, lies in which district?",
       "options": [
-        "Bandipora",
         "Kupwara",
         "Baramulla",
-        "Ganderbal"
+        "Ganderbal",
+        "Bandipora"
       ],
       "correctAnswer": "Bandipora",
       "explanation": "The Gurez Valley, drained by the Kishanganga river, lies in the Bandipora district of north Kashmir. Kupwara, Baramulla and Ganderbal are neighbouring districts, but Gurez specifically falls within Bandipora, so it is the correct answer."
@@ -478,8 +478,8 @@
       "options": [
         "Chinar",
         "Deodar",
-        "Walnut",
-        "Willow"
+        "Willow",
+        "Walnut"
       ],
       "correctAnswer": "Walnut",
       "explanation": "Kashmiri carved furniture is famous for using walnut wood, prized for its grain and hardness. Chinar is a maple valued for shade and autumn colour, deodar is a construction timber, and willow is used for cricket bats and wickerwork, so walnut is the wood behind this craft."
@@ -490,9 +490,9 @@
       "questionText": "Which festival, celebrated by Kashmiri Pandits, is dedicated to the goddess and observed at the Kheer Bhawani temple in Ganderbal?",
       "options": [
         "Lohri",
-        "Kheer Bhawani Mela (Zyeth Ashtami)",
         "Baisakhi",
-        "Shivratri (Herath)"
+        "Shivratri (Herath)",
+        "Kheer Bhawani Mela (Zyeth Ashtami)"
       ],
       "correctAnswer": "Kheer Bhawani Mela (Zyeth Ashtami)",
       "explanation": "The Kheer Bhawani Mela, held on Zyeth Ashtami at Tulmul (Ganderbal), is dedicated to Mata Kheer Bhawani. Lohri and Baisakhi are Punjabi/harvest festivals; Herath (Shivratri) is a major Pandit festival but is dedicated to Shiva, not to the Kheer Bhawani goddess, so the Mela is the correct answer."
@@ -502,10 +502,10 @@
       "subject": "C",
       "questionText": "The 'Baltal' base camp, an alternative and shorter route for a famous pilgrimage, lies close to which town?",
       "options": [
+        "Sonamarg",
         "Pahalgam",
         "Gulmarg",
-        "Yusmarg",
-        "Sonamarg"
+        "Yusmarg"
       ],
       "correctAnswer": "Sonamarg",
       "explanation": "Baltal, the shorter route to the Amarnath cave, lies near Sonamarg in Ganderbal district. Pahalgam offers the longer traditional route; Gulmarg and Yusmarg are separate tourist resorts unconnected with the Amarnath routes, so Sonamarg is the town near Baltal."
@@ -515,9 +515,9 @@
       "subject": "C",
       "questionText": "The following data shows tourist arrivals (in lakh) at a J&K destination over four years:\n\n2021 → 10\n2022 → 15\n2023 → 24\n2024 → 30\n\nIn which year was the percentage increase over the previous year the highest?",
       "options": [
+        "2023",
         "2022",
         "2024",
-        "2023",
         "2022 and 2024 were equal"
       ],
       "correctAnswer": "2023",
@@ -542,9 +542,9 @@
       "questionText": "The 'Dulhasti Hydroelectric Project' on the Chenab is located in which district?",
       "options": [
         "Reasi",
+        "Kishtwar",
         "Ramban",
-        "Rajouri",
-        "Kishtwar"
+        "Rajouri"
       ],
       "correctAnswer": "Kishtwar",
       "explanation": "The Dulhasti project on the Chenab lies in the Kishtwar district. Reasi hosts Salal and Ramban hosts Baglihar, while Rajouri is a Pir Panjal district without a Chenab mega-project, so Kishtwar is the correct district for Dulhasti."
@@ -555,8 +555,8 @@
       "questionText": "The 'Zabarwan Range', on whose foothills the Mughal gardens and the tulip garden are laid out, is a small range within which larger mountain system?",
       "options": [
         "The Karakoram",
-        "The Shivalik (outer Himalayas)",
         "The Greater Himalayas / central Kashmir hills",
+        "The Shivalik (outer Himalayas)",
         "The Zanskar range"
       ],
       "correctAnswer": "The Greater Himalayas / central Kashmir hills",
@@ -581,8 +581,8 @@
       "questionText": "The 'Mughal Road', a historic route reopened for traffic, connects the Kashmir Valley (Shopian) with which district of the Jammu region?",
       "options": [
         "Kathua",
-        "Poonch",
         "Samba",
+        "Poonch",
         "Udhampur"
       ],
       "correctAnswer": "Poonch",
@@ -595,8 +595,8 @@
       "options": [
         "Tawi",
         "Ravi",
-        "Jhelum",
-        "Chenab"
+        "Chenab",
+        "Jhelum"
       ],
       "correctAnswer": "Chenab",
       "explanation": "The Ranbir Canal, built during Dogra rule, draws water from the Chenab to irrigate the Jammu plains. The Tawi flows through Jammu city but does not feed this canal; the Ravi lies along the border, and the Jhelum is a Kashmir Valley river, so the Chenab is the correct source."
@@ -620,9 +620,9 @@
       "questionText": "The 'Bhaderwah' valley in Doda district is popularly nicknamed as:",
       "options": [
         "Meadow of Gold",
-        "Mini Kashmir / Chota Kashmir",
         "Valley of Shepherds",
-        "Land of Lakes"
+        "Land of Lakes",
+        "Mini Kashmir / Chota Kashmir"
       ],
       "correctAnswer": "Mini Kashmir / Chota Kashmir",
       "explanation": "Bhaderwah is fondly called 'Chota Kashmir' (Mini Kashmir) for its scenic meadows and pine forests. 'Meadow of Gold' is the meaning of Sonamarg, and 'Valley of Shepherds' and 'Land of Lakes' are not the recognised nicknames of Bhaderwah, so 'Mini Kashmir' is correct."
@@ -630,15 +630,15 @@
     {
       "id": "49",
       "subject": "C",
-      "questionText": "Consider the following statements about the economy and agriculture of J&K:\n\n(i) Horticulture, especially apples, is a major contributor to the rural economy.\n(ii) Handicrafts like pashmina and carpets are important exports.\n(iii) J&K is a leading producer of saffron in India.\n(iv) J&K's economy is primarily based on large-scale heavy industry.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the economy and agriculture of J&K:\n\n(i) J&K's economy is primarily based on large-scale heavy industry.\n(ii) Horticulture, especially apples, is a major contributor to the rural economy.\n(iii) Handicrafts like pashmina and carpets are important exports.\n(iv) J&K is a leading producer of saffron in India.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "(i), (ii) and (iii)"
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Horticulture (i), handicrafts like pashmina and carpets (ii) and saffron production (iii) are pillars of the J&K economy. Statement (iv) is false because the economy rests on horticulture, tourism and handicrafts rather than large-scale heavy industry, so any option containing (iv) is eliminated."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Horticulture (ii), handicrafts like pashmina and carpets (iii) and saffron production (iv) are pillars of the J&K economy. Statement (i) is false because the economy rests on horticulture, tourism and handicrafts rather than large-scale heavy industry, so any option containing (i) is eliminated."
     },
     {
       "id": "50",
@@ -646,9 +646,9 @@
       "questionText": "The 'Sun Temple' style seen at Martand and the ruins at Awantipora are examples of which architectural tradition of ancient Kashmir?",
       "options": [
         "Dravidian gopuram architecture",
-        "Kashmiri (Karkota/Utpala) temple architecture",
         "Indo-Islamic architecture",
-        "Colonial Gothic architecture"
+        "Colonial Gothic architecture",
+        "Kashmiri (Karkota/Utpala) temple architecture"
       ],
       "correctAnswer": "Kashmiri (Karkota/Utpala) temple architecture",
       "explanation": "Martand and Awantipora reflect the distinctive ancient Kashmiri temple style developed under the Karkota and Utpala dynasties, marked by peaked arches and colonnaded courtyards. Dravidian gopurams belong to South India, Indo-Islamic architecture came later with the Sultans, and colonial Gothic is a 19th-century European style, so none fits these ancient ruins."

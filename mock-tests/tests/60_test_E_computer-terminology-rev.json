@@ -8,8 +8,8 @@
       "subject": "E",
       "questionText": "Which of the following best describes the function of RAM in a computer?",
       "options": [
-        "Permanently stores the operating system",
         "Temporarily stores data and programs currently in use",
+        "Permanently stores the operating system",
         "Processes arithmetic calculations",
         "Connects the computer to the internet"
       ],
@@ -19,15 +19,15 @@
     {
       "id": "2",
       "subject": "E",
-      "questionText": "Consider the following statements about the CPU:\n\n(i) The CPU consists of the ALU, Control Unit, and Registers.\n(ii) The ALU performs both arithmetic and logical operations.\n(iii) The Control Unit executes calculations directly.\n(iv) Registers are small, fast memory locations within the CPU.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the CPU:\n\n(i) The CPU consists of the ALU, Control Unit, and Registers.\n(ii) The ALU performs both arithmetic and logical operations.\n(iii) Registers are small, fast memory locations within the CPU.\n(iv) The Control Unit executes calculations directly.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — CPU has three main components: ALU, CU, and Registers. (ii) is correct — ALU handles both arithmetic (+, −, ×, ÷) and logical (AND, OR, NOT) operations. (iv) is correct — registers are the fastest memory within the CPU. (iii) is wrong — the Control Unit does NOT execute calculations; it directs and coordinates operations. The ALU does the actual computing."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "(i) is correct — CPU has three main components: ALU, CU, and Registers. (ii) is correct — ALU handles both arithmetic (+, −, ×, ÷) and logical (AND, OR, NOT) operations. (iii) is correct — registers are the fastest memory within the CPU. (iv) is wrong — the Control Unit does NOT execute calculations; it directs and coordinates operations. The ALU does the actual computing."
     },
     {
       "id": "3",
@@ -60,13 +60,13 @@
       "subject": "E",
       "questionText": "Match the following memory units with their equivalents:\n\nColumn I:\n(a) 1 Kilobyte (KB)\n(b) 1 Megabyte (MB)\n(c) 1 Gigabyte (GB)\n(d) 1 Terabyte (TB)\n\nColumn II:\n(i) 1024 GB\n(ii) 1024 Bytes\n(iii) 1024 KB\n(iv) 1024 MB\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-      "explanation": "1 KB = 1024 Bytes (ii). 1 MB = 1024 KB (iii). 1 GB = 1024 MB (iv). 1 TB = 1024 GB (i). Option 2 swaps KB and MB. Option 3 swaps MB and GB. Option 4 misplaces all units."
+      "explanation": "1 KB = 1024 Bytes (ii). 1 MB = 1024 KB (iii). 1 GB = 1024 MB (iv). 1 TB = 1024 GB (i). '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' swaps KB and MB. '(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)' swaps MB and GB. '(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)' misplaces all units."
     },
     {
       "id": "6",
@@ -74,8 +74,8 @@
       "questionText": "Which generation of computers introduced the use of Integrated Circuits (ICs)?",
       "options": [
         "First Generation",
-        "Second Generation",
         "Third Generation",
+        "Second Generation",
         "Fourth Generation"
       ],
       "correctAnswer": "Third Generation",
@@ -86,9 +86,9 @@
       "subject": "E",
       "questionText": "Which of the following are volatile memory types?\n\n(i) RAM\n(ii) ROM\n(iii) Cache memory\n(iv) Hard Disk\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iii) only",
         "(i) and (ii) only",
         "(i), (iii) and (iv)",
+        "(i) and (iii) only",
         "(ii) and (iv) only"
       ],
       "correctAnswer": "(i) and (iii) only",
@@ -100,8 +100,8 @@
       "questionText": "The process of starting a computer and loading the operating system into RAM is called:",
       "options": [
         "Compiling",
-        "Booting",
         "Formatting",
+        "Booting",
         "Debugging"
       ],
       "correctAnswer": "Booting",
@@ -110,15 +110,15 @@
     {
       "id": "9",
       "subject": "E",
-      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware resources and provides a user interface.\n(ii) Windows, Linux, and macOS are examples of operating systems.\n(iii) An operating system is an example of application software.\n(iv) The OS acts as an intermediary between the user and computer hardware.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about operating systems:\n\n(i) An operating system manages hardware resources and provides a user interface.\n(ii) An operating system is an example of application software.\n(iii) Windows, Linux, and macOS are examples of operating systems.\n(iv) The OS acts as an intermediary between the user and computer hardware.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — OS manages CPU, memory, devices and provides UI. (ii) is correct — these are all popular operating systems. (iv) is correct — OS bridges the gap between user and hardware. (iii) is wrong — an OS is system software, not application software."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — OS manages CPU, memory, devices and provides UI. (iii) is correct — these are all popular operating systems. (iv) is correct — OS bridges the gap between user and hardware. (ii) is wrong — an OS is system software, not application software."
     },
     {
       "id": "10",
@@ -126,9 +126,9 @@
       "questionText": "The keyboard shortcut 'Ctrl + C' is universally used for:",
       "options": [
         "Closing a window",
-        "Copying selected content",
         "Creating a new file",
-        "Cutting selected content"
+        "Cutting selected content",
+        "Copying selected content"
       ],
       "correctAnswer": "Copying selected content",
       "explanation": "Ctrl + C copies selected content to the clipboard. Closing a window uses Alt + F4. Creating a new file uses Ctrl + N. Cutting uses Ctrl + X."
@@ -153,8 +153,8 @@
       "options": [
         "Fetching instructions from memory",
         "Decoding instructions",
-        "Performing arithmetic calculations",
-        "Coordinating the activities of all computer components"
+        "Coordinating the activities of all computer components",
+        "Performing arithmetic calculations"
       ],
       "correctAnswer": "Performing arithmetic calculations",
       "explanation": "Performing arithmetic calculations is the function of the ALU, not the Control Unit. The CU fetches instructions (correct function). It decodes them (correct function). It coordinates all components (correct function). The CU directs traffic; the ALU does the math."
@@ -164,10 +164,10 @@
       "subject": "E",
       "questionText": "Consider the following statements about computer networks:\n\n(i) LAN stands for Local Area Network and covers a small geographical area.\n(ii) WAN stands for Wide Area Network and can span countries or continents.\n(iii) The Internet is the largest example of a WAN.\n(iv) MAN stands for Metropolitan Area Network and covers a city-sized area.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "All of the above"
       ],
       "correctAnswer": "All of the above",
       "explanation": "All four are correct. (i) LAN covers a building or campus. (ii) WAN spans large areas like countries. (iii) The Internet is indeed the world's largest WAN. (iv) MAN covers a metropolitan/city area, between LAN and WAN in scope."
@@ -183,15 +183,15 @@
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-      "explanation": ".docx is a Word document (iii). .xlsx is an Excel spreadsheet (i). .pptx is a PowerPoint presentation (ii). .pdf is Portable Document Format (iv). Option 2 swaps document and spreadsheet. Option 3 swaps spreadsheet and presentation. Option 4 misplaces all."
+      "explanation": ".docx is a Word document (iii). .xlsx is an Excel spreadsheet (i). .pptx is a PowerPoint presentation (ii). .pdf is Portable Document Format (iv). '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' swaps document and spreadsheet. '(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)' swaps spreadsheet and presentation. '(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)' misplaces all."
     },
     {
       "id": "15",
       "subject": "E",
       "questionText": "The term 'bandwidth' in computer networking refers to:",
       "options": [
-        "The physical width of the network cable",
         "The maximum rate of data transfer across a network",
+        "The physical width of the network cable",
         "The number of computers connected to a network",
         "The distance a signal can travel"
       ],
@@ -216,8 +216,8 @@
       "subject": "E",
       "questionText": "Consider the following statements about computer viruses:\n\n(i) A virus is a malicious program that replicates itself and infects other files.\n(ii) Antivirus software can detect and remove viruses.\n(iii) A virus can spread through email attachments, USB drives, and downloads.\n(iv) All software downloaded from the internet contains viruses.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
@@ -253,15 +253,15 @@
     {
       "id": "20",
       "subject": "E",
-      "questionText": "Which of the following are examples of output devices?\n\n(i) Monitor\n(ii) Printer\n(iii) Scanner\n(iv) Projector\n\nSelect the correct combination:",
+      "questionText": "Which of the following are examples of output devices?\n\n(i) Scanner\n(ii) Monitor\n(iii) Printer\n(iv) Projector\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Monitor (i), Printer (ii), and Projector (iv) are output devices — they display or produce output from the computer. Scanner (iii) is an INPUT device — it converts physical documents/images into digital form for the computer."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Monitor (ii), Printer (iii), and Projector (iv) are output devices — they display or produce output from the computer. Scanner (i) is an INPUT device — it converts physical documents/images into digital form for the computer."
     },
     {
       "id": "21",
@@ -269,8 +269,8 @@
       "questionText": "Fill in the blank: The smallest unit of data in a computer is a __________, which can have a value of either 0 or 1.",
       "options": [
         "Byte",
-        "Bit",
         "Nibble",
+        "Bit",
         "Word"
       ],
       "correctAnswer": "Bit",
@@ -282,8 +282,8 @@
       "questionText": "The 'Taskbar' in Windows operating system is used to:",
       "options": [
         "Store deleted files",
-        "Display running applications and provide quick access to features",
         "Format the hard drive",
+        "Display running applications and provide quick access to features",
         "Install new software"
       ],
       "correctAnswer": "Display running applications and provide quick access to features",
@@ -292,28 +292,28 @@
     {
       "id": "23",
       "subject": "E",
-      "questionText": "Consider the following statements about secondary storage:\n\n(i) Secondary storage is non-volatile — data persists when power is off.\n(ii) It is slower than primary memory (RAM) but has much larger capacity.\n(iii) Examples include hard drives, SSDs, USB flash drives, and optical discs.\n(iv) Secondary storage is directly accessed by the CPU for execution.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about secondary storage:\n\n(i) Secondary storage is non-volatile — data persists when power is off.\n(ii) Secondary storage is directly accessed by the CPU for execution.\n(iii) It is slower than primary memory (RAM) but has much larger capacity.\n(iv) Examples include hard drives, SSDs, USB flash drives, and optical discs.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — secondary storage retains data without power. (ii) is correct — it's slower but offers TB of storage. (iii) is correct — all listed are secondary storage devices. (iv) is wrong — the CPU does NOT directly access secondary storage; data must first be loaded into RAM before the CPU can process it."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — secondary storage retains data without power. (iii) is correct — it's slower but offers TB of storage. (iv) is correct — all listed are secondary storage devices. (ii) is wrong — the CPU does NOT directly access secondary storage; data must first be loaded into RAM before the CPU can process it."
     },
     {
       "id": "24",
       "subject": "E",
       "questionText": "Match the following computer generations with their key technology:\n\nColumn I:\n(a) First Generation (1940–1956)\n(b) Second Generation (1956–1963)\n(c) Third Generation (1964–1971)\n(d) Fourth Generation (1971–present)\n\nColumn II:\n(i) Microprocessors (VLSI)\n(ii) Vacuum Tubes\n(iii) Integrated Circuits (ICs)\n(iv) Transistors\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-      "explanation": "First gen used Vacuum Tubes (ii). Second gen used Transistors (iv). Third gen used ICs (iii). Fourth gen uses Microprocessors/VLSI (i). Option 2 swaps first and second gen. Option 3 swaps second and third gen. Option 4 reverses all."
+      "explanation": "First gen used Vacuum Tubes (ii). Second gen used Transistors (iv). Third gen used ICs (iii). Fourth gen uses Microprocessors/VLSI (i). '(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)' swaps first and second gen. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' swaps second and third gen. '(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)' reverses all."
     },
     {
       "id": "25",
@@ -322,8 +322,8 @@
       "options": [
         "HTTP",
         "FTP",
-        "SMTP",
-        "TCP"
+        "TCP",
+        "SMTP"
       ],
       "correctAnswer": "SMTP",
       "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending emails. HTTP (HyperText Transfer Protocol) is for web pages. FTP (File Transfer Protocol) is for file transfers. TCP (Transmission Control Protocol) is a transport layer protocol, not specifically for email sending."
@@ -346,8 +346,8 @@
       "subject": "E",
       "questionText": "The term 'phishing' in cybersecurity refers to:",
       "options": [
-        "A technique to speed up internet browsing",
         "Fraudulent attempts to obtain sensitive information by disguising as a trustworthy entity",
+        "A technique to speed up internet browsing",
         "A method of fishing information from databases",
         "A type of computer virus that destroys files"
       ],
@@ -357,15 +357,15 @@
     {
       "id": "28",
       "subject": "E",
-      "questionText": "Consider the following statements about the binary number system:\n\n(i) Computers use the binary system because electronic circuits have two states — on and off.\n(ii) The binary system uses only digits 0 and 1.\n(iii) Each binary digit is called a 'bit'.\n(iv) The decimal number 10 is represented as 1100 in binary.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the binary number system:\n\n(i) Computers use the binary system because electronic circuits have two states — on and off.\n(ii) The binary system uses only digits 0 and 1.\n(iii) The decimal number 10 is represented as 1100 in binary.\n(iv) Each binary digit is called a 'bit'.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — binary suits electronic circuits with two voltage states. (ii) is correct — binary uses only 0 and 1. (iii) is correct — bit = binary digit. (iv) is wrong — decimal 10 in binary is 1010, not 1100. (1100 in binary = 12 in decimal)."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — binary suits electronic circuits with two voltage states. (ii) is correct — binary uses only 0 and 1. (iv) is correct — bit = binary digit. (iii) is wrong — decimal 10 in binary is 1010, not 1100. (1100 in binary = 12 in decimal)."
     },
     {
       "id": "29",
@@ -378,20 +378,20 @@
         "Hard Disk → RAM → Cache → Registers"
       ],
       "correctAnswer": "Registers → Cache → RAM → Hard Disk",
-      "explanation": "The correct speed hierarchy is: Registers (fastest, inside CPU) → Cache (very fast, near CPU) → RAM (fast, main memory) → Hard Disk (slowest, secondary storage). Option 1 incorrectly places RAM before Cache. Option 3 places Cache before Registers. Option 4 reverses the entire order."
+      "explanation": "The correct speed hierarchy is: Registers (fastest, inside CPU) → Cache (very fast, near CPU) → RAM (fast, main memory) → Hard Disk (slowest, secondary storage). 'RAM → Cache → Registers → Hard Disk' incorrectly places RAM before Cache. 'Cache → Registers → Hard Disk → RAM' places Cache before Registers. 'Hard Disk → RAM → Cache → Registers' reverses the entire order."
     },
     {
       "id": "30",
       "subject": "E",
       "questionText": "Match the following software types with their examples:\n\nColumn I:\n(a) Operating System\n(b) Utility Software\n(c) Application Software\n(d) Programming Language\n\nColumn II:\n(i) Python\n(ii) Microsoft PowerPoint\n(iii) Disk Defragmenter\n(iv) Ubuntu Linux\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
-      "explanation": "Ubuntu Linux is an Operating System (iv). Disk Defragmenter is Utility Software (iii). Microsoft PowerPoint is Application Software (ii). Python is a Programming Language (i). Option 2 swaps OS and Utility. Option 3 swaps Application and Utility. Option 4 misplaces OS."
+      "explanation": "Ubuntu Linux is an Operating System (iv). Disk Defragmenter is Utility Software (iii). Microsoft PowerPoint is Application Software (ii). Python is a Programming Language (i). '(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)' swaps OS and Utility. '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' swaps Application and Utility. '(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)' misplaces OS."
     },
     {
       "id": "31",
@@ -411,9 +411,9 @@
       "subject": "E",
       "questionText": "Consider the following statements about Internet protocols:\n\n(i) HTTP is used for accessing web pages.\n(ii) FTP is used for transferring files between computers.\n(iii) HTTPS is the secure version of HTTP, using encryption.\n(iv) IP address uniquely identifies every device on the Internet.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "All of the above",
         "(ii), (iii) and (iv)"
       ],
       "correctAnswer": "All of the above",
@@ -425,8 +425,8 @@
       "questionText": "Fill in the blank: A __________ is a malicious software that disguises itself as legitimate software to trick users into installing it.",
       "options": [
         "Worm",
-        "Trojan Horse",
         "Spyware",
+        "Trojan Horse",
         "Adware"
       ],
       "correctAnswer": "Trojan Horse",
@@ -448,15 +448,15 @@
     {
       "id": "35",
       "subject": "E",
-      "questionText": "Which of the following are characteristics of an operating system?\n\n(i) Memory management\n(ii) Process management\n(iii) File management\n(iv) Writing application programs\n\nSelect the correct combination:",
+      "questionText": "Which of the following are characteristics of an operating system?\n\n(i) Writing application programs\n(ii) Memory management\n(iii) Process management\n(iv) File management\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) Memory management — OS allocates and deallocates RAM. (ii) Process management — OS handles running processes. (iii) File management — OS organizes files and directories. (iv) is wrong — writing application programs is done by programmers, not by the OS itself."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) Memory management — OS allocates and deallocates RAM. (iii) Process management — OS handles running processes. (iv) File management — OS organizes files and directories. (i) is wrong — writing application programs is done by programmers, not by the OS itself."
     },
     {
       "id": "36",
@@ -464,9 +464,9 @@
       "questionText": "The 'Recycle Bin' in Windows stores:",
       "options": [
         "Files that have been permanently deleted",
-        "Files that have been deleted but can still be restored",
         "System backup files",
-        "Temporary internet files"
+        "Temporary internet files",
+        "Files that have been deleted but can still be restored"
       ],
       "correctAnswer": "Files that have been deleted but can still be restored",
       "explanation": "The Recycle Bin holds recently deleted files that can still be recovered/restored. Permanently deleted files (after emptying Recycle Bin) are not recoverable easily. System backups are stored elsewhere. Temporary internet files are in the browser cache."
@@ -474,36 +474,36 @@
     {
       "id": "37",
       "subject": "E",
-      "questionText": "Consider the following statements about computer languages:\n\n(i) Machine language consists of binary code (0s and 1s) directly understood by the CPU.\n(ii) Assembly language uses mnemonics like ADD, MOV, SUB.\n(iii) High-level languages like C, Java, Python are closer to human language.\n(iv) Machine language programs are the easiest for humans to write.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer languages:\n\n(i) Machine language consists of binary code (0s and 1s) directly understood by the CPU.\n(ii) Machine language programs are the easiest for humans to write.\n(iii) Assembly language uses mnemonics like ADD, MOV, SUB.\n(iv) High-level languages like C, Java, Python are closer to human language.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — machine language is binary and directly executed by CPU. (ii) is correct — assembly uses short mnemonic codes. (iii) is correct — high-level languages resemble English. (iv) is wrong — machine language is the HARDEST for humans to write; high-level languages are the easiest."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "(i) is correct — machine language is binary and directly executed by CPU. (iii) is correct — assembly uses short mnemonic codes. (iv) is correct — high-level languages resemble English. (ii) is wrong — machine language is the HARDEST for humans to write; high-level languages are the easiest."
     },
     {
       "id": "38",
       "subject": "E",
       "questionText": "Match the following keyboard shortcuts with their functions:\n\nColumn I:\n(a) Ctrl + V\n(b) Ctrl + Z\n(c) Ctrl + X\n(d) Alt + F4\n\nColumn II:\n(i) Close the active window\n(ii) Paste content from clipboard\n(iii) Cut selected content\n(iv) Undo the last action\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)"
+        "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
-      "explanation": "Ctrl+V pastes (ii). Ctrl+Z undoes (iv). Ctrl+X cuts (iii). Alt+F4 closes window (i). Option 2 swaps paste and cut. Option 3 swaps undo and cut. Option 4 swaps paste and undo."
+      "explanation": "Ctrl+V pastes (ii). Ctrl+Z undoes (iv). Ctrl+X cuts (iii). Alt+F4 closes window (i). '(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)' swaps paste and cut. '(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)' swaps undo and cut. '(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)' swaps paste and undo."
     },
     {
       "id": "39",
       "subject": "E",
       "questionText": "A file with the extension '.exe' indicates:",
       "options": [
-        "A text document",
         "An executable program file",
+        "A text document",
         "A spreadsheet file",
         "An image file"
       ],
@@ -513,15 +513,15 @@
     {
       "id": "40",
       "subject": "E",
-      "questionText": "Consider the following statements about email:\n\n(i) CC (Carbon Copy) sends a copy to additional recipients visible to all.\n(ii) BCC (Blind Carbon Copy) hides the recipient's address from others.\n(iii) An email attachment can be any file type — documents, images, or videos.\n(iv) Emails can only be sent between users on the same network.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about email:\n\n(i) CC (Carbon Copy) sends a copy to additional recipients visible to all.\n(ii) BCC (Blind Carbon Copy) hides the recipient's address from others.\n(iii) Emails can only be sent between users on the same network.\n(iv) An email attachment can be any file type — documents, images, or videos.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "(i) is correct — CC recipients are visible to all. (ii) is correct — BCC hides recipients from others. (iii) is correct — any file type can be attached. (iv) is wrong — emails can be sent to anyone worldwide with an email address, across any network."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "(i) is correct — CC recipients are visible to all. (ii) is correct — BCC hides recipients from others. (iv) is correct — any file type can be attached. (iii) is wrong — emails can be sent to anyone worldwide with an email address, across any network."
     },
     {
       "id": "41",
@@ -529,8 +529,8 @@
       "questionText": "If a file is 5 MB in size, how many KB (Kilobytes) is it?",
       "options": [
         "500 KB",
-        "5000 KB",
         "5120 KB",
+        "5000 KB",
         "5200 KB"
       ],
       "correctAnswer": "5120 KB",
@@ -567,8 +567,8 @@
       "subject": "E",
       "questionText": "Consider the following statements about computer peripherals:\n\n(i) A webcam is an input device that captures video.\n(ii) A UPS (Uninterruptible Power Supply) provides backup power during outages.\n(iii) A router connects multiple devices to a network and routes data packets.\n(iv) A modem converts digital signals to analog and vice versa for internet communication.\n\nWhich of the statements given above are correct?",
       "options": [
-        "All of the above",
         "(i), (ii) and (iii)",
+        "All of the above",
         "(i), (iii) and (iv)",
         "(ii), (iii) and (iv)"
       ],
@@ -581,8 +581,8 @@
       "questionText": "A computer with 8 GB of RAM has approximately how many bytes of memory?",
       "options": [
         "8 billion bytes",
-        "8.6 billion bytes",
         "8 million bytes",
+        "8.6 billion bytes",
         "800 million bytes"
       ],
       "correctAnswer": "8.6 billion bytes",
@@ -594,8 +594,8 @@
       "questionText": "The term 'defragmentation' of a hard disk means:",
       "options": [
         "Deleting all files from the disk",
-        "Rearranging fragmented data so files are stored in contiguous blocks",
         "Formatting the disk for first-time use",
+        "Rearranging fragmented data so files are stored in contiguous blocks",
         "Scanning the disk for viruses"
       ],
       "correctAnswer": "Rearranging fragmented data so files are stored in contiguous blocks",
@@ -606,26 +606,26 @@
       "subject": "E",
       "questionText": "Match the following terms with their descriptions:\n\nColumn I:\n(a) Virus\n(b) Worm\n(c) Trojan Horse\n(d) Spyware\n\nColumn II:\n(i) Self-replicating malware that spreads through networks without attaching to files\n(ii) Malicious code that attaches to files and requires human action to spread\n(iii) Software that secretly collects user data and browsing habits\n(iv) Malware disguised as legitimate software\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "Virus attaches to files and needs human action (ii). Worm self-replicates through networks independently (i). Trojan Horse disguises as legitimate software (iv). Spyware secretly monitors users (iii). Option 2 swaps virus and worm. Option 3 swaps worm and Trojan. Option 4 swaps virus and Trojan."
+      "explanation": "Virus attaches to files and needs human action (ii). Worm self-replicates through networks independently (i). Trojan Horse disguises as legitimate software (iv). Spyware secretly monitors users (iii). '(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)' swaps virus and worm. '(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)' swaps worm and Trojan. '(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)' swaps virus and Trojan."
     },
     {
       "id": "48",
       "subject": "E",
-      "questionText": "Consider the following statements about the Internet and World Wide Web:\n\n(i) The Internet is a global network of interconnected computers.\n(ii) The World Wide Web (WWW) is a collection of web pages accessible via the Internet.\n(iii) The Internet and the World Wide Web are the same thing.\n(iv) Web browsers like Chrome and Firefox are used to access the WWW.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Internet and World Wide Web:\n\n(i) The Internet and the World Wide Web are the same thing.\n(ii) The Internet is a global network of interconnected computers.\n(iii) The World Wide Web (WWW) is a collection of web pages accessible via the Internet.\n(iv) Web browsers like Chrome and Firefox are used to access the WWW.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "All of the above"
+        "(i), (iii) and (iv)",
+        "All of the above",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "(i) is correct — the Internet is a physical network infrastructure. (ii) is correct — WWW is a service/collection of pages on the Internet. (iv) is correct — browsers access web pages. (iii) is wrong — Internet and WWW are NOT the same; the Internet is the infrastructure while WWW is one of many services running on it (others include email, FTP, etc.)."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "(ii) is correct — the Internet is a physical network infrastructure. (iii) is correct — WWW is a service/collection of pages on the Internet. (iv) is correct — browsers access web pages. (i) is wrong — Internet and WWW are NOT the same; the Internet is the infrastructure while WWW is one of many services running on it (others include email, FTP, etc.)."
     },
     {
       "id": "49",
@@ -647,8 +647,8 @@
       "options": [
         "4 times",
         "10 times",
-        "20 times",
-        "25 times"
+        "25 times",
+        "20 times"
       ],
       "correctAnswer": "20 times",
       "explanation": "RAM response time (100 ns) ÷ L1 Cache response time (5 ns) = 100/5 = 20 times slower. Option 4 divides by L2 Cache value. Option 10 uses incorrect values. Option 25 divides RAM by the difference between L1 and registers."

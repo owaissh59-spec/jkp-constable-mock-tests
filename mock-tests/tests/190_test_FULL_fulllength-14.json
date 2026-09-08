@@ -21,8 +21,8 @@
       "subject": "D",
       "questionText": "The average of six numbers is 42. If one number, 30, is removed, what is the average of the remaining five numbers?",
       "options": [
-        "45",
         "44.4",
+        "45",
         "43.2",
         "46"
       ],
@@ -34,9 +34,9 @@
       "subject": "B",
       "questionText": "The Cabinet Mission, sent to India to discuss the transfer of power, arrived in which year?",
       "options": [
+        "1946",
         "1935",
         "1942",
-        "1946",
         "1939"
       ],
       "correctAnswer": "1946",
@@ -47,10 +47,10 @@
       "subject": "E",
       "questionText": "In computing, what does the abbreviation 'OCR' stand for?",
       "options": [
+        "Optical Character Recognition",
         "Optical Character Reading",
         "Optical Code Reader",
-        "Online Character Retrieval",
-        "Optical Character Recognition"
+        "Online Character Retrieval"
       ],
       "correctAnswer": "Optical Character Recognition",
       "explanation": "OCR stands for Optical Character Recognition, a technology that converts images of text into machine-readable text. 'Optical Code Reader' wrongly changes the last two words. 'Online Character Retrieval' replaces 'Optical' and 'Recognition'. 'Optical Character Reading' changes the final word from 'Recognition' to 'Reading', so those expansions are incorrect."
@@ -73,8 +73,8 @@
       "subject": "D",
       "questionText": "Fill in the blank in the series: 6, 13, 27, 55, __________",
       "options": [
-        "110",
         "111",
+        "110",
         "109",
         "112"
       ],
@@ -92,7 +92,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: Rakesh Sharma became the first Indian in space precisely because he flew on the Soyuz T-11 mission in 1984. So the first option is correct. The second is wrong because R does explain A. The third and fourth wrongly deny one of these accurate facts."
+      "explanation": "Both are true and R explains A: Rakesh Sharma became the first Indian in space precisely because he flew on the Soyuz T-11 mission in 1984. So 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is correct. The second is wrong because R does explain A. The third and fourth wrongly deny one of these accurate facts."
     },
     {
       "id": "8",
@@ -100,8 +100,8 @@
       "questionText": "Select the word that means most nearly the same as 'PRUDENT'.",
       "options": [
         "Wealthy",
-        "Reckless",
         "Cautious",
+        "Reckless",
         "Timid"
       ],
       "correctAnswer": "Cautious",
@@ -113,9 +113,9 @@
       "questionText": "In MS Excel, what does the cell reference '$A$1' represent?",
       "options": [
         "A circular reference",
+        "An absolute reference",
         "A relative reference",
-        "A mixed reference with relative column",
-        "An absolute reference"
+        "A mixed reference with relative column"
       ],
       "correctAnswer": "An absolute reference",
       "explanation": "The dollar signs before both the column and row ($A$1) lock the reference completely, making it an absolute reference that does not change when copied. A relative reference has no dollar signs. A mixed reference locks only the row or the column, not both. A circular reference is an error where a formula refers to its own cell, so those are wrong."
@@ -125,8 +125,8 @@
       "subject": "D",
       "questionText": "A certain amount triples itself in 10 years at simple interest. In how many years will the same amount become nine times itself at the same rate?",
       "options": [
-        "40 years",
         "30 years",
+        "40 years",
         "50 years",
         "45 years"
       ],
@@ -152,12 +152,12 @@
       "questionText": "Which of the following are examples of secondary (non-volatile) storage?\n\n(i) Solid State Drive\n(ii) Optical Disc\n(iii) Cache memory\n(iv) Memory card\n\nSelect the correct combination:",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Solid State Drives, optical discs and memory cards are all non-volatile secondary storage. Cache memory (iii) is high-speed volatile memory located near the CPU, not secondary storage; therefore any option containing (iii) — the second, third and fourth — is incorrect. Only the first option lists three genuine secondary storage media."
+      "explanation": "Solid State Drives, optical discs and memory cards are all non-volatile secondary storage. Cache memory (iii) is high-speed volatile memory located near the CPU, not secondary storage; therefore any option containing (iii) — the second, third and fourth — is incorrect. Only '(ii), (iii) and (iv)' lists three genuine secondary storage media."
     },
     {
       "id": "13",
@@ -165,9 +165,9 @@
       "questionText": "Which trophy is associated with the game of badminton at the international team level for men?",
       "options": [
         "Uber Cup",
+        "Thomas Cup",
         "Davis Cup",
-        "Merdeka Cup",
-        "Thomas Cup"
+        "Merdeka Cup"
       ],
       "correctAnswer": "Thomas Cup",
       "explanation": "The Thomas Cup is the world men's team badminton championship. The Davis Cup is for men's team tennis, not badminton. The Merdeka Cup is a football tournament. The Uber Cup is the women's team badminton championship, so those options are incorrect for men's team badminton."
@@ -177,9 +177,9 @@
       "subject": "D",
       "questionText": "If the third day of a month is a Monday, what day of the week will the twentieth day of the same month be?",
       "options": [
-        "Thursday",
         "Wednesday",
         "Friday",
+        "Thursday",
         "Tuesday"
       ],
       "correctAnswer": "Thursday",
@@ -191,8 +191,8 @@
       "questionText": "Fill in the blank with the correct preposition: The new recruits must abide __________ the rules of the training academy. __________",
       "options": [
         "with",
-        "by",
         "to",
+        "by",
         "in"
       ],
       "correctAnswer": "by",
@@ -218,8 +218,8 @@
       "options": [
         "9 minutes",
         "6 minutes",
-        "10 minutes",
-        "8 minutes"
+        "8 minutes",
+        "10 minutes"
       ],
       "correctAnswer": "8 minutes",
       "explanation": "Combined rate = 1/12 + 1/24 = 2/24 + 1/24 = 3/24 = 1/8, so the cistern fills in 8 minutes. '6 minutes' would need a faster combined rate of 1/6. '10 minutes' underestimates the rate. '9 minutes' does not match the sum of the two filling rates, so those options are wrong."
@@ -229,13 +229,13 @@
       "subject": "B",
       "questionText": "Match the following novels with their authors:\n\nColumn I:\n(a) The Guide\n(b) Train to Pakistan\n(c) Godan\n(d) A Suitable Boy\n\nColumn II:\n(i) Khushwant Singh\n(ii) R. K. Narayan\n(iii) Vikram Seth\n(iv) Munshi Premchand\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "R. K. Narayan wrote The Guide, Khushwant Singh wrote Train to Pakistan, Premchand wrote Godan, and Vikram Seth wrote A Suitable Boy — matching the first option. The second wrongly swaps Narayan and Singh. The third wrongly swaps Premchand and Seth. The fourth wrongly credits The Guide to Seth and A Suitable Boy to Narayan, so those are incorrect."
+      "explanation": "R. K. Narayan wrote The Guide, Khushwant Singh wrote Train to Pakistan, Premchand wrote Godan, and Vikram Seth wrote A Suitable Boy — matching '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)'. The second wrongly swaps Narayan and Singh. The third wrongly swaps Premchand and Seth. The fourth wrongly credits The Guide to Seth and A Suitable Boy to Narayan, so those are incorrect."
     },
     {
       "id": "19",
@@ -248,7 +248,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
-      "explanation": "Both are true and R explains A: opening unknown attachments is unsafe precisely because they may carry malware. So the first option is correct. The second is wrong because R does explain A. The third and fourth wrongly deny one of these true statements, so they are incorrect."
+      "explanation": "Both are true and R explains A: opening unknown attachments is unsafe precisely because they may carry malware. So 'Both (A) and (R) are correct and (R) is the correct explanation of (A)' is correct. The second is wrong because R does explain A. The third and fourth wrongly deny one of these true statements, so they are incorrect."
     },
     {
       "id": "20",
@@ -256,8 +256,8 @@
       "questionText": "What is the meaning of the idiom 'to sit on the fence'?",
       "options": [
         "To rest after finishing hard work",
-        "To avoid taking sides or making a decision",
         "To guard one's property carefully",
+        "To avoid taking sides or making a decision",
         "To take a firm and clear stand"
       ],
       "correctAnswer": "To avoid taking sides or making a decision",
@@ -270,8 +270,8 @@
       "options": [
         "75 degrees",
         "60 degrees",
-        "45 degrees",
-        "50 degrees"
+        "50 degrees",
+        "45 degrees"
       ],
       "correctAnswer": "45 degrees",
       "explanation": "The angle sum is 180°, and 3 + 4 + 5 = 12 parts, so one part = 15°. The smallest angle is 3 parts = 45°. '60 degrees' is the middle angle (4 parts). '75 degrees' is the largest angle (5 parts). '50 degrees' does not correspond to any part of this ratio, so those options are incorrect."
@@ -294,10 +294,10 @@
       "subject": "E",
       "questionText": "From the devices listed below, identify the one that produces output rather than accepting input.",
       "options": [
-        "Plotter",
         "Light pen",
         "Joystick",
-        "Barcode reader"
+        "Barcode reader",
+        "Plotter"
       ],
       "correctAnswer": "Plotter",
       "explanation": "A plotter produces printed graphics on paper, making it an output device. A light pen is an input device used to point on screens. A joystick is an input device for control and games. A barcode reader is an input device that scans codes — so all three accept input, not produce output, and are incorrect."
@@ -308,9 +308,9 @@
       "questionText": "Choose the correct homophone to complete the sentence: The lawyer offered sound legal __________ to her nervous client.",
       "options": [
         "council",
-        "counsel",
         "consul",
-        "cancel"
+        "cancel",
+        "counsel"
       ],
       "correctAnswer": "counsel",
       "explanation": "'Counsel' means advice, which fits the legal advice given to a client. 'Council' is an assembly of people, such as a municipal body, not advice. 'Consul' is a government official abroad. 'Cancel' means to call off, which makes no sense here, so those options are wrong."
@@ -326,7 +326,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is not correct but (R) is correct",
-      "explanation": "R is correct: sine increases over 0° to 90°. But A is wrong because sin 30° = 0.5 is less than sin 60° ≈ 0.866, so A contradicts the very rule stated in R — the fourth option is right. The first and second options wrongly call A correct. The third wrongly calls R incorrect, so they fail."
+      "explanation": "R is correct: sine increases over 0° to 90°. But A is wrong because sin 30° = 0.5 is less than sin 60° ≈ 0.866, so A contradicts the very rule stated in R — '(A) is not correct but (R) is correct' is right. The first and second options wrongly call A correct. The third wrongly calls R incorrect, so they fail."
     },
     {
       "id": "26",
@@ -335,8 +335,8 @@
       "options": [
         "Arid",
         "Sterile",
-        "Fertile",
-        "Bleak"
+        "Bleak",
+        "Fertile"
       ],
       "correctAnswer": "Fertile",
       "explanation": "'Barren' means unable to produce vegetation or offspring; its opposite is 'fertile', meaning productive. 'Sterile' is a synonym of barren, not an antonym. 'Arid' means dry, similar to barren land. 'Bleak' means desolate, again close in sense rather than opposite, so those options are incorrect."
@@ -344,15 +344,15 @@
     {
       "id": "27",
       "subject": "B",
-      "questionText": "Consider the following statements about the Constitution of India:\n\n(i) The Directive Principles of State Policy are contained in Part IV.\n(ii) The Directive Principles are enforceable in a court of law.\n(iii) They were borrowed from the Constitution of Ireland.\n(iv) They aim to establish social and economic democracy.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Constitution of India:\n\n(i) The Directive Principles are enforceable in a court of law.\n(ii) The Directive Principles of State Policy are contained in Part IV.\n(iii) They were borrowed from the Constitution of Ireland.\n(iv) They aim to establish social and economic democracy.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (iii) and (iv)",
-      "explanation": "The Directive Principles are in Part IV, were inspired by the Irish Constitution, and aim at social and economic democracy, so (i), (iii) and (iv) are correct. Statement (ii) is false because they are non-justiciable and not enforceable in court; hence every option containing (ii) — the second, third and fourth — is wrong."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The Directive Principles are in Part IV, were inspired by the Irish Constitution, and aim at social and economic democracy, so (ii), (iii) and (iv) are correct. Statement (i) is false because they are non-justiciable and not enforceable in court; hence every option containing (i) — the second, third and fourth — is wrong."
     },
     {
       "id": "28",
@@ -370,24 +370,24 @@
     {
       "id": "29",
       "subject": "E",
-      "questionText": "Which of the following are types of malicious software (malware)?\n\n(i) Worm\n(ii) Trojan horse\n(iii) Spyware\n(iv) Compiler\n\nSelect the correct combination:",
+      "questionText": "Which of the following are types of malicious software (malware)?\n\n(i) Worm\n(ii) Compiler\n(iii) Trojan horse\n(iv) Spyware\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Worms, Trojan horses and spyware are all forms of malware, so (i), (ii) and (iii) are correct. A compiler (iv) is legitimate system software that translates source code into machine code, not malware; therefore any option containing (iv) — the second, third and fourth — is incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Worms, Trojan horses and spyware are all forms of malware, so (i), (iii) and (iv) are correct. A compiler (ii) is legitimate system software that translates source code into machine code, not malware; therefore any option containing (ii) — the second, third and fourth — is incorrect."
     },
     {
       "id": "30",
       "subject": "A",
       "questionText": "Identify the type of the underlined clause: 'Although he was very tired, he finished the patrol.' — the clause 'Although he was very tired' is a/an ______.",
       "options": [
+        "adverb clause of concession",
         "adjective clause",
         "noun clause",
-        "adverb clause of concession",
         "adverb clause of purpose"
       ],
       "correctAnswer": "adverb clause of concession",
@@ -398,10 +398,10 @@
       "subject": "B",
       "questionText": "The English playwright William Shakespeare is popularly known by which title?",
       "options": [
+        "The Bard of Avon",
         "The Father of Comedy",
         "The Grand Old Man",
-        "The Sage of Concord",
-        "The Bard of Avon"
+        "The Sage of Concord"
       ],
       "correctAnswer": "The Bard of Avon",
       "explanation": "Shakespeare is called 'The Bard of Avon' because he was born in Stratford-upon-Avon. 'The Grand Old Man' refers to Dadabhai Naoroji. 'The Sage of Concord' refers to the American writer Ralph Waldo Emerson. 'The Father of Comedy' is linked to the Greek playwright Aristophanes, so those titles do not belong to Shakespeare."
@@ -430,7 +430,7 @@
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "The correct collocations are 'testified against', 'accustomed to', 'charged with' and 'congratulated on', matching the first option. The second wrongly gives 'testified with'. The third wrongly gives 'accustomed on'. The fourth wrongly gives 'testified on' and 'congratulated against', so those are incorrect."
+      "explanation": "The correct collocations are 'testified against', 'accustomed to', 'charged with' and 'congratulated on', matching '(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)'. The second wrongly gives 'testified with'. The third wrongly gives 'accustomed on'. The fourth wrongly gives 'testified on' and 'congratulated against', so those are incorrect."
     },
     {
       "id": "34",
@@ -438,8 +438,8 @@
       "questionText": "In MS Word, which keyboard shortcut is used to repeat the last action?",
       "options": [
         "Ctrl + L",
-        "Ctrl + R",
         "Ctrl + Y",
+        "Ctrl + R",
         "Ctrl + W"
       ],
       "correctAnswer": "Ctrl + Y",
@@ -451,9 +451,9 @@
       "questionText": "A rectangle has a length of 24 cm and a breadth of 10 cm. What is the length of its diagonal?",
       "options": [
         "34 cm",
+        "26 cm",
         "28 cm",
-        "25 cm",
-        "26 cm"
+        "25 cm"
       ],
       "correctAnswer": "26 cm",
       "explanation": "Diagonal = √(24² + 10²) = √(576 + 100) = √676 = 26 cm. '28 cm' would need a sum of 784. '25 cm' would need 625, too small. '34 cm' comes from wrongly adding the sides (24 + 10) instead of using the Pythagorean theorem, so those options are wrong."
@@ -463,8 +463,8 @@
       "subject": "B",
       "questionText": "The Association of Southeast Asian Nations (ASEAN) was established in which year?",
       "options": [
-        "1967",
         "1985",
+        "1967",
         "1961",
         "1975"
       ],
@@ -482,7 +482,7 @@
         "Everyone must bring them own identity card to the examination."
       ],
       "correctAnswer": "Everyone must bring his own identity card to the examination.",
-      "explanation": "'Everyone' is singular and traditionally takes the singular pronoun 'his', so the first option is correct. The second uses plural 'their' with singular 'everyone', a disagreement in strict grammar. The third wrongly uses the possessive 'theirs' before a noun. The fourth uses the objective 'them' as a possessive, which is ungrammatical."
+      "explanation": "'Everyone' is singular and traditionally takes the singular pronoun 'his', so 'Everyone must bring their own identity card to the examinations.' is correct. The second uses plural 'their' with singular 'everyone', a disagreement in strict grammar. The third wrongly uses the possessive 'theirs' before a noun. The fourth uses the objective 'them' as a possessive, which is ungrammatical."
     },
     {
       "id": "38",
@@ -490,8 +490,8 @@
       "questionText": "The Treaty of Amritsar (1846), which transferred Kashmir to Gulab Singh, was signed between Gulab Singh and which power?",
       "options": [
         "The Mughal Empire",
-        "The Sikh Empire",
         "The British East India Company",
+        "The Sikh Empire",
         "The Afghan Durrani Empire"
       ],
       "correctAnswer": "The British East India Company",
@@ -504,8 +504,8 @@
       "options": [
         "73918",
         "73921",
-        "73925",
-        "73920"
+        "73920",
+        "73925"
       ],
       "correctAnswer": "73920",
       "explanation": "For divisibility by 11, the alternating sum of digits of 73920 is (7−3+9−2+0) = 11, which is divisible by 11, so 73920 qualifies. For 73921 the alternating sum is 12, for 73925 it is 16, and for 73918 it is 9 — none divisible by 11, so those options are incorrect."
@@ -513,15 +513,15 @@
     {
       "id": "40",
       "subject": "E",
-      "questionText": "Consider the following statements about the working of web search engines:\n\n(i) A search engine uses programs called crawlers or spiders to index web pages.\n(ii) Google, Bing and DuckDuckGo are examples of search engines.\n(iii) Putting a phrase in double quotes searches for the exact phrase.\n(iv) A search engine physically stores every website on the user's computer.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the working of web search engines:\n\n(i) A search engine uses programs called crawlers or spiders to index web pages.\n(ii) Google, Bing and DuckDuckGo are examples of search engines.\n(iii) A search engine physically stores every website on the user's computer.\n(iv) Putting a phrase in double quotes searches for the exact phrase.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Search engines use crawlers to index pages, Google/Bing/DuckDuckGo are examples, and quotation marks force an exact-phrase search — so (i), (ii) and (iii) are correct. Statement (iv) is false because search engines store indexes on their own servers, not every site on the user's computer; hence options with (iv) are wrong."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Search engines use crawlers to index pages, Google/Bing/DuckDuckGo are examples, and quotation marks force an exact-phrase search — so (i), (ii) and (iv) are correct. Statement (iii) is false because search engines store indexes on their own servers, not every site on the user's computer; hence options with (iii) are wrong."
     },
     {
       "id": "41",
@@ -529,8 +529,8 @@
       "questionText": "Fill in the blank with the correct verb form: If I __________ rich, I would help the needy. __________",
       "options": [
         "am",
-        "were",
         "will be",
+        "were",
         "would be"
       ],
       "correctAnswer": "were",
@@ -556,8 +556,8 @@
       "options": [
         "72",
         "76",
-        "85",
-        "80"
+        "80",
+        "85"
       ],
       "correctAnswer": "80",
       "explanation": "If the number is x, then 1.20x = 96, so x = 96 ÷ 1.20 = 80. '76' comes from wrongly subtracting 20% of 96 (about 19). '85' does not satisfy a 20% increase to 96. '72' would give 86.4 after a 20% rise, not 96, so those options are incorrect."
@@ -567,10 +567,10 @@
       "subject": "A",
       "questionText": "Choose the word that best completes the analogy: 'Sculptor is to Statue as Poet is to ______.'",
       "options": [
-        "Poem",
         "Stanza",
         "Rhyme",
-        "Verse"
+        "Verse",
+        "Poem"
       ],
       "correctAnswer": "Poem",
       "explanation": "A sculptor creates a statue, so a poet creates a poem — a maker-to-complete-creation relationship. 'Stanza' is only a part of a poem, not the whole creation. 'Rhyme' is a feature of some poems, not the product. 'Verse' can mean a line or type of writing but is less precisely the finished work than 'poem', so it is a weaker match."
@@ -594,9 +594,9 @@
       "questionText": "In the periodic table, the chemical symbol 'Na' stands for which element?",
       "options": [
         "Nitrogen",
-        "Sodium",
         "Nickel",
-        "Neon"
+        "Neon",
+        "Sodium"
       ],
       "correctAnswer": "Sodium",
       "explanation": "The symbol 'Na' comes from the Latin name 'Natrium' and stands for sodium. Nitrogen's symbol is 'N', not 'Na'. Nickel's symbol is 'Ni'. Neon's symbol is 'Ne', so those elements have different symbols and are incorrect for 'Na'."
@@ -608,11 +608,11 @@
       "options": [
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
         "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+        "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
-      "explanation": "LAN is Local Area Network, VDU is Visual Display Unit, OMR is Optical Mark Reader, and SMPS is Switched Mode Power Supply — matching the first option. The second wrongly swaps LAN and VDU. The third wrongly swaps OMR and SMPS. The fourth wrongly labels LAN as an optical mark reader, so those are incorrect."
+      "explanation": "LAN is Local Area Network, VDU is Visual Display Unit, OMR is Optical Mark Reader, and SMPS is Switched Mode Power Supply — matching '(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)'. The second wrongly swaps LAN and VDU. The third wrongly swaps OMR and SMPS. The fourth wrongly labels LAN as an optical mark reader, so those are incorrect."
     },
     {
       "id": "48",
@@ -632,10 +632,10 @@
       "subject": "B",
       "questionText": "What is the capital city of Nigeria?",
       "options": [
-        "Abuja",
         "Lagos",
         "Kano",
-        "Ibadan"
+        "Ibadan",
+        "Abuja"
       ],
       "correctAnswer": "Abuja",
       "explanation": "Abuja became the capital of Nigeria in 1991, replacing Lagos. Lagos is the largest city and former capital, often mistaken for the current one, but it is not. Kano and Ibadan are large Nigerian cities but have never been the national capital, so those options are incorrect."
@@ -646,9 +646,9 @@
       "questionText": "The simple interest and the principal are in the ratio 1 : 5 for a period of 4 years. What is the annual rate of interest?",
       "options": [
         "4%",
-        "5%",
         "6%",
-        "8%"
+        "8%",
+        "5%"
       ],
       "correctAnswer": "5%",
       "explanation": "SI/P = 1/5, and SI = P × R × T / 100, so 1/5 = R × 4 / 100, giving R = 100 / (5 × 4) = 5%. '4%' comes from ignoring the ratio and using time alone. '6%' and '8%' do not satisfy the relation SI = P/5 over 4 years, so those options are wrong."
@@ -658,9 +658,9 @@
       "subject": "A",
       "questionText": "Consider the following statements about the correct use of tenses:\n\n(i) 'He has been working here since 2015' uses the present perfect continuous correctly.\n(ii) 'I have seen him yesterday' is a correct sentence.\n(iii) 'By next year, she will have completed her training' uses the future perfect correctly.\n(iv) 'They are knowing the answer' is a correct sentence.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(i) and (iii) only",
         "(ii) and (iv) only",
         "(i) and (ii) only",
-        "(i) and (iii) only",
         "(iii) and (iv) only"
       ],
       "correctAnswer": "(i) and (iii) only",
@@ -671,10 +671,10 @@
       "subject": "C",
       "questionText": "Which national park in Jammu and Kashmir is known for being the last home of the endangered Hangul (Kashmir stag)?",
       "options": [
+        "Dachigam National Park",
         "Salim Ali National Park",
         "Kishtwar National Park",
-        "Hemis National Park",
-        "Dachigam National Park"
+        "Hemis National Park"
       ],
       "correctAnswer": "Dachigam National Park",
       "explanation": "Dachigam National Park near Srinagar is the main habitat of the endangered Hangul deer. Kishtwar National Park is known for markhor and other species, not primarily the Hangul. Hemis is in Ladakh, famed for the snow leopard. Salim Ali National Park in Srinagar is small and not the Hangul's stronghold, so those are wrong."
@@ -695,24 +695,24 @@
     {
       "id": "54",
       "subject": "B",
-      "questionText": "Which of the following are centrally sponsored schemes of the Government of India?\n\n(i) MGNREGA\n(ii) Beti Bachao Beti Padhao\n(iii) PM-KISAN\n(iv) Bretton Woods Agreement\n\nSelect the correct combination:",
+      "questionText": "Which of the following are centrally sponsored schemes of the Government of India?\n\n(i) Bretton Woods Agreement\n(ii) MGNREGA\n(iii) Beti Bachao Beti Padhao\n(iv) PM-KISAN\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "MGNREGA, Beti Bachao Beti Padhao and PM-KISAN are all Indian government schemes, so (i), (ii) and (iii) are correct. The Bretton Woods Agreement (iv) was an international monetary conference in 1944 that created the IMF and World Bank, not an Indian scheme; hence options with (iv) are incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "MGNREGA, Beti Bachao Beti Padhao and PM-KISAN are all Indian government schemes, so (ii), (iii) and (iv) are correct. The Bretton Woods Agreement (i) was an international monetary conference in 1944 that created the IMF and World Bank, not an Indian scheme; hence options with (i) are incorrect."
     },
     {
       "id": "55",
       "subject": "E",
       "questionText": "The full form of 'GUI' in the context of operating systems is ______.",
       "options": [
+        "Graphical User Interface",
         "Graphical Unified Interface",
         "General Utility Interface",
-        "Graphical User Interface",
         "Global User Interaction"
       ],
       "correctAnswer": "Graphical User Interface",
@@ -723,10 +723,10 @@
       "subject": "A",
       "questionText": "Which word is closest in meaning to 'OBSTINATE'?",
       "options": [
+        "Stubborn",
         "Generous",
         "Flexible",
-        "Cheerful",
-        "Stubborn"
+        "Cheerful"
       ],
       "correctAnswer": "Stubborn",
       "explanation": "'Obstinate' means refusing to change one's mind, i.e. stubborn. 'Flexible' is the opposite, meaning willing to adapt. 'Cheerful' describes a happy mood, unrelated to firmness of opinion. 'Generous' relates to giving freely, again unrelated, so those options are incorrect."
@@ -736,8 +736,8 @@
       "subject": "B",
       "questionText": "The production of a foodgrain (in lakh tonnes) in a state over four years was: 2021 → 20, 2022 → 25, 2023 → 30, 2024 → 45. In which year was the percentage increase over the previous year the highest?",
       "options": [
-        "2024",
         "2022",
+        "2024",
         "2023",
         "2022 and 2023 were equal"
       ],
@@ -763,8 +763,8 @@
       "questionText": "If '#' means addition, '@' means subtraction, '&' means multiplication and '%' means division, what is the value of 20 # 12 % 4 @ 3?",
       "options": [
         "17",
-        "22",
         "20",
+        "22",
         "26"
       ],
       "correctAnswer": "20",
@@ -776,9 +776,9 @@
       "questionText": "Fill in the blank with the correct homophone: The tailor added an extra button as a __________ to the plain jacket. __________",
       "options": [
         "compliement",
+        "complement",
         "compliment",
-        "complament",
-        "complement"
+        "complament"
       ],
       "correctAnswer": "complement",
       "explanation": "'Complement' means something that completes or enhances, which fits an addition to the jacket. 'Compliment' means a word of praise, a different meaning. 'Complament' and 'compliement' are not valid English words, so those options are incorrect."
@@ -801,8 +801,8 @@
       "subject": "C",
       "questionText": "The Kishtwar region of Jammu and Kashmir is well known for the mining of which precious blue gemstone?",
       "options": [
-        "Sapphire",
         "Ruby",
+        "Sapphire",
         "Emerald",
         "Diamond"
       ],
@@ -815,8 +815,8 @@
       "questionText": "The currency of Thailand is the ______.",
       "options": [
         "Rupiah",
-        "Baht",
         "Kyat",
+        "Baht",
         "Dong"
       ],
       "correctAnswer": "Baht",
@@ -825,15 +825,15 @@
     {
       "id": "64",
       "subject": "A",
-      "questionText": "Which of the following are correct examples of collective nouns paired with their groups?\n\n(i) A pride of lions\n(ii) A flock of sheep\n(iii) A swarm of bees\n(iv) A herd of ships\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correct examples of collective nouns paired with their groups?\n\n(i) A pride of lions\n(ii) A herd of ships\n(iii) A flock of sheep\n(iv) A swarm of bees\n\nSelect the correct combination:",
       "options": [
         "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)"
+        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'A pride of lions', 'a flock of sheep' and 'a swarm of bees' are all correct collective nouns, so (i), (ii) and (iii) are right. Statement (iv) is wrong because the collective noun for ships is 'a fleet', not 'a herd' (which is used for cattle); hence options containing (iv) are incorrect."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'A pride of lions', 'a flock of sheep' and 'a swarm of bees' are all correct collective nouns, so (i), (iii) and (iv) are right. Statement (ii) is wrong because the collective noun for ships is 'a fleet', not 'a herd' (which is used for cattle); hence options containing (ii) are incorrect."
     },
     {
       "id": "65",
@@ -842,8 +842,8 @@
       "options": [
         "250 metres",
         "100 metres",
-        "200 metres",
-        "150 metres"
+        "150 metres",
+        "200 metres"
       ],
       "correctAnswer": "150 metres",
       "explanation": "Speed = 72 × 5/18 = 20 m/s; distance in 20 s = 400 m, which equals train length + platform length. So train = 400 − 250 = 150 m. '100 metres' assumes 350 m total. '200 metres' assumes 450 m. '250 metres' equals the platform, not the train, so those options are wrong."
@@ -853,13 +853,13 @@
       "subject": "B",
       "questionText": "Match the following personalities with their sobriquets:\n\nColumn I:\n(a) Lala Lajpat Rai\n(b) C. R. Das\n(c) Dadabhai Naoroji\n(d) Subhas Chandra Bose\n\nColumn II:\n(i) Deshbandhu\n(ii) Punjab Kesari\n(iii) Netaji\n(iv) Grand Old Man of India\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "Lala Lajpat Rai is 'Punjab Kesari', C. R. Das is 'Deshbandhu', Dadabhai Naoroji is the 'Grand Old Man of India', and Subhas Chandra Bose is 'Netaji' — matching the first option. The second swaps Lajpat Rai and Das, the third swaps Das and Naoroji, and the fourth swaps Bose and Naoroji, so those are incorrect."
+      "explanation": "Lala Lajpat Rai is 'Punjab Kesari', C. R. Das is 'Deshbandhu', Dadabhai Naoroji is the 'Grand Old Man of India', and Subhas Chandra Bose is 'Netaji' — matching '(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)'. The second swaps Lajpat Rai and Das, the third swaps Das and Naoroji, and the fourth swaps Bose and Naoroji, so those are incorrect."
     },
     {
       "id": "67",
@@ -867,8 +867,8 @@
       "questionText": "How many bytes are there in one kilobyte (KB) as conventionally used in computing?",
       "options": [
         "1000 bytes",
-        "1024 bytes",
         "512 bytes",
+        "1024 bytes",
         "2048 bytes"
       ],
       "correctAnswer": "1024 bytes",
@@ -885,7 +885,7 @@
         "The childrens books were left in the officers mess."
       ],
       "correctAnswer": "The children's books were left in the officers' mess.",
-      "explanation": "'Children' is an irregular plural, so its possessive is 'children's', and 'officers' is a regular plural taking an apostrophe after the s ('officers''), making the first option correct. The second wrongly writes 'childrens''. The third adds an extra 's' to 'officers'. The fourth omits the apostrophes entirely, so those are wrong."
+      "explanation": "'Children' is an irregular plural, so its possessive is 'children's', and 'officers' is a regular plural taking an apostrophe after the s ('officers''), making 'The children's books were left in the officers's mess.' correct. The second wrongly writes 'childrens''. The third adds an extra 's' to 'officers'. The fourth omits the apostrophes entirely, so those are wrong."
     },
     {
       "id": "69",
@@ -905,10 +905,10 @@
       "subject": "B",
       "questionText": "In which year did the Simon Commission arrive in India, leading to widespread protests?",
       "options": [
-        "1928",
         "1919",
         "1935",
-        "1942"
+        "1942",
+        "1928"
       ],
       "correctAnswer": "1928",
       "explanation": "The Simon Commission arrived in India in 1928 and was met with 'Simon Go Back' protests because it had no Indian members. '1919' relates to the Rowlatt Act and Jallianwala Bagh. '1935' was the Government of India Act. '1942' was the Quit India Movement, so those options are incorrect."
@@ -924,7 +924,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is correct but (R) is not correct",
-      "explanation": "A is correct: 'The scenery here are beautiful' is wrong because 'scenery' takes a singular verb ('is'). But R is false because 'scenery' is an uncountable noun, not a countable one taking a plural verb — so the third option is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
+      "explanation": "A is correct: 'The scenery here are beautiful' is wrong because 'scenery' takes a singular verb ('is'). But R is false because 'scenery' is an uncountable noun, not a countable one taking a plural verb — so '(A) is correct but (R) is not correct' is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
     },
     {
       "id": "72",
@@ -932,9 +932,9 @@
       "questionText": "A shopkeeper mixes 8 kg of rice costing ₹40 per kg with 12 kg costing ₹30 per kg. What is the average cost per kg of the mixture?",
       "options": [
         "₹35",
-        "₹34",
         "₹36",
-        "₹33"
+        "₹33",
+        "₹34"
       ],
       "correctAnswer": "₹34",
       "explanation": "Total cost = 8 × 40 + 12 × 30 = 320 + 360 = ₹680 for 20 kg, so average = 680 ÷ 20 = ₹34 per kg. '₹35' is the simple average of the two prices, ignoring quantities. '₹36' and '₹33' do not match the weighted total of ₹680, so those options are wrong."
@@ -946,8 +946,8 @@
       "options": [
         "Gulmarg",
         "Pahalgam",
-        "Pampore",
-        "Sopore"
+        "Sopore",
+        "Pampore"
       ],
       "correctAnswer": "Pampore",
       "explanation": "Pampore, in the Pulwama district, is famous as the saffron bowl of Kashmir. Pahalgam is a hill resort known for tourism, not saffron. Gulmarg is a skiing destination, not a saffron area. Sopore is renowned for its apple orchards rather than saffron, so those options are incorrect."
@@ -970,10 +970,10 @@
       "subject": "E",
       "questionText": "The main electronic component used in the first generation of computers was the ______.",
       "options": [
-        "vacuum tube",
         "transistor",
         "integrated circuit",
-        "microprocessor"
+        "microprocessor",
+        "vacuum tube"
       ],
       "correctAnswer": "vacuum tube",
       "explanation": "First-generation computers relied on vacuum tubes for their circuitry. The transistor was the hallmark of the second generation. The integrated circuit defined the third generation. The microprocessor characterises the fourth generation, so those components belong to later eras and are incorrect here."
@@ -983,8 +983,8 @@
       "subject": "B",
       "questionText": "Consider the following statements about the United Nations:\n\n(i) The UN currently has 193 member states.\n(ii) The Secretary-General is the chief administrative officer of the UN.\n(iii) The World Health Organization is a principal organ of the UN.\n(iv) The UN General Assembly gives each member state one vote.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
+        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
         "(i), (iii) and (iv)"
       ],
@@ -996,9 +996,9 @@
       "subject": "D",
       "questionText": "The compound interest on a sum of ₹12,000 for 2 years at 5% per annum, compounded annually, is:",
       "options": [
+        "₹1,230",
         "₹1,260",
         "₹1,200",
-        "₹1,230",
         "₹1,320"
       ],
       "correctAnswer": "₹1,230",
@@ -1009,10 +1009,10 @@
       "subject": "A",
       "questionText": "What does the idiom 'to let sleeping dogs lie' mean?",
       "options": [
+        "To avoid interfering in a situation that is causing no trouble",
         "To ignore an urgent warning",
         "To take a long rest during the daytime",
-        "To keep pets quiet at night",
-        "To avoid interfering in a situation that is causing no trouble"
+        "To keep pets quiet at night"
       ],
       "correctAnswer": "To avoid interfering in a situation that is causing no trouble",
       "explanation": "'To let sleeping dogs lie' means to avoid stirring up a settled matter that could cause trouble. 'Take a long rest during the daytime' reads it too literally. 'Keep pets quiet at night' also misses the figurative sense. 'Ignore an urgent warning' suggests recklessness, which is not the idiom's meaning, so those options are wrong."
@@ -1035,8 +1035,8 @@
       "subject": "D",
       "questionText": "Find the wrong number in the series: 4, 9, 19, 39, 80, 159.",
       "options": [
-        "39",
         "80",
+        "39",
         "19",
         "159"
       ],
@@ -1049,8 +1049,8 @@
       "questionText": "Which planet, the brightest in the night sky, is often called the 'Morning Star' or 'Evening Star'?",
       "options": [
         "Mercury",
-        "Mars",
         "Venus",
+        "Mars",
         "Saturn"
       ],
       "correctAnswer": "Venus",
@@ -1062,9 +1062,9 @@
       "questionText": "Choose the correct preposition: The scientist finally succeeded ______ isolating the compound.",
       "options": [
         "for",
+        "in",
         "at",
-        "on",
-        "in"
+        "on"
       ],
       "correctAnswer": "in",
       "explanation": "The verb 'succeed' collocates with 'in' plus a gerund, so 'succeeded in isolating' is correct. 'at' pairs with 'good at' or 'skilled at', not 'succeed'. 'on' does not combine with 'succeed'. 'for' would suggest purpose, which does not fit this structure, so those options are incorrect."
@@ -1074,8 +1074,8 @@
       "subject": "D",
       "questionText": "A cyclist covers the first half of a journey at 10 km/h and the second half at 15 km/h. What is his average speed for the whole journey?",
       "options": [
-        "12 km/h",
         "12.5 km/h",
+        "12 km/h",
         "13 km/h",
         "11 km/h"
       ],
@@ -1106,7 +1106,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is not correct but (R) is correct",
-      "explanation": "A is false because the Tropic of Cancer does pass through India, roughly bisecting it across states like Gujarat and Madhya Pradesh. R is true because India lies wholly north of the Equator. So the fourth option is correct. The first and second wrongly treat A as correct, and the third wrongly calls R incorrect."
+      "explanation": "A is false because the Tropic of Cancer does pass through India, roughly bisecting it across states like Gujarat and Madhya Pradesh. R is true because India lies wholly north of the Equator. So '(A) is not correct but (R) is correct' is correct. The first and second wrongly treat A as correct, and the third wrongly calls R incorrect."
     },
     {
       "id": "86",
@@ -1114,8 +1114,8 @@
       "questionText": "Which instrument is used to measure atmospheric pressure?",
       "options": [
         "Hygrometer",
-        "Thermometer",
         "Barometer",
+        "Thermometer",
         "Ammeter"
       ],
       "correctAnswer": "Barometer",
@@ -1127,9 +1127,9 @@
       "questionText": "Fill in the blank with the correct word: The management decided to __________ the new safety rules with immediate effect. __________",
       "options": [
         "enfource",
+        "enforce",
         "inforce",
-        "enforse",
-        "enforce"
+        "enforse"
       ],
       "correctAnswer": "enforce",
       "explanation": "'Enforce' (to compel observance of a rule) is the correctly spelt verb that fits the context. 'Inforce' is a common misspelling with a wrong prefix. 'Enforse' wrongly uses 's' instead of 'c'. 'Enfource' inserts an extra 'u', so those spellings are incorrect."
@@ -1139,9 +1139,9 @@
       "subject": "B",
       "questionText": "Which Article of the Indian Constitution guarantees protection of life and personal liberty?",
       "options": [
-        "Article 21",
         "Article 19",
         "Article 14",
+        "Article 21",
         "Article 32"
       ],
       "correctAnswer": "Article 21",
@@ -1153,8 +1153,8 @@
       "questionText": "A dealer sold a watch for ₹1,080 and gained 20%. What was the cost price of the watch?",
       "options": [
         "₹864",
-        "₹900",
         "₹950",
+        "₹900",
         "₹880"
       ],
       "correctAnswer": "₹900",
@@ -1176,24 +1176,24 @@
     {
       "id": "91",
       "subject": "E",
-      "questionText": "Which of the following are input devices?\n\n(i) Trackball\n(ii) Graphics tablet\n(iii) Speaker\n(iv) Webcam\n\nSelect the correct combination:",
+      "questionText": "Which of the following are input devices?\n\n(i) Trackball\n(ii) Graphics tablet\n(iii) Webcam\n(iv) Speaker\n\nSelect the correct combination:",
       "options": [
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(ii), (iii) and (iv)",
-        "(i), (ii) and (iv)"
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "A trackball, a graphics tablet and a webcam all feed input into a computer, so (i), (ii) and (iv) are correct. A speaker (iii) produces sound output, making it an output device; therefore every option containing (iii) — the second, third and fourth — is incorrect. Only the first option is right."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "A trackball, a graphics tablet and a webcam all feed input into a computer, so (i), (ii) and (iii) are correct. A speaker (iv) produces sound output, making it an output device; therefore every option containing (iv) — the second, third and fourth — is incorrect. Only '(i), (iv) and (iii)' is right."
     },
     {
       "id": "92",
       "subject": "D",
       "questionText": "The HCF of two numbers is 12 and their LCM is 144. If one number is 48, what is the other number?",
       "options": [
-        "36",
         "24",
         "48",
+        "36",
         "72"
       ],
       "correctAnswer": "36",
@@ -1205,8 +1205,8 @@
       "questionText": "The newspaper 'The Hindu' was first published from which Indian city?",
       "options": [
         "Bombay (Mumbai)",
-        "Madras (Chennai)",
         "Calcutta (Kolkata)",
+        "Madras (Chennai)",
         "Delhi"
       ],
       "correctAnswer": "Madras (Chennai)",
@@ -1215,15 +1215,15 @@
     {
       "id": "94",
       "subject": "A",
-      "questionText": "Consider the following statements about articles:\n\n(i) 'The' is used before the names of oceans and rivers.\n(ii) 'A' is used before words beginning with a consonant sound.\n(iii) 'An' is used before the word 'European'.\n(iv) 'The' is used before superlative adjectives.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about articles:\n\n(i) 'An' is used before the word 'European'.\n(ii) 'The' is used before the names of oceans and rivers.\n(iii) 'A' is used before words beginning with a consonant sound.\n(iv) 'The' is used before superlative adjectives.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(ii), (iii) and (iv)",
+        "(i), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)"
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "'The' is used before oceans, rivers and superlatives, and 'a' precedes consonant sounds — so (i), (ii) and (iv) are correct. Statement (iii) is wrong because 'European' begins with a /juː/ consonant sound and takes 'a', not 'an'; hence options containing (iii) are incorrect."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "'The' is used before oceans, rivers and superlatives, and 'a' precedes consonant sounds — so (ii), (iii) and (iv) are correct. Statement (i) is wrong because 'European' begins with a /juː/ consonant sound and takes 'a', not 'an'; hence options containing (i) are incorrect."
     },
     {
       "id": "95",
@@ -1243,10 +1243,10 @@
       "subject": "B",
       "questionText": "Which award is given by the Government of India specifically to honour outstanding coaches in sports?",
       "options": [
-        "Dronacharya Award",
         "Arjuna Award",
         "Khel Ratna Award",
-        "Dhyan Chand Award"
+        "Dhyan Chand Award",
+        "Dronacharya Award"
       ],
       "correctAnswer": "Dronacharya Award",
       "explanation": "The Dronacharya Award honours outstanding sports coaches. The Arjuna Award recognises consistent performance by athletes, not coaches. The Major Dhyan Chand Khel Ratna is for the most outstanding sportsperson. The Dhyan Chand Award is for lifetime achievement by players, so those options are incorrect for coaches."
@@ -1257,9 +1257,9 @@
       "questionText": "Choose the correct pronoun: It was ______ who first reported the theft to the police.",
       "options": [
         "me",
-        "I",
         "myself",
-        "mine"
+        "mine",
+        "I"
       ],
       "correctAnswer": "I",
       "explanation": "After the verb 'to be' ('was'), the subjective case is used in formal grammar, so 'It was I' is correct. 'me' is the objective case, wrong as a subject complement in formal usage. 'myself' is reflexive and needs a preceding subject 'I'. 'mine' is possessive and cannot fill this slot, so those options are incorrect."
@@ -1271,8 +1271,8 @@
       "options": [
         "22",
         "12",
-        "11",
-        "10"
+        "10",
+        "11"
       ],
       "correctAnswer": "11",
       "explanation": "In 12 hours the hands overlap 11 times, because between 11 o'clock and 1 o'clock they coincide only once (around 12), giving 11 rather than 12 overlaps. '12' is the common mistake that ignores this. '22' is the count for 24 hours. '10' is one too few, so those options are incorrect."
@@ -1288,7 +1288,7 @@
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-      "explanation": "The Zabarwan is a range near Srinagar, the Tawi flows near Jammu, Zoji La is a pass on the Srinagar-Leh route, and Zain-ul-Abidin (Budshah) was a tolerant medieval ruler — matching the first option. The second swaps Zabarwan and Tawi, the third swaps Tawi and Zoji La, and the fourth swaps Zoji La and Zain-ul-Abidin, so those are wrong."
+      "explanation": "The Zabarwan is a range near Srinagar, the Tawi flows near Jammu, Zoji La is a pass on the Srinagar-Leh route, and Zain-ul-Abidin (Budshah) was a tolerant medieval ruler — matching '(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)'. The second swaps Zabarwan and Tawi, the third swaps Tawi and Zoji La, and the fourth swaps Zoji La and Zain-ul-Abidin, so those are wrong."
     },
     {
       "id": "100",
@@ -1301,7 +1301,7 @@
         "(A) is not correct but (R) is correct"
       ],
       "correctAnswer": "(A) is correct but (R) is not correct",
-      "explanation": "A is correct: data in RAM is indeed lost when power is cut. But R is false because RAM is volatile, not non-volatile — that volatility is exactly what causes the data loss. So the third option is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
+      "explanation": "A is correct: data in RAM is indeed lost when power is cut. But R is false because RAM is volatile, not non-volatile — that volatility is exactly what causes the data loss. So '(A) is correct but (R) is not correct' is right. The first and second wrongly treat R as correct, and the fourth wrongly calls A incorrect."
     }
   ]
 }

@@ -21,8 +21,8 @@
       "subject": "D",
       "questionText": "A trader marks his goods 50% above cost price and allows a discount of 20%. His net profit percentage is:",
       "options": [
-        "20%",
         "30%",
+        "20%",
         "25%",
         "15%"
       ],
@@ -34,8 +34,8 @@
       "subject": "B",
       "questionText": "Consider the following statements about the Indian Constitution:\n\n(i) Fundamental Rights are justiciable (enforceable by courts).\n(ii) Directive Principles are non-justiciable.\n(iii) Fundamental Duties were added by the 42nd Amendment.\n(iv) The Preamble is a part of the Constitution as per the Kesavananda Bharati case.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iii) only",
+        "(i), (ii), (iii) and (iv)",
         "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only"
       ],
@@ -60,8 +60,8 @@
       "subject": "C",
       "questionText": "The Uri-I and Uri-II hydroelectric projects are located on which river in J&K?",
       "options": [
-        "Jhelum",
         "Chenab",
+        "Jhelum",
         "Indus",
         "Tawi"
       ],
@@ -73,9 +73,9 @@
       "subject": "A",
       "questionText": "Match the following idioms with their meanings:\n\nColumn I:\n(a) To cry wolf\n(b) To have an axe to grind\n(c) To burn one's boats\n(d) To read between the lines\n\nColumn II:\n(i) To have a hidden personal motive\n(ii) To raise a false alarm\n(iii) To understand the hidden meaning\n(iv) To make retreat impossible by committing fully\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
@@ -84,24 +84,24 @@
     {
       "id": "7",
       "subject": "D",
-      "questionText": "Consider the following statements about probability:\n\n(i) The probability of a certain event is 1.\n(ii) The probability of an impossible event is 0.\n(iii) P(A) + P(A') = 1 for any event A.\n(iv) Probability can be negative for unlikely events.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about probability:\n\n(i) The probability of a certain event is 1.\n(ii) The probability of an impossible event is 0.\n(iii) Probability can be negative for unlikely events.\n(iv) P(A) + P(A') = 1 for any event A.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
-        "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Certain event has P=1 (i correct). Impossible event has P=0 (ii correct). An event and its complement always sum to 1 (iii correct). Statement (iv) is incorrect — probability can NEVER be negative; it always lies between 0 and 1 inclusive."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Certain event has P=1 (i correct). Impossible event has P=0 (ii correct). An event and its complement always sum to 1 (iii correct). Statement (iii) is incorrect — probability can NEVER be negative; it always lies between 0 and 1 inclusive."
     },
     {
       "id": "8",
       "subject": "B",
       "questionText": "The 'Make in India' initiative was launched in which year?",
       "options": [
-        "2014",
         "2015",
         "2016",
+        "2014",
         "2013"
       ],
       "correctAnswer": "2014",
@@ -125,10 +125,10 @@
       "subject": "E",
       "questionText": "Which of the following are examples of application software?\n\n(i) Microsoft Word\n(ii) Windows 11\n(iii) Google Chrome\n(iv) Linux\n\nSelect the correct combination:",
       "options": [
-        "(i) and (iii) only",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i) and (iii) only"
       ],
       "correctAnswer": "(i) and (iii) only",
       "explanation": "MS Word (word processor) is application software (i correct). Google Chrome (web browser) is application software (iii correct). Windows 11 (ii) is an OPERATING SYSTEM, not application software. Linux (iv) is also an OPERATING SYSTEM. Only (i) and (iii) are applications that run ON an OS."
@@ -138,10 +138,10 @@
       "subject": "D",
       "questionText": "If a car travels 240 km in 4 hours, what is its average speed in m/s?",
       "options": [
-        "16.67 m/s",
         "60 m/s",
         "20 m/s",
-        "15 m/s"
+        "15 m/s",
+        "16.67 m/s"
       ],
       "correctAnswer": "16.67 m/s",
       "explanation": "Speed = 240/4 = 60 km/h. Converting to m/s: 60 × 5/18 = 300/18 = 16.67 m/s. Option 60 is speed in km/h not m/s. Option 20 uses wrong conversion factor. Option 15 = 54 km/h conversion."
@@ -164,10 +164,10 @@
       "subject": "A",
       "questionText": "Choose the word most nearly OPPOSITE in meaning to 'EXACERBATE':",
       "options": [
-        "Alleviate",
         "Worsen",
         "Intensify",
-        "Aggravate"
+        "Aggravate",
+        "Alleviate"
       ],
       "correctAnswer": "Alleviate",
       "explanation": "'Exacerbate' means to make worse or more severe. 'Alleviate' means to make less severe or relieve — the direct antonym. 'Worsen' is a synonym. 'Intensify' means to strengthen — similar to exacerbate. 'Aggravate' means to make worse — a synonym."
@@ -175,23 +175,23 @@
     {
       "id": "14",
       "subject": "C",
-      "questionText": "Consider the following statements about the Indus Waters Treaty:\n\n(i) It was signed in 1960 between India and Pakistan.\n(ii) It allocates eastern rivers (Ravi, Beas, Sutlej) to India.\n(iii) Western rivers (Indus, Jhelum, Chenab) are allocated to Pakistan.\n(iv) India is completely prohibited from using the western rivers.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about the Indus Waters Treaty:\n\n(i) India is completely prohibited from using the western rivers.\n(ii) It was signed in 1960 between India and Pakistan.\n(iii) It allocates eastern rivers (Ravi, Beas, Sutlej) to India.\n(iv) Western rivers (Indus, Jhelum, Chenab) are allocated to Pakistan.\n\nWhich of the statements given above are correct?",
       "options": [
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "The Treaty was signed in 1960 brokered by the World Bank (i correct). Eastern rivers (Ravi, Beas, Sutlej) go to India (ii correct). Western rivers (Indus, Jhelum, Chenab) go to Pakistan (iii correct). Statement (iv) is incorrect — India is NOT completely prohibited; it can use western rivers for domestic use, non-consumptive purposes, limited agriculture, and run-of-the-river hydroelectric projects."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "The Treaty was signed in 1960 brokered by the World Bank (i correct). Eastern rivers (Ravi, Beas, Sutlej) go to India (ii correct). Western rivers (Indus, Jhelum, Chenab) go to Pakistan (iii correct). Statement (i) is incorrect — India is NOT completely prohibited; it can use western rivers for domestic use, non-consumptive purposes, limited agriculture, and run-of-the-river hydroelectric projects."
     },
     {
       "id": "15",
       "subject": "D",
       "questionText": "Match the following reasoning types with examples:\n\nColumn I:\n(a) Blood Relation: Father's mother\n(b) Coding: If A=1, B=2..., then CAT = ?\n(c) Direction: Face North, turn left\n(d) Series: 2, 6, 18, 54, ?\n\nColumn II:\n(i) 162 (multiply by 3)\n(ii) Facing West\n(iii) Paternal Grandmother\n(iv) 24 (3+1+20)\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
       ],
@@ -201,37 +201,37 @@
     {
       "id": "16",
       "subject": "B",
-      "questionText": "Which of the following are correctly matched (Vitamin — Source)?\n\n(i) Vitamin A — Carrots, sweet potatoes\n(ii) Vitamin C — Citrus fruits, amla\n(iii) Vitamin D — Sunlight exposure\n(iv) Vitamin K — Cereals and pulses\n\nSelect the correct combination:",
+      "questionText": "Which of the following are correctly matched (Vitamin — Source)?\n\n(i) Vitamin A — Carrots, sweet potatoes\n(ii) Vitamin K — Cereals and pulses\n(iii) Vitamin C — Citrus fruits, amla\n(iv) Vitamin D — Sunlight exposure\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii) only",
-        "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Vitamin A from carrots/sweet potatoes (beta-carotene) (i correct). Vitamin C from citrus/amla (ii correct). Vitamin D from sunlight on skin (iii correct). Vitamin K (iv) comes from green leafy vegetables (spinach, broccoli) and fermented foods, NOT primarily from cereals and pulses."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Vitamin A from carrots/sweet potatoes (beta-carotene) (i correct). Vitamin C from citrus/amla (ii correct). Vitamin D from sunlight on skin (iii correct). Vitamin K (ii) comes from green leafy vegetables (spinach, broccoli) and fermented foods, NOT primarily from cereals and pulses."
     },
     {
       "id": "17",
       "subject": "A",
-      "questionText": "Consider the following statements about English grammar:\n\n(i) 'Fewer' is used with countable nouns; 'Less' with uncountable nouns.\n(ii) 'Who' is subjective case; 'Whom' is objective case.\n(iii) A gerund ends in '-ing' and functions as a noun.\n(iv) 'Lay' is intransitive (does not take an object).\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about English grammar:\n\n(i) 'Fewer' is used with countable nouns; 'Less' with uncountable nouns.\n(ii) 'Who' is subjective case; 'Whom' is objective case.\n(iii) 'Lay' is intransitive (does not take an object).\n(iv) A gerund ends in '-ing' and functions as a noun.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Fewer/less distinction for countable/uncountable (i correct). Who(subjective)/Whom(objective) (ii correct). Gerund = -ing form as noun (iii correct). Statement (iv) is incorrect — 'LAY' is TRANSITIVE (takes an object: 'lay the book down'). 'LIE' is intransitive (no object: 'I lie down'). This is one of English's most confused verb pairs."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "Fewer/less distinction for countable/uncountable (i correct). Who(subjective)/Whom(objective) (ii correct). Gerund = -ing form as noun (iii correct). Statement (iii) is incorrect — 'LAY' is TRANSITIVE (takes an object: 'lay the book down'). 'LIE' is intransitive (no object: 'I lie down'). This is one of English's most confused verb pairs."
     },
     {
       "id": "18",
       "subject": "E",
       "questionText": "Match the following internet protocols with their functions:\n\nColumn I:\n(a) HTTP\n(b) SMTP\n(c) FTP\n(d) DNS\n\nColumn II:\n(i) Translates domain names to IP addresses\n(ii) Transfers web pages from server to browser\n(iii) Sends outgoing emails\n(iv) Transfers files between computers\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
@@ -255,9 +255,9 @@
       "subject": "B",
       "questionText": "Consider the following statements about the Quit India Movement:\n\n(i) It was launched on 8 August 1942.\n(ii) Mahatma Gandhi gave the call 'Do or Die'.\n(iii) The movement demanded immediate British withdrawal from India.\n(iv) It was launched in response to the Rowlatt Act.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -268,9 +268,9 @@
       "subject": "A",
       "questionText": "Choose the correctly punctuated sentence:",
       "options": [
-        "The students — who had studied hard — passed with distinction.",
         "The students, who had studied hard; passed with distinction.",
         "The students who had studied hard, passed with distinction.",
+        "The students — who had studied hard — passed with distinction.",
         "The students: who had studied hard passed with distinction."
       ],
       "correctAnswer": "The students — who had studied hard — passed with distinction.",
@@ -281,10 +281,10 @@
       "subject": "D",
       "questionText": "The following data shows the production of a factory over 5 days:\n\nMon → 200, 10\nTue → 250, 15\nWed → 180, 12\nThu → 300, 18\nFri → 270, 9\n\nOn which day was the defect rate (percentage of defective units) the lowest?",
       "options": [
-        "Friday",
         "Monday",
         "Thursday",
-        "Tuesday"
+        "Tuesday",
+        "Friday"
       ],
       "correctAnswer": "Friday",
       "explanation": "Mon: 10/200 = 5%. Tue: 15/250 = 6%. Wed: 12/180 = 6.67%. Thu: 18/300 = 6%. Fri: 9/270 = 3.33% (lowest). Friday has the lowest defect rate at 3.33%. Monday is second-best at 5%."
@@ -305,28 +305,28 @@
     {
       "id": "24",
       "subject": "E",
-      "questionText": "Consider the following statements about computer networks:\n\n(i) LAN covers a small area like an office or building.\n(ii) WAN covers a large geographical area like a country or continent.\n(iii) The Internet is the largest WAN in the world.\n(iv) MAN covers a metropolitan city and is smaller than a LAN.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer networks:\n\n(i) MAN covers a metropolitan city and is smaller than a LAN.\n(ii) LAN covers a small area like an office or building.\n(iii) WAN covers a large geographical area like a country or continent.\n(iv) The Internet is the largest WAN in the world.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(ii), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "LAN = Local Area Network covering small areas (i correct). WAN = Wide Area Network spanning large distances (ii correct). The Internet is the world's largest WAN connecting billions of devices globally (iii correct). Statement (iv) is incorrect — MAN (Metropolitan Area Network) is LARGER than a LAN (covers a city), not smaller. The hierarchy is LAN < MAN < WAN."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "LAN = Local Area Network covering small areas (i correct). WAN = Wide Area Network spanning large distances (ii correct). The Internet is the world's largest WAN connecting billions of devices globally (iii correct). Statement (i) is incorrect — MAN (Metropolitan Area Network) is LARGER than a LAN (covers a city), not smaller. The hierarchy is LAN < MAN < WAN."
     },
     {
       "id": "25",
       "subject": "A",
-      "questionText": "Consider the following statements about types of clauses:\n\n(i) 'Although he was tired' is a subordinate adverb clause.\n(ii) 'What she said' is a subordinate noun clause.\n(iii) 'The man who came yesterday' contains a subordinate adjective clause.\n(iv) 'She danced gracefully' is a subordinate clause.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about types of clauses:\n\n(i) 'Although he was tired' is a subordinate adverb clause.\n(ii) 'She danced gracefully' is a subordinate clause.\n(iii) 'What she said' is a subordinate noun clause.\n(iv) 'The man who came yesterday' contains a subordinate adjective clause.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "'Although he was tired' = adverb clause of concession (i correct). 'What she said' = noun clause functioning as subject/object (ii correct). 'Who came yesterday' = adjective/relative clause modifying 'man' (iii correct). 'She danced gracefully' (iv) is an INDEPENDENT (main) clause — it can stand alone. It is NOT subordinate."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "'Although he was tired' = adverb clause of concession (i correct). 'What she said' = noun clause functioning as subject/object (ii correct). 'Who came yesterday' = adjective/relative clause modifying 'man' (iii correct). 'She danced gracefully' (ii) is an INDEPENDENT (main) clause — it can stand alone. It is NOT subordinate."
     },
     {
       "id": "26",
@@ -346,8 +346,8 @@
       "subject": "B",
       "questionText": "Match the following rivers of India with the states where they originate:\n\nColumn I:\n(a) Ganga\n(b) Godavari\n(c) Narmada\n(d) Kaveri\n\nColumn II:\n(i) Karnataka (Talakaveri, Coorg)\n(ii) Uttarakhand (Gangotri glacier)\n(iii) Maharashtra (Trimbakeshwar, Nashik)\n(iv) Madhya Pradesh (Amarkantak)\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+        "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
         "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
       ],
@@ -372,8 +372,8 @@
       "subject": "D",
       "questionText": "A is the father of B. B is the sister of C. C is the husband of D. How is A related to D?",
       "options": [
-        "Father-in-law",
         "Father",
+        "Father-in-law",
         "Uncle",
         "Grandfather"
       ],
@@ -383,24 +383,24 @@
     {
       "id": "30",
       "subject": "B",
-      "questionText": "Consider the following statements about renewable energy in India:\n\n(i) India has the world's 4th largest installed renewable energy capacity.\n(ii) Solar energy is the fastest-growing renewable source in India.\n(iii) India targets 500 GW of non-fossil fuel capacity by 2030.\n(iv) India has completely eliminated coal-based power generation.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about renewable energy in India:\n\n(i) India has the world's 4th largest installed renewable energy capacity.\n(ii) Solar energy is the fastest-growing renewable source in India.\n(iii) India has completely eliminated coal-based power generation.\n(iv) India targets 500 GW of non-fossil fuel capacity by 2030.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "India ranks 4th globally in renewable energy capacity (i correct). Solar has been India's fastest-growing RE source with massive additions yearly (ii correct). 500 GW non-fossil fuel by 2030 is India's climate commitment (iii correct). Statement (iv) is incorrect — India still relies heavily on coal (~55% of electricity); coal has NOT been eliminated."
+      "correctAnswer": "(i), (ii) and (iv)",
+      "explanation": "India ranks 4th globally in renewable energy capacity (i correct). Solar has been India's fastest-growing RE source with massive additions yearly (ii correct). 500 GW non-fossil fuel by 2030 is India's climate commitment (iii correct). Statement (iii) is incorrect — India still relies heavily on coal (~55% of electricity); coal has NOT been eliminated."
     },
     {
       "id": "31",
       "subject": "E",
       "questionText": "Consider the following statements about MS Excel:\n\n(i) VLOOKUP searches for a value in the first column of a table and returns a value from a specified column.\n(ii) The IF function can be nested to test multiple conditions.\n(iii) Ctrl + ; inserts the current date in the active cell.\n(iv) Excel formulas begin with the # symbol.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -411,9 +411,9 @@
       "subject": "A",
       "questionText": "Fill in the blank with the correct preposition: She is averse __________ taking risks in her business.",
       "options": [
-        "to",
         "of",
         "from",
+        "to",
         "for"
       ],
       "correctAnswer": "to",
@@ -422,15 +422,15 @@
     {
       "id": "33",
       "subject": "D",
-      "questionText": "Consider the following statements:\n\n(i) If 5 workers can complete a task in 12 days, then 10 workers can complete it in 6 days.\n(ii) Work done = Number of workers × Number of days (assuming equal efficiency).\n(iii) Workers and time are directly proportional when work is constant.\n(iv) If work is doubled, time is doubled (workers constant).\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements:\n\n(i) Workers and time are directly proportional when work is constant.\n(ii) If 5 workers can complete a task in 12 days, then 10 workers can complete it in 6 days.\n(iii) Work done = Number of workers × Number of days (assuming equal efficiency).\n(iv) If work is doubled, time is doubled (workers constant).\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "5×12=60 worker-days; 10 workers: 60/10=6 days (i correct). Work = Workers × Days (ii correct). If work doubles with same workers, time doubles: 2W/(same workers) = 2×time (iv correct). Statement (iii) is incorrect — workers and time are INVERSELY proportional (more workers = less time), not directly proportional."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "5×12=60 worker-days; 10 workers: 60/10=6 days (i correct). Work = Workers × Days (ii correct). If work doubles with same workers, time doubles: 2W/(same workers) = 2×time (iv correct). Statement (i) is incorrect — workers and time are INVERSELY proportional (more workers = less time), not directly proportional."
     },
     {
       "id": "34",
@@ -450,10 +450,10 @@
       "subject": "A",
       "questionText": "Choose the sentence that uses the correct form of the verb:",
       "options": [
-        "Each of the contestants was given a certificate.",
         "Each of the contestants were given a certificate.",
         "Each of the contestants have been given a certificate.",
-        "Each of the contestants are given a certificate."
+        "Each of the contestants are given a certificate.",
+        "Each of the contestants was given a certificate."
       ],
       "correctAnswer": "Each of the contestants was given a certificate.",
       "explanation": "'Each' is a singular indefinite pronoun and requires a singular verb 'was'. 'Were' is plural — incorrect with 'each'. 'Have been' is plural. 'Are' is plural. Despite 'contestants' being plural, the subject is 'each' (singular)."
@@ -463,10 +463,10 @@
       "subject": "C",
       "questionText": "Match the following J&K tourist destinations with their famous features:\n\nColumn I:\n(a) Dal Lake\n(b) Gulmarg\n(c) Vaishno Devi\n(d) Pangong Tso\n\nColumn II:\n(i) High-altitude lake on India-China border (Ladakh)\n(ii) Houseboats and shikaras\n(iii) Hindu pilgrimage shrine in Trikuta Mountains\n(iv) Asia's highest gondola cable car\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
         "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)",
         "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
-        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)"
+        "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+        "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(iii), (d)-(i)",
       "explanation": "Dal Lake is famous for houseboats and shikaras (a-ii). Gulmarg has one of Asia's highest gondolas (b-iv). Vaishno Devi is a Hindu pilgrimage in Trikuta Mountains (c-iii). Pangong Tso is a high-altitude lake on the India-China LAC in Ladakh (d-i). Option B swaps Dal with Gulmarg. Option C mismatches Gulmarg with Vaishno Devi. Option D incorrectly pairs Dal with Pangong."
@@ -476,10 +476,10 @@
       "subject": "D",
       "questionText": "The following data shows marks scored by students:\n\nP → 78, 82, 75, 235\nQ → 85, 70, 80, 235\nR → 72, 88, 76, 236\nS → 80, 75, 82, 237\n\nWho scored the highest in Maths?",
       "options": [
-        "R",
         "P",
         "S",
-        "Q"
+        "Q",
+        "R"
       ],
       "correctAnswer": "R",
       "explanation": "P: 82 in Maths. Q: 70. R: 88 (highest). S: 75. R scored 88 in Maths — the highest among all students. P is second with 82. S has 75 and Q has 70."
@@ -487,23 +487,23 @@
     {
       "id": "38",
       "subject": "B",
-      "questionText": "Which of the following are functions of the Reserve Bank of India?\n\n(i) Issuing currency notes\n(ii) Regulating commercial banks\n(iii) Managing foreign exchange reserves\n(iv) Collecting income tax\n\nSelect the correct combination:",
+      "questionText": "Which of the following are functions of the Reserve Bank of India?\n\n(i) Issuing currency notes\n(ii) Collecting income tax\n(iii) Regulating commercial banks\n(iv) Managing foreign exchange reserves\n\nSelect the correct combination:",
       "options": [
+        "(i), (iii) and (iv) only",
         "(i), (ii) and (iii) only",
         "(i), (ii) and (iv) only",
-        "(i), (iii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "RBI issues currency notes (i correct). It regulates and supervises commercial banks (ii correct). It manages India's forex reserves (iii correct). Collecting income tax (iv) is the function of the Income Tax Department under the Ministry of Finance, NOT the RBI."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "RBI issues currency notes (i correct). It regulates and supervises commercial banks (ii correct). It manages India's forex reserves (iii correct). Collecting income tax (ii) is the function of the Income Tax Department under the Ministry of Finance, NOT the RBI."
     },
     {
       "id": "39",
       "subject": "A",
       "questionText": "Choose the word most nearly SIMILAR in meaning to 'PERFUNCTORY':",
       "options": [
-        "Superficial and without care",
         "Thorough and detailed",
+        "Superficial and without care",
         "Enthusiastic and eager",
         "Perfect and flawless"
       ],
@@ -528,8 +528,8 @@
       "subject": "D",
       "questionText": "If the angles of a triangle are in the ratio 2:3:4, what is the measure of the largest angle?",
       "options": [
-        "80°",
         "60°",
+        "80°",
         "90°",
         "100°"
       ],
@@ -554,8 +554,8 @@
       "subject": "A",
       "questionText": "Which of the following sentences use the correct form of the conditional?\n\n(i) If it rains, I will stay home. (First conditional — correct)\n(ii) If I were rich, I would travel the world. (Second conditional — correct)\n(iii) If she would have studied, she would have passed. (Third conditional — incorrect)\n(iv) Had they arrived earlier, they would have caught the train. (Third conditional inverted — correct)\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only",
         "All of the above"
       ],
@@ -567,9 +567,9 @@
       "subject": "E",
       "questionText": "Consider the following statements about ransomware:\n\n(i) It encrypts victims' files and demands payment for the decryption key.\n(ii) Regular offline backups can help recover data without paying ransom.\n(iii) WannaCry (2017) was a famous ransomware attack.\n(iv) Paying the ransom always guarantees complete data recovery.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -578,15 +578,15 @@
     {
       "id": "45",
       "subject": "C",
-      "questionText": "Consider the following statements about saffron cultivation in J&K:\n\n(i) Saffron is primarily grown in the Pampore area of Pulwama district.\n(ii) It is cultivated on the Karewa soils of the Kashmir Valley.\n(iii) J&K is the only state in India where saffron is commercially grown.\n(iv) India is the world's largest producer of saffron.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about saffron cultivation in J&K:\n\n(i) India is the world's largest producer of saffron.\n(ii) Saffron is primarily grown in the Pampore area of Pulwama district.\n(iii) It is cultivated on the Karewa soils of the Kashmir Valley.\n(iv) J&K is the only state in India where saffron is commercially grown.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
-        "(i), (iii) and (iv)",
+        "(ii), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii)",
-      "explanation": "Saffron cultivation is concentrated in Pampore/Pulwama (i correct). Karewa soils provide ideal conditions (ii correct). J&K is India's only significant saffron-producing region (iii correct). Statement (iv) is incorrect — IRAN is the world's largest saffron producer (over 90% of global production), not India. India ranks much lower."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Saffron cultivation is concentrated in Pampore/Pulwama (i correct). Karewa soils provide ideal conditions (ii correct). J&K is India's only significant saffron-producing region (iii correct). Statement (i) is incorrect — IRAN is the world's largest saffron producer (over 90% of global production), not India. India ranks much lower."
     },
     {
       "id": "46",
@@ -606,9 +606,9 @@
       "subject": "D",
       "questionText": "A number is increased by 20% and then decreased by 20%. The net change is:",
       "options": [
-        "4% decrease",
         "No change",
         "4% increase",
+        "4% decrease",
         "2% decrease"
       ],
       "correctAnswer": "4% decrease",
@@ -619,10 +619,10 @@
       "subject": "B",
       "questionText": "Match the following Constitutional Amendments with their key provisions:\n\nColumn I:\n(a) 42nd Amendment (1976)\n(b) 44th Amendment (1978)\n(c) 73rd Amendment (1992)\n(d) 86th Amendment (2002)\n\nColumn II:\n(i) Right to Education (Article 21A)\n(ii) Panchayati Raj institutions constitutionalized\n(iii) Called 'Mini Constitution' — added DPSP, Fundamental Duties\n(iv) Restored freedoms curtailed during Emergency\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
-        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)"
       ],
       "correctAnswer": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
       "explanation": "42nd Amendment is called 'Mini Constitution' (added Fundamental Duties, words to Preamble) (a-iii). 44th Amendment restored rights after Emergency (b-iv). 73rd Amendment constitutionalized Panchayati Raj (c-ii). 86th Amendment inserted Article 21A (Right to Education) (d-i). Option B swaps 42nd with 44th. Option C mismatches 44th with 73rd. Option D incorrectly pairs 42nd with RTE."
@@ -632,10 +632,10 @@
       "subject": "A",
       "questionText": "Choose the correct sentence:",
       "options": [
-        "The committee has submitted its report to the chairman.",
         "The committee have submitted their report to the chairman.",
         "The committee has submitted their report to the chairman.",
-        "The committee have submitted its report to the chairman."
+        "The committee have submitted its report to the chairman.",
+        "The committee has submitted its report to the chairman."
       ],
       "correctAnswer": "The committee has submitted its report to the chairman.",
       "explanation": "When a collective noun ('committee') acts as a single unit, it takes a singular verb ('has') and singular pronoun ('its'). 'Have...their' uses plural for both — acceptable in British English when members act individually, but the singular form is more standard when the committee acts as one body submitting one report. The mixed forms in C and D are inconsistent."
@@ -645,10 +645,10 @@
       "subject": "E",
       "questionText": "The following data shows the storage capacities and read speeds of different devices:\n\nHDD → 2 TB, 150 MB/s\nSSD → 1 TB, 550 MB/s\nUSB 3.0 → 128 GB, 100 MB/s\nSD Card → 64 GB, 90 MB/s\n\nWhich device offers the best speed-to-capacity ratio (speed per GB)?",
       "options": [
-        "SD Card",
         "SSD",
         "USB 3.0",
-        "HDD"
+        "HDD",
+        "SD Card"
       ],
       "correctAnswer": "SD Card",
       "explanation": "Speed/Capacity: HDD: 150/2000 = 0.075 MB/s per GB. SSD: 550/1000 = 0.55 MB/s per GB. USB: 100/128 = 0.78 MB/s per GB. SD Card: 90/64 = 1.41 MB/s per GB (highest). SD Card has the best speed-to-capacity ratio because its relatively high speed is divided by a small capacity, giving the highest ratio."

@@ -19,15 +19,15 @@
     {
       "id": "2",
       "subject": "E",
-      "questionText": "Consider the following statements about computer viruses:\n\n(i) A virus requires a host file or program to attach itself to.\n(ii) Viruses can spread through email attachments and infected USB drives.\n(iii) A virus can replicate independently without any human action.\n(iv) Boot sector viruses infect the startup files of a computer.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about computer viruses:\n\n(i) A virus can replicate independently without any human action.\n(ii) A virus requires a host file or program to attach itself to.\n(iii) Viruses can spread through email attachments and infected USB drives.\n(iv) Boot sector viruses infect the startup files of a computer.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(ii), (iii) and (iv)",
+        "(i), (ii) and (iii)",
+        "(i), (iii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — viruses need a host program to attach to. Statement (ii) is correct — common transmission methods include email attachments and USB drives. Statement (iv) is correct — boot sector viruses target the Master Boot Record. Statement (iii) is incorrect — viruses CANNOT replicate independently; they require human action (like running an infected file). Self-replicating malware without human action is a WORM, not a virus."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct — viruses need a host program to attach to. Statement (iii) is correct — common transmission methods include email attachments and USB drives. Statement (iv) is correct — boot sector viruses target the Master Boot Record. Statement (i) is incorrect — viruses CANNOT replicate independently; they require human action (like running an infected file). Self-replicating malware without human action is a WORM, not a virus."
     },
     {
       "id": "3",
@@ -47,8 +47,8 @@
       "subject": "E",
       "questionText": "Match the following types of malware with their primary characteristics:\n\nColumn I:\n(a) Trojan Horse\n(b) Worm\n(c) Ransomware\n(d) Adware\n\nColumn II:\n(i) Self-replicates across networks without a host\n(ii) Disguises itself as legitimate software\n(iii) Displays unwanted advertisements\n(iv) Encrypts files and demands payment for decryption\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+        "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)"
       ],
@@ -58,23 +58,23 @@
     {
       "id": "5",
       "subject": "E",
-      "questionText": "Which of the following are characteristics of a strong password?\n\n(i) Minimum 8 characters long\n(ii) Contains a mix of uppercase, lowercase, numbers, and special characters\n(iii) Uses the user's date of birth for easy remembrance\n(iv) Is different for each online account\n\nSelect the correct combination:",
+      "questionText": "Which of the following are characteristics of a strong password?\n\n(i) Minimum 8 characters long\n(ii) Uses the user's date of birth for easy remembrance\n(iii) Contains a mix of uppercase, lowercase, numbers, and special characters\n(iv) Is different for each online account\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
         "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv) only",
-      "explanation": "A strong password should be at least 8 characters (i correct), include mixed character types (ii correct), and be unique for each account (iv correct). Using date of birth (iii) is a WEAK practice — personal information is easily guessable by attackers through social engineering. Options B and C include the date of birth which weakens security."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "A strong password should be at least 8 characters (i correct), include mixed character types (ii correct), and be unique for each account (iv correct). Using date of birth (ii) is a WEAK practice — personal information is easily guessable by attackers through social engineering. Options B and C include the date of birth which weakens security."
     },
     {
       "id": "6",
       "subject": "E",
       "questionText": "The term 'phishing' in cyber security refers to:",
       "options": [
-        "Fraudulent attempts to obtain sensitive information by disguising as a trustworthy entity",
         "A technique to speed up internet browsing",
+        "Fraudulent attempts to obtain sensitive information by disguising as a trustworthy entity",
         "A method to recover deleted files from a hard disk",
         "A software tool to test network speed"
       ],
@@ -86,9 +86,9 @@
       "subject": "E",
       "questionText": "Consider the following statements about firewalls:\n\n(i) A firewall monitors and controls incoming and outgoing network traffic.\n(ii) Firewalls can be hardware-based, software-based, or both.\n(iii) A firewall can completely eliminate all cyber threats.\n(iv) Firewalls use predefined security rules to allow or block traffic.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iv)",
@@ -99,9 +99,9 @@
       "subject": "E",
       "questionText": "What is 'two-factor authentication' (2FA)?",
       "options": [
-        "A security process requiring two different forms of identification to access an account",
         "Using two different passwords for the same account",
         "Having two antivirus programs running simultaneously",
+        "A security process requiring two different forms of identification to access an account",
         "Logging into an account from two different devices"
       ],
       "correctAnswer": "A security process requiring two different forms of identification to access an account",
@@ -125,9 +125,9 @@
       "subject": "E",
       "questionText": "A 'Denial of Service' (DoS) attack works by:",
       "options": [
-        "Overwhelming a server with excessive traffic to make it unavailable to legitimate users",
         "Stealing passwords from a database",
         "Installing malware on individual computers",
+        "Overwhelming a server with excessive traffic to make it unavailable to legitimate users",
         "Intercepting private communications between two parties"
       ],
       "correctAnswer": "Overwhelming a server with excessive traffic to make it unavailable to legitimate users",
@@ -136,25 +136,25 @@
     {
       "id": "11",
       "subject": "E",
-      "questionText": "Consider the following statements about antivirus software:\n\n(i) It detects, prevents, and removes malicious software.\n(ii) Antivirus databases need regular updates to recognize new threats.\n(iii) Having antivirus software means a computer can never be infected.\n(iv) Antivirus can perform real-time scanning and scheduled scans.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about antivirus software:\n\n(i) It detects, prevents, and removes malicious software.\n(ii) Antivirus databases need regular updates to recognize new threats.\n(iii) Antivirus can perform real-time scanning and scheduled scans.\n(iv) Having antivirus software means a computer can never be infected.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — antivirus detects, prevents, and removes malware. Statement (ii) is correct — regular definition updates are needed for new virus signatures. Statement (iv) is correct — antivirus provides both real-time protection and scheduled/on-demand scans. Statement (iii) is incorrect — no antivirus guarantees 100% protection; zero-day threats and sophisticated attacks can bypass antivirus."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — antivirus detects, prevents, and removes malware. Statement (ii) is correct — regular definition updates are needed for new virus signatures. Statement (iii) is correct — antivirus provides both real-time protection and scheduled/on-demand scans. Statement (iv) is incorrect — no antivirus guarantees 100% protection; zero-day threats and sophisticated attacks can bypass antivirus."
     },
     {
       "id": "12",
       "subject": "E",
       "questionText": "Match the following security terms with their meanings:\n\nColumn I:\n(a) Encryption\n(b) Decryption\n(c) Authentication\n(d) Authorization\n\nColumn II:\n(i) Verifying the identity of a user\n(ii) Converting plaintext into coded form\n(iii) Determining what a verified user is allowed to do\n(iv) Converting coded data back to readable form\n\nChoose the correct match:",
       "options": [
-        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
         "(a)-(iv), (b)-(ii), (c)-(iii), (d)-(i)",
         "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
-        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)"
+        "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
+        "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)"
       ],
       "correctAnswer": "(a)-(ii), (b)-(iv), (c)-(i), (d)-(iii)",
       "explanation": "Encryption converts plaintext to coded/cipher text (a-ii). Decryption reverses encryption, converting coded data back to readable form (b-iv). Authentication verifies who the user is (c-i). Authorization determines what permissions a verified user has (d-iii). Option B swaps encryption with decryption. Option C mixes authentication with decryption. Option D incorrectly pairs encryption with identity verification."
@@ -164,10 +164,10 @@
       "subject": "E",
       "questionText": "Which of the following is the safest practice when using public WiFi?",
       "options": [
-        "Use a VPN (Virtual Private Network) to encrypt your connection",
         "Access online banking without any precautions",
         "Share your personal files over the network",
-        "Disable your device's firewall for faster speeds"
+        "Disable your device's firewall for faster speeds",
+        "Use a VPN (Virtual Private Network) to encrypt your connection"
       ],
       "correctAnswer": "Use a VPN (Virtual Private Network) to encrypt your connection",
       "explanation": "A VPN encrypts all data transmitted over public WiFi, protecting against eavesdropping and man-in-the-middle attacks. 'Access banking without precautions' is dangerous — public WiFi is easily sniffed. 'Share personal files' exposes data to others on the same network. 'Disable firewall' removes a security layer, increasing vulnerability."
@@ -175,15 +175,15 @@
     {
       "id": "14",
       "subject": "E",
-      "questionText": "Consider the following statements about 'social engineering' attacks:\n\n(i) They exploit human psychology rather than technical vulnerabilities.\n(ii) Pretexting involves creating a fabricated scenario to steal information.\n(iii) Social engineering can only happen online, never in person.\n(iv) Baiting involves leaving infected USB drives in public places.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about 'social engineering' attacks:\n\n(i) Social engineering can only happen online, never in person.\n(ii) They exploit human psychology rather than technical vulnerabilities.\n(iii) Pretexting involves creating a fabricated scenario to steal information.\n(iv) Baiting involves leaving infected USB drives in public places.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
+        "(ii), (iii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
+        "(i), (ii) and (iv)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — social engineering manipulates people psychologically. Statement (ii) is correct — pretexting creates false scenarios (e.g., impersonating IT support). Statement (iv) is correct — baiting uses tempting items like USB drives containing malware. Statement (iii) is incorrect — social engineering can happen in person (tailgating, impersonation), over phone (vishing), or through mail — not just online."
+      "correctAnswer": "(ii), (iii) and (iv)",
+      "explanation": "Statement (ii) is correct — social engineering manipulates people psychologically. Statement (iii) is correct — pretexting creates false scenarios (e.g., impersonating IT support). Statement (iv) is correct — baiting uses tempting items like USB drives containing malware. Statement (i) is incorrect — social engineering can happen in person (tailgating, impersonation), over phone (vishing), or through mail — not just online."
     },
     {
       "id": "15",
@@ -214,23 +214,23 @@
     {
       "id": "17",
       "subject": "E",
-      "questionText": "Which of the following are types of cyber crimes under the IT Act, 2000?\n\n(i) Unauthorized access to computer systems (hacking)\n(ii) Publishing obscene material electronically\n(iii) Identity theft and fraud using computers\n(iv) Downloading free software from official websites\n\nSelect the correct combination:",
+      "questionText": "Which of the following are types of cyber crimes under the IT Act, 2000?\n\n(i) Unauthorized access to computer systems (hacking)\n(ii) Downloading free software from official websites\n(iii) Publishing obscene material electronically\n(iv) Identity theft and fraud using computers\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii) only",
-        "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only",
+        "(i), (ii) and (iv) only",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "Hacking/unauthorized access (i), publishing obscene material online (ii), and identity theft/fraud (iii) are all cyber crimes under the IT Act. Downloading free software from OFFICIAL websites (iv) is perfectly legal and is not a crime. Options B, C, and D incorrectly include legitimate software downloading as a crime."
+      "correctAnswer": "(i), (iii) and (iv) only",
+      "explanation": "Hacking/unauthorized access (i), publishing obscene material online (iii), and identity theft/fraud (iv) are all cyber crimes under the IT Act. Downloading free software from OFFICIAL websites (ii) is perfectly legal and is not a crime. Options B, C, and D incorrectly include legitimate software downloading as a crime."
     },
     {
       "id": "18",
       "subject": "E",
       "questionText": "The 'Ctrl + Alt + Delete' key combination on a Windows computer can be used to:",
       "options": [
-        "Open Task Manager or security options screen",
         "Permanently delete all files on the computer",
+        "Open Task Manager or security options screen",
         "Install antivirus software automatically",
         "Create a backup of all data"
       ],
@@ -242,8 +242,8 @@
       "subject": "E",
       "questionText": "Consider the following statements about cookies in web browsers:\n\n(i) Cookies are small text files stored on the user's computer by websites.\n(ii) Cookies can remember login information and user preferences.\n(iii) All cookies are harmful malware that must be deleted immediately.\n(iv) Third-party cookies can track user browsing across multiple websites.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
@@ -255,9 +255,9 @@
       "subject": "E",
       "questionText": "What does the term 'malware' encompass?",
       "options": [
-        "Any software designed to harm, exploit, or otherwise compromise a computer system",
         "Only computer viruses and nothing else",
         "Legitimate software that has bugs",
+        "Any software designed to harm, exploit, or otherwise compromise a computer system",
         "Hardware components that malfunction"
       ],
       "correctAnswer": "Any software designed to harm, exploit, or otherwise compromise a computer system",
@@ -268,9 +268,9 @@
       "subject": "E",
       "questionText": "Match the following cyber attacks with their methods:\n\nColumn I:\n(a) Phishing\n(b) Brute Force Attack\n(c) Man-in-the-Middle\n(d) SQL Injection\n\nColumn II:\n(i) Trying every possible password combination\n(ii) Inserting malicious code into database queries\n(iii) Intercepting communication between two parties\n(iv) Sending fake emails to steal credentials\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(i), (b)-(iv), (c)-(ii), (d)-(iii)",
         "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+        "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
       ],
       "correctAnswer": "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
@@ -281,9 +281,9 @@
       "subject": "E",
       "questionText": "The purpose of a 'CAPTCHA' on websites is to:",
       "options": [
-        "Distinguish between human users and automated bots",
         "Speed up the loading of web pages",
         "Encrypt user passwords during login",
+        "Distinguish between human users and automated bots",
         "Block all pop-up advertisements"
       ],
       "correctAnswer": "Distinguish between human users and automated bots",
@@ -292,15 +292,15 @@
     {
       "id": "23",
       "subject": "E",
-      "questionText": "Consider the following statements about safe online banking practices:\n\n(i) Always type the bank's URL directly rather than clicking email links.\n(ii) Log out after every banking session and clear browser cache.\n(iii) Use public computers and shared WiFi for banking transactions.\n(iv) Enable SMS/email alerts for all banking transactions.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about safe online banking practices:\n\n(i) Always type the bank's URL directly rather than clicking email links.\n(ii) Log out after every banking session and clear browser cache.\n(iii) Enable SMS/email alerts for all banking transactions.\n(iv) Use public computers and shared WiFi for banking transactions.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
-        "All of the above"
+        "All of the above",
+        "(i), (ii) and (iii)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Typing URL directly avoids phishing links (i correct). Logging out and clearing cache prevents unauthorized access (ii correct). Enabling alerts helps detect unauthorized transactions immediately (iv correct). Statement (iii) is INCORRECT — using public computers and shared WiFi for banking is UNSAFE as keyloggers or network sniffers could capture credentials."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Typing URL directly avoids phishing links (i correct). Logging out and clearing cache prevents unauthorized access (ii correct). Enabling alerts helps detect unauthorized transactions immediately (iv correct). Statement (iv) is INCORRECT — using public computers and shared WiFi for banking is UNSAFE as keyloggers or network sniffers could capture credentials."
     },
     {
       "id": "24",
@@ -318,14 +318,14 @@
     {
       "id": "25",
       "subject": "E",
-      "questionText": "Which of the following file extensions are commonly associated with potentially dangerous email attachments?\n\n(i) .exe\n(ii) .pdf\n(iii) .bat\n(iv) .vbs\n\nSelect the correct combination:",
+      "questionText": "Which of the following file extensions are commonly associated with potentially dangerous email attachments?\n\n(i) .pdf\n(ii) .exe\n(iii) .bat\n(iv) .vbs\n\nSelect the correct combination:",
       "options": [
-        "(i), (iii) and (iv) only",
         "(i) and (ii) only",
         "(i), (ii) and (iii) only",
-        "All of the above"
+        "All of the above",
+        "(ii), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (iii) and (iv) only",
+      "correctAnswer": "(ii), (iii) and (iv) only",
       "explanation": ".exe (executable files) can run malicious code directly (i — dangerous). .bat (batch files) execute sequences of commands (iii — dangerous). .vbs (Visual Basic Script) can execute harmful scripts (iv — dangerous). .pdf files, while they CAN occasionally contain exploits, are generally considered safe documents and are not 'commonly' categorized as dangerous attachments in the same league as executables (ii — not typically dangerous)."
     },
     {
@@ -333,10 +333,10 @@
       "subject": "E",
       "questionText": "The Information Technology Act, 2000 in India primarily deals with:",
       "options": [
-        "Legal recognition of electronic documents and cyber crime regulation",
         "Manufacturing of computer hardware",
         "Licensing of internet service providers only",
-        "Patent registration for software products"
+        "Patent registration for software products",
+        "Legal recognition of electronic documents and cyber crime regulation"
       ],
       "correctAnswer": "Legal recognition of electronic documents and cyber crime regulation",
       "explanation": "The IT Act, 2000 provides legal recognition to electronic records, digital signatures, e-governance, and defines cyber crimes and their penalties. 'Manufacturing hardware' is covered by industrial policy. 'ISP licensing' is handled by TRAI/DoT. 'Patent registration' is under Patent Act — IT Act is specifically about electronic transactions and cyber law."
@@ -385,8 +385,8 @@
       "subject": "E",
       "questionText": "Which of the following are safe practices to protect against phishing?\n\n(i) Verify the sender's email address carefully before clicking links\n(ii) Look for spelling errors and generic greetings in emails\n(iii) Click on all links in emails to check if they are safe\n(iv) Report suspicious emails to the organization being impersonated\n\nSelect the correct combination:",
       "options": [
-        "(i), (ii) and (iv) only",
         "(i), (ii) and (iii) only",
+        "(i), (ii) and (iv) only",
         "(i), (iii) and (iv) only",
         "All of the above"
       ],
@@ -398,8 +398,8 @@
       "subject": "E",
       "questionText": "The term 'spamming' in the context of email refers to:",
       "options": [
-        "Sending large volumes of unsolicited messages to many recipients",
         "Sending encrypted emails to protect privacy",
+        "Sending large volumes of unsolicited messages to many recipients",
         "Organizing emails into folders automatically",
         "Deleting old emails from the inbox"
       ],
@@ -411,8 +411,8 @@
       "subject": "E",
       "questionText": "Match the following security measures with their purposes:\n\nColumn I:\n(a) Antivirus\n(b) Firewall\n(c) VPN\n(d) Biometric scanner\n\nColumn II:\n(i) Encrypts internet connection for private browsing\n(ii) Identifies users based on physical characteristics\n(iii) Filters network traffic based on security rules\n(iv) Detects and removes malicious software\n\nChoose the correct match:",
       "options": [
-        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+        "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
         "(a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)"
       ],
@@ -424,9 +424,9 @@
       "subject": "E",
       "questionText": "What is the primary purpose of a 'digital signature'?",
       "options": [
-        "To verify the authenticity and integrity of a digital document or message",
         "To encrypt all data on a hard drive",
         "To create a backup of digital files",
+        "To verify the authenticity and integrity of a digital document or message",
         "To compress files for faster transmission"
       ],
       "correctAnswer": "To verify the authenticity and integrity of a digital document or message",
@@ -435,24 +435,24 @@
     {
       "id": "34",
       "subject": "E",
-      "questionText": "Consider the following statements about 'identity theft':\n\n(i) It involves stealing someone's personal information to commit fraud.\n(ii) Stolen information can be used to open bank accounts or apply for loans.\n(iii) Identity theft can only occur through online methods.\n(iv) Shredding physical documents with personal information helps prevent it.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about 'identity theft':\n\n(i) It involves stealing someone's personal information to commit fraud.\n(ii) Stolen information can be used to open bank accounts or apply for loans.\n(iii) Shredding physical documents with personal information helps prevent it.\n(iv) Identity theft can only occur through online methods.\n\nWhich of the statements given above are correct?",
       "options": [
         "(i), (ii) and (iv)",
-        "(i), (ii) and (iii)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — identity theft involves stealing personal data for fraudulent purposes. Statement (ii) is correct — stolen identity can be used for financial fraud. Statement (iv) is correct — shredding documents prevents 'dumpster diving' identity theft. Statement (iii) is incorrect — identity theft also occurs offline through mail theft, stolen wallets, phone scams, and physical document theft."
+      "correctAnswer": "(i), (ii) and (iii)",
+      "explanation": "Statement (i) is correct — identity theft involves stealing personal data for fraudulent purposes. Statement (ii) is correct — stolen identity can be used for financial fraud. Statement (iii) is correct — shredding documents prevents 'dumpster diving' identity theft. Statement (iv) is incorrect — identity theft also occurs offline through mail theft, stolen wallets, phone scams, and physical document theft."
     },
     {
       "id": "35",
       "subject": "E",
       "questionText": "The 'Incognito mode' or 'Private browsing' in web browsers provides:",
       "options": [
-        "A session that doesn't save browsing history, cookies, or form data locally",
         "Complete anonymity and invisibility on the internet",
         "Protection against all malware and viruses",
+        "A session that doesn't save browsing history, cookies, or form data locally",
         "Faster internet connection speeds"
       ],
       "correctAnswer": "A session that doesn't save browsing history, cookies, or form data locally",
@@ -461,15 +461,15 @@
     {
       "id": "36",
       "subject": "E",
-      "questionText": "Which of the following are types of authentication factors?\n\n(i) Something you know (password, PIN)\n(ii) Something you have (smart card, phone)\n(iii) Something you are (fingerprint, iris)\n(iv) Something you think (random thoughts)\n\nSelect the correct combination:",
+      "questionText": "Which of the following are types of authentication factors?\n\n(i) Something you think (random thoughts)\n(ii) Something you know (password, PIN)\n(iii) Something you have (smart card, phone)\n(iv) Something you are (fingerprint, iris)\n\nSelect the correct combination:",
       "options": [
         "(i), (ii) and (iii) only",
-        "(i), (ii) and (iv) only",
-        "(ii), (iii) and (iv) only",
-        "All of the above"
+        "(i), (iii) and (iv) only",
+        "All of the above",
+        "(ii), (iii) and (iv) only"
       ],
-      "correctAnswer": "(i), (ii) and (iii) only",
-      "explanation": "The three standard authentication factors are: Knowledge — something you know like passwords (i correct). Possession — something you have like a token/phone (ii correct). Inherence — something you are like biometrics (iii correct). 'Something you think' (iv) is not a recognized authentication factor — thoughts cannot be reliably measured or verified for authentication."
+      "correctAnswer": "(ii), (iii) and (iv) only",
+      "explanation": "The three standard authentication factors are: Knowledge — something you know like passwords (i correct). Possession — something you have like a token/phone (ii correct). Inherence — something you are like biometrics (iii correct). 'Something you think' (i) is not a recognized authentication factor — thoughts cannot be reliably measured or verified for authentication."
     },
     {
       "id": "37",
@@ -489,10 +489,10 @@
       "subject": "E",
       "questionText": "What is 'vishing'?",
       "options": [
-        "Voice phishing — using phone calls to trick people into revealing personal information",
         "A type of computer virus that affects video files",
         "A technique for improving internet speed",
-        "A method of visual encryption for images"
+        "A method of visual encryption for images",
+        "Voice phishing — using phone calls to trick people into revealing personal information"
       ],
       "correctAnswer": "Voice phishing — using phone calls to trick people into revealing personal information",
       "explanation": "Vishing (voice + phishing) uses fraudulent phone calls to extract sensitive information by impersonating banks, government agencies, or tech support. 'Virus affecting videos' is not what vishing means. 'Improving internet speed' is unrelated. 'Visual encryption' is also unrelated — vishing specifically refers to phone-based social engineering."
@@ -500,15 +500,15 @@
     {
       "id": "39",
       "subject": "E",
-      "questionText": "Consider the following statements about 'ransomware':\n\n(i) It encrypts the victim's files and demands payment for the decryption key.\n(ii) WannaCry was a famous ransomware attack that affected computers worldwide in 2017.\n(iii) Paying the ransom always guarantees recovery of encrypted files.\n(iv) Regular offline backups can help recover from ransomware attacks.\n\nWhich of the statements given above are correct?",
+      "questionText": "Consider the following statements about 'ransomware':\n\n(i) It encrypts the victim's files and demands payment for the decryption key.\n(ii) Paying the ransom always guarantees recovery of encrypted files.\n(iii) WannaCry was a famous ransomware attack that affected computers worldwide in 2017.\n(iv) Regular offline backups can help recover from ransomware attacks.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
-        "(i), (iii) and (iv)",
-        "All of the above"
+        "(i), (ii) and (iv)",
+        "All of the above",
+        "(i), (iii) and (iv)"
       ],
-      "correctAnswer": "(i), (ii) and (iv)",
-      "explanation": "Statement (i) is correct — ransomware encrypts files and demands ransom. Statement (ii) is correct — WannaCry affected over 200,000 computers in 150 countries in May 2017. Statement (iv) is correct — offline backups allow restoration without paying ransom. Statement (iii) is incorrect — paying ransom does NOT guarantee file recovery; criminals may not provide the key, or the decryption may be flawed."
+      "correctAnswer": "(i), (iii) and (iv)",
+      "explanation": "Statement (i) is correct — ransomware encrypts files and demands ransom. Statement (iii) is correct — WannaCry affected over 200,000 computers in 150 countries in May 2017. Statement (iv) is correct — offline backups allow restoration without paying ransom. Statement (ii) is incorrect — paying ransom does NOT guarantee file recovery; criminals may not provide the key, or the decryption may be flawed."
     },
     {
       "id": "40",
@@ -528,8 +528,8 @@
       "subject": "E",
       "questionText": "Match the following security concepts with their descriptions:\n\nColumn I:\n(a) Phishing\n(b) Pharming\n(c) Smishing\n(d) Vishing\n\nColumn II:\n(i) Redirecting users to fake websites by manipulating DNS\n(ii) Using SMS/text messages for fraudulent purposes\n(iii) Using fake emails to steal information\n(iv) Using phone calls to extract sensitive data\n\nChoose the correct match:",
       "options": [
-        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
+        "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
         "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
         "(a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)"
       ],
@@ -541,8 +541,8 @@
       "subject": "E",
       "questionText": "What is the primary function of a 'spam filter'?",
       "options": [
-        "To automatically detect and separate unwanted bulk emails from legitimate ones",
         "To block all incoming emails",
+        "To automatically detect and separate unwanted bulk emails from legitimate ones",
         "To encrypt email attachments",
         "To speed up email delivery"
       ],
@@ -554,8 +554,8 @@
       "subject": "E",
       "questionText": "Consider the following statements about 'data privacy':\n\n(i) Personal data includes name, address, phone number, and financial information.\n(ii) Companies must take consent before collecting personal data under data protection laws.\n(iii) Personal data shared on social media is completely safe and cannot be misused.\n(iv) The right to be forgotten allows individuals to request deletion of their data.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iv)",
         "(i), (ii) and (iii)",
+        "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
         "All of the above"
       ],
@@ -567,8 +567,8 @@
       "subject": "E",
       "questionText": "Fill in the blank: A __________ is a decoy computer system designed to attract and study cyber attackers and their methods.",
       "options": [
-        "Honeypot",
         "Firewall",
+        "Honeypot",
         "Router",
         "Proxy server"
       ],
@@ -580,9 +580,9 @@
       "subject": "E",
       "questionText": "Which of the following is NOT a safe practice when using ATMs?",
       "options": [
-        "Sharing your PIN with bank employees when asked over phone",
         "Covering the keypad while entering your PIN",
         "Checking for any suspicious device attached to the card slot",
+        "Sharing your PIN with bank employees when asked over phone",
         "Using ATMs located in well-lit and secure areas"
       ],
       "correctAnswer": "Sharing your PIN with bank employees when asked over phone",
@@ -593,9 +593,9 @@
       "subject": "E",
       "questionText": "Consider the following statements about 'encryption algorithms':\n\n(i) AES (Advanced Encryption Standard) is widely used for symmetric encryption.\n(ii) RSA is an asymmetric encryption algorithm using public and private keys.\n(iii) Symmetric encryption uses the same key for encryption and decryption.\n(iv) Encryption algorithms are only used by government agencies.\n\nWhich of the statements given above are correct?",
       "options": [
-        "(i), (ii) and (iii)",
         "(i), (ii) and (iv)",
         "(i), (iii) and (iv)",
+        "(i), (ii) and (iii)",
         "All of the above"
       ],
       "correctAnswer": "(i), (ii) and (iii)",
@@ -606,9 +606,9 @@
       "subject": "E",
       "questionText": "The following data shows the number of cyber incidents reported in a country over 5 years:\n\n2019 → 200, 150, 50, 400\n2020 → 350, 200, 80, 630\n2021 → 500, 280, 120, 900\n2022 → 650, 320, 180, 1150\n2023 → 800, 400, 250, 1450\n\nWhich type of cyber incident showed the highest percentage increase from 2019 to 2023?",
       "options": [
-        "Data Breach",
         "Phishing",
         "Malware",
+        "Data Breach",
         "All increased equally"
       ],
       "correctAnswer": "Data Breach",
@@ -619,10 +619,10 @@
       "subject": "E",
       "questionText": "What is the purpose of a 'security patch'?",
       "options": [
-        "To fix a known vulnerability or security flaw in software",
         "To add new features to an operating system",
         "To increase the processing speed of a computer",
-        "To change the user interface design"
+        "To change the user interface design",
+        "To fix a known vulnerability or security flaw in software"
       ],
       "correctAnswer": "To fix a known vulnerability or security flaw in software",
       "explanation": "A security patch is a software update specifically designed to fix security vulnerabilities that could be exploited by attackers. 'Add new features' is a feature update, not a security patch. 'Increase speed' is a performance optimization. 'Change UI design' is a cosmetic update. Security patches specifically address security flaws."
@@ -632,10 +632,10 @@
       "subject": "E",
       "questionText": "Fill in the blank: The practice of tricking a person into holding a door open for an unauthorized person entering a secure area is called __________.",
       "options": [
-        "Tailgating",
         "Phishing",
         "Spoofing",
-        "Sniffing"
+        "Sniffing",
+        "Tailgating"
       ],
       "correctAnswer": "Tailgating",
       "explanation": "Tailgating (or piggybacking) is a physical security breach where an unauthorized person follows an authorized person into a restricted area. Phishing is email-based deception. Spoofing is impersonating another identity (IP/email). Sniffing is intercepting network data. Only tailgating refers to physical entry exploitation."
@@ -645,10 +645,10 @@
       "subject": "E",
       "questionText": "The following data shows the monthly cyber attack attempts on a company's network:\n\nJan → 450, 50, 500\nFeb → 380, 20, 400\nMar → 570, 30, 600\nApr → 680, 70, 750\n\nIn which month was the company's security most effective (highest percentage of attacks blocked)?",
       "options": [
-        "February",
         "March",
         "January",
-        "April"
+        "April",
+        "February"
       ],
       "correctAnswer": "February",
       "explanation": "Jan blocked: 450/500 = 90%. Feb blocked: 380/400 = 95%. Mar blocked: 570/600 = 95%. Apr blocked: 680/750 = 90.67%. February and March both have 95%, but February has a slightly cleaner ratio. Both Feb and Mar are 95%, making February correct as listed first. Option C (Jan) = 90%. Option D (Apr) = 90.67%."
