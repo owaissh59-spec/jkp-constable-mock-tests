@@ -546,6 +546,10 @@ lines.append("> **How to use each day:** In the morning, revise the topic(s)/sec
              "Then attempt the day's mock tests in order (Morning → Afternoon → Late). To generate a test, "
              'ask: *"Generate the next mock test."* The system picks the next ⬜ test below automatically.')
 lines.append(">")
+lines.append("> **Finding the test file:** the **Test #** column is the file's name prefix. Test `046` is "
+             "`046_test_A_...json`, test `137` is `137_test_...json`, and so on. Only one file ever begins "
+             "with a given three-digit number, so scroll to that number and you have the right test.")
+lines.append(">")
 lines.append(f"> **Total planned tests:** {len(tests)}  ·  ⬜ = pending  ·  ✅ = generated")
 lines.append("")
 lines.append("**Difficulty profiles:** `foundation` (easy-tilted) · `standard` (blueprint) · "
@@ -564,12 +568,16 @@ for day, phase, day_tests in plan_days:
         lines.append("")
     lines.append(f"### Day {day}")
     lines.append("")
-    lines.append("| # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |")
-    lines.append("|---|---------|---------|---------------|---|------------|------|--------|")
+    lines.append("| Test # | Session | Section | Topic / Focus | Q | Difficulty | Type | Status |")
+    lines.append("|--------|---------|---------|---------------|---|------------|------|--------|")
     for t in day_tests:
         subj_disp = t["subject"] if t["subject"] == "FULL" else f'{t["subject"]} — {t["subject_name"]}'
+        # Zero-padded to three digits so the number printed here is character-for
+        # -character the prefix of the test's filename (046 -> 046_test_A_...json).
+        # Unpadded numbers also sort wrongly in file managers, which put 100
+        # before 10 and 10 before 110.
         lines.append(
-            f'| {t["number"]} | {t["session"]} | {subj_disp} | {t["topics"]} | '
+            f'| {t["number"]:03d} | {t["session"]} | {subj_disp} | {t["topics"]} | '
             f'{t["total_questions"]} | {t["difficulty_profile"]} | {t["type"]} | ⬜ |'
         )
     lines.append("")

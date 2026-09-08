@@ -167,7 +167,10 @@ def main():
         # r'\| 30 \|' also matches the question-count column ("| 30 |") of
         # every other row, and re.sub would flip all of them. count=1 is a
         # second safeguard so at most one row is ever changed.
-        pattern = rf'^(\| {test_number} \|[^\n]*)\| ⬜ \|'
+        # The Test # column is zero-padded to three digits so that it matches the
+        # test's filename prefix exactly. Accept the unpadded form too, so this
+        # keeps working against an older plan that has not been regenerated.
+        pattern = rf'^(\| 0*{test_number} \|[^\n]*)\| ⬜ \|'
         replacement = rf'\1| ✅ |'
         new_content = re.sub(pattern, replacement, content, count=1, flags=re.MULTILINE)
 
